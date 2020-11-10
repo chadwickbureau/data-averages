@@ -1,0 +1,78 @@
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "404851"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "287858"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "265982"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "263965"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "225500"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "222331"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "221176"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "116264"

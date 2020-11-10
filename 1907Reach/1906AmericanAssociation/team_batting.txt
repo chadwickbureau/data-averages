@@ -1,0 +1,158 @@
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5270"
+B_R = "565"
+B_H = "1454"
+B_TB = "1876"
+B_2B = "180"
+B_3B = "100"
+B_HR = "14"
+B_SH = "130"
+B_SB = "210"
+B_AVG = ".276"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4882"
+B_R = "654"
+B_H = "1336"
+B_TB = "1741"
+B_2B = "232"
+B_3B = "49"
+B_HR = "25"
+B_SH = "149"
+B_SB = "141"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5003"
+B_R = "649"
+B_H = "1340"
+B_TB = "1745"
+B_2B = "249"
+B_3B = "45"
+B_HR = "22"
+B_SH = "150"
+B_SB = "210"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5131"
+B_R = "714"
+B_H = "1330"
+B_TB = "1787"
+B_2B = "223"
+B_3B = "72"
+B_HR = "30"
+B_SH = "124"
+B_SB = "148"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5111"
+B_R = "611"
+B_H = "1310"
+B_TB = "1703"
+B_2B = "226"
+B_3B = "58"
+B_HR = "17"
+B_SH = "149"
+B_SB = "215"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4945"
+B_R = "564"
+B_H = "1232"
+B_TB = "1574"
+B_2B = "169"
+B_3B = "61"
+B_HR = "17"
+B_SH = "199"
+B_SB = "183"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5106"
+B_R = "579"
+B_H = "1269"
+B_TB = "1653"
+B_2B = "175"
+B_3B = "73"
+B_HR = "21"
+B_SH = "180"
+B_SB = "153"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1906"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5188"
+B_R = "506"
+B_H = "1213"
+B_TB = "1491"
+B_2B = "128"
+B_3B = "59"
+B_HR = "14"
+B_SH = "119"
+B_SB = "169"
+B_AVG = ".234"

@@ -1,0 +1,1006 @@
+[[person]]
+name.last = "Kimball"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "138"
+P_H = "41"
+P_R = "23"
+P_HP = "1"
+P_BB = "12"
+P_SO = "18"
+P_WP = "3"
+P_BK = "0"
+P_W = "3"
+P_L = "2"
+P_AVG = ".297"
+
+
+[[person]]
+name.last = "Barberich"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "171"
+P_H = "45"
+P_R = "26"
+P_HP = "1"
+P_BB = "22"
+P_SO = "14"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "3"
+P_AVG = ".263"
+
+
+[[person]]
+name.last = "Priest"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "417"
+P_H = "74"
+P_R = "29"
+P_HP = "11"
+P_BB = "46"
+P_SO = "41"
+P_WP = "3"
+P_BK = "1"
+P_W = "13"
+P_L = "1"
+P_AVG = ".177"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_AB = "930"
+P_H = "216"
+P_R = "102"
+P_HP = "11"
+P_BB = "77"
+P_SO = "118"
+P_WP = "3"
+P_BK = "2"
+P_W = "10"
+P_L = "16"
+P_AVG = ".232"
+
+
+[[person]]
+name.last = "Turner"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_AB = "745"
+P_H = "197"
+P_R = "125"
+P_HP = "10"
+P_BB = "79"
+P_SO = "48"
+P_WP = "9"
+P_BK = "0"
+P_W = "4"
+P_L = "22"
+P_AVG = ".262"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_AB = "690"
+P_H = "212"
+P_R = "124"
+P_HP = "4"
+P_BB = "47"
+P_SO = "46"
+P_WP = "3"
+P_BK = "0"
+P_W = "4"
+P_L = "17"
+P_AVG = ".307"
+
+
+[[person]]
+name.last = "Parson"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_AB = "832"
+P_H = "225"
+P_R = "108"
+P_HP = "15"
+P_BB = "105"
+P_SO = "80"
+P_WP = "4"
+P_BK = "1"
+P_W = "10"
+P_L = "15"
+P_AVG = ".270"
+
+
+[[person]]
+name.last = "Buckles"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_AB = "887"
+P_H = "217"
+P_R = "120"
+P_HP = "11"
+P_BB = "90"
+P_SO = "158"
+P_WP = "10"
+P_BK = "0"
+P_W = "11"
+P_L = "19"
+P_AVG = ".245"
+
+
+[[person]]
+name.last = "Matteson"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_AB = "526"
+P_H = "118"
+P_R = "59"
+P_HP = "2"
+P_BB = "50"
+P_SO = "117"
+P_WP = "6"
+P_BK = "0"
+P_W = "13"
+P_L = "8"
+P_AVG = ".224"
+
+
+[[person]]
+name.last = "Jarmon"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_AB = "648"
+P_H = "156"
+P_R = "85"
+P_HP = "6"
+P_BB = "54"
+P_SO = "64"
+P_WP = "6"
+P_BK = "2"
+P_W = "7"
+P_L = "17"
+P_AVG = ".241"
+
+
+[[person]]
+name.last = "Fullerton"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_AB = "434"
+P_H = "117"
+P_R = "59"
+P_HP = "3"
+P_BB = "33"
+P_SO = "34"
+P_WP = "3"
+P_BK = "0"
+P_W = "3"
+P_L = "10"
+P_AVG = ".270"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_AB = "933"
+P_H = "209"
+P_R = "55"
+P_HP = "5"
+P_BB = "56"
+P_SO = "137"
+P_WP = "7"
+P_BK = "0"
+P_W = "18"
+P_L = "11"
+P_AVG = ".224"
+
+
+[[person]]
+name.last = "Sherry"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_AB = "551"
+P_H = "125"
+P_R = "45"
+P_HP = "1"
+P_BB = "41"
+P_SO = "56"
+P_WP = "0"
+P_BK = "0"
+P_W = "11"
+P_L = "8"
+P_AVG = ".227"
+
+
+[[person]]
+name.last = "Oberlin"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_AB = "991"
+P_H = "249"
+P_R = "103"
+P_HP = "10"
+P_BB = "93"
+P_SO = "130"
+P_WP = "3"
+P_BK = "0"
+P_W = "18"
+P_L = "14"
+P_AVG = ".251"
+
+
+[[person]]
+name.last = "Brower"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_AB = "635"
+P_H = "155"
+P_R = "70"
+P_HP = "7"
+P_BB = "46"
+P_SO = "66"
+P_WP = "3"
+P_BK = "0"
+P_W = "13"
+P_L = "5"
+P_AVG = ".244"
+
+
+[[person]]
+name.last = "Buck"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_AB = "588"
+P_H = "148"
+P_R = "69"
+P_HP = "5"
+P_BB = "53"
+P_SO = "66"
+P_WP = "3"
+P_BK = "1"
+P_W = "10"
+P_L = "7"
+P_AVG = ".252"
+
+
+[[person]]
+name.last = "Frill"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_AB = "825"
+P_H = "248"
+P_R = "147"
+P_HP = "14"
+P_BB = "58"
+P_SO = "78"
+P_WP = "3"
+P_BK = "0"
+P_W = "8"
+P_L = "17"
+P_AVG = ".301"
+
+
+[[person]]
+name.last = "Steel"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "150"
+P_H = "57"
+P_R = "30"
+P_HP = "1"
+P_BB = "12"
+P_SO = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "3"
+P_AVG = ".380"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "252"
+P_H = "62"
+P_R = "31"
+P_HP = "1"
+P_BB = "26"
+P_SO = "26"
+P_WP = "1"
+P_BK = "0"
+P_W = "4"
+P_L = "4"
+P_AVG = ".246"
+
+
+[[person]]
+name.last = "Friel"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_AB = "1000"
+P_H = "254"
+P_R = "124"
+P_HP = "16"
+P_BB = "78"
+P_SO = "105"
+P_WP = "2"
+P_BK = "0"
+P_W = "14"
+P_L = "15"
+P_AVG = ".234"
+
+
+[[person]]
+name.last = "Hewes"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "193"
+P_H = "60"
+P_R = "34"
+P_HP = "2"
+P_BB = "18"
+P_SO = "10"
+P_WP = "2"
+P_BK = "0"
+P_W = "3"
+P_L = "3"
+P_AVG = ".311"
+
+
+[[person]]
+name.last = "Rapp"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_AB = "916"
+P_H = "214"
+P_R = "95"
+P_HP = "9"
+P_BB = "52"
+P_SO = "89"
+P_WP = "8"
+P_BK = "1"
+P_W = "20"
+P_L = "8"
+P_AVG = ".234"
+
+
+[[person]]
+name.last = "Reiger"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_AB = "739"
+P_H = "182"
+P_R = "96"
+P_HP = "14"
+P_BB = "66"
+P_SO = "65"
+P_WP = "6"
+P_BK = "1"
+P_W = "13"
+P_L = "11"
+P_AVG = ".246"
+
+
+[[person]]
+name.last = "Harned"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_AB = "861"
+P_H = "203"
+P_R = "80"
+P_HP = "5"
+P_BB = "28"
+P_SO = "93"
+P_WP = "0"
+P_BK = "0"
+P_W = "17"
+P_L = "9"
+P_AVG = ".236"
+
+
+[[person]]
+name.last = "Frock"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_AB = "844"
+P_H = "215"
+P_R = "84"
+P_HP = "4"
+P_BB = "35"
+P_SO = "68"
+P_WP = "1"
+P_BK = "0"
+P_W = "16"
+P_L = "8"
+P_AVG = ".255"
+
+
+[[person]]
+name.last = "Sitton"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_AB = "664"
+P_H = "173"
+P_R = "87"
+P_HP = "4"
+P_BB = "47"
+P_SO = "66"
+P_WP = "2"
+P_BK = "0"
+P_W = "16"
+P_L = "8"
+P_AVG = ".269"
+
+
+[[person]]
+name.last = "Gaiser"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_AB = "705"
+P_H = "210"
+P_R = "84"
+P_HP = "5"
+P_BB = "46"
+P_SO = "61"
+P_WP = "3"
+P_BK = "1"
+P_W = "8"
+P_L = "9"
+P_AVG = ".298"
+
+
+[[person]]
+name.last = "Dessau"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_AB = "1005"
+P_H = "242"
+P_R = "111"
+P_HP = "12"
+P_BB = "99"
+P_SO = "121"
+P_WP = "7"
+P_BK = "0"
+P_W = "21"
+P_L = "11"
+P_AVG = ".241"
+
+
+[[person]]
+name.last = "Caporel"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_AB = "1016"
+P_H = "232"
+P_R = "95"
+P_HP = "13"
+P_BB = "64"
+P_SO = "150"
+P_WP = "8"
+P_BK = "1"
+P_W = "20"
+P_L = "11"
+P_AVG = ".210"
+
+
+[[person]]
+name.last = "Doyle"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_AB = "533"
+P_H = "116"
+P_R = "56"
+P_HP = "1"
+P_BB = "32"
+P_SO = "72"
+P_WP = "2"
+P_BK = "0"
+P_W = "11"
+P_L = "4"
+P_AVG = ".218"
+
+
+[[person]]
+name.last = "Nicholson"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_AB = "813"
+P_H = "231"
+P_R = "118"
+P_HP = "8"
+P_BB = "54"
+P_SO = "77"
+P_WP = "3"
+P_BK = "1"
+P_W = "12"
+P_L = "13"
+P_AVG = ".284"
+
+
+[[person]]
+name.last = "Creager"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_AB = "234"
+P_H = "77"
+P_R = "37"
+P_HP = "3"
+P_BB = "22"
+P_SO = "15"
+P_WP = "0"
+P_BK = "0"
+P_W = "2"
+P_L = "5"
+P_AVG = ".329"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_AB = "317"
+P_H = "90"
+P_R = "53"
+P_HP = "1"
+P_BB = "29"
+P_SO = "44"
+P_WP = "2"
+P_BK = "0"
+P_W = "6"
+P_L = "6"
+P_AVG = ".284"
+
+
+[[person]]
+name.last = "McGinley"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_AB = "450"
+P_H = "117"
+P_R = "50"
+P_HP = "0"
+P_BB = "23"
+P_SO = "34"
+P_WP = "5"
+P_BK = "0"
+P_W = "7"
+P_L = "7"
+P_AVG = ".260"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_AB = "832"
+P_H = "193"
+P_R = "99"
+P_HP = "11"
+P_BB = "85"
+P_SO = "111"
+P_WP = "4"
+P_BK = "0"
+P_W = "12"
+P_L = "12"
+P_AVG = ".232"
+
+
+[[person]]
+name.last = "Bretskie"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_AB = "830"
+P_H = "217"
+P_R = "110"
+P_HP = "4"
+P_BB = "74"
+P_SO = "82"
+P_WP = "6"
+P_BK = "1"
+P_W = "11"
+P_L = "15"
+P_AVG = ".261"
+
+
+[[person]]
+name.last = "Meyers"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_AB = "774"
+P_H = "215"
+P_R = "111"
+P_HP = "1"
+P_BB = "78"
+P_SO = "63"
+P_WP = "1"
+P_BK = "0"
+P_W = "10"
+P_L = "16"
+P_AVG = ".278"
+
+
+[[person]]
+name.last = "Meehan"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "623"
+P_H = "113"
+P_R = "54"
+P_HP = "8"
+P_BB = "63"
+P_SO = "87"
+P_WP = "6"
+P_BK = "1"
+P_W = "11"
+P_L = "9"
+P_AVG = ".230"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_AB = "758"
+P_H = "184"
+P_R = "83"
+P_HP = "6"
+P_BB = "50"
+P_SO = "80"
+P_WP = "2"
+P_BK = "2"
+P_W = "16"
+P_L = "11"
+P_AVG = ".243"
+
+
+[[person]]
+name.last = "Cornwell"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_AB = "793"
+P_H = "205"
+P_R = "96"
+P_HP = "6"
+P_BB = "35"
+P_SO = "108"
+P_WP = "1"
+P_BK = "0"
+P_W = "12"
+P_L = "8"
+P_AVG = ".259"
+
+
+[[person]]
+name.last = "Duchesnil"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_AB = "735"
+P_H = "191"
+P_R = "72"
+P_HP = "4"
+P_BB = "51"
+P_SO = "74"
+P_WP = "3"
+P_BK = "1"
+P_W = "12"
+P_L = "8"
+P_AVG = ".260"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_AB = "628"
+P_H = "137"
+P_R = "76"
+P_HP = "12"
+P_BB = "73"
+P_SO = "115"
+P_WP = "7"
+P_BK = "1"
+P_W = "7"
+P_L = "10"
+P_AVG = ".218"
+
+
+[[person]]
+name.last = "Smithson"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_AB = "198"
+P_H = "53"
+P_R = "38"
+P_HP = "4"
+P_BB = "37"
+P_SO = "36"
+P_WP = "1"
+P_BK = "1"
+P_W = "1"
+P_L = "5"
+P_AVG = ".268"
+
+
+[[person]]
+name.last = "Fox"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_AB = "492"
+P_H = "116"
+P_R = "43"
+P_HP = "1"
+P_BB = "26"
+P_SO = "46"
+P_WP = "3"
+P_BK = "0"
+P_W = "11"
+P_L = "5"
+P_AVG = ".236"
+
+
+[[person]]
+name.last = "Winners"
+[[person.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_AB = "502"
+P_H = "125"
+P_R = "73"
+P_HP = "1"
+P_BB = "28"
+P_SO = "48"
+P_WP = "3"
+P_BK = "0"
+P_W = "8"
+P_L = "8"
+P_AVG = ".249"

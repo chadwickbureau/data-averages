@@ -1,0 +1,3375 @@
+[[person]]
+name.last = "Atkins"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+P_G = "3"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "22"
+[person.playing.totals]
+P_G = "25"
+P_GS = "20"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "11"
+P_PCT = ".154"
+P_IP = "144"
+P_H = "156"
+P_HR = "16"
+P_R = "91"
+P_ER = "84"
+P_BB = "79"
+P_IBB = "9"
+P_SO = "69"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "5.25"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barnes"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "31"
+P_GS = "27"
+P_CG = "14"
+P_SHO = "6"
+P_W = "12"
+P_L = "10"
+P_PCT = ".545"
+P_IP = "205"
+P_H = "153"
+P_HR = "9"
+P_R = "66"
+P_ER = "55"
+P_BB = "93"
+P_IBB = "10"
+P_SO = "165"
+P_HP = "7"
+P_WP = "5"
+P_ERA = "2.41"
+P_BK = "0"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Bearden"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "34"
+P_GS = "12"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "112"
+P_H = "141"
+P_HR = "18"
+P_R = "71"
+P_ER = "66"
+P_BB = "39"
+P_IBB = "5"
+P_SO = "33"
+P_HP = "0"
+P_WP = "3"
+P_ERA = "5.30"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Benedict"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "29"
+[[person.playing.split]]
+team.name = "Omaha"
+P_G = "6"
+[person.playing.totals]
+P_G = "35"
+P_GS = "31"
+P_CG = "16"
+P_SHO = "0"
+P_W = "12"
+P_L = "16"
+P_PCT = ".429"
+P_IP = "240"
+P_H = "282"
+P_HR = "18"
+P_R = "141"
+P_ER = "125"
+P_BB = "104"
+P_IBB = "8"
+P_SO = "106"
+P_HP = "1"
+P_WP = "8"
+P_ERA = "4.69"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Black"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "13"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "50"
+P_H = "50"
+P_HR = "3"
+P_R = "25"
+P_ER = "22"
+P_BB = "21"
+P_IBB = "0"
+P_SO = "21"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.96"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Blyzka"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "22"
+P_GS = "10"
+P_CG = "2"
+P_SHO = "0"
+P_W = "7"
+P_L = "3"
+P_PCT = ".700"
+P_IP = "83"
+P_H = "85"
+P_HR = "7"
+P_R = "52"
+P_ER = "49"
+P_BB = "38"
+P_IBB = "4"
+P_SO = "40"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "5.31"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bowman"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "10"
+[person.playing.totals]
+P_G = "15"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "30"
+P_H = "44"
+P_HR = "5"
+P_R = "25"
+P_ER = "24"
+P_BB = "14"
+P_IBB = "2"
+P_SO = "18"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "7.20"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Boyer"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "26"
+P_GS = "11"
+P_CG = "4"
+P_SHO = "0"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "90"
+P_H = "93"
+P_HR = "8"
+P_R = "42"
+P_ER = "37"
+P_BB = "41"
+P_IBB = "6"
+P_SO = "35"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.70"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Burnside"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "20"
+P_GS = "17"
+P_CG = "9"
+P_SHO = "4"
+P_W = "10"
+P_L = "5"
+P_PCT = ".667"
+P_IP = "131"
+P_H = "101"
+P_HR = "4"
+P_R = "42"
+P_ER = "36"
+P_BB = "52"
+P_IBB = "5"
+P_SO = "114"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "2.47"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Byrd"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "39"
+P_H = "56"
+P_HR = "2"
+P_R = "23"
+P_ER = "20"
+P_BB = "10"
+P_IBB = "0"
+P_SO = "19"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "4.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cade"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "6"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "33"
+P_H = "25"
+P_HR = "4"
+P_R = "14"
+P_ER = "14"
+P_BB = "16"
+P_IBB = "1"
+P_SO = "16"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "3.82"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cheney"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "25"
+P_GS = "24"
+P_CG = "16"
+P_SHO = "2"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "182"
+P_H = "151"
+P_HR = "9"
+P_R = "60"
+P_ER = "53"
+P_BB = "61"
+P_IBB = "3"
+P_SO = "175"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "2.62"
+P_BK = "1"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Clarke"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "21"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "80"
+P_H = "85"
+P_HR = "10"
+P_R = "42"
+P_ER = "39"
+P_BB = "38"
+P_IBB = "5"
+P_SO = "22"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "4.39"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Constable"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "10"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "45"
+P_H = "56"
+P_HR = "2"
+P_R = "28"
+P_ER = "24"
+P_BB = "18"
+P_IBB = "0"
+P_SO = "26"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "4.80"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Corwin"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "15"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "9"
+P_PCT = ".308"
+P_IP = "107"
+P_H = "113"
+P_HR = "16"
+P_R = "76"
+P_ER = "68"
+P_BB = "48"
+P_IBB = "4"
+P_SO = "52"
+P_HP = "0"
+P_WP = "5"
+P_ERA = "5.72"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "26"
+P_GS = "11"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+P_IP = "82"
+P_H = "101"
+P_HR = "12"
+P_R = "74"
+P_ER = "64"
+P_BB = "54"
+P_IBB = "4"
+P_SO = "40"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "7.02"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Daniel"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "37"
+P_GS = "29"
+P_CG = "10"
+P_SHO = "3"
+P_W = "9"
+P_L = "12"
+P_PCT = ".429"
+P_IP = "225"
+P_H = "215"
+P_HR = "21"
+P_R = "96"
+P_ER = "85"
+P_BB = "62"
+P_IBB = "6"
+P_SO = "114"
+P_HP = "1"
+P_WP = "7"
+P_ERA = "3.40"
+P_BK = "0"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "21"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "36"
+P_H = "42"
+P_HR = "3"
+P_R = "19"
+P_ER = "14"
+P_BB = "17"
+P_IBB = "1"
+P_SO = "16"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DePalo"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "34"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "1"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "93"
+P_H = "92"
+P_HR = "5"
+P_R = "52"
+P_ER = "49"
+P_BB = "35"
+P_IBB = "3"
+P_SO = "55"
+P_HP = "5"
+P_WP = "1"
+P_ERA = "4.74"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Donnelly"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "25"
+P_GS = "12"
+P_CG = "3"
+P_SHO = "0"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "77"
+P_H = "92"
+P_HR = "12"
+P_R = "52"
+P_ER = "49"
+P_BB = "34"
+P_IBB = "1"
+P_SO = "32"
+P_HP = "3"
+P_WP = "0"
+P_ERA = "5.73"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DuFour"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "40"
+P_GS = "14"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "9"
+P_PCT = ".308"
+P_IP = "132"
+P_H = "144"
+P_HR = "16"
+P_R = "87"
+P_ER = "79"
+P_BB = "58"
+P_IBB = "3"
+P_SO = "75"
+P_HP = "5"
+P_WP = "7"
+P_ERA = "5.39"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Duren"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "18"
+P_GS = "14"
+P_CG = "10"
+P_SHO = "2"
+P_W = "13"
+P_L = "2"
+P_PCT = ".867"
+P_IP = "114"
+P_H = "88"
+P_HR = "8"
+P_R = "43"
+P_ER = "40"
+P_BB = "33"
+P_IBB = "1"
+P_SO = "116"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "3.16"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Flanigan"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "50"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "1"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "110"
+P_H = "114"
+P_HR = "10"
+P_R = "61"
+P_ER = "52"
+P_BB = "32"
+P_IBB = "3"
+P_SO = "100"
+P_HP = "4"
+P_WP = "0"
+P_ERA = "4.25"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Flowers"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "24"
+P_GS = "22"
+P_CG = "10"
+P_SHO = "1"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "162"
+P_H = "164"
+P_HR = "9"
+P_R = "78"
+P_ER = "64"
+P_BB = "40"
+P_IBB = "9"
+P_SO = "99"
+P_HP = "2"
+P_WP = "6"
+P_ERA = "3.56"
+P_BK = "1"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Freeman"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "24"
+P_GS = "24"
+P_CG = "12"
+P_SHO = "2"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+P_IP = "164"
+P_H = "137"
+P_HR = "8"
+P_R = "75"
+P_ER = "63"
+P_BB = "88"
+P_IBB = "3"
+P_SO = "113"
+P_HP = "9"
+P_WP = "3"
+P_ERA = "3.46"
+P_BK = "1"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Gabler"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "35"
+P_GS = "20"
+P_CG = "10"
+P_SHO = "1"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+P_IP = "183"
+P_H = "191"
+P_HR = "20"
+P_R = "90"
+P_ER = "79"
+P_BB = "46"
+P_IBB = "5"
+P_SO = "82"
+P_HP = "10"
+P_WP = "3"
+P_ERA = "3.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gibson"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "10"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "42"
+P_H = "46"
+P_HR = "5"
+P_R = "26"
+P_ER = "20"
+P_BB = "27"
+P_IBB = "0"
+P_SO = "25"
+P_HP = "2"
+P_WP = "7"
+P_ERA = "4.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gorin"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "27"
+P_GS = "15"
+P_CG = "2"
+P_SHO = "0"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "116"
+P_H = "125"
+P_HR = "17"
+P_R = "75"
+P_ER = "66"
+P_BB = "44"
+P_IBB = "1"
+P_SO = "72"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "5.12"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Hanlon"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "19"
+P_GS = "15"
+P_CG = "5"
+P_SHO = "1"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "112"
+P_H = "121"
+P_HR = "8"
+P_R = "48"
+P_ER = "43"
+P_BB = "24"
+P_IBB = "2"
+P_SO = "32"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "3.46"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Harrington"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "20"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "47"
+P_H = "52"
+P_HR = "5"
+P_R = "27"
+P_ER = "27"
+P_BB = "25"
+P_IBB = "1"
+P_SO = "27"
+P_HP = "0"
+P_WP = "0"
+P_ERA = "5.17"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hoskins"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "40"
+P_GS = "12"
+P_CG = "6"
+P_SHO = "0"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+P_IP = "148"
+P_H = "176"
+P_HR = "20"
+P_R = "99"
+P_ER = "83"
+P_BB = "47"
+P_IBB = "2"
+P_SO = "74"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "5.05"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Host"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "8"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "1"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "42"
+P_H = "42"
+P_HR = "3"
+P_R = "28"
+P_ER = "25"
+P_BB = "28"
+P_IBB = "1"
+P_SO = "20"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "5.36"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Jay"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "34"
+P_GS = "32"
+P_CG = "18"
+P_SHO = "3"
+P_W = "17"
+P_L = "10"
+P_PCT = ".630"
+P_IP = "223"
+P_H = "196"
+P_HR = "11"
+P_R = "94"
+P_ER = "82"
+P_BB = "87"
+P_IBB = "1"
+P_SO = "199"
+P_HP = "8"
+P_WP = "3"
+P_ERA = "3.31"
+P_BK = "0"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "G."
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "33"
+P_GS = "24"
+P_CG = "7"
+P_SHO = "1"
+P_W = "9"
+P_L = "14"
+P_PCT = ".391"
+P_IP = "166"
+P_H = "193"
+P_HR = "15"
+P_R = "103"
+P_ER = "93"
+P_BB = "45"
+P_IBB = "11"
+P_SO = "97"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "5.04"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "R."
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "35"
+P_GS = "9"
+P_CG = "8"
+P_SHO = "1"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "142"
+P_H = "182"
+P_HR = "11"
+P_R = "92"
+P_ER = "76"
+P_BB = "68"
+P_IBB = "10"
+P_SO = "76"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "4.82"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kucab"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "39"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "71"
+P_H = "101"
+P_HR = "10"
+P_R = "52"
+P_ER = "49"
+P_BB = "24"
+P_IBB = "6"
+P_SO = "27"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "6.21"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Latman"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "34"
+P_GS = "29"
+P_CG = "11"
+P_SHO = "2"
+P_W = "13"
+P_L = "13"
+P_PCT = ".500"
+P_IP = "221"
+P_H = "202"
+P_HR = "18"
+P_R = "102"
+P_ER = "97"
+P_BB = "97"
+P_IBB = "6"
+P_SO = "151"
+P_HP = "3"
+P_WP = "9"
+P_ERA = "3.95"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Liddle"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "36"
+P_GS = "13"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "104"
+P_H = "120"
+P_HR = "15"
+P_R = "66"
+P_ER = "61"
+P_BB = "48"
+P_IBB = "5"
+P_SO = "74"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "5.28"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Linker"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "35"
+P_GS = "11"
+P_CG = "3"
+P_SHO = "1"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "114"
+P_H = "111"
+P_HR = "6"
+P_R = "52"
+P_ER = "49"
+P_BB = "62"
+P_IBB = "8"
+P_SO = "58"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "3.87"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Mabe"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "38"
+P_GS = "31"
+P_CG = "15"
+P_SHO = "1"
+P_W = "14"
+P_L = "17"
+P_PCT = ".452"
+P_IP = "229"
+P_H = "212"
+P_HR = "18"
+P_R = "118"
+P_ER = "97"
+P_BB = "74"
+P_IBB = "4"
+P_SO = "128"
+P_HP = "5"
+P_WP = "5"
+P_ERA = "3.81"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Margoneri"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "25"
+P_GS = "19"
+P_CG = "6"
+P_SHO = "1"
+P_W = "9"
+P_L = "10"
+P_PCT = ".474"
+P_IP = "132"
+P_H = "156"
+P_HR = "10"
+P_R = "77"
+P_ER = "71"
+P_BB = "64"
+P_IBB = "5"
+P_SO = "71"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "4.84"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Markell"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+P_G = "2"
+[[person.playing.split]]
+team.name = "Charleston"
+P_G = "19"
+[person.playing.totals]
+P_G = "21"
+P_GS = "9"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "74"
+P_H = "96"
+P_HR = "12"
+P_R = "45"
+P_ER = "38"
+P_BB = "33"
+P_IBB = "4"
+P_SO = "36"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "4.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McDevitt"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "11"
+P_GS = "10"
+P_CG = "8"
+P_SHO = "0"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "87"
+P_H = "53"
+P_HR = "1"
+P_R = "24"
+P_ER = "18"
+P_BB = "29"
+P_IBB = "2"
+P_SO = "73"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "1.86"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McDonald"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "20"
+P_GS = "19"
+P_CG = "10"
+P_SHO = "0"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "124"
+P_H = "125"
+P_HR = "11"
+P_R = "53"
+P_ER = "41"
+P_BB = "23"
+P_IBB = "3"
+P_SO = "58"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "2.98"
+P_BK = "1"
+
+
+[[person]]
+name.last = "McMahan"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "47"
+P_GS = "1"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "67"
+P_H = "94"
+P_HR = "6"
+P_R = "48"
+P_ER = "36"
+P_BB = "35"
+P_IBB = "5"
+P_SO = "27"
+P_HP = "0"
+P_WP = "6"
+P_ERA = "4.84"
+P_BK = "1"
+
+
+[[person]]
+name.last = "McMahon"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "21"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+P_IP = "71"
+P_H = "59"
+P_HR = "5"
+P_R = "25"
+P_ER = "23"
+P_BB = "38"
+P_IBB = "7"
+P_SO = "65"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "2.92"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McMinn"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "10"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "44"
+P_H = "55"
+P_HR = "8"
+P_R = "32"
+P_ER = "27"
+P_BB = "17"
+P_IBB = "0"
+P_SO = "18"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "5.52"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "7"
+P_GS = "7"
+P_CG = "4"
+P_SHO = "2"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "51"
+P_H = "40"
+P_HR = "4"
+P_R = "21"
+P_ER = "13"
+P_BB = "19"
+P_IBB = "3"
+P_SO = "26"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "2.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Milliken"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "32"
+P_GS = "30"
+P_CG = "12"
+P_SHO = "2"
+P_W = "15"
+P_L = "10"
+P_PCT = ".600"
+P_IP = "196"
+P_H = "204"
+P_HR = "15"
+P_R = "87"
+P_ER = "79"
+P_BB = "58"
+P_IBB = "4"
+P_SO = "73"
+P_HP = "0"
+P_WP = "3"
+P_ERA = "3.63"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Moford"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+P_G = "23"
+[[person.playing.split]]
+team.name = "Charleston"
+P_G = "13"
+[person.playing.totals]
+P_G = "37"
+P_GS = "21"
+P_CG = "5"
+P_SHO = "2"
+P_W = "7"
+P_L = "12"
+P_PCT = ".368"
+P_IP = "154"
+P_H = "172"
+P_HR = "17"
+P_R = "96"
+P_ER = "85"
+P_BB = "54"
+P_IBB = "4"
+P_SO = "90"
+P_HP = "7"
+P_WP = "1"
+P_ERA = "4.97"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Monroe"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "36"
+P_GS = "29"
+P_CG = "14"
+P_SHO = "1"
+P_W = "16"
+P_L = "10"
+P_PCT = ".615"
+P_IP = "224"
+P_H = "226"
+P_HR = "17"
+P_R = "107"
+P_ER = "89"
+P_BB = "69"
+P_IBB = "7"
+P_SO = "111"
+P_HP = "2"
+P_WP = "6"
+P_ERA = "3.58"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Murff"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "24"
+P_GS = "19"
+P_CG = "8"
+P_SHO = "3"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_IP = "144"
+P_H = "156"
+P_HR = "17"
+P_R = "66"
+P_ER = "58"
+P_BB = "44"
+P_IBB = "4"
+P_SO = "61"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "3.63"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Negray"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "22"
+P_GS = "22"
+P_CG = "13"
+P_SHO = "1"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+P_IP = "164"
+P_H = "131"
+P_HR = "12"
+P_R = "59"
+P_ER = "50"
+P_BB = "43"
+P_IBB = "5"
+P_SO = "82"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "2.74"
+P_BK = "1"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "17"
+P_GS = "15"
+P_CG = "7"
+P_SHO = "3"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "98"
+P_H = "73"
+P_HR = "9"
+P_R = "44"
+P_ER = "35"
+P_BB = "35"
+P_IBB = "0"
+P_SO = "47"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "3.21"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Paine"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "52"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "1"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "104"
+P_H = "77"
+P_HR = "5"
+P_R = "25"
+P_ER = "19"
+P_BB = "33"
+P_IBB = "4"
+P_SO = "69"
+P_HP = "7"
+P_WP = "0"
+P_ERA = "1.64"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Papai"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "29"
+P_GS = "17"
+P_CG = "3"
+P_SHO = "1"
+P_W = "5"
+P_L = "12"
+P_PCT = ".294"
+P_IP = "110"
+P_H = "138"
+P_HR = "13"
+P_R = "82"
+P_ER = "68"
+P_BB = "28"
+P_IBB = "2"
+P_SO = "31"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "5.56"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Parsons"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "16"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "43"
+P_H = "61"
+P_HR = "6"
+P_R = "34"
+P_ER = "29"
+P_BB = "20"
+P_IBB = "3"
+P_SO = "11"
+P_HP = "4"
+P_WP = "2"
+P_ERA = "6.07"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pizarro"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "5"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "36"
+P_H = "35"
+P_HR = "3"
+P_R = "17"
+P_ER = "17"
+P_BB = "13"
+P_IBB = "0"
+P_SO = "24"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "4.25"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ponce"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "32"
+P_GS = "26"
+P_CG = "13"
+P_SHO = "2"
+P_W = "12"
+P_L = "13"
+P_PCT = ".480"
+P_IP = "176"
+P_H = "203"
+P_HR = "19"
+P_R = "102"
+P_ER = "89"
+P_BB = "52"
+P_IBB = "4"
+P_SO = "53"
+P_HP = "1"
+P_WP = "11"
+P_ERA = "4.55"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Presko"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "48"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "123"
+P_H = "110"
+P_HR = "11"
+P_R = "51"
+P_ER = "44"
+P_BB = "44"
+P_IBB = "6"
+P_SO = "64"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "3.22"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Proctor"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "31"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "94"
+P_H = "96"
+P_HR = "6"
+P_R = "47"
+P_ER = "37"
+P_BB = "27"
+P_IBB = "2"
+P_SO = "62"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.54"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rehm"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "6"
+P_SHO = "2"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "110"
+P_H = "94"
+P_HR = "10"
+P_R = "59"
+P_ER = "45"
+P_BB = "65"
+P_IBB = "5"
+P_SO = "91"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "3.68"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ridzik"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "21"
+P_GS = "16"
+P_CG = "8"
+P_SHO = "0"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "117"
+P_H = "112"
+P_HR = "10"
+P_R = "64"
+P_ER = "57"
+P_BB = "50"
+P_IBB = "3"
+P_SO = "83"
+P_HP = "5"
+P_WP = "3"
+P_ERA = "4.38"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rippelmeyer"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "25"
+P_GS = "2"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "73"
+P_H = "80"
+P_HR = "2"
+P_R = "33"
+P_ER = "28"
+P_BB = "21"
+P_IBB = "3"
+P_SO = "41"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "3.45"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rodriguez"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "66"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "106"
+P_H = "103"
+P_HR = "7"
+P_R = "38"
+P_ER = "35"
+P_BB = "43"
+P_IBB = "8"
+P_SO = "85"
+P_HP = "5"
+P_WP = "4"
+P_ERA = "2.97"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Ross"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "33"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "72"
+P_H = "77"
+P_HR = "8"
+P_R = "50"
+P_ER = "42"
+P_BB = "40"
+P_IBB = "3"
+P_SO = "51"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "5.25"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rudolph"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "35"
+[person.playing.totals]
+P_G = "42"
+P_GS = "27"
+P_CG = "14"
+P_SHO = "3"
+P_W = "8"
+P_L = "20"
+P_PCT = ".286"
+P_IP = "206"
+P_H = "246"
+P_HR = "18"
+P_R = "128"
+P_ER = "108"
+P_BB = "61"
+P_IBB = "9"
+P_SO = "104"
+P_HP = "8"
+P_WP = "4"
+P_ERA = "4.72"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Russell"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "10"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "42"
+P_H = "39"
+P_HR = "3"
+P_R = "22"
+P_ER = "14"
+P_BB = "32"
+P_IBB = "0"
+P_SO = "18"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "3.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "44"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "121"
+P_H = "101"
+P_HR = "15"
+P_R = "43"
+P_ER = "38"
+P_BB = "39"
+P_IBB = "5"
+P_SO = "86"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "2.83"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shaw"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "22"
+P_GS = "10"
+P_CG = "4"
+P_SHO = "2"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "106"
+P_H = "101"
+P_HR = "13"
+P_R = "49"
+P_ER = "43"
+P_BB = "30"
+P_IBB = "3"
+P_SO = "63"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.65"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shipley"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "18"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "61"
+P_H = "53"
+P_HR = "2"
+P_R = "32"
+P_ER = "26"
+P_BB = "42"
+P_IBB = "3"
+P_SO = "31"
+P_HP = "8"
+P_WP = "5"
+P_ERA = "3.84"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Snyder"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "7"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "35"
+P_H = "41"
+P_HR = "4"
+P_R = "38"
+P_ER = "28"
+P_BB = "43"
+P_IBB = "0"
+P_SO = "28"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "7.20"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Spencer"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "68"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "8"
+P_L = "3"
+P_PCT = ".727"
+P_IP = "115"
+P_H = "116"
+P_HR = "7"
+P_R = "59"
+P_ER = "53"
+P_BB = "38"
+P_IBB = "10"
+P_SO = "61"
+P_HP = "3"
+P_WP = "0"
+P_ERA = "4.15"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stabelfeld"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "32"
+P_GS = "9"
+P_CG = "3"
+P_SHO = "1"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "121"
+P_H = "122"
+P_HR = "9"
+P_R = "55"
+P_ER = "51"
+P_BB = "33"
+P_IBB = "2"
+P_SO = "50"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "3.79"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Surkont"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "27"
+P_GS = "26"
+P_CG = "10"
+P_SHO = "2"
+P_W = "15"
+P_L = "5"
+P_PCT = ".750"
+P_IP = "183"
+P_H = "169"
+P_HR = "15"
+P_R = "68"
+P_ER = "62"
+P_BB = "35"
+P_IBB = "4"
+P_SO = "115"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "3.05"
+P_BK = "0"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Szyczewski"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "11"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "40"
+P_H = "62"
+P_HR = "5"
+P_R = "32"
+P_ER = "30"
+P_BB = "17"
+P_IBB = "3"
+P_SO = "12"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "6.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Templeton"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "37"
+P_GS = "9"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "105"
+P_H = "107"
+P_HR = "8"
+P_R = "70"
+P_ER = "61"
+P_BB = "89"
+P_IBB = "3"
+P_SO = "65"
+P_HP = "3"
+P_WP = "6"
+P_ERA = "5.23"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Tinney"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "26"
+P_GS = "15"
+P_CG = "3"
+P_SHO = "1"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "126"
+P_H = "127"
+P_HR = "10"
+P_R = "69"
+P_ER = "61"
+P_BB = "53"
+P_IBB = "7"
+P_SO = "74"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "4.36"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Tsitouris"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "30"
+P_GS = "28"
+P_CG = "13"
+P_SHO = "2"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "185"
+P_H = "208"
+P_HR = "11"
+P_R = "103"
+P_ER = "85"
+P_BB = "73"
+P_IBB = "3"
+P_SO = "100"
+P_HP = "8"
+P_WP = "5"
+P_ERA = "4.14"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Urban"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "7"
+P_GS = "7"
+P_CG = "4"
+P_SHO = "1"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "49"
+P_H = "52"
+P_HR = "8"
+P_R = "24"
+P_ER = "22"
+P_BB = "15"
+P_IBB = "2"
+P_SO = "28"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "4.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walz"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "23"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "1"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "59"
+P_H = "70"
+P_HR = "9"
+P_R = "44"
+P_ER = "38"
+P_BB = "28"
+P_IBB = "6"
+P_SO = "23"
+P_HP = "1"
+P_WP = "6"
+P_ERA = "5.80"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Waters"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "37"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "64"
+P_H = "62"
+P_HR = "4"
+P_R = "25"
+P_ER = "24"
+P_BB = "25"
+P_IBB = "4"
+P_SO = "32"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.38"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wells"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "20"
+P_GS = "10"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "89"
+P_H = "90"
+P_HR = "13"
+P_R = "44"
+P_ER = "37"
+P_BB = "33"
+P_IBB = "2"
+P_SO = "25"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "3.74"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wheat"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "26"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "49"
+P_H = "58"
+P_HR = "7"
+P_R = "34"
+P_ER = "32"
+P_BB = "16"
+P_IBB = "3"
+P_SO = "19"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "5.88"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Willey"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "32"
+P_GS = "32"
+P_CG = "17"
+P_SHO = "1"
+P_W = "21"
+P_L = "6"
+P_PCT = ".778"
+P_IP = "247"
+P_H = "202"
+P_HR = "15"
+P_R = "103"
+P_ER = "89"
+P_BB = "94"
+P_IBB = "2"
+P_SO = "174"
+P_HP = "8"
+P_WP = "6"
+P_ERA = "3.24"
+P_BK = "1"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "35"
+P_GS = "34"
+P_CG = "16"
+P_SHO = "1"
+P_W = "19"
+P_L = "7"
+P_PCT = ".731"
+P_IP = "246"
+P_H = "188"
+P_HR = "9"
+P_R = "92"
+P_ER = "83"
+P_BB = "148"
+P_IBB = "5"
+P_SO = "223"
+P_HP = "14"
+P_WP = "11"
+P_ERA = "3.04"
+P_BK = "1"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Wojey"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "31"
+P_GS = "21"
+P_CG = "7"
+P_SHO = "1"
+P_W = "8"
+P_L = "11"
+P_PCT = ".421"
+P_IP = "156"
+P_H = "173"
+P_HR = "16"
+P_R = "89"
+P_ER = "79"
+P_BB = "58"
+P_IBB = "5"
+P_SO = "73"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "4.56"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Woodeshick"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "26"
+P_GS = "20"
+P_CG = "4"
+P_SHO = "0"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "116"
+P_H = "132"
+P_HR = "7"
+P_R = "71"
+P_ER = "63"
+P_BB = "61"
+P_IBB = "1"
+P_SO = "65"
+P_HP = "4"
+P_WP = "8"
+P_ERA = "4.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Zanni"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "34"
+P_GS = "24"
+P_CG = "8"
+P_SHO = "2"
+P_W = "6"
+P_L = "15"
+P_PCT = ".286"
+P_IP = "203"
+P_H = "201"
+P_HR = "18"
+P_R = "113"
+P_ER = "95"
+P_BB = "101"
+P_IBB = "5"
+P_SO = "167"
+P_HP = "6"
+P_WP = "8"
+P_ERA = "4.21"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "14"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nicholas"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "7"
+P_W = "2"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sleater"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gebhard"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kellner"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lasorda"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lewright"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bicknell"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dahlke"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Howard"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rosenbaum"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Browning"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Erickson"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Froats"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Murszewski"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Senerchia"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wingo"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gorbous"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kutyna"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lains"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mackinson"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mayer"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McClain"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Forizs"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hoffman"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hribar"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCormick"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mickens"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nishita"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schassler"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Scott"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wegner"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cave"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nichols"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trowbridge"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "3"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Valentine"
+[[person.playing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"

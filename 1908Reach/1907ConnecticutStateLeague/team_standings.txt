@@ -1,0 +1,102 @@
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "44"
+R_PCT = ".645"
+R_RANK = "1"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "47"
+R_PCT = ".621"
+R_RANK = "2"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "48"
+R_PCT = ".603"
+R_RANK = "3"
+
+
+[[team]]
+name = "Norwich"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "51"
+R_PCT = ".582"
+R_RANK = "4"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "55"
+R_PCT = ".549"
+R_RANK = "5"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "49"
+R_L = "75"
+R_PCT = ".395"
+R_RANK = "6"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "81"
+R_PCT = ".352"
+R_RANK = "7"
+
+
+[[team]]
+name = "New London"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "32"
+R_L = "92"
+R_PCT = ".258"
+R_RANK = "8"

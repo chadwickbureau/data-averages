@@ -1,0 +1,134 @@
+[[team]]
+name = "Abbeville"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4555"
+B_R = "814"
+B_H = "1283"
+B_TB = "1697"
+B_2B = "187"
+B_3B = "58"
+B_HR = "37"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Alexandria"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4559"
+B_R = "743"
+B_H = "1184"
+B_TB = "1548"
+B_2B = "183"
+B_3B = "47"
+B_HR = "29"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Baton Rouge"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4400"
+B_R = "561"
+B_H = "1067"
+B_TB = "1413"
+B_2B = "175"
+B_3B = "21"
+B_HR = "43"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Hammond"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4277"
+B_R = "610"
+B_H = "1073"
+B_TB = "1492"
+B_2B = "164"
+B_3B = "42"
+B_HR = "57"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Houma"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4495"
+B_R = "826"
+B_H = "1200"
+B_TB = "1635"
+B_2B = "198"
+B_3B = "33"
+B_HR = "57"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Natchez"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4531"
+B_R = "847"
+B_H = "1264"
+B_TB = "1761"
+B_2B = "185"
+B_3B = "75"
+B_HR = "54"
+B_AVG = ".279"
+
+
+[[team]]
+name = "New Iberia"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4459"
+B_R = "669"
+B_H = "1121"
+B_TB = "1481"
+B_2B = "179"
+B_3B = "32"
+B_HR = "39"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Thibodaux"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4289"
+B_R = "636"
+B_H = "1050"
+B_TB = "1437"
+B_2B = "168"
+B_3B = "30"
+B_HR = "53"
+B_AVG = ".245"

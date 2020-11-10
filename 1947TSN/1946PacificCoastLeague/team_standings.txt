@@ -1,0 +1,178 @@
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "115"
+R_L = "68"
+R_PCT = ".628"
+R_RANK = "1"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "111"
+R_L = "72"
+R_PCT = ".607"
+R_RANK = "2"
+
+
+[[team]]
+name = "Hollywood"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "95"
+R_L = "88"
+R_PCT = ".519"
+R_RANK = "3"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "94"
+R_L = "89"
+R_PCT = ".514"
+R_RANK = "4"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "94"
+R_L = "92"
+R_PCT = ".505"
+R_RANK = "5"
+
+
+[[team]]
+name = "San Diego"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "78"
+R_L = "108"
+R_PCT = ".419"
+R_RANK = "6"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "109"
+R_PCT = ".404"
+R_RANK = "7"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "109"
+R_PCT = ".404"
+R_RANK = "7"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Hollywood"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"

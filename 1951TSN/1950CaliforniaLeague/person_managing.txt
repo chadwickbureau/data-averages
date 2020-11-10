@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Lillard"
+name.given = "Eugene"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ventura"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Carrola"
+name.given = "Marcus"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Modesto"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Clements"
+name.given = "Harry"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Stockton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Owen"
+name.given = "Marvin"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Jose"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Acton"
+name.given = "James"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Visalia"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Griswold"
+name.given = "Harry"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bakersfield"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "LeBlanc"
+name.given = "Roland"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fresno"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hart"
+name.given = "William"
+[[person.managing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Santa Barbara"
+S_ORDER = "0"
+[person.managing.totals]

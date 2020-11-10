@@ -1,0 +1,82 @@
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3485"
+F_A = "1742"
+F_E = "228"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3409"
+F_A = "1516"
+F_E = "225"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Suffolk"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3387"
+F_A = "1609"
+F_E = "240"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3346"
+F_A = "1616"
+F_E = "245"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3317"
+F_A = "1517"
+F_E = "239"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3559"
+F_A = "1823"
+F_E = "299"
+F_PCT = ".947"

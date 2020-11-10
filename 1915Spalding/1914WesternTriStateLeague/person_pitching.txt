@@ -1,0 +1,406 @@
+[[person]]
+name.last = "Reese"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Walla Walla"
+[person.playing.totals]
+P_H = "105"
+P_R = "61"
+P_SO = "39"
+P_BB = "25"
+P_HP = "0"
+P_WP = "1"
+P_W = "9"
+P_L = "5"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Osborne"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pendleton"
+[person.playing.totals]
+P_H = "169"
+P_R = "60"
+P_SO = "172"
+P_BB = "46"
+P_HP = "10"
+P_WP = "10"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Schroeder"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pendleton"
+[person.playing.totals]
+P_H = "167"
+P_R = "120"
+P_SO = "206"
+P_BB = "76"
+P_HP = "18"
+P_WP = "13"
+P_W = "17"
+P_L = "7"
+P_PCT = ".708"
+
+
+[[person]]
+name.last = "Fitchner"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pendleton"
+[person.playing.totals]
+P_H = "99"
+P_R = "43"
+P_SO = "82"
+P_BB = "49"
+P_HP = "10"
+P_WP = "11"
+P_W = "10"
+P_L = "5"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Peterson"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Yakima"
+[person.playing.totals]
+P_H = "165"
+P_R = "88"
+P_SO = "163"
+P_BB = "77"
+P_HP = "14"
+P_WP = "14"
+P_W = "17"
+P_L = "10"
+P_PCT = ".630"
+
+
+[[person]]
+name.last = "Sutherland"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baker"
+[person.playing.totals]
+P_H = "99"
+P_R = "82"
+P_SO = "173"
+P_BB = "62"
+P_HP = "16"
+P_WP = "8"
+P_W = "16"
+P_L = "10"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Bridger"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Walla Walla"
+[person.playing.totals]
+P_H = "170"
+P_R = "75"
+P_SO = "125"
+P_BB = "54"
+P_HP = "12"
+P_WP = "7"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Welch"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Yakima"
+[person.playing.totals]
+P_H = "55"
+P_R = "34"
+P_SO = "27"
+P_BB = "9"
+P_HP = "2"
+P_WP = "6"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Lund"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Walla Walla"
+[person.playing.totals]
+P_H = "105"
+P_R = "58"
+P_SO = "105"
+P_BB = "34"
+P_HP = "2"
+P_WP = "6"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Leeper"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Walla Walla"
+[person.playing.totals]
+P_H = "197"
+P_R = "92"
+P_SO = "132"
+P_BB = "63"
+P_HP = "16"
+P_WP = "11"
+P_W = "13"
+P_L = "12"
+P_PCT = ".520"
+
+
+[[person]]
+name.last = "Meili"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baker"
+[person.playing.totals]
+P_H = "142"
+P_R = "61"
+P_SO = "60"
+P_BB = "36"
+P_HP = "7"
+P_WP = "2"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Washington"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Walla Walla"
+[[person.playing.split]]
+team.name = "Baker"
+[person.playing.totals]
+P_H = "120"
+P_R = "64"
+P_SO = "63"
+P_BB = "38"
+P_HP = "12"
+P_WP = "7"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Telford"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Walla Walla"
+[person.playing.totals]
+P_H = "48"
+P_R = "28"
+P_SO = "36"
+P_BB = "24"
+P_HP = "4"
+P_WP = "3"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "McQuary"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Yakima"
+[[person.playing.split]]
+team.name = "Pendleton"
+[person.playing.totals]
+P_H = "176"
+P_R = "85"
+P_SO = "44"
+P_BB = "35"
+P_HP = "5"
+P_WP = "3"
+P_W = "9"
+P_L = "10"
+P_PCT = ".473"
+
+
+[[person]]
+name.last = "Fulwider"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baker"
+[[person.playing.split]]
+team.name = "North Yakima"
+[person.playing.totals]
+P_H = "170"
+P_R = "80"
+P_SO = "85"
+P_BB = "58"
+P_HP = "18"
+P_WP = "9"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baker"
+[person.playing.totals]
+P_H = "90"
+P_R = "95"
+P_SO = "140"
+P_BB = "50"
+P_HP = "2"
+P_WP = "5"
+P_W = "10"
+P_L = "13"
+P_PCT = ".425"
+
+
+[[person]]
+name.last = "Cellars"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baker"
+[person.playing.totals]
+P_H = "75"
+P_R = "46"
+P_SO = "44"
+P_BB = "24"
+P_HP = "3"
+P_WP = "3"
+P_W = "3"
+P_L = "4"
+P_PCT = ".420"
+
+
+[[person]]
+name.last = "Daly"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pendleton"
+[person.playing.totals]
+P_H = "103"
+P_R = "55"
+P_SO = "47"
+P_BB = "27"
+P_HP = "4"
+P_WP = "2"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Kile"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Yakima"
+[person.playing.totals]
+P_H = "99"
+P_R = "52"
+P_SO = "67"
+P_BB = "29"
+P_HP = "9"
+P_WP = "3"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pendleton"
+[[person.playing.split]]
+team.name = "North Yakima"
+[person.playing.totals]
+P_H = "180"
+P_R = "80"
+P_SO = "100"
+P_BB = "52"
+P_HP = "9"
+P_WP = "5"
+P_W = "6"
+P_L = "13"
+P_PCT = ".315"

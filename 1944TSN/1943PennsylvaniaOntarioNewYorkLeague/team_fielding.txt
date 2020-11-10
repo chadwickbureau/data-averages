@@ -1,0 +1,106 @@
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2791"
+F_A = "1143"
+F_E = "267"
+F_TC = "4201"
+F_DP = "89"
+F_TP = "0"
+F_PB = "45"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Lockport"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2838"
+F_A = "1175"
+F_E = "251"
+F_TC = "4264"
+F_DP = "79"
+F_TP = "0"
+F_PB = "18"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2753"
+F_A = "1082"
+F_E = "263"
+F_TC = "4098"
+F_DP = "52"
+F_TP = "0"
+F_PB = "29"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2849"
+F_A = "1299"
+F_E = "287"
+F_TC = "4435"
+F_DP = "78"
+F_TP = "0"
+F_PB = "41"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2810"
+F_A = "1199"
+F_E = "293"
+F_TC = "4302"
+F_DP = "70"
+F_TP = "0"
+F_PB = "17"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2855"
+F_A = "1081"
+F_E = "291"
+F_TC = "4227"
+F_DP = "57"
+F_TP = "1"
+F_PB = "22"
+F_PCT = ".931"

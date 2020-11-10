@@ -1,0 +1,100 @@
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "90"
+R_L = "42"
+R_PCT = ".682"
+R_RANK = "1"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "82"
+R_L = "50"
+R_PCT = ".621"
+R_RANK = "2"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "54"
+R_PCT = ".588"
+R_RANK = "3"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "59"
+R_PCT = ".560"
+R_RANK = "4"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "49"
+R_PCT = ".563"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "82"
+R_PCT = ".401"
+R_RANK = "5"
+
+
+[[team]]
+name = "Steubenville"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "80"
+R_PCT = ".333"
+
+
+[[team]]
+name = "Sharon"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "35"
+R_L = "101"
+R_PCT = ".257"
+R_RANK = "6"

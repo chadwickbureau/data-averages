@@ -1,0 +1,583 @@
+[[person]]
+name.last = "Gregory"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Joplin"
+[person.playing.totals]
+P_G = "26"
+P_W = "18"
+P_L = "5"
+P_HP = "16"
+P_BB = "52"
+P_SO = "115"
+P_PCT = ".782"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Joplin"
+[person.playing.totals]
+P_G = "33"
+P_W = "21"
+P_L = "7"
+P_HP = "11"
+P_BB = "76"
+P_SO = "171"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Bentley"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "32"
+P_W = "19"
+P_L = "8"
+P_HP = "10"
+P_BB = "54"
+P_SO = "196"
+P_PCT = ".704"
+
+
+[[person]]
+name.last = "Hamilton"
+name.given = "E."
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Joplin"
+[person.playing.totals]
+P_G = "36"
+P_W = "19"
+P_L = "8"
+P_HP = "14"
+P_BB = "80"
+P_SO = "196"
+P_PCT = ".704"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Joplin"
+[person.playing.totals]
+P_G = "33"
+P_W = "21"
+P_L = "9"
+P_HP = "13"
+P_BB = "107"
+P_SO = "241"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Hawk"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Joplin"
+[[person.playing.split]]
+team.name = "Tulsa"
+[person.playing.totals]
+P_G = "15"
+P_W = "9"
+P_L = "4"
+P_HP = "6"
+P_BB = "41"
+P_SO = "55"
+P_PCT = ".692"
+
+
+[[person]]
+name.last = "Crutcher"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "30"
+P_W = "20"
+P_L = "9"
+P_HP = "15"
+P_BB = "70"
+P_SO = "252"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bartlesville"
+[person.playing.totals]
+P_G = "27"
+P_W = "16"
+P_L = "8"
+P_HP = "9"
+P_BB = "45"
+P_SO = "140"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Dupree"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guthrie"
+[person.playing.totals]
+P_G = "16"
+P_W = "10"
+P_L = "5"
+P_HP = "6"
+P_BB = "27"
+P_SO = "90"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Burge"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "26"
+P_W = "15"
+P_L = "8"
+P_HP = "9"
+P_BB = "48"
+P_SO = "104"
+P_PCT = ".652"
+
+
+[[person]]
+name.last = "Milton"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sapulpa"
+[person.playing.totals]
+P_G = "30"
+P_W = "18"
+P_L = "10"
+P_HP = "2"
+P_BB = "80"
+P_SO = "106"
+P_PCT = ".643"
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Reno"
+[person.playing.totals]
+P_G = "23"
+P_W = "14"
+P_L = "8"
+P_HP = "6"
+P_BB = "36"
+P_SO = "168"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Alberts"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Joplin"
+[person.playing.totals]
+P_G = "14"
+P_W = "7"
+P_L = "4"
+P_HP = "11"
+P_BB = "32"
+P_SO = "45"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Coe"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sapulpa"
+[person.playing.totals]
+P_G = "15"
+P_W = "7"
+P_L = "4"
+P_HP = "6"
+P_BB = "40"
+P_SO = "42"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Daniels"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bartlesville"
+[person.playing.totals]
+P_G = "24"
+P_W = "12"
+P_L = "7"
+P_HP = "10"
+P_BB = "56"
+P_SO = "102"
+P_PCT = ".632"
+
+
+[[person]]
+name.last = "Luhrsen"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Reno"
+[person.playing.totals]
+P_G = "18"
+P_W = "10"
+P_L = "6"
+P_HP = "16"
+P_BB = "48"
+P_SO = "112"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Barber"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bartlesville"
+[person.playing.totals]
+P_G = "20"
+P_W = "10"
+P_L = "6"
+P_HP = "31"
+P_BB = "38"
+P_SO = "74"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sapulpa"
+[person.playing.totals]
+P_G = "28"
+P_W = "16"
+P_L = "10"
+P_HP = "7"
+P_BB = "50"
+P_SO = "109"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Kimball"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Reno"
+[person.playing.totals]
+P_G = "20"
+P_W = "11"
+P_L = "7"
+P_HP = "3"
+P_BB = "27"
+P_SO = "95"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sapulpa"
+[person.playing.totals]
+P_G = "26"
+P_W = "14"
+P_L = "9"
+P_HP = "18"
+P_BB = "60"
+P_SO = "104"
+P_PCT = ".609"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[[person.playing.split]]
+team.name = "Tulsa"
+[person.playing.totals]
+P_G = "14"
+P_W = "6"
+P_L = "4"
+P_HP = "3"
+P_BB = "26"
+P_SO = "50"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Pollard"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Reno"
+[person.playing.totals]
+P_G = "15"
+P_W = "7"
+P_L = "5"
+P_HP = "1"
+P_BB = "21"
+P_SO = "37"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guthrie"
+[[person.playing.split]]
+team.name = "Sapulpa"
+[person.playing.totals]
+P_G = "30"
+P_W = "15"
+P_L = "11"
+P_HP = "6"
+P_BB = "82"
+P_SO = "110"
+P_PCT = ".577"
+
+
+[[person]]
+name.last = "Beltz"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Reno"
+[person.playing.totals]
+P_G = "12"
+P_W = "5"
+P_L = "4"
+P_HP = "5"
+P_BB = "18"
+P_SO = "45"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guthrie"
+[person.playing.totals]
+P_G = "26"
+P_W = "11"
+P_L = "9"
+P_HP = "4"
+P_BB = "40"
+P_SO = "140"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Ensley"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bartlesville"
+[person.playing.totals]
+P_G = "24"
+P_W = "12"
+P_L = "10"
+P_HP = "7"
+P_BB = "62"
+P_SO = "100"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Womack"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Reno"
+[person.playing.totals]
+P_G = "28"
+P_W = "14"
+P_L = "12"
+P_HP = "10"
+P_BB = "42"
+P_SO = "145"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Bridges"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Joplin"
+[[person.playing.split]]
+team.name = "Guthrie"
+[person.playing.totals]
+P_G = "12"
+P_W = "4"
+P_L = "4"
+P_HP = "5"
+P_BB = "20"
+P_SO = "32"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Listen"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guthrie"
+[person.playing.totals]
+P_G = "11"
+P_W = "4"
+P_L = "4"
+P_HP = "5"
+P_BB = "18"
+P_SO = "26"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hotchkiss"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guthrie"
+[person.playing.totals]
+P_G = "25"
+P_W = "9"
+P_L = "13"
+P_HP = "6"
+P_BB = "43"
+P_SO = "99"
+P_PCT = ".409"
+
+
+[[person]]
+name.last = "Sewell"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "27"
+P_W = "9"
+P_L = "14"
+P_HP = "9"
+P_BB = "48"
+P_SO = "125"
+P_PCT = ".390"
+
+
+[[person]]
+name.last = "Langfit"
+[[person.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guthrie"
+[person.playing.totals]
+P_G = "12"
+P_W = "3"
+P_L = "5"
+P_HP = "2"
+P_BB = "19"
+P_SO = "29"
+P_PCT = ".375"

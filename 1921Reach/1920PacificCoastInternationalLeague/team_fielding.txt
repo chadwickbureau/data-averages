@@ -1,0 +1,88 @@
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3163"
+F_A = "1492"
+F_E = "214"
+F_DP = "75"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3162"
+F_A = "1556"
+F_E = "252"
+F_DP = "70"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3113"
+F_A = "1430"
+F_E = "246"
+F_DP = "94"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_PO = "3047"
+F_A = "1353"
+F_E = "249"
+F_DP = "66"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "2951"
+F_A = "1413"
+F_E = "257"
+F_DP = "60"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_PO = "2975"
+F_A = "1411"
+F_E = "263"
+F_DP = "88"
+F_PCT = ".943"

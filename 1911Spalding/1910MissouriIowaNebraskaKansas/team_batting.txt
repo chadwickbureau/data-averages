@@ -1,0 +1,94 @@
+[[team]]
+name = "Maryville"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "99"
+B_AB = "2592"
+B_R = "305"
+B_H = "601"
+B_SH = "72"
+B_SB = "126"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Nebraska City"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "2980"
+B_R = "283"
+B_H = "656"
+B_SH = "104"
+B_SB = "168"
+B_AVG = ".220"
+
+
+[[team]]
+name = "Clarinda"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "3014"
+B_R = "400"
+B_H = "648"
+B_SH = "110"
+B_SB = "175"
+B_AVG = ".212"
+
+
+[[team]]
+name = "Falls City"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "97"
+B_AB = "2965"
+B_R = "380"
+B_H = "649"
+B_SH = "110"
+B_SB = "179"
+B_AVG = ".212"
+
+
+[[team]]
+name = "Shenandoah"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "99"
+B_AB = "3252"
+B_R = "389"
+B_H = "689"
+B_SH = "85"
+B_SB = "129"
+B_AVG = ".211"
+
+
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "97"
+B_AB = "3379"
+B_R = "371"
+B_H = "671"
+B_SH = "113"
+B_SB = "193"
+B_AVG = ".199"

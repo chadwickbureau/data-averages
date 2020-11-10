@@ -1,0 +1,198 @@
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4741"
+B_R = "918"
+B_H = "1297"
+B_TB = "1858"
+B_2B = "222"
+B_3B = "27"
+B_HR = "95"
+B_SH = "74"
+B_SB = "76"
+B_BB = "890"
+B_HP = "38"
+B_SO = "804"
+B_RBI = "823"
+B_LOB = "1253"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Ventura"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4938"
+B_R = "852"
+B_H = "1319"
+B_TB = "1830"
+B_2B = "200"
+B_3B = "61"
+B_HR = "63"
+B_SH = "91"
+B_SB = "161"
+B_BB = "805"
+B_HP = "24"
+B_SO = "825"
+B_RBI = "734"
+B_LOB = "1378"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Modesto"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4698"
+B_R = "725"
+B_H = "1253"
+B_TB = "1719"
+B_2B = "228"
+B_3B = "41"
+B_HR = "52"
+B_SH = "90"
+B_SB = "63"
+B_BB = "724"
+B_HP = "27"
+B_SO = "650"
+B_RBI = "648"
+B_LOB = "1193"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4720"
+B_R = "736"
+B_H = "1243"
+B_TB = "1745"
+B_2B = "200"
+B_3B = "40"
+B_HR = "74"
+B_SH = "82"
+B_SB = "65"
+B_BB = "620"
+B_HP = "40"
+B_SO = "746"
+B_RBI = "651"
+B_LOB = "1093"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4700"
+B_R = "846"
+B_H = "1236"
+B_TB = "1761"
+B_2B = "215"
+B_3B = "50"
+B_HR = "70"
+B_SH = "92"
+B_SB = "199"
+B_BB = "821"
+B_HP = "22"
+B_SO = "849"
+B_RBI = "717"
+B_LOB = "1138"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Visalia"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4785"
+B_R = "708"
+B_H = "1230"
+B_TB = "1800"
+B_2B = "214"
+B_3B = "25"
+B_HR = "102"
+B_SH = "64"
+B_SB = "154"
+B_BB = "672"
+B_HP = "51"
+B_SO = "871"
+B_RBI = "620"
+B_LOB = "1182"
+B_AVG = ".257"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4809"
+B_R = "747"
+B_H = "1226"
+B_TB = "1627"
+B_2B = "176"
+B_3B = "33"
+B_HR = "53"
+B_SH = "96"
+B_SB = "115"
+B_BB = "666"
+B_HP = "41"
+B_SO = "665"
+B_RBI = "669"
+B_LOB = "1146"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Santa Barbara"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4608"
+B_R = "747"
+B_H = "1137"
+B_TB = "1652"
+B_2B = "174"
+B_3B = "28"
+B_HR = "95"
+B_SH = "106"
+B_SB = "225"
+B_BB = "678"
+B_HP = "44"
+B_SO = "779"
+B_RBI = "641"
+B_LOB = "1056"
+B_AVG = ".247"

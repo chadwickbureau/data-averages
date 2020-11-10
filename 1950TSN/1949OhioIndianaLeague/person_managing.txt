@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Cox"
+name.given = "Homer"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Portsmouth"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ravish"
+name.given = "Anthony"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Springfield"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Blazo"
+name.given = "Michael"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Muncie"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Millies"
+name.given = "Walter"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Marion"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McLaughlin"
+name.given = "Patrick"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Zanesville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McLeod"
+name.given = "James"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Newark"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Pfeifer"
+name.given = "Cyril"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Richmond"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Holtcamp"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Richmond"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hartley"
+name.given = "Grover"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lima"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kinnamon"
+name.given = "George"
+[[person.managing]]
+season = "1949"
+league.name = "Ohio-Indiana League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lima"
+S_ORDER = "2"
+[person.managing.totals]

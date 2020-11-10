@@ -1,0 +1,89 @@
+[[person]]
+name.last = "Dixon"
+name.given = "Walter"
+[[person.managing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lafayette"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Everette"
+[[person.managing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Crowley"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Silvestri"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Alexandria"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McDowell"
+name.given = "Chester (Whitey)"
+[[person.managing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lake Charles"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Streza"
+name.given = "John"
+[[person.managing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Baton Rouge"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dossey"
+name.given = "William"
+[[person.managing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thibodaux"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Henry"
+[[person.managing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thibodaux"
+S_ORDER = "2"
+[person.managing.totals]

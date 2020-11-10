@@ -1,0 +1,102 @@
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_TC = "5430"
+F_E = "221"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_TC = "5850"
+F_E = "254"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_TC = "5832"
+F_E = "280"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_TC = "5467"
+F_E = "264"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_TC = "5209"
+F_E = "261"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_TC = "5924"
+F_E = "311"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_TC = "4835"
+F_E = "260"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_TC = "5478"
+F_E = "297"
+F_PCT = ".946"

@@ -1,0 +1,186 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "88"
+R_L = "65"
+R_T = "2"
+R_PCT = ".575"
+R_RANK = "1"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "88"
+R_L = "66"
+R_T = "0"
+R_PCT = ".571"
+R_RANK = "2"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "73"
+R_T = "1"
+R_PCT = ".526"
+R_RANK = "3"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "78"
+R_T = "2"
+R_PCT = ".490"
+R_RANK = "4"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "80"
+R_T = "0"
+R_PCT = ".481"
+R_RANK = "5"
+
+
+[[team]]
+name = "Havana"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "82"
+R_T = "0"
+R_PCT = ".468"
+R_RANK = "6"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "85"
+R_T = "0"
+R_PCT = ".448"
+R_RANK = "7"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "86"
+R_T = "1"
+R_PCT = ".442"
+R_RANK = "8"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_RANK = "2"

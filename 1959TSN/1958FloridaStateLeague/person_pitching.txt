@@ -1,0 +1,2930 @@
+[[person]]
+name.last = "Alvarez"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+P_G = "19"
+[[person.playing.split]]
+team.name = "Orlando"
+P_G = "23"
+[person.playing.totals]
+P_G = "42"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "126"
+P_H = "126"
+P_HR = "4"
+P_R = "93"
+P_ER = "53"
+P_BB = "91"
+P_IBB = "2"
+P_SO = "90"
+P_HP = "10"
+P_WP = "20"
+P_BK = "1"
+P_ERA = "3.79"
+
+
+[[person]]
+name.last = "Arrendell"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "15"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "55"
+P_H = "62"
+P_HR = "3"
+P_R = "39"
+P_ER = "31"
+P_BB = "36"
+P_IBB = "1"
+P_SO = "39"
+P_HP = "2"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "5.08"
+
+
+[[person]]
+name.last = "Averette"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "10"
+P_GS = "9"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "46"
+P_H = "56"
+P_HR = "2"
+P_R = "37"
+P_ER = "25"
+P_BB = "23"
+P_IBB = "0"
+P_SO = "24"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.89"
+
+
+[[person]]
+name.last = "Barvinchak"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "6"
+P_GS = "5"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "46"
+P_H = "55"
+P_HR = "2"
+P_R = "19"
+P_ER = "16"
+P_BB = "9"
+P_IBB = "0"
+P_SO = "36"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.13"
+
+
+[[person]]
+name.last = "Bubash"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "41"
+P_H = "35"
+P_HR = "0"
+P_R = "19"
+P_ER = "17"
+P_BB = "34"
+P_IBB = "0"
+P_SO = "48"
+P_HP = "0"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.74"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "37"
+P_GS = "27"
+P_CG = "18"
+P_SHO = "0"
+P_W = "17"
+P_L = "11"
+P_PCT = ".607"
+P_IP = "206"
+P_H = "196"
+P_HR = "10"
+P_R = "116"
+P_ER = "90"
+P_BB = "99"
+P_IBB = "4"
+P_SO = "89"
+P_HP = "10"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.93"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "18"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "72"
+P_H = "87"
+P_HR = "4"
+P_R = "47"
+P_ER = "34"
+P_BB = "40"
+P_IBB = "1"
+P_SO = "45"
+P_HP = "1"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.19"
+
+
+[[person]]
+name.last = "Coe"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "33"
+P_GS = "29"
+P_CG = "25"
+P_SHO = "1"
+P_W = "18"
+P_L = "12"
+P_PCT = ".600"
+P_IP = "235"
+P_H = "190"
+P_HR = "11"
+P_R = "80"
+P_ER = "63"
+P_BB = "59"
+P_IBB = "4"
+P_SO = "194"
+P_HP = "4"
+P_WP = "5"
+P_BK = "2"
+P_ERA = "2.41"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Concepcion"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "10"
+P_GS = "8"
+P_CG = "5"
+P_SHO = "0"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "49"
+P_H = "68"
+P_HR = "5"
+P_R = "64"
+P_ER = "35"
+P_BB = "25"
+P_IBB = "0"
+P_SO = "25"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.43"
+
+
+[[person]]
+name.last = "Conrad"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "19"
+P_GS = "18"
+P_CG = "9"
+P_SHO = "0"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "114"
+P_H = "121"
+P_HR = "9"
+P_R = "80"
+P_ER = "64"
+P_BB = "66"
+P_IBB = "1"
+P_SO = "73"
+P_HP = "5"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "5.05"
+
+
+[[person]]
+name.last = "Cordiero"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "9"
+P_SHO = "0"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "123"
+P_H = "111"
+P_HR = "7"
+P_R = "78"
+P_ER = "64"
+P_BB = "78"
+P_IBB = "1"
+P_SO = "88"
+P_HP = "3"
+P_WP = "15"
+P_BK = "0"
+P_ERA = "4.68"
+
+
+[[person]]
+name.last = "Crotty"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "26"
+P_GS = "17"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "13"
+P_PCT = ".188"
+P_IP = "101"
+P_H = "119"
+P_HR = "9"
+P_R = "101"
+P_ER = "84"
+P_BB = "67"
+P_IBB = "1"
+P_SO = "61"
+P_HP = "8"
+P_WP = "26"
+P_BK = "0"
+P_ERA = "7.49"
+
+
+[[person]]
+name.last = "Cruze"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "34"
+P_GS = "29"
+P_CG = "27"
+P_SHO = "0"
+P_W = "18"
+P_L = "12"
+P_PCT = ".600"
+P_IP = "233"
+P_H = "203"
+P_HR = "7"
+P_R = "81"
+P_ER = "61"
+P_BB = "41"
+P_IBB = "2"
+P_SO = "143"
+P_HP = "9"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "2.36"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "14"
+P_SHO = "1"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "144"
+P_H = "111"
+P_HR = "8"
+P_R = "61"
+P_ER = "48"
+P_BB = "60"
+P_IBB = "3"
+P_SO = "92"
+P_HP = "6"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Dziadek"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "25"
+P_GS = "24"
+P_CG = "13"
+P_SHO = "0"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "167"
+P_H = "141"
+P_HR = "7"
+P_R = "79"
+P_ER = "54"
+P_BB = "94"
+P_IBB = "5"
+P_SO = "130"
+P_HP = "5"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "2.91"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Eastman"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "10"
+P_GS = "10"
+P_CG = "5"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "52"
+P_H = "70"
+P_HR = "5"
+P_R = "43"
+P_ER = "35"
+P_BB = "31"
+P_IBB = "1"
+P_SO = "24"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.06"
+
+
+[[person]]
+name.last = "Fassler"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "18"
+P_GS = "16"
+P_CG = "9"
+P_SHO = "1"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "104"
+P_H = "66"
+P_HR = "4"
+P_R = "38"
+P_ER = "32"
+P_BB = "79"
+P_IBB = "1"
+P_SO = "115"
+P_HP = "5"
+P_WP = "13"
+P_BK = "2"
+P_ERA = "2.70"
+
+
+[[person]]
+name.last = "Fazekas"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "33"
+P_GS = "22"
+P_CG = "11"
+P_SHO = "0"
+P_W = "5"
+P_L = "17"
+P_PCT = ".227"
+P_IP = "161"
+P_H = "161"
+P_HR = "7"
+P_R = "130"
+P_ER = "112"
+P_BB = "171"
+P_IBB = "5"
+P_SO = "131"
+P_HP = "7"
+P_WP = "15"
+P_BK = "1"
+P_ERA = "6.26"
+
+
+[[person]]
+name.last = "Fischer"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "34"
+P_GS = "20"
+P_CG = "9"
+P_SHO = "0"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "164"
+P_H = "175"
+P_HR = "7"
+P_R = "94"
+P_ER = "74"
+P_BB = "83"
+P_IBB = "11"
+P_SO = "69"
+P_HP = "8"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.06"
+
+
+[[person]]
+name.last = "Flachman"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "20"
+P_GS = "20"
+P_CG = "12"
+P_SHO = "1"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "133"
+P_H = "108"
+P_HR = "8"
+P_R = "56"
+P_ER = "52"
+P_BB = "45"
+P_IBB = "1"
+P_SO = "115"
+P_HP = "4"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "3.52"
+
+
+[[person]]
+name.last = "Franks"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "16"
+P_GS = "12"
+P_CG = "9"
+P_SHO = "0"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_IP = "94"
+P_H = "80"
+P_HR = "2"
+P_R = "41"
+P_ER = "36"
+P_BB = "41"
+P_IBB = "3"
+P_SO = "51"
+P_HP = "2"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.45"
+
+
+[[person]]
+name.last = "Gray"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "26"
+P_GS = "23"
+P_CG = "22"
+P_SHO = "0"
+P_W = "17"
+P_L = "6"
+P_PCT = ".739"
+P_IP = "193"
+P_H = "180"
+P_HR = "6"
+P_R = "76"
+P_ER = "55"
+P_BB = "47"
+P_IBB = "1"
+P_SO = "95"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "2.57"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Happel"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "18"
+P_GS = "10"
+P_CG = "6"
+P_SHO = "0"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "80"
+P_H = "92"
+P_HR = "6"
+P_R = "60"
+P_ER = "40"
+P_BB = "40"
+P_IBB = "1"
+P_SO = "45"
+P_HP = "5"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Henriksen"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "24"
+P_GS = "22"
+P_CG = "16"
+P_SHO = "0"
+P_W = "17"
+P_L = "3"
+P_PCT = ".850"
+P_IP = "170"
+P_H = "127"
+P_HR = "4"
+P_R = "57"
+P_ER = "40"
+P_BB = "69"
+P_IBB = "2"
+P_SO = "124"
+P_HP = "5"
+P_WP = "10"
+P_BK = "3"
+P_ERA = "2.12"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Hofmeister"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "13"
+P_GS = "13"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "9"
+P_PCT = ".182"
+P_IP = "74"
+P_H = "82"
+P_HR = "8"
+P_R = "70"
+P_ER = "57"
+P_BB = "50"
+P_IBB = "1"
+P_SO = "59"
+P_HP = "4"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "6.93"
+
+
+[[person]]
+name.last = "Horsford"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "22"
+P_GS = "21"
+P_CG = "21"
+P_SHO = "4"
+P_W = "18"
+P_L = "3"
+P_PCT = ".857"
+P_IP = "182"
+P_H = "127"
+P_HR = "5"
+P_R = "51"
+P_ER = "39"
+P_BB = "53"
+P_IBB = "1"
+P_SO = "132"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "1.93"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Hughie"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "32"
+P_GS = "8"
+P_CG = "4"
+P_SHO = "0"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "105"
+P_H = "110"
+P_HR = "4"
+P_R = "75"
+P_ER = "60"
+P_BB = "77"
+P_IBB = "6"
+P_SO = "51"
+P_HP = "3"
+P_WP = "7"
+P_BK = "2"
+P_ERA = "5.14"
+
+
+[[person]]
+name.last = "Jancich"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "14"
+P_GS = "11"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "58"
+P_H = "49"
+P_HR = "2"
+P_R = "49"
+P_ER = "38"
+P_BB = "61"
+P_IBB = "0"
+P_SO = "62"
+P_HP = "2"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "5.90"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "43"
+P_H = "57"
+P_HR = "4"
+P_R = "37"
+P_ER = "34"
+P_BB = "19"
+P_IBB = "0"
+P_SO = "23"
+P_HP = "3"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "7.12"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "19"
+P_GS = "11"
+P_CG = "10"
+P_SHO = "1"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "112"
+P_H = "67"
+P_HR = "3"
+P_R = "34"
+P_ER = "24"
+P_BB = "52"
+P_IBB = "1"
+P_SO = "103"
+P_HP = "8"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "1.93"
+
+
+[[person]]
+name.last = "Langlois"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "10"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "42"
+P_H = "44"
+P_HR = "2"
+P_R = "47"
+P_ER = "43"
+P_BB = "57"
+P_IBB = "0"
+P_SO = "41"
+P_HP = "2"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "9.00"
+
+
+[[person]]
+name.last = "Lajoie"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "9"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "52"
+P_H = "49"
+P_HR = "1"
+P_R = "36"
+P_ER = "22"
+P_BB = "42"
+P_IBB = "0"
+P_SO = "29"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.81"
+
+
+[[person]]
+name.last = "Maddox"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "11"
+P_GS = "9"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "40"
+P_H = "53"
+P_HR = "7"
+P_R = "51"
+P_ER = "37"
+P_BB = "39"
+P_IBB = "0"
+P_SO = "27"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "8.33"
+
+
+[[person]]
+name.last = "Magrino"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "35"
+P_GS = "25"
+P_CG = "19"
+P_SHO = "1"
+P_W = "17"
+P_L = "11"
+P_PCT = ".607"
+P_IP = "213"
+P_H = "189"
+P_HR = "5"
+P_R = "94"
+P_ER = "64"
+P_BB = "63"
+P_IBB = "4"
+P_SO = "142"
+P_HP = "4"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "2.70"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "McWilliams"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "39"
+P_GS = "23"
+P_CG = "15"
+P_SHO = "1"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+P_IP = "204"
+P_H = "177"
+P_HR = "10"
+P_R = "93"
+P_ER = "64"
+P_BB = "69"
+P_IBB = "7"
+P_SO = "171"
+P_HP = "8"
+P_WP = "9"
+P_BK = "1"
+P_ERA = "2.83"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Millaway"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "12"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "45"
+P_H = "51"
+P_HR = "5"
+P_R = "44"
+P_ER = "38"
+P_BB = "43"
+P_IBB = "2"
+P_SO = "29"
+P_HP = "6"
+P_WP = "8"
+P_BK = "4"
+P_ERA = "7.59"
+
+
+[[person]]
+name.last = "Mooneyham"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "14"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "1"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "55"
+P_H = "41"
+P_HR = "1"
+P_R = "20"
+P_ER = "11"
+P_BB = "42"
+P_IBB = "1"
+P_SO = "47"
+P_HP = "2"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "1.80"
+
+
+[[person]]
+name.last = "Mullins"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "18"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "1"
+P_L = "6"
+P_PCT = ".143"
+P_IP = "55"
+P_H = "48"
+P_HR = "3"
+P_R = "31"
+P_ER = "21"
+P_BB = "35"
+P_IBB = "1"
+P_SO = "43"
+P_HP = "2"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.44"
+
+
+[[person]]
+name.last = "Murry"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "33"
+P_GS = "21"
+P_CG = "10"
+P_SHO = "0"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_IP = "151"
+P_H = "135"
+P_HR = "7"
+P_R = "90"
+P_ER = "76"
+P_BB = "93"
+P_IBB = "3"
+P_SO = "119"
+P_HP = "4"
+P_WP = "12"
+P_BK = "3"
+P_ERA = "4.53"
+
+
+[[person]]
+name.last = "Nickisch"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "19"
+P_GS = "10"
+P_CG = "2"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "76"
+P_H = "70"
+P_HR = "5"
+P_R = "50"
+P_ER = "35"
+P_BB = "59"
+P_IBB = "3"
+P_SO = "51"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.15"
+
+
+[[person]]
+name.last = "Olano"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "21"
+P_GS = "14"
+P_CG = "8"
+P_SHO = "0"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "114"
+P_H = "116"
+P_HR = "6"
+P_R = "57"
+P_ER = "45"
+P_BB = "56"
+P_IBB = "4"
+P_SO = "84"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.56"
+
+
+[[person]]
+name.last = "Peregrin"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "32"
+P_GS = "20"
+P_CG = "9"
+P_SHO = "0"
+P_W = "12"
+P_L = "11"
+P_PCT = ".522"
+P_IP = "152"
+P_H = "166"
+P_HR = "10"
+P_R = "100"
+P_ER = "72"
+P_BB = "87"
+P_IBB = "6"
+P_SO = "140"
+P_HP = "1"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "4.24"
+
+
+[[person]]
+name.last = "Pinder"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "10"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "47"
+P_H = "49"
+P_HR = "4"
+P_R = "30"
+P_ER = "22"
+P_BB = "29"
+P_IBB = "2"
+P_SO = "31"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.21"
+
+
+[[person]]
+name.last = "Porto"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "30"
+P_GS = "10"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "11"
+P_PCT = ".353"
+P_IP = "135"
+P_H = "148"
+P_HR = "11"
+P_R = "98"
+P_ER = "59"
+P_BB = "45"
+P_IBB = "0"
+P_SO = "76"
+P_HP = "8"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "3.93"
+
+
+[[person]]
+name.last = "Powell"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "8"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "41"
+P_H = "41"
+P_HR = "3"
+P_R = "40"
+P_ER = "33"
+P_BB = "49"
+P_IBB = "4"
+P_SO = "38"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "7.25"
+
+
+[[person]]
+name.last = "Purvis"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "18"
+P_GS = "14"
+P_CG = "6"
+P_SHO = "0"
+P_W = "9"
+P_L = "3"
+P_PCT = ".750"
+P_IP = "90"
+P_H = "78"
+P_HR = "2"
+P_R = "41"
+P_ER = "33"
+P_BB = "71"
+P_IBB = "0"
+P_SO = "65"
+P_HP = "2"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "3.30"
+
+
+[[person]]
+name.last = "Rodriguez"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "10"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "41"
+P_H = "36"
+P_HR = "2"
+P_R = "22"
+P_ER = "20"
+P_BB = "32"
+P_IBB = "1"
+P_SO = "23"
+P_HP = "2"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "4.39"
+
+
+[[person]]
+name.last = "Rouleau"
+name.given = "Jas."
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "16"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "50"
+P_H = "52"
+P_HR = "2"
+P_R = "32"
+P_ER = "23"
+P_BB = "33"
+P_IBB = "1"
+P_SO = "18"
+P_HP = "4"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.14"
+
+
+[[person]]
+name.last = "Rouleau"
+name.given = "John"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "17"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "71"
+P_H = "86"
+P_HR = "6"
+P_R = "53"
+P_ER = "46"
+P_BB = "33"
+P_IBB = "0"
+P_SO = "29"
+P_HP = "3"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "5.83"
+
+
+[[person]]
+name.last = "Rybak"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "14"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "57"
+P_H = "58"
+P_HR = "7"
+P_R = "47"
+P_ER = "39"
+P_BB = "37"
+P_IBB = "1"
+P_SO = "38"
+P_HP = "0"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "6.16"
+
+
+[[person]]
+name.last = "Schumann"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "8"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "35"
+P_H = "46"
+P_HR = "0"
+P_R = "36"
+P_ER = "30"
+P_BB = "26"
+P_IBB = "0"
+P_SO = "24"
+P_HP = "3"
+P_WP = "3"
+P_BK = "2"
+P_ERA = "7.71"
+
+
+[[person]]
+name.last = "Seagrave"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "29"
+P_GS = "14"
+P_CG = "12"
+P_SHO = "1"
+P_W = "16"
+P_L = "5"
+P_PCT = ".762"
+P_IP = "164"
+P_H = "167"
+P_HR = "7"
+P_R = "79"
+P_ER = "68"
+P_BB = "49"
+P_IBB = "1"
+P_SO = "94"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.74"
+
+
+[[person]]
+name.last = "Seale"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "22"
+P_GS = "14"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "10"
+P_PCT = ".231"
+P_IP = "94"
+P_H = "105"
+P_HR = "4"
+P_R = "64"
+P_ER = "46"
+P_BB = "43"
+P_IBB = "0"
+P_SO = "58"
+P_HP = "5"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.30"
+
+
+[[person]]
+name.last = "Shaw"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "23"
+P_GS = "19"
+P_CG = "11"
+P_SHO = "2"
+P_W = "12"
+P_L = "7"
+P_PCT = ".632"
+P_IP = "133"
+P_H = "121"
+P_HR = "2"
+P_R = "54"
+P_ER = "43"
+P_BB = "53"
+P_IBB = "0"
+P_SO = "103"
+P_HP = "14"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "2.91"
+
+
+[[person]]
+name.last = "Shiver"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "34"
+P_H = "44"
+P_HR = "4"
+P_R = "23"
+P_ER = "16"
+P_BB = "18"
+P_IBB = "0"
+P_SO = "16"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.24"
+
+
+[[person]]
+name.last = "Skuce"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "35"
+P_GS = "15"
+P_CG = "7"
+P_SHO = "0"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "144"
+P_H = "122"
+P_HR = "9"
+P_R = "86"
+P_ER = "65"
+P_BB = "117"
+P_IBB = "3"
+P_SO = "87"
+P_HP = "9"
+P_WP = "11"
+P_BK = "2"
+P_ERA = "4.06"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "31"
+P_GS = "22"
+P_CG = "16"
+P_SHO = "2"
+P_W = "15"
+P_L = "8"
+P_PCT = ".652"
+P_IP = "183"
+P_H = "187"
+P_HR = "9"
+P_R = "81"
+P_ER = "59"
+P_BB = "58"
+P_IBB = "13"
+P_SO = "106"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.90"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Soderstrom"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "14"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "46"
+P_H = "50"
+P_HR = "3"
+P_R = "36"
+P_ER = "26"
+P_BB = "49"
+P_IBB = "0"
+P_SO = "35"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "5.09"
+
+
+[[person]]
+name.last = "Talavera"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "35"
+P_GS = "26"
+P_CG = "17"
+P_SHO = "0"
+P_W = "18"
+P_L = "8"
+P_PCT = ".692"
+P_IP = "201"
+P_H = "188"
+P_HR = "13"
+P_R = "85"
+P_ER = "66"
+P_BB = "59"
+P_IBB = "8"
+P_SO = "148"
+P_HP = "7"
+P_WP = "1"
+P_BK = "3"
+P_ERA = "2.95"
+
+
+[[person]]
+name.last = "Turner"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "39"
+P_GS = "33"
+P_CG = "26"
+P_SHO = "1"
+P_W = "17"
+P_L = "16"
+P_PCT = ".515"
+P_IP = "249"
+P_H = "245"
+P_HR = "9"
+P_R = "135"
+P_ER = "80"
+P_BB = "84"
+P_IBB = "1"
+P_SO = "140"
+P_HP = "10"
+P_WP = "9"
+P_BK = "3"
+P_ERA = "2.90"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Weaver"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "37"
+P_GS = "23"
+P_CG = "7"
+P_SHO = "0"
+P_W = "9"
+P_L = "12"
+P_PCT = ".429"
+P_IP = "178"
+P_H = "153"
+P_HR = "8"
+P_R = "98"
+P_ER = "70"
+P_BB = "108"
+P_IBB = "9"
+P_SO = "154"
+P_HP = "11"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "3.54"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "28"
+P_GS = "18"
+P_CG = "12"
+P_SHO = "0"
+P_W = "6"
+P_L = "14"
+P_PCT = ".300"
+P_IP = "138"
+P_H = "123"
+P_HR = "9"
+P_R = "84"
+P_ER = "66"
+P_BB = "81"
+P_IBB = "1"
+P_SO = "91"
+P_HP = "11"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.30"
+
+
+[[person]]
+name.last = "Womack"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "11"
+P_GS = "8"
+P_CG = "6"
+P_SHO = "1"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "68"
+P_H = "52"
+P_HR = "6"
+P_R = "25"
+P_ER = "18"
+P_BB = "32"
+P_IBB = "1"
+P_SO = "42"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "2.39"
+
+
+[[person]]
+name.last = "Wright"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "34"
+P_GS = "28"
+P_CG = "17"
+P_SHO = "2"
+P_W = "11"
+P_L = "15"
+P_PCT = ".423"
+P_IP = "204"
+P_H = "208"
+P_HR = "8"
+P_R = "102"
+P_ER = "74"
+P_BB = "100"
+P_IBB = "7"
+P_SO = "145"
+P_HP = "11"
+P_WP = "16"
+P_BK = "0"
+P_ERA = "3.27"
+
+
+[[person]]
+name.last = "Bartunek"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carney"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lopez"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "White"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wyatt"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cocoa"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Butler"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Graydon"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jennings"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Minor"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Poland"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Torres"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Daytona Beach"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Arbo"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Babiak"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dutton"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Elliott"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kummer"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Leftridge"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Leshock"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Menkes"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pizzaro"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trust"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Velo"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bonavia"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Braziel"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Coleman"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Frencl"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gilkey"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "4"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gittman"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Orlando"
+P_G = "1"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Grant"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hobby"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kuodis"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nichols"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pleau"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shanahan"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Townley"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wasil"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orlando"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Copps"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Davalillo"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "13"
+P_W = "4"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Elsner"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Flynn"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Leak"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lott"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mills"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sanchez"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "6"
+P_W = "3"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sherfinski"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "10"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Palatka"
+[person.playing.totals]
+P_G = "12"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kaczynski"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lindop"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Major"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Maynard"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Parmelee"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rancano"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Zegel"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Petersburg"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Colgan"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "9"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hewitt"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McGue"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Merkoskey"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Noto"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rohme"
+[[person.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"

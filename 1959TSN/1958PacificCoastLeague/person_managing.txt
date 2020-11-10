@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Davis"
+name.given = "John (Red)"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Phoenix"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Metkovich"
+name.given = "George"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Diego"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Metro"
+name.given = "Charles"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Vancouver"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Heath"
+name.given = "Thomas"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Portland"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Jansen"
+name.given = "Lawrence"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Portland"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Shepard"
+name.given = "Lawrence"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salt Lake City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Sisti"
+name.given = "Sebastian (Sibby)"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Sacramento"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Holt"
+name.given = "Golden"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Spokane"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bragan"
+name.given = "Robert"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Spokane"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ryan"
+name.given = "Cornelius"
+[[person.managing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Seattle"
+S_ORDER = "0"
+[person.managing.totals]

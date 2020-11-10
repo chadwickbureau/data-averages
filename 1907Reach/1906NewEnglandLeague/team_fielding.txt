@@ -1,0 +1,110 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2966"
+F_A = "1168"
+F_E = "205"
+F_TC = "4339"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3193"
+F_A = "1526"
+F_E = "244"
+F_TC = "4963"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3038"
+F_A = "1576"
+F_E = "297"
+F_TC = "4911"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3359"
+F_A = "1564"
+F_E = "324"
+F_TC = "5247"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2448"
+F_A = "1536"
+F_E = "278"
+F_TC = "4262"
+F_PCT = ".935"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3154"
+F_A = "1378"
+F_E = "327"
+F_TC = "4859"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2861"
+F_A = "1744"
+F_E = "337"
+F_TC = "4942"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2610"
+F_A = "1540"
+F_E = "328"
+F_TC = "4508"
+F_PCT = ".930"

@@ -1,0 +1,158 @@
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "4828"
+B_R = "621"
+B_H = "1225"
+B_2B = "163"
+B_3B = "65"
+B_HR = "26"
+B_TB = "1596"
+B_SH = "195"
+B_SB = "207"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4320"
+B_R = "568"
+B_H = "1078"
+B_2B = "152"
+B_3B = "70"
+B_HR = "14"
+B_TB = "1412"
+B_SH = "179"
+B_SB = "209"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4154"
+B_R = "483"
+B_H = "1024"
+B_2B = "110"
+B_3B = "53"
+B_HR = "18"
+B_TB = "1294"
+B_SH = "139"
+B_SB = "199"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4311"
+B_R = "446"
+B_H = "1061"
+B_2B = "107"
+B_3B = "43"
+B_HR = "6"
+B_TB = "1272"
+B_SH = "161"
+B_SB = "132"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4747"
+B_R = "458"
+B_H = "1104"
+B_2B = "132"
+B_3B = "51"
+B_HR = "16"
+B_TB = "1386"
+B_SH = "126"
+B_SB = "187"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "3683"
+B_R = "396"
+B_H = "826"
+B_2B = "123"
+B_3B = "64"
+B_HR = "10"
+B_TB = "1107"
+B_SH = "187"
+B_SB = "184"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "4487"
+B_R = "492"
+B_H = "1004"
+B_2B = "108"
+B_3B = "50"
+B_HR = "8"
+B_TB = "1236"
+B_SH = "143"
+B_SB = "184"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1906"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4066"
+B_R = "474"
+B_H = "907"
+B_2B = "148"
+B_3B = "38"
+B_HR = "22"
+B_TB = "1197"
+B_SH = "208"
+B_SB = "201"
+B_AVG = ".223"

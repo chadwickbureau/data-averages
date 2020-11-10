@@ -1,0 +1,76 @@
+[[team]]
+name = "Rome"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "43"
+R_L = "22"
+R_PCT = ".662"
+R_RANK = "1"
+
+
+[[team]]
+name = "Newnan"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "41"
+R_L = "26"
+R_PCT = ".612"
+R_RANK = "2"
+
+
+[[team]]
+name = "La Grange"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "39"
+R_L = "29"
+R_PCT = ".574"
+R_RANK = "3"
+
+
+[[team]]
+name = "Talladega"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "26"
+R_L = "38"
+R_PCT = ".406"
+R_RANK = "4"
+
+
+[[team]]
+name = "Anniston"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "23"
+R_L = "39"
+R_PCT = ".371"
+R_RANK = "5"
+
+
+[[team]]
+name = "Griffin"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "23"
+R_L = "41"
+R_PCT = ".358"
+R_RANK = "6"

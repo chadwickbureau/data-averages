@@ -1,0 +1,572 @@
+[[person]]
+name.last = "Vance"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Petersburg"
+[person.playing.totals]
+P_G = "11"
+P_W = "11"
+P_L = "0"
+P_T = "0"
+P_SO = "32"
+P_BB = "15"
+P_AB = "372"
+P_IP = "99"
+P_R = "26"
+P_H = "75"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Petersburg"
+[person.playing.totals]
+P_G = "39"
+P_W = "21"
+P_L = "10"
+P_T = "2"
+P_SO = "152"
+P_BB = "34"
+P_AB = "1064"
+P_IP = "287"
+P_R = "89"
+P_H = "231"
+P_PCT = ".677"
+
+
+[[person]]
+name.last = "Hogue"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "12"
+P_W = "7"
+P_L = "4"
+P_T = "1"
+P_SO = "54"
+P_BB = "24"
+P_AB = "381"
+P_IP = "102"
+P_R = "45"
+P_H = "91"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Efird"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "36"
+P_W = "19"
+P_L = "12"
+P_T = "2"
+P_SO = "114"
+P_BB = "47"
+P_AB = "1052"
+P_IP = "263"
+P_R = "116"
+P_H = "280"
+P_PCT = ".613"
+
+
+[[person]]
+name.last = "Bruckmiller"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Petersburg"
+[person.playing.totals]
+P_G = "42"
+P_W = "21"
+P_L = "14"
+P_T = "2"
+P_SO = "165"
+P_BB = "107"
+P_AB = "1157"
+P_IP = "312"
+P_R = "105"
+P_H = "231"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Gardin"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "26"
+P_W = "12"
+P_L = "8"
+P_T = "1"
+P_SO = "100"
+P_BB = "39"
+P_AB = "773"
+P_IP = "202"
+P_R = "73"
+P_H = "193"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Finneran"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "40"
+P_W = "21"
+P_L = "15"
+P_T = "1"
+P_SO = "169"
+P_BB = "61"
+P_AB = "1210"
+P_IP = "326"
+P_R = "120"
+P_H = "284"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Phelan"
+name.given = "J."
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "13"
+P_W = "7"
+P_L = "5"
+P_T = "0"
+P_SO = "34"
+P_BB = "29"
+P_AB = "390"
+P_IP = "97"
+P_R = "50"
+P_H = "101"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Perryman"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "24"
+P_W = "11"
+P_L = "8"
+P_T = "0"
+P_SO = "92"
+P_BB = "49"
+P_AB = "690"
+P_IP = "183"
+P_R = "100"
+P_H = "185"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "Poole"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "42"
+P_W = "21"
+P_L = "16"
+P_T = "0"
+P_SO = "207"
+P_BB = "40"
+P_AB = "1289"
+P_IP = "330"
+P_R = "144"
+P_H = "310"
+P_PCT = ".568"
+
+
+[[person]]
+name.last = "Brooks"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "39"
+P_W = "20"
+P_L = "16"
+P_T = "0"
+P_SO = "185"
+P_BB = "45"
+P_AB = "1153"
+P_IP = "315"
+P_R = "116"
+P_H = "271"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Verbout"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "34"
+P_W = "15"
+P_L = "12"
+P_T = "2"
+P_SO = "88"
+P_BB = "34"
+P_AB = "960"
+P_IP = "245"
+P_R = "108"
+P_H = "253"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Revelle"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "20"
+P_W = "9"
+P_L = "8"
+P_T = "0"
+P_SO = "70"
+P_BB = "38"
+P_AB = "618"
+P_IP = "158"
+P_R = "82"
+P_H = "172"
+P_PCT = ".529"
+
+
+[[person]]
+name.last = "Bruck"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "41"
+P_W = "19"
+P_L = "17"
+P_T = "1"
+P_SO = "178"
+P_BB = "60"
+P_AB = "1170"
+P_IP = "318"
+P_R = "117"
+P_H = "271"
+P_PCT = ".528"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "26"
+P_W = "12"
+P_L = "11"
+P_T = "0"
+P_SO = "119"
+P_BB = "59"
+P_AB = "782"
+P_IP = "198"
+P_R = "193"
+P_H = "178"
+P_PCT = ".522"
+
+
+[[person]]
+name.last = "Draper"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "38"
+P_W = "16"
+P_L = "15"
+P_T = "2"
+P_SO = "158"
+P_BB = "67"
+P_AB = "1100"
+P_IP = "292"
+P_R = "124"
+P_H = "301"
+P_PCT = ".516"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "14"
+P_W = "5"
+P_L = "5"
+P_T = "2"
+P_SO = "70"
+P_BB = "24"
+P_AB = "448"
+P_IP = "115"
+P_R = "63"
+P_H = "123"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "29"
+P_W = "10"
+P_L = "12"
+P_T = "0"
+P_SO = "136"
+P_BB = "51"
+P_AB = "862"
+P_IP = "218"
+P_R = "122"
+P_H = "223"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Pearce"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "28"
+P_W = "9"
+P_L = "11"
+P_T = "1"
+P_SO = "112"
+P_BB = "98"
+P_AB = "644"
+P_IP = "177"
+P_R = "91"
+P_H = "163"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Hanks"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "38"
+P_W = "13"
+P_L = "16"
+P_T = "1"
+P_SO = "132"
+P_BB = "82"
+P_AB = "912"
+P_IP = "238"
+P_R = "135"
+P_H = "223"
+P_PCT = ".448"
+
+
+[[person]]
+name.last = "Griffin"
+name.given = "H."
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "29"
+P_W = "10"
+P_L = "15"
+P_T = "0"
+P_SO = "86"
+P_BB = "21"
+P_AB = "847"
+P_IP = "222"
+P_R = "90"
+P_H = "231"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Pritchard"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Petersburg"
+[person.playing.totals]
+P_G = "23"
+P_W = "6"
+P_L = "10"
+P_T = "0"
+P_SO = "64"
+P_BB = "51"
+P_AB = "603"
+P_IP = "151"
+P_R = "112"
+P_H = "158"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Stocksdale"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "16"
+P_W = "3"
+P_L = "5"
+P_T = "0"
+P_SO = "38"
+P_BB = "13"
+P_AB = "352"
+P_IP = "91"
+P_R = "52"
+P_H = "106"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Stark"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "35"
+P_W = "9"
+P_L = "18"
+P_T = "3"
+P_SO = "141"
+P_BB = "99"
+P_AB = "884"
+P_IP = "243"
+P_R = "110"
+P_H = "204"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Hannifan"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Petersburg"
+[person.playing.totals]
+P_G = "36"
+P_W = "6"
+P_L = "16"
+P_T = "1"
+P_SO = "125"
+P_BB = "83"
+P_AB = "859"
+P_IP = "226"
+P_R = "112"
+P_H = "197"
+P_PCT = ".273"
+
+
+[[person]]
+name.last = "Mayberry"
+[[person.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "12"
+P_W = "3"
+P_L = "9"
+P_T = "0"
+P_SO = "36"
+P_BB = "27"
+P_AB = "394"
+P_IP = "99"
+P_R = "76"
+P_H = "126"
+P_PCT = ".250"

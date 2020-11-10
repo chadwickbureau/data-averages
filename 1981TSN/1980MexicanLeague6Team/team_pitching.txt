@@ -1,0 +1,136 @@
+[[team]]
+name = "Coatzacoalcos"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+P_G = "36"
+P_CG = "22"
+P_SHO = "8"
+P_IP = "299"
+P_H = "256"
+P_R = "94"
+P_ER = "71"
+P_HR = "12"
+P_BB = "80"
+P_IBB = "3"
+P_HP = "5"
+P_SO = "170"
+P_WP = "3"
+P_ERA = "2.14"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+P_G = "39"
+P_CG = "15"
+P_SHO = "8"
+P_IP = "312"
+P_H = "304"
+P_R = "99"
+P_ER = "83"
+P_HR = "7"
+P_BB = "63"
+P_IBB = "7"
+P_HP = "6"
+P_SO = "160"
+P_WP = "6"
+P_ERA = "2.39"
+
+
+[[team]]
+name = "Ciudad Juarez"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+P_G = "39"
+P_CG = "27"
+P_SHO = "4"
+P_IP = "338"
+P_H = "323"
+P_R = "118"
+P_ER = "97"
+P_HR = "1"
+P_BB = "89"
+P_IBB = "5"
+P_HP = "7"
+P_SO = "187"
+P_WP = "2"
+P_ERA = "2.58"
+
+
+[[team]]
+name = "Reynosa"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+P_G = "37"
+P_CG = "23"
+P_SHO = "1"
+P_IP = "292"
+P_H = "326"
+P_R = "123"
+P_ER = "100"
+P_HR = "7"
+P_BB = "79"
+P_IBB = "12"
+P_HP = "3"
+P_SO = "142"
+P_WP = "5"
+P_ERA = "3.08"
+
+
+[[team]]
+name = "Union Laguna"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+P_G = "36"
+P_CG = "15"
+P_SHO = "5"
+P_IP = "301"
+P_H = "279"
+P_R = "117"
+P_ER = "104"
+P_HR = "7"
+P_BB = "124"
+P_IBB = "7"
+P_HP = "4"
+P_SO = "104"
+P_WP = "10"
+P_ERA = "3.11"
+
+
+[[team]]
+name = "Mexico Tigers"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+P_G = "37"
+P_CG = "5"
+P_SHO = "0"
+P_IP = "302"
+P_H = "361"
+P_R = "200"
+P_ER = "167"
+P_HR = "7"
+P_BB = "139"
+P_IBB = "5"
+P_HP = "14"
+P_SO = "125"
+P_WP = "18"
+P_ERA = "4.98"

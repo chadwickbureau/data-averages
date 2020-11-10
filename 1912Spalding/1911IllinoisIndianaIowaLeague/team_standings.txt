@@ -1,0 +1,102 @@
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "59"
+R_PCT = ".563"
+R_RANK = "1"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "99"
+R_L = "60"
+R_PCT = ".534"
+R_RANK = "2"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "63"
+R_PCT = ".530"
+R_RANK = "3"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "62"
+R_PCT = ".526"
+R_RANK = "4"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "70"
+R_PCT = ".493"
+R_RANK = "5"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "70"
+R_PCT = ".489"
+R_RANK = "6"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "76"
+R_PCT = ".437"
+R_RANK = "7"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "79"
+R_PCT = ".424"
+R_RANK = "8"

@@ -1,0 +1,198 @@
+[[team]]
+name = "Daytona Beach"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4570"
+B_R = "768"
+B_ER = "525"
+B_H = "1243"
+B_2B = "163"
+B_3B = "62"
+B_HR = "26"
+B_TB = "1608"
+B_SH = "63"
+B_SB = "164"
+B_BB = "562"
+B_HP = "37"
+B_RBI = "627"
+B_SO = "596"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Leesburg"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4600"
+B_R = "695"
+B_ER = "524"
+B_H = "1218"
+B_2B = "152"
+B_3B = "45"
+B_HR = "7"
+B_TB = "1481"
+B_SH = "84"
+B_SB = "90"
+B_BB = "622"
+B_HP = "44"
+B_RBI = "587"
+B_SO = "502"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Orlando"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4742"
+B_R = "841"
+B_ER = "653"
+B_H = "1246"
+B_2B = "191"
+B_3B = "81"
+B_HR = "25"
+B_TB = "1674"
+B_SH = "87"
+B_SB = "140"
+B_BB = "707"
+B_HP = "36"
+B_RBI = "701"
+B_SO = "611"
+B_AVG = ".263"
+
+
+[[team]]
+name = "DeLand"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4686"
+B_R = "815"
+B_ER = "561"
+B_H = "1213"
+B_2B = "185"
+B_3B = "67"
+B_HR = "16"
+B_TB = "1580"
+B_SH = "109"
+B_SB = "156"
+B_BB = "695"
+B_HP = "44"
+B_RBI = "674"
+B_SO = "555"
+B_AVG = ".259"
+
+
+[[team]]
+name = "St. Augustine"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4598"
+B_R = "742"
+B_ER = "512"
+B_H = "1188"
+B_2B = "160"
+B_3B = "36"
+B_HR = "12"
+B_TB = "1456"
+B_SH = "136"
+B_SB = "201"
+B_BB = "651"
+B_HP = "50"
+B_RBI = "587"
+B_SO = "502"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Sanford"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4623"
+B_R = "778"
+B_ER = "562"
+B_H = "1193"
+B_2B = "171"
+B_3B = "62"
+B_HR = "15"
+B_TB = "1533"
+B_SH = "98"
+B_SB = "190"
+B_BB = "652"
+B_HP = "26"
+B_RBI = "641"
+B_SO = "553"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Palatka"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4581"
+B_R = "720"
+B_ER = "549"
+B_H = "1155"
+B_2B = "173"
+B_3B = "21"
+B_HR = "19"
+B_TB = "1427"
+B_SH = "49"
+B_SB = "109"
+B_BB = "765"
+B_HP = "51"
+B_RBI = "585"
+B_SO = "551"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4704"
+B_R = "697"
+B_ER = "484"
+B_H = "1123"
+B_2B = "161"
+B_3B = "31"
+B_HR = "28"
+B_TB = "1430"
+B_SH = "93"
+B_SB = "104"
+B_BB = "662"
+B_HP = "50"
+B_RBI = "587"
+B_SO = "737"
+B_AVG = ".239"

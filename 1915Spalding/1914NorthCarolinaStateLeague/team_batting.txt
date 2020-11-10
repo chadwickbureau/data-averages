@@ -1,0 +1,118 @@
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3967"
+B_H = "1018"
+B_R = "553"
+B_1B = "731"
+B_2B = "192"
+B_3B = "38"
+B_HR = "57"
+B_TB = "1457"
+B_SH = "118"
+B_SB = "166"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3970"
+B_H = "1018"
+B_R = "537"
+B_1B = "768"
+B_2B = "170"
+B_3B = "45"
+B_HR = "35"
+B_TB = "1383"
+B_SH = "177"
+B_SB = "188"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3913"
+B_H = "975"
+B_R = "475"
+B_1B = "791"
+B_2B = "120"
+B_3B = "45"
+B_HR = "16"
+B_TB = "1233"
+B_SH = "179"
+B_SB = "238"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3999"
+B_H = "991"
+B_R = "445"
+B_1B = "762"
+B_2B = "126"
+B_3B = "58"
+B_HR = "45"
+B_TB = "1368"
+B_SH = "149"
+B_SB = "92"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3849"
+B_H = "914"
+B_R = "431"
+B_1B = "706"
+B_2B = "149"
+B_3B = "34"
+B_HR = "25"
+B_TB = "1206"
+B_SH = "152"
+B_SB = "187"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3938"
+B_H = "911"
+B_R = "451"
+B_1B = "727"
+B_2B = "131"
+B_3B = "37"
+B_HR = "16"
+B_TB = "1164"
+B_SH = "155"
+B_SB = "176"
+B_AVG = ".231"

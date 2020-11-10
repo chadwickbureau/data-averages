@@ -1,0 +1,70 @@
+[[team]]
+name = "Winchester"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3259"
+B_H = "750"
+B_AVG = ".230"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3181"
+B_H = "747"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3230"
+B_H = "792"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3303"
+B_H = "813"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2889"
+B_H = "669"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Shelbyville"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2444"
+B_H = "562"
+B_AVG = ".230"

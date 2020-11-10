@@ -1,0 +1,126 @@
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2122"
+B_R = "266"
+B_H = "557"
+B_TB = "707"
+B_SB = "108"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "67"
+B_AB = "2127"
+B_R = "247"
+B_H = "567"
+B_TB = "690"
+B_SB = "81"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "73"
+B_AB = "2405"
+B_R = "306"
+B_H = "619"
+B_TB = "792"
+B_SB = "73"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "69"
+B_AB = "2204"
+B_R = "236"
+B_H = "539"
+B_TB = "658"
+B_SB = "59"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "69"
+B_AB = "2143"
+B_R = "221"
+B_H = "505"
+B_TB = "653"
+B_SB = "37"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2250"
+B_R = "247"
+B_H = "533"
+B_TB = "660"
+B_SB = "72"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "68"
+B_AB = "2149"
+B_R = "191"
+B_H = "490"
+B_TB = "632"
+B_SB = "55"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "73"
+B_AB = "2281"
+B_R = "254"
+B_H = "529"
+B_TB = "675"
+B_SB = "52"
+B_AVG = ".232"

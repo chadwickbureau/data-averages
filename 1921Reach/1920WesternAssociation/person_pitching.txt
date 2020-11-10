@@ -1,0 +1,1231 @@
+[[person]]
+name.last = "Parks"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Drumright"
+[person.playing.totals]
+P_G = "14"
+P_IP = "124"
+P_AB = "471"
+P_H = "84"
+P_R = "41"
+P_ER = "29"
+P_SH = "12"
+P_HP = "0"
+P_BB = "15"
+P_SO = "67"
+P_WP = "1"
+P_BK = "0"
+P_W = "11"
+P_L = "2"
+P_PCT = ".846"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Okmulgee"
+[person.playing.totals]
+P_G = "14"
+P_IP = "96"
+P_AB = "393"
+P_H = "81"
+P_R = "30"
+P_ER = "24"
+P_SH = "12"
+P_HP = "11"
+P_BB = "38"
+P_SO = "56"
+P_WP = "2"
+P_BK = "0"
+P_W = "9"
+P_L = "2"
+P_PCT = ".818"
+
+
+[[person]]
+name.last = "Holtzhouser"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Okmulgee"
+[person.playing.totals]
+P_G = "26"
+P_IP = "106"
+P_AB = "302"
+P_H = "68"
+P_R = "40"
+P_ER = "30"
+P_SH = "15"
+P_HP = "2"
+P_BB = "31"
+P_SO = "75"
+P_WP = "1"
+P_BK = "0"
+P_W = "9"
+P_L = "3"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "C."
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Okmulgee"
+[person.playing.totals]
+P_G = "32"
+P_IP = "268"
+P_AB = "1108"
+P_H = "195"
+P_R = "75"
+P_ER = "54"
+P_SH = "24"
+P_HP = "7"
+P_BB = "66"
+P_SO = "153"
+P_WP = "5"
+P_BK = "1"
+P_W = "22"
+P_L = "8"
+P_PCT = ".733"
+
+
+[[person]]
+name.last = "Gray"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henryetta"
+[person.playing.totals]
+P_G = "43"
+P_IP = "327"
+P_AB = "1291"
+P_H = "252"
+P_R = "99"
+P_ER = "60"
+P_SH = "34"
+P_HP = "17"
+P_BB = "79"
+P_SO = "195"
+P_WP = "8"
+P_BK = "0"
+P_W = "26"
+P_L = "10"
+P_PCT = ".722"
+
+
+[[person]]
+name.last = "McGuire"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "35"
+P_IP = "240"
+P_AB = "983"
+P_H = "172"
+P_R = "88"
+P_ER = "56"
+P_SH = "20"
+P_HP = "19"
+P_BB = "78"
+P_SO = "128"
+P_WP = "5"
+P_BK = "0"
+P_W = "20"
+P_L = "8"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Smith"
+[[person.playing.split]]
+team.name = "Chickasha"
+[person.playing.totals]
+P_G = "10"
+P_IP = "71"
+P_AB = "293"
+P_H = "76"
+P_R = "33"
+P_ER = "26"
+P_SH = "14"
+P_HP = "5"
+P_BB = "13"
+P_SO = "28"
+P_WP = "0"
+P_BK = "0"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Dodson"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Smith"
+[person.playing.totals]
+P_G = "35"
+P_IP = "253"
+P_AB = "973"
+P_H = "190"
+P_R = "85"
+P_ER = "45"
+P_SH = "32"
+P_HP = "19"
+P_BB = "62"
+P_SO = "144"
+P_WP = "8"
+P_BK = "0"
+P_W = "19"
+P_L = "8"
+P_PCT = ".704"
+
+
+[[person]]
+name.last = "Biggers"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "32"
+P_IP = "220"
+P_AB = "881"
+P_H = "160"
+P_R = "102"
+P_ER = "59"
+P_SH = "26"
+P_HP = "14"
+P_BB = "39"
+P_SO = "95"
+P_WP = "14"
+P_BK = "0"
+P_W = "15"
+P_L = "7"
+P_PCT = ".682"
+
+
+[[person]]
+name.last = "Powell"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henryetta"
+[person.playing.totals]
+P_G = "10"
+P_IP = "82"
+P_AB = "320"
+P_H = "70"
+P_R = "18"
+P_ER = "7"
+P_SH = "14"
+P_HP = "5"
+P_BB = "15"
+P_SO = "32"
+P_WP = "1"
+P_BK = "0"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Upchurch"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Okmulgee"
+[person.playing.totals]
+P_G = "33"
+P_IP = "221"
+P_AB = "897"
+P_H = "222"
+P_R = "104"
+P_ER = "81"
+P_SH = "26"
+P_HP = "11"
+P_BB = "31"
+P_SO = "68"
+P_WP = "2"
+P_BK = "0"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Kerns"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "34"
+P_IP = "241"
+P_AB = "1004"
+P_H = "194"
+P_R = "112"
+P_ER = "81"
+P_SH = "15"
+P_HP = "11"
+P_BB = "62"
+P_SO = "145"
+P_WP = "4"
+P_BK = "0"
+P_W = "15"
+P_L = "9"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Berger"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "16"
+P_IP = "102"
+P_AB = "442"
+P_H = "75"
+P_R = "31"
+P_ER = "19"
+P_SH = "13"
+P_HP = "2"
+P_BB = "28"
+P_SO = "51"
+P_WP = "1"
+P_BK = "0"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Ingraham"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henryetta"
+[person.playing.totals]
+P_G = "28"
+P_IP = "187"
+P_AB = "765"
+P_H = "153"
+P_R = "67"
+P_ER = "40"
+P_SH = "30"
+P_HP = "5"
+P_BB = "58"
+P_SO = "99"
+P_WP = "2"
+P_BK = "1"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Adkins"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henryetta"
+[person.playing.totals]
+P_G = "43"
+P_IP = "318"
+P_AB = "1238"
+P_H = "233"
+P_R = "106"
+P_ER = "62"
+P_SH = "40"
+P_HP = "15"
+P_BB = "67"
+P_SO = "141"
+P_WP = "6"
+P_BK = "2"
+P_W = "21"
+P_L = "14"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Okmulgee"
+[person.playing.totals]
+P_G = "40"
+P_IP = "323"
+P_AB = "1189"
+P_H = "296"
+P_R = "131"
+P_ER = "104"
+P_SH = "26"
+P_HP = "8"
+P_BB = "90"
+P_SO = "138"
+P_WP = "6"
+P_BK = "0"
+P_W = "22"
+P_L = "15"
+P_PCT = ".595"
+
+
+[[person]]
+name.last = "Wade"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Smith"
+[person.playing.totals]
+P_G = "30"
+P_IP = "187"
+P_AB = "719"
+P_H = "147"
+P_R = "81"
+P_ER = "37"
+P_SH = "35"
+P_HP = "7"
+P_BB = "61"
+P_SO = "144"
+P_WP = "10"
+P_BK = "0"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+
+
+[[person]]
+name.last = "Deason"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Smith"
+[person.playing.totals]
+P_G = "35"
+P_IP = "258"
+P_AB = "996"
+P_H = "211"
+P_R = "84"
+P_ER = "51"
+P_SH = "34"
+P_HP = "8"
+P_BB = "23"
+P_SO = "110"
+P_WP = "2"
+P_BK = "1"
+P_W = "17"
+P_L = "12"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Jelsma"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Drumright"
+[person.playing.totals]
+P_G = "35"
+P_IP = "274"
+P_AB = "1138"
+P_H = "255"
+P_R = "86"
+P_ER = "63"
+P_SH = "34"
+P_HP = "5"
+P_BB = "43"
+P_SO = "124"
+P_WP = "6"
+P_BK = "1"
+P_W = "17"
+P_L = "12"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "13"
+P_IP = "94"
+P_AB = "404"
+P_H = "90"
+P_R = "51"
+P_ER = "40"
+P_SH = "15"
+P_HP = "3"
+P_BB = "30"
+P_SO = "37"
+P_WP = "4"
+P_BK = "0"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Rolf"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Smith"
+[person.playing.totals]
+P_G = "38"
+P_IP = "273"
+P_AB = "1041"
+P_H = "248"
+P_R = "105"
+P_ER = "61"
+P_SH = "31"
+P_HP = "13"
+P_BB = "81"
+P_SO = "127"
+P_WP = "1"
+P_BK = "0"
+P_W = "18"
+P_L = "14"
+P_PCT = ".563"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "35"
+P_IP = "250"
+P_AB = "1062"
+P_H = "200"
+P_R = "108"
+P_ER = "73"
+P_SH = "20"
+P_HP = "25"
+P_BB = "105"
+P_SO = "163"
+P_WP = "6"
+P_BK = "0"
+P_W = "14"
+P_L = "11"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "Benton"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "11"
+P_IP = "80"
+P_AB = "340"
+P_H = "66"
+P_R = "25"
+P_ER = "16"
+P_SH = "18"
+P_HP = "4"
+P_BB = "28"
+P_SO = "29"
+P_WP = "8"
+P_BK = "1"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawhuska"
+[person.playing.totals]
+P_G = "20"
+P_IP = "156"
+P_AB = "673"
+P_H = "141"
+P_R = "73"
+P_ER = "47"
+P_SH = "21"
+P_HP = "16"
+P_BB = "37"
+P_SO = "56"
+P_WP = "4"
+P_BK = "0"
+P_W = "10"
+P_L = "9"
+P_PCT = ".520"
+
+
+[[person]]
+name.last = "Haag"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Drumright"
+[person.playing.totals]
+P_G = "34"
+P_IP = "251"
+P_AB = "1023"
+P_H = "243"
+P_R = "97"
+P_ER = "67"
+P_SH = "42"
+P_HP = "9"
+P_BB = "37"
+P_SO = "119"
+P_WP = "7"
+P_BK = "0"
+P_W = "14"
+P_L = "14"
+P_PCT = ".506"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "33"
+P_IP = "224"
+P_AB = "868"
+P_H = "177"
+P_R = "107"
+P_ER = "73"
+P_SH = "36"
+P_HP = "6"
+P_BB = "47"
+P_SO = "67"
+P_WP = "3"
+P_BK = "0"
+P_W = "10"
+P_L = "10"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chickasha"
+[person.playing.totals]
+P_G = "33"
+P_IP = "230"
+P_AB = "1124"
+P_H = "249"
+P_R = "102"
+P_ER = "83"
+P_SH = "39"
+P_HP = "21"
+P_BB = "53"
+P_SO = "106"
+P_WP = "3"
+P_BK = "0"
+P_W = "14"
+P_L = "14"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Smith"
+[person.playing.totals]
+P_G = "22"
+P_IP = "148"
+P_AB = "590"
+P_H = "159"
+P_R = "65"
+P_ER = "45"
+P_SH = "23"
+P_HP = "9"
+P_BB = "25"
+P_SO = "68"
+P_WP = "2"
+P_BK = "0"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Drumright"
+[person.playing.totals]
+P_G = "22"
+P_IP = "109"
+P_AB = "440"
+P_H = "103"
+P_R = "41"
+P_ER = "23"
+P_SH = "18"
+P_HP = "2"
+P_BB = "28"
+P_SO = "49"
+P_WP = "3"
+P_BK = "0"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Dunham"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henryetta"
+[person.playing.totals]
+P_G = "13"
+P_IP = "70"
+P_AB = "272"
+P_H = "46"
+P_R = "27"
+P_ER = "14"
+P_SH = "6"
+P_HP = "7"
+P_BB = "18"
+P_SO = "29"
+P_WP = "3"
+P_BK = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Speake"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chickasha"
+[person.playing.totals]
+P_G = "10"
+P_IP = "61"
+P_AB = "277"
+P_H = "65"
+P_R = "31"
+P_ER = "25"
+P_SH = "12"
+P_HP = "4"
+P_BB = "18"
+P_SO = "22"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chickasha"
+[person.playing.totals]
+P_G = "27"
+P_IP = "166"
+P_AB = "805"
+P_H = "176"
+P_R = "88"
+P_ER = "59"
+P_SH = "36"
+P_HP = "11"
+P_BB = "42"
+P_SO = "97"
+P_WP = "7"
+P_BK = "0"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "Hoover"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "26"
+P_IP = "166"
+P_AB = "737"
+P_H = "151"
+P_R = "93"
+P_ER = "57"
+P_SH = "34"
+P_HP = "13"
+P_BB = "55"
+P_SO = "69"
+P_WP = "10"
+P_BK = "1"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Reynolds"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Enid"
+[person.playing.totals]
+P_G = "16"
+P_IP = "116"
+P_AB = "532"
+P_H = "119"
+P_R = "57"
+P_ER = "38"
+P_SH = "12"
+P_HP = "6"
+P_BB = "18"
+P_SO = "74"
+P_WP = "0"
+P_BK = "0"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Sayre"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "17"
+P_IP = "129"
+P_AB = "530"
+P_H = "121"
+P_R = "56"
+P_ER = "39"
+P_SH = "21"
+P_HP = "7"
+P_BB = "16"
+P_SO = "27"
+P_WP = "2"
+P_BK = "0"
+P_W = "4"
+P_L = "10"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Cardner"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Henryetta"
+[[person.playing.split]]
+team.name = "Okmulgee"
+[person.playing.totals]
+P_G = "18"
+P_IP = "112"
+P_AB = "474"
+P_H = "93"
+P_R = "64"
+P_ER = "54"
+P_SH = "10"
+P_HP = "11"
+P_BB = "33"
+P_SO = "32"
+P_WP = "5"
+P_BK = "0"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chickasha"
+[person.playing.totals]
+P_G = "29"
+P_IP = "184"
+P_AB = "766"
+P_H = "191"
+P_R = "91"
+P_ER = "67"
+P_SH = "34"
+P_HP = "7"
+P_BB = "46"
+P_SO = "73"
+P_WP = "6"
+P_BK = "3"
+P_W = "9"
+P_L = "15"
+P_PCT = ".376"
+
+
+[[person]]
+name.last = "Tabor"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Drumright"
+[person.playing.totals]
+P_G = "16"
+P_IP = "89"
+P_AB = "366"
+P_H = "103"
+P_R = "56"
+P_ER = "36"
+P_SH = "14"
+P_HP = "1"
+P_BB = "34"
+P_SO = "55"
+P_WP = "2"
+P_BK = "0"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chickasha"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "31"
+P_IP = "195"
+P_AB = "782"
+P_H = "194"
+P_R = "86"
+P_ER = "57"
+P_SH = "22"
+P_HP = "6"
+P_BB = "47"
+P_SO = "70"
+P_WP = "6"
+P_BK = "1"
+P_W = "8"
+P_L = "13"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Farnam"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawhuska"
+[person.playing.totals]
+P_G = "32"
+P_IP = "214"
+P_AB = "887"
+P_H = "254"
+P_R = "147"
+P_ER = "109"
+P_SH = "50"
+P_HP = "6"
+P_BB = "53"
+P_SO = "63"
+P_WP = "6"
+P_BK = "1"
+P_W = "7"
+P_L = "20"
+P_PCT = ".259"
+
+
+[[person]]
+name.last = "Kraft"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Drumright"
+[[person.playing.split]]
+team.name = "Chickasha"
+[person.playing.totals]
+P_G = "22"
+P_IP = "150"
+P_AB = "608"
+P_H = "136"
+P_R = "79"
+P_ER = "44"
+P_SH = "19"
+P_HP = "14"
+P_BB = "39"
+P_SO = "67"
+P_WP = "6"
+P_BK = "0"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Markland"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "18"
+P_IP = "131"
+P_AB = "522"
+P_H = "115"
+P_R = "70"
+P_ER = "45"
+P_SH = "26"
+P_HP = "8"
+P_BB = "59"
+P_SO = "55"
+P_WP = "6"
+P_BK = "1"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Malone"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawhuska"
+[person.playing.totals]
+P_G = "41"
+P_IP = "253"
+P_AB = "999"
+P_H = "286"
+P_R = "172"
+P_ER = "124"
+P_SH = "51"
+P_HP = "4"
+P_BB = "87"
+P_SO = "60"
+P_WP = "3"
+P_BK = "0"
+P_W = "7"
+P_L = "23"
+P_PCT = ".233"
+
+
+[[person]]
+name.last = "Payne"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chickasha"
+[person.playing.totals]
+P_G = "19"
+P_IP = "143"
+P_AB = "489"
+P_H = "121"
+P_R = "79"
+P_ER = "58"
+P_SH = "28"
+P_HP = "20"
+P_BB = "49"
+P_SO = "94"
+P_WP = "6"
+P_BK = "0"
+P_W = "4"
+P_L = "14"
+P_PCT = ".222"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Drumright"
+[person.playing.totals]
+P_G = "17"
+P_IP = "146"
+P_AB = "567"
+P_H = "131"
+P_R = "43"
+P_ER = "31"
+P_SH = "20"
+P_HP = "5"
+P_BB = "33"
+P_SO = "78"
+P_WP = "6"
+P_BK = "0"
+P_W = "3"
+P_L = "11"
+P_PCT = ".214"
+
+
+[[person]]
+name.last = "Harle"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawhuska"
+[person.playing.totals]
+P_G = "35"
+P_IP = "268"
+P_AB = "1064"
+P_H = "224"
+P_R = "124"
+P_ER = "89"
+P_SH = "53"
+P_HP = "10"
+P_BB = "73"
+P_SO = "145"
+P_WP = "8"
+P_BK = "2"
+P_W = "3"
+P_L = "22"
+P_PCT = ".120"
+
+
+[[person]]
+name.last = "Gilmore"
+[[person.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawhuska"
+[person.playing.totals]
+P_G = "22"
+P_IP = "124"
+P_AB = "576"
+P_H = "143"
+P_R = "96"
+P_ER = "69"
+P_SH = "32"
+P_HP = "14"
+P_BB = "61"
+P_SO = "55"
+P_WP = "13"
+P_BK = "2"
+P_W = "0"
+P_L = "13"
+P_PCT = ".000"

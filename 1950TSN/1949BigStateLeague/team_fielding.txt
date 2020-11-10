@@ -1,0 +1,134 @@
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "170"
+F_PB = "15"
+F_PO = "3857"
+F_A = "1737"
+F_E = "195"
+F_PCT = ".966"
+F_TP = "2"
+
+
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "116"
+F_PB = "23"
+F_PO = "3816"
+F_A = "1511"
+F_E = "215"
+F_PCT = ".961"
+F_TP = "0"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_DP = "136"
+F_PB = "15"
+F_PO = "3845"
+F_A = "1703"
+F_E = "229"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "169"
+F_PB = "19"
+F_PO = "3906"
+F_A = "1745"
+F_E = "247"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_DP = "128"
+F_PB = "14"
+F_PO = "3859"
+F_A = "1679"
+F_E = "244"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Sherman-Denison"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "143"
+F_PB = "25"
+F_PO = "3827"
+F_A = "1729"
+F_E = "257"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "185"
+F_PB = "23"
+F_PO = "3940"
+F_A = "1616"
+F_E = "259"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "136"
+F_PB = "24"
+F_PO = "3862"
+F_A = "1540"
+F_E = "262"
+F_PCT = ".954"
+F_TP = "0"

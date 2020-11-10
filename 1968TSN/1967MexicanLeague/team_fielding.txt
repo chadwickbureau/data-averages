@@ -1,0 +1,134 @@
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3579"
+F_A = "1566"
+F_E = "123"
+F_DP = "146"
+F_PB = "30"
+F_PCT = ".977"
+F_TP = "0"
+
+
+[[team]]
+name = "Puebla"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3590"
+F_A = "1689"
+F_E = "149"
+F_DP = "145"
+F_PB = "29"
+F_PCT = ".973"
+F_TP = "0"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_PO = "3742"
+F_A = "1607"
+F_E = "162"
+F_DP = "137"
+F_PB = "14"
+F_PCT = ".971"
+F_TP = "0"
+
+
+[[team]]
+name = "Jalisco"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3671"
+F_A = "1589"
+F_E = "164"
+F_DP = "162"
+F_PB = "21"
+F_PCT = ".970"
+F_TP = "0"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3741"
+F_A = "1541"
+F_E = "175"
+F_DP = "136"
+F_PB = "38"
+F_PCT = ".968"
+F_TP = "1"
+
+
+[[team]]
+name = "Veracruz"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3742"
+F_A = "1719"
+F_E = "186"
+F_DP = "127"
+F_PB = "12"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Reynosa"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3694"
+F_A = "1451"
+F_E = "192"
+F_DP = "145"
+F_PB = "17"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3640"
+F_A = "1631"
+F_E = "203"
+F_DP = "119"
+F_PB = "16"
+F_PCT = ".963"
+F_TP = "0"

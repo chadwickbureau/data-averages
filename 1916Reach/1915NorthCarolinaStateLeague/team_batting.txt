@@ -1,0 +1,112 @@
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4084"
+B_R = "573"
+B_1B = "800"
+B_2B = "197"
+B_3B = "56"
+B_HR = "42"
+B_TB = "1530"
+B_SH = "154"
+B_SB = "196"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4050"
+B_R = "507"
+B_1B = "704"
+B_2B = "180"
+B_3B = "31"
+B_HR = "54"
+B_TB = "1373"
+B_SH = "134"
+B_SB = "143"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3940"
+B_R = "475"
+B_1B = "706"
+B_2B = "144"
+B_3B = "48"
+B_HR = "35"
+B_TB = "1278"
+B_SH = "165"
+B_SB = "173"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3976"
+B_R = "502"
+B_1B = "664"
+B_2B = "133"
+B_3B = "63"
+B_HR = "38"
+B_TB = "1271"
+B_SH = "145"
+B_SB = "244"
+B_AVG = ".226"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4003"
+B_R = "435"
+B_1B = "703"
+B_2B = "129"
+B_3B = "20"
+B_HR = "26"
+B_TB = "1185"
+B_SH = "154"
+B_SB = "152"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3764"
+B_R = "363"
+B_1B = "602"
+B_2B = "161"
+B_3B = "31"
+B_HR = "22"
+B_TB = "1105"
+B_SH = "144"
+B_SB = "153"
+B_AVG = ".217"

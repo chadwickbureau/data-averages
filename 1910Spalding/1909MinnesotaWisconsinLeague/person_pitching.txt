@@ -1,0 +1,437 @@
+[[person]]
+name.last = "Nicholson"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eau Claire"
+[person.playing.totals]
+P_G = "12"
+P_W = "8"
+P_L = "2"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Converse"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winona"
+[person.playing.totals]
+P_G = "12"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Stremmel"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "33"
+P_W = "22"
+P_L = "9"
+P_PCT = ".729"
+
+
+[[person]]
+name.last = "Schardt"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Crosse"
+[person.playing.totals]
+P_G = "28"
+P_W = "16"
+P_L = "8"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Dauss"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_G = "33"
+P_W = "19"
+P_L = "10"
+P_PCT = ".655"
+
+
+[[person]]
+name.last = "Marion"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_G = "39"
+P_W = "19"
+P_L = "12"
+P_PCT = ".613"
+
+
+[[person]]
+name.last = "Pfeffer"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Crosse"
+[person.playing.totals]
+P_G = "33"
+P_W = "18"
+P_L = "12"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_G = "27"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winona"
+[person.playing.totals]
+P_G = "13"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Guhl"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eau Claire"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "13"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Worman"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eau Claire"
+[person.playing.totals]
+P_G = "31"
+P_W = "12"
+P_L = "10"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Corbett"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winona"
+[person.playing.totals]
+P_G = "24"
+P_W = "13"
+P_L = "11"
+P_PCT = ".542"
+
+
+[[person]]
+name.last = "Schroeder"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eau Claire"
+[person.playing.totals]
+P_G = "38"
+P_W = "16"
+P_L = "14"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Byers"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winona"
+[person.playing.totals]
+P_G = "28"
+P_W = "14"
+P_L = "13"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Morrow"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eau Claire"
+[person.playing.totals]
+P_G = "32"
+P_W = "15"
+P_L = "14"
+P_PCT = ".517"
+
+
+[[person]]
+name.last = "Cates"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winona"
+[person.playing.totals]
+P_G = "15"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Dunbar"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "38"
+P_W = "18"
+P_L = "18"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_G = "14"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Watson"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Crosse"
+[person.playing.totals]
+P_G = "24"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+
+
+[[person]]
+name.last = "Thoreson"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_G = "24"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Russell"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "23"
+P_W = "8"
+P_L = "9"
+P_PCT = ".471"
+
+
+[[person]]
+name.last = "Lakoff"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "36"
+P_W = "15"
+P_L = "18"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Wolford"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Crosse"
+[person.playing.totals]
+P_G = "24"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Schieffer"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "32"
+P_W = "10"
+P_L = "13"
+P_PCT = ".435"
+
+
+[[person]]
+name.last = "Peterson"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Baillies"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winona"
+[person.playing.totals]
+P_G = "36"
+P_W = "14"
+P_L = "20"
+P_PCT = ".412"
+
+
+[[person]]
+name.last = "Klingebiel"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "31"
+P_W = "10"
+P_L = "12"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Eis"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eau Claire"
+[person.playing.totals]
+P_G = "19"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Baertschi"
+[[person.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "29"
+P_W = "9"
+P_L = "16"
+P_PCT = ".360"

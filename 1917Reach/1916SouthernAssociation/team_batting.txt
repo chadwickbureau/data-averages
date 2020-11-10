@@ -1,0 +1,158 @@
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4049"
+B_R = "485"
+B_H = "1095"
+B_2B = "159"
+B_3B = "60"
+B_HR = "28"
+B_TB = "1458"
+B_SH = "214"
+B_SB = "110"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4483"
+B_R = "580"
+B_H = "1212"
+B_2B = "171"
+B_3B = "64"
+B_HR = "32"
+B_TB = "1607"
+B_SH = "159"
+B_SB = "162"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4124"
+B_R = "458"
+B_H = "1022"
+B_2B = "140"
+B_3B = "55"
+B_HR = "17"
+B_TB = "1326"
+B_SH = "162"
+B_SB = "177"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4300"
+B_R = "487"
+B_H = "1063"
+B_2B = "163"
+B_3B = "48"
+B_HR = "11"
+B_TB = "1355"
+B_SH = "210"
+B_SB = "142"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4722"
+B_R = "691"
+B_H = "1160"
+B_2B = "141"
+B_3B = "50"
+B_HR = "25"
+B_TB = "1376"
+B_SH = "224"
+B_SB = "138"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4329"
+B_R = "486"
+B_H = "1051"
+B_2B = "163"
+B_3B = "43"
+B_HR = "28"
+B_TB = "1384"
+B_SH = "204"
+B_SB = "141"
+B_AVG = ".243"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4113"
+B_R = "479"
+B_H = "1000"
+B_2B = "139"
+B_3B = "47"
+B_HR = "22"
+B_TB = "1299"
+B_SH = "183"
+B_SB = "137"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4204"
+B_R = "380"
+B_H = "997"
+B_2B = "126"
+B_3B = "32"
+B_HR = "16"
+B_TB = "1235"
+B_SH = "140"
+B_SB = "128"
+B_AVG = ".237"

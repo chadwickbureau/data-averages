@@ -1,0 +1,100 @@
+[[team]]
+name = "Galax"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "117"
+F_PB = "38"
+F_PO = "3208"
+F_A = "1427"
+F_E = "220"
+F_TP = "0"
+F_PCT = ".955"
+
+
+[[team]]
+name = "North Wilkesboro"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "121"
+F_PB = "22"
+F_PO = "3182"
+F_A = "1423"
+F_E = "228"
+F_TP = "1"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Elkin"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "91"
+F_PB = "25"
+F_PO = "3374"
+F_A = "1410"
+F_E = "245"
+F_TP = "2"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "104"
+F_PB = "43"
+F_PO = "3196"
+F_A = "1332"
+F_E = "259"
+F_TP = "1"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Radford"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "63"
+F_PB = "20"
+F_PO = "3175"
+F_A = "1258"
+F_E = "305"
+F_TP = "0"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Mount Airy"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "81"
+F_PB = "36"
+F_PO = "3026"
+F_A = "1238"
+F_E = "293"
+F_TP = "0"
+F_PCT = ".936"

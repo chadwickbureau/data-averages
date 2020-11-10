@@ -1,0 +1,3279 @@
+[[person]]
+name.last = "Calvin"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "26"
+F_1B_PO = "234"
+F_1B_A = "10"
+F_1B_E = "2"
+F_1B_DP = "13"
+F_1B_PCT = ".992"
+
+
+[[person]]
+name.last = "Boehringer"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "14"
+F_1B_PO = "120"
+F_1B_A = "4"
+F_1B_E = "1"
+F_1B_DP = "7"
+F_1B_PCT = ".992"
+
+
+[[person]]
+name.last = "Jessen"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "82"
+F_1B_PO = "760"
+F_1B_A = "45"
+F_1B_E = "9"
+F_1B_DP = "51"
+F_1B_PCT = ".989"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "104"
+F_1B_PO = "866"
+F_1B_A = "70"
+F_1B_E = "12"
+F_1B_DP = "52"
+F_1B_PCT = ".987"
+
+
+[[person]]
+name.last = "Sanford"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "30"
+F_1B_PO = "269"
+F_1B_A = "16"
+F_1B_E = "4"
+F_1B_DP = "9"
+F_1B_PCT = ".986"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "119"
+F_1B_PO = "1162"
+F_1B_A = "44"
+F_1B_E = "18"
+F_1B_DP = "84"
+F_1B_PCT = ".985"
+
+
+[[person]]
+name.last = "Baughn"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "115"
+F_1B_PO = "1105"
+F_1B_A = "46"
+F_1B_E = "20"
+F_1B_DP = "96"
+F_1B_PCT = ".983"
+
+
+[[person]]
+name.last = "Kramer"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "76"
+F_1B_PO = "654"
+F_1B_A = "50"
+F_1B_E = "12"
+F_1B_DP = "54"
+F_1B_PCT = ".983"
+
+
+[[person]]
+name.last = "Fontaine"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "47"
+F_1B_PO = "397"
+F_1B_A = "81"
+F_1B_E = "8"
+F_1B_DP = "27"
+F_1B_PCT = ".982"
+
+
+[[person]]
+name.last = "Atkins"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "81"
+F_1B_PO = "262"
+F_1B_A = "27"
+F_1B_E = "6"
+F_1B_DP = "13"
+F_1B_PCT = ".980"
+
+
+[[person]]
+name.last = "Gardella"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "22"
+F_1B_PO = "201"
+F_1B_A = "17"
+F_1B_E = "5"
+F_1B_DP = "16"
+F_1B_PCT = ".978"
+
+
+[[person]]
+name.last = "Ignasiak"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "23"
+F_1B_PO = "182"
+F_1B_A = "20"
+F_1B_E = "5"
+F_1B_DP = "13"
+F_1B_PCT = ".976"
+
+
+[[person]]
+name.last = "Dinges"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "25"
+F_1B_PO = "215"
+F_1B_A = "22"
+F_1B_E = "7"
+F_1B_DP = "17"
+F_1B_PCT = ".971"
+
+
+[[person]]
+name.last = "Greenwald"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "14"
+F_1B_PO = "147"
+F_1B_A = "9"
+F_1B_E = "5"
+F_1B_DP = "8"
+F_1B_PCT = ".969"
+
+
+[[person]]
+name.last = "Distefano"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "73"
+F_1B_A = "1"
+F_1B_E = "3"
+F_1B_DP = "2"
+F_1B_PCT = ".961"
+
+
+[[person]]
+name.last = "Bucz"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "11"
+F_1B_PO = "101"
+F_1B_A = "4"
+F_1B_E = "5"
+F_1B_DP = "10"
+F_1B_PCT = ".955"
+
+
+[[person]]
+name.last = "Rochelli"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "22"
+F_2B_PO = "70"
+F_2B_A = "82"
+F_2B_E = "2"
+F_2B_DP = "12"
+F_2B_PCT = ".988"
+
+
+[[person]]
+name.last = "Usciak"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "38"
+F_2B_A = "50"
+F_2B_E = "2"
+F_2B_DP = "7"
+F_2B_PCT = ".978"
+
+
+[[person]]
+name.last = "Vanek"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "35"
+F_2B_PO = "90"
+F_2B_A = "104"
+F_2B_E = "6"
+F_2B_DP = "15"
+F_2B_PCT = ".970"
+
+
+[[person]]
+name.last = "Koney"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "72"
+F_2B_PO = "166"
+F_2B_A = "220"
+F_2B_E = "14"
+F_2B_DP = "20"
+F_2B_PCT = ".965"
+
+
+[[person]]
+name.last = "Hoffman"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "129"
+F_2B_PO = "331"
+F_2B_A = "408"
+F_2B_E = "28"
+F_2B_DP = "78"
+F_2B_PCT = ".963"
+
+
+[[person]]
+name.last = "Glunt"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "106"
+F_2B_PO = "250"
+F_2B_A = "322"
+F_2B_E = "29"
+F_2B_DP = "62"
+F_2B_PCT = ".952"
+
+
+[[person]]
+name.last = "Erps"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "50"
+F_2B_A = "26"
+F_2B_E = "4"
+F_2B_DP = "7"
+F_2B_PCT = ".950"
+
+
+[[person]]
+name.last = "Danos"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "63"
+F_2B_PO = "189"
+F_2B_A = "205"
+F_2B_E = "21"
+F_2B_DP = "34"
+F_2B_PCT = ".949"
+
+
+[[person]]
+name.last = "Hamner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "42"
+F_2B_A = "44"
+F_2B_E = "5"
+F_2B_DP = "10"
+F_2B_PCT = ".945"
+
+
+[[person]]
+name.last = "Kale"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "17"
+F_2B_PO = "32"
+F_2B_A = "54"
+F_2B_E = "5"
+F_2B_DP = "7"
+F_2B_PCT = ".945"
+
+
+[[person]]
+name.last = "Castano"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "121"
+F_2B_PO = "249"
+F_2B_A = "331"
+F_2B_E = "42"
+F_2B_DP = "37"
+F_2B_PCT = ".932"
+
+
+[[person]]
+name.last = "Rawlinson"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "47"
+F_2B_PO = "93"
+F_2B_A = "158"
+F_2B_E = "19"
+F_2B_DP = "16"
+F_2B_PCT = ".930"
+
+
+[[person]]
+name.last = "Hayworth"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "26"
+F_2B_PO = "69"
+F_2B_A = "88"
+F_2B_E = "12"
+F_2B_DP = "13"
+F_2B_PCT = ".929"
+
+
+[[person]]
+name.last = "Kluttz"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "12"
+F_2B_PO = "27"
+F_2B_A = "26"
+F_2B_E = "5"
+F_2B_DP = "2"
+F_2B_PCT = ".914"
+
+
+[[person]]
+name.last = "Wilkie"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "22"
+F_2B_PO = "55"
+F_2B_A = "68"
+F_2B_E = "13"
+F_2B_DP = "10"
+F_2B_PCT = ".904"
+
+
+[[person]]
+name.last = "Provinzano"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "10"
+F_2B_PO = "30"
+F_2B_A = "33"
+F_2B_E = "7"
+F_2B_DP = "3"
+F_2B_PCT = ".900"
+
+
+[[person]]
+name.last = "Dean"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "12"
+F_2B_PO = "35"
+F_2B_A = "44"
+F_2B_E = "10"
+F_2B_DP = "7"
+F_2B_PCT = ".888"
+
+
+[[person]]
+name.last = "Blonski"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "32"
+F_3B_PO = "35"
+F_3B_A = "59"
+F_3B_E = "4"
+F_3B_DP = "5"
+F_3B_PCT = ".959"
+
+
+[[person]]
+name.last = "Sabena"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "23"
+F_3B_PO = "37"
+F_3B_A = "55"
+F_3B_E = "5"
+F_3B_DP = "5"
+F_3B_PCT = ".948"
+
+
+[[person]]
+name.last = "Motto"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "109"
+F_3B_PO = "107"
+F_3B_A = "194"
+F_3B_E = "17"
+F_3B_DP = "14"
+F_3B_PCT = ".947"
+
+
+[[person]]
+name.last = "Vanek"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "41"
+F_3B_PO = "44"
+F_3B_A = "78"
+F_3B_E = "8"
+F_3B_DP = "6"
+F_3B_PCT = ".938"
+
+
+[[person]]
+name.last = "Archer"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "39"
+F_3B_PO = "39"
+F_3B_A = "60"
+F_3B_E = "8"
+F_3B_DP = "4"
+F_3B_PCT = ".925"
+
+
+[[person]]
+name.last = "Driscoll"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "43"
+F_3B_PO = "59"
+F_3B_A = "73"
+F_3B_E = "11"
+F_3B_DP = "7"
+F_3B_PCT = ".933"
+
+
+[[person]]
+name.last = "Glunt"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "13"
+F_3B_PO = "24"
+F_3B_A = "31"
+F_3B_E = "5"
+F_3B_DP = "0"
+F_3B_PCT = ".917"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "52"
+F_3B_PO = "55"
+F_3B_A = "91"
+F_3B_E = "14"
+F_3B_DP = "8"
+F_3B_PCT = ".913"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "27"
+F_3B_PO = "26"
+F_3B_A = "47"
+F_3B_E = "7"
+F_3B_DP = "5"
+F_3B_PCT = ".913"
+
+
+[[person]]
+name.last = "Harkins"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "7"
+F_3B_A = "24"
+F_3B_E = "3"
+F_3B_DP = "2"
+F_3B_PCT = ".912"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "18"
+F_3B_PO = "13"
+F_3B_A = "27"
+F_3B_E = "4"
+F_3B_DP = "1"
+F_3B_PCT = ".909"
+
+
+[[person]]
+name.last = "Wortman"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "69"
+F_3B_PO = "85"
+F_3B_A = "117"
+F_3B_E = "21"
+F_3B_DP = "5"
+F_3B_PCT = ".906"
+
+
+[[person]]
+name.last = "Yarger"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "16"
+F_3B_PO = "13"
+F_3B_A = "24"
+F_3B_E = "5"
+F_3B_DP = "2"
+F_3B_PCT = ".881"
+
+
+[[person]]
+name.last = "Theobold"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "27"
+F_3B_PO = "32"
+F_3B_A = "41"
+F_3B_E = "10"
+F_3B_DP = "3"
+F_3B_PCT = ".880"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "10"
+F_3B_A = "12"
+F_3B_E = "3"
+F_3B_DP = "0"
+F_3B_PCT = ".880"
+
+
+[[person]]
+name.last = "Hamner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "69"
+F_3B_PO = "70"
+F_3B_A = "119"
+F_3B_E = "28"
+F_3B_DP = "12"
+F_3B_PCT = ".871"
+
+
+[[person]]
+name.last = "Lather"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "8"
+F_3B_A = "18"
+F_3B_E = "4"
+F_3B_DP = "1"
+F_3B_PCT = ".867"
+
+
+[[person]]
+name.last = "Zontini"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "82"
+F_3B_PO = "80"
+F_3B_A = "139"
+F_3B_E = "36"
+F_3B_DP = "7"
+F_3B_PCT = ".859"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "23"
+F_3B_PO = "26"
+F_3B_A = "40"
+F_3B_E = "11"
+F_3B_DP = "2"
+F_3B_PCT = ".857"
+
+
+[[person]]
+name.last = "Drexler"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "14"
+F_3B_A = "17"
+F_3B_E = "6"
+F_3B_DP = "1"
+F_3B_PCT = ".838"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "20"
+F_3B_A = "26"
+F_3B_E = "12"
+F_3B_DP = "0"
+F_3B_PCT = ".793"
+
+
+[[person]]
+name.last = "Cummins"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "7"
+F_3B_A = "6"
+F_3B_E = "6"
+F_3B_DP = "0"
+F_3B_PCT = ".684"
+
+
+[[person]]
+name.last = "Males"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "20"
+F_SS_PO = "33"
+F_SS_A = "50"
+F_SS_E = "3"
+F_SS_DP = "7"
+F_SS_PCT = ".965"
+
+
+[[person]]
+name.last = "Kinzer"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "130"
+F_SS_PO = "240"
+F_SS_A = "369"
+F_SS_E = "23"
+F_SS_DP = "48"
+F_SS_PCT = ".964"
+
+
+[[person]]
+name.last = "Ordenana"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "124"
+F_SS_PO = "278"
+F_SS_A = "470"
+F_SS_E = "33"
+F_SS_DP = "92"
+F_SS_PCT = ".958"
+
+
+[[person]]
+name.last = "Reynolds"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "86"
+F_SS_PO = "175"
+F_SS_A = "266"
+F_SS_E = "25"
+F_SS_DP = "38"
+F_SS_PCT = ".946"
+
+
+[[person]]
+name.last = "Biershenk"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "27"
+F_SS_A = "51"
+F_SS_E = "5"
+F_SS_DP = "8"
+F_SS_PCT = ".940"
+
+
+[[person]]
+name.last = "Winters"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "17"
+F_SS_A = "24"
+F_SS_E = "3"
+F_SS_DP = "3"
+F_SS_PCT = ".932"
+
+
+[[person]]
+name.last = "Kalbaugh"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "18"
+F_SS_PO = "36"
+F_SS_A = "58"
+F_SS_E = "7"
+F_SS_DP = "9"
+F_SS_PCT = ".931"
+
+
+[[person]]
+name.last = "Rochelli"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "26"
+F_SS_PO = "52"
+F_SS_A = "82"
+F_SS_E = "11"
+F_SS_DP = "13"
+F_SS_PCT = ".924"
+
+
+[[person]]
+name.last = "Connors"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "22"
+F_SS_PO = "49"
+F_SS_A = "62"
+F_SS_E = "11"
+F_SS_DP = "14"
+F_SS_PCT = ".910"
+
+
+[[person]]
+name.last = "Crosswhite"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "19"
+F_SS_PO = "31"
+F_SS_A = "53"
+F_SS_E = "9"
+F_SS_DP = "5"
+F_SS_PCT = ".903"
+
+
+[[person]]
+name.last = "Mauch"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "32"
+F_SS_PO = "77"
+F_SS_A = "81"
+F_SS_E = "19"
+F_SS_DP = "9"
+F_SS_PCT = ".893"
+
+
+[[person]]
+name.last = "Ridele"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "13"
+F_SS_PO = "41"
+F_SS_A = "33"
+F_SS_E = "9"
+F_SS_DP = "9"
+F_SS_PCT = ".892"
+
+
+[[person]]
+name.last = "Jacobson"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "24"
+F_SS_A = "36"
+F_SS_E = "8"
+F_SS_DP = "5"
+F_SS_PCT = ".882"
+
+
+[[person]]
+name.last = "Wachtler"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "25"
+F_SS_A = "36"
+F_SS_E = "9"
+F_SS_DP = "1"
+F_SS_PCT = ".871"
+
+
+[[person]]
+name.last = "Kluttz"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "26"
+F_SS_PO = "49"
+F_SS_A = "58"
+F_SS_E = "16"
+F_SS_DP = "8"
+F_SS_PCT = ".870"
+
+
+[[person]]
+name.last = "Kale"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "27"
+F_SS_PO = "45"
+F_SS_A = "77"
+F_SS_E = "19"
+F_SS_DP = "16"
+F_SS_PCT = ".865"
+
+
+[[person]]
+name.last = "Erps"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "39"
+F_SS_PO = "74"
+F_SS_A = "78"
+F_SS_E = "26"
+F_SS_DP = "8"
+F_SS_PCT = ".854"
+
+
+[[person]]
+name.last = "Urner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "19"
+F_SS_PO = "41"
+F_SS_A = "42"
+F_SS_E = "17"
+F_SS_DP = "6"
+F_SS_PCT = ".830"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "15"
+F_SS_PO = "28"
+F_SS_A = "29"
+F_SS_E = "12"
+F_SS_DP = "5"
+F_SS_PCT = ".826"
+
+
+[[person]]
+name.last = "Reynolds"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "18"
+F_SS_A = "19"
+F_SS_E = "9"
+F_SS_DP = "2"
+F_SS_PCT = ".804"
+
+
+[[person]]
+name.last = "Kressley"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "62"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Hodge"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "19"
+F_OF_PO = "30"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Dellinger"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "19"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Parker"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "10"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Sinnott"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "80"
+F_OF_A = "10"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".989"
+
+
+[[person]]
+name.last = "Clifton"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "78"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".988"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "130"
+F_OF_PO = "266"
+F_OF_A = "11"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".986"
+
+
+[[person]]
+name.last = "Curlee"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "52"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".982"
+
+
+[[person]]
+name.last = "Zontini"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "44"
+F_OF_PO = "89"
+F_OF_A = "3"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".979"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "125"
+F_OF_PO = "209"
+F_OF_A = "11"
+F_OF_E = "5"
+F_OF_DP = "4"
+F_OF_PCT = ".978"
+
+
+[[person]]
+name.last = "Wortman"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "49"
+F_OF_PO = "84"
+F_OF_A = "7"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".978"
+
+
+[[person]]
+name.last = "Fontaine"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "53"
+F_OF_PO = "86"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "2"
+F_OF_PCT = ".978"
+
+
+[[person]]
+name.last = "Uniak"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "37"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".976"
+
+
+[[person]]
+name.last = "Vanek"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "66"
+F_OF_A = "3"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".972"
+
+
+[[person]]
+name.last = "Astbury"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "44"
+F_OF_PO = "86"
+F_OF_A = "8"
+F_OF_E = "3"
+F_OF_DP = "2"
+F_OF_PCT = ".969"
+
+
+[[person]]
+name.last = "Edwards"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "29"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".969"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "99"
+F_OF_PO = "143"
+F_OF_A = "6"
+F_OF_E = "5"
+F_OF_DP = "5"
+F_OF_PCT = ".968"
+
+
+[[person]]
+name.last = "O'Brien"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "58"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".968"
+
+
+[[person]]
+name.last = "Usciak"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "25"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".967"
+
+
+[[person]]
+name.last = "McQuillen"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "78"
+F_OF_PO = "138"
+F_OF_A = "7"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".960"
+
+
+[[person]]
+name.last = "Theobold"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "77"
+F_OF_PO = "148"
+F_OF_A = "13"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".958"
+
+
+[[person]]
+name.last = "Skeen"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "129"
+F_OF_PO = "273"
+F_OF_A = "19"
+F_OF_E = "13"
+F_OF_DP = "4"
+F_OF_PCT = ".957"
+
+
+[[person]]
+name.last = "Chipple"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "60"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "2"
+F_OF_PCT = ".956"
+
+
+[[person]]
+name.last = "Levy"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "62"
+F_OF_A = "3"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".956"
+
+
+[[person]]
+name.last = "Lopatka"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "40"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".955"
+
+
+[[person]]
+name.last = "Petty"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "130"
+F_OF_PO = "227"
+F_OF_A = "16"
+F_OF_E = "12"
+F_OF_DP = "3"
+F_OF_PCT = ".953"
+
+
+[[person]]
+name.last = "Dinges"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "77"
+F_OF_PO = "170"
+F_OF_A = "8"
+F_OF_E = "9"
+F_OF_DP = "1"
+F_OF_PCT = ".952"
+
+
+[[person]]
+name.last = "Hermanski"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "17"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".947"
+
+
+[[person]]
+name.last = "Dix"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "16"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".944"
+
+
+[[person]]
+name.last = "Nichols"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "122"
+F_OF_PO = "240"
+F_OF_A = "5"
+F_OF_E = "16"
+F_OF_DP = "2"
+F_OF_PCT = ".939"
+
+
+[[person]]
+name.last = "Lynk"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "50"
+F_OF_PO = "71"
+F_OF_A = "4"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".938"
+
+
+[[person]]
+name.last = "Jenkins"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "105"
+F_OF_PO = "170"
+F_OF_A = "16"
+F_OF_E = "13"
+F_OF_DP = "4"
+F_OF_PCT = ".935"
+
+
+[[person]]
+name.last = "Churchill"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "79"
+F_OF_PO = "118"
+F_OF_A = "5"
+F_OF_E = "9"
+F_OF_DP = "1"
+F_OF_PCT = ".932"
+
+
+[[person]]
+name.last = "Stoner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "37"
+F_OF_PO = "46"
+F_OF_A = "5"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".927"
+
+
+[[person]]
+name.last = "Mele"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "63"
+F_OF_PO = "106"
+F_OF_A = "7"
+F_OF_E = "9"
+F_OF_DP = "2"
+F_OF_PCT = ".926"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "24"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".926"
+
+
+[[person]]
+name.last = "Milner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "71"
+F_OF_PO = "103"
+F_OF_A = "8"
+F_OF_E = "9"
+F_OF_DP = "3"
+F_OF_PCT = ".925"
+
+
+[[person]]
+name.last = "McDonald"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "10"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".923"
+
+
+[[person]]
+name.last = "Glover"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "129"
+F_OF_PO = "200"
+F_OF_A = "10"
+F_OF_E = "19"
+F_OF_DP = "2"
+F_OF_PCT = ".917"
+
+
+[[person]]
+name.last = "Urner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "29"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".917"
+
+
+[[person]]
+name.last = "Cohn"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "52"
+F_OF_A = "4"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".903"
+
+
+[[person]]
+name.last = "Portner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "17"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".895"
+
+
+[[person]]
+name.last = "Bennett"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "57"
+F_OF_PO = "73"
+F_OF_A = "5"
+F_OF_E = "12"
+F_OF_DP = "0"
+F_OF_PCT = ".867"
+
+
+[[person]]
+name.last = "Ball"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "10"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".857"
+
+
+[[person]]
+name.last = "Wachtler"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "11"
+F_P_A = "25"
+F_P_E = "0"
+F_P_DP = "3"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Clough"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "6"
+F_P_A = "27"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Sima"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "6"
+F_P_A = "23"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Glor"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "5"
+F_P_A = "13"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Boehringer"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "1"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "13"
+F_P_A = "39"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".981"
+
+
+[[person]]
+name.last = "Stein"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "11"
+F_P_A = "71"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".976"
+
+
+[[person]]
+name.last = "Howington"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "4"
+F_P_A = "35"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".975"
+
+
+[[person]]
+name.last = "Bond"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "4"
+F_P_A = "26"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".968"
+
+
+[[person]]
+name.last = "Comellas"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "5"
+F_P_A = "52"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".966"
+
+
+[[person]]
+name.last = "Patton"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "10"
+F_P_A = "45"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".965"
+
+
+[[person]]
+name.last = "Santora"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "1"
+F_P_A = "26"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".964"
+
+
+[[person]]
+name.last = "Braxton"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "3"
+F_P_A = "24"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".964"
+
+
+[[person]]
+name.last = "Herr"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "13"
+F_P_A = "58"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".959"
+
+
+[[person]]
+name.last = "Levy"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "6"
+F_P_A = "41"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".959"
+
+
+[[person]]
+name.last = "Travis"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "12"
+F_P_A = "69"
+F_P_E = "4"
+F_P_DP = "5"
+F_P_PCT = ".958"
+
+
+[[person]]
+name.last = "Sucky"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "9"
+F_P_A = "49"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".951"
+
+
+[[person]]
+name.last = "Pepper"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "7"
+F_P_A = "45"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".945"
+
+
+[[person]]
+name.last = "Knowles"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "0"
+F_P_A = "34"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".944"
+
+
+[[person]]
+name.last = "Wilkins"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "8"
+F_P_A = "40"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".941"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "2"
+F_P_A = "26"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".933"
+
+
+[[person]]
+name.last = "Cronin"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "8"
+F_P_A = "33"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".932"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "2"
+F_P_A = "24"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".929"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "17"
+F_P_A = "60"
+F_P_E = "6"
+F_P_DP = "2"
+F_P_PCT = ".928"
+
+
+[[person]]
+name.last = "Carmichael"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "6"
+F_P_A = "31"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".925"
+
+
+[[person]]
+name.last = "Neuberger"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".923"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "9"
+F_P_A = "25"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".919"
+
+
+[[person]]
+name.last = "Lopatka"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "17"
+F_P_A = "56"
+F_P_E = "7"
+F_P_DP = "3"
+F_P_PCT = ".913"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "28"
+F_P_A = "63"
+F_P_E = "9"
+F_P_DP = "1"
+F_P_PCT = ".910"
+
+
+[[person]]
+name.last = "Gettel"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "8"
+F_P_A = "41"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".907"
+
+
+[[person]]
+name.last = "Sumey"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "6"
+F_P_A = "43"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".907"
+
+
+[[person]]
+name.last = "Milner"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "10"
+F_P_A = "29"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".907"
+
+
+[[person]]
+name.last = "Parker"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "6"
+F_P_A = "23"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".906"
+
+
+[[person]]
+name.last = "Acosta"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "14"
+F_P_A = "53"
+F_P_E = "7"
+F_P_DP = "3"
+F_P_PCT = ".905"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "13"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".882"
+
+
+[[person]]
+name.last = "Uniak"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "4"
+F_P_A = "17"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".875"
+
+
+[[person]]
+name.last = "Diaz"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "5"
+F_P_A = "16"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".875"
+
+
+[[person]]
+name.last = "Codde"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "0"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".875"
+
+
+[[person]]
+name.last = "Kenworthy"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "2"
+F_P_A = "11"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".867"
+
+
+[[person]]
+name.last = "Barney"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "4"
+F_P_A = "15"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".864"
+
+
+[[person]]
+name.last = "Simons"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "1"
+F_P_A = "19"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".833"
+
+
+[[person]]
+name.last = "Orphal"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "6"
+F_P_A = "18"
+F_P_E = "5"
+F_P_DP = "1"
+F_P_PCT = ".823"
+
+
+[[person]]
+name.last = "Jilton"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "0"
+F_P_A = "9"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".818"
+
+
+[[person]]
+name.last = "Kluttz"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "113"
+F_C_A = "16"
+F_C_E = "1"
+F_C_DP = "3"
+F_C_PB = "3"
+F_C_PCT = ".992"
+
+
+[[person]]
+name.last = "Pratt"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "65"
+F_C_PO = "298"
+F_C_A = "32"
+F_C_E = "5"
+F_C_DP = "4"
+F_C_PB = "12"
+F_C_PCT = ".986"
+
+
+[[person]]
+name.last = "Jackson"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "208"
+F_C_A = "9"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "5"
+F_C_PCT = ".986"
+
+
+[[person]]
+name.last = "Lorenz"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "19"
+F_C_PO = "102"
+F_C_A = "3"
+F_C_E = "2"
+F_C_DP = "0"
+F_C_PB = "3"
+F_C_PCT = ".981"
+
+
+[[person]]
+name.last = "Owens"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "67"
+F_C_PO = "255"
+F_C_A = "30"
+F_C_E = "6"
+F_C_DP = "1"
+F_C_PB = "3"
+F_C_PCT = ".979"
+
+
+[[person]]
+name.last = "Cabrera"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "27"
+F_C_PO = "124"
+F_C_A = "12"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "9"
+F_C_PCT = ".978"
+
+
+[[person]]
+name.last = "Crosswhite"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "84"
+F_C_PO = "477"
+F_C_A = "81"
+F_C_E = "14"
+F_C_DP = "12"
+F_C_PB = "10"
+F_C_PCT = ".976"
+
+
+[[person]]
+name.last = "Steinecke"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "65"
+F_C_PO = "310"
+F_C_A = "30"
+F_C_E = "9"
+F_C_DP = "3"
+F_C_PB = "4"
+F_C_PCT = ".974"
+
+
+[[person]]
+name.last = "Driscoll"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "46"
+F_C_PO = "194"
+F_C_A = "27"
+F_C_E = "6"
+F_C_DP = "2"
+F_C_PB = "12"
+F_C_PCT = ".974"
+
+
+[[person]]
+name.last = "Yarger"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "81"
+F_C_PO = "349"
+F_C_A = "45"
+F_C_E = "11"
+F_C_DP = "8"
+F_C_PB = "13"
+F_C_PCT = ".973"
+
+
+[[person]]
+name.last = "Berra"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "93"
+F_C_PO = "480"
+F_C_A = "75"
+F_C_E = "16"
+F_C_DP = "7"
+F_C_PB = "3"
+F_C_PCT = ".972"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "54"
+F_C_A = "9"
+F_C_E = "2"
+F_C_DP = "0"
+F_C_PB = "4"
+F_C_PCT = ".969"
+
+
+[[person]]
+name.last = "Crater"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "25"
+F_C_PO = "120"
+F_C_A = "17"
+F_C_E = "5"
+F_C_DP = "1"
+F_C_PB = "3"
+F_C_PCT = ".965"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "47"
+F_C_PO = "207"
+F_C_A = "31"
+F_C_E = "9"
+F_C_DP = "3"
+F_C_PB = "4"
+F_C_PCT = ".964"
+
+
+[[person]]
+name.last = "Zodda"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "32"
+F_C_PO = "148"
+F_C_A = "24"
+F_C_E = "7"
+F_C_DP = "5"
+F_C_PB = "3"
+F_C_PCT = ".961"
+
+
+[[person]]
+name.last = "Blackman"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "26"
+F_C_PO = "126"
+F_C_A = "28"
+F_C_E = "8"
+F_C_DP = "3"
+F_C_PB = "3"
+F_C_PCT = ".951"
+
+
+[[person]]
+name.last = "Gillette"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "14"
+F_C_PO = "70"
+F_C_A = "4"
+F_C_E = "4"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = ".949"
+
+
+[[person]]
+name.last = "Dunlap"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "20"
+F_C_PO = "93"
+F_C_A = "17"
+F_C_E = "7"
+F_C_DP = "3"
+F_C_PB = "6"
+F_C_PCT = ".940"
+
+
+[[person]]
+name.last = "Kinnaman"
+[[person.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "21"
+F_C_PO = "76"
+F_C_A = "13"
+F_C_E = "7"
+F_C_DP = "2"
+F_C_PB = "2"
+F_C_PCT = ".927"

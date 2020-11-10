@@ -1,0 +1,5152 @@
+[[person]]
+name.last = "Del Toro"
+name.given = "Gaspar"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "64"
+B_R = "12"
+B_H = "25"
+B_TB = "32"
+B_2B = "4"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "4"
+B_BB = "2"
+B_HP = "2"
+B_RBI = "13"
+B_SO = "3"
+B_AVG = ".391"
+
+
+[[person]]
+name.last = "Alonso"
+name.given = "Guillermo"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "27"
+B_AB = "53"
+B_R = "6"
+B_H = "20"
+B_TB = "23"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "1"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "4"
+B_AVG = ".377"
+
+
+[[person]]
+name.last = "Estrella"
+name.given = "Antonio"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "10"
+B_AB = "19"
+B_R = "4"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_AVG = ".368"
+
+
+[[person]]
+name.last = "Dunabeitia"
+name.given = "Pedro"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "53"
+B_AB = "185"
+B_R = "35"
+B_H = "67"
+B_TB = "93"
+B_2B = "18"
+B_3B = "1"
+B_HR = "2"
+B_SH = "0"
+B_SB = "1"
+B_BB = "36"
+B_HP = "3"
+B_RBI = "30"
+B_SO = "7"
+B_AVG = ".362"
+
+
+[[person]]
+name.last = "Vega"
+name.given = "William"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "32"
+B_AB = "139"
+B_R = "30"
+B_H = "50"
+B_TB = "71"
+B_2B = "14"
+B_3B = "2"
+B_HR = "1"
+B_SH = "2"
+B_SB = "6"
+B_BB = "8"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "1"
+B_AVG = ".360"
+
+
+[[person]]
+name.last = "Bruno"
+name.given = "Paul"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "58"
+B_AB = "171"
+B_R = "19"
+B_H = "59"
+B_TB = "85"
+B_2B = "11"
+B_3B = "0"
+B_HR = "5"
+B_SH = "1"
+B_SB = "2"
+B_BB = "21"
+B_HP = "0"
+B_RBI = "38"
+B_SO = "7"
+B_AVG = ".345"
+
+
+[[person]]
+name.last = "Gautreaux"
+name.given = "Sidney"
+description.bats = "S"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "116"
+B_AB = "351"
+B_R = "52"
+B_H = "119"
+B_TB = "142"
+B_2B = "18"
+B_3B = "1"
+B_HR = "1"
+B_SH = "6"
+B_SB = "2"
+B_BB = "98"
+B_HP = "6"
+B_RBI = "77"
+B_SO = "24"
+B_AVG = ".335"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Juckno"
+name.given = "Chester"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "84"
+B_AB = "294"
+B_R = "67"
+B_H = "98"
+B_TB = "153"
+B_2B = "20"
+B_3B = "1"
+B_HR = "11"
+B_SH = "6"
+B_SB = "2"
+B_BB = "71"
+B_HP = "4"
+B_RBI = "62"
+B_SO = "24"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Washburn"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "124"
+B_AB = "420"
+B_R = "73"
+B_H = "139"
+B_TB = "233"
+B_2B = "33"
+B_3B = "5"
+B_HR = "17"
+B_SH = "4"
+B_SB = "6"
+B_BB = "38"
+B_HP = "2"
+B_RBI = "79"
+B_SO = "48"
+B_AVG = ".331"
+
+
+[[person]]
+name.last = "Gales"
+name.given = "Robert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "136"
+B_AB = "451"
+B_R = "77"
+B_H = "147"
+B_TB = "231"
+B_2B = "32"
+B_3B = "11"
+B_HR = "10"
+B_SH = "3"
+B_SB = "11"
+B_BB = "102"
+B_HP = "1"
+B_RBI = "92"
+B_SO = "26"
+B_AVG = ".326"
+
+
+[[person]]
+name.last = "Barocco"
+name.given = "Fred"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "132"
+B_AB = "428"
+B_R = "111"
+B_H = "139"
+B_TB = "201"
+B_2B = "25"
+B_3B = "2"
+B_HR = "11"
+B_SH = "6"
+B_SB = "15"
+B_BB = "142"
+B_HP = "1"
+B_RBI = "76"
+B_SO = "25"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Dunn"
+name.given = "Robert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "136"
+B_AB = "515"
+B_R = "107"
+B_H = "165"
+B_TB = "291"
+B_2B = "30"
+B_3B = "3"
+B_HR = "30"
+B_SH = "10"
+B_SB = "9"
+B_BB = "79"
+B_HP = "2"
+B_RBI = "96"
+B_SO = "71"
+B_AVG = ".321"
+
+
+[[person]]
+name.last = "Stringer"
+name.given = "Daniel"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "75"
+B_AB = "284"
+B_R = "60"
+B_H = "91"
+B_TB = "121"
+B_2B = "19"
+B_3B = "1"
+B_HR = "3"
+B_SH = "9"
+B_SB = "7"
+B_BB = "40"
+B_HP = "1"
+B_RBI = "35"
+B_SO = "19"
+B_AVG = ".321"
+
+
+[[person]]
+name.last = "Littell"
+name.given = "Don"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "13"
+B_AB = "22"
+B_R = "2"
+B_H = "7"
+B_TB = "11"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "2"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Bridges"
+name.given = "Olen"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "90"
+B_AB = "344"
+B_R = "57"
+B_H = "109"
+B_TB = "137"
+B_2B = "15"
+B_3B = "1"
+B_HR = "4"
+B_SH = "9"
+B_SB = "23"
+B_BB = "32"
+B_HP = "1"
+B_RBI = "24"
+B_SO = "45"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Belford"
+name.given = "Robert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "129"
+B_AB = "509"
+B_R = "110"
+B_H = "160"
+B_TB = "206"
+B_2B = "24"
+B_3B = "5"
+B_HR = "4"
+B_SH = "9"
+B_SB = "17"
+B_BB = "73"
+B_HP = "1"
+B_RBI = "61"
+B_SO = "49"
+B_AVG = ".315"
+
+
+[[person]]
+name.last = "Gayle"
+name.given = "Gipson"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "131"
+B_AB = "488"
+B_R = "112"
+B_H = "152"
+B_TB = "234"
+B_2B = "19"
+B_3B = "3"
+B_HR = "19"
+B_SH = "7"
+B_SB = "2"
+B_BB = "80"
+B_HP = "14"
+B_RBI = "84"
+B_SO = "54"
+B_AVG = ".312"
+
+
+[[person]]
+name.last = "Veitch"
+name.given = "Donald"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "13"
+B_AB = "45"
+B_R = "6"
+B_H = "14"
+B_TB = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "13"
+B_AVG = ".311"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Robert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "36"
+B_AB = "90"
+B_R = "13"
+B_H = "28"
+B_TB = "47"
+B_2B = "6"
+B_3B = "2"
+B_HR = "3"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "3"
+B_RBI = "21"
+B_SO = "32"
+B_AVG = ".311"
+
+
+[[person]]
+name.last = "Clement"
+name.given = "Irving"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "77"
+B_AB = "266"
+B_R = "48"
+B_H = "82"
+B_TB = "148"
+B_2B = "13"
+B_3B = "4"
+B_HR = "15"
+B_SH = "2"
+B_SB = "3"
+B_BB = "38"
+B_HP = "0"
+B_RBI = "74"
+B_SO = "32"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Sprentall"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "58"
+B_AB = "202"
+B_R = "52"
+B_H = "62"
+B_TB = "86"
+B_2B = "11"
+B_3B = "2"
+B_HR = "3"
+B_SH = "3"
+B_SB = "15"
+B_BB = "39"
+B_HP = "2"
+B_RBI = "10"
+B_SO = "16"
+B_AVG = ".307"
+
+
+[[person]]
+name.last = "Dragg"
+name.given = "Allan"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "21"
+B_AB = "49"
+B_R = "5"
+B_H = "15"
+B_TB = "21"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "16"
+B_AVG = ".306"
+
+
+[[person]]
+name.last = "O'Hare"
+name.given = "Frank"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "134"
+B_AB = "530"
+B_R = "87"
+B_H = "160"
+B_TB = "215"
+B_2B = "26"
+B_3B = "4"
+B_HR = "7"
+B_SH = "14"
+B_SB = "17"
+B_BB = "43"
+B_HP = "3"
+B_RBI = "91"
+B_SO = "53"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Spears"
+name.given = "Thomas"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "35"
+B_AB = "73"
+B_R = "7"
+B_H = "22"
+B_TB = "26"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "17"
+B_AVG = ".301"
+
+
+[[person]]
+name.last = "Benoit"
+name.given = "Sidney"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "33"
+B_AB = "73"
+B_R = "7"
+B_H = "22"
+B_TB = "26"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "23"
+B_AVG = ".301"
+
+
+[[person]]
+name.last = "Cox"
+name.given = "Jesse"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "138"
+B_AB = "499"
+B_R = "91"
+B_H = "149"
+B_TB = "212"
+B_2B = "25"
+B_3B = "13"
+B_HR = "4"
+B_SH = "2"
+B_SB = "11"
+B_BB = "70"
+B_HP = "1"
+B_RBI = "77"
+B_SO = "35"
+B_AVG = ".299"
+
+
+[[person]]
+name.last = "Barton"
+name.given = "Robert William"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "133"
+B_AB = "513"
+B_R = "106"
+B_H = "153"
+B_TB = "214"
+B_2B = "25"
+B_3B = "6"
+B_HR = "8"
+B_SH = "2"
+B_SB = "6"
+B_BB = "62"
+B_HP = "1"
+B_RBI = "60"
+B_SO = "32"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Vorell"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "124"
+B_AB = "459"
+B_R = "79"
+B_H = "136"
+B_TB = "210"
+B_2B = "23"
+B_3B = "9"
+B_HR = "11"
+B_SH = "1"
+B_SB = "7"
+B_BB = "65"
+B_HP = "6"
+B_RBI = "95"
+B_SO = "46"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Stomborg"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+B_G = "94"
+[[person.playing.split]]
+team.name = "Hammond"
+B_G = "20"
+[person.playing.totals]
+B_G = "114"
+B_AB = "397"
+B_R = "61"
+B_H = "117"
+B_TB = "192"
+B_2B = "32"
+B_3B = "2"
+B_HR = "13"
+B_SH = "4"
+B_SB = "6"
+B_BB = "51"
+B_HP = "2"
+B_RBI = "78"
+B_SO = "65"
+B_AVG = ".295"
+
+
+[[person]]
+name.last = "Wilcox"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "139"
+B_AB = "554"
+B_R = "112"
+B_H = "163"
+B_TB = "215"
+B_2B = "29"
+B_3B = "4"
+B_HR = "5"
+B_SH = "5"
+B_SB = "31"
+B_BB = "68"
+B_HP = "2"
+B_RBI = "65"
+B_SO = "66"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Layne"
+name.given = "Hal"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "81"
+B_AB = "323"
+B_R = "66"
+B_H = "95"
+B_TB = "117"
+B_2B = "20"
+B_3B = "1"
+B_HR = "0"
+B_SH = "6"
+B_SB = "14"
+B_BB = "48"
+B_HP = "2"
+B_RBI = "31"
+B_SO = "29"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Visconti"
+name.given = "Arthur"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "140"
+B_AB = "516"
+B_R = "93"
+B_H = "151"
+B_TB = "202"
+B_2B = "29"
+B_3B = "2"
+B_HR = "6"
+B_SH = "7"
+B_SB = "12"
+B_BB = "98"
+B_HP = "1"
+B_RBI = "104"
+B_SO = "44"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Harper"
+name.given = "Cecil"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "121"
+B_AB = "446"
+B_R = "69"
+B_H = "130"
+B_TB = "179"
+B_2B = "18"
+B_3B = "5"
+B_HR = "7"
+B_SH = "8"
+B_SB = "3"
+B_BB = "61"
+B_HP = "1"
+B_RBI = "73"
+B_SO = "26"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Korte"
+name.given = "Richard"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "22"
+B_AB = "79"
+B_R = "10"
+B_H = "23"
+B_TB = "29"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "9"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Economides"
+name.given = "Floyd"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+B_G = "2"
+[[person.playing.split]]
+team.name = "Lafayette"
+B_G = "21"
+[person.playing.totals]
+B_G = "23"
+B_AB = "93"
+B_R = "11"
+B_H = "27"
+B_TB = "38"
+B_2B = "7"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "9"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Haywood"
+name.given = "Clifford"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "125"
+B_AB = "481"
+B_R = "74"
+B_H = "139"
+B_TB = "175"
+B_2B = "24"
+B_3B = "3"
+B_HR = "2"
+B_SH = "11"
+B_SB = "18"
+B_BB = "49"
+B_HP = "4"
+B_RBI = "53"
+B_SO = "23"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Walthers"
+name.given = "Harold"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "22"
+B_AB = "90"
+B_R = "16"
+B_H = "26"
+B_TB = "43"
+B_2B = "8"
+B_3B = "0"
+B_HR = "3"
+B_SH = "1"
+B_SB = "1"
+B_BB = "6"
+B_HP = "2"
+B_RBI = "18"
+B_SO = "13"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Hayles"
+name.given = "Bobbie"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "139"
+B_AB = "513"
+B_R = "52"
+B_H = "147"
+B_TB = "183"
+B_2B = "17"
+B_3B = "5"
+B_HR = "3"
+B_SH = "4"
+B_SB = "3"
+B_BB = "36"
+B_HP = "1"
+B_RBI = "74"
+B_SO = "29"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Green"
+name.given = "Alan"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "133"
+B_AB = "486"
+B_R = "85"
+B_H = "139"
+B_TB = "164"
+B_2B = "16"
+B_3B = "3"
+B_HR = "1"
+B_SH = "2"
+B_SB = "17"
+B_BB = "69"
+B_HP = "5"
+B_RBI = "44"
+B_SO = "52"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Baron"
+name.given = "Septine"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "82"
+B_AB = "353"
+B_R = "69"
+B_H = "101"
+B_TB = "149"
+B_2B = "22"
+B_3B = "4"
+B_HR = "6"
+B_SH = "1"
+B_SB = "15"
+B_BB = "36"
+B_HP = "2"
+B_RBI = "32"
+B_SO = "69"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Leilich"
+name.given = "Clyde"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "17"
+B_AB = "35"
+B_R = "5"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Day"
+name.given = "Fred"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "40"
+B_AB = "130"
+B_R = "15"
+B_H = "37"
+B_TB = "43"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "11"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "Paul"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "153"
+B_AB = "495"
+B_R = "66"
+B_H = "141"
+B_TB = "195"
+B_2B = "27"
+B_3B = "3"
+B_HR = "7"
+B_SH = "10"
+B_SB = "3"
+B_BB = "51"
+B_HP = "6"
+B_RBI = "61"
+B_SO = "32"
+B_AVG = ".285"
+
+
+[[person]]
+name.last = "Briner"
+name.given = "Rudolph"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "99"
+B_AB = "358"
+B_R = "45"
+B_H = "102"
+B_TB = "162"
+B_2B = "22"
+B_3B = "1"
+B_HR = "12"
+B_SH = "4"
+B_SB = "2"
+B_BB = "31"
+B_HP = "1"
+B_RBI = "62"
+B_SO = "23"
+B_AVG = ".285"
+
+
+[[person]]
+name.last = "Coleman"
+name.given = "Merle"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+B_G = "52"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "46"
+[person.playing.totals]
+B_G = "98"
+B_AB = "301"
+B_R = "37"
+B_H = "85"
+B_TB = "115"
+B_2B = "6"
+B_3B = "0"
+B_HR = "8"
+B_SH = "1"
+B_SB = "2"
+B_BB = "27"
+B_HP = "2"
+B_RBI = "47"
+B_SO = "36"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Ploger"
+name.given = "Weldon"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "120"
+B_AB = "458"
+B_R = "58"
+B_H = "129"
+B_TB = "183"
+B_2B = "30"
+B_3B = "3"
+B_HR = "6"
+B_SH = "10"
+B_SB = "5"
+B_BB = "38"
+B_HP = "2"
+B_RBI = "73"
+B_SO = "37"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Roy"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "131"
+B_AB = "475"
+B_R = "99"
+B_H = "134"
+B_TB = "200"
+B_2B = "31"
+B_3B = "6"
+B_HR = "7"
+B_SH = "7"
+B_SB = "10"
+B_BB = "68"
+B_HP = "0"
+B_RBI = "88"
+B_SO = "69"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Pappas"
+name.given = "Nick"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "18"
+B_AB = "39"
+B_R = "7"
+B_H = "11"
+B_TB = "18"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "6"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Liberto"
+name.given = "Vincent"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "138"
+B_AB = "553"
+B_R = "75"
+B_H = "155"
+B_TB = "236"
+B_2B = "35"
+B_3B = "5"
+B_HR = "12"
+B_SH = "3"
+B_SB = "6"
+B_BB = "37"
+B_HP = "0"
+B_RBI = "98"
+B_SO = "59"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Swanson"
+name.given = "Robert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "13"
+B_AB = "25"
+B_R = "5"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "6"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Tassin"
+name.given = "Irvin"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "38"
+B_AB = "83"
+B_R = "17"
+B_H = "23"
+B_TB = "24"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "12"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Litzsinger"
+name.given = "Norman"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "83"
+B_AB = "295"
+B_R = "59"
+B_H = "81"
+B_TB = "133"
+B_2B = "11"
+B_3B = "1"
+B_HR = "13"
+B_SH = "4"
+B_SB = "13"
+B_BB = "24"
+B_HP = "2"
+B_RBI = "48"
+B_SO = "23"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Borom"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "67"
+B_AB = "211"
+B_R = "28"
+B_H = "58"
+B_TB = "72"
+B_2B = "11"
+B_3B = "0"
+B_HR = "1"
+B_SH = "6"
+B_SB = "5"
+B_BB = "39"
+B_HP = "1"
+B_RBI = "16"
+B_SO = "13"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Mallot"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "43"
+B_AB = "106"
+B_R = "16"
+B_H = "29"
+B_TB = "51"
+B_2B = "10"
+B_3B = "0"
+B_HR = "4"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "17"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Meyers"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "13"
+B_AB = "33"
+B_R = "6"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "4"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Akenhead"
+name.given = "Robert"
+description.bats = "S"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "127"
+B_AB = "398"
+B_R = "88"
+B_H = "108"
+B_TB = "187"
+B_2B = "18"
+B_3B = "5"
+B_HR = "17"
+B_SH = "4"
+B_SB = "10"
+B_BB = "158"
+B_HP = "6"
+B_RBI = "83"
+B_SO = "73"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Danna"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "122"
+B_AB = "431"
+B_R = "49"
+B_H = "117"
+B_TB = "138"
+B_2B = "15"
+B_3B = "0"
+B_HR = "2"
+B_SH = "4"
+B_SB = "4"
+B_BB = "32"
+B_HP = "3"
+B_RBI = "61"
+B_SO = "24"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Bowles"
+name.given = "Edward"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "103"
+B_AB = "383"
+B_R = "34"
+B_H = "104"
+B_TB = "129"
+B_2B = "16"
+B_3B = "0"
+B_HR = "3"
+B_SH = "0"
+B_SB = "4"
+B_BB = "21"
+B_HP = "0"
+B_RBI = "51"
+B_SO = "38"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Hibbs"
+name.given = "Harding"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "134"
+B_AB = "450"
+B_R = "41"
+B_H = "122"
+B_TB = "153"
+B_2B = "22"
+B_3B = "0"
+B_HR = "3"
+B_SH = "2"
+B_SB = "1"
+B_BB = "60"
+B_HP = "0"
+B_RBI = "50"
+B_SO = "46"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Welch"
+name.given = "Melvin"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "54"
+B_AB = "214"
+B_R = "44"
+B_H = "58"
+B_TB = "79"
+B_2B = "8"
+B_3B = "2"
+B_HR = "3"
+B_SH = "2"
+B_SB = "13"
+B_BB = "34"
+B_HP = "2"
+B_RBI = "21"
+B_SO = "26"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Ryan"
+name.given = "Michael"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "138"
+B_AB = "545"
+B_R = "98"
+B_H = "147"
+B_TB = "263"
+B_2B = "35"
+B_3B = "6"
+B_HR = "23"
+B_SH = "6"
+B_SB = "3"
+B_BB = "38"
+B_HP = "1"
+B_RBI = "108"
+B_SO = "92"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "White"
+name.given = "Milton"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "105"
+B_AB = "347"
+B_R = "44"
+B_H = "93"
+B_TB = "119"
+B_2B = "14"
+B_3B = "0"
+B_HR = "4"
+B_SH = "5"
+B_SB = "4"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "39"
+B_SO = "42"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Selfridge"
+name.given = "George"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "138"
+B_AB = "458"
+B_R = "93"
+B_H = "122"
+B_TB = "147"
+B_2B = "18"
+B_3B = "2"
+B_HR = "1"
+B_SH = "15"
+B_SB = "17"
+B_BB = "109"
+B_HP = "7"
+B_RBI = "54"
+B_SO = "65"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Saye"
+name.given = "Warren"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "61"
+B_AB = "210"
+B_R = "38"
+B_H = "56"
+B_TB = "98"
+B_2B = "12"
+B_3B = "3"
+B_HR = "8"
+B_SH = "1"
+B_SB = "3"
+B_BB = "35"
+B_HP = "1"
+B_RBI = "48"
+B_SO = "40"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Padgett"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "110"
+B_AB = "476"
+B_R = "88"
+B_H = "127"
+B_TB = "164"
+B_2B = "22"
+B_3B = "6"
+B_HR = "1"
+B_SH = "3"
+B_SB = "5"
+B_BB = "24"
+B_HP = "3"
+B_RBI = "42"
+B_SO = "69"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Turk"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "138"
+B_AB = "529"
+B_R = "45"
+B_H = "140"
+B_TB = "199"
+B_2B = "24"
+B_3B = "5"
+B_HR = "8"
+B_SH = "7"
+B_SB = "17"
+B_BB = "47"
+B_HP = "8"
+B_RBI = "78"
+B_SO = "58"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Bader"
+name.given = "William"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "79"
+B_AB = "236"
+B_R = "32"
+B_H = "62"
+B_TB = "70"
+B_2B = "6"
+B_3B = "1"
+B_HR = "0"
+B_SH = "5"
+B_SB = "3"
+B_BB = "23"
+B_HP = "2"
+B_RBI = "29"
+B_SO = "22"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Laumann"
+name.given = "Andrew"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "140"
+B_AB = "550"
+B_R = "87"
+B_H = "144"
+B_TB = "179"
+B_2B = "22"
+B_3B = "2"
+B_HR = "3"
+B_SH = "6"
+B_SB = "15"
+B_BB = "77"
+B_HP = "5"
+B_RBI = "63"
+B_SO = "78"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Walter"
+name.given = "Dale"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "39"
+B_AB = "145"
+B_R = "27"
+B_H = "38"
+B_TB = "49"
+B_2B = "9"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "6"
+B_BB = "25"
+B_HP = "2"
+B_RBI = "20"
+B_SO = "26"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "LeBlanc"
+name.given = "Remy"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "121"
+B_AB = "406"
+B_R = "96"
+B_H = "106"
+B_TB = "179"
+B_2B = "25"
+B_3B = "3"
+B_HR = "14"
+B_SH = "8"
+B_SB = "9"
+B_BB = "89"
+B_HP = "12"
+B_RBI = "89"
+B_SO = "74"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Ed"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "26"
+B_AB = "92"
+B_R = "13"
+B_H = "24"
+B_TB = "36"
+B_2B = "5"
+B_3B = "2"
+B_HR = "1"
+B_SH = "0"
+B_SB = "4"
+B_BB = "12"
+B_HP = "1"
+B_RBI = "20"
+B_SO = "16"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Zikmund"
+name.given = "Thomas"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "19"
+B_AB = "73"
+B_R = "13"
+B_H = "19"
+B_TB = "32"
+B_2B = "5"
+B_3B = "1"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "8"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "7"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Beck"
+name.given = "Theodore"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "31"
+B_AB = "104"
+B_R = "10"
+B_H = "27"
+B_TB = "37"
+B_2B = "10"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "18"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Perez (Jimenez)"
+name.given = "Eusebio"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "43"
+B_AB = "85"
+B_R = "9"
+B_H = "22"
+B_TB = "27"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "4"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "21"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Pinocci"
+name.given = "Frank"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "20"
+B_AB = "62"
+B_R = "8"
+B_H = "16"
+B_TB = "25"
+B_2B = "3"
+B_3B = "3"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "8"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Rullman"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "94"
+B_AB = "317"
+B_R = "37"
+B_H = "80"
+B_TB = "119"
+B_2B = "10"
+B_3B = "2"
+B_HR = "5"
+B_SH = "0"
+B_SB = "3"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "43"
+B_SO = "26"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Henry F."
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "15"
+B_AB = "43"
+B_R = "7"
+B_H = "11"
+B_TB = "14"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "10"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "7"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Adams"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "112"
+B_AB = "411"
+B_R = "81"
+B_H = "105"
+B_TB = "166"
+B_2B = "22"
+B_3B = "3"
+B_HR = "11"
+B_SH = "7"
+B_SB = "14"
+B_BB = "65"
+B_HP = "2"
+B_RBI = "61"
+B_SO = "56"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Hebert"
+name.given = "Frank"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "103"
+B_AB = "388"
+B_R = "50"
+B_H = "99"
+B_TB = "118"
+B_2B = "8"
+B_3B = "4"
+B_HR = "1"
+B_SH = "13"
+B_SB = "4"
+B_BB = "27"
+B_HP = "0"
+B_RBI = "35"
+B_SO = "42"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Mays"
+name.given = "Daniel"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "98"
+B_AB = "356"
+B_R = "44"
+B_H = "90"
+B_TB = "105"
+B_2B = "7"
+B_3B = "1"
+B_HR = "2"
+B_SH = "5"
+B_SB = "13"
+B_BB = "29"
+B_HP = "4"
+B_RBI = "43"
+B_SO = "48"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Theard"
+name.given = "Wilfred"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "54"
+[[person.playing.split]]
+team.name = "Hammond"
+B_G = "28"
+[person.playing.totals]
+B_G = "82"
+B_AB = "320"
+B_R = "57"
+B_H = "81"
+B_TB = "97"
+B_2B = "8"
+B_3B = "4"
+B_HR = "0"
+B_SH = "6"
+B_SB = "9"
+B_BB = "46"
+B_HP = "0"
+B_RBI = "33"
+B_SO = "37"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Stevens"
+name.given = "Charles E."
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "101"
+B_AB = "312"
+B_R = "37"
+B_H = "79"
+B_TB = "102"
+B_2B = "10"
+B_3B = "2"
+B_HR = "3"
+B_SH = "5"
+B_SB = "5"
+B_BB = "39"
+B_HP = "4"
+B_RBI = "43"
+B_SO = "49"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Wishba"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "33"
+B_AB = "115"
+B_R = "17"
+B_H = "29"
+B_TB = "41"
+B_2B = "4"
+B_3B = "4"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "24"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Rossin"
+name.given = "Edmund"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "95"
+B_AB = "307"
+B_R = "30"
+B_H = "77"
+B_TB = "103"
+B_2B = "14"
+B_3B = "3"
+B_HR = "2"
+B_SH = "3"
+B_SB = "1"
+B_BB = "29"
+B_HP = "4"
+B_RBI = "35"
+B_SO = "43"
+B_AVG = ".251"
+
+
+[[person]]
+name.last = "Lamey"
+name.given = "Walter"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "27"
+B_AB = "52"
+B_R = "10"
+B_H = "13"
+B_TB = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "6"
+B_HP = "3"
+B_RBI = "1"
+B_SO = "13"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Karpinec"
+name.given = "Everett"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "13"
+B_AB = "52"
+B_R = "4"
+B_H = "13"
+B_TB = "13"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Boudreaux"
+name.given = "George"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "15"
+B_AB = "24"
+B_R = "1"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "4"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "130"
+B_AB = "513"
+B_R = "79"
+B_H = "127"
+B_TB = "160"
+B_2B = "23"
+B_3B = "2"
+B_HR = "2"
+B_SH = "8"
+B_SB = "6"
+B_BB = "53"
+B_HP = "2"
+B_RBI = "51"
+B_SO = "40"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Dempsey"
+name.given = "Frank"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "79"
+B_AB = "246"
+B_R = "28"
+B_H = "61"
+B_TB = "76"
+B_2B = "13"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "2"
+B_BB = "30"
+B_HP = "2"
+B_RBI = "23"
+B_SO = "43"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Kaczowka"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "133"
+B_AB = "507"
+B_R = "55"
+B_H = "125"
+B_TB = "175"
+B_2B = "25"
+B_3B = "2"
+B_HR = "7"
+B_SH = "5"
+B_SB = "1"
+B_BB = "46"
+B_HP = "2"
+B_RBI = "70"
+B_SO = "51"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Marchesano"
+name.given = "Albert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "47"
+B_AB = "194"
+B_R = "37"
+B_H = "48"
+B_TB = "62"
+B_2B = "8"
+B_3B = "3"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_BB = "32"
+B_HP = "1"
+B_RBI = "18"
+B_SO = "22"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Wall"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "29"
+B_AB = "45"
+B_R = "9"
+B_H = "11"
+B_TB = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "21"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Cracchiolo"
+name.given = "Frank"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "28"
+B_AB = "102"
+B_R = "7"
+B_H = "25"
+B_TB = "31"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "12"
+B_HP = "3"
+B_RBI = "11"
+B_SO = "22"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Saxon"
+name.given = "Jesse"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "57"
+B_AB = "225"
+B_R = "28"
+B_H = "55"
+B_TB = "64"
+B_2B = "7"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "33"
+B_HP = "3"
+B_RBI = "18"
+B_SO = "43"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "Herbert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "54"
+B_AB = "198"
+B_R = "18"
+B_H = "48"
+B_TB = "54"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "19"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Aucoin"
+name.given = "Edgar"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "24"
+B_AB = "91"
+B_R = "11"
+B_H = "22"
+B_TB = "27"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "17"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Ahrend"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "110"
+B_AB = "378"
+B_R = "49"
+B_H = "91"
+B_TB = "131"
+B_2B = "16"
+B_3B = "6"
+B_HR = "4"
+B_SH = "3"
+B_SB = "2"
+B_BB = "33"
+B_HP = "4"
+B_RBI = "37"
+B_SO = "84"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Simmons"
+name.given = "Roy"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+B_G = "27"
+[[person.playing.split]]
+team.name = "Abbeville"
+B_G = "49"
+[person.playing.totals]
+B_G = "76"
+B_AB = "246"
+B_R = "38"
+B_H = "59"
+B_TB = "81"
+B_2B = "10"
+B_3B = "3"
+B_HR = "2"
+B_SH = "1"
+B_SB = "5"
+B_BB = "33"
+B_HP = "5"
+B_RBI = "16"
+B_SO = "41"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Cargill"
+name.given = "Marvin"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "113"
+B_AB = "440"
+B_R = "57"
+B_H = "105"
+B_TB = "154"
+B_2B = "22"
+B_3B = "0"
+B_HR = "9"
+B_SH = "1"
+B_SB = "3"
+B_BB = "38"
+B_HP = "1"
+B_RBI = "72"
+B_SO = "63"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Isert"
+name.given = "Louis"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "13"
+B_AB = "46"
+B_R = "7"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "2"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Brticevich"
+name.given = "Michael"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "15"
+B_AB = "21"
+B_R = "3"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "11"
+B_AVG = ".238"
+
+
+[[person]]
+name.last = "Gatlin"
+name.given = "Samuel"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "131"
+B_AB = "498"
+B_R = "68"
+B_H = "118"
+B_TB = "159"
+B_2B = "18"
+B_3B = "7"
+B_HR = "3"
+B_SH = "6"
+B_SB = "9"
+B_BB = "30"
+B_HP = "1"
+B_RBI = "52"
+B_SO = "48"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Waldrop"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "121"
+B_AB = "432"
+B_R = "67"
+B_H = "102"
+B_TB = "134"
+B_2B = "18"
+B_3B = "4"
+B_HR = "2"
+B_SH = "9"
+B_SB = "3"
+B_BB = "68"
+B_HP = "3"
+B_RBI = "53"
+B_SO = "22"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Modica"
+name.given = "Salvador"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "131"
+B_AB = "483"
+B_R = "76"
+B_H = "114"
+B_TB = "180"
+B_2B = "16"
+B_3B = "4"
+B_HR = "14"
+B_SH = "11"
+B_SB = "15"
+B_BB = "66"
+B_HP = "4"
+B_RBI = "52"
+B_SO = "88"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Cousins"
+name.given = "Waldon"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "82"
+B_AB = "310"
+B_R = "43"
+B_H = "73"
+B_TB = "99"
+B_2B = "12"
+B_3B = "4"
+B_HR = "2"
+B_SH = "3"
+B_SB = "6"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "31"
+B_SO = "23"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "60"
+B_AB = "208"
+B_R = "24"
+B_H = "49"
+B_TB = "67"
+B_2B = "8"
+B_3B = "2"
+B_HR = "2"
+B_SH = "0"
+B_SB = "3"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "29"
+B_SO = "36"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Baxter"
+name.given = "Richard"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "16"
+B_AB = "34"
+B_R = "7"
+B_H = "8"
+B_TB = "11"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "9"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Theard"
+name.given = "Alton"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "58"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+B_G = "58"
+[person.playing.totals]
+B_G = "116"
+B_AB = "406"
+B_R = "51"
+B_H = "95"
+B_TB = "119"
+B_2B = "12"
+B_3B = "0"
+B_HR = "4"
+B_SH = "4"
+B_SB = "8"
+B_BB = "42"
+B_HP = "0"
+B_RBI = "53"
+B_SO = "37"
+B_AVG = ".234"
+
+
+[[person]]
+name.last = "DiBartolo"
+name.given = "Anthony"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "103"
+B_AB = "347"
+B_R = "47"
+B_H = "81"
+B_TB = "105"
+B_2B = "12"
+B_3B = "0"
+B_HR = "4"
+B_SH = "3"
+B_SB = "1"
+B_BB = "60"
+B_HP = "1"
+B_RBI = "46"
+B_SO = "41"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Bartholomew"
+name.given = "Jack"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "67"
+B_AB = "227"
+B_R = "34"
+B_H = "58"
+B_TB = "80"
+B_2B = "6"
+B_3B = "5"
+B_HR = "2"
+B_SH = "3"
+B_SB = "5"
+B_BB = "33"
+B_HP = "4"
+B_RBI = "26"
+B_SO = "34"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Brooks"
+name.given = "Bearl"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "35"
+B_AB = "129"
+B_R = "27"
+B_H = "30"
+B_TB = "35"
+B_2B = "0"
+B_3B = "1"
+B_HR = "1"
+B_SH = "4"
+B_SB = "8"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "9"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Cameron"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "24"
+B_AB = "39"
+B_R = "4"
+B_H = "9"
+B_TB = "12"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "7"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Edward"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "48"
+B_AB = "117"
+B_R = "16"
+B_H = "27"
+B_TB = "32"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "10"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "McCord"
+name.given = "Norman"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "10"
+B_AB = "39"
+B_R = "3"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "8"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Pecou"
+name.given = "Leonard"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "12"
+B_AB = "39"
+B_R = "8"
+B_H = "9"
+B_TB = "12"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "5"
+B_SB = "8"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Tidwell"
+name.given = "John"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+B_G = "25"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "58"
+[person.playing.totals]
+B_G = "83"
+B_AB = "319"
+B_R = "43"
+B_H = "73"
+B_TB = "119"
+B_2B = "12"
+B_3B = "3"
+B_HR = "10"
+B_SH = "1"
+B_SB = "1"
+B_BB = "24"
+B_HP = "2"
+B_RBI = "56"
+B_SO = "37"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Garzarelli"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+B_G = "36"
+[[person.playing.split]]
+team.name = "Lafayette"
+B_G = "7"
+[person.playing.totals]
+B_G = "43"
+B_AB = "140"
+B_R = "24"
+B_H = "32"
+B_TB = "41"
+B_2B = "3"
+B_3B = "3"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "31"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "24"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Schmiel"
+name.given = "Harry"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "12"
+B_AB = "35"
+B_R = "10"
+B_H = "8"
+B_TB = "14"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "5"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "18"
+B_AB = "44"
+B_R = "3"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "8"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Radosta"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "18"
+B_AB = "31"
+B_R = "8"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "7"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Bellamy"
+name.given = "David C."
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+B_G = "2"
+[[person.playing.split]]
+team.name = "Abbeville"
+B_G = "49"
+[person.playing.totals]
+B_G = "51"
+B_AB = "160"
+B_R = "15"
+B_H = "33"
+B_TB = "43"
+B_2B = "7"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "24"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "27"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Ziomek"
+name.given = "Walter"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "94"
+B_R = "8"
+B_H = "21"
+B_TB = "26"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "24"
+B_AVG = ".224"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Stanley"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "28"
+B_AB = "94"
+B_R = "13"
+B_H = "21"
+B_TB = "29"
+B_2B = "2"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "0"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "24"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Irizarry"
+name.given = "Natalio"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "76"
+B_R = "7"
+B_H = "17"
+B_TB = "25"
+B_2B = "2"
+B_3B = "0"
+B_HR = "2"
+B_SH = "3"
+B_SB = "1"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "19"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Fuentes"
+name.given = "Ramon"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "110"
+B_R = "19"
+B_H = "24"
+B_TB = "32"
+B_2B = "5"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "2"
+B_BB = "15"
+B_HP = "2"
+B_RBI = "13"
+B_SO = "22"
+B_AVG = ".218"
+
+
+[[person]]
+name.last = "Bramlett"
+name.given = "Jess"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "35"
+B_AB = "83"
+B_R = "9"
+B_H = "18"
+B_TB = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "14"
+B_AVG = ".217"
+
+
+[[person]]
+name.last = "Clark"
+name.given = "Douglas"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "15"
+B_AB = "42"
+B_R = "6"
+B_H = "9"
+B_TB = "12"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "17"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Brewer"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "45"
+B_AB = "132"
+B_R = "11"
+B_H = "28"
+B_TB = "36"
+B_2B = "5"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SB = "0"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "17"
+B_AVG = ".212"
+
+
+[[person]]
+name.last = "Mini"
+name.given = "Evo"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "11"
+B_AB = "33"
+B_R = "2"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "15"
+B_AVG = ".212"
+
+
+[[person]]
+name.last = "Rasmussen"
+name.given = "Walter"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "11"
+B_AB = "38"
+B_R = "4"
+B_H = "8"
+B_TB = "12"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "5"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Tingstrom"
+name.given = "Daniel"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "88"
+B_AB = "284"
+B_R = "33"
+B_H = "59"
+B_TB = "79"
+B_2B = "13"
+B_3B = "2"
+B_HR = "1"
+B_SH = "8"
+B_SB = "5"
+B_BB = "50"
+B_HP = "2"
+B_RBI = "26"
+B_SO = "50"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Babineaux"
+name.given = "Fred"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+B_G = "9"
+[[person.playing.split]]
+team.name = "Abbeville"
+B_G = "102"
+[person.playing.totals]
+B_G = "111"
+B_AB = "421"
+B_R = "51"
+B_H = "87"
+B_TB = "100"
+B_2B = "11"
+B_3B = "1"
+B_HR = "0"
+B_SH = "12"
+B_SB = "2"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "21"
+B_SO = "41"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Lenzi"
+name.given = "Richard"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "21"
+B_AB = "58"
+B_R = "2"
+B_H = "12"
+B_TB = "15"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "10"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Iverster"
+name.given = "Neal"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "28"
+B_AB = "103"
+B_R = "17"
+B_H = "21"
+B_TB = "31"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "2"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "20"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Brill"
+name.given = "Guy"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "30"
+B_AB = "65"
+B_R = "3"
+B_H = "13"
+B_TB = "16"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "19"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Bardin"
+name.given = "Peter"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "14"
+B_AB = "30"
+B_R = "3"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "3"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Broussard"
+name.given = "Lester"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "11"
+B_AB = "15"
+B_R = "3"
+B_H = "3"
+B_TB = "4"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Baldo"
+name.given = "Edward"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "62"
+B_AB = "126"
+B_R = "15"
+B_H = "25"
+B_TB = "26"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "40"
+B_AVG = ".198"
+
+
+[[person]]
+name.last = "Hewlett"
+name.given = "Emery"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "23"
+B_AB = "46"
+B_R = "4"
+B_H = "9"
+B_TB = "12"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Dunnack"
+name.given = "Robert"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "70"
+B_AB = "140"
+B_R = "10"
+B_H = "27"
+B_TB = "31"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "27"
+B_AVG = ".193"
+
+
+[[person]]
+name.last = "Alloway"
+name.given = "Morel"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "71"
+B_AB = "168"
+B_R = "15"
+B_H = "32"
+B_TB = "38"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "42"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Berry"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "58"
+B_R = "3"
+B_H = "11"
+B_TB = "13"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "3"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Gautreaux"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "12"
+B_AB = "37"
+B_R = "2"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".189"
+
+
+[[person]]
+name.last = "Cobo"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "61"
+B_AB = "112"
+B_R = "11"
+B_H = "21"
+B_TB = "45"
+B_2B = "6"
+B_3B = "0"
+B_HR = "3"
+B_SH = "2"
+B_SB = "0"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "17"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Noblitt"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "28"
+B_AB = "70"
+B_R = "13"
+B_H = "13"
+B_TB = "21"
+B_2B = "2"
+B_3B = "3"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "14"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Tutka"
+name.given = "William"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "11"
+B_AB = "27"
+B_R = "2"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "10"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "Boettcher"
+name.given = "Francis"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "21"
+B_AB = "88"
+B_R = "14"
+B_H = "16"
+B_TB = "22"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "4"
+B_HP = "3"
+B_RBI = "9"
+B_SO = "8"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Hadaway"
+name.given = "Clifford"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "13"
+B_AB = "50"
+B_R = "5"
+B_H = "9"
+B_TB = "15"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "9"
+B_HP = "2"
+B_RBI = "6"
+B_SO = "9"
+B_AVG = ".180"
+
+
+[[person]]
+name.last = "Gilbert"
+name.given = "Clarence"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "32"
+B_AB = "101"
+B_R = "10"
+B_H = "18"
+B_TB = "34"
+B_2B = "2"
+B_3B = "4"
+B_HR = "2"
+B_SH = "2"
+B_SB = "1"
+B_BB = "15"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "39"
+B_AVG = ".178"
+
+
+[[person]]
+name.last = "Sutter"
+name.given = "Richard"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "13"
+B_AB = "34"
+B_R = "4"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".177"
+
+
+[[person]]
+name.last = "Alexander"
+name.given = "Leroy"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "27"
+B_AB = "99"
+B_R = "11"
+B_H = "17"
+B_TB = "22"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "24"
+B_AVG = ".172"
+
+
+[[person]]
+name.last = "Patten"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "37"
+B_AB = "65"
+B_R = "7"
+B_H = "11"
+B_TB = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "11"
+B_AVG = ".169"
+
+
+[[person]]
+name.last = "Enderlin"
+name.given = "Gus"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "44"
+B_AB = "137"
+B_R = "13"
+B_H = "23"
+B_TB = "28"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_BB = "13"
+B_HP = "2"
+B_RBI = "12"
+B_SO = "33"
+B_AVG = ".168"
+
+
+[[person]]
+name.last = "Hughes"
+name.given = "Frank"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "10"
+B_AB = "18"
+B_R = "1"
+B_H = "3"
+B_TB = "5"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "4"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Hecker"
+name.given = "Francis"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "40"
+B_AB = "84"
+B_R = "5"
+B_H = "14"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "12"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Wagner"
+name.given = "Richard"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "18"
+B_AB = "37"
+B_R = "8"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "9"
+B_AVG = ".162"
+
+
+[[person]]
+name.last = "Strohm"
+name.given = "Harry"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "12"
+B_AB = "37"
+B_R = "6"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "0"
+B_AVG = ".162"
+
+
+[[person]]
+name.last = "Bouchoux"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "17"
+B_AB = "25"
+B_R = "3"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "9"
+B_AVG = ".160"
+
+
+[[person]]
+name.last = "Evelyn"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+B_G = "24"
+[[person.playing.split]]
+team.name = "Abbeville"
+B_G = "1"
+[person.playing.totals]
+B_G = "25"
+B_AB = "102"
+B_R = "14"
+B_H = "16"
+B_TB = "22"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "24"
+B_AVG = ".157"
+
+
+[[person]]
+name.last = "Lagarde"
+name.given = "Alban"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "39"
+B_AB = "39"
+B_R = "5"
+B_H = "6"
+B_TB = "8"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "10"
+B_AVG = ".154"
+
+
+[[person]]
+name.last = "Craft"
+name.given = "Eddie"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "17"
+B_AB = "47"
+B_R = "5"
+B_H = "7"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "21"
+B_AVG = ".149"
+
+
+[[person]]
+name.last = "Gilreath"
+name.given = "Herman"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Houma"
+[person.playing.totals]
+B_G = "53"
+B_AB = "128"
+B_R = "13"
+B_H = "19"
+B_TB = "28"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "31"
+B_AVG = ".148"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Fred"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+B_G = "9"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "39"
+[person.playing.totals]
+B_G = "48"
+B_AB = "110"
+B_R = "6"
+B_H = "16"
+B_TB = "26"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "0"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "27"
+B_AVG = ".146"
+
+
+[[person]]
+name.last = "Fahr"
+name.given = "Gerald"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "13"
+B_AB = "35"
+B_R = "0"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "14"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Babin"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "11"
+B_AB = "35"
+B_R = "2"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "King"
+name.given = "Raymond"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "16"
+B_AB = "36"
+B_R = "5"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "3"
+B_AVG = ".139"
+
+
+[[person]]
+name.last = "Love"
+name.given = "Nat"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+[person.playing.totals]
+B_G = "43"
+B_AB = "80"
+B_R = "6"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "17"
+B_AVG = ".138"
+
+
+[[person]]
+name.last = "Bourgeois"
+name.given = "Paul"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "16"
+B_AB = "29"
+B_R = "4"
+B_H = "4"
+B_TB = "6"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".138"
+
+
+[[person]]
+name.last = "Riordan"
+name.given = "Gustave"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "26"
+B_AB = "30"
+B_R = "4"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "12"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Black"
+name.given = "Clarence"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "46"
+B_AB = "68"
+B_R = "8"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "19"
+B_AVG = ".132"
+
+
+[[person]]
+name.last = "Courtier"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "35"
+B_AB = "69"
+B_R = "3"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "10"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "14"
+B_AVG = ".130"
+
+
+[[person]]
+name.last = "Barrett"
+name.given = "Samuel"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "22"
+B_AB = "39"
+B_R = "4"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "17"
+B_AVG = ".128"
+
+
+[[person]]
+name.last = "Flanagan"
+name.given = "William"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "24"
+B_AB = "40"
+B_R = "6"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "14"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Willis"
+name.given = "James"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "23"
+B_AB = "58"
+B_R = "7"
+B_H = "7"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "7"
+B_SB = "0"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "18"
+B_AVG = ".121"
+
+
+[[person]]
+name.last = "Watts"
+name.given = "Llewellyn"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abbeville"
+B_G = "6"
+[[person.playing.split]]
+team.name = "New Iberia"
+B_G = "16"
+[person.playing.totals]
+B_G = "22"
+B_AB = "43"
+B_R = "5"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "16"
+B_AVG = ".116"
+
+
+[[person]]
+name.last = "Napier"
+name.given = "Richard"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+B_G = "17"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "7"
+[person.playing.totals]
+B_G = "24"
+B_AB = "54"
+B_R = "5"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "30"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Whited"
+name.given = "Gerald"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "17"
+B_AB = "57"
+B_R = "10"
+B_H = "6"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "19"
+B_AVG = ".105"
+
+
+[[person]]
+name.last = "Demyan"
+name.given = "Frank"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "22"
+B_AB = "30"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "20"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Riffenburg"
+name.given = "Gerald"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "28"
+B_AB = "63"
+B_R = "6"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "22"
+B_AVG = ".095"
+
+
+[[person]]
+name.last = "Dothager"
+name.given = "Earl"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "16"
+B_AB = "32"
+B_R = "1"
+B_H = "3"
+B_TB = "4"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_AVG = ".085"
+
+
+[[person]]
+name.last = "Powers"
+name.given = "Joseph"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "14"
+B_AB = "36"
+B_R = "5"
+B_H = "3"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "17"
+B_AVG = ".083"
+
+
+[[person]]
+name.last = "Kamphaus"
+name.given = "John"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "25"
+B_AB = "49"
+B_R = "7"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "21"
+B_AVG = ".082"
+
+
+[[person]]
+name.last = "Lane"
+name.given = "Marvin"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hammond"
+[person.playing.totals]
+B_G = "37"
+B_AB = "67"
+B_R = "8"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "23"
+B_AVG = ".075"
+
+
+[[person]]
+name.last = "Golembiewski"
+name.given = "Edward"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+[person.playing.totals]
+B_G = "27"
+B_AB = "40"
+B_R = "4"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "16"
+B_AVG = ".075"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Charles"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "17"
+B_AB = "18"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "9"
+B_AVG = ".056"
+
+
+[[person]]
+name.last = "Tardo"
+name.given = "Cyrus"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Iberia"
+B_G = "10"
+[[person.playing.split]]
+team.name = "Lafayette"
+B_G = "9"
+[person.playing.totals]
+B_G = "19"
+B_AB = "20"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "10"
+B_AVG = ".050"
+
+
+[[person]]
+name.last = "Zara"
+name.given = "Chester"
+description.bats = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "11"
+B_AB = "21"
+B_R = "3"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "7"
+B_AVG = ".000"

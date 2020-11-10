@@ -1,0 +1,134 @@
+[[team]]
+name = "Gladewater"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "123"
+F_PB = "27"
+F_PO = "3676"
+F_A = "1491"
+F_E = "197"
+F_TP = "0"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Longview"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "141"
+F_PB = "18"
+F_PO = "3661"
+F_A = "1462"
+F_E = "217"
+F_TP = "0"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Marshall"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "128"
+F_PB = "24"
+F_PO = "3551"
+F_A = "1476"
+F_E = "233"
+F_TP = "0"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Tyler"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "158"
+F_PB = "46"
+F_PO = "3656"
+F_A = "1754"
+F_E = "267"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "156"
+F_PB = "12"
+F_PO = "3545"
+F_A = "1526"
+F_E = "262"
+F_TP = "3"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Kilgore"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "83"
+F_PB = "23"
+F_PO = "3619"
+F_A = "1304"
+F_E = "259"
+F_TP = "0"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "129"
+F_PB = "18"
+F_PO = "3561"
+F_A = "1485"
+F_E = "271"
+F_TP = "0"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Bryan"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "114"
+F_PB = "48"
+F_PO = "3603"
+F_A = "1531"
+F_E = "304"
+F_TP = "0"
+F_PCT = ".944"

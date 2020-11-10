@@ -1,0 +1,582 @@
+[[person]]
+name.last = "Bennett"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "French"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[person.playing.totals]
+P_G = "9"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+P_G = "7"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+
+
+[[person]]
+name.last = "McGraynor"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Maysville"
+[person.playing.totals]
+P_G = "15"
+P_W = "12"
+P_L = "3"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Test"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "32"
+P_W = "21"
+P_L = "6"
+P_PCT = ".778"
+
+
+[[person]]
+name.last = "Hoffman"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Park"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "18"
+P_W = "12"
+P_L = "5"
+P_PCT = ".706"
+
+
+[[person]]
+name.last = "Lingrel"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "30"
+P_W = "20"
+P_L = "9"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Jacobus"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "30"
+P_W = "19"
+P_L = "9"
+P_PCT = ".679"
+
+
+[[person]]
+name.last = "McCall"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "10"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Potter"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "16"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Kuykendall"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "28"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Rhorer"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Bacon"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "23"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "25"
+P_W = "13"
+P_L = "11"
+P_PCT = ".542"
+
+
+[[person]]
+name.last = "Sims"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "27"
+P_W = "15"
+P_L = "14"
+P_PCT = ".517"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Maysville"
+[person.playing.totals]
+P_G = "23"
+P_W = "8"
+P_L = "8"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Meyers"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ironton"
+[person.playing.totals]
+P_G = "15"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Tedrow"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ironton"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hanna"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "31"
+P_W = "11"
+P_L = "11"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hancock"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "18"
+P_W = "8"
+P_L = "9"
+P_PCT = ".470"
+
+
+[[person]]
+name.last = "Coffindaffer"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "38"
+P_W = "11"
+P_L = "13"
+P_PCT = ".458"
+
+
+[[person]]
+name.last = "Henderson"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "22"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Brzozowski"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "15"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Winchell"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[person.playing.totals]
+P_G = "9"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Lyme"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Maysville"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "21"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+
+
+[[person]]
+name.last = "Brockley"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Maysville"
+[person.playing.totals]
+P_G = "25"
+P_W = "8"
+P_L = "12"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Mahan"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Shamlin"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ironton"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "15"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Monroe"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "12"
+P_W = "4"
+P_L = "7"
+P_PCT = ".364"
+
+
+[[person]]
+name.last = "Reams"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ironton"
+[person.playing.totals]
+P_G = "35"
+P_W = "9"
+P_L = "17"
+P_PCT = ".346"
+
+
+[[person]]
+name.last = "DeLotelle"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ironton"
+[person.playing.totals]
+P_G = "26"
+P_W = "8"
+P_L = "16"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "McLean"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "16"
+P_W = "5"
+P_L = "8"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Singleton"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Maysville"
+[person.playing.totals]
+P_G = "8"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Elliott"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "15"
+P_W = "1"
+P_L = "12"
+P_PCT = ".077"
+
+
+[[person]]
+name.last = "Lavender"
+[[person.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ironton"
+[person.playing.totals]
+P_G = "14"
+P_W = "1"
+P_L = "12"
+P_PCT = ".077"

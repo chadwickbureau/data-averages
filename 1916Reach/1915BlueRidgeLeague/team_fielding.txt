@@ -1,0 +1,76 @@
+[[team]]
+name = "Frederick"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2053"
+F_A = "920"
+F_E = "125"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1985"
+F_A = "926"
+F_E = "152"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Gettysburg"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2122"
+F_A = "967"
+F_E = "162"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Hanover"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2043"
+F_A = "811"
+F_E = "151"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Chambersburg"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2100"
+F_A = "1015"
+F_E = "207"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Martinsburg"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2061"
+F_A = "918"
+F_E = "213"
+F_PCT = ".933"

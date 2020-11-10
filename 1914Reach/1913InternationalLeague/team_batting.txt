@@ -1,0 +1,174 @@
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5234"
+B_R = "710"
+B_H = "1434"
+B_2B = "192"
+B_3B = "78"
+B_HR = "34"
+B_TB = "1884"
+B_SH = "175"
+B_SB = "169"
+B_BB = "595"
+B_SO = "548"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4909"
+B_R = "613"
+B_H = "1339"
+B_2B = "164"
+B_3B = "65"
+B_HR = "12"
+B_TB = "1669"
+B_SH = "251"
+B_SB = "219"
+B_BB = "354"
+B_SO = "459"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5007"
+B_R = "659"
+B_H = "1340"
+B_2B = "166"
+B_3B = "68"
+B_HR = "18"
+B_TB = "1696"
+B_SH = "182"
+B_SB = "260"
+B_BB = "451"
+B_SO = "536"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "5041"
+B_R = "684"
+B_H = "1353"
+B_2B = "136"
+B_3B = "112"
+B_HR = "22"
+B_TB = "1779"
+B_SH = "165"
+B_SB = "179"
+B_BB = "520"
+B_SO = "617"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5155"
+B_R = "588"
+B_H = "1354"
+B_2B = "172"
+B_3B = "56"
+B_HR = "20"
+B_TB = "1698"
+B_SH = "173"
+B_SB = "148"
+B_BB = "479"
+B_SO = "534"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5134"
+B_R = "563"
+B_H = "1336"
+B_2B = "195"
+B_3B = "73"
+B_HR = "30"
+B_TB = "1767"
+B_SH = "173"
+B_SB = "184"
+B_BB = "500"
+B_SO = "659"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5142"
+B_R = "607"
+B_H = "1337"
+B_2B = "196"
+B_3B = "48"
+B_HR = "27"
+B_TB = "1710"
+B_SH = "160"
+B_SB = "195"
+B_BB = "489"
+B_SO = "482"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "157"
+B_AB = "5302"
+B_R = "482"
+B_H = "1330"
+B_2B = "146"
+B_3B = "96"
+B_HR = "29"
+B_TB = "1755"
+B_SH = "133"
+B_SB = "149"
+B_BB = "252"
+B_SO = "489"
+B_AVG = ".251"

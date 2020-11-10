@@ -1,0 +1,94 @@
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3807"
+B_R = "510"
+B_H = "998"
+B_SH = "125"
+B_SB = "118"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3966"
+B_R = "460"
+B_H = "1021"
+B_SH = "105"
+B_SB = "149"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3818"
+B_R = "442"
+B_H = "960"
+B_SH = "182"
+B_SB = "199"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3734"
+B_R = "482"
+B_H = "919"
+B_SH = "191"
+B_SB = "176"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3890"
+B_R = "417"
+B_H = "916"
+B_SH = "154"
+B_SB = "188"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3159"
+B_R = "300"
+B_H = "728"
+B_SH = "120"
+B_SB = "134"
+B_AVG = ".230"

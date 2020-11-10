@@ -1,0 +1,524 @@
+[[person]]
+name.last = "Belanger"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "16"
+P_TO = "2"
+P_G_REL = "0"
+P_IP = "141"
+P_AB = "518"
+P_R = "50"
+P_H = "120"
+P_HP = "6"
+P_BB = "36"
+P_SO = "60"
+P_WP = "3"
+P_W = "12"
+P_L = "4"
+P_T = "0"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Harding"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "19"
+P_TO = "6"
+P_G_REL = "2"
+P_IP = "131"
+P_AB = "489"
+P_R = "42"
+P_H = "106"
+P_HP = "1"
+P_BB = "30"
+P_SO = "50"
+P_WP = "1"
+P_W = "12"
+P_L = "6"
+P_T = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "McManus"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "21"
+P_TO = "2"
+P_G_REL = "3"
+P_IP = "161"
+P_AB = "586"
+P_R = "53"
+P_H = "134"
+P_HP = "9"
+P_BB = "22"
+P_SO = "74"
+P_WP = "0"
+P_W = "13"
+P_L = "7"
+P_T = "1"
+P_PCT = ".650"
+
+
+[[person]]
+name.last = "Betsill"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "23"
+P_TO = "5"
+P_G_REL = "5"
+P_IP = "158"
+P_AB = "600"
+P_R = "66"
+P_H = "158"
+P_HP = "2"
+P_BB = "41"
+P_SO = "76"
+P_WP = "1"
+P_W = "13"
+P_L = "7"
+P_T = "0"
+P_PCT = ".650"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "45"
+P_TO = "4"
+P_G_REL = "8"
+P_IP = "334"
+P_AB = "1225"
+P_R = "101"
+P_H = "261"
+P_HP = "15"
+P_BB = "74"
+P_SO = "199"
+P_WP = "8"
+P_W = "25"
+P_L = "14"
+P_T = "0"
+P_PCT = ".641"
+
+
+[[person]]
+name.last = "Meadows"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "39"
+P_TO = "9"
+P_G_REL = "8"
+P_IP = "292"
+P_AB = "1044"
+P_R = "86"
+P_H = "223"
+P_HP = "13"
+P_BB = "68"
+P_SO = "184"
+P_WP = "9"
+P_W = "21"
+P_L = "14"
+P_T = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Mahaffey"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "25"
+P_TO = "3"
+P_G_REL = "11"
+P_IP = "133"
+P_AB = "504"
+P_R = "84"
+P_H = "129"
+P_HP = "4"
+P_BB = "45"
+P_SO = "40"
+P_WP = "7"
+P_W = "9"
+P_L = "6"
+P_T = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Yon"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "32"
+P_TO = "13"
+P_G_REL = "4"
+P_IP = "198"
+P_AB = "714"
+P_R = "65"
+P_H = "144"
+P_HP = "6"
+P_BB = "75"
+P_SO = "134"
+P_WP = "4"
+P_W = "13"
+P_L = "10"
+P_T = "0"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "25"
+P_TO = "9"
+P_G_REL = "5"
+P_IP = "184"
+P_AB = "672"
+P_R = "92"
+P_H = "146"
+P_HP = "18"
+P_BB = "101"
+P_SO = "141"
+P_WP = "16"
+P_W = "11"
+P_L = "9"
+P_T = "0"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Boyle"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "41"
+P_TO = "8"
+P_G_REL = "11"
+P_IP = "273"
+P_AB = "1036"
+P_R = "129"
+P_H = "283"
+P_HP = "3"
+P_BB = "80"
+P_SO = "66"
+P_WP = "7"
+P_W = "16"
+P_L = "14"
+P_T = "1"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Watson"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "40"
+P_TO = "4"
+P_G_REL = "11"
+P_IP = "290"
+P_AB = "1094"
+P_R = "129"
+P_H = "280"
+P_HP = "10"
+P_BB = "68"
+P_SO = "115"
+P_WP = "4"
+P_W = "17"
+P_L = "15"
+P_T = "2"
+P_PCT = ".531"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "42"
+P_TO = "8"
+P_G_REL = "9"
+P_IP = "308"
+P_AB = "1136"
+P_R = "122"
+P_H = "277"
+P_HP = "21"
+P_BB = "71"
+P_SO = "118"
+P_WP = "9"
+P_W = "17"
+P_L = "16"
+P_T = "0"
+P_PCT = ".515"
+
+
+[[person]]
+name.last = "Waymack"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "28"
+P_TO = "8"
+P_G_REL = "6"
+P_IP = "188"
+P_AB = "699"
+P_R = "79"
+P_H = "166"
+P_HP = "18"
+P_BB = "61"
+P_SO = "96"
+P_WP = "3"
+P_W = "11"
+P_L = "11"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Fahrer"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "29"
+P_TO = "1"
+P_G_REL = "2"
+P_IP = "240"
+P_AB = "853"
+P_R = "79"
+P_H = "190"
+P_HP = "5"
+P_BB = "75"
+P_SO = "142"
+P_WP = "3"
+P_W = "12"
+P_L = "13"
+P_T = "2"
+P_PCT = ".480"
+
+
+[[person]]
+name.last = "Shore"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "26"
+P_TO = "7"
+P_G_REL = "2"
+P_IP = "196"
+P_AB = "728"
+P_R = "79"
+P_H = "162"
+P_HP = "5"
+P_BB = "44"
+P_SO = "124"
+P_WP = "3"
+P_W = "11"
+P_L = "12"
+P_T = "0"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "McKeithan"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "39"
+P_TO = "7"
+P_G_REL = "6"
+P_IP = "287"
+P_AB = "1044"
+P_R = "146"
+P_H = "276"
+P_HP = "11"
+P_BB = "114"
+P_SO = "124"
+P_WP = "6"
+P_W = "15"
+P_L = "18"
+P_T = "1"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Ferris"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "34"
+P_TO = "8"
+P_G_REL = "10"
+P_IP = "232"
+P_AB = "851"
+P_R = "92"
+P_H = "203"
+P_HP = "7"
+P_BB = "55"
+P_SO = "80"
+P_WP = "2"
+P_W = "10"
+P_L = "12"
+P_T = "0"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "High"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "32"
+P_TO = "7"
+P_G_REL = "5"
+P_IP = "224"
+P_AB = "821"
+P_R = "124"
+P_H = "196"
+P_HP = "22"
+P_BB = "90"
+P_SO = "115"
+P_WP = "7"
+P_W = "10"
+P_L = "16"
+P_T = "0"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Bausewein"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "21"
+P_TO = "3"
+P_G_REL = "3"
+P_IP = "150"
+P_AB = "541"
+P_R = "73"
+P_H = "127"
+P_HP = "5"
+P_BB = "69"
+P_SO = "93"
+P_WP = "8"
+P_W = "7"
+P_L = "12"
+P_T = "0"
+P_PCT = ".368"
+
+
+[[person]]
+name.last = "Ledbetter"
+[[person.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "29"
+P_TO = "7"
+P_G_REL = "8"
+P_IP = "174"
+P_AB = "672"
+P_R = "113"
+P_H = "189"
+P_HP = "15"
+P_BB = "55"
+P_SO = "77"
+P_WP = "7"
+P_W = "6"
+P_L = "17"
+P_T = "1"
+P_PCT = ".261"

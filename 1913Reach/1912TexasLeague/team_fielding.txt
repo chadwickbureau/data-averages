@@ -1,0 +1,134 @@
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3801"
+F_A = "1833"
+F_E = "225"
+F_TC = "5859"
+F_PCT = ".961"
+F_DP = "84"
+F_TP = "0"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_PO = "3907"
+F_A = "1921"
+F_E = "254"
+F_TC = "6145"
+F_PCT = ".958"
+F_DP = "79"
+F_TP = "1"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3766"
+F_A = "1761"
+F_E = "251"
+F_TC = "5778"
+F_PCT = ".957"
+F_DP = "82"
+F_TP = "0"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "145"
+F_PO = "3699"
+F_A = "1824"
+F_E = "256"
+F_TC = "5779"
+F_PCT = ".956"
+F_DP = "89"
+F_TP = "0"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_PO = "3854"
+F_A = "1774"
+F_E = "265"
+F_TC = "5893"
+F_PCT = ".955"
+F_DP = "85"
+F_TP = "0"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_PO = "3849"
+F_A = "1789"
+F_E = "272"
+F_TC = "5910"
+F_PCT = ".954"
+F_DP = "77"
+F_TP = "0"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "145"
+F_PO = "3841"
+F_A = "1935"
+F_E = "301"
+F_TC = "6077"
+F_PCT = ".950"
+F_DP = "103"
+F_TP = "0"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_PO = "3859"
+F_A = "2013"
+F_E = "310"
+F_TC = "6182"
+F_PCT = ".949"
+F_DP = "87"
+F_TP = "0"

@@ -1,0 +1,94 @@
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3642"
+B_R = "359"
+B_H = "815"
+B_TB = "939"
+B_SH = "192"
+B_SB = "250"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3437"
+B_R = "298"
+B_H = "764"
+B_TB = "935"
+B_SH = "141"
+B_SB = "202"
+B_AVG = ".222"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3821"
+B_R = "337"
+B_H = "835"
+B_TB = "984"
+B_SH = "192"
+B_SB = "199"
+B_AVG = ".218"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3853"
+B_R = "302"
+B_H = "755"
+B_TB = "859"
+B_SH = "175"
+B_SB = "264"
+B_AVG = ".196"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3479"
+B_R = "278"
+B_H = "671"
+B_TB = "757"
+B_SH = "145"
+B_SB = "238"
+B_AVG = ".193"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3535"
+B_R = "262"
+B_H = "651"
+B_TB = "732"
+B_SH = "166"
+B_SB = "167"
+B_AVG = ".184"

@@ -1,0 +1,102 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "45"
+R_PCT = ".672"
+R_RANK = "1"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "61"
+R_PCT = ".551"
+R_RANK = "2"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "68"
+R_PCT = ".496"
+R_RANK = "3"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "72"
+R_PCT = ".486"
+R_RANK = "4"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "73"
+R_PCT = ".471"
+R_RANK = "5"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "71"
+R_PCT = ".470"
+R_RANK = "6"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "74"
+R_PCT = ".439"
+R_RANK = "7"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "78"
+R_PCT = ".427"
+R_RANK = "8"

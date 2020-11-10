@@ -1,0 +1,94 @@
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5232"
+B_R = "750"
+B_H = "1421"
+B_TB = "1872"
+B_SH = "171"
+B_SB = "113"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5105"
+B_R = "765"
+B_H = "1373"
+B_TB = "1792"
+B_SH = "141"
+B_SB = "167"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4950"
+B_R = "675"
+B_H = "1287"
+B_TB = "1718"
+B_SH = "175"
+B_SB = "284"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5326"
+B_R = "843"
+B_H = "1593"
+B_TB = "2137"
+B_SH = "117"
+B_SB = "180"
+B_AVG = ".209"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4820"
+B_R = "829"
+B_H = "1417"
+B_TB = "1787"
+B_SH = "152"
+B_SB = "389"
+B_AVG = ".204"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5152"
+B_R = "658"
+B_H = "1348"
+B_TB = "1805"
+B_SH = "146"
+B_SB = "194"
+B_AVG = ".201"

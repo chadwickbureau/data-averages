@@ -1,0 +1,102 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "41"
+R_PCT = ".672"
+R_RANK = "1"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "42"
+R_PCT = ".667"
+R_RANK = "2"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "63"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "New Britain"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "64"
+R_PCT = ".488"
+R_RANK = "4"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "66"
+R_PCT = ".473"
+R_RANK = "5"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "71"
+R_PCT = ".437"
+R_RANK = "6"
+
+
+[[team]]
+name = "Meriden"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "72"
+R_PCT = ".429"
+R_RANK = "7"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1908"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "42"
+R_L = "84"
+R_PCT = ".333"
+R_RANK = "8"

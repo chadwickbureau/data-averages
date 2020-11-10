@@ -1,0 +1,253 @@
+[[person]]
+name.last = "Andrade"
+name.given = "Candido"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+P_IP = "68"
+P_SO = "29"
+P_W = "3"
+P_L = "4"
+P_ERA = "1.32"
+
+
+[[person]]
+name.last = "Cicotte"
+name.given = "Al"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+P_IP = "169"
+P_SO = "103"
+P_W = "13"
+P_L = "6"
+P_ERA = "1.38"
+
+
+[[person]]
+name.last = "Pena"
+name.given = "Orlando"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+P_IP = "177"
+P_SO = "96"
+P_W = "15"
+P_L = "5"
+P_ERA = "1.58"
+
+
+[[person]]
+name.last = "Sanchez"
+name.given = "Raul"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+P_IP = "99"
+P_SO = "48"
+P_W = "8"
+P_L = "5"
+P_ERA = "1.64"
+
+
+[[person]]
+name.last = "Buzhardt"
+name.given = "John"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+P_IP = "146"
+P_SO = "63"
+P_W = "10"
+P_L = "10"
+P_ERA = "1.85"
+
+
+[[person]]
+name.last = "Lasorda"
+name.given = "Tom"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+P_IP = "100"
+P_SO = "31"
+P_W = "8"
+P_L = "3"
+P_ERA = "1.89"
+
+
+[[person]]
+name.last = "Fowler"
+name.given = "Art"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+P_IP = "156"
+P_SO = "82"
+P_W = "9"
+P_L = "6"
+P_ERA = "1.91"
+
+
+[[person]]
+name.last = "Shaw"
+name.given = "Bob"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+P_IP = "146"
+P_SO = "71"
+P_W = "6"
+P_L = "7"
+P_ERA = "1.91"
+
+
+[[person]]
+name.last = "Pascual"
+name.given = "Camilo"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+P_IP = "145"
+P_SO = "108"
+P_W = "9"
+P_L = "9"
+P_ERA = "2.11"
+
+
+[[person]]
+name.last = "Ramos"
+name.given = "Pedro"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+P_IP = "190"
+P_SO = "100"
+P_W = "6"
+P_L = "13"
+P_ERA = "2.33"
+
+
+[[person]]
+name.last = "Arias"
+name.given = "Rodolfo"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+P_IP = "95"
+P_SO = "59"
+P_W = "3"
+P_L = "7"
+P_ERA = "2.36"
+
+
+[[person]]
+name.last = "Oliva"
+name.given = "Angel"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+P_IP = "74"
+P_SO = "49"
+P_W = "6"
+P_L = "5"
+P_ERA = "2.43"
+
+
+[[person]]
+name.last = "Fornieles"
+name.given = "Mike"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+P_IP = "135"
+P_SO = "78"
+P_W = "8"
+P_L = "8"
+P_ERA = "2.53"
+
+
+[[person]]
+name.last = "Romonosky"
+name.given = "John"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+P_IP = "71"
+P_SO = "36"
+P_W = "5"
+P_L = "3"
+P_ERA = "2.64"
+
+
+[[person]]
+name.last = "Churn"
+name.given = "Clarence"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+P_IP = "84"
+P_SO = "39"
+P_W = "1"
+P_L = "5"
+P_ERA = "2.69"

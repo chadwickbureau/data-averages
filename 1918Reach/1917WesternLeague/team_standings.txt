@@ -1,0 +1,258 @@
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "55"
+R_L = "35"
+R_PCT = ".611"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "54"
+R_L = "37"
+R_PCT = ".593"
+R_RANK = "2"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "50"
+R_L = "40"
+R_PCT = ".556"
+R_RANK = "3"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "47"
+R_L = "44"
+R_PCT = ".516"
+R_RANK = "4"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "47"
+R_L = "45"
+R_PCT = ".511"
+R_RANK = "5"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "44"
+R_L = "48"
+R_PCT = ".478"
+R_RANK = "6"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "33"
+R_L = "56"
+R_PCT = ".371"
+R_RANK = "7"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "33"
+R_L = "58"
+R_PCT = ".363"
+R_RANK = "8"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "32"
+R_L = "24"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "32"
+R_L = "24"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "26"
+R_PCT = ".536"
+R_RANK = "3"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "27"
+R_PCT = ".518"
+R_RANK = "4"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "27"
+R_PCT = ".518"
+R_RANK = "4"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "28"
+R_L = "28"
+R_PCT = ".500"
+R_RANK = "6"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "26"
+R_L = "30"
+R_PCT = ".464"
+R_RANK = "7"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "18"
+R_L = "38"
+R_PCT = ".321"
+R_RANK = "8"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "semifinal"
+[team.playing.totals]
+R_W = "3"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "semifinal"
+[team.playing.totals]
+R_W = "0"
+R_L = "3"
+R_PCT = ".000"
+R_RANK = "2"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Deal"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waterloo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Serrano"
+name.given = "Edward"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Kokomo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kerr"
+name.given = "John (Buddy)"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Michigan City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Verlon"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Paris"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Calo"
+name.given = "Frank"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Keokuk"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Parenti"
+name.given = "Frank"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dubuque"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Carswell"
+name.given = "Frank"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Decatur"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wentzel"
+name.given = "Stanley"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Clinton"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Millies"
+name.given = "Walter"
+[[person.managing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Clinton"
+S_ORDER = "2"
+[person.managing.totals]

@@ -1,0 +1,1830 @@
+[[person]]
+name.last = "Rose"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+[person.playing.totals]
+P_G = "9"
+P_CG = "7"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "69"
+P_AB = "251"
+P_H = "39"
+P_R = "26"
+P_ER = "20"
+P_SH = "1"
+P_BB = "36"
+P_SO = "97"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "2.61"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Coutts"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+[person.playing.totals]
+P_G = "22"
+P_CG = "20"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+P_IP = "184"
+P_AB = "714"
+P_H = "187"
+P_R = "73"
+P_ER = "55"
+P_SH = "9"
+P_BB = "57"
+P_SO = "128"
+P_HP = "4"
+P_WP = "4"
+P_ERA = "2.69"
+P_SHO = "5"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Espiricueta"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+[person.playing.totals]
+P_G = "20"
+P_CG = "12"
+P_W = "12"
+P_L = "4"
+P_PCT = ".750"
+P_IP = "133"
+P_AB = "539"
+P_H = "141"
+P_R = "47"
+P_ER = "41"
+P_SH = "5"
+P_BB = "31"
+P_SO = "80"
+P_HP = "3"
+P_WP = "1"
+P_ERA = "2.77"
+P_SHO = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Echeverria"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+[person.playing.totals]
+P_G = "20"
+P_CG = "13"
+P_W = "13"
+P_L = "4"
+P_PCT = ".765"
+P_IP = "140"
+P_AB = "532"
+P_H = "116"
+P_R = "52"
+P_ER = "46"
+P_SH = "6"
+P_BB = "37"
+P_SO = "128"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "2.96"
+P_SHO = "2"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Roenspie"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+[person.playing.totals]
+P_G = "37"
+P_CG = "24"
+P_W = "20"
+P_L = "11"
+P_PCT = ".645"
+P_IP = "266"
+P_AB = "1036"
+P_H = "263"
+P_R = "135"
+P_ER = "100"
+P_SH = "8"
+P_BB = "99"
+P_SO = "188"
+P_HP = "6"
+P_WP = "7"
+P_ERA = "3.38"
+P_SHO = "0"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Janeway"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Las Vegas"
+[person.playing.totals]
+P_G = "23"
+P_CG = "13"
+P_W = "15"
+P_L = "4"
+P_PCT = ".789"
+P_IP = "145"
+P_AB = "581"
+P_H = "151"
+P_R = "80"
+P_ER = "56"
+P_SH = "3"
+P_BB = "45"
+P_SO = "90"
+P_HP = "4"
+P_WP = "4"
+P_ERA = "3.48"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Curry"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+[person.playing.totals]
+P_G = "12"
+P_CG = "6"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "83"
+P_AB = "334"
+P_H = "79"
+P_R = "60"
+P_ER = "34"
+P_SH = "1"
+P_BB = "48"
+P_SO = "44"
+P_HP = "4"
+P_WP = "4"
+P_ERA = "3.69"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Waters"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+[person.playing.totals]
+P_G = "14"
+P_CG = "9"
+P_W = "8"
+P_L = "3"
+P_PCT = ".727"
+P_IP = "96"
+P_AB = "366"
+P_H = "91"
+P_R = "56"
+P_ER = "41"
+P_SH = "5"
+P_BB = "46"
+P_SO = "62"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "3.84"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Peluso"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Las Vegas"
+[person.playing.totals]
+P_G = "17"
+P_CG = "7"
+P_W = "10"
+P_L = "4"
+P_PCT = ".714"
+P_IP = "104"
+P_AB = "426"
+P_H = "102"
+P_R = "64"
+P_ER = "46"
+P_SH = "2"
+P_BB = "53"
+P_SO = "53"
+P_HP = "8"
+P_WP = "0"
+P_ERA = "3.98"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Bryson"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "22"
+P_CG = "3"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "104"
+P_AB = "387"
+P_H = "90"
+P_R = "58"
+P_ER = "48"
+P_SH = "6"
+P_BB = "77"
+P_SO = "69"
+P_HP = "4"
+P_WP = "1"
+P_ERA = "4.15"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Knudson"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reno"
+[person.playing.totals]
+P_G = "29"
+P_CG = "24"
+P_W = "15"
+P_L = "13"
+P_PCT = ".526"
+P_IP = "226"
+P_AB = "915"
+P_H = "234"
+P_R = "159"
+P_ER = "105"
+P_SH = "13"
+P_BB = "128"
+P_SO = "173"
+P_HP = "10"
+P_WP = "27"
+P_ERA = "4.18"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "McCarthy"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Las Vegas"
+[person.playing.totals]
+P_G = "27"
+P_CG = "12"
+P_W = "12"
+P_L = "5"
+P_PCT = ".706"
+P_IP = "155"
+P_AB = "637"
+P_H = "175"
+P_R = "87"
+P_ER = "72"
+P_SH = "7"
+P_BB = "61"
+P_SO = "79"
+P_HP = "5"
+P_WP = "6"
+P_ERA = "4.18"
+P_SHO = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jack"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+P_G = "3"
+[[person.playing.split]]
+team.name = "El Centro"
+P_G = "19"
+[person.playing.totals]
+P_G = "22"
+P_CG = "5"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+P_IP = "86"
+P_AB = "331"
+P_H = "77"
+P_R = "53"
+P_ER = "40"
+P_SH = "3"
+P_BB = "31"
+P_SO = "38"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "4.19"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "DePietro"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "13"
+P_CG = "4"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "74"
+P_AB = "279"
+P_H = "68"
+P_R = "39"
+P_ER = "35"
+P_SH = "1"
+P_BB = "52"
+P_SO = "77"
+P_HP = "3"
+P_WP = "3"
+P_ERA = "4.26"
+P_SHO = "0"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Baldwin"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Las Vegas"
+P_G = "30"
+[[person.playing.split]]
+team.name = "Porterville"
+P_G = "6"
+[person.playing.totals]
+P_G = "36"
+P_CG = "13"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+P_IP = "181"
+P_AB = "745"
+P_H = "197"
+P_R = "132"
+P_ER = "88"
+P_SH = "10"
+P_BB = "93"
+P_SO = "123"
+P_HP = "1"
+P_WP = "9"
+P_ERA = "4.38"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Norton"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+[person.playing.totals]
+P_G = "8"
+P_CG = "4"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "63"
+P_AB = "272"
+P_H = "82"
+P_R = "45"
+P_ER = "31"
+P_SH = "1"
+P_BB = "36"
+P_SO = "45"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "4.43"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McClung"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "22"
+P_CG = "13"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "131"
+P_AB = "532"
+P_H = "150"
+P_R = "85"
+P_ER = "65"
+P_SH = "5"
+P_BB = "45"
+P_SO = "99"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "4.47"
+P_SHO = "0"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Juzek"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+P_G = "12"
+[[person.playing.split]]
+team.name = "Porterville"
+P_G = "7"
+[person.playing.totals]
+P_G = "19"
+P_CG = "11"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "132"
+P_AB = "492"
+P_H = "113"
+P_R = "82"
+P_ER = "66"
+P_SH = "12"
+P_BB = "109"
+P_SO = "116"
+P_HP = "2"
+P_WP = "9"
+P_ERA = "4.50"
+P_SHO = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McGoldrick"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+[person.playing.totals]
+P_G = "24"
+P_CG = "11"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "130"
+P_AB = "541"
+P_H = "154"
+P_R = "95"
+P_ER = "65"
+P_SH = "3"
+P_BB = "82"
+P_SO = "83"
+P_HP = "0"
+P_WP = "6"
+P_ERA = "4.50"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Shore"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Las Vegas"
+[person.playing.totals]
+P_G = "25"
+P_CG = "14"
+P_W = "17"
+P_L = "3"
+P_PCT = ".850"
+P_IP = "169"
+P_AB = "651"
+P_H = "162"
+P_R = "103"
+P_ER = "85"
+P_SH = "10"
+P_BB = "97"
+P_SO = "97"
+P_HP = "6"
+P_WP = "8"
+P_ERA = "4.53"
+P_SHO = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Treichel"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+P_G = "21"
+[[person.playing.split]]
+team.name = "Las Vegas"
+P_G = "3"
+[person.playing.totals]
+P_G = "24"
+P_CG = "17"
+P_W = "15"
+P_L = "7"
+P_PCT = ".682"
+P_IP = "176"
+P_AB = "679"
+P_H = "152"
+P_R = "104"
+P_ER = "91"
+P_SH = "5"
+P_BB = "112"
+P_SO = "159"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "4.65"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Valenzuela"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+[person.playing.totals]
+P_G = "31"
+P_CG = "2"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "121"
+P_AB = "481"
+P_H = "126"
+P_R = "72"
+P_ER = "62"
+P_SH = "9"
+P_BB = "62"
+P_SO = "98"
+P_HP = "4"
+P_WP = "1"
+P_ERA = "4.61"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Martin"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+[person.playing.totals]
+P_G = "24"
+P_CG = "11"
+P_W = "9"
+P_L = "10"
+P_PCT = ".474"
+P_IP = "164"
+P_AB = "625"
+P_H = "137"
+P_R = "111"
+P_ER = "83"
+P_SH = "11"
+P_BB = "129"
+P_SO = "133"
+P_HP = "7"
+P_WP = "7"
+P_ERA = "4.55"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Richards"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "18"
+P_CG = "4"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "101"
+P_AB = "394"
+P_H = "108"
+P_R = "65"
+P_ER = "51"
+P_SH = "8"
+P_BB = "55"
+P_SO = "50"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "4.54"
+P_SHO = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Monninger"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+[person.playing.totals]
+P_G = "21"
+P_CG = "11"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "131"
+P_AB = "543"
+P_H = "156"
+P_R = "91"
+P_ER = "66"
+P_SH = "6"
+P_BB = "37"
+P_SO = "66"
+P_HP = "4"
+P_WP = "2"
+P_ERA = "4.53"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cirimeli"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+[person.playing.totals]
+P_G = "11"
+P_CG = "3"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "50"
+P_AB = "207"
+P_H = "57"
+P_R = "32"
+P_ER = "36"
+P_SH = "1"
+P_BB = "20"
+P_SO = "35"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "4.68"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "MacKay"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reno"
+[person.playing.totals]
+P_G = "25"
+P_CG = "10"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "142"
+P_AB = "604"
+P_H = "178"
+P_R = "112"
+P_ER = "74"
+P_SH = "11"
+P_BB = "76"
+P_SO = "92"
+P_HP = "7"
+P_WP = "7"
+P_ERA = "4.69"
+P_SHO = "0"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Haworth"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+[person.playing.totals]
+P_G = "17"
+P_CG = "10"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+P_IP = "111"
+P_AB = "440"
+P_H = "127"
+P_R = "72"
+P_ER = "60"
+P_SH = "8"
+P_BB = "45"
+P_SO = "52"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "4.84"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Graves"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reno"
+[person.playing.totals]
+P_G = "12"
+P_CG = "9"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "96"
+P_AB = "378"
+P_H = "97"
+P_R = "68"
+P_ER = "52"
+P_SH = "8"
+P_BB = "57"
+P_SO = "68"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "4.88"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Torres"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+[person.playing.totals]
+P_G = "20"
+P_CG = "3"
+P_W = "1"
+P_L = "8"
+P_PCT = ".111"
+P_IP = "88"
+P_AB = "379"
+P_H = "119"
+P_R = "86"
+P_ER = "48"
+P_SH = "2"
+P_BB = "49"
+P_SO = "37"
+P_HP = "1"
+P_WP = "7"
+P_ERA = "4.91"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Moreland"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+[person.playing.totals]
+P_G = "28"
+P_CG = "14"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+P_IP = "179"
+P_AB = "717"
+P_H = "198"
+P_R = "128"
+P_ER = "98"
+P_SH = "9"
+P_BB = "82"
+P_SO = "108"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "4.93"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Parker"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reno"
+[person.playing.totals]
+P_G = "26"
+P_CG = "9"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "133"
+P_AB = "550"
+P_H = "170"
+P_R = "115"
+P_ER = "73"
+P_SH = "10"
+P_BB = "65"
+P_SO = "65"
+P_HP = "6"
+P_WP = "6"
+P_ERA = "4.94"
+P_SHO = "1"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Chamness"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "30"
+P_CG = "11"
+P_W = "10"
+P_L = "14"
+P_PCT = ".417"
+P_IP = "173"
+P_AB = "669"
+P_H = "177"
+P_R = "120"
+P_ER = "97"
+P_SH = "7"
+P_BB = "88"
+P_SO = "93"
+P_HP = "6"
+P_WP = "5"
+P_ERA = "5.05"
+P_SHO = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barta"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+[person.playing.totals]
+P_G = "27"
+P_CG = "13"
+P_W = "7"
+P_L = "11"
+P_PCT = ".389"
+P_IP = "167"
+P_AB = "663"
+P_H = "170"
+P_R = "121"
+P_ER = "94"
+P_SH = "10"
+P_BB = "130"
+P_SO = "130"
+P_HP = "2"
+P_WP = "10"
+P_ERA = "5.07"
+P_SHO = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kanagy"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+P_G = "23"
+[[person.playing.split]]
+team.name = "San Bernadino"
+P_G = "6"
+[person.playing.totals]
+P_G = "29"
+P_CG = "20"
+P_W = "18"
+P_L = "8"
+P_PCT = ".692"
+P_IP = "209"
+P_AB = "833"
+P_H = "220"
+P_R = "172"
+P_ER = "122"
+P_SH = "8"
+P_BB = "195"
+P_SO = "210"
+P_HP = "11"
+P_WP = "19"
+P_ERA = "5.25"
+P_SHO = "0"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Edmunds"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+[person.playing.totals]
+P_G = "23"
+P_CG = "8"
+P_W = "2"
+P_L = "9"
+P_PCT = ".182"
+P_IP = "121"
+P_AB = "480"
+P_H = "138"
+P_R = "94"
+P_ER = "71"
+P_SH = "8"
+P_BB = "71"
+P_SO = "50"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "5.28"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Devlin"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+[person.playing.totals]
+P_G = "9"
+P_CG = "3"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "52"
+P_AB = "225"
+P_H = "75"
+P_R = "49"
+P_ER = "31"
+P_SH = "3"
+P_BB = "22"
+P_SO = "15"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "5.37"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Klingensmith"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+P_G = "12"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+P_G = "12"
+[[person.playing.split]]
+team.name = "San Bernadino"
+P_G = "7"
+[person.playing.totals]
+P_G = "31"
+P_CG = "11"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "159"
+P_AB = "644"
+P_H = "185"
+P_R = "115"
+P_ER = "95"
+P_SH = "9"
+P_BB = "59"
+P_SO = "72"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "5.38"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bruce"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+[person.playing.totals]
+P_G = "11"
+P_CG = "2"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "62"
+P_AB = "259"
+P_H = "79"
+P_R = "51"
+P_ER = "38"
+P_SH = "4"
+P_BB = "26"
+P_SO = "25"
+P_HP = "0"
+P_WP = "0"
+P_ERA = "5.52"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+[person.playing.totals]
+P_G = "16"
+P_CG = "7"
+P_W = "3"
+P_L = "8"
+P_PCT = ".273"
+P_IP = "83"
+P_AB = "337"
+P_H = "98"
+P_R = "67"
+P_ER = "51"
+P_SH = "5"
+P_BB = "55"
+P_SO = "55"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "5.53"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Goldizen"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "12"
+P_CG = "2"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "65"
+P_AB = "232"
+P_H = "65"
+P_R = "50"
+P_ER = "34"
+P_SH = "4"
+P_BB = "31"
+P_SO = "25"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "5.56"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Risso"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reno"
+[person.playing.totals]
+P_G = "30"
+P_CG = "6"
+P_W = "5"
+P_L = "15"
+P_PCT = ".250"
+P_IP = "149"
+P_AB = "594"
+P_H = "151"
+P_R = "128"
+P_ER = "93"
+P_SH = "11"
+P_BB = "111"
+P_SO = "127"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "5.62"
+P_SHO = "0"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Tisnerat"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+P_G = "17"
+[[person.playing.split]]
+team.name = "Las Vegas"
+P_G = "5"
+[person.playing.totals]
+P_G = "22"
+P_CG = "8"
+P_W = "4"
+P_L = "9"
+P_PCT = ".308"
+P_IP = "120"
+P_AB = "477"
+P_H = "124"
+P_R = "92"
+P_ER = "75"
+P_SH = "8"
+P_BB = "67"
+P_SO = "80"
+P_HP = "3"
+P_WP = "7"
+P_ERA = "5.63"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kanshin"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+[person.playing.totals]
+P_G = "29"
+P_CG = "14"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "172"
+P_AB = "710"
+P_H = "199"
+P_R = "151"
+P_ER = "109"
+P_SH = "8"
+P_BB = "117"
+P_SO = "158"
+P_HP = "6"
+P_WP = "9"
+P_ERA = "5.70"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Riverside"
+[person.playing.totals]
+P_G = "15"
+P_CG = "3"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "66"
+P_AB = "251"
+P_H = "79"
+P_R = "59"
+P_ER = "42"
+P_SH = "8"
+P_BB = "68"
+P_SO = "52"
+P_HP = "5"
+P_WP = "3"
+P_ERA = "5.73"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Amador"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+[person.playing.totals]
+P_G = "17"
+P_CG = "3"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "72"
+P_AB = "298"
+P_H = "93"
+P_R = "63"
+P_ER = "47"
+P_SH = "4"
+P_BB = "43"
+P_SO = "39"
+P_HP = "3"
+P_WP = "1"
+P_ERA = "5.88"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Liddell"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+[person.playing.totals]
+P_G = "30"
+P_CG = "15"
+P_W = "11"
+P_L = "14"
+P_PCT = ".440"
+P_IP = "206"
+P_AB = "806"
+P_H = "223"
+P_R = "155"
+P_ER = "135"
+P_SH = "8"
+P_BB = "101"
+P_SO = "137"
+P_HP = "9"
+P_WP = "8"
+P_ERA = "5.90"
+P_SHO = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Aguilar"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexicali"
+[person.playing.totals]
+P_G = "9"
+P_CG = "2"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "48"
+P_AB = "192"
+P_H = "52"
+P_R = "39"
+P_ER = "33"
+P_SH = "0"
+P_BB = "32"
+P_SO = "35"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "6.19"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stewart"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "32"
+P_CG = "6"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "136"
+P_AB = "542"
+P_H = "154"
+P_R = "123"
+P_ER = "94"
+P_SH = "14"
+P_BB = "111"
+P_SO = "126"
+P_HP = "11"
+P_WP = "5"
+P_ERA = "6.22"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gowett"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+[person.playing.totals]
+P_G = "32"
+P_CG = "13"
+P_W = "12"
+P_L = "13"
+P_PCT = ".480"
+P_IP = "198"
+P_AB = "833"
+P_H = "260"
+P_R = "185"
+P_ER = "137"
+P_SH = "8"
+P_BB = "94"
+P_SO = "124"
+P_HP = "8"
+P_WP = "11"
+P_ERA = "6.23"
+P_SHO = "1"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Rowland"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+[person.playing.totals]
+P_G = "19"
+P_CG = "7"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "116"
+P_AB = "518"
+P_H = "181"
+P_R = "101"
+P_ER = "84"
+P_SH = "9"
+P_BB = "60"
+P_SO = "43"
+P_HP = "0"
+P_WP = "3"
+P_ERA = "6.52"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Zundel"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Las Vegas"
+[person.playing.totals]
+P_G = "31"
+P_CG = "4"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "160"
+P_AB = "689"
+P_H = "204"
+P_R = "150"
+P_ER = "116"
+P_SH = "4"
+P_BB = "82"
+P_SO = "85"
+P_HP = "7"
+P_WP = "8"
+P_ERA = "6.53"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Potter"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reno"
+[person.playing.totals]
+P_G = "18"
+P_CG = "8"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "113"
+P_AB = "476"
+P_H = "139"
+P_R = "100"
+P_ER = "82"
+P_SH = "10"
+P_BB = "62"
+P_SO = "68"
+P_HP = "6"
+P_WP = "3"
+P_ERA = "6.53"
+P_SHO = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mene"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Riverside"
+P_G = "6"
+[person.playing.totals]
+P_G = "12"
+P_CG = "4"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "66"
+P_AB = "277"
+P_H = "89"
+P_R = "61"
+P_ER = "50"
+P_SH = "5"
+P_BB = "37"
+P_SO = "37"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "6.82"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bowles"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+[person.playing.totals]
+P_G = "18"
+P_CG = "7"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "101"
+P_AB = "421"
+P_H = "115"
+P_R = "101"
+P_ER = "77"
+P_SH = "4"
+P_BB = "92"
+P_SO = "107"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "6.86"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Blackburn"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Bernadino"
+P_G = "3"
+[[person.playing.split]]
+team.name = "Porterville"
+P_G = "9"
+[person.playing.totals]
+P_G = "12"
+P_CG = "2"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "47"
+P_AB = "168"
+P_H = "36"
+P_R = "45"
+P_ER = "36"
+P_SH = "1"
+P_BB = "67"
+P_SO = "38"
+P_HP = "9"
+P_WP = "5"
+P_ERA = "6.89"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+[person.playing.totals]
+P_G = "17"
+P_CG = "2"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "84"
+P_AB = "339"
+P_H = "95"
+P_R = "86"
+P_ER = "65"
+P_SH = "8"
+P_BB = "71"
+P_SO = "38"
+P_HP = "2"
+P_WP = "7"
+P_ERA = "6.96"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Thompson"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Porterville"
+[person.playing.totals]
+P_G = "19"
+P_CG = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "62"
+P_AB = "263"
+P_H = "81"
+P_R = "63"
+P_ER = "49"
+P_SH = "1"
+P_BB = "54"
+P_SO = "31"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "7.11"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Perry"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salinas/Tijuana"
+[person.playing.totals]
+P_G = "10"
+P_CG = "3"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "45"
+P_AB = "193"
+P_H = "71"
+P_R = "54"
+P_ER = "40"
+P_SH = "5"
+P_BB = "40"
+P_SO = "27"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "8.00"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hinton"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Centro"
+P_G = "15"
+[[person.playing.split]]
+team.name = "Las Vegas"
+P_G = "1"
+[person.playing.totals]
+P_G = "13"
+P_CG = "1"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "52"
+P_AB = "213"
+P_H = "55"
+P_R = "57"
+P_ER = "47"
+P_SH = "2"
+P_BB = "55"
+P_SO = "34"
+P_HP = "1"
+P_WP = "9"
+P_ERA = "8.13"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Morris"
+[[person.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reno"
+P_G = "17"
+[[person.playing.split]]
+team.name = "El Centro"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Riverside"
+P_G = "7"
+[person.playing.totals]
+P_G = "30"
+P_CG = "4"
+P_W = "0"
+P_L = "12"
+P_PCT = ".000"
+P_IP = "121"
+P_AB = "512"
+P_H = "163"
+P_R = "146"
+P_ER = "115"
+P_SH = "7"
+P_BB = "113"
+P_SO = "85"
+P_HP = "3"
+P_WP = "8"
+P_ERA = "8.55"
+P_SHO = "0"
+P_BK = "2"

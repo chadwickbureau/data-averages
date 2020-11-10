@@ -1,0 +1,126 @@
+[[team]]
+name = "Guelph"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "89"
+B_AB = "2930"
+B_R = "212"
+B_H = "842"
+B_SH = "132"
+B_SB = "104"
+B_AVG = ".287"
+
+
+[[team]]
+name = "Berlin"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "94"
+B_AB = "3051"
+B_R = "418"
+B_H = "855"
+B_SH = "150"
+B_SB = "102"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "3233"
+B_R = "510"
+B_H = "893"
+B_SH = "157"
+B_SB = "133"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Peterborough"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "2541"
+B_R = "309"
+B_H = "703"
+B_SH = "175"
+B_SB = "102"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Ottawa"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "3313"
+B_R = "497"
+B_H = "879"
+B_SH = "161"
+B_SB = "169"
+B_AVG = ".265"
+
+
+[[team]]
+name = "St. Thomas"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "100"
+B_AB = "3129"
+B_R = "403"
+B_H = "801"
+B_SH = "127"
+B_SB = "181"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "3033"
+B_R = "399"
+B_H = "710"
+B_SH = "148"
+B_SB = "128"
+B_AVG = ".234"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3033"
+B_R = "460"
+B_H = "749"
+B_SH = "111"
+B_SB = "184"
+B_AVG = ".214"

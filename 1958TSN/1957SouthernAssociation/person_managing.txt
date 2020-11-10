@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Bates"
+name.given = "Hubert (Buddy)"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Atlanta"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Klein"
+name.given = "Louis"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Memphis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Sisler"
+name.given = "Richard"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Nashville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ermer"
+name.given = "Calvin"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Chattanooga"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Heffner"
+name.given = "Donald"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mobile"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Pesky"
+name.given = "John"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Birmingham"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Evans"
+name.given = "Alfred"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Little Rock"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lowrey"
+name.given = "Harry (Peanuts)"
+[[person.managing]]
+season = "1957"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "New Orleans"
+S_ORDER = "0"
+[person.managing.totals]

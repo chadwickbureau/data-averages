@@ -1,0 +1,118 @@
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4697"
+B_R = "579"
+B_H = "1225"
+B_SH = "179"
+B_SB = "156"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4789"
+B_R = "553"
+B_H = "1238"
+B_SH = "240"
+B_SB = "159"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4737"
+B_R = "477"
+B_H = "1207"
+B_SH = "167"
+B_SB = "133"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4672"
+B_R = "493"
+B_H = "1180"
+B_SH = "188"
+B_SB = "151"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4748"
+B_R = "477"
+B_H = "1151"
+B_SH = "219"
+B_SB = "126"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4749"
+B_R = "541"
+B_H = "1144"
+B_SH = "227"
+B_SB = "164"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4848"
+B_R = "466"
+B_H = "1161"
+B_SH = "207"
+B_SB = "194"
+B_AVG = ".237"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4694"
+B_R = "482"
+B_H = "1063"
+B_SH = "220"
+B_SB = "202"
+B_AVG = ".229"

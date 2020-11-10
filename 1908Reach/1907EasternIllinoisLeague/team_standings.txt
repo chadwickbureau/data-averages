@@ -1,0 +1,76 @@
+[[team]]
+name = "Mattoon"
+[[team.playing]]
+season = "1907"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "44"
+R_PCT = ".627"
+R_RANK = "1"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1907"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "48"
+R_PCT = ".596"
+R_RANK = "2"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1907"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "41"
+R_PCT = ".518"
+R_RANK = "3"
+
+
+[[team]]
+name = "Taylorville"
+[[team.playing]]
+season = "1907"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "58"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Shelbyville"
+[[team.playing]]
+season = "1907"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "68"
+R_PCT = ".428"
+R_RANK = "5"
+
+
+[[team]]
+name = "Pana"
+[[team.playing]]
+season = "1907"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "69"
+R_PCT = ".420"
+R_RANK = "6"

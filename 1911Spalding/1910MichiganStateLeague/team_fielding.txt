@@ -1,0 +1,50 @@
+[[team]]
+name = "Traverse City"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2565"
+F_A = "1174"
+F_E = "244"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2512"
+F_A = "1122"
+F_E = "228"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2453"
+F_A = "1043"
+F_E = "228"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Holland"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2420"
+F_A = "1054"
+F_E = "251"
+F_PCT = ".932"

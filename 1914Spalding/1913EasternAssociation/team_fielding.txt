@@ -1,0 +1,110 @@
+[[team]]
+name = "New London"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3538"
+F_A = "1636"
+F_E = "196"
+F_PCT = ".964"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3727"
+F_A = "1898"
+F_E = "241"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3708"
+F_A = "1911"
+F_E = "242"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3599"
+F_A = "1846"
+F_E = "273"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3616"
+F_A = "1609"
+F_E = "274"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Pittsfield"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3691"
+F_A = "1817"
+F_E = "293"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Meriden"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3511"
+F_A = "1751"
+F_E = "294"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3607"
+F_A = "1741"
+F_E = "315"
+F_PCT = ".944"

@@ -1,0 +1,180 @@
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "31"
+R_L = "16"
+R_PCT = ".660"
+R_RANK = "1"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "31"
+R_L = "19"
+R_PCT = ".620"
+R_RANK = "2"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "27"
+R_L = "20"
+R_PCT = ".574"
+R_RANK = "3"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "24"
+R_L = "20"
+R_PCT = ".545"
+R_RANK = "4"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "25"
+R_L = "22"
+R_PCT = ".532"
+R_RANK = "5"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "21"
+R_L = "23"
+R_PCT = ".477"
+R_RANK = "6"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "16"
+R_L = "32"
+R_PCT = ".333"
+R_RANK = "7"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "11"
+R_L = "34"
+R_PCT = ".244"
+R_RANK = "8"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "55"
+R_PCT = ".596"
+R_RANK = "1"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "54"
+R_PCT = ".594"
+R_RANK = "2"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "56"
+R_PCT = ".579"
+R_RANK = "3"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "65"
+R_PCT = ".515"
+R_RANK = "4"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "63"
+R_PCT = ".508"
+R_RANK = "5"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1912"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "84"
+R_PCT = ".354"
+R_RANK = "6"

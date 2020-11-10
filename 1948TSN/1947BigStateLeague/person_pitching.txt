@@ -1,0 +1,1967 @@
+[[person]]
+name.last = "Coleman"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "14"
+P_CG = "7"
+P_SHO = "0"
+P_W = "8"
+P_L = "3"
+P_T = "0"
+P_PCT = ".727"
+P_IP = "102"
+P_AB = "405"
+P_R = "53"
+P_H = "108"
+P_ER = "41"
+P_BB = "32"
+P_HP = "1"
+P_SO = "44"
+P_GS = "11"
+P_ERA = "3.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walkup"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "29"
+P_CG = "18"
+P_SHO = "0"
+P_W = "20"
+P_L = "7"
+P_T = "0"
+P_PCT = ".741"
+P_IP = "220"
+P_AB = "904"
+P_R = "131"
+P_H = "245"
+P_ER = "91"
+P_BB = "39"
+P_HP = "2"
+P_SO = "92"
+P_GS = "27"
+P_ERA = "3.72"
+P_BK = "0"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Milstead"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "18"
+P_CG = "13"
+P_SHO = "3"
+P_W = "10"
+P_L = "6"
+P_T = "0"
+P_PCT = ".625"
+P_IP = "140"
+P_AB = "555"
+P_R = "71"
+P_H = "162"
+P_ER = "58"
+P_BB = "26"
+P_HP = "2"
+P_SO = "35"
+P_GS = "16"
+P_ERA = "3.73"
+P_BK = "0"
+
+
+[[person]]
+name.last = "White"
+name.given = "H."
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+P_G = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "48"
+P_AB = "203"
+P_R = "29"
+P_H = "61"
+P_ER = "20"
+P_BB = "5"
+P_HP = "1"
+P_SO = "13"
+P_GS = "4"
+P_ERA = "3.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Phipps"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "32"
+P_CG = "25"
+P_SHO = "1"
+P_W = "24"
+P_L = "6"
+P_T = "0"
+P_PCT = ".800"
+P_IP = "237"
+P_AB = "979"
+P_R = "116"
+P_H = "261"
+P_ER = "103"
+P_BB = "53"
+P_HP = "6"
+P_SO = "109"
+P_GS = "28"
+P_ERA = "3.91"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Love"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "35"
+P_CG = "26"
+P_SHO = "2"
+P_W = "20"
+P_L = "9"
+P_T = "0"
+P_PCT = ".690"
+P_IP = "280"
+P_AB = "996"
+P_R = "151"
+P_H = "262"
+P_ER = "123"
+P_BB = "114"
+P_HP = "12"
+P_SO = "192"
+P_GS = "32"
+P_ERA = "3.95"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Herr"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "21"
+P_CG = "20"
+P_SHO = "1"
+P_W = "13"
+P_L = "7"
+P_T = "0"
+P_PCT = ".650"
+P_IP = "178"
+P_AB = "674"
+P_R = "97"
+P_H = "173"
+P_ER = "79"
+P_BB = "81"
+P_HP = "10"
+P_SO = "132"
+P_GS = "20"
+P_ERA = "3.99"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Patterson"
+name.given = "E."
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "8"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "1"
+P_T = "0"
+P_PCT = ".833"
+P_IP = "55"
+P_AB = "194"
+P_R = "30"
+P_H = "54"
+P_ER = "25"
+P_BB = "11"
+P_HP = "0"
+P_SO = "29"
+P_GS = "6"
+P_ERA = "4.09"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Christie"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "35"
+P_CG = "28"
+P_SHO = "0"
+P_W = "21"
+P_L = "9"
+P_T = "0"
+P_PCT = ".700"
+P_IP = "270"
+P_AB = "1045"
+P_R = "144"
+P_H = "260"
+P_ER = "124"
+P_BB = "119"
+P_HP = "15"
+P_SO = "183"
+P_GS = "30"
+P_ERA = "4.13"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Meriwether"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "20"
+P_CG = "8"
+P_SHO = "1"
+P_W = "9"
+P_L = "5"
+P_T = "0"
+P_PCT = ".643"
+P_IP = "103"
+P_AB = "409"
+P_R = "65"
+P_H = "109"
+P_ER = "49"
+P_BB = "32"
+P_HP = "2"
+P_SO = "34"
+P_GS = "12"
+P_ERA = "4.28"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Eaves"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "34"
+P_CG = "24"
+P_SHO = "1"
+P_W = "25"
+P_L = "5"
+P_T = "0"
+P_PCT = ".833"
+P_IP = "261"
+P_AB = "1078"
+P_R = "152"
+P_H = "262"
+P_ER = "129"
+P_BB = "77"
+P_HP = "2"
+P_SO = "172"
+P_GS = "32"
+P_ERA = "4.45"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Baker"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "38"
+P_CG = "16"
+P_SHO = "1"
+P_W = "15"
+P_L = "8"
+P_T = "1"
+P_PCT = ".652"
+P_IP = "221"
+P_AB = "907"
+P_R = "149"
+P_H = "247"
+P_ER = "112"
+P_BB = "71"
+P_HP = "2"
+P_SO = "127"
+P_GS = "31"
+P_ERA = "4.56"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gornicki"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "7"
+P_CG = "6"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "53"
+P_AB = "222"
+P_R = "36"
+P_H = "65"
+P_ER = "27"
+P_BB = "17"
+P_HP = "2"
+P_SO = "19"
+P_GS = "7"
+P_ERA = "4.58"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+P_IP = "45"
+P_AB = "196"
+P_R = "30"
+P_H = "63"
+P_ER = "23"
+P_BB = "11"
+P_HP = "0"
+P_SO = "22"
+P_GS = "6"
+P_ERA = "4.60"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Weisler"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "36"
+P_CG = "24"
+P_SHO = "0"
+P_W = "15"
+P_L = "14"
+P_T = "0"
+P_PCT = ".517"
+P_IP = "262"
+P_AB = "1098"
+P_R = "176"
+P_H = "286"
+P_ER = "135"
+P_BB = "120"
+P_HP = "9"
+P_SO = "144"
+P_GS = "29"
+P_ERA = "4.64"
+P_BK = "2"
+
+
+[[person]]
+name.last = "McPartland"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+P_G = "27"
+P_CG = "11"
+P_SHO = "0"
+P_W = "6"
+P_L = "12"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "181"
+P_AB = "772"
+P_R = "128"
+P_H = "240"
+P_ER = "95"
+P_BB = "65"
+P_HP = "8"
+P_SO = "75"
+P_GS = "18"
+P_ERA = "4.72"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Summers"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "28"
+P_CG = "13"
+P_SHO = "0"
+P_W = "11"
+P_L = "8"
+P_T = "0"
+P_PCT = ".579"
+P_IP = "181"
+P_AB = "850"
+P_R = "137"
+P_H = "227"
+P_ER = "95"
+P_BB = "68"
+P_HP = "6"
+P_SO = "67"
+P_GS = "21"
+P_ERA = "4.72"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hogan"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "26"
+P_CG = "12"
+P_SHO = "2"
+P_W = "9"
+P_L = "12"
+P_T = "0"
+P_PCT = ".429"
+P_IP = "164"
+P_AB = "642"
+P_R = "114"
+P_H = "173"
+P_ER = "87"
+P_BB = "73"
+P_HP = "10"
+P_SO = "66"
+P_GS = "20"
+P_ERA = "4.77"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Poindexter"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "28"
+P_CG = "12"
+P_SHO = "0"
+P_W = "10"
+P_L = "11"
+P_T = "0"
+P_PCT = ".476"
+P_IP = "167"
+P_AB = "670"
+P_R = "121"
+P_H = "205"
+P_ER = "89"
+P_BB = "99"
+P_HP = "5"
+P_SO = "108"
+P_GS = "21"
+P_ERA = "4.80"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McDowell"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "38"
+P_CG = "11"
+P_SHO = "0"
+P_W = "14"
+P_L = "10"
+P_T = "0"
+P_PCT = ".583"
+P_IP = "194"
+P_AB = "775"
+P_R = "135"
+P_H = "238"
+P_ER = "104"
+P_BB = "47"
+P_HP = "0"
+P_SO = "103"
+P_GS = "20"
+P_ERA = "4.82"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Godfrey"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+P_G = "33"
+P_CG = "18"
+P_SHO = "0"
+P_W = "14"
+P_L = "18"
+P_T = "0"
+P_PCT = ".438"
+P_IP = "241"
+P_AB = "927"
+P_R = "163"
+P_H = "329"
+P_ER = "130"
+P_BB = "147"
+P_HP = "6"
+P_SO = "178"
+P_GS = "31"
+P_ERA = "4.85"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "34"
+P_CG = "19"
+P_SHO = "1"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_PCT = ".636"
+P_IP = "219"
+P_AB = "860"
+P_R = "149"
+P_H = "284"
+P_ER = "118"
+P_BB = "59"
+P_HP = "3"
+P_SO = "97"
+P_GS = "27"
+P_ERA = "4.85"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Estock"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+P_G = "39"
+P_CG = "16"
+P_SHO = "0"
+P_W = "17"
+P_L = "17"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "256"
+P_AB = "1126"
+P_R = "195"
+P_H = "325"
+P_ER = "139"
+P_BB = "98"
+P_HP = "4"
+P_SO = "125"
+P_GS = "33"
+P_ERA = "4.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Riffenburg"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+P_G = "22"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "11"
+P_T = "0"
+P_PCT = ".214"
+P_IP = "128"
+P_AB = "520"
+P_R = "99"
+P_H = "134"
+P_ER = "70"
+P_BB = "72"
+P_HP = "2"
+P_SO = "59"
+P_GS = "19"
+P_ERA = "4.92"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hacker"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "32"
+P_CG = "9"
+P_SHO = "2"
+P_W = "9"
+P_L = "5"
+P_T = "0"
+P_PCT = ".643"
+P_IP = "146"
+P_AB = "585"
+P_R = "91"
+P_H = "159"
+P_ER = "81"
+P_BB = "49"
+P_HP = "5"
+P_SO = "46"
+P_GS = "16"
+P_ERA = "4.99"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Long"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "25"
+P_CG = "12"
+P_SHO = "0"
+P_W = "6"
+P_L = "9"
+P_T = "0"
+P_PCT = ".400"
+P_IP = "146"
+P_AB = "589"
+P_R = "93"
+P_H = "173"
+P_ER = "82"
+P_BB = "55"
+P_HP = "0"
+P_SO = "34"
+P_GS = "16"
+P_ERA = "5.05"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lawson"
+name.given = "E."
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "15"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_T = "0"
+P_PCT = ".444"
+P_IP = "71"
+P_AB = "322"
+P_R = "57"
+P_H = "95"
+P_ER = "40"
+P_BB = "50"
+P_HP = "3"
+P_SO = "22"
+P_GS = "10"
+P_ERA = "5.07"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schaack"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "23"
+P_CG = "8"
+P_SHO = "1"
+P_W = "11"
+P_L = "5"
+P_T = "0"
+P_PCT = ".688"
+P_IP = "121"
+P_AB = "500"
+P_R = "124"
+P_H = "162"
+P_ER = "70"
+P_BB = "30"
+P_HP = "0"
+P_SO = "52"
+P_GS = "14"
+P_ERA = "5.21"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Tinsley"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "12"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "74"
+P_AB = "308"
+P_R = "62"
+P_H = "87"
+P_ER = "43"
+P_BB = "45"
+P_HP = "3"
+P_SO = "35"
+P_GS = "7"
+P_ERA = "5.23"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sakas"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "41"
+P_CG = "6"
+P_SHO = "0"
+P_W = "13"
+P_L = "5"
+P_T = "0"
+P_PCT = ".722"
+P_IP = "170"
+P_AB = "683"
+P_R = "112"
+P_H = "207"
+P_ER = "99"
+P_BB = "67"
+P_HP = "0"
+P_SO = "132"
+P_GS = "16"
+P_ERA = "5.24"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "32"
+P_CG = "2"
+P_SHO = "0"
+P_W = "11"
+P_L = "3"
+P_T = "0"
+P_PCT = ".786"
+P_IP = "112"
+P_AB = "454"
+P_R = "85"
+P_H = "130"
+P_ER = "67"
+P_BB = "67"
+P_HP = "4"
+P_SO = "41"
+P_GS = "9"
+P_ERA = "5.38"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Winfield"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "39"
+P_CG = "15"
+P_SHO = "0"
+P_W = "13"
+P_L = "12"
+P_T = "1"
+P_PCT = ".520"
+P_IP = "222"
+P_AB = "942"
+P_R = "164"
+P_H = "299"
+P_ER = "134"
+P_BB = "86"
+P_HP = "12"
+P_SO = "86"
+P_GS = "30"
+P_ERA = "5.43"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "8"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_PCT = ".429"
+P_IP = "51"
+P_AB = "206"
+P_R = "36"
+P_H = "59"
+P_ER = "31"
+P_BB = "23"
+P_HP = "1"
+P_SO = "25"
+P_GS = "6"
+P_ERA = "5.47"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hillin"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "19"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "10"
+P_T = "0"
+P_PCT = ".286"
+P_IP = "111"
+P_AB = "488"
+P_R = "87"
+P_H = "140"
+P_ER = "68"
+P_BB = "47"
+P_HP = "5"
+P_SO = "41"
+P_GS = "14"
+P_ERA = "5.51"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wood"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+P_G = "25"
+P_CG = "16"
+P_SHO = "0"
+P_W = "16"
+P_L = "6"
+P_T = "0"
+P_PCT = ".727"
+P_IP = "172"
+P_AB = "726"
+P_R = "117"
+P_H = "210"
+P_ER = "107"
+P_BB = "70"
+P_HP = "5"
+P_SO = "110"
+P_GS = "20"
+P_ERA = "5.60"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Hendrix"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "22"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "6"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "110"
+P_AB = "503"
+P_R = "87"
+P_H = "157"
+P_ER = "69"
+P_BB = "30"
+P_HP = "3"
+P_SO = "25"
+P_GS = "8"
+P_ERA = "5.64"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Warchol"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "30"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "7"
+P_T = "0"
+P_PCT = ".462"
+P_IP = "129"
+P_AB = "505"
+P_R = "90"
+P_H = "138"
+P_ER = "81"
+P_BB = "68"
+P_HP = "7"
+P_SO = "42"
+P_GS = "6"
+P_ERA = "5.65"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "27"
+P_CG = "9"
+P_SHO = "0"
+P_W = "10"
+P_L = "11"
+P_T = "0"
+P_PCT = ".476"
+P_IP = "148"
+P_AB = "590"
+P_R = "118"
+P_H = "166"
+P_ER = "95"
+P_BB = "83"
+P_HP = "8"
+P_SO = "54"
+P_GS = "19"
+P_ERA = "5.78"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Whitehead"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "31"
+P_CG = "20"
+P_SHO = "0"
+P_W = "13"
+P_L = "12"
+P_T = "1"
+P_PCT = ".520"
+P_IP = "203"
+P_AB = "898"
+P_R = "169"
+P_H = "289"
+P_ER = "131"
+P_BB = "24"
+P_HP = "1"
+P_SO = "76"
+P_GS = "23"
+P_ERA = "5.81"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Beasley"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "11"
+P_CG = "3"
+P_SHO = "0"
+P_W = "0"
+P_L = "3"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "51"
+P_AB = "193"
+P_R = "38"
+P_H = "67"
+P_ER = "33"
+P_BB = "11"
+P_HP = "2"
+P_SO = "25"
+P_GS = "5"
+P_ERA = "5.82"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Finger"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "45"
+P_CG = "14"
+P_SHO = "3"
+P_W = "16"
+P_L = "16"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "258"
+P_AB = "1108"
+P_R = "197"
+P_H = "331"
+P_ER = "168"
+P_BB = "76"
+P_HP = "6"
+P_SO = "126"
+P_GS = "29"
+P_ERA = "5.86"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Teller"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "19"
+P_CG = "10"
+P_SHO = "2"
+P_W = "9"
+P_L = "5"
+P_T = "0"
+P_PCT = ".643"
+P_IP = "128"
+P_AB = "565"
+P_R = "91"
+P_H = "174"
+P_ER = "84"
+P_BB = "40"
+P_HP = "4"
+P_SO = "57"
+P_GS = "15"
+P_ERA = "5.91"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hatley"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "24"
+P_CG = "13"
+P_SHO = "0"
+P_W = "12"
+P_L = "6"
+P_T = "0"
+P_PCT = ".667"
+P_IP = "169"
+P_AB = "669"
+P_R = "137"
+P_H = "181"
+P_ER = "111"
+P_BB = "99"
+P_HP = "6"
+P_SO = "97"
+P_GS = "17"
+P_ERA = "5.91"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Grisham"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "31"
+P_CG = "9"
+P_SHO = "0"
+P_W = "9"
+P_L = "4"
+P_T = "0"
+P_PCT = ".692"
+P_IP = "137"
+P_AB = "562"
+P_R = "109"
+P_H = "168"
+P_ER = "90"
+P_BB = "80"
+P_HP = "5"
+P_SO = "44"
+P_GS = "17"
+P_ERA = "5.91"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mistele"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "22"
+P_CG = "6"
+P_SHO = "0"
+P_W = "4"
+P_L = "9"
+P_T = "0"
+P_PCT = ".308"
+P_IP = "97"
+P_AB = "405"
+P_R = "72"
+P_H = "115"
+P_ER = "64"
+P_BB = "55"
+P_HP = "4"
+P_SO = "62"
+P_GS = "10"
+P_ERA = "5.94"
+P_BK = "0"
+
+
+[[person]]
+name.last = "West"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "19"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "75"
+P_AB = "328"
+P_R = "68"
+P_H = "92"
+P_ER = "50"
+P_BB = "52"
+P_HP = "5"
+P_SO = "52"
+P_GS = "10"
+P_ERA = "6.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Elliott"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+P_G = "51"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_T = "0"
+P_PCT = ".400"
+P_IP = "115"
+P_AB = "521"
+P_R = "107"
+P_H = "172"
+P_ER = "78"
+P_BB = "33"
+P_HP = "3"
+P_SO = "38"
+P_GS = "5"
+P_ERA = "6.10"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kasparek"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "10"
+P_CG = "3"
+P_SHO = "1"
+P_W = "2"
+P_L = "5"
+P_T = "0"
+P_PCT = ".286"
+P_IP = "56"
+P_AB = "245"
+P_R = "52"
+P_H = "81"
+P_ER = "38"
+P_BB = "29"
+P_HP = "0"
+P_SO = "18"
+P_GS = "7"
+P_ERA = "6.11"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Leedy"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "51"
+P_CG = "14"
+P_SHO = "0"
+P_W = "15"
+P_L = "11"
+P_T = "0"
+P_PCT = ".577"
+P_IP = "229"
+P_AB = "1026"
+P_R = "189"
+P_H = "335"
+P_ER = "162"
+P_BB = "50"
+P_HP = "0"
+P_SO = "78"
+P_GS = "24"
+P_ERA = "6.37"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gramley"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "16"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "8"
+P_T = "0"
+P_PCT = ".273"
+P_IP = "79"
+P_AB = "286"
+P_R = "63"
+P_H = "88"
+P_ER = "56"
+P_BB = "44"
+P_HP = "5"
+P_SO = "18"
+P_GS = "6"
+P_ERA = "6.38"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Blomer"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "36"
+P_CG = "20"
+P_SHO = "1"
+P_W = "12"
+P_L = "18"
+P_T = "0"
+P_PCT = ".400"
+P_IP = "244"
+P_AB = "1044"
+P_R = "203"
+P_H = "320"
+P_ER = "174"
+P_BB = "117"
+P_HP = "8"
+P_SO = "141"
+P_GS = "31"
+P_ERA = "6.42"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Perrin"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "32"
+P_CG = "6"
+P_SHO = "0"
+P_W = "3"
+P_L = "12"
+P_T = "0"
+P_PCT = ".200"
+P_IP = "151"
+P_AB = "635"
+P_R = "132"
+P_H = "194"
+P_ER = "108"
+P_BB = "51"
+P_HP = "7"
+P_SO = "138"
+P_GS = "13"
+P_ERA = "6.44"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Monohan"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "23"
+P_CG = "7"
+P_SHO = "0"
+P_W = "3"
+P_L = "14"
+P_T = "0"
+P_PCT = ".176"
+P_IP = "113"
+P_AB = "502"
+P_R = "120"
+P_H = "167"
+P_ER = "81"
+P_BB = "66"
+P_HP = "2"
+P_SO = "52"
+P_GS = "18"
+P_ERA = "6.45"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Wooten"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "24"
+P_CG = "11"
+P_SHO = "0"
+P_W = "9"
+P_L = "6"
+P_T = "0"
+P_PCT = ".600"
+P_IP = "134"
+P_AB = "594"
+P_R = "111"
+P_H = "193"
+P_ER = "97"
+P_BB = "57"
+P_HP = "3"
+P_SO = "19"
+P_GS = "18"
+P_ERA = "6.51"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stratton"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "15"
+P_CG = "8"
+P_SHO = "0"
+P_W = "7"
+P_L = "7"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "103"
+P_AB = "471"
+P_R = "89"
+P_H = "155"
+P_ER = "75"
+P_BB = "30"
+P_HP = "5"
+P_SO = "46"
+P_GS = "15"
+P_ERA = "6.55"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCullough"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "23"
+P_CG = "10"
+P_SHO = "0"
+P_W = "8"
+P_L = "9"
+P_T = "0"
+P_PCT = ".471"
+P_IP = "138"
+P_AB = "573"
+P_R = "117"
+P_H = "165"
+P_ER = "101"
+P_BB = "61"
+P_HP = "2"
+P_SO = "52"
+P_GS = "18"
+P_ERA = "6.59"
+P_BK = "0"
+
+
+[[person]]
+name.last = "White"
+name.given = "T."
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+P_G = "21"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "56"
+P_AB = "237"
+P_R = "63"
+P_H = "75"
+P_ER = "42"
+P_BB = "26"
+P_HP = "0"
+P_SO = "27"
+P_GS = "7"
+P_ERA = "6.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carruth"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "12"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_T = "0"
+P_PCT = ".375"
+P_IP = "56"
+P_AB = "232"
+P_R = "56"
+P_H = "64"
+P_ER = "42"
+P_BB = "48"
+P_HP = "6"
+P_SO = "43"
+P_GS = "9"
+P_ERA = "6.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Heinz"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "33"
+P_CG = "18"
+P_SHO = "0"
+P_W = "9"
+P_L = "17"
+P_T = "0"
+P_PCT = ".346"
+P_IP = "237"
+P_AB = "1105"
+P_R = "208"
+P_H = "296"
+P_ER = "178"
+P_BB = "110"
+P_HP = "13"
+P_SO = "75"
+P_GS = "28"
+P_ERA = "6.76"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "19"
+P_CG = "6"
+P_SHO = "0"
+P_W = "4"
+P_L = "8"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "90"
+P_AB = "363"
+P_R = "94"
+P_H = "126"
+P_ER = "69"
+P_BB = "62"
+P_HP = "5"
+P_SO = "43"
+P_GS = "10"
+P_ERA = "6.90"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hopkins"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "19"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_T = "0"
+P_PCT = ".286"
+P_IP = "92"
+P_AB = "373"
+P_R = "89"
+P_H = "114"
+P_ER = "71"
+P_BB = "46"
+P_HP = "1"
+P_SO = "38"
+P_GS = "9"
+P_ERA = "6.95"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCarty"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+P_G = "23"
+P_CG = "3"
+P_SHO = "0"
+P_W = "6"
+P_L = "3"
+P_T = "0"
+P_PCT = ".667"
+P_IP = "90"
+P_AB = "381"
+P_R = "92"
+P_H = "91"
+P_ER = "72"
+P_BB = "108"
+P_HP = "2"
+P_SO = "45"
+P_GS = "6"
+P_ERA = "7.20"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Fox"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "31"
+P_CG = "11"
+P_SHO = "0"
+P_W = "3"
+P_L = "13"
+P_T = "1"
+P_PCT = ".188"
+P_IP = "167"
+P_AB = "697"
+P_R = "153"
+P_H = "220"
+P_ER = "139"
+P_BB = "89"
+P_HP = "0"
+P_SO = "89"
+P_GS = "23"
+P_ERA = "7.49"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Chumley"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "13"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_T = "0"
+P_PCT = ".222"
+P_IP = "64"
+P_AB = "268"
+P_R = "61"
+P_H = "82"
+P_ER = "57"
+P_BB = "38"
+P_HP = "7"
+P_SO = "27"
+P_GS = "11"
+P_ERA = "8.02"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+P_G = "26"
+P_CG = "6"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_T = "1"
+P_PCT = ".250"
+P_IP = "111"
+P_AB = "481"
+P_R = "113"
+P_H = "150"
+P_ER = "102"
+P_BB = "63"
+P_HP = "6"
+P_SO = "50"
+P_GS = "10"
+P_ERA = "8.27"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Culp"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+P_G = "22"
+P_CG = "6"
+P_SHO = "0"
+P_W = "2"
+P_L = "8"
+P_T = "0"
+P_PCT = ".200"
+P_IP = "99"
+P_AB = "469"
+P_R = "112"
+P_H = "187"
+P_ER = "95"
+P_BB = "32"
+P_HP = "6"
+P_SO = "26"
+P_GS = "9"
+P_ERA = "8.64"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Patterson"
+name.given = "F."
+[[person.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+P_G = "13"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_PCT = ".250"
+P_IP = "49"
+P_AB = "215"
+P_R = "56"
+P_H = "76"
+P_ER = "51"
+P_BB = "31"
+P_HP = "2"
+P_SO = "18"
+P_GS = "5"
+P_ERA = "9.37"
+P_BK = "0"

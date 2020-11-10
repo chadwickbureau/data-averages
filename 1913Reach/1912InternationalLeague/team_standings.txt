@@ -1,0 +1,102 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "91"
+R_L = "62"
+R_PCT = ".595"
+R_RANK = "1"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "86"
+R_L = "67"
+R_PCT = ".562"
+R_RANK = "2"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "72"
+R_PCT = ".526"
+R_RANK = "3"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "75"
+R_PCT = ".497"
+R_RANK = "4"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "78"
+R_PCT = ".477"
+R_RANK = "5"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "81"
+R_PCT = ".467"
+R_RANK = "6"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "85"
+R_PCT = ".451"
+R_RANK = "7"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "87"
+R_PCT = ".424"
+R_RANK = "8"

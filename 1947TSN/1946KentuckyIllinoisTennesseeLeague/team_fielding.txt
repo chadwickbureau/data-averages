@@ -1,0 +1,134 @@
+[[team]]
+name = "Fulton"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3274"
+F_A = "1325"
+F_E = "256"
+F_DP = "121"
+F_PB = "28"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3207"
+F_A = "1323"
+F_E = "272"
+F_DP = "100"
+F_PB = "18"
+F_TP = "0"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3144"
+F_A = "1315"
+F_E = "280"
+F_DP = "95"
+F_PB = "31"
+F_TP = "0"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Owensboro"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3144"
+F_A = "1304"
+F_E = "281"
+F_DP = "100"
+F_PB = "29"
+F_TP = "1"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Madisonville"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3113"
+F_A = "1203"
+F_E = "336"
+F_DP = "70"
+F_PB = "22"
+F_TP = "0"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Mayfield"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3106"
+F_A = "1328"
+F_E = "344"
+F_DP = "78"
+F_PB = "31"
+F_TP = "0"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Cairo"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3159"
+F_A = "1268"
+F_E = "348"
+F_DP = "82"
+F_PB = "40"
+F_TP = "0"
+F_PCT = ".927"
+
+
+[[team]]
+name = "Union City"
+[[team.playing]]
+season = "1946"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3163"
+F_A = "1210"
+F_E = "376"
+F_DP = "71"
+F_PB = "18"
+F_TP = "0"
+F_PCT = ".921"

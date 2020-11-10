@@ -1,0 +1,82 @@
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4414"
+B_R = "829"
+B_H = "1334"
+B_SB = "155"
+B_AVG = ".302"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4207"
+B_R = "684"
+B_H = "1208"
+B_SB = "177"
+B_AVG = ".287"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4522"
+B_R = "657"
+B_H = "1215"
+B_SB = "115"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4026"
+B_R = "610"
+B_H = "1064"
+B_SB = "174"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4106"
+B_R = "646"
+B_H = "1074"
+B_SB = "238"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4374"
+B_R = "550"
+B_H = "1076"
+B_SB = "172"
+B_AVG = ".246"

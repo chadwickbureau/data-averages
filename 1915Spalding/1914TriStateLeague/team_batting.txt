@@ -1,0 +1,88 @@
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3669"
+B_R = "591"
+B_H = "1074"
+B_SH = "133"
+B_SB = "185"
+B_AVG = ".293"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3532"
+B_R = "515"
+B_H = "971"
+B_SH = "147"
+B_SB = "181"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3660"
+B_R = "482"
+B_H = "1000"
+B_SH = "142"
+B_SB = "166"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3667"
+B_R = "499"
+B_H = "968"
+B_SH = "87"
+B_SB = "136"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3630"
+B_R = "482"
+B_H = "954"
+B_SH = "120"
+B_SB = "168"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3613"
+B_R = "388"
+B_H = "911"
+B_SH = "108"
+B_SB = "106"
+B_AVG = ".251"

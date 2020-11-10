@@ -1,0 +1,73 @@
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1907"
+league.name = "Empire State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oswego"
+[person.playing.totals]
+P_W = "9"
+P_L = "1"
+P_T = "0"
+P_PCT = ".900"
+
+
+[[person]]
+name.last = "Moroney"
+[[person.playing]]
+season = "1907"
+league.name = "Empire State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oswego"
+[person.playing.totals]
+P_W = "8"
+P_L = "2"
+P_T = "0"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Cobean"
+[[person.playing]]
+season = "1907"
+league.name = "Empire State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oswego"
+[person.playing.totals]
+P_W = "18"
+P_L = "9"
+P_T = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Sanford"
+[[person.playing]]
+season = "1907"
+league.name = "Empire State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oswego"
+[person.playing.totals]
+P_W = "11"
+P_L = "8"
+P_T = "0"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "O'Connor"
+[[person.playing]]
+season = "1907"
+league.name = "Empire State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oswego"
+[person.playing.totals]
+P_W = "5"
+P_L = "4"
+P_T = "0"
+P_PCT = ".555"

@@ -1,0 +1,118 @@
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3903"
+F_A = "1886"
+F_E = "288"
+F_LOB = "1012"
+F_DP = "112"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3804"
+F_A = "1818"
+F_E = "205"
+F_LOB = "909"
+F_DP = "80"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3958"
+F_A = "1896"
+F_E = "223"
+F_LOB = "1003"
+F_DP = "101"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4048"
+F_A = "2122"
+F_E = "232"
+F_LOB = "940"
+F_DP = "118"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3967"
+F_A = "1910"
+F_E = "226"
+F_LOB = "1027"
+F_DP = "92"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3905"
+F_A = "1942"
+F_E = "256"
+F_LOB = "860"
+F_DP = "118"
+F_PCT = ".962"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4018"
+F_A = "1802"
+F_E = "229"
+F_LOB = "955"
+F_DP = "86"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1916"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3866"
+F_A = "1912"
+F_E = "237"
+F_LOB = "969"
+F_DP = "95"
+F_PCT = ".960"

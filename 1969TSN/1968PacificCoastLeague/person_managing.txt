@@ -1,0 +1,180 @@
+[[person]]
+name.last = "Goyle"
+name.given = "Johnny"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Denver"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Billy"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Denver"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Adair"
+name.given = "Bill"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Hawaii"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Zimmer"
+name.given = "Don"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Indianapolis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Deal"
+name.given = "Cot"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Oklahoma City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "King"
+name.given = "Clyde"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Phoenix"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Red"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Portland"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Skinner"
+name.given = "Bob"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Diego"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Klaus"
+name.given = "Bobby"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Diego"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Adcock"
+name.given = "Joe"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Seattle"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hartsfield"
+name.given = "Roy"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Spokane"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lockman"
+name.given = "Whitey"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tacoma"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Spahn"
+name.given = "Warren"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tulsa"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Vernon"
+name.given = "Mickey"
+[[person.managing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Vancouver"
+S_ORDER = "0"
+[person.managing.totals]

@@ -1,0 +1,142 @@
+[[team]]
+name = "St. Augustine"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3552"
+F_A = "1523"
+F_E = "251"
+F_DP = "114"
+F_TP = "1"
+F_PB = "24"
+F_LOB = "1157"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Sanford"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3609"
+F_A = "1711"
+F_E = "293"
+F_DP = "115"
+F_TP = "1"
+F_PB = "41"
+F_LOB = "1057"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Orlando"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3659"
+F_A = "1501"
+F_E = "290"
+F_DP = "129"
+F_TP = "1"
+F_PB = "11"
+F_LOB = "1142"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Leesburg"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3455"
+F_A = "1557"
+F_E = "317"
+F_DP = "114"
+F_TP = "0"
+F_PB = "17"
+F_LOB = "1185"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Daytona Beach"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3351"
+F_A = "1333"
+F_E = "314"
+F_DP = "98"
+F_TP = "0"
+F_PB = "17"
+F_LOB = "1082"
+F_PCT = ".937"
+
+
+[[team]]
+name = "DeLand"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3561"
+F_A = "1594"
+F_E = "382"
+F_DP = "103"
+F_TP = "0"
+F_PB = "31"
+F_LOB = "1173"
+F_PCT = ".931"
+
+
+[[team]]
+name = "Palatka"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3488"
+F_A = "1496"
+F_E = "389"
+F_DP = "101"
+F_TP = "0"
+F_PB = "24"
+F_LOB = "1228"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3555"
+F_A = "1618"
+F_E = "440"
+F_DP = "113"
+F_TP = "1"
+F_PB = "41"
+F_LOB = "1175"
+F_PCT = ".922"

@@ -1,0 +1,1730 @@
+[[person]]
+name.last = "Carr"
+name.given = "W."
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+[person.playing.totals]
+P_G = "34"
+P_CG = "18"
+P_SHO = "3"
+P_W = "21"
+P_L = "8"
+P_PCT = ".724"
+P_IP = "239"
+P_AB = "938"
+P_H = "239"
+P_R = "114"
+P_ER = "87"
+P_SH = "9"
+P_BB = "60"
+P_HP = "10"
+P_SO = "135"
+P_WP = "2"
+P_ERA = "3.28"
+P_BK = "0"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medford"
+[person.playing.totals]
+P_G = "24"
+P_CG = "5"
+P_SHO = "0"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "116"
+P_AB = "477"
+P_H = "124"
+P_R = "67"
+P_ER = "45"
+P_SH = "2"
+P_BB = "42"
+P_HP = "3"
+P_SO = "44"
+P_WP = "7"
+P_ERA = "3.49"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Swain"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "31"
+P_CG = "21"
+P_SHO = "1"
+P_W = "14"
+P_L = "11"
+P_PCT = ".560"
+P_IP = "206"
+P_AB = "789"
+P_H = "182"
+P_R = "122"
+P_ER = "80"
+P_SH = "16"
+P_BB = "142"
+P_HP = "6"
+P_SO = "182"
+P_WP = "11"
+P_ERA = "3.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "R. L."
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "19"
+P_CG = "11"
+P_SHO = "0"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "137"
+P_AB = "519"
+P_H = "126"
+P_R = "69"
+P_ER = "54"
+P_SH = "7"
+P_BB = "76"
+P_HP = "7"
+P_SO = "98"
+P_WP = "3"
+P_ERA = "3.55"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ristau"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+[person.playing.totals]
+P_G = "15"
+P_CG = "13"
+P_SHO = "0"
+P_W = "11"
+P_L = "4"
+P_PCT = ".733"
+P_IP = "129"
+P_AB = "519"
+P_H = "133"
+P_R = "64"
+P_ER = "52"
+P_SH = "2"
+P_BB = "33"
+P_HP = "2"
+P_SO = "109"
+P_WP = "6"
+P_ERA = "3.63"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Kittle"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+[person.playing.totals]
+P_G = "17"
+P_CG = "4"
+P_SHO = "0"
+P_W = "7"
+P_L = "2"
+P_PCT = ".778"
+P_IP = "78"
+P_AB = "318"
+P_H = "77"
+P_R = "41"
+P_ER = "32"
+P_SH = "2"
+P_BB = "22"
+P_HP = "3"
+P_SO = "85"
+P_WP = "4"
+P_ERA = "3.69"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "P."
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+[person.playing.totals]
+P_G = "30"
+P_CG = "21"
+P_SHO = "1"
+P_W = "16"
+P_L = "9"
+P_PCT = ".640"
+P_IP = "229"
+P_AB = "910"
+P_H = "238"
+P_R = "127"
+P_ER = "98"
+P_SH = "11"
+P_BB = "84"
+P_HP = "9"
+P_SO = "182"
+P_WP = "7"
+P_ERA = "3.85"
+P_BK = "1"
+
+
+[[person]]
+name.last = "De Barnabe"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+[person.playing.totals]
+P_G = "12"
+P_CG = "3"
+P_SHO = "0"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "65"
+P_AB = "272"
+P_H = "79"
+P_R = "45"
+P_ER = "28"
+P_SH = "5"
+P_BB = "24"
+P_HP = "2"
+P_SO = "30"
+P_WP = "2"
+P_ERA = "3.88"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Neal"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "34"
+P_CG = "9"
+P_SHO = "0"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "176"
+P_AB = "695"
+P_H = "176"
+P_R = "115"
+P_ER = "79"
+P_SH = "10"
+P_BB = "92"
+P_HP = "12"
+P_SO = "154"
+P_WP = "13"
+P_ERA = "4.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McMillan"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medford"
+[person.playing.totals]
+P_G = "15"
+P_CG = "7"
+P_SHO = "0"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "100"
+P_AB = "424"
+P_H = "113"
+P_R = "73"
+P_ER = "45"
+P_SH = "5"
+P_BB = "57"
+P_HP = "0"
+P_SO = "82"
+P_WP = "9"
+P_ERA = "4.05"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Simpson"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+[person.playing.totals]
+P_G = "21"
+P_CG = "14"
+P_SHO = "2"
+P_W = "15"
+P_L = "2"
+P_PCT = ".882"
+P_IP = "160"
+P_AB = "630"
+P_H = "165"
+P_R = "96"
+P_ER = "74"
+P_SH = "6"
+P_BB = "96"
+P_HP = "5"
+P_SO = "107"
+P_WP = "4"
+P_ERA = "4.16"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Willows"
+[person.playing.totals]
+P_G = "26"
+P_CG = "18"
+P_SHO = "0"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+P_IP = "195"
+P_AB = "783"
+P_H = "213"
+P_R = "124"
+P_ER = "91"
+P_SH = "10"
+P_BB = "65"
+P_HP = "6"
+P_SO = "93"
+P_WP = "2"
+P_ERA = "4.20"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bronzan"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+[person.playing.totals]
+P_G = "17"
+P_CG = "7"
+P_SHO = "1"
+P_W = "9"
+P_L = "3"
+P_PCT = ".750"
+P_IP = "110"
+P_AB = "446"
+P_H = "122"
+P_R = "65"
+P_ER = "52"
+P_SH = "3"
+P_BB = "48"
+P_HP = "3"
+P_SO = "55"
+P_WP = "7"
+P_ERA = "4.25"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Simons"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "15"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "74"
+P_AB = "282"
+P_H = "71"
+P_R = "56"
+P_ER = "35"
+P_SH = "2"
+P_BB = "72"
+P_HP = "3"
+P_SO = "54"
+P_WP = "5"
+P_ERA = "4.26"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Jordan"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+[person.playing.totals]
+P_G = "31"
+P_CG = "19"
+P_SHO = "0"
+P_W = "19"
+P_L = "7"
+P_PCT = ".731"
+P_IP = "213"
+P_AB = "852"
+P_H = "222"
+P_R = "121"
+P_ER = "103"
+P_SH = "6"
+P_BB = "96"
+P_HP = "3"
+P_SO = "188"
+P_WP = "4"
+P_ERA = "4.35"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lineberger"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "23"
+P_CG = "9"
+P_SHO = "0"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "161"
+P_AB = "657"
+P_H = "193"
+P_R = "116"
+P_ER = "79"
+P_SH = "7"
+P_BB = "107"
+P_HP = "4"
+P_SO = "98"
+P_WP = "9"
+P_ERA = "4.42"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vallejo"
+[person.playing.totals]
+P_G = "23"
+P_CG = "7"
+P_SHO = "0"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "112"
+P_AB = "466"
+P_H = "151"
+P_R = "109"
+P_ER = "84"
+P_SH = "8"
+P_BB = "55"
+P_HP = "4"
+P_SO = "51"
+P_WP = "7"
+P_ERA = "4.42"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kruk"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+P_G = "15"
+[[person.playing.split]]
+team.name = "Redding"
+P_G = "8"
+[person.playing.totals]
+P_G = "23"
+P_CG = "17"
+P_SHO = "0"
+P_W = "15"
+P_L = "7"
+P_PCT = ".682"
+P_IP = "184"
+P_AB = "753"
+P_H = "213"
+P_R = "109"
+P_ER = "90"
+P_SH = "4"
+P_BB = "75"
+P_HP = "6"
+P_SO = "97"
+P_WP = "2"
+P_ERA = "4.43"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cox"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Willows"
+[person.playing.totals]
+P_G = "33"
+P_CG = "1"
+P_SHO = "0"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "104"
+P_AB = "409"
+P_H = "119"
+P_R = "80"
+P_ER = "52"
+P_SH = "4"
+P_BB = "73"
+P_HP = "10"
+P_SO = "45"
+P_WP = "3"
+P_ERA = "4.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dudrey"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Willows"
+[person.playing.totals]
+P_G = "30"
+P_CG = "10"
+P_SHO = "1"
+P_W = "11"
+P_L = "6"
+P_PCT = ".647"
+P_IP = "158"
+P_AB = "626"
+P_H = "164"
+P_R = "99"
+P_ER = "81"
+P_SH = "7"
+P_BB = "102"
+P_HP = "3"
+P_SO = "95"
+P_WP = "2"
+P_ERA = "4.61"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nicholas"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+[person.playing.totals]
+P_G = "28"
+P_CG = "14"
+P_SHO = "1"
+P_W = "12"
+P_L = "8"
+P_PCT = ".667"
+P_IP = "183"
+P_AB = "706"
+P_H = "168"
+P_R = "116"
+P_ER = "94"
+P_SH = "7"
+P_BB = "96"
+P_HP = "18"
+P_SO = "157"
+P_WP = "1"
+P_ERA = "4.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gilson"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+[person.playing.totals]
+P_G = "22"
+P_CG = "17"
+P_SHO = "2"
+P_W = "15"
+P_L = "4"
+P_PCT = ".789"
+P_IP = "165"
+P_AB = "666"
+P_H = "175"
+P_R = "106"
+P_ER = "85"
+P_SH = "5"
+P_BB = "69"
+P_HP = "4"
+P_SO = "100"
+P_WP = "3"
+P_ERA = "4.64"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kast"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "16"
+P_CG = "4"
+P_SHO = "1"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "74"
+P_AB = "290"
+P_H = "66"
+P_R = "54"
+P_ER = "39"
+P_SH = "1"
+P_BB = "69"
+P_HP = "6"
+P_SO = "40"
+P_WP = "5"
+P_ERA = "4.74"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Pain"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medford"
+[person.playing.totals]
+P_G = "31"
+P_CG = "14"
+P_SHO = "1"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "181"
+P_AB = "742"
+P_H = "202"
+P_R = "136"
+P_ER = "96"
+P_SH = "4"
+P_BB = "104"
+P_HP = "6"
+P_SO = "131"
+P_WP = "2"
+P_ERA = "4.77"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gray"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+[person.playing.totals]
+P_G = "19"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "80"
+P_AB = "316"
+P_H = "90"
+P_R = "62"
+P_ER = "43"
+P_SH = "4"
+P_BB = "38"
+P_HP = "4"
+P_SO = "48"
+P_WP = "1"
+P_ERA = "4.84"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "26"
+P_CG = "9"
+P_SHO = "1"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "138"
+P_AB = "545"
+P_H = "133"
+P_R = "104"
+P_ER = "75"
+P_SH = "3"
+P_BB = "108"
+P_HP = "7"
+P_SO = "134"
+P_WP = "3"
+P_ERA = "4.89"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Lopeman"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+[person.playing.totals]
+P_G = "34"
+P_CG = "16"
+P_SHO = "1"
+P_W = "16"
+P_L = "11"
+P_PCT = ".593"
+P_IP = "219"
+P_AB = "889"
+P_H = "249"
+P_R = "161"
+P_ER = "120"
+P_SH = "9"
+P_BB = "125"
+P_HP = "9"
+P_SO = "152"
+P_WP = "6"
+P_ERA = "4.93"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shortlidge"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+[person.playing.totals]
+P_G = "13"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "51"
+P_AB = "207"
+P_H = "65"
+P_R = "30"
+P_ER = "28"
+P_SH = "2"
+P_BB = "17"
+P_HP = "1"
+P_SO = "15"
+P_WP = "4"
+P_ERA = "4.94"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Berry"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vallejo"
+P_G = "17"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+P_G = "2"
+[person.playing.totals]
+P_G = "19"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "100"
+P_AB = "422"
+P_H = "124"
+P_R = "71"
+P_ER = "56"
+P_SH = "5"
+P_BB = "44"
+P_HP = "1"
+P_SO = "84"
+P_WP = "1"
+P_ERA = "5.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Howard"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "34"
+P_CG = "18"
+P_SHO = "0"
+P_W = "16"
+P_L = "12"
+P_PCT = ".571"
+P_IP = "222"
+P_AB = "868"
+P_H = "208"
+P_R = "154"
+P_ER = "129"
+P_SH = "7"
+P_BB = "174"
+P_HP = "8"
+P_SO = "226"
+P_WP = "23"
+P_ERA = "5.23"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Hamilt"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "34"
+P_CG = "17"
+P_SHO = "0"
+P_W = "15"
+P_L = "9"
+P_PCT = ".625"
+P_IP = "216"
+P_AB = "886"
+P_H = "248"
+P_R = "171"
+P_ER = "127"
+P_SH = "10"
+P_BB = "147"
+P_HP = "5"
+P_SO = "140"
+P_WP = "12"
+P_ERA = "5.29"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Dykes"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Medford"
+P_G = "21"
+[person.playing.totals]
+P_G = "27"
+P_CG = "3"
+P_SHO = "0"
+P_W = "6"
+P_L = "11"
+P_PCT = ".353"
+P_IP = "100"
+P_AB = "416"
+P_H = "114"
+P_R = "87"
+P_ER = "59"
+P_SH = "5"
+P_BB = "72"
+P_HP = "9"
+P_SO = "47"
+P_WP = "4"
+P_ERA = "5.31"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Surprenant"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Vallejo"
+P_G = "16"
+[person.playing.totals]
+P_G = "17"
+P_CG = "7"
+P_SHO = "1"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "96"
+P_AB = "372"
+P_H = "94"
+P_R = "78"
+P_ER = "57"
+P_SH = "6"
+P_BB = "74"
+P_HP = "5"
+P_SO = "64"
+P_WP = "7"
+P_ERA = "5.34"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Freeze"
+name.given = "L."
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Willows"
+[person.playing.totals]
+P_G = "33"
+P_CG = "8"
+P_SHO = "0"
+P_W = "10"
+P_L = "10"
+P_PCT = ".500"
+P_IP = "171"
+P_AB = "672"
+P_H = "180"
+P_R = "119"
+P_ER = "102"
+P_SH = "6"
+P_BB = "117"
+P_HP = "10"
+P_SO = "83"
+P_WP = "2"
+P_ERA = "5.37"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Heck"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+[person.playing.totals]
+P_G = "37"
+P_CG = "2"
+P_SHO = "0"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "129"
+P_AB = "549"
+P_H = "151"
+P_R = "98"
+P_ER = "77"
+P_SH = "7"
+P_BB = "41"
+P_HP = "3"
+P_SO = "63"
+P_WP = "6"
+P_ERA = "5.37"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hurn"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "12"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "52"
+P_AB = "208"
+P_H = "54"
+P_R = "43"
+P_ER = "31"
+P_SH = "3"
+P_BB = "35"
+P_HP = "1"
+P_SO = "50"
+P_WP = "3"
+P_ERA = "5.37"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Appleby"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Willows"
+[person.playing.totals]
+P_G = "23"
+P_CG = "8"
+P_SHO = "0"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "111"
+P_AB = "445"
+P_H = "108"
+P_R = "89"
+P_ER = "67"
+P_SH = "2"
+P_BB = "92"
+P_HP = "4"
+P_SO = "76"
+P_WP = "6"
+P_ERA = "5.43"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Willows"
+[person.playing.totals]
+P_G = "16"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "89"
+P_AB = "335"
+P_H = "84"
+P_R = "75"
+P_ER = "55"
+P_SH = "6"
+P_BB = "87"
+P_HP = "5"
+P_SO = "79"
+P_WP = "13"
+P_ERA = "5.56"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Olsson"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medford"
+[person.playing.totals]
+P_G = "15"
+P_CG = "5"
+P_SHO = "1"
+P_W = "2"
+P_L = "12"
+P_PCT = ".143"
+P_IP = "88"
+P_AB = "354"
+P_H = "96"
+P_R = "81"
+P_ER = "55"
+P_SH = "3"
+P_BB = "67"
+P_HP = "1"
+P_SO = "80"
+P_WP = "9"
+P_ERA = "5.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Willows"
+[person.playing.totals]
+P_G = "26"
+P_CG = "9"
+P_SHO = "0"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+P_IP = "155"
+P_AB = "620"
+P_H = "178"
+P_R = "112"
+P_ER = "97"
+P_SH = "7"
+P_BB = "109"
+P_HP = "5"
+P_SO = "116"
+P_WP = "7"
+P_ERA = "5.63"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stratton"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medford"
+[person.playing.totals]
+P_G = "12"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "54"
+P_AB = "216"
+P_H = "64"
+P_R = "46"
+P_ER = "34"
+P_SH = "3"
+P_BB = "26"
+P_HP = "3"
+P_SO = "25"
+P_WP = "2"
+P_ERA = "5.67"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rysavy"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "19"
+P_CG = "11"
+P_SHO = "1"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "114"
+P_AB = "437"
+P_H = "126"
+P_R = "86"
+P_ER = "73"
+P_SH = "8"
+P_BB = "76"
+P_HP = "4"
+P_SO = "72"
+P_WP = "6"
+P_ERA = "5.76"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Spurlock"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medford"
+[person.playing.totals]
+P_G = "19"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "8"
+P_PCT = ".111"
+P_IP = "81"
+P_AB = "307"
+P_H = "77"
+P_R = "73"
+P_ER = "53"
+P_SH = "9"
+P_BB = "89"
+P_HP = "3"
+P_SO = "82"
+P_WP = "10"
+P_ERA = "5.89"
+P_BK = "1"
+
+
+[[person]]
+name.last = "McNeill"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "36"
+P_CG = "3"
+P_SHO = "1"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "111"
+P_AB = "456"
+P_H = "127"
+P_R = "106"
+P_ER = "73"
+P_SH = "2"
+P_BB = "91"
+P_HP = "7"
+P_SO = "56"
+P_WP = "5"
+P_ERA = "5.92"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schober"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Redding"
+[person.playing.totals]
+P_G = "10"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "51"
+P_AB = "210"
+P_H = "59"
+P_R = "41"
+P_ER = "34"
+P_SH = "5"
+P_BB = "28"
+P_HP = "0"
+P_SO = "31"
+P_WP = "1"
+P_ERA = "6.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Raymond"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "21"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "80"
+P_AB = "319"
+P_H = "93"
+P_R = "79"
+P_ER = "55"
+P_SH = "6"
+P_BB = "79"
+P_HP = "14"
+P_SO = "36"
+P_WP = "5"
+P_ERA = "6.19"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "C. A."
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "20"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "93"
+P_AB = "375"
+P_H = "100"
+P_R = "81"
+P_ER = "65"
+P_SH = "8"
+P_BB = "70"
+P_HP = "2"
+P_SO = "31"
+P_WP = "6"
+P_ERA = "6.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fierro"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vallejo"
+P_G = "8"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+P_G = "1"
+[person.playing.totals]
+P_G = "9"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "54"
+P_AB = "226"
+P_H = "64"
+P_R = "41"
+P_ER = "34"
+P_SH = "2"
+P_BB = "31"
+P_HP = "1"
+P_SO = "41"
+P_WP = "1"
+P_ERA = "6.38"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Grosvenor"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medford"
+[person.playing.totals]
+P_G = "14"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "67"
+P_AB = "275"
+P_H = "94"
+P_R = "60"
+P_ER = "49"
+P_SH = "5"
+P_BB = "34"
+P_HP = "2"
+P_SO = "34"
+P_WP = "2"
+P_ERA = "6.58"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gonzales"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+[person.playing.totals]
+P_G = "24"
+P_CG = "5"
+P_SHO = "0"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "110"
+P_AB = "471"
+P_H = "144"
+P_R = "99"
+P_ER = "81"
+P_SH = "2"
+P_BB = "47"
+P_HP = "6"
+P_SO = "46"
+P_WP = "1"
+P_ERA = "6.63"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Blengino"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+[person.playing.totals]
+P_G = "18"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "80"
+P_AB = "358"
+P_H = "114"
+P_R = "78"
+P_ER = "59"
+P_SH = "2"
+P_BB = "31"
+P_HP = "4"
+P_SO = "47"
+P_WP = "2"
+P_ERA = "6.64"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pager"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+[person.playing.totals]
+P_G = "10"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "45"
+P_AB = "197"
+P_H = "67"
+P_R = "41"
+P_ER = "34"
+P_SH = "1"
+P_BB = "28"
+P_HP = "1"
+P_SO = "14"
+P_WP = "3"
+P_ERA = "6.80"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Schildmeyer"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+[person.playing.totals]
+P_G = "26"
+P_CG = "4"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "111"
+P_AB = "153"
+P_H = "121"
+P_R = "106"
+P_ER = "85"
+P_SH = "10"
+P_BB = "100"
+P_HP = "7"
+P_SO = "91"
+P_WP = "7"
+P_ERA = "6.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kornahrens"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+[person.playing.totals]
+P_G = "18"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+P_IP = "96"
+P_AB = "429"
+P_H = "152"
+P_R = "96"
+P_ER = "75"
+P_SH = "5"
+P_BB = "41"
+P_HP = "2"
+P_SO = "35"
+P_WP = "2"
+P_ERA = "7.03"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Park"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marysville"
+[person.playing.totals]
+P_G = "24"
+P_CG = "6"
+P_SHO = "0"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "116"
+P_AB = "537"
+P_H = "194"
+P_R = "128"
+P_ER = "93"
+P_SH = "7"
+P_BB = "48"
+P_HP = "5"
+P_SO = "55"
+P_WP = "10"
+P_ERA = "7.22"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Maguire"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vallejo"
+[person.playing.totals]
+P_G = "9"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "52"
+P_AB = "199"
+P_H = "56"
+P_R = "60"
+P_ER = "43"
+P_SH = "1"
+P_BB = "61"
+P_HP = "5"
+P_SO = "49"
+P_WP = "8"
+P_ERA = "7.44"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Guelfo"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Klamath Falls"
+P_G = "3"
+[[person.playing.split]]
+team.name = "Medford"
+P_G = "15"
+[[person.playing.split]]
+team.name = "Redding"
+P_G = "6"
+[person.playing.totals]
+P_G = "24"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "83"
+P_AB = "347"
+P_H = "108"
+P_R = "99"
+P_ER = "79"
+P_SH = "6"
+P_BB = "93"
+P_HP = "5"
+P_SO = "75"
+P_WP = "7"
+P_ERA = "8.57"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Soroky"
+[[person.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pittsburg"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Vallejo"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Santa Rosa"
+P_G = "2"
+[person.playing.totals]
+P_G = "14"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "55"
+P_AB = "239"
+P_H = "79"
+P_R = "67"
+P_ER = "55"
+P_SH = "0"
+P_BB = "35"
+P_HP = "4"
+P_SO = "20"
+P_WP = "0"
+P_ERA = "9.00"
+P_BK = "0"

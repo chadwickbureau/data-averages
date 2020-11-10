@@ -1,0 +1,94 @@
+[[team]]
+name = "Long Branch"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+F_G = "95"
+F_PO = "2472"
+F_A = "1183"
+F_E = "195"
+F_TC = "3850"
+F_DP = "65"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Danbury"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+F_G = "99"
+F_PO = "2562"
+F_A = "1146"
+F_E = "216"
+F_TC = "3924"
+F_DP = "68"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Newburgh"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+F_G = "96"
+F_PO = "2396"
+F_A = "1156"
+F_E = "227"
+F_TC = "3779"
+F_DP = "55"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Kingston"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+F_G = "91"
+F_PO = "2332"
+F_A = "1089"
+F_E = "233"
+F_TC = "3654"
+F_DP = "52"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Poughkeepsie"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "2572"
+F_A = "1135"
+F_E = "271"
+F_TC = "3978"
+F_DP = "55"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Middletown"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+F_G = "95"
+F_PO = "2364"
+F_A = "1112"
+F_E = "281"
+F_TC = "3757"
+F_DP = "65"
+F_PCT = ".925"

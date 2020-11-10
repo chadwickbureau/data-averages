@@ -1,0 +1,3426 @@
+[[person]]
+name.last = "Barnes"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "18"
+P_GS = "18"
+P_CG = "7"
+P_SHO = "4"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "122"
+P_H = "101"
+P_HR = "3"
+P_R = "39"
+P_ER = "35"
+P_BB = "50"
+P_IBB = "3"
+P_SO = "115"
+P_HP = "6"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.58"
+
+
+[[person]]
+name.last = "Benedict"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "39"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "89"
+P_H = "91"
+P_HR = "7"
+P_R = "43"
+P_ER = "35"
+P_BB = "53"
+P_IBB = "7"
+P_SO = "51"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.54"
+
+
+[[person]]
+name.last = "Besana"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "37"
+P_GS = "28"
+P_CG = "8"
+P_SHO = "2"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "203"
+P_H = "195"
+P_HR = "9"
+P_R = "110"
+P_ER = "81"
+P_BB = "113"
+P_IBB = "14"
+P_SO = "92"
+P_HP = "7"
+P_WP = "12"
+P_BK = "1"
+P_ERA = "3.59"
+
+
+[[person]]
+name.last = "Blaylock"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "33"
+P_GS = "26"
+P_CG = "6"
+P_SHO = "2"
+P_W = "8"
+P_L = "14"
+P_PCT = ".364"
+P_IP = "214"
+P_H = "199"
+P_HR = "17"
+P_R = "104"
+P_ER = "97"
+P_BB = "95"
+P_IBB = "8"
+P_SO = "193"
+P_HP = "4"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.08"
+
+
+[[person]]
+name.last = "Borland"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "38"
+P_GS = "19"
+P_CG = "5"
+P_SHO = "1"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "143"
+P_H = "127"
+P_HR = "5"
+P_R = "50"
+P_ER = "35"
+P_BB = "74"
+P_IBB = "6"
+P_SO = "100"
+P_HP = "3"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "2.20"
+
+
+[[person]]
+name.last = "Bowsfield"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "19"
+P_GS = "16"
+P_CG = "9"
+P_SHO = "1"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "117"
+P_H = "94"
+P_HR = "3"
+P_R = "41"
+P_ER = "34"
+P_BB = "70"
+P_IBB = "5"
+P_SO = "71"
+P_HP = "2"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "2.62"
+
+
+[[person]]
+name.last = "Boyer"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "28"
+P_GS = "28"
+P_CG = "13"
+P_SHO = "2"
+P_W = "13"
+P_L = "8"
+P_PCT = ".619"
+P_IP = "182"
+P_H = "171"
+P_HR = "15"
+P_R = "79"
+P_ER = "60"
+P_BB = "67"
+P_IBB = "2"
+P_SO = "83"
+P_HP = "8"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.97"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Burnette"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "11"
+P_GS = "9"
+P_CG = "3"
+P_SHO = "0"
+P_W = "0"
+P_L = "7"
+P_PCT = ".000"
+P_IP = "56"
+P_H = "71"
+P_HR = "5"
+P_R = "39"
+P_ER = "37"
+P_BB = "18"
+P_IBB = "7"
+P_SO = "23"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "5.95"
+
+
+[[person]]
+name.last = "Byrd"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "16"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "32"
+P_H = "38"
+P_HR = "4"
+P_R = "16"
+P_ER = "14"
+P_BB = "14"
+P_IBB = "2"
+P_SO = "15"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.94"
+
+
+[[person]]
+name.last = "Carey"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "15"
+P_GS = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "39"
+P_H = "48"
+P_HR = "0"
+P_R = "34"
+P_ER = "33"
+P_BB = "35"
+P_IBB = "2"
+P_SO = "29"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "7.62"
+
+
+[[person]]
+name.last = "Chittum"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "28"
+P_GS = "23"
+P_CG = "10"
+P_SHO = "3"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+P_IP = "171"
+P_H = "172"
+P_HR = "8"
+P_R = "57"
+P_ER = "54"
+P_BB = "37"
+P_IBB = "5"
+P_SO = "93"
+P_HP = "2"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "2.84"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Choate"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "25"
+P_GS = "15"
+P_CG = "3"
+P_SHO = "1"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "109"
+P_H = "102"
+P_HR = "7"
+P_R = "58"
+P_ER = "48"
+P_BB = "50"
+P_IBB = "2"
+P_SO = "65"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "3.96"
+
+
+[[person]]
+name.last = "Cicotte"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_GS = "6"
+P_CG = "4"
+P_SHO = "0"
+P_W = "5"
+P_L = "1"
+P_PCT = ".833"
+P_IP = "49"
+P_H = "46"
+P_HR = "2"
+P_R = "15"
+P_ER = "14"
+P_BB = "18"
+P_IBB = "0"
+P_SO = "32"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.57"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "44"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "10"
+P_L = "6"
+P_PCT = ".625"
+P_IP = "85"
+P_H = "77"
+P_HR = "6"
+P_R = "33"
+P_ER = "26"
+P_BB = "35"
+P_IBB = "7"
+P_SO = "53"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.75"
+
+
+[[person]]
+name.last = "Corwin"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "24"
+[[person.playing.split]]
+team.name = "Charleston"
+P_G = "5"
+[person.playing.totals]
+P_G = "29"
+P_GS = "25"
+P_CG = "8"
+P_SHO = "1"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+P_IP = "174"
+P_H = "175"
+P_HR = "5"
+P_R = "70"
+P_ER = "61"
+P_BB = "71"
+P_IBB = "7"
+P_SO = "82"
+P_HP = "2"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.16"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "28"
+P_GS = "25"
+P_CG = "8"
+P_SHO = "0"
+P_W = "5"
+P_L = "17"
+P_PCT = ".227"
+P_IP = "182"
+P_H = "180"
+P_HR = "16"
+P_R = "100"
+P_ER = "79"
+P_BB = "77"
+P_IBB = "3"
+P_SO = "119"
+P_HP = "2"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.91"
+
+
+[[person]]
+name.last = "Cristante"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "27"
+P_GS = "8"
+P_CG = "4"
+P_SHO = "1"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "88"
+P_H = "94"
+P_HR = "5"
+P_R = "37"
+P_ER = "33"
+P_BB = "23"
+P_IBB = "5"
+P_SO = "37"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.38"
+
+
+[[person]]
+name.last = "Dahlke"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "14"
+[person.playing.totals]
+P_G = "21"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "38"
+P_H = "40"
+P_HR = "3"
+P_R = "31"
+P_ER = "29"
+P_BB = "22"
+P_IBB = "6"
+P_SO = "15"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.87"
+
+
+[[person]]
+name.last = "Daniel"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "14"
+P_GS = "10"
+P_CG = "3"
+P_SHO = "1"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "62"
+P_H = "59"
+P_HR = "8"
+P_R = "29"
+P_ER = "26"
+P_BB = "20"
+P_IBB = "1"
+P_SO = "28"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.77"
+
+
+[[person]]
+name.last = "Darnell"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "28"
+P_GS = "27"
+P_CG = "19"
+P_SHO = "1"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_IP = "216"
+P_H = "207"
+P_HR = "18"
+P_R = "95"
+P_ER = "82"
+P_BB = "87"
+P_IBB = "14"
+P_SO = "106"
+P_HP = "2"
+P_WP = "8"
+P_BK = "2"
+P_ERA = "3.42"
+
+
+[[person]]
+name.last = "Davie"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "33"
+P_GS = "26"
+P_CG = "18"
+P_SHO = "6"
+P_W = "17"
+P_L = "5"
+P_PCT = ".773"
+P_IP = "209"
+P_H = "168"
+P_HR = "7"
+P_R = "65"
+P_ER = "57"
+P_BB = "66"
+P_IBB = "0"
+P_SO = "93"
+P_HP = "5"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "2.45"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Donnelly"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "39"
+P_GS = "16"
+P_CG = "5"
+P_SHO = "1"
+P_W = "10"
+P_L = "10"
+P_PCT = ".500"
+P_IP = "148"
+P_H = "189"
+P_HR = "11"
+P_R = "100"
+P_ER = "95"
+P_BB = "74"
+P_IBB = "8"
+P_SO = "66"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "5.78"
+
+
+[[person]]
+name.last = "Dorish"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "48"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "93"
+P_H = "76"
+P_HR = "5"
+P_R = "26"
+P_ER = "23"
+P_BB = "30"
+P_IBB = "10"
+P_SO = "43"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.23"
+
+
+[[person]]
+name.last = "Drews"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "30"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "43"
+P_H = "42"
+P_HR = "5"
+P_R = "21"
+P_ER = "20"
+P_BB = "8"
+P_IBB = "2"
+P_SO = "24"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.19"
+
+
+[[person]]
+name.last = "Flanigan"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "52"
+P_GS = "12"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "11"
+P_PCT = ".313"
+P_IP = "135"
+P_H = "154"
+P_HR = "9"
+P_R = "80"
+P_ER = "59"
+P_BB = "36"
+P_IBB = "9"
+P_SO = "71"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.93"
+
+
+[[person]]
+name.last = "Flowers"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "37"
+P_GS = "28"
+P_CG = "8"
+P_SHO = "1"
+P_W = "6"
+P_L = "14"
+P_PCT = ".300"
+P_IP = "182"
+P_H = "222"
+P_HR = "19"
+P_R = "129"
+P_ER = "111"
+P_BB = "62"
+P_IBB = "10"
+P_SO = "106"
+P_HP = "4"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "5.49"
+
+
+[[person]]
+name.last = "Freeman"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "33"
+P_GS = "32"
+P_CG = "13"
+P_SHO = "5"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+P_IP = "202"
+P_H = "200"
+P_HR = "21"
+P_R = "119"
+P_ER = "107"
+P_BB = "104"
+P_IBB = "2"
+P_SO = "175"
+P_HP = "10"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "4.77"
+
+
+[[person]]
+name.last = "Gabler"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "32"
+P_GS = "30"
+P_CG = "15"
+P_SHO = "2"
+P_W = "19"
+P_L = "7"
+P_PCT = ".731"
+P_IP = "217"
+P_H = "224"
+P_HR = "16"
+P_R = "120"
+P_ER = "103"
+P_BB = "94"
+P_IBB = "5"
+P_SO = "89"
+P_HP = "6"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.27"
+
+
+[[person]]
+name.last = "Gibson"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "13"
+P_GS = "11"
+P_CG = "2"
+P_SHO = "1"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "87"
+P_H = "79"
+P_HR = "1"
+P_R = "45"
+P_ER = "32"
+P_BB = "39"
+P_IBB = "2"
+P_SO = "47"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.31"
+
+
+[[person]]
+name.last = "Grimsley"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+P_G = "21"
+[[person.playing.split]]
+team.name = "Charleston"
+P_G = "4"
+[person.playing.totals]
+P_G = "25"
+P_GS = "13"
+P_CG = "4"
+P_SHO = "1"
+P_W = "4"
+P_L = "11"
+P_PCT = ".267"
+P_IP = "91"
+P_H = "94"
+P_HR = "3"
+P_R = "49"
+P_ER = "39"
+P_BB = "39"
+P_IBB = "6"
+P_SO = "49"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.86"
+
+
+[[person]]
+name.last = "Houtteman"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "25"
+P_GS = "19"
+P_CG = "10"
+P_SHO = "2"
+P_W = "7"
+P_L = "9"
+P_PCT = ".438"
+P_IP = "158"
+P_H = "143"
+P_HR = "13"
+P_R = "66"
+P_ER = "57"
+P_BB = "28"
+P_IBB = "4"
+P_SO = "70"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.25"
+
+
+[[person]]
+name.last = "Howell"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "29"
+P_GS = "10"
+P_CG = "5"
+P_SHO = "0"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "112"
+P_H = "122"
+P_HR = "9"
+P_R = "48"
+P_ER = "42"
+P_BB = "24"
+P_IBB = "10"
+P_SO = "59"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "3.38"
+
+
+[[person]]
+name.last = "Hughes"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "27"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "50"
+P_H = "51"
+P_HR = "2"
+P_R = "32"
+P_ER = "21"
+P_BB = "32"
+P_IBB = "8"
+P_SO = "30"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.78"
+
+
+[[person]]
+name.last = "Hurd"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "52"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "109"
+P_H = "82"
+P_HR = "6"
+P_R = "28"
+P_ER = "20"
+P_BB = "45"
+P_IBB = "13"
+P_SO = "73"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "1.65"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "45"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "73"
+P_H = "106"
+P_HR = "8"
+P_R = "70"
+P_ER = "60"
+P_BB = "32"
+P_IBB = "4"
+P_SO = "30"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "7.40"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "12"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "1"
+P_W = "7"
+P_L = "2"
+P_PCT = ".778"
+P_IP = "62"
+P_H = "52"
+P_HR = "5"
+P_R = "22"
+P_ER = "20"
+P_BB = "12"
+P_IBB = "2"
+P_SO = "39"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "2.90"
+
+
+[[person]]
+name.last = "Jolly"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "36"
+P_GS = "28"
+P_CG = "2"
+P_SHO = "0"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "185"
+P_H = "172"
+P_HR = "18"
+P_R = "101"
+P_ER = "80"
+P_BB = "106"
+P_IBB = "11"
+P_SO = "121"
+P_HP = "8"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "3.89"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "37"
+P_GS = "19"
+P_CG = "6"
+P_SHO = "1"
+P_W = "7"
+P_L = "11"
+P_PCT = ".389"
+P_IP = "156"
+P_H = "159"
+P_HR = "15"
+P_R = "91"
+P_ER = "77"
+P_BB = "74"
+P_IBB = "7"
+P_SO = "87"
+P_HP = "4"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "4.44"
+
+
+[[person]]
+name.last = "Kaiser"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "10"
+P_GS = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "34"
+P_H = "44"
+P_HR = "3"
+P_R = "28"
+P_ER = "23"
+P_BB = "15"
+P_IBB = "1"
+P_SO = "9"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.09"
+
+
+[[person]]
+name.last = "Kay"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "44"
+P_GS = "21"
+P_CG = "6"
+P_SHO = "2"
+P_W = "8"
+P_L = "12"
+P_PCT = ".400"
+P_IP = "180"
+P_H = "163"
+P_HR = "13"
+P_R = "91"
+P_ER = "75"
+P_BB = "84"
+P_IBB = "12"
+P_SO = "97"
+P_HP = "3"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "3.75"
+
+
+[[person]]
+name.last = "Kite"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "42"
+P_GS = "12"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+P_IP = "120"
+P_H = "127"
+P_HR = "12"
+P_R = "68"
+P_ER = "55"
+P_BB = "43"
+P_IBB = "5"
+P_SO = "48"
+P_HP = "0"
+P_WP = "11"
+P_BK = "1"
+P_ERA = "4.13"
+
+
+[[person]]
+name.last = "Kucab"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "44"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "61"
+P_H = "62"
+P_HR = "7"
+P_R = "36"
+P_ER = "30"
+P_BB = "21"
+P_IBB = "7"
+P_SO = "28"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.43"
+
+
+[[person]]
+name.last = "Lane"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "28"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "1"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "83"
+P_H = "102"
+P_HR = "4"
+P_R = "54"
+P_ER = "48"
+P_BB = "23"
+P_IBB = "3"
+P_SO = "34"
+P_HP = "1"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "5.20"
+
+
+[[person]]
+name.last = "LaPalme"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+P_G = "5"
+[[person.playing.split]]
+team.name = "St. Paul"
+P_G = "31"
+[person.playing.totals]
+P_G = "36"
+P_GS = "20"
+P_CG = "12"
+P_SHO = "1"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+P_IP = "168"
+P_H = "159"
+P_HR = "14"
+P_R = "69"
+P_ER = "63"
+P_BB = "44"
+P_IBB = "3"
+P_SO = "76"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "3.38"
+
+
+[[person]]
+name.last = "Latman"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "25"
+P_GS = "21"
+P_CG = "8"
+P_SHO = "2"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+P_IP = "150"
+P_H = "138"
+P_HR = "17"
+P_R = "87"
+P_ER = "77"
+P_BB = "48"
+P_IBB = "4"
+P_SO = "85"
+P_HP = "8"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.62"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "30"
+P_GS = "30"
+P_CG = "18"
+P_SHO = "2"
+P_W = "14"
+P_L = "7"
+P_PCT = ".667"
+P_IP = "226"
+P_H = "197"
+P_HR = "12"
+P_R = "81"
+P_ER = "74"
+P_BB = "70"
+P_IBB = "6"
+P_SO = "111"
+P_HP = "10"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "2.95"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Linker"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "30"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "76"
+P_H = "82"
+P_HR = "4"
+P_R = "48"
+P_ER = "42"
+P_BB = "51"
+P_IBB = "6"
+P_SO = "55"
+P_HP = "2"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "4.97"
+
+
+[[person]]
+name.last = "Littlefield"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "26"
+P_GS = "17"
+P_CG = "11"
+P_SHO = "3"
+P_W = "13"
+P_L = "4"
+P_PCT = ".765"
+P_IP = "135"
+P_H = "118"
+P_HR = "8"
+P_R = "49"
+P_ER = "44"
+P_BB = "36"
+P_IBB = "4"
+P_SO = "84"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.93"
+
+
+[[person]]
+name.last = "Mabe"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "10"
+P_GS = "8"
+P_CG = "5"
+P_SHO = "3"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+P_IP = "60"
+P_H = "46"
+P_HR = "3"
+P_R = "15"
+P_ER = "14"
+P_BB = "21"
+P_IBB = "0"
+P_SO = "54"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.10"
+
+
+[[person]]
+name.last = "McClain"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "28"
+P_GS = "12"
+P_CG = "4"
+P_SHO = "0"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "114"
+P_H = "132"
+P_HR = "10"
+P_R = "63"
+P_ER = "59"
+P_BB = "28"
+P_IBB = "1"
+P_SO = "46"
+P_HP = "1"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.66"
+
+
+[[person]]
+name.last = "McDaniel"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "6"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "42"
+P_H = "44"
+P_HR = "3"
+P_R = "18"
+P_ER = "17"
+P_BB = "6"
+P_IBB = "0"
+P_SO = "18"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.64"
+
+
+[[person]]
+name.last = "McDevitt"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "16"
+P_GS = "16"
+P_CG = "9"
+P_SHO = "1"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "102"
+P_H = "101"
+P_HR = "5"
+P_R = "53"
+P_ER = "43"
+P_BB = "51"
+P_IBB = "2"
+P_SO = "86"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.79"
+
+
+[[person]]
+name.last = "McDonald"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "24"
+P_GS = "24"
+P_CG = "9"
+P_SHO = "1"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+P_IP = "169"
+P_H = "173"
+P_HR = "6"
+P_R = "76"
+P_ER = "65"
+P_BB = "33"
+P_IBB = "8"
+P_SO = "61"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.46"
+
+
+[[person]]
+name.last = "McMahan"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "27"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "35"
+P_H = "35"
+P_HR = "2"
+P_R = "16"
+P_ER = "16"
+P_BB = "20"
+P_IBB = "3"
+P_SO = "20"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.11"
+
+
+[[person]]
+name.last = "Milliken"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "8"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "1"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "33"
+P_H = "43"
+P_HR = "5"
+P_R = "28"
+P_ER = "26"
+P_BB = "15"
+P_IBB = "1"
+P_SO = "11"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "7.09"
+
+
+[[person]]
+name.last = "Moford"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "15"
+P_GS = "3"
+P_CG = "3"
+P_SHO = "2"
+P_W = "6"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "57"
+P_H = "41"
+P_HR = "2"
+P_R = "6"
+P_ER = "6"
+P_BB = "17"
+P_IBB = "3"
+P_SO = "42"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "0.95"
+
+
+[[person]]
+name.last = "Monbouquette"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "9"
+P_SHO = "3"
+P_W = "8"
+P_L = "9"
+P_PCT = ".471"
+P_IP = "134"
+P_H = "107"
+P_HR = "9"
+P_R = "52"
+P_ER = "47"
+P_BB = "45"
+P_IBB = "4"
+P_SO = "94"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.16"
+
+
+[[person]]
+name.last = "Monroe"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "13"
+P_GS = "13"
+P_CG = "8"
+P_SHO = "0"
+P_W = "10"
+P_L = "2"
+P_PCT = ".833"
+P_IP = "100"
+P_H = "108"
+P_HR = "5"
+P_R = "42"
+P_ER = "37"
+P_BB = "28"
+P_IBB = "2"
+P_SO = "53"
+P_HP = "1"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "3.33"
+
+
+[[person]]
+name.last = "Murff"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "51"
+P_GS = "2"
+P_CG = "2"
+P_SHO = "0"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "110"
+P_H = "84"
+P_HR = "3"
+P_R = "26"
+P_ER = "22"
+P_BB = "33"
+P_IBB = "15"
+P_SO = "54"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "1.80"
+
+
+[[person]]
+name.last = "Negray"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "24"
+P_GS = "17"
+P_CG = "2"
+P_SHO = "1"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+P_IP = "104"
+P_H = "133"
+P_HR = "10"
+P_R = "64"
+P_ER = "56"
+P_BB = "43"
+P_IBB = "4"
+P_SO = "56"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.85"
+
+
+[[person]]
+name.last = "Nottebart"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "21"
+P_GS = "18"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "108"
+P_H = "114"
+P_HR = "13"
+P_R = "66"
+P_ER = "54"
+P_BB = "46"
+P_IBB = "4"
+P_SO = "44"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Pizarro"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "23"
+P_GS = "20"
+P_CG = "16"
+P_SHO = "3"
+P_W = "9"
+P_L = "10"
+P_PCT = ".474"
+P_IP = "165"
+P_H = "127"
+P_HR = "9"
+P_R = "63"
+P_ER = "52"
+P_BB = "69"
+P_IBB = "1"
+P_SO = "158"
+P_HP = "4"
+P_WP = "10"
+P_BK = "1"
+P_ERA = "2.84"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Presko"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "25"
+P_GS = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "69"
+P_H = "69"
+P_HR = "5"
+P_R = "32"
+P_ER = "28"
+P_BB = "34"
+P_IBB = "4"
+P_SO = "41"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.65"
+
+
+[[person]]
+name.last = "Raymond"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "33"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "75"
+P_H = "79"
+P_HR = "6"
+P_R = "40"
+P_ER = "32"
+P_BB = "25"
+P_IBB = "3"
+P_SO = "49"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.84"
+
+
+[[person]]
+name.last = "Ready"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "40"
+P_GS = "11"
+P_CG = "3"
+P_SHO = "1"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "116"
+P_H = "122"
+P_HR = "9"
+P_R = "77"
+P_ER = "66"
+P_BB = "67"
+P_IBB = "7"
+P_SO = "49"
+P_HP = "5"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "5.12"
+
+
+[[person]]
+name.last = "Rehm"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "31"
+P_GS = "30"
+P_CG = "10"
+P_SHO = "2"
+P_W = "11"
+P_L = "8"
+P_PCT = ".579"
+P_IP = "196"
+P_H = "149"
+P_HR = "10"
+P_R = "78"
+P_ER = "67"
+P_BB = "87"
+P_IBB = "8"
+P_SO = "131"
+P_HP = "1"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.08"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Rippelmeyer"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "14"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "69"
+P_H = "70"
+P_HR = "8"
+P_R = "45"
+P_ER = "32"
+P_BB = "23"
+P_IBB = "4"
+P_SO = "30"
+P_HP = "3"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "4.17"
+
+
+[[person]]
+name.last = "Rozman"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "34"
+P_H = "27"
+P_HR = "3"
+P_R = "17"
+P_ER = "15"
+P_BB = "7"
+P_IBB = "1"
+P_SO = "10"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.97"
+
+
+[[person]]
+name.last = "Rudolph"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "39"
+P_GS = "22"
+P_CG = "7"
+P_SHO = "2"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "174"
+P_H = "176"
+P_HR = "14"
+P_R = "68"
+P_ER = "59"
+P_BB = "48"
+P_IBB = "3"
+P_SO = "82"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.05"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Scheel"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "41"
+P_GS = "18"
+P_CG = "2"
+P_SHO = "1"
+P_W = "3"
+P_L = "17"
+P_PCT = ".150"
+P_IP = "144"
+P_H = "154"
+P_HR = "8"
+P_R = "77"
+P_ER = "59"
+P_BB = "76"
+P_IBB = "11"
+P_SO = "70"
+P_HP = "5"
+P_WP = "15"
+P_BK = "0"
+P_ERA = "3.69"
+
+
+[[person]]
+name.last = "Schroll"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "29"
+P_GS = "20"
+P_CG = "6"
+P_SHO = "2"
+P_W = "8"
+P_L = "8"
+P_PCT = ".500"
+P_IP = "158"
+P_H = "161"
+P_HR = "11"
+P_R = "76"
+P_ER = "65"
+P_BB = "60"
+P_IBB = "8"
+P_SO = "98"
+P_HP = "4"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.70"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+P_G = "11"
+[[person.playing.split]]
+team.name = "Charleston"
+P_G = "28"
+[person.playing.totals]
+P_G = "39"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_IP = "97"
+P_H = "87"
+P_HR = "8"
+P_R = "44"
+P_ER = "39"
+P_BB = "26"
+P_IBB = "3"
+P_SO = "72"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.62"
+
+
+[[person]]
+name.last = "Smith"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "13"
+P_GS = "10"
+P_CG = "3"
+P_SHO = "1"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "73"
+P_H = "69"
+P_HR = "4"
+P_R = "24"
+P_ER = "20"
+P_BB = "29"
+P_IBB = "1"
+P_SO = "61"
+P_HP = "2"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "2.47"
+
+
+[[person]]
+name.last = "Smith"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "37"
+P_GS = "29"
+P_CG = "7"
+P_SHO = "2"
+P_W = "13"
+P_L = "9"
+P_PCT = ".591"
+P_IP = "197"
+P_H = "186"
+P_HR = "12"
+P_R = "81"
+P_ER = "75"
+P_BB = "78"
+P_IBB = "4"
+P_SO = "129"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.43"
+
+
+[[person]]
+name.last = "Spencer"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "41"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "85"
+P_H = "62"
+P_HR = "4"
+P_R = "22"
+P_ER = "19"
+P_BB = "22"
+P_IBB = "11"
+P_SO = "30"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.01"
+
+
+[[person]]
+name.last = "Spring"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "22"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "49"
+P_H = "50"
+P_HR = "0"
+P_R = "25"
+P_ER = "24"
+P_BB = "25"
+P_IBB = "6"
+P_SO = "21"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.41"
+
+
+[[person]]
+name.last = "Stabiner"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "42"
+P_GS = "11"
+P_CG = "4"
+P_SHO = "1"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "123"
+P_H = "119"
+P_HR = "7"
+P_R = "68"
+P_ER = "62"
+P_BB = "63"
+P_IBB = "3"
+P_SO = "68"
+P_HP = "0"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.54"
+
+
+[[person]]
+name.last = "Stadnicki"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "10"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "38"
+P_H = "48"
+P_HR = "6"
+P_R = "27"
+P_ER = "27"
+P_BB = "21"
+P_IBB = "2"
+P_SO = "23"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.39"
+
+
+[[person]]
+name.last = "Stone"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "33"
+P_GS = "31"
+P_CG = "7"
+P_SHO = "3"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+P_IP = "215"
+P_H = "196"
+P_HR = "18"
+P_R = "93"
+P_ER = "76"
+P_BB = "119"
+P_IBB = "10"
+P_SO = "153"
+P_HP = "3"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "3.18"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Stump"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "34"
+P_GS = "23"
+P_CG = "5"
+P_SHO = "2"
+P_W = "8"
+P_L = "11"
+P_PCT = ".421"
+P_IP = "154"
+P_H = "190"
+P_HR = "6"
+P_R = "94"
+P_ER = "72"
+P_BB = "44"
+P_IBB = "5"
+P_SO = "77"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.21"
+
+
+[[person]]
+name.last = "Thiel"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "32"
+P_GS = "18"
+P_CG = "5"
+P_SHO = "1"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "134"
+P_H = "158"
+P_HR = "11"
+P_R = "66"
+P_ER = "56"
+P_BB = "29"
+P_IBB = "8"
+P_SO = "50"
+P_HP = "2"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "3.76"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "28"
+P_GS = "24"
+P_CG = "7"
+P_SHO = "2"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "182"
+P_H = "141"
+P_HR = "10"
+P_R = "67"
+P_ER = "57"
+P_BB = "76"
+P_IBB = "5"
+P_SO = "121"
+P_HP = "6"
+P_WP = "13"
+P_BK = "2"
+P_ERA = "2.82"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Valentine"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "43"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "7"
+P_PCT = ".364"
+P_IP = "108"
+P_H = "111"
+P_HR = "11"
+P_R = "56"
+P_ER = "50"
+P_BB = "36"
+P_IBB = "11"
+P_SO = "50"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.17"
+
+
+[[person]]
+name.last = "Willey"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "7"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "2"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "50"
+P_H = "41"
+P_HR = "2"
+P_R = "17"
+P_ER = "15"
+P_BB = "19"
+P_IBB = "0"
+P_SO = "41"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "2.70"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "8"
+P_GS = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "64"
+P_H = "43"
+P_HR = "1"
+P_R = "22"
+P_ER = "20"
+P_BB = "28"
+P_IBB = "1"
+P_SO = "44"
+P_HP = "3"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "2.81"
+
+
+[[person]]
+name.last = "Wilson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "15"
+P_GS = "9"
+P_CG = "4"
+P_SHO = "0"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "76"
+P_H = "72"
+P_HR = "7"
+P_R = "44"
+P_ER = "42"
+P_BB = "40"
+P_IBB = "3"
+P_SO = "61"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.97"
+
+
+[[person]]
+name.last = "Bruce"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Day"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gallagher"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gladding"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Miller"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "11"
+P_W = "2"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Valentinetti"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DePalo"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "8"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Duser"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Templeton"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Derrington"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DuFour"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Host"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jordan"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Keegan"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ponce"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rosenbaum"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trosky"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "12"
+P_W = "2"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Yoke"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Atkins"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Babkoff"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bridges"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Conger"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Davies"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Evans"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fickinger"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Garmon"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Harrison"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Locke"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pyburn"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Abernathie"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Byerly"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Chakales"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Earley"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Prout"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stabelfeld"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Crable"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Merritt"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "1"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Muffett"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "3"
+P_W = "2"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barker"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Duffy"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mickens"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Page"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sackey"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "12"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Scott"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Waters"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Giggie"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gorin"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "MacKenzie"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"

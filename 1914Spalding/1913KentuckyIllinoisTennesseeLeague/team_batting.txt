@@ -1,0 +1,110 @@
+[[team]]
+name = "Paducah"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4219"
+B_R = "682"
+B_H = "1205"
+B_AVG = ".286"
+
+
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4286"
+B_R = "689"
+B_H = "1167"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4318"
+B_R = "669"
+B_H = "1167"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Cairo"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4071"
+B_R = "516"
+B_H = "1045"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Owensboro"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4058"
+B_R = "536"
+B_H = "1027"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4313"
+B_R = "530"
+B_H = "1083"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4139"
+B_R = "578"
+B_H = "1024"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Vincennes"
+[[team.playing]]
+season = "1913"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4187"
+B_R = "514"
+B_H = "1007"
+B_AVG = ".241"

@@ -1,0 +1,142 @@
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "4007"
+F_A = "1814"
+F_E = "204"
+F_DP = "105"
+F_TP = "0"
+F_PB = "8"
+P_HP = "70"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3973"
+F_A = "2011"
+F_E = "229"
+F_DP = "128"
+F_TP = "0"
+F_PB = "32"
+P_HP = "53"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4054"
+F_A = "2004"
+F_E = "247"
+F_DP = "92"
+F_TP = "0"
+F_PB = "24"
+P_HP = "42"
+F_PCT = ".961"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4030"
+F_A = "1896"
+F_E = "242"
+F_DP = "87"
+F_TP = "0"
+F_PB = "17"
+P_HP = "53"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_PO = "4039"
+F_A = "2016"
+F_E = "257"
+F_DP = "116"
+F_TP = "0"
+F_PB = "25"
+P_HP = "77"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_PO = "3976"
+F_A = "1934"
+F_E = "256"
+F_DP = "91"
+F_TP = "0"
+F_PB = "50"
+P_HP = "61"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "4068"
+F_A = "1940"
+F_E = "274"
+F_DP = "114"
+F_TP = "0"
+F_PB = "23"
+P_HP = "61"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_PO = "3837"
+F_A = "1979"
+F_E = "281"
+F_DP = "105"
+F_TP = "0"
+F_PB = "18"
+P_HP = "50"
+F_PCT = ".956"

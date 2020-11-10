@@ -1,0 +1,82 @@
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_PO = "3831"
+F_A = "1874"
+F_E = "226"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3711"
+F_A = "1644"
+F_E = "233"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3687"
+F_A = "1935"
+F_E = "250"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3620"
+F_A = "1600"
+F_E = "257"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3623"
+F_A = "1794"
+F_E = "293"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3670"
+F_A = "1886"
+F_E = "365"
+F_PCT = ".921"

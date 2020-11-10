@@ -1,0 +1,88 @@
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3174"
+F_A = "1505"
+F_E = "221"
+F_DP = "88"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Helena"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3157"
+F_A = "1410"
+F_E = "241"
+F_DP = "81"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Salt Lake"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "3200"
+F_A = "1550"
+F_E = "274"
+F_DP = "109"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "2970"
+F_A = "1139"
+F_E = "244"
+F_DP = "66"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "3160"
+F_A = "1556"
+F_E = "336"
+F_DP = "85"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Ogden"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3058"
+F_A = "1638"
+F_E = "342"
+F_DP = "92"
+F_PCT = ".932"

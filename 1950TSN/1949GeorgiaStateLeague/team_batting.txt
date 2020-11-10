@@ -1,0 +1,190 @@
+[[team]]
+name = "Sparta"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "5016"
+B_R = "816"
+B_H = "1469"
+B_TB = "2077"
+B_2B = "249"
+B_3B = "100"
+B_HR = "53"
+B_SH = "68"
+B_SB = "97"
+B_BB = "538"
+B_HP = "44"
+B_RBI = "727"
+B_SO = "568"
+B_AVG = ".293"
+
+
+[[team]]
+name = "Eastman"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4665"
+B_R = "846"
+B_H = "1282"
+B_TB = "1810"
+B_2B = "260"
+B_3B = "50"
+B_HR = "56"
+B_SH = "88"
+B_SB = "170"
+B_BB = "679"
+B_HP = "57"
+B_RBI = "760"
+B_SO = "564"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Tifton"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4628"
+B_R = "863"
+B_H = "1241"
+B_TB = "1768"
+B_2B = "254"
+B_3B = "33"
+B_HR = "69"
+B_SH = "84"
+B_SB = "108"
+B_BB = "736"
+B_HP = "66"
+B_RBI = "742"
+B_SO = "540"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4795"
+B_R = "842"
+B_H = "1275"
+B_TB = "1682"
+B_2B = "191"
+B_3B = "54"
+B_HR = "36"
+B_SH = "69"
+B_SB = "176"
+B_BB = "656"
+B_HP = "33"
+B_RBI = "702"
+B_SO = "609"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Vidalia-Lyons"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4655"
+B_R = "785"
+B_H = "1204"
+B_TB = "1615"
+B_2B = "170"
+B_3B = "29"
+B_HR = "61"
+B_SH = "109"
+B_SB = "108"
+B_BB = "693"
+B_HP = "46"
+B_RBI = "686"
+B_SO = "708"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Dublin"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4770"
+B_R = "787"
+B_H = "1228"
+B_TB = "1846"
+B_2B = "218"
+B_3B = "44"
+B_HR = "104"
+B_SH = "84"
+B_SB = "104"
+B_BB = "642"
+B_HP = "57"
+B_RBI = "700"
+B_SO = "594"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Hazlehurst-Baxley"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4697"
+B_R = "696"
+B_H = "1150"
+B_TB = "1602"
+B_2B = "193"
+B_3B = "44"
+B_HR = "57"
+B_SH = "42"
+B_SB = "100"
+B_BB = "644"
+B_HP = "27"
+B_RBI = "595"
+B_SO = "809"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Fitzgerald"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4523"
+B_R = "717"
+B_H = "1075"
+B_TB = "1443"
+B_2B = "191"
+B_3B = "51"
+B_HR = "25"
+B_SH = "64"
+B_SB = "137"
+B_BB = "782"
+B_HP = "38"
+B_RBI = "638"
+B_SO = "726"
+B_AVG = ".238"

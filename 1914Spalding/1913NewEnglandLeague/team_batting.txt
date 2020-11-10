@@ -1,0 +1,158 @@
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4303"
+B_R = "715"
+B_H = "1233"
+B_TB = "1663"
+B_2B = "181"
+B_3B = "66"
+B_HR = "39"
+B_SH = "148"
+B_SB = "231"
+B_AVG = ".287"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "3975"
+B_R = "594"
+B_H = "1108"
+B_TB = "1435"
+B_2B = "202"
+B_3B = "49"
+B_HR = "9"
+B_SH = "211"
+B_SB = "227"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4059"
+B_R = "694"
+B_H = "1117"
+B_TB = "1466"
+B_2B = "172"
+B_3B = "60"
+B_HR = "19"
+B_SH = "160"
+B_SB = "263"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4098"
+B_R = "640"
+B_H = "1109"
+B_TB = "1521"
+B_2B = "198"
+B_3B = "32"
+B_HR = "50"
+B_SH = "158"
+B_SB = "193"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "3943"
+B_R = "506"
+B_H = "1041"
+B_TB = "1306"
+B_2B = "152"
+B_3B = "31"
+B_HR = "17"
+B_SH = "145"
+B_SB = "213"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4008"
+B_R = "509"
+B_H = "1011"
+B_TB = "1240"
+B_2B = "131"
+B_3B = "25"
+B_HR = "16"
+B_SH = "164"
+B_SB = "161"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3808"
+B_R = "484"
+B_H = "942"
+B_TB = "1160"
+B_2B = "113"
+B_3B = "33"
+B_HR = "13"
+B_SH = "172"
+B_SB = "210"
+B_AVG = ".247"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1913"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4140"
+B_R = "485"
+B_H = "1008"
+B_TB = "1297"
+B_2B = "165"
+B_3B = "44"
+B_HR = "12"
+B_SH = "134"
+B_SB = "156"
+B_AVG = ".243"

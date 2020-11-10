@@ -1,0 +1,126 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4394"
+B_R = "533"
+B_H = "1099"
+B_TB = "1468"
+B_SH = "148"
+B_SB = "169"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4591"
+B_R = "533"
+B_H = "1104"
+B_TB = "1427"
+B_SH = "190"
+B_SB = "275"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4400"
+B_R = "393"
+B_H = "997"
+B_TB = "1159"
+B_SH = "205"
+B_SB = "314"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4477"
+B_R = "458"
+B_H = "1006"
+B_TB = "1249"
+B_SH = "169"
+B_SB = "205"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4429"
+B_R = "410"
+B_H = "993"
+B_TB = "1227"
+B_SH = "192"
+B_SB = "148"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4517"
+B_R = "431"
+B_H = "1001"
+B_TB = "1250"
+B_SH = "215"
+B_SB = "176"
+B_AVG = ".222"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4329"
+B_R = "365"
+B_H = "955"
+B_TB = "1153"
+B_SH = "224"
+B_SB = "182"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4511"
+B_R = "387"
+B_H = "978"
+B_TB = "1243"
+B_SH = "162"
+B_SB = "128"
+B_AVG = ".217"

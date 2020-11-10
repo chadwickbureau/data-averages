@@ -1,0 +1,126 @@
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3454"
+F_A = "1677"
+F_E = "187"
+F_DP = "66"
+F_PB = "6"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3482"
+F_A = "1629"
+F_E = "213"
+F_DP = "88"
+F_PB = "8"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3523"
+F_A = "1969"
+F_E = "226"
+F_DP = "90"
+F_PB = "17"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3515"
+F_A = "1747"
+F_E = "245"
+F_DP = "82"
+F_PB = "21"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3566"
+F_A = "1634"
+F_E = "259"
+F_DP = "76"
+F_PB = "12"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Moline"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3491"
+F_A = "1667"
+F_E = "261"
+F_DP = "80"
+F_PB = "16"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3393"
+F_A = "1673"
+F_E = "261"
+F_DP = "87"
+F_PB = "26"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3529"
+F_A = "1605"
+F_E = "276"
+F_DP = "89"
+F_PB = "16"
+F_PCT = ".949"

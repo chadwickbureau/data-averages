@@ -1,0 +1,110 @@
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "102"
+R_L = "50"
+R_T = "5"
+R_PCT = ".670"
+R_RANK = "2"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "102"
+R_L = "50"
+R_T = "4"
+R_PCT = ".670"
+R_RANK = "2"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "89"
+R_L = "54"
+R_T = "3"
+R_PCT = ".622"
+R_RANK = "3"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "86"
+R_L = "63"
+R_T = "4"
+R_PCT = ".577"
+R_RANK = "4"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "77"
+R_T = "5"
+R_PCT = ".480"
+R_RANK = "5"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "83"
+R_T = "3"
+R_PCT = ".447"
+R_RANK = "6"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "103"
+R_T = "1"
+R_PCT = ".309"
+R_RANK = "7"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "31"
+R_L = "114"
+R_T = "3"
+R_PCT = ".214"
+R_RANK = "8"

@@ -1,0 +1,74 @@
+[[team]]
+name = "Medicine Hat"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2834"
+B_R = "479"
+B_H = "707"
+B_2B = "103"
+B_3B = "56"
+B_HR = "5"
+B_TB = "920"
+B_SH = "124"
+B_SB = "223"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2792"
+B_R = "363"
+B_H = "674"
+B_2B = "78"
+B_3B = "29"
+B_HR = "4"
+B_TB = "815"
+B_SH = "116"
+B_SB = "134"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Lethbridge"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2822"
+B_R = "433"
+B_H = "663"
+B_2B = "81"
+B_3B = "37"
+B_HR = "13"
+B_TB = "867"
+B_SH = "122"
+B_SB = "191"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2831"
+B_R = "358"
+B_H = "656"
+B_2B = "86"
+B_3B = "53"
+B_HR = "6"
+B_TB = "851"
+B_SH = "104"
+B_SB = "126"
+B_AVG = ".232"

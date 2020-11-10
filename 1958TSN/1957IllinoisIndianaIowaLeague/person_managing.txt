@@ -1,0 +1,76 @@
+[[person]]
+name.last = "Coleman"
+name.given = "Robert"
+[[person.managing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Evansville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hoscheit"
+name.given = "Vernard"
+[[person.managing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Peoria"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Scalzi"
+name.given = "Frank"
+[[person.managing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Davenport"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Raffensberger"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Burlington"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "May"
+name.given = "Merrill (Pinky)"
+[[person.managing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Keokuk"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ozark"
+name.given = "Daniel"
+[[person.managing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cedar Rapids"
+S_ORDER = "0"
+[person.managing.totals]

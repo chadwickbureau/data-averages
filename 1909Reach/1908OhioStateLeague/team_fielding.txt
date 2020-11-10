@@ -1,0 +1,88 @@
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "4014"
+F_A = "1577"
+F_E = "213"
+F_TC = "5804"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3921"
+F_A = "1764"
+F_E = "239"
+F_TC = "5924"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "3891"
+F_A = "1964"
+F_E = "288"
+F_TC = "6143"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "4025"
+F_A = "1829"
+F_E = "300"
+F_TC = "6144"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4079"
+F_A = "1910"
+F_E = "314"
+F_TC = "6303"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_PO = "3849"
+F_A = "1824"
+F_E = "317"
+F_TC = "5673"
+F_PCT = ".947"

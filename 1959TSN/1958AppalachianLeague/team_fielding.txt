@@ -1,0 +1,83 @@
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "73"
+F_DP = "38"
+F_PB = "28"
+F_PO = "1787"
+F_A = "590"
+F_E = "176"
+F_PCT = ".931"
+F_TP = "1"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "73"
+F_DP = "33"
+F_PB = "27"
+F_PO = "1780"
+F_A = "671"
+F_E = "184"
+F_PCT = ".930"
+F_TP = "0"
+
+
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "72"
+F_DP = "41"
+F_PB = "29"
+F_PO = "1770"
+F_A = "662"
+F_E = "196"
+F_PCT = ".925"
+F_TP = "1"
+
+
+[[team]]
+name = "Pulaski"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "70"
+F_DP = "48"
+F_PB = "39"
+F_PO = "1671"
+F_A = "615"
+F_E = "195"
+F_PCT = ".921"
+F_TP = "0"
+
+
+[[team]]
+name = "Bluefield"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "72"
+F_DP = "27"
+F_PB = "29"
+F_PO = "1687"
+F_A = "572"
+F_E = "255"
+F_PCT = ".899"
+F_TP = "0"

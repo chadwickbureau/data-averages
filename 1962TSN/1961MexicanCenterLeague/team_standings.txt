@@ -1,0 +1,82 @@
+[[team]]
+name = "Aguascalientes"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "52"
+R_T = "2"
+R_PCT = ".567"
+R_RANK = "1"
+
+
+[[team]]
+name = "Celaya"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "54"
+R_T = "5"
+R_PCT = ".550"
+R_RANK = "2"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "56"
+R_T = "3"
+R_PCT = ".529"
+R_RANK = "3"
+
+
+[[team]]
+name = "San Luis Potosi"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "64"
+R_T = "1"
+R_PCT = ".467"
+R_RANK = "4"
+
+
+[[team]]
+name = "Guanajuato"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "66"
+R_T = "1"
+R_PCT = ".450"
+R_RANK = "5"
+
+
+[[team]]
+name = "Salamanca"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "67"
+R_T = "2"
+R_PCT = ".437"
+R_RANK = "6"

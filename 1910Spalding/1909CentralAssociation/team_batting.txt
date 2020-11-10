@@ -1,0 +1,94 @@
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4393"
+B_H = "1112"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4230"
+B_H = "1041"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4264"
+B_H = "1024"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4375"
+B_H = "992"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4479"
+B_H = "998"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4306"
+B_H = "922"
+B_AVG = ".214"
+
+
+[[team]]
+name = "Ottumwa"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4356"
+B_H = "916"
+B_AVG = ".210"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1909"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4199"
+B_H = "875"
+B_AVG = ".208"

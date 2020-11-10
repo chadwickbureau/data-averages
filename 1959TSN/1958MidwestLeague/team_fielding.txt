@@ -1,0 +1,134 @@
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "98"
+F_PB = "53"
+F_PO = "3096"
+F_A = "1322"
+F_E = "197"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Michigan City"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "89"
+F_PB = "43"
+F_PO = "3122"
+F_A = "1128"
+F_E = "198"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "98"
+F_PB = "27"
+F_PO = "3126"
+F_A = "1289"
+F_E = "218"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Kokomo"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_DP = "97"
+F_PB = "13"
+F_PO = "2954"
+F_A = "1247"
+F_E = "205"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "94"
+F_PB = "39"
+F_PO = "3188"
+F_A = "1169"
+F_E = "257"
+F_PCT = ".944"
+F_TP = "0"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "96"
+F_PB = "32"
+F_PO = "3228"
+F_A = "1201"
+F_E = "291"
+F_PCT = ".938"
+F_TP = "1"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "76"
+F_PB = "33"
+F_PO = "3137"
+F_A = "1255"
+F_E = "305"
+F_PCT = ".935"
+F_TP = "0"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "99"
+F_PB = "25"
+F_PO = "3115"
+F_A = "1145"
+F_E = "302"
+F_PCT = ".934"
+F_TP = "0"

@@ -1,0 +1,38 @@
+[[team]]
+name = "Caborca"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "14805"
+
+
+[[team]]
+name = "Agua Prieta"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "12202"
+
+
+[[team]]
+name = "Cananea"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "4462"
+
+
+[[team]]
+name = "Empalme"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "3279"

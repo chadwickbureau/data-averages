@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Myers"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Las Vegas"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wheeler"
+name.given = "Edward"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexicali"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rothrock"
+name.given = "John"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Bernadino"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lloyd"
+name.given = "Thomas"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Porterville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Viers"
+name.given = "Ray"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "El Centro"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Stinson"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "El Centro"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ogrodowski"
+name.given = "Bruce"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salinas/Tijuana"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Marcucci"
+name.given = "Lilio"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Reno"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Jameson"
+name.given = "Don"
+[[person.managing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Riverside"
+S_ORDER = "0"
+[person.managing.totals]

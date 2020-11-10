@@ -1,0 +1,134 @@
+[[team]]
+name = "Stroudsburg"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "2977"
+F_A = "1316"
+F_E = "230"
+F_DP = "81"
+F_TP = "1"
+F_PB = "15"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Peekskill"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_PO = "2911"
+F_A = "1214"
+F_E = "232"
+F_DP = "64"
+F_TP = "0"
+F_PB = "16"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Nyack"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "2986"
+F_A = "1392"
+F_E = "252"
+F_DP = "79"
+F_TP = "0"
+F_PB = "31"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Carbondale"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "2887"
+F_A = "1175"
+F_E = "238"
+F_DP = "82"
+F_TP = "0"
+F_PB = "27"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Nazareth"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "2848"
+F_A = "1291"
+F_E = "261"
+F_DP = "80"
+F_TP = "0"
+F_PB = "28"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Mahanoy City"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_PO = "2733"
+F_A = "1141"
+F_E = "292"
+F_DP = "83"
+F_TP = "1"
+F_PB = "36"
+F_PCT = ".930"
+
+
+[[team]]
+name = "Bloomingdale"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "2960"
+F_A = "1315"
+F_E = "329"
+F_DP = "82"
+F_TP = "1"
+F_PB = "33"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Newburgh/Walden"
+[[team.playing]]
+season = "1946"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "2475"
+F_A = "970"
+F_E = "337"
+F_DP = "45"
+F_TP = "1"
+F_PB = "32"
+F_PCT = ".913"

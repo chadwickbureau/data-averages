@@ -1,0 +1,94 @@
+[[team]]
+name = "Cleburne"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "61"
+F_PO = "1640"
+F_A = "724"
+F_E = "137"
+F_TC = "2501"
+F_PCT = ".945"
+F_DP = "23"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "62"
+F_PO = "1631"
+F_A = "860"
+F_E = "182"
+F_TC = "2673"
+F_PCT = ".931"
+F_DP = "30"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "59"
+F_PO = "1601"
+F_A = "655"
+F_E = "167"
+F_TC = "2423"
+F_PCT = ".931"
+F_DP = "29"
+
+
+[[team]]
+name = "Marshall"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "62"
+F_PO = "1624"
+F_A = "817"
+F_E = "194"
+F_TC = "2635"
+F_PCT = ".926"
+F_DP = "25"
+
+
+[[team]]
+name = "Tyler"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "62"
+F_PO = "1635"
+F_A = "767"
+F_E = "191"
+F_TC = "2593"
+F_PCT = ".926"
+F_DP = "21"
+
+
+[[team]]
+name = "Longview"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "60"
+F_PO = "1575"
+F_A = "630"
+F_E = "166"
+F_TC = "2371"
+F_PCT = ".925"
+F_DP = "23"

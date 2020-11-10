@@ -1,0 +1,82 @@
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3081"
+F_A = "1445"
+F_E = "194"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "3201"
+F_A = "1393"
+F_E = "218"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3395"
+F_A = "1628"
+F_E = "279"
+F_PCT = ".947"
+
+
+[[team]]
+name = "High Point"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3121"
+F_A = "1426"
+F_E = "272"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "3135"
+F_A = "1625"
+F_E = "297"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3111"
+F_A = "1381"
+F_E = "294"
+F_PCT = ".939"

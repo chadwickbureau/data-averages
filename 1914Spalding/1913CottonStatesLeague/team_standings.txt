@@ -1,0 +1,76 @@
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1913"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "24"
+R_PCT = ".748"
+R_RANK = "1"
+
+
+[[team]]
+name = "Pensacola"
+[[team.playing]]
+season = "1913"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "29"
+R_PCT = ".698"
+R_RANK = "2"
+
+
+[[team]]
+name = "Selma"
+[[team.playing]]
+season = "1913"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "46"
+R_PCT = ".531"
+R_RANK = "3"
+
+
+[[team]]
+name = "Clarksdale"
+[[team.playing]]
+season = "1913"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+R_W = "41"
+R_L = "52"
+R_PCT = ".441"
+R_RANK = "4"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1913"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+R_W = "42"
+R_L = "57"
+R_PCT = ".424"
+R_RANK = "5"
+
+
+[[team]]
+name = "Meridian"
+[[team.playing]]
+season = "1913"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+R_W = "22"
+R_L = "73"
+R_PCT = ".227"
+R_RANK = "6"

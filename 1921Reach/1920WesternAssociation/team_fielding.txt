@@ -1,0 +1,110 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3552"
+F_A = "1653"
+F_E = "266"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Drumright"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3481"
+F_A = "1670"
+F_E = "282"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Okmulgee"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3472"
+F_A = "1683"
+F_E = "291"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Henryetta"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3325"
+F_A = "1606"
+F_E = "280"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3628"
+F_A = "1564"
+F_E = "227"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Enid"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3434"
+F_A = "1870"
+F_E = "305"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Chickasha"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3404"
+F_A = "1656"
+F_E = "323"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Pawhuska"
+[[team.playing]]
+season = "1920"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3354"
+F_A = "1651"
+F_E = "380"
+F_PCT = ".929"

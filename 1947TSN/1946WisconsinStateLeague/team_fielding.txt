@@ -1,0 +1,142 @@
+[[team]]
+name = "Green Bay"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_PO = "2895"
+F_A = "1245"
+F_E = "212"
+F_TC = "4352"
+F_DP = "71"
+F_TP = "0"
+F_PB = "19"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Oshkosh"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2798"
+F_A = "1064"
+F_E = "222"
+F_TC = "4084"
+F_DP = "57"
+F_TP = "0"
+F_PB = "34"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Fond du Lac"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2798"
+F_A = "1209"
+F_E = "270"
+F_TC = "4277"
+F_DP = "75"
+F_TP = "2"
+F_PB = "29"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2691"
+F_A = "1156"
+F_E = "285"
+F_TC = "4132"
+F_DP = "74"
+F_TP = "0"
+F_PB = "31"
+F_PCT = ".931"
+
+
+[[team]]
+name = "Wisconsin Rapids"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_PO = "2756"
+F_A = "1059"
+F_E = "287"
+F_TC = "4102"
+F_DP = "71"
+F_TP = "0"
+F_PB = "27"
+F_PCT = ".930"
+
+
+[[team]]
+name = "Janesville"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2695"
+F_A = "1082"
+F_E = "293"
+F_TC = "4070"
+F_DP = "63"
+F_TP = "0"
+F_PB = "25"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Appleton"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2813"
+F_A = "1140"
+F_E = "334"
+F_TC = "4287"
+F_DP = "61"
+F_TP = "0"
+F_PB = "29"
+F_PCT = ".922"
+
+
+[[team]]
+name = "Sheboygan"
+[[team.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2732"
+F_A = "1177"
+F_E = "337"
+F_TC = "4246"
+F_DP = "67"
+F_TP = "0"
+F_PB = "40"
+F_PCT = ".921"

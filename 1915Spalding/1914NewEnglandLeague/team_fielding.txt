@@ -1,0 +1,110 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3063"
+F_A = "1452"
+F_E = "254"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3293"
+F_A = "1621"
+F_E = "295"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3205"
+F_A = "1809"
+F_E = "301"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3152"
+F_A = "1475"
+F_E = "278"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "3134"
+F_A = "1506"
+F_E = "297"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3154"
+F_A = "1532"
+F_E = "307"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3151"
+F_A = "1572"
+F_E = "318"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "2933"
+F_A = "1539"
+F_E = "318"
+F_PCT = ".934"

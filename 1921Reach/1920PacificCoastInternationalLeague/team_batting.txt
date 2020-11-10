@@ -1,0 +1,136 @@
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "4003"
+B_R = "695"
+B_H = "1180"
+B_TB = "1709"
+B_2B = "248"
+B_3B = "75"
+B_HR = "45"
+B_SH = "130"
+B_BB = "426"
+B_HP = "41"
+B_SB = "95"
+B_SO = "461"
+B_AVG = ".295"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4014"
+B_R = "575"
+B_H = "1124"
+B_TB = "1665"
+B_2B = "237"
+B_3B = "36"
+B_HR = "22"
+B_SH = "167"
+B_BB = "398"
+B_HP = "33"
+B_SB = "133"
+B_SO = "503"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3942"
+B_R = "641"
+B_H = "1088"
+B_TB = "1492"
+B_2B = "163"
+B_3B = "33"
+B_HR = "60"
+B_SH = "102"
+B_BB = "477"
+B_HP = "109"
+B_SB = "173"
+B_SO = "621"
+B_AVG = ".277"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3946"
+B_R = "548"
+B_H = "1044"
+B_TB = "1351"
+B_2B = "187"
+B_3B = "48"
+B_HR = "19"
+B_SH = "122"
+B_BB = "299"
+B_HP = "49"
+B_SB = "111"
+B_SO = "506"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3903"
+B_R = "571"
+B_H = "1027"
+B_TB = "1404"
+B_2B = "200"
+B_3B = "58"
+B_HR = "23"
+B_SH = "153"
+B_BB = "358"
+B_HP = "49"
+B_SB = "120"
+B_SO = "528"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3898"
+B_R = "411"
+B_H = "889"
+B_TB = "1151"
+B_2B = "135"
+B_3B = "36"
+B_HR = "23"
+B_SH = "107"
+B_BB = "338"
+B_HP = "46"
+B_SB = "65"
+B_SO = "679"
+B_AVG = ".228"

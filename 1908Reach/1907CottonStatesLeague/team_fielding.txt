@@ -1,0 +1,94 @@
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3713"
+F_A = "1711"
+F_E = "288"
+F_SB = "192"
+F_DP = "73"
+F_TP = "0"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3699"
+F_A = "1760"
+F_E = "297"
+F_SB = "223"
+F_DP = "87"
+F_TP = "0"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Vicksburg"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3786"
+F_A = "1921"
+F_E = "285"
+F_SB = "207"
+F_DP = "84"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3627"
+F_A = "1667"
+F_E = "327"
+F_SB = "169"
+F_DP = "82"
+F_TP = "1"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Gulfport"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3740"
+F_A = "1809"
+F_E = "332"
+F_SB = "132"
+F_DP = "62"
+F_TP = "0"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Meridian"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3905"
+F_A = "1770"
+F_E = "340"
+F_SB = "213"
+F_DP = "63"
+F_TP = "0"
+F_PCT = ".943"

@@ -1,0 +1,76 @@
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1914"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5134"
+B_R = "618"
+B_H = "1324"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1914"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5082"
+B_R = "631"
+B_H = "1309"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1914"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5003"
+B_R = "616"
+B_H = "1253"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1914"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5190"
+B_R = "581"
+B_H = "1262"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1914"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4927"
+B_R = "593"
+B_H = "1142"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Portland/Ballard"
+[[team.playing]]
+season = "1914"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5044"
+B_R = "494"
+B_H = "1160"
+B_AVG = ".230"

@@ -1,0 +1,1821 @@
+[[person]]
+name.last = "Freitas"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Modesto"
+[person.playing.totals]
+P_G = "33"
+P_CG = "19"
+P_SHO = "1"
+P_W = "20"
+P_L = "6"
+P_PCT = ".769"
+P_IP = "218"
+P_AB = "849"
+P_R = "84"
+P_H = "198"
+P_ER = "62"
+P_SH = "15"
+P_BB = "37"
+P_HP = "1"
+P_SO = "134"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "2.56"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "McWilliams"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "12"
+P_CG = "4"
+P_SHO = "0"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "63"
+P_AB = "234"
+P_R = "21"
+P_H = "50"
+P_ER = "19"
+P_SH = "6"
+P_BB = "24"
+P_HP = "2"
+P_SO = "51"
+P_WP = "0"
+P_BK = "2"
+P_ERA = "2.71"
+
+
+[[person]]
+name.last = "Pritts"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Modesto"
+[person.playing.totals]
+P_G = "25"
+P_CG = "13"
+P_SHO = "2"
+P_W = "11"
+P_L = "8"
+P_PCT = ".579"
+P_IP = "163"
+P_AB = "611"
+P_R = "82"
+P_H = "136"
+P_ER = "54"
+P_SH = "11"
+P_BB = "95"
+P_HP = "2"
+P_SO = "129"
+P_WP = "7"
+P_BK = "2"
+P_ERA = "2.98"
+
+
+[[person]]
+name.last = "Guldborg"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "38"
+P_CG = "21"
+P_SHO = "5"
+P_W = "22"
+P_L = "5"
+P_PCT = ".815"
+P_IP = "243"
+P_AB = "890"
+P_R = "102"
+P_H = "200"
+P_ER = "83"
+P_SH = "8"
+P_BB = "120"
+P_HP = "4"
+P_SO = "135"
+P_WP = "8"
+P_BK = "2"
+P_ERA = "3.07"
+
+
+[[person]]
+name.last = "Frantz"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "27"
+P_CG = "21"
+P_SHO = "1"
+P_W = "14"
+P_L = "9"
+P_PCT = ".609"
+P_IP = "205"
+P_AB = "778"
+P_R = "97"
+P_H = "182"
+P_ER = "72"
+P_SH = "11"
+P_BB = "123"
+P_HP = "1"
+P_SO = "162"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "3.16"
+
+
+[[person]]
+name.last = "Clough"
+name.given = "W."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "41"
+P_CG = "18"
+P_SHO = "0"
+P_W = "18"
+P_L = "11"
+P_PCT = ".621"
+P_IP = "222"
+P_AB = "854"
+P_R = "97"
+P_H = "211"
+P_ER = "79"
+P_SH = "18"
+P_BB = "64"
+P_HP = "4"
+P_SO = "116"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.20"
+
+
+[[person]]
+name.last = "Andrews"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "19"
+P_CG = "7"
+P_SHO = "2"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "90"
+P_AB = "321"
+P_R = "44"
+P_H = "66"
+P_ER = "35"
+P_SH = "9"
+P_BB = "71"
+P_HP = "8"
+P_SO = "85"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "3.50"
+
+
+[[person]]
+name.last = "Hernandez"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Modesto"
+[person.playing.totals]
+P_G = "33"
+P_CG = "16"
+P_SHO = "1"
+P_W = "14"
+P_L = "10"
+P_PCT = ".583"
+P_IP = "206"
+P_AB = "800"
+P_R = "103"
+P_H = "211"
+P_ER = "82"
+P_SH = "19"
+P_BB = "91"
+P_HP = "7"
+P_SO = "108"
+P_WP = "8"
+P_BK = "3"
+P_ERA = "3.58"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "W."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "36"
+P_CG = "8"
+P_SHO = "3"
+P_W = "13"
+P_L = "7"
+P_PCT = ".650"
+P_IP = "196"
+P_AB = "727"
+P_R = "105"
+P_H = "179"
+P_ER = "78"
+P_SH = "19"
+P_BB = "128"
+P_HP = "8"
+P_SO = "114"
+P_WP = "8"
+P_BK = "2"
+P_ERA = "3.58"
+
+
+[[person]]
+name.last = "Simon"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "28"
+P_CG = "17"
+P_SHO = "0"
+P_W = "11"
+P_L = "15"
+P_PCT = ".423"
+P_IP = "199"
+P_AB = "729"
+P_R = "101"
+P_H = "173"
+P_ER = "82"
+P_SH = "17"
+P_BB = "124"
+P_HP = "6"
+P_SO = "124"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "3.71"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "31"
+P_CG = "19"
+P_SHO = "1"
+P_W = "19"
+P_L = "5"
+P_PCT = ".792"
+P_IP = "220"
+P_AB = "838"
+P_R = "111"
+P_H = "201"
+P_ER = "91"
+P_SH = "6"
+P_BB = "118"
+P_HP = "3"
+P_SO = "196"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "3.72"
+
+
+[[person]]
+name.last = "Sandel"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "27"
+P_CG = "17"
+P_SHO = "3"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "209"
+P_AB = "852"
+P_R = "108"
+P_H = "238"
+P_ER = "88"
+P_SH = "5"
+P_BB = "61"
+P_HP = "2"
+P_SO = "93"
+P_WP = "2"
+P_BK = "7"
+P_ERA = "3.79"
+
+
+[[person]]
+name.last = "Hudson"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "26"
+P_CG = "8"
+P_SHO = "0"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "170"
+P_AB = "614"
+P_R = "84"
+P_H = "134"
+P_ER = "73"
+P_SH = "11"
+P_BB = "108"
+P_HP = "3"
+P_SO = "142"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.86"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "I. D."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "31"
+P_CG = "15"
+P_SHO = "0"
+P_W = "15"
+P_L = "8"
+P_PCT = ".652"
+P_IP = "208"
+P_AB = "793"
+P_R = "112"
+P_H = "188"
+P_ER = "90"
+P_SH = "14"
+P_BB = "159"
+P_HP = "4"
+P_SO = "155"
+P_WP = "9"
+P_BK = "5"
+P_ERA = "3.89"
+
+
+[[person]]
+name.last = "Barnes"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "20"
+P_CG = "8"
+P_SHO = "0"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "116"
+P_AB = "430"
+P_R = "59"
+P_H = "102"
+P_ER = "52"
+P_SH = "6"
+P_BB = "51"
+P_HP = "7"
+P_SO = "65"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.03"
+
+
+[[person]]
+name.last = "Denney"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "18"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "87"
+P_AB = "327"
+P_R = "55"
+P_H = "83"
+P_ER = "39"
+P_SH = "7"
+P_BB = "58"
+P_HP = "4"
+P_SO = "47"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "4.03"
+
+
+[[person]]
+name.last = "Rogers"
+name.given = "L."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "29"
+P_CG = "20"
+P_SHO = "0"
+P_W = "9"
+P_L = "15"
+P_PCT = ".375"
+P_IP = "211"
+P_AB = "784"
+P_R = "110"
+P_H = "183"
+P_ER = "97"
+P_SH = "17"
+P_BB = "145"
+P_HP = "8"
+P_SO = "145"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "4.14"
+
+
+[[person]]
+name.last = "Lutz"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "34"
+P_CG = "18"
+P_SHO = "3"
+P_W = "17"
+P_L = "10"
+P_PCT = ".630"
+P_IP = "232"
+P_AB = "871"
+P_R = "124"
+P_H = "206"
+P_ER = "107"
+P_SH = "12"
+P_BB = "140"
+P_HP = "9"
+P_SO = "182"
+P_WP = "16"
+P_BK = "4"
+P_ERA = "4.15"
+
+
+[[person]]
+name.last = "White"
+name.given = "F."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "27"
+P_CG = "14"
+P_SHO = "0"
+P_W = "8"
+P_L = "14"
+P_PCT = ".364"
+P_IP = "190"
+P_AB = "711"
+P_R = "108"
+P_H = "159"
+P_ER = "88"
+P_SH = "9"
+P_BB = "130"
+P_HP = "5"
+P_SO = "141"
+P_WP = "12"
+P_BK = "3"
+P_ERA = "4.17"
+
+
+[[person]]
+name.last = "Mossi"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bakersfield"
+[person.playing.totals]
+P_G = "29"
+P_CG = "13"
+P_SHO = "4"
+P_W = "11"
+P_L = "10"
+P_PCT = ".524"
+P_IP = "186"
+P_AB = "707"
+P_R = "106"
+P_H = "165"
+P_ER = "87"
+P_SH = "12"
+P_BB = "111"
+P_HP = "1"
+P_SO = "159"
+P_WP = "11"
+P_BK = "1"
+P_ERA = "4.21"
+
+
+[[person]]
+name.last = "Stone"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "12"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "57"
+P_AB = "231"
+P_R = "36"
+P_H = "62"
+P_ER = "27"
+P_SH = "2"
+P_BB = "23"
+P_HP = "2"
+P_SO = "36"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.26"
+
+
+[[person]]
+name.last = "Escalante"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bakersfield"
+[person.playing.totals]
+P_G = "44"
+P_CG = "22"
+P_SHO = "0"
+P_W = "16"
+P_L = "20"
+P_PCT = ".444"
+P_IP = "279"
+P_AB = "1091"
+P_R = "153"
+P_H = "305"
+P_ER = "134"
+P_SH = "24"
+P_BB = "92"
+P_HP = "8"
+P_SO = "148"
+P_WP = "12"
+P_BK = "0"
+P_ERA = "4.32"
+
+
+[[person]]
+name.last = "Rothrock"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "11"
+P_CG = "5"
+P_SHO = "2"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "77"
+P_AB = "294"
+P_R = "49"
+P_H = "78"
+P_ER = "37"
+P_SH = "6"
+P_BB = "30"
+P_HP = "2"
+P_SO = "34"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "4.32"
+
+
+[[person]]
+name.last = "Bloxam"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Modesto"
+[person.playing.totals]
+P_G = "23"
+P_CG = "8"
+P_SHO = "1"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+P_IP = "135"
+P_AB = "538"
+P_R = "88"
+P_H = "156"
+P_ER = "65"
+P_SH = "7"
+P_BB = "103"
+P_HP = "4"
+P_SO = "69"
+P_WP = "10"
+P_BK = "1"
+P_ERA = "4.33"
+
+
+[[person]]
+name.last = "Hertz"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bakersfield"
+[person.playing.totals]
+P_G = "33"
+P_CG = "15"
+P_SHO = "2"
+P_W = "12"
+P_L = "15"
+P_PCT = ".444"
+P_IP = "225"
+P_AB = "849"
+P_R = "141"
+P_H = "202"
+P_ER = "110"
+P_SH = "16"
+P_BB = "143"
+P_HP = "5"
+P_SO = "129"
+P_WP = "13"
+P_BK = "3"
+P_ERA = "4.40"
+
+
+[[person]]
+name.last = "Waters"
+name.given = "B."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "23"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "10"
+P_PCT = ".231"
+P_IP = "102"
+P_AB = "409"
+P_R = "74"
+P_H = "112"
+P_ER = "50"
+P_SH = "8"
+P_BB = "60"
+P_HP = "1"
+P_SO = "53"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.41"
+
+
+[[person]]
+name.last = "Monroe"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "29"
+P_CG = "12"
+P_SHO = "3"
+P_W = "12"
+P_L = "13"
+P_PCT = ".480"
+P_IP = "183"
+P_AB = "670"
+P_R = "115"
+P_H = "153"
+P_ER = "90"
+P_SH = "12"
+P_BB = "136"
+P_HP = "3"
+P_SO = "71"
+P_WP = "18"
+P_BK = "3"
+P_ERA = "4.43"
+
+
+[[person]]
+name.last = "Haines"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "36"
+P_CG = "5"
+P_SHO = "2"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "127"
+P_AB = "487"
+P_R = "71"
+P_H = "130"
+P_ER = "63"
+P_SH = "15"
+P_BB = "54"
+P_HP = "3"
+P_SO = "63"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.46"
+
+
+[[person]]
+name.last = "McMahan"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "21"
+P_CG = "8"
+P_SHO = "1"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "138"
+P_AB = "547"
+P_R = "77"
+P_H = "158"
+P_ER = "69"
+P_SH = "10"
+P_BB = "63"
+P_HP = "0"
+P_SO = "80"
+P_WP = "2"
+P_BK = "3"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Dollins"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "35"
+P_CG = "17"
+P_SHO = "1"
+P_W = "14"
+P_L = "16"
+P_PCT = ".467"
+P_IP = "226"
+P_AB = "867"
+P_R = "145"
+P_H = "218"
+P_ER = "115"
+P_SH = "14"
+P_BB = "121"
+P_HP = "0"
+P_SO = "157"
+P_WP = "9"
+P_BK = "2"
+P_ERA = "4.58"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "G. B."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "39"
+P_CG = "19"
+P_SHO = "2"
+P_W = "12"
+P_L = "16"
+P_PCT = ".429"
+P_IP = "225"
+P_AB = "878"
+P_R = "144"
+P_H = "219"
+P_ER = "115"
+P_SH = "5"
+P_BB = "150"
+P_HP = "4"
+P_SO = "200"
+P_WP = "7"
+P_BK = "4"
+P_ERA = "4.60"
+
+
+[[person]]
+name.last = "Derganc"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "19"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "72"
+P_AB = "278"
+P_R = "47"
+P_H = "73"
+P_ER = "37"
+P_SH = "2"
+P_BB = "58"
+P_HP = "1"
+P_SO = "49"
+P_WP = "3"
+P_BK = "2"
+P_ERA = "4.62"
+
+
+[[person]]
+name.last = "Herrin"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "10"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "58"
+P_AB = "207"
+P_R = "40"
+P_H = "47"
+P_ER = "30"
+P_SH = "8"
+P_BB = "52"
+P_HP = "5"
+P_SO = "42"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.66"
+
+
+[[person]]
+name.last = "Banaszak"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "11"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "55"
+P_AB = "212"
+P_R = "34"
+P_H = "48"
+P_ER = "29"
+P_SH = "0"
+P_BB = "48"
+P_HP = "1"
+P_SO = "26"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.75"
+
+
+[[person]]
+name.last = "Ross"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "28"
+P_CG = "7"
+P_SHO = "1"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "128"
+P_AB = "476"
+P_R = "89"
+P_H = "121"
+P_ER = "68"
+P_SH = "8"
+P_BB = "111"
+P_HP = "6"
+P_SO = "59"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "4.78"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "L."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Modesto"
+[person.playing.totals]
+P_G = "28"
+P_CG = "7"
+P_SHO = "3"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "152"
+P_AB = "585"
+P_R = "104"
+P_H = "145"
+P_ER = "81"
+P_SH = "7"
+P_BB = "125"
+P_HP = "9"
+P_SO = "96"
+P_WP = "2"
+P_BK = "2"
+P_ERA = "4.80"
+
+
+[[person]]
+name.last = "Browne"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "8"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "58"
+P_AB = "244"
+P_R = "40"
+P_H = "71"
+P_ER = "31"
+P_SH = "1"
+P_BB = "22"
+P_HP = "4"
+P_SO = "29"
+P_WP = "1"
+P_BK = "2"
+P_ERA = "4.81"
+
+
+[[person]]
+name.last = "Koby"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "37"
+P_CG = "15"
+P_SHO = "0"
+P_W = "9"
+P_L = "13"
+P_PCT = ".409"
+P_IP = "212"
+P_AB = "826"
+P_R = "147"
+P_H = "228"
+P_ER = "114"
+P_SH = "17"
+P_BB = "109"
+P_HP = "2"
+P_SO = "122"
+P_WP = "6"
+P_BK = "3"
+P_ERA = "4.84"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "C. L."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "32"
+P_CG = "7"
+P_SHO = "0"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "134"
+P_AB = "556"
+P_R = "92"
+P_H = "173"
+P_ER = "72"
+P_SH = "7"
+P_BB = "52"
+P_HP = "3"
+P_SO = "66"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.84"
+
+
+[[person]]
+name.last = "Osorio"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "28"
+P_CG = "6"
+P_SHO = "0"
+P_W = "9"
+P_L = "6"
+P_PCT = ".600"
+P_IP = "133"
+P_AB = "534"
+P_R = "88"
+P_H = "150"
+P_ER = "73"
+P_SH = "9"
+P_BB = "54"
+P_HP = "2"
+P_SO = "80"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.94"
+
+
+[[person]]
+name.last = "Goldizen"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bakersfield"
+[person.playing.totals]
+P_G = "32"
+P_CG = "5"
+P_SHO = "0"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "147"
+P_AB = "606"
+P_R = "110"
+P_H = "165"
+P_ER = "81"
+P_SH = "9"
+P_BB = "71"
+P_HP = "14"
+P_SO = "54"
+P_WP = "12"
+P_BK = "0"
+P_ERA = "4.96"
+
+
+[[person]]
+name.last = "DeCarolis"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "37"
+P_CG = "5"
+P_SHO = "0"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "157"
+P_AB = "635"
+P_R = "101"
+P_H = "179"
+P_ER = "88"
+P_SH = "15"
+P_BB = "68"
+P_HP = "0"
+P_SO = "114"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "5.04"
+
+
+[[person]]
+name.last = "Castro"
+name.given = "A."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Modesto"
+[person.playing.totals]
+P_G = "35"
+P_CG = "15"
+P_SHO = "1"
+P_W = "11"
+P_L = "11"
+P_PCT = ".500"
+P_IP = "186"
+P_AB = "721"
+P_R = "130"
+P_H = "182"
+P_ER = "105"
+P_SH = "15"
+P_BB = "137"
+P_HP = "2"
+P_SO = "133"
+P_WP = "5"
+P_BK = "7"
+P_ERA = "5.08"
+
+
+[[person]]
+name.last = "Cloud"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "37"
+P_CG = "11"
+P_SHO = "1"
+P_W = "8"
+P_L = "12"
+P_PCT = ".400"
+P_IP = "191"
+P_AB = "759"
+P_R = "142"
+P_H = "204"
+P_ER = "108"
+P_SH = "11"
+P_BB = "98"
+P_HP = "14"
+P_SO = "90"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "5.09"
+
+
+[[person]]
+name.last = "Craig"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "22"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "54"
+P_AB = "219"
+P_R = "36"
+P_H = "61"
+P_ER = "31"
+P_SH = "2"
+P_BB = "30"
+P_HP = "2"
+P_SO = "28"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.17"
+
+
+[[person]]
+name.last = "Freeze"
+name.given = "L."
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "16"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "73"
+P_AB = "300"
+P_R = "59"
+P_H = "92"
+P_ER = "42"
+P_SH = "5"
+P_BB = "40"
+P_HP = "4"
+P_SO = "34"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "5.18"
+
+
+[[person]]
+name.last = "Maguire"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "34"
+P_CG = "6"
+P_SHO = "1"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "131"
+P_AB = "496"
+P_R = "103"
+P_H = "119"
+P_ER = "77"
+P_SH = "11"
+P_BB = "140"
+P_HP = "7"
+P_SO = "69"
+P_WP = "11"
+P_BK = "2"
+P_ERA = "5.29"
+
+
+[[person]]
+name.last = "Norwood"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "31"
+P_CG = "7"
+P_SHO = "1"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "169"
+P_AB = "614"
+P_R = "109"
+P_H = "141"
+P_ER = "100"
+P_SH = "12"
+P_BB = "159"
+P_HP = "10"
+P_SO = "133"
+P_WP = "14"
+P_BK = "2"
+P_ERA = "5.33"
+
+
+[[person]]
+name.last = "Zielinski"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "30"
+P_CG = "11"
+P_SHO = "0"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "166"
+P_AB = "653"
+P_R = "118"
+P_H = "168"
+P_ER = "99"
+P_SH = "16"
+P_BB = "99"
+P_HP = "10"
+P_SO = "115"
+P_WP = "9"
+P_BK = "1"
+P_ERA = "5.37"
+
+
+[[person]]
+name.last = "Bench"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "14"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "7"
+P_PCT = ".364"
+P_IP = "75"
+P_AB = "302"
+P_R = "55"
+P_H = "78"
+P_ER = "45"
+P_SH = "3"
+P_BB = "59"
+P_HP = "3"
+P_SO = "43"
+P_WP = "11"
+P_BK = "6"
+P_ERA = "5.40"
+
+
+[[person]]
+name.last = "Sanoff"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bakersfield"
+[person.playing.totals]
+P_G = "31"
+P_CG = "13"
+P_SHO = "1"
+P_W = "7"
+P_L = "18"
+P_PCT = ".280"
+P_IP = "178"
+P_AB = "677"
+P_R = "128"
+P_H = "164"
+P_ER = "109"
+P_SH = "12"
+P_BB = "148"
+P_HP = "6"
+P_SO = "119"
+P_WP = "10"
+P_BK = "2"
+P_ERA = "5.51"
+
+
+[[person]]
+name.last = "Contreras"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "26"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "145"
+P_AB = "587"
+P_R = "114"
+P_H = "162"
+P_ER = "93"
+P_SH = "7"
+P_BB = "129"
+P_HP = "6"
+P_SO = "122"
+P_WP = "14"
+P_BK = "1"
+P_ERA = "5.73"
+
+
+[[person]]
+name.last = "Quilici"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Modesto"
+[person.playing.totals]
+P_G = "11"
+P_CG = "1"
+P_SHO = "1"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "47"
+P_AB = "186"
+P_R = "39"
+P_H = "51"
+P_ER = "31"
+P_SH = "5"
+P_BB = "45"
+P_HP = "1"
+P_SO = "38"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "5.94"
+
+
+[[person]]
+name.last = "Brower"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "15"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "74"
+P_AB = "289"
+P_R = "66"
+P_H = "82"
+P_ER = "50"
+P_SH = "4"
+P_BB = "81"
+P_HP = "6"
+P_SO = "44"
+P_WP = "8"
+P_BK = "2"
+P_ERA = "6.08"
+
+
+[[person]]
+name.last = "Jenkins"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "17"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "62"
+P_AB = "243"
+P_R = "49"
+P_H = "66"
+P_ER = "43"
+P_SH = "3"
+P_BB = "68"
+P_HP = "1"
+P_SO = "46"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "6.24"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "12"
+P_CG = "2"
+P_SHO = "1"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "54"
+P_AB = "215"
+P_R = "47"
+P_H = "58"
+P_ER = "38"
+P_SH = "0"
+P_BB = "42"
+P_HP = "0"
+P_SO = "24"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "6.33"
+
+
+[[person]]
+name.last = "Grunsky"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Visalia"
+[person.playing.totals]
+P_G = "14"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "58"
+P_AB = "236"
+P_R = "51"
+P_H = "75"
+P_ER = "42"
+P_SH = "5"
+P_BB = "40"
+P_HP = "1"
+P_SO = "19"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.52"
+
+
+[[person]]
+name.last = "Mesa"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bakersfield"
+[person.playing.totals]
+P_G = "15"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "73"
+P_AB = "281"
+P_R = "66"
+P_H = "73"
+P_ER = "53"
+P_SH = "7"
+P_BB = "70"
+P_HP = "4"
+P_SO = "48"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "6.53"
+
+
+[[person]]
+name.last = "Garrett"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ventura"
+[person.playing.totals]
+P_G = "19"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "52"
+P_AB = "196"
+P_R = "44"
+P_H = "53"
+P_ER = "39"
+P_SH = "5"
+P_BB = "56"
+P_HP = "0"
+P_SO = "46"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "6.75"
+
+
+[[person]]
+name.last = "Ericson"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "20"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+P_IP = "84"
+P_AB = "368"
+P_R = "82"
+P_H = "16"
+P_ER = "68"
+P_SH = "7"
+P_BB = "42"
+P_HP = "2"
+P_SO = "35"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "7.29"
+
+
+[[person]]
+name.last = "Romonosky"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "16"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "8"
+P_PCT = ".273"
+P_IP = "71"
+P_AB = "274"
+P_R = "70"
+P_H = "81"
+P_ER = "58"
+P_SH = "7"
+P_BB = "75"
+P_HP = "5"
+P_SO = "60"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "7.35"
+
+
+[[person]]
+name.last = "Becker"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Barbara"
+[person.playing.totals]
+P_G = "14"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "49"
+P_AB = "220"
+P_R = "66"
+P_H = "74"
+P_ER = "49"
+P_SH = "3"
+P_BB = "61"
+P_HP = "2"
+P_SO = "30"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "9.00"

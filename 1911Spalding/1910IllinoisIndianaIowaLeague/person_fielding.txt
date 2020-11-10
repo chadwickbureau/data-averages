@@ -1,0 +1,3124 @@
+[[person]]
+name.last = "Smith"
+name.given = "D."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "43"
+F_1B_PO = "398"
+F_1B_A = "19"
+F_1B_E = "4"
+F_1B_PCT = ".993"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "F."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "21"
+F_1B_PO = "215"
+F_1B_A = "6"
+F_1B_E = "2"
+F_1B_PCT = ".991"
+
+
+[[person]]
+name.last = "Lerchen"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "136"
+F_1B_PO = "1567"
+F_1B_A = "74"
+F_1B_E = "19"
+F_1B_PCT = ".989"
+
+
+[[person]]
+name.last = "Staley"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "120"
+F_1B_PO = "1107"
+F_1B_A = "57"
+F_1B_E = "14"
+F_1B_PCT = ".988"
+
+
+[[person]]
+name.last = "Chapman"
+name.given = "R."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "32"
+F_1B_PO = "335"
+F_1B_A = "8"
+F_1B_E = "4"
+F_1B_PCT = ".988"
+
+
+[[person]]
+name.last = "Melchoir"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "134"
+F_1B_PO = "1426"
+F_1B_A = "73"
+F_1B_E = "19"
+F_1B_PCT = ".987"
+
+
+[[person]]
+name.last = "Novocek"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "21"
+F_1B_PO = "212"
+F_1B_A = "13"
+F_1B_E = "4"
+F_1B_PCT = ".983"
+
+
+[[person]]
+name.last = "Slattery"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "133"
+F_1B_PO = "1276"
+F_1B_A = "76"
+F_1B_E = "30"
+F_1B_PCT = ".978"
+
+
+[[person]]
+name.last = "Hester"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "22"
+F_1B_PO = "217"
+F_1B_A = "10"
+F_1B_E = "5"
+F_1B_PCT = ".978"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "E."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "33"
+F_1B_PO = "330"
+F_1B_A = "15"
+F_1B_E = "8"
+F_1B_PCT = ".977"
+
+
+[[person]]
+name.last = "Shaffer"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "18"
+F_1B_PO = "167"
+F_1B_A = "6"
+F_1B_E = "4"
+F_1B_PCT = ".977"
+
+
+[[person]]
+name.last = "Rowan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "118"
+F_1B_PO = "1096"
+F_1B_A = "78"
+F_1B_E = "29"
+F_1B_PCT = ".976"
+
+
+[[person]]
+name.last = "Beiter"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "93"
+F_1B_PO = "929"
+F_1B_A = "53"
+F_1B_E = "24"
+F_1B_PCT = ".976"
+
+
+[[person]]
+name.last = "Milsapp"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "21"
+F_1B_PO = "205"
+F_1B_A = "16"
+F_1B_E = "6"
+F_1B_PCT = ".974"
+
+
+[[person]]
+name.last = "Hildebrand"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "19"
+F_1B_PO = "158"
+F_1B_A = "11"
+F_1B_E = "5"
+F_1B_PCT = ".971"
+
+
+[[person]]
+name.last = "Foutz"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "23"
+F_1B_PO = "211"
+F_1B_A = "8"
+F_1B_E = "9"
+F_1B_PCT = ".961"
+
+
+[[person]]
+name.last = "Holycross"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "23"
+F_1B_PO = "211"
+F_1B_A = "8"
+F_1B_E = "9"
+F_1B_PCT = ".961"
+
+
+[[person]]
+name.last = "Steiger"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "11"
+F_1B_PO = "119"
+F_1B_A = "6"
+F_1B_E = "6"
+F_1B_PCT = ".954"
+
+
+[[person]]
+name.last = "Comingore"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "14"
+F_1B_PO = "158"
+F_1B_A = "9"
+F_1B_E = "11"
+F_1B_PCT = ".938"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "130"
+F_2B_PO = "371"
+F_2B_A = "380"
+F_2B_E = "19"
+F_2B_PCT = ".975"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "34"
+F_2B_A = "32"
+F_2B_E = "2"
+F_2B_PCT = ".971"
+
+
+[[person]]
+name.last = "Hickman"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "128"
+F_2B_PO = "449"
+F_2B_A = "368"
+F_2B_E = "40"
+F_2B_PCT = ".963"
+
+
+[[person]]
+name.last = "Magee"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "117"
+F_2B_PO = "374"
+F_2B_A = "373"
+F_2B_E = "39"
+F_2B_PCT = ".950"
+
+
+[[person]]
+name.last = "Jasper"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "54"
+F_2B_PO = "117"
+F_2B_A = "168"
+F_2B_E = "15"
+F_2B_PCT = ".950"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "26"
+F_2B_PO = "85"
+F_2B_A = "54"
+F_2B_E = "8"
+F_2B_PCT = ".946"
+
+
+[[person]]
+name.last = "Fremer"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "129"
+F_2B_PO = "305"
+F_2B_A = "303"
+F_2B_E = "36"
+F_2B_PCT = ".944"
+
+
+[[person]]
+name.last = "Staten"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "66"
+F_2B_PO = "190"
+F_2B_A = "220"
+F_2B_E = "25"
+F_2B_PCT = ".943"
+
+
+[[person]]
+name.last = "Roudebush"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "68"
+F_2B_PO = "183"
+F_2B_A = "158"
+F_2B_E = "21"
+F_2B_PCT = ".942"
+
+
+[[person]]
+name.last = "Padrone"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "32"
+F_2B_A = "32"
+F_2B_E = "4"
+F_2B_PCT = ".941"
+
+
+[[person]]
+name.last = "Vogel"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "144"
+F_2B_PO = "414"
+F_2B_A = "386"
+F_2B_E = "52"
+F_2B_PCT = ".939"
+
+
+[[person]]
+name.last = "Ronan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "42"
+F_2B_PO = "107"
+F_2B_A = "106"
+F_2B_E = "14"
+F_2B_PCT = ".938"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "64"
+F_2B_PO = "185"
+F_2B_A = "146"
+F_2B_E = "25"
+F_2B_PCT = ".930"
+
+
+[[person]]
+name.last = "Darringer"
+name.given = "H."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "37"
+F_2B_PO = "81"
+F_2B_A = "99"
+F_2B_E = "14"
+F_2B_PCT = ".928"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "16"
+F_3B_A = "26"
+F_3B_E = "2"
+F_3B_PCT = ".955"
+
+
+[[person]]
+name.last = "Wilkes"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "108"
+F_3B_PO = "144"
+F_3B_A = "255"
+F_3B_E = "21"
+F_3B_PCT = ".950"
+
+
+[[person]]
+name.last = "Cooley"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "32"
+F_3B_PO = "39"
+F_3B_A = "57"
+F_3B_E = "6"
+F_3B_PCT = ".941"
+
+
+[[person]]
+name.last = "Darringer"
+name.given = "C."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "24"
+F_3B_PO = "34"
+F_3B_A = "52"
+F_3B_E = "6"
+F_3B_PCT = ".935"
+
+
+[[person]]
+name.last = "Ingalls"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "61"
+F_3B_PO = "98"
+F_3B_A = "128"
+F_3B_E = "19"
+F_3B_PCT = ".922"
+
+
+[[person]]
+name.last = "Cooley"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "21"
+F_3B_A = "26"
+F_3B_E = "4"
+F_3B_PCT = ".921"
+
+
+[[person]]
+name.last = "Veach"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "24"
+F_3B_PO = "36"
+F_3B_A = "54"
+F_3B_E = "8"
+F_3B_PCT = ".919"
+
+
+[[person]]
+name.last = "Humphries"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "34"
+F_3B_PO = "41"
+F_3B_A = "49"
+F_3B_E = "8"
+F_3B_PCT = ".919"
+
+
+[[person]]
+name.last = "Meyers"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "90"
+F_3B_PO = "117"
+F_3B_A = "175"
+F_3B_E = "26"
+F_3B_PCT = ".918"
+
+
+[[person]]
+name.last = "Keenan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "131"
+F_3B_PO = "156"
+F_3B_A = "279"
+F_3B_E = "40"
+F_3B_PCT = ".912"
+
+
+[[person]]
+name.last = "McGuire"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "132"
+F_3B_PO = "166"
+F_3B_A = "273"
+F_3B_E = "43"
+F_3B_PCT = ".911"
+
+
+[[person]]
+name.last = "Kearns"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "11"
+F_3B_PO = "11"
+F_3B_A = "19"
+F_3B_E = "3"
+F_3B_PCT = ".909"
+
+
+[[person]]
+name.last = "Kelly"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "144"
+F_3B_PO = "155"
+F_3B_A = "340"
+F_3B_E = "50"
+F_3B_PCT = ".908"
+
+
+[[person]]
+name.last = "Bewer"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "131"
+F_3B_PO = "133"
+F_3B_A = "276"
+F_3B_E = "45"
+F_3B_PCT = ".901"
+
+
+[[person]]
+name.last = "Chase"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "10"
+F_3B_A = "26"
+F_3B_E = "4"
+F_3B_PCT = ".900"
+
+
+[[person]]
+name.last = "Hilley"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "29"
+F_3B_PO = "33"
+F_3B_A = "66"
+F_3B_E = "12"
+F_3B_PCT = ".892"
+
+
+[[person]]
+name.last = "Chapman"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "33"
+F_3B_PO = "48"
+F_3B_A = "79"
+F_3B_E = "16"
+F_3B_PCT = ".888"
+
+
+[[person]]
+name.last = "Stoefer"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "21"
+F_3B_PO = "29"
+F_3B_A = "48"
+F_3B_E = "10"
+F_3B_PCT = ".885"
+
+
+[[person]]
+name.last = "Delave"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "18"
+F_3B_PO = "18"
+F_3B_A = "41"
+F_3B_E = "10"
+F_3B_PCT = ".855"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "15"
+F_3B_PO = "18"
+F_3B_A = "16"
+F_3B_E = "6"
+F_3B_PCT = ".850"
+
+
+[[person]]
+name.last = "Breton"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "8"
+F_3B_A = "16"
+F_3B_E = "9"
+F_3B_PCT = ".727"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "129"
+F_SS_PO = "249"
+F_SS_A = "494"
+F_SS_E = "40"
+F_SS_PCT = ".949"
+
+
+[[person]]
+name.last = "Snyder"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "143"
+F_SS_PO = "267"
+F_SS_A = "488"
+F_SS_E = "48"
+F_SS_PCT = ".940"
+
+
+[[person]]
+name.last = "Staten"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "68"
+F_SS_PO = "179"
+F_SS_A = "222"
+F_SS_E = "26"
+F_SS_PCT = ".939"
+
+
+[[person]]
+name.last = "Humphries"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "14"
+F_SS_A = "27"
+F_SS_E = "3"
+F_SS_PCT = ".932"
+
+
+[[person]]
+name.last = "Nye"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "60"
+F_SS_PO = "120"
+F_SS_A = "160"
+F_SS_E = "23"
+F_SS_PCT = ".924"
+
+
+[[person]]
+name.last = "Darringer"
+name.given = "C."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "54"
+F_SS_PO = "87"
+F_SS_A = "163"
+F_SS_E = "21"
+F_SS_PCT = ".923"
+
+
+[[person]]
+name.last = "Darringer"
+name.given = "R."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "132"
+F_SS_PO = "250"
+F_SS_A = "424"
+F_SS_E = "62"
+F_SS_PCT = ".916"
+
+
+[[person]]
+name.last = "Leard"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "112"
+F_SS_PO = "262"
+F_SS_A = "307"
+F_SS_E = "54"
+F_SS_PCT = ".913"
+
+
+[[person]]
+name.last = "Blausser"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "121"
+F_SS_PO = "174"
+F_SS_A = "398"
+F_SS_E = "55"
+F_SS_PCT = ".912"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "105"
+F_SS_PO = "207"
+F_SS_A = "300"
+F_SS_E = "54"
+F_SS_PCT = ".904"
+
+
+[[person]]
+name.last = "Wilkes"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "27"
+F_SS_PO = "49"
+F_SS_A = "64"
+F_SS_E = "13"
+F_SS_PCT = ".897"
+
+
+[[person]]
+name.last = "Chapman"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "26"
+F_SS_PO = "48"
+F_SS_A = "70"
+F_SS_E = "15"
+F_SS_PCT = ".883"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "35"
+F_SS_PO = "66"
+F_SS_A = "95"
+F_SS_E = "22"
+F_SS_PCT = ".880"
+
+
+[[person]]
+name.last = "Kohl"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "69"
+F_SS_PO = "143"
+F_SS_A = "190"
+F_SS_E = "46"
+F_SS_PCT = ".879"
+
+
+[[person]]
+name.last = "Madigan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "15"
+F_LF_PO = "33"
+F_LF_A = "4"
+F_LF_E = "0"
+F_LF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "90"
+F_LF_PO = "197"
+F_LF_A = "13"
+F_LF_E = "3"
+F_LF_PCT = ".986"
+
+
+[[person]]
+name.last = "Erwin"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "15"
+F_LF_PO = "26"
+F_LF_A = "6"
+F_LF_E = "1"
+F_LF_PCT = ".970"
+
+
+[[person]]
+name.last = "Nadeau"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "93"
+F_LF_PO = "206"
+F_LF_A = "16"
+F_LF_E = "7"
+F_LF_PCT = ".969"
+
+
+[[person]]
+name.last = "Hildebrand"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "41"
+F_LF_PO = "87"
+F_LF_A = "6"
+F_LF_E = "3"
+F_LF_PCT = ".967"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "140"
+F_LF_PO = "273"
+F_LF_A = "21"
+F_LF_E = "11"
+F_LF_PCT = ".964"
+
+
+[[person]]
+name.last = "Schaller"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "135"
+F_LF_PO = "243"
+F_LF_A = "24"
+F_LF_E = "11"
+F_LF_PCT = ".960"
+
+
+[[person]]
+name.last = "Wakeley"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "12"
+F_LF_PO = "24"
+F_LF_A = "0"
+F_LF_E = "1"
+F_LF_PCT = ".960"
+
+
+[[person]]
+name.last = "Davidson"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "98"
+F_LF_PO = "152"
+F_LF_A = "13"
+F_LF_E = "7"
+F_LF_PCT = ".959"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "121"
+F_LF_PO = "226"
+F_LF_A = "11"
+F_LF_E = "11"
+F_LF_PCT = ".956"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "J."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "130"
+F_LF_PO = "203"
+F_LF_A = "17"
+F_LF_E = "9"
+F_LF_PCT = ".956"
+
+
+[[person]]
+name.last = "Godwin"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "111"
+F_LF_PO = "208"
+F_LF_A = "17"
+F_LF_E = "11"
+F_LF_PCT = ".953"
+
+
+[[person]]
+name.last = "Hunter"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "32"
+F_LF_PO = "36"
+F_LF_A = "8"
+F_LF_E = "3"
+F_LF_PCT = ".936"
+
+
+[[person]]
+name.last = "Manusch"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "15"
+F_LF_PO = "31"
+F_LF_A = "0"
+F_LF_E = "3"
+F_LF_PCT = ".912"
+
+
+[[person]]
+name.last = "Irby"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "39"
+F_LF_PO = "61"
+F_LF_A = "4"
+F_LF_E = "7"
+F_LF_PCT = ".903"
+
+
+[[person]]
+name.last = "Hildebrand"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "16"
+F_CF_PO = "21"
+F_CF_A = "1"
+F_CF_E = "0"
+F_CF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Darringer"
+name.given = "H."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "68"
+F_CF_PO = "144"
+F_CF_A = "9"
+F_CF_E = "1"
+F_CF_PCT = ".994"
+
+
+[[person]]
+name.last = "Lofton"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "123"
+F_CF_PO = "247"
+F_CF_A = "24"
+F_CF_E = "3"
+F_CF_PCT = ".989"
+
+
+[[person]]
+name.last = "Long"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "127"
+F_CF_PO = "293"
+F_CF_A = "20"
+F_CF_E = "4"
+F_CF_PCT = ".987"
+
+
+[[person]]
+name.last = "Blitz"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "127"
+F_CF_PO = "239"
+F_CF_A = "19"
+F_CF_E = "5"
+F_CF_PCT = ".981"
+
+
+[[person]]
+name.last = "Reagan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "41"
+F_CF_PO = "72"
+F_CF_A = "5"
+F_CF_E = "2"
+F_CF_PCT = ".975"
+
+
+[[person]]
+name.last = "Reidy"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "135"
+F_CF_PO = "287"
+F_CF_A = "15"
+F_CF_E = "8"
+F_CF_PCT = ".974"
+
+
+[[person]]
+name.last = "Cuthbert"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "12"
+F_CF_PO = "25"
+F_CF_A = "1"
+F_CF_E = "2"
+F_CF_PCT = ".964"
+
+
+[[person]]
+name.last = "Callahan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "141"
+F_CF_PO = "275"
+F_CF_A = "16"
+F_CF_E = "12"
+F_CF_PCT = ".960"
+
+
+[[person]]
+name.last = "Ohland"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "142"
+F_CF_PO = "314"
+F_CF_A = "18"
+F_CF_E = "15"
+F_CF_PCT = ".957"
+
+
+[[person]]
+name.last = "Kaylor"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "29"
+F_CF_PO = "60"
+F_CF_A = "7"
+F_CF_E = "3"
+F_CF_PCT = ".957"
+
+
+[[person]]
+name.last = "Backoff"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "27"
+F_CF_PO = "52"
+F_CF_A = "4"
+F_CF_E = "3"
+F_CF_PCT = ".949"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "100"
+F_CF_PO = "238"
+F_CF_A = "15"
+F_CF_E = "13"
+F_CF_PCT = ".945"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "12"
+F_RF_PO = "18"
+F_RF_A = "0"
+F_RF_E = "0"
+F_RF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Coombs"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "11"
+F_RF_PO = "12"
+F_RF_A = "1"
+F_RF_E = "0"
+F_RF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Hildebrand"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "11"
+F_RF_PO = "12"
+F_RF_A = "0"
+F_RF_E = "0"
+F_RF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Meloan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "83"
+F_RF_PO = "104"
+F_RF_A = "14"
+F_RF_E = "2"
+F_RF_PCT = ".982"
+
+
+[[person]]
+name.last = "Erwin"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "42"
+F_RF_PO = "55"
+F_RF_A = "2"
+F_RF_E = "1"
+F_RF_PCT = ".982"
+
+
+[[person]]
+name.last = "Diebolt"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "28"
+F_RF_PO = "46"
+F_RF_A = "1"
+F_RF_E = "1"
+F_RF_PCT = ".979"
+
+
+[[person]]
+name.last = "Cuthbert"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "93"
+F_RF_PO = "109"
+F_RF_A = "18"
+F_RF_E = "3"
+F_RF_PCT = ".977"
+
+
+[[person]]
+name.last = "Madigan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "81"
+F_RF_PO = "95"
+F_RF_A = "9"
+F_RF_E = "3"
+F_RF_PCT = ".972"
+
+
+[[person]]
+name.last = "Darringer"
+name.given = "H."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "24"
+F_RF_PO = "32"
+F_RF_A = "1"
+F_RF_E = "1"
+F_RF_PCT = ".971"
+
+
+[[person]]
+name.last = "Long"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "139"
+F_RF_PO = "199"
+F_RF_A = "15"
+F_RF_E = "7"
+F_RF_PCT = ".968"
+
+
+[[person]]
+name.last = "Geyer"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "75"
+F_RF_PO = "100"
+F_RF_A = "7"
+F_RF_E = "4"
+F_RF_PCT = ".964"
+
+
+[[person]]
+name.last = "Buelow"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "88"
+F_RF_PO = "114"
+F_RF_A = "14"
+F_RF_E = "7"
+F_RF_PCT = ".948"
+
+
+[[person]]
+name.last = "Manusch"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "129"
+F_RF_PO = "153"
+F_RF_A = "6"
+F_RF_E = "9"
+F_RF_PCT = ".946"
+
+
+[[person]]
+name.last = "Rowan"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "15"
+F_RF_PO = "16"
+F_RF_A = "1"
+F_RF_E = "1"
+F_RF_PCT = ".944"
+
+
+[[person]]
+name.last = "Humes"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "16"
+F_RF_PO = "15"
+F_RF_A = "1"
+F_RF_E = "1"
+F_RF_PCT = ".941"
+
+
+[[person]]
+name.last = "Hopkins"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "68"
+F_RF_PO = "70"
+F_RF_A = "7"
+F_RF_E = "5"
+F_RF_PCT = ".930"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "12"
+F_RF_PO = "11"
+F_RF_A = "2"
+F_RF_E = "1"
+F_RF_PCT = ".929"
+
+
+[[person]]
+name.last = "Holycross"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "49"
+F_RF_PO = "54"
+F_RF_A = "4"
+F_RF_E = "5"
+F_RF_PCT = ".922"
+
+
+[[person]]
+name.last = "Novacek"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "17"
+F_RF_PO = "20"
+F_RF_A = "0"
+F_RF_E = "2"
+F_RF_PCT = ".909"
+
+
+[[person]]
+name.last = "Middleton"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "23"
+F_RF_PO = "25"
+F_RF_A = "1"
+F_RF_E = "4"
+F_RF_PCT = ".867"
+
+
+[[person]]
+name.last = "Ochs"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "10"
+F_RF_PO = "12"
+F_RF_A = "1"
+F_RF_E = "2"
+F_RF_PCT = ".867"
+
+
+[[person]]
+name.last = "Hartley"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "168"
+F_C_A = "26"
+F_C_E = "2"
+F_C_PCT = ".990"
+
+
+[[person]]
+name.last = "Asmussen"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "110"
+F_C_PO = "642"
+F_C_A = "162"
+F_C_E = "10"
+F_C_PCT = ".985"
+
+
+[[person]]
+name.last = "Wolfe"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "112"
+F_C_PO = "562"
+F_C_A = "112"
+F_C_E = "11"
+F_C_PCT = ".984"
+
+
+[[person]]
+name.last = "O’Leary"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "100"
+F_C_PO = "601"
+F_C_A = "144"
+F_C_E = "13"
+F_C_PCT = ".983"
+
+
+[[person]]
+name.last = "Starke"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "44"
+F_C_PO = "299"
+F_C_A = "54"
+F_C_E = "6"
+F_C_PCT = ".983"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "E."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "102"
+F_C_PO = "551"
+F_C_A = "110"
+F_C_E = "12"
+F_C_PCT = ".982"
+
+
+[[person]]
+name.last = "Coveney"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "27"
+F_C_PO = "125"
+F_C_A = "38"
+F_C_E = "3"
+F_C_PCT = ".982"
+
+
+[[person]]
+name.last = "Waters"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "33"
+F_C_PO = "151"
+F_C_A = "41"
+F_C_E = "4"
+F_C_PCT = ".980"
+
+
+[[person]]
+name.last = "Searles"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "37"
+F_C_PO = "182"
+F_C_A = "46"
+F_C_E = "5"
+F_C_PCT = ".979"
+
+
+[[person]]
+name.last = "Harrington"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "105"
+F_C_PO = "533"
+F_C_A = "168"
+F_C_E = "16"
+F_C_PCT = ".978"
+
+
+[[person]]
+name.last = "Boucher"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "90"
+F_C_PO = "428"
+F_C_A = "113"
+F_C_E = "12"
+F_C_PCT = ".978"
+
+
+[[person]]
+name.last = "Pierce"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "12"
+F_C_PO = "73"
+F_C_A = "8"
+F_C_E = "2"
+F_C_PCT = ".976"
+
+
+[[person]]
+name.last = "Erwin"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "27"
+F_C_PO = "112"
+F_C_A = "39"
+F_C_E = "4"
+F_C_PCT = ".974"
+
+
+[[person]]
+name.last = "Hildebrand"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "16"
+F_C_PO = "80"
+F_C_A = "27"
+F_C_E = "3"
+F_C_PCT = ".973"
+
+
+[[person]]
+name.last = "Kelly"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "24"
+F_C_PO = "105"
+F_C_A = "33"
+F_C_E = "4"
+F_C_PCT = ".972"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "44"
+F_C_PO = "182"
+F_C_A = "60"
+F_C_E = "8"
+F_C_PCT = ".968"
+
+
+[[person]]
+name.last = "Wolfe"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "20"
+F_C_PO = "91"
+F_C_A = "24"
+F_C_E = "4"
+F_C_PCT = ".966"
+
+
+[[person]]
+name.last = "Mason"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "25"
+F_C_PO = "132"
+F_C_A = "33"
+F_C_E = "6"
+F_C_PCT = ".965"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "41"
+F_C_PO = "204"
+F_C_A = "60"
+F_C_E = "10"
+F_C_PCT = ".964"
+
+
+[[person]]
+name.last = "Nunamaker"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "113"
+F_C_PO = "461"
+F_C_A = "145"
+F_C_E = "34"
+F_C_PCT = ".947"
+
+
+[[person]]
+name.last = "Coleman"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "33"
+F_C_PO = "148"
+F_C_A = "29"
+F_C_E = "13"
+F_C_PCT = ".932"
+
+
+[[person]]
+name.last = "Lakaff"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "3"
+F_P_A = "65"
+F_P_E = "0"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Loomis"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "6"
+F_P_A = "89"
+F_P_E = "1"
+F_P_PCT = ".990"
+
+
+[[person]]
+name.last = "Glass"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "9"
+F_P_A = "43"
+F_P_E = "1"
+F_P_PCT = ".981"
+
+
+[[person]]
+name.last = "Steiger"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "5"
+F_P_A = "45"
+F_P_E = "1"
+F_P_PCT = ".980"
+
+
+[[person]]
+name.last = "Patton"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "10"
+F_P_A = "79"
+F_P_E = "2"
+F_P_PCT = ".978"
+
+
+[[person]]
+name.last = "Davidson"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "2"
+F_P_A = "87"
+F_P_E = "2"
+F_P_PCT = ".978"
+
+
+[[person]]
+name.last = "Schmirler"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "5"
+F_P_A = "38"
+F_P_E = "1"
+F_P_PCT = ".977"
+
+
+[[person]]
+name.last = "Woods"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "6"
+F_P_A = "67"
+F_P_E = "2"
+F_P_PCT = ".973"
+
+
+[[person]]
+name.last = "Holycross"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "8"
+F_P_A = "57"
+F_P_E = "2"
+F_P_PCT = ".970"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "5"
+F_P_A = "57"
+F_P_E = "2"
+F_P_PCT = ".969"
+
+
+[[person]]
+name.last = "Faber"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "43"
+F_P_PO = "16"
+F_P_A = "106"
+F_P_E = "4"
+F_P_PCT = ".968"
+
+
+[[person]]
+name.last = "Pinnance"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "7"
+F_P_A = "51"
+F_P_E = "2"
+F_P_PCT = ".967"
+
+
+[[person]]
+name.last = "Akers"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "3"
+F_P_A = "26"
+F_P_E = "1"
+F_P_PCT = ".967"
+
+
+[[person]]
+name.last = "Parkins"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "2"
+F_P_A = "52"
+F_P_E = "2"
+F_P_PCT = ".964"
+
+
+[[person]]
+name.last = "Middleton"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "3"
+F_P_A = "49"
+F_P_E = "2"
+F_P_PCT = ".963"
+
+
+[[person]]
+name.last = "Delave"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "3"
+F_P_A = "45"
+F_P_E = "2"
+F_P_PCT = ".960"
+
+
+[[person]]
+name.last = "Chapman"
+name.given = "H."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "6"
+F_P_A = "86"
+F_P_E = "4"
+F_P_PCT = ".958"
+
+
+[[person]]
+name.last = "Reynolds"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "5"
+F_P_A = "83"
+F_P_E = "4"
+F_P_PCT = ".957"
+
+
+[[person]]
+name.last = "Magee"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "2"
+F_P_A = "64"
+F_P_E = "3"
+F_P_PCT = ".956"
+
+
+[[person]]
+name.last = "Rover"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "4"
+F_P_A = "93"
+F_P_E = "5"
+F_P_PCT = ".951"
+
+
+[[person]]
+name.last = "Schroeder"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "8"
+F_P_A = "68"
+F_P_E = "4"
+F_P_PCT = ".949"
+
+
+[[person]]
+name.last = "Couchman"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "10"
+F_P_A = "78"
+F_P_E = "5"
+F_P_PCT = ".945"
+
+
+[[person]]
+name.last = "Queisser"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "11"
+F_P_A = "91"
+F_P_E = "6"
+F_P_PCT = ".944"
+
+
+[[person]]
+name.last = "Clarke"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "13"
+F_P_A = "119"
+F_P_E = "8"
+F_P_PCT = ".943"
+
+
+[[person]]
+name.last = "Hendricks"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "4"
+F_P_A = "45"
+F_P_E = "3"
+F_P_PCT = ".942"
+
+
+[[person]]
+name.last = "Mercer"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "3"
+F_P_A = "29"
+F_P_E = "2"
+F_P_PCT = ".941"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "4"
+F_P_A = "89"
+F_P_E = "6"
+F_P_PCT = ".939"
+
+
+[[person]]
+name.last = "Ferrias"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "15"
+F_P_A = "105"
+F_P_E = "8"
+F_P_PCT = ".938"
+
+
+[[person]]
+name.last = "Cavet"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "6"
+F_P_A = "97"
+F_P_E = "7"
+F_P_PCT = ".936"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "8"
+F_P_A = "76"
+F_P_E = "6"
+F_P_PCT = ".933"
+
+
+[[person]]
+name.last = "Duffy"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "4"
+F_P_A = "66"
+F_P_E = "5"
+F_P_PCT = ".933"
+
+
+[[person]]
+name.last = "Benz"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "7"
+F_P_A = "69"
+F_P_E = "6"
+F_P_PCT = ".927"
+
+
+[[person]]
+name.last = "Dick"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Island"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "5"
+F_P_A = "51"
+F_P_E = "5"
+F_P_PCT = ".918"
+
+
+[[person]]
+name.last = "Cook"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "17"
+F_P_A = "102"
+F_P_E = "11"
+F_P_PCT = ".915"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "7"
+F_P_A = "81"
+F_P_E = "9"
+F_P_PCT = ".907"
+
+
+[[person]]
+name.last = "Laudermilk"
+name.given = "G."
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "44"
+F_P_PO = "3"
+F_P_A = "93"
+F_P_E = "10"
+F_P_PCT = ".906"
+
+
+[[person]]
+name.last = "Hovlik"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "3"
+F_P_A = "63"
+F_P_E = "7"
+F_P_PCT = ".904"
+
+
+[[person]]
+name.last = "Ovitz"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "10"
+F_P_A = "55"
+F_P_E = "7"
+F_P_PCT = ".903"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "1"
+F_P_A = "32"
+F_P_E = "9"
+F_P_PCT = ".902"
+
+
+[[person]]
+name.last = "Humes"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "7"
+F_P_A = "84"
+F_P_E = "10"
+F_P_PCT = ".901"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "6"
+F_P_A = "72"
+F_P_E = "11"
+F_P_PCT = ".876"
+
+
+[[person]]
+name.last = "Prendergast"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "0"
+F_P_A = "26"
+F_P_E = "4"
+F_P_PCT = ".857"
+
+
+[[person]]
+name.last = "Gilbert"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "10"
+F_P_A = "60"
+F_P_E = "14"
+F_P_PCT = ".850"
+
+
+[[person]]
+name.last = "Archer"
+[[person.playing]]
+season = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "8"
+F_P_A = "93"
+F_P_E = "19"
+F_P_PCT = ".872"

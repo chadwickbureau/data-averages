@@ -1,0 +1,76 @@
+[[team]]
+name = "Manistee"
+[[team.playing]]
+season = "1913"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3116"
+F_A = "1472"
+F_E = "227"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1913"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3756"
+F_A = "1507"
+F_E = "260"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1913"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3347"
+F_A = "1518"
+F_E = "250"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Traverse City"
+[[team.playing]]
+season = "1913"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3158"
+F_A = "1561"
+F_E = "254"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Ludington"
+[[team.playing]]
+season = "1913"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2524"
+F_A = "1335"
+F_E = "230"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Boyne City"
+[[team.playing]]
+season = "1913"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3098"
+F_A = "1487"
+F_E = "301"
+F_PCT = ".938"

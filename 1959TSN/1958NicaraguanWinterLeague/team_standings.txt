@@ -1,0 +1,102 @@
+[[team]]
+name = "Boer"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "10"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Cinco Estrellas"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "15"
+R_L = "15"
+R_PCT = ".500"
+R_RANK = "2"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "13"
+R_L = "17"
+R_PCT = ".433"
+R_RANK = "3"
+
+
+[[team]]
+name = "Oriental"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "12"
+R_L = "18"
+R_PCT = ".400"
+R_RANK = "4"
+
+
+[[team]]
+name = "Oriental"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "17"
+R_L = "13"
+R_PCT = ".567"
+R_RANK = "1"
+
+
+[[team]]
+name = "Boer"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "16"
+R_L = "14"
+R_PCT = ".533"
+R_RANK = "2"
+
+
+[[team]]
+name = "Cinco Estrellas"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "15"
+R_L = "15"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1958"
+league.name = "Nicaraguan Winter League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "12"
+R_L = "18"
+R_PCT = ".400"
+R_RANK = "4"

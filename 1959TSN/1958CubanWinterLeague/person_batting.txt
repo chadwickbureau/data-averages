@@ -1,0 +1,338 @@
+[[person]]
+name.last = "Taylor"
+name.given = "Tony"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+B_AB = "290"
+B_H = "88"
+B_HR = "4"
+B_RBI = "33"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Tasby"
+name.given = "Willie"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_AB = "268"
+B_H = "76"
+B_HR = "8"
+B_RBI = "28"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Goryl"
+name.given = "John"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+B_AB = "264"
+B_H = "75"
+B_HR = "7"
+B_RBI = "33"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Mejias"
+name.given = "Roman"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+B_AB = "264"
+B_H = "73"
+B_HR = "5"
+B_RBI = "23"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Browne"
+name.given = "Pidge"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_AB = "276"
+B_H = "75"
+B_HR = "6"
+B_RBI = "37"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Jim"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+B_AB = "151"
+B_H = "41"
+B_HR = "0"
+B_RBI = "11"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Minoso"
+name.given = "Minnie"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+B_AB = "233"
+B_H = "60"
+B_HR = "5"
+B_RBI = "25"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Pearson"
+name.given = "Albie"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_AB = "271"
+B_H = "70"
+B_HR = "1"
+B_RBI = "11"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Paula"
+name.given = "Carlos"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+B_AB = "195"
+B_H = "52"
+B_HR = "8"
+B_RBI = "29"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Friol"
+name.given = "Rene"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+B_AB = "132"
+B_H = "34"
+B_HR = "0"
+B_RBI = "18"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Cardenal"
+name.given = "Pedro"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_AB = "263"
+B_H = "67"
+B_HR = "4"
+B_RBI = "21"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Miranda"
+name.given = "Willy"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+B_AB = "223"
+B_H = "55"
+B_HR = "1"
+B_RBI = "15"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Amoros"
+name.given = "Sandy"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+B_AB = "215"
+B_H = "53"
+B_HR = "1"
+B_RBI = "20"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Nelson"
+name.given = "Rocky"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+B_AB = "253"
+B_H = "62"
+B_HR = "5"
+B_RBI = "22"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Scull"
+name.given = "Angel"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+B_AB = "288"
+B_H = "70"
+B_HR = "1"
+B_RBI = "15"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Becquer"
+name.given = "Julio"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+B_AB = "284"
+B_H = "68"
+B_HR = "3"
+B_RBI = "20"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Lau"
+name.given = "Charley"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marianao"
+[person.playing.totals]
+B_AB = "148"
+B_H = "35"
+B_HR = "2"
+B_RBI = "13"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "Tony"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cienfuegos"
+[person.playing.totals]
+B_AB = "170"
+B_H = "40"
+B_HR = "1"
+B_RBI = "12"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Dick"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Almendares"
+[person.playing.totals]
+B_AB = "276"
+B_H = "64"
+B_HR = "8"
+B_RBI = "30"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Peterson"
+name.given = "Buddy"
+[[person.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_AB = "260"
+B_H = "60"
+B_HR = "0"
+B_RBI = "19"
+B_AVG = ".231"

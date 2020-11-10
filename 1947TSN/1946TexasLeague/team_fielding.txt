@@ -1,0 +1,166 @@
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+P_IP = "1401"
+F_PO = "4121"
+F_A = "1727"
+F_E = "210"
+F_TC = "6058"
+F_PB = "20"
+F_DP = "118"
+F_TP = "1"
+F_SB = "80"
+F_CS = "94"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+P_IP = "1348"
+F_PO = "3935"
+F_A = "1821"
+F_E = "234"
+F_TC = "5990"
+F_PB = "11"
+F_DP = "131"
+F_TP = "0"
+F_SB = "81"
+F_CS = "58"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+P_IP = "1356"
+F_PO = "3938"
+F_A = "1593"
+F_E = "239"
+F_TC = "5770"
+F_PB = "14"
+F_DP = "111"
+F_TP = "0"
+F_SB = "92"
+F_CS = "68"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+P_IP = "1370"
+F_PO = "3974"
+F_A = "1824"
+F_E = "251"
+F_TC = "6049"
+F_PB = "16"
+F_DP = "133"
+F_TP = "0"
+F_SB = "105"
+F_CS = "55"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+P_IP = "1398"
+F_PO = "4132"
+F_A = "1651"
+F_E = "257"
+F_TC = "6040"
+F_PB = "21"
+F_DP = "110"
+F_TP = "1"
+F_SB = "85"
+F_CS = "57"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+P_IP = "1369"
+F_PO = "3998"
+F_A = "1693"
+F_E = "254"
+F_TC = "5945"
+F_PB = "18"
+F_DP = "156"
+F_TP = "0"
+F_SB = "87"
+F_CS = "66"
+F_PCT = ".957"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+P_IP = "1352"
+F_PO = "3968"
+F_A = "1683"
+F_E = "276"
+F_TC = "5927"
+F_PB = "16"
+F_DP = "119"
+F_TP = "2"
+F_SB = "100"
+F_CS = "33"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+P_IP = "1367"
+F_PO = "4032"
+F_A = "1761"
+F_E = "294"
+F_TC = "6097"
+F_PB = "15"
+F_DP = "148"
+F_TP = "0"
+F_SB = "109"
+F_CS = "72"
+F_PCT = ".952"

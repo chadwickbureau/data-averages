@@ -1,0 +1,88 @@
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3126"
+F_A = "1475"
+F_E = "235"
+F_TC = "4836"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Beeville"
+[[team.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3286"
+F_A = "1523"
+F_E = "257"
+F_TC = "5066"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_PO = "3011"
+F_A = "1452"
+F_E = "234"
+F_TC = "4697"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Laredo"
+[[team.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3199"
+F_A = "1665"
+F_E = "285"
+F_TC = "5149"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Corpus Christi"
+[[team.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3073"
+F_A = "1551"
+F_E = "271"
+F_TC = "4895"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Brownsville"
+[[team.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3126"
+F_A = "1488"
+F_E = "290"
+F_TC = "4904"
+F_PCT = ".941"

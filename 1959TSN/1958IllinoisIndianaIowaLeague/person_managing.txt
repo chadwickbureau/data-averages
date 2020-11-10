@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Monchak"
+name.given = "Alex"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cedar Rapids"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hutchinson"
+name.given = "Ira"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Davenport"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Reiser"
+name.given = "Harold (Pete)"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Green Bay"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dixon"
+name.given = "Walter"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Burlington"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Storie"
+name.given = "Burl"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rochester/Winona"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Spencer"
+name.given = "Leverette"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rochester/Winona"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kruasse"
+name.given = "Lewis"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rochester/Winona"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Suder"
+name.given = "Peter"
+[[person.managing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fox Cities"
+S_ORDER = "0"
+[person.managing.totals]

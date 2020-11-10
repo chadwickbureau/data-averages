@@ -1,0 +1,76 @@
+[[person]]
+name.last = "Garcia"
+name.given = "Ernesto"
+[[person.managing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Nogales"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Espinoza"
+name.given = "Javier"
+[[person.managing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Luis Rio Colorado"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bustamante"
+name.given = "Jesus"
+[[person.managing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Puerto Penasco"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Frayde"
+name.given = "Guillermo"
+[[person.managing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ensenada"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ruiz"
+name.given = "Mauro"
+[[person.managing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexicali"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "Sergio"
+[[person.managing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Caborca"
+S_ORDER = "0"
+[person.managing.totals]

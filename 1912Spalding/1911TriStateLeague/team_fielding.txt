@@ -1,0 +1,102 @@
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2914"
+F_A = "1367"
+F_E = "142"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Johnstown"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2809"
+F_A = "1353"
+F_E = "171"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Altoona"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2802"
+F_A = "1434"
+F_E = "186"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2894"
+F_A = "1599"
+F_E = "208"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2786"
+F_A = "1332"
+F_E = "197"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2826"
+F_A = "1344"
+F_E = "217"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2768"
+F_A = "1379"
+F_E = "224"
+F_PCT = ".949"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2856"
+F_A = "1428"
+F_E = "245"
+F_PCT = ".946"

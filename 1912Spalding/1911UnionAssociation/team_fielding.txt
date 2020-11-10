@@ -1,0 +1,82 @@
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1911"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3580"
+F_A = "1577"
+F_E = "305"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1911"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_PO = "3772"
+F_A = "1668"
+F_E = "341"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1911"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3779"
+F_A = "1724"
+F_E = "387"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Helena"
+[[team.playing]]
+season = "1911"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3614"
+F_A = "1691"
+F_E = "383"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1911"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3671"
+F_A = "1638"
+F_E = "419"
+F_PCT = ".927"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1911"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3631"
+F_A = "1691"
+F_E = "505"
+F_PCT = ".913"

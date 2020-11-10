@@ -1,0 +1,315 @@
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_W = "9"
+P_L = "0"
+P_SHO = "3"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Culver"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_W = "9"
+P_L = "4"
+P_SHO = "0"
+P_PCT = ".692"
+
+
+[[person]]
+name.last = "Quinlan"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_W = "8"
+P_L = "5"
+P_SHO = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Stoffer"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_W = "14"
+P_L = "7"
+P_SHO = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "McKee"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+P_W = "13"
+P_L = "7"
+P_SHO = "1"
+P_PCT = ".650"
+
+
+[[person]]
+name.last = "Thrailkill"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+P_W = "16"
+P_L = "9"
+P_SHO = "1"
+P_PCT = ".640"
+
+
+[[person]]
+name.last = "O'Byrne"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_W = "17"
+P_L = "10"
+P_SHO = "2"
+P_PCT = ".630"
+
+
+[[person]]
+name.last = "Trimble"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_W = "5"
+P_L = "3"
+P_SHO = "1"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Shimeall"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+P_W = "8"
+P_L = "6"
+P_SHO = "1"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_W = "7"
+P_L = "7"
+P_SHO = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Harrah"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+P_W = "7"
+P_L = "7"
+P_SHO = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_W = "7"
+P_L = "10"
+P_SHO = "2"
+P_PCT = ".412"
+
+
+[[person]]
+name.last = "McDonald"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+P_W = "8"
+P_L = "12"
+P_SHO = "1"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "LaFlambois"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_W = "8"
+P_L = "12"
+P_SHO = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Fulton"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+P_W = "9"
+P_L = "14"
+P_SHO = "0"
+P_PCT = ".391"
+
+
+[[person]]
+name.last = "Womack"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McVey"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Speaks"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Burnett"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lemley"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lillis"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Winspear"
+[[person.playing]]
+season = "1913"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]

@@ -1,0 +1,126 @@
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4156"
+B_R = "585"
+B_H = "1104"
+B_SH = "221"
+B_SB = "251"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4280"
+B_R = "549"
+B_H = "1060"
+B_SH = "232"
+B_SB = "290"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "133"
+B_AB = "4147"
+B_R = "466"
+B_H = "1024"
+B_SH = "223"
+B_SB = "206"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4015"
+B_R = "506"
+B_H = "982"
+B_SH = "145"
+B_SB = "178"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4044"
+B_R = "480"
+B_H = "981"
+B_SH = "192"
+B_SB = "189"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "94"
+B_AB = "2995"
+B_R = "390"
+B_H = "708"
+B_SH = "94"
+B_SB = "141"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4003"
+B_R = "437"
+B_H = "893"
+B_SH = "195"
+B_SB = "187"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "86"
+B_AB = "2608"
+B_R = "274"
+B_H = "562"
+B_SH = "117"
+B_SB = "120"
+B_AVG = ".215"

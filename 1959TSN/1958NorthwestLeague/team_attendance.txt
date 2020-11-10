@@ -1,0 +1,58 @@
+[[team]]
+name = "Eugene"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "83879"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "64976"
+
+
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "64974"
+
+
+[[team]]
+name = "Wenatchee"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "57074"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "47756"
+
+
+[[team]]
+name = "Tri-City"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "45283"

@@ -1,0 +1,776 @@
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "180"
+P_AB = "687"
+P_H = "105"
+P_BB = "103"
+P_SO = "102"
+P_ER = "30"
+P_W = "15"
+P_L = "4"
+P_ERA = "1.50"
+
+
+[[person]]
+name.last = "Hoffman"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "232"
+P_AB = "917"
+P_H = "197"
+P_BB = "56"
+P_SO = "69"
+P_ER = "52"
+P_W = "17"
+P_L = "8"
+P_ERA = "2.02"
+
+
+[[person]]
+name.last = "Black"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "254"
+P_AB = "1018"
+P_H = "210"
+P_BB = "77"
+P_SO = "159"
+P_ER = "58"
+P_W = "18"
+P_L = "10"
+P_ERA = "2.06"
+
+
+[[person]]
+name.last = "Glass"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "65"
+P_AB = "265"
+P_H = "42"
+P_BB = "32"
+P_SO = "17"
+P_ER = "15"
+P_W = "5"
+P_L = "3"
+P_ERA = "2.08"
+
+
+[[person]]
+name.last = "Gunkel"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "171"
+P_AB = "690"
+P_H = "136"
+P_BB = "49"
+P_SO = "90"
+P_ER = "41"
+P_W = "10"
+P_L = "11"
+P_ERA = "2.16"
+
+
+[[person]]
+name.last = "Romine"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "253"
+P_AB = "1025"
+P_H = "190"
+P_BB = "116"
+P_SO = "92"
+P_ER = "62"
+P_W = "19"
+P_L = "10"
+P_ERA = "2.21"
+
+
+[[person]]
+name.last = "Gould"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "155"
+P_AB = "621"
+P_H = "105"
+P_BB = "62"
+P_SO = "109"
+P_ER = "38"
+P_W = "13"
+P_L = "6"
+P_ERA = "2.21"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Quincy"
+[person.playing.totals]
+P_IP = "291"
+P_AB = "1189"
+P_H = "273"
+P_BB = "73"
+P_SO = "113"
+P_ER = "72"
+P_W = "20"
+P_L = "17"
+P_ERA = "2.23"
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "277"
+P_AB = "1280"
+P_H = "249"
+P_BB = "109"
+P_SO = "111"
+P_ER = "72"
+P_W = "23"
+P_L = "12"
+P_ERA = "2.31"
+
+
+[[person]]
+name.last = "Marion"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "232"
+P_AB = "986"
+P_H = "241"
+P_BB = "70"
+P_SO = "80"
+P_ER = "63"
+P_W = "19"
+P_L = "9"
+P_ERA = "2.44"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "225"
+P_AB = "929"
+P_H = "200"
+P_BB = "73"
+P_SO = "96"
+P_ER = "61"
+P_W = "15"
+P_L = "9"
+P_ERA = "2.44"
+
+
+[[person]]
+name.last = "Schlausker"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "280"
+P_AB = "1142"
+P_H = "255"
+P_BB = "76"
+P_SO = "121"
+P_ER = "77"
+P_W = "18"
+P_L = "14"
+P_ERA = "2.48"
+
+
+[[person]]
+name.last = "Shears"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "170"
+P_AB = "742"
+P_H = "197"
+P_BB = "40"
+P_SO = "46"
+P_ER = "48"
+P_W = "7"
+P_L = "12"
+P_ERA = "2.49"
+
+
+[[person]]
+name.last = "Higbee"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "281"
+P_AB = "1213"
+P_H = "273"
+P_BB = "110"
+P_SO = "84"
+P_ER = "78"
+P_W = "20"
+P_L = "14"
+P_ERA = "2.50"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "94"
+P_AB = "376"
+P_H = "94"
+P_BB = "14"
+P_SO = "49"
+P_ER = "27"
+P_W = "6"
+P_L = "4"
+P_ERA = "2.60"
+
+
+[[person]]
+name.last = "Burnham"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "214"
+P_AB = "858"
+P_H = "204"
+P_BB = "47"
+P_SO = "102"
+P_ER = "62"
+P_W = "17"
+P_L = "7"
+P_ERA = "2.61"
+
+
+[[person]]
+name.last = "Crabb"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "239"
+P_AB = "1000"
+P_H = "246"
+P_BB = "73"
+P_SO = "83"
+P_ER = "71"
+P_W = "19"
+P_L = "9"
+P_ERA = "2.68"
+
+
+[[person]]
+name.last = "Bluejacket"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "132"
+P_AB = "607"
+P_H = "123"
+P_BB = "24"
+P_SO = "59"
+P_ER = "40"
+P_W = "11"
+P_L = "4"
+P_ERA = "2.72"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "112"
+P_AB = "503"
+P_H = "100"
+P_BB = "45"
+P_SO = "43"
+P_ER = "34"
+P_W = "4"
+P_L = "9"
+P_ERA = "2.75"
+
+
+[[person]]
+name.last = "Eller"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "142"
+P_AB = "583"
+P_H = "146"
+P_BB = "41"
+P_SO = "116"
+P_ER = "44"
+P_W = "9"
+P_L = "8"
+P_ERA = "2.78"
+
+
+[[person]]
+name.last = "Carlson"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "291"
+P_AB = "1143"
+P_H = "247"
+P_BB = "89"
+P_SO = "154"
+P_ER = "90"
+P_W = "23"
+P_L = "13"
+P_ERA = "2.79"
+
+
+[[person]]
+name.last = "Watson"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "215"
+P_AB = "917"
+P_H = "217"
+P_BB = "85"
+P_SO = "102"
+P_ER = "67"
+P_W = "14"
+P_L = "12"
+P_ERA = "2.80"
+
+
+[[person]]
+name.last = "Beard"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "86"
+P_AB = "352"
+P_H = "63"
+P_BB = "63"
+P_SO = "31"
+P_ER = "28"
+P_W = "1"
+P_L = "7"
+P_ERA = "2.86"
+
+
+[[person]]
+name.last = "Richmond"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "78"
+P_AB = "328"
+P_H = "67"
+P_BB = "31"
+P_SO = "26"
+P_ER = "25"
+P_W = "4"
+P_L = "4"
+P_ERA = "2.87"
+
+
+[[person]]
+name.last = "Bryant"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "105"
+P_AB = "457"
+P_H = "104"
+P_BB = "43"
+P_SO = "33"
+P_ER = "34"
+P_W = "8"
+P_L = "4"
+P_ERA = "2.90"
+
+
+[[person]]
+name.last = "Neal"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "258"
+P_AB = "1095"
+P_H = "276"
+P_BB = "47"
+P_SO = "81"
+P_ER = "84"
+P_W = "13"
+P_L = "17"
+P_ERA = "2.93"
+
+
+[[person]]
+name.last = "Whittaker"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "171"
+P_AB = "729"
+P_H = "168"
+P_BB = "68"
+P_SO = "63"
+P_ER = "56"
+P_W = "11"
+P_L = "10"
+P_ERA = "2.95"
+
+
+[[person]]
+name.last = "Poole"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "181"
+P_AB = "751"
+P_H = "152"
+P_BB = "85"
+P_SO = "86"
+P_ER = "60"
+P_W = "12"
+P_L = "8"
+P_ERA = "2.99"
+
+
+[[person]]
+name.last = "Scanlon"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "238"
+P_AB = "1012"
+P_H = "253"
+P_BB = "77"
+P_SO = "96"
+P_ER = "85"
+P_W = "13"
+P_L = "15"
+P_ERA = "3.22"
+
+
+[[person]]
+name.last = "Carroll"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "135"
+P_AB = "597"
+P_H = "151"
+P_BB = "57"
+P_SO = "39"
+P_ER = "49"
+P_W = "6"
+P_L = "10"
+P_ERA = "3.27"
+
+
+[[person]]
+name.last = "Selby"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "269"
+P_AB = "1158"
+P_H = "249"
+P_BB = "101"
+P_SO = "112"
+P_ER = "100"
+P_W = "14"
+P_L = "18"
+P_ERA = "3.34"
+
+
+[[person]]
+name.last = "Marks"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "234"
+P_AB = "985"
+P_H = "249"
+P_BB = "61"
+P_SO = "118"
+P_ER = "87"
+P_W = "13"
+P_L = "15"
+P_ERA = "3.34"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "215"
+P_AB = "982"
+P_H = "219"
+P_BB = "135"
+P_SO = "88"
+P_ER = "83"
+P_W = "17"
+P_L = "16"
+P_ERA = "3.47"
+
+
+[[person]]
+name.last = "Halas"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "78"
+P_AB = "332"
+P_H = "85"
+P_BB = "41"
+P_SO = "34"
+P_ER = "30"
+P_W = "2"
+P_L = "6"
+P_ERA = "3.66"
+
+
+[[person]]
+name.last = "Ware"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "251"
+P_AB = "1102"
+P_H = "304"
+P_BB = "45"
+P_SO = "81"
+P_ER = "107"
+P_W = "11"
+P_L = "19"
+P_ERA = "3.84"
+
+
+[[person]]
+name.last = "Heizer"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "256"
+P_AB = "1157"
+P_H = "256"
+P_BB = "149"
+P_SO = "114"
+P_ER = "110"
+P_W = "7"
+P_L = "18"
+P_ERA = "3.87"
+
+
+[[person]]
+name.last = "Needles"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "206"
+P_AB = "917"
+P_H = "240"
+P_BB = "72"
+P_SO = "49"
+P_ER = "91"
+P_W = "8"
+P_L = "14"
+P_ERA = "3.97"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "68"
+P_AB = "293"
+P_H = "64"
+P_BB = "36"
+P_SO = "31"
+P_ER = "31"
+P_W = "2"
+P_L = "4"
+P_ERA = "4.08"
+
+
+[[person]]
+name.last = "McManus"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "194"
+P_AB = "835"
+P_H = "225"
+P_BB = "57"
+P_SO = "54"
+P_ER = "91"
+P_W = "9"
+P_L = "12"
+P_ERA = "4.21"
+
+
+[[person]]
+name.last = "Klontz"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "64"
+P_AB = "281"
+P_H = "76"
+P_BB = "19"
+P_SO = "25"
+P_ER = "30"
+P_W = "2"
+P_L = "5"
+P_ERA = "4.24"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_IP = "100"
+P_AB = "416"
+P_H = "111"
+P_BB = "43"
+P_SO = "31"
+P_ER = "48"
+P_W = "4"
+P_L = "7"
+P_ERA = "4.32"
+
+
+[[person]]
+name.last = "Adams"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "233"
+P_AB = "1001"
+P_H = "241"
+P_BB = "120"
+P_SO = "117"
+P_ER = "99"
+P_W = "12"
+P_L = "16"
+P_ERA = "4.82"
+
+
+[[person]]
+name.last = "Shoup"
+[[person.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "146"
+P_AB = "649"
+P_H = "189"
+P_BB = "35"
+P_SO = "40"
+P_ER = "82"
+P_W = "5"
+P_L = "15"
+P_ERA = "5.06"

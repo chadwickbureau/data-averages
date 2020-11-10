@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Rochelli"
+name.given = "Louis"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Victoria"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Just"
+name.given = "Joseph"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Corpus Christi"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilkinson"
+name.given = "John (Jack)"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Corpus Christi"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Basgall"
+name.given = "Romanus (Monty)"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Beaumont"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Storie"
+name.given = "Burl"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Abilene"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Barillari"
+name.given = "Alfred"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Port Arthur/Temple"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilkinson"
+name.given = "John (Jack)"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wichita Falls"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Beeler"
+name.given = "Joseph (Jodie)"
+[[person.managing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wichita Falls"
+S_ORDER = "2"
+[person.managing.totals]

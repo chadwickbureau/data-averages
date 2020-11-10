@@ -1,0 +1,154 @@
+[[team]]
+name = "Ennis"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "25"
+R_L = "17"
+R_PCT = ".595"
+R_RANK = "1"
+
+
+[[team]]
+name = "Terrell"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "24"
+R_L = "19"
+R_PCT = ".558"
+R_RANK = "2"
+
+
+[[team]]
+name = "Corsicana"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "23"
+R_L = "19"
+R_PCT = ".548"
+R_RANK = "3"
+
+
+[[team]]
+name = "Kaufman"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "21"
+R_L = "22"
+R_PCT = ".488"
+R_RANK = "4"
+
+
+[[team]]
+name = "Waxahachie"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "19"
+R_L = "23"
+R_PCT = ".452"
+R_RANK = "5"
+
+
+[[team]]
+name = "Mexia"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "15"
+R_L = "27"
+R_PCT = ".357"
+R_RANK = "6"
+
+
+[[team]]
+name = "Mexia"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "13"
+R_L = "6"
+R_PCT = ".674"
+R_RANK = "1"
+
+
+[[team]]
+name = "Ennis"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "10"
+R_L = "9"
+R_PCT = ".579"
+R_RANK = "2"
+
+
+[[team]]
+name = "Corsicana"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "9"
+R_L = "10"
+R_PCT = ".526"
+R_RANK = "3"
+
+
+[[team]]
+name = "Kaufman"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "9"
+R_L = "10"
+R_PCT = ".523"
+R_RANK = "4"
+
+
+[[team]]
+name = "Waxahachie"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "8"
+R_L = "11"
+R_PCT = ".421"
+R_RANK = "5"
+
+
+[[team]]
+name = "Terrell"
+[[team.playing]]
+season = "1915"
+league.name = "Central Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "8"
+R_L = "11"
+R_PCT = ".421"
+R_RANK = "5"

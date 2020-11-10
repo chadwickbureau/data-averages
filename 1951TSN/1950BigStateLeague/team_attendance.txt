@@ -1,0 +1,78 @@
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "116941"
+
+
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "105081"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "103439"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "85173"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "83604"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "56890"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "50511"
+
+
+[[team]]
+name = "Sherman-Denison"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "48762"

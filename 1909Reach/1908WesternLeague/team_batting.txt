@@ -1,0 +1,88 @@
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1908"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4661"
+B_R = "623"
+B_H = "1231"
+B_SH = "219"
+B_SB = "285"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1908"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4860"
+B_R = "696"
+B_H = "1254"
+B_SH = "219"
+B_SB = "197"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1908"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4722"
+B_R = "669"
+B_H = "1205"
+B_SH = "192"
+B_SB = "339"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1908"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4692"
+B_R = "698"
+B_H = "1185"
+B_SH = "183"
+B_SB = "268"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1908"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4775"
+B_R = "631"
+B_H = "1190"
+B_SH = "132"
+B_SB = "204"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1908"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4830"
+B_R = "574"
+B_H = "1112"
+B_SH = "214"
+B_SB = "221"
+B_AVG = ".230"

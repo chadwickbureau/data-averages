@@ -1,0 +1,158 @@
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_DP = "153"
+F_TP = "0"
+F_GDP = "85"
+F_LOB = "1137"
+F_PO = "3939"
+F_A = "1655"
+F_E = "180"
+F_TC = "5774"
+F_PB = "14"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "122"
+F_TP = "1"
+F_GDP = "96"
+F_LOB = "1163"
+F_PO = "3936"
+F_A = "1476"
+F_E = "180"
+F_TC = "5592"
+F_PB = "20"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "130"
+F_TP = "0"
+F_GDP = "90"
+F_LOB = "1093"
+F_PO = "3843"
+F_A = "1589"
+F_E = "183"
+F_TC = "5615"
+F_PB = "11"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "149"
+F_TP = "0"
+F_GDP = "95"
+F_LOB = "1094"
+F_PO = "3840"
+F_A = "1583"
+F_E = "192"
+F_TC = "5615"
+F_PB = "10"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "115"
+F_TP = "1"
+F_GDP = "95"
+F_LOB = "1130"
+F_PO = "3917"
+F_A = "1666"
+F_E = "207"
+F_TC = "5790"
+F_PB = "11"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "112"
+F_TP = "0"
+F_GDP = "103"
+F_LOB = "1164"
+F_PO = "3863"
+F_A = "1572"
+F_E = "212"
+F_TC = "5647"
+F_PB = "10"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "134"
+F_TP = "0"
+F_GDP = "90"
+F_LOB = "1140"
+F_PO = "3809"
+F_A = "1641"
+F_E = "218"
+F_TC = "5668"
+F_PB = "19"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1946"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "120"
+F_TP = "1"
+F_GDP = "96"
+F_LOB = "1093"
+F_PO = "3871"
+F_A = "1611"
+F_E = "236"
+F_TC = "5718"
+F_PB = "10"
+F_PCT = ".959"

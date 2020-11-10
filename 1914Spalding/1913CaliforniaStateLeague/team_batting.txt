@@ -1,0 +1,74 @@
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4025"
+B_R = "549"
+B_H = "1031"
+B_SB = "201"
+B_HR = "27"
+B_3B = "47"
+B_2B = "163"
+B_SH = "169"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4154"
+B_R = "546"
+B_H = "1031"
+B_SB = "203"
+B_HR = "23"
+B_3B = "65"
+B_2B = "104"
+B_SH = "170"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Watsonville"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4009"
+B_R = "466"
+B_H = "946"
+B_SB = "208"
+B_HR = "25"
+B_3B = "43"
+B_2B = "119"
+B_SH = "147"
+B_AVG = ".235"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4001"
+B_R = "428"
+B_H = "937"
+B_SB = "203"
+B_HR = "9"
+B_3B = "41"
+B_2B = "113"
+B_SH = "130"
+B_AVG = ".234"

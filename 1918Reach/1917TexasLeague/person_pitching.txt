@@ -1,0 +1,750 @@
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "178"
+P_AB = "680"
+P_H = "152"
+P_ER = "36"
+P_BB = "76"
+P_SO = "72"
+P_ERA = "1.82"
+
+
+[[person]]
+name.last = "Perritt"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "207"
+P_AB = "734"
+P_H = "187"
+P_ER = "43"
+P_BB = "69"
+P_SO = "67"
+P_ERA = "1.87"
+
+
+[[person]]
+name.last = "Conley"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "323"
+P_AB = "1176"
+P_H = "265"
+P_ER = "69"
+P_BB = "87"
+P_SO = "171"
+P_ERA = "1.92"
+
+
+[[person]]
+name.last = "Hiett"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "261"
+P_AB = "956"
+P_H = "222"
+P_ER = "57"
+P_BB = "94"
+P_SO = "70"
+P_ERA = "1.96"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "310"
+P_AB = "1110"
+P_H = "231"
+P_ER = "71"
+P_BB = "140"
+P_SO = "164"
+P_ERA = "2.06"
+
+
+[[person]]
+name.last = "Couchman"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "70"
+P_AB = "257"
+P_H = "57"
+P_ER = "16"
+P_BB = "18"
+P_SO = "23"
+P_ERA = "2.06"
+
+
+[[person]]
+name.last = "Cocreham"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "205"
+P_AB = "727"
+P_H = "163"
+P_ER = "51"
+P_BB = "72"
+P_SO = "93"
+P_ERA = "2.24"
+
+
+[[person]]
+name.last = "Rook"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "162"
+P_AB = "529"
+P_H = "109"
+P_ER = "41"
+P_BB = "59"
+P_SO = "66"
+P_ERA = "2.27"
+
+
+[[person]]
+name.last = "Dillinger"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "223"
+P_AB = "819"
+P_H = "204"
+P_ER = "59"
+P_BB = "54"
+P_SO = "116"
+P_ERA = "2.29"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "275"
+P_AB = "1024"
+P_H = "235"
+P_ER = "69"
+P_BB = "116"
+P_SO = "108"
+P_ERA = "2.30"
+
+
+[[person]]
+name.last = "Zinn"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "226"
+P_AB = "708"
+P_H = "165"
+P_ER = "58"
+P_BB = "72"
+P_SO = "85"
+P_ERA = "2.31"
+
+
+[[person]]
+name.last = "Francis"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "221"
+P_AB = "467"
+P_H = "125"
+P_ER = "57"
+P_BB = "52"
+P_SO = "57"
+P_ERA = "2.32"
+
+
+[[person]]
+name.last = "Donalds"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "277"
+P_AB = "1013"
+P_H = "242"
+P_ER = "73"
+P_BB = "58"
+P_SO = "120"
+P_ERA = "2.37"
+
+
+[[person]]
+name.last = "Glenn"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "242"
+P_AB = "865"
+P_H = "200"
+P_ER = "64"
+P_BB = "70"
+P_SO = "92"
+P_ERA = "2.38"
+
+
+[[person]]
+name.last = "Blunk"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "266"
+P_AB = "1051"
+P_H = "235"
+P_ER = "71"
+P_BB = "98"
+P_SO = "119"
+P_ERA = "2.40"
+
+
+[[person]]
+name.last = "Whittaker"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "270"
+P_AB = "983"
+P_H = "234"
+P_ER = "73"
+P_BB = "82"
+P_SO = "116"
+P_ERA = "2.43"
+
+
+[[person]]
+name.last = "Redford"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "220"
+P_AB = "810"
+P_H = "192"
+P_ER = "60"
+P_BB = "71"
+P_SO = "80"
+P_ERA = "2.45"
+
+
+[[person]]
+name.last = "Jacobus"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "242"
+P_AB = "930"
+P_H = "200"
+P_ER = "62"
+P_BB = "59"
+P_SO = "62"
+P_ERA = "2.45"
+
+
+[[person]]
+name.last = "Harper"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "311"
+P_AB = "965"
+P_H = "260"
+P_ER = "85"
+P_BB = "124"
+P_SO = "129"
+P_ERA = "2.46"
+
+
+[[person]]
+name.last = "Applegate"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "257"
+P_AB = "936"
+P_H = "218"
+P_ER = "72"
+P_BB = "79"
+P_SO = "149"
+P_ERA = "2.48"
+
+
+[[person]]
+name.last = "Criss"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "159"
+P_AB = "571"
+P_H = "128"
+P_ER = "44"
+P_BB = "57"
+P_SO = "76"
+P_ERA = "2.49"
+
+
+[[person]]
+name.last = "Watson"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "262"
+P_AB = "1000"
+P_H = "215"
+P_ER = "73"
+P_BB = "116"
+P_SO = "111"
+P_ERA = "2.51"
+
+
+[[person]]
+name.last = "Bono"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "245"
+P_AB = "919"
+P_H = "193"
+P_ER = "71"
+P_BB = "64"
+P_SO = "89"
+P_ERA = "2.60"
+
+
+[[person]]
+name.last = "Barfoot"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "262"
+P_AB = "980"
+P_H = "251"
+P_ER = "77"
+P_BB = "70"
+P_SO = "88"
+P_ERA = "2.64"
+
+
+[[person]]
+name.last = "Covington"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "44"
+P_AB = "176"
+P_H = "43"
+P_ER = "13"
+P_BB = "15"
+P_SO = "26"
+P_ERA = "2.66"
+
+
+[[person]]
+name.last = "Tretter"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "103"
+P_AB = "375"
+P_H = "91"
+P_ER = "31"
+P_BB = "31"
+P_SO = "34"
+P_ERA = "2.71"
+
+
+[[person]]
+name.last = "Napier"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "358"
+P_AB = "1069"
+P_H = "255"
+P_ER = "90"
+P_BB = "140"
+P_SO = "138"
+P_ERA = "2.74"
+
+
+[[person]]
+name.last = "Petty"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "142"
+P_AB = "484"
+P_H = "149"
+P_ER = "44"
+P_BB = "27"
+P_SO = "49"
+P_ERA = "2.79"
+
+
+[[person]]
+name.last = "May"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "171"
+P_AB = "642"
+P_H = "137"
+P_ER = "54"
+P_BB = "62"
+P_SO = "102"
+P_ERA = "2.84"
+
+
+[[person]]
+name.last = "Karr"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "135"
+P_AB = "509"
+P_H = "130"
+P_ER = "43"
+P_BB = "43"
+P_SO = "54"
+P_ERA = "2.86"
+
+
+[[person]]
+name.last = "Murchison"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "115"
+P_AB = "424"
+P_H = "96"
+P_ER = "36"
+P_BB = "74"
+P_SO = "76"
+P_ERA = "2.89"
+
+
+[[person]]
+name.last = "Gudger"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "81"
+P_AB = "312"
+P_H = "81"
+P_ER = "26"
+P_BB = "15"
+P_SO = "22"
+P_ERA = "2.89"
+
+
+[[person]]
+name.last = "Sims"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "251"
+P_AB = "932"
+P_H = "126"
+P_ER = "81"
+P_BB = "89"
+P_SO = "106"
+P_ERA = "2.90"
+
+
+[[person]]
+name.last = "Duffy"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "332"
+P_AB = "1224"
+P_H = "302"
+P_ER = "108"
+P_BB = "123"
+P_SO = "140"
+P_ERA = "2.93"
+
+
+[[person]]
+name.last = "Terry"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "246"
+P_AB = "991"
+P_H = "222"
+P_ER = "82"
+P_BB = "116"
+P_SO = "81"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "81"
+P_AB = "282"
+P_H = "49"
+P_ER = "27"
+P_BB = "45"
+P_SO = "26"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Flanagan"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "87"
+P_AB = "343"
+P_H = "70"
+P_ER = "29"
+P_BB = "50"
+P_SO = "34"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Martina"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "302"
+P_AB = "1095"
+P_H = "279"
+P_ER = "103"
+P_BB = "135"
+P_SO = "158"
+P_ERA = "3.07"
+
+
+[[person]]
+name.last = "Compere"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "170"
+P_AB = "660"
+P_H = "178"
+P_ER = "58"
+P_BB = "37"
+P_SO = "70"
+P_ERA = "3.07"
+
+
+[[person]]
+name.last = "Gaskill"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "42"
+P_AB = "180"
+P_H = "40"
+P_ER = "15"
+P_BB = "13"
+P_SO = "10"
+P_ERA = "3.21"
+
+
+[[person]]
+name.last = "Gleason"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "288"
+P_AB = "1098"
+P_H = "235"
+P_ER = "107"
+P_BB = "143"
+P_SO = "140"
+P_ERA = "3.34"
+
+
+[[person]]
+name.last = "Munsell"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "111"
+P_AB = "442"
+P_H = "117"
+P_ER = "45"
+P_BB = "44"
+P_SO = "33"
+P_ERA = "3.64"
+
+
+[[person]]
+name.last = "Watkins"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "76"
+P_AB = "299"
+P_H = "83"
+P_ER = "33"
+P_BB = "39"
+P_SO = "20"
+P_ERA = "3.90"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "63"
+P_AB = "246"
+P_H = "68"
+P_ER = "30"
+P_BB = "24"
+P_SO = "31"
+P_ERA = "4.28"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "63"
+P_AB = "241"
+P_H = "61"
+P_ER = "31"
+P_BB = "23"
+P_SO = "17"
+P_ERA = "4.43"
+
+
+[[person]]
+name.last = "Holmquist"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "90"
+P_AB = "342"
+P_H = "101"
+P_ER = "45"
+P_BB = "44"
+P_SO = "32"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Sewell"
+[[person.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[person.playing.totals]
+P_IP = "31"
+P_AB = "128"
+P_H = "38"
+P_ER = "18"
+P_BB = "9"
+P_SO = "13"
+P_ERA = "5.22"

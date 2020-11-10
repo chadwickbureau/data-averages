@@ -1,0 +1,150 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5063"
+B_R = "542"
+B_H = "1247"
+B_2B = "185"
+B_3B = "49"
+B_HR = "17"
+B_SH = "181"
+B_SB = "187"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5076"
+B_R = "559"
+B_H = "1231"
+B_2B = "184"
+B_3B = "52"
+B_HR = "26"
+B_SH = "172"
+B_SB = "210"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5013"
+B_R = "539"
+B_H = "1216"
+B_2B = "143"
+B_3B = "56"
+B_HR = "10"
+B_SH = "173"
+B_SB = "238"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5073"
+B_R = "544"
+B_H = "1232"
+B_2B = "143"
+B_3B = "65"
+B_HR = "13"
+B_SH = "188"
+B_SB = "176"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5038"
+B_R = "555"
+B_H = "1178"
+B_2B = "192"
+B_3B = "47"
+B_HR = "22"
+B_SH = "176"
+B_SB = "221"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5021"
+B_R = "473"
+B_H = "1129"
+B_2B = "156"
+B_3B = "46"
+B_HR = "12"
+B_SH = "154"
+B_SB = "160"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4925"
+B_R = "511"
+B_H = "1107"
+B_2B = "131"
+B_3B = "65"
+B_HR = "9"
+B_SH = "196"
+B_SB = "216"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1909"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5039"
+B_R = "476"
+B_H = "1108"
+B_2B = "115"
+B_3B = "55"
+B_HR = "38"
+B_SH = "177"
+B_SB = "194"
+B_AVG = ".220"

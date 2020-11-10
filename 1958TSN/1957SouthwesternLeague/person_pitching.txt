@@ -1,0 +1,2345 @@
+[[person]]
+name.last = "Alonso"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+P_G = "10"
+[[person.playing.split]]
+team.name = "Hobbs"
+P_G = "4"
+[person.playing.totals]
+P_G = "14"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "63"
+P_H = "104"
+P_HR = "13"
+P_R = "74"
+P_ER = "63"
+P_BB = "34"
+P_SO = "35"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "9.00"
+
+
+[[person]]
+name.last = "Bailey"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "11"
+P_GS = "10"
+P_CG = "8"
+P_SHO = "2"
+P_W = "8"
+P_L = "1"
+P_PCT = ".889"
+P_IP = "84"
+P_H = "65"
+P_HR = "3"
+P_R = "27"
+P_ER = "21"
+P_BB = "23"
+P_SO = "99"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.25"
+
+
+[[person]]
+name.last = "Barr"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "13"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "35"
+P_H = "44"
+P_HR = "5"
+P_R = "40"
+P_ER = "36"
+P_BB = "32"
+P_SO = "29"
+P_HP = "1"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "9.26"
+
+
+[[person]]
+name.last = "Beltran"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "10"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "33"
+P_H = "42"
+P_HR = "1"
+P_R = "35"
+P_ER = "30"
+P_BB = "21"
+P_SO = "25"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "8.18"
+
+
+[[person]]
+name.last = "Benedict"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "12"
+P_GS = "9"
+P_CG = "7"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "83"
+P_H = "106"
+P_HR = "10"
+P_R = "66"
+P_ER = "53"
+P_BB = "35"
+P_SO = "56"
+P_HP = "5"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "5.75"
+
+
+[[person]]
+name.last = "Bennett"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "24"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "10"
+P_PCT = ".231"
+P_IP = "116"
+P_H = "148"
+P_HR = "15"
+P_R = "97"
+P_ER = "77"
+P_BB = "50"
+P_SO = "45"
+P_HP = "8"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "5.97"
+
+
+[[person]]
+name.last = "Bogan"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "24"
+P_GS = "20"
+P_CG = "10"
+P_SHO = "0"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "144"
+P_H = "167"
+P_HR = "15"
+P_R = "103"
+P_ER = "86"
+P_BB = "92"
+P_SO = "96"
+P_HP = "2"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "5.38"
+
+
+[[person]]
+name.last = "Burris"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "25"
+P_GS = "16"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "135"
+P_H = "174"
+P_HR = "19"
+P_R = "132"
+P_ER = "109"
+P_BB = "105"
+P_SO = "88"
+P_HP = "6"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "7.27"
+
+
+[[person]]
+name.last = "Cameron"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "28"
+P_GS = "25"
+P_CG = "12"
+P_SHO = "0"
+P_W = "8"
+P_L = "15"
+P_PCT = ".348"
+P_IP = "166"
+P_H = "192"
+P_HR = "21"
+P_R = "152"
+P_ER = "125"
+P_BB = "118"
+P_SO = "122"
+P_HP = "7"
+P_WP = "15"
+P_BK = "0"
+P_ERA = "6.78"
+
+
+[[person]]
+name.last = "Carmichael"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "7"
+P_GS = "7"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "56"
+P_H = "74"
+P_HR = "1"
+P_R = "34"
+P_ER = "32"
+P_BB = "23"
+P_SO = "34"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "5.14"
+
+
+[[person]]
+name.last = "Carrillo"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "11"
+P_GS = "11"
+P_CG = "10"
+P_SHO = "1"
+P_W = "8"
+P_L = "3"
+P_PCT = ".727"
+P_IP = "98"
+P_H = "92"
+P_HR = "15"
+P_R = "61"
+P_ER = "54"
+P_BB = "30"
+P_SO = "97"
+P_HP = "2"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "4.96"
+
+
+[[person]]
+name.last = "Coddington"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "22"
+P_GS = "20"
+P_CG = "11"
+P_SHO = "1"
+P_W = "11"
+P_L = "8"
+P_PCT = ".579"
+P_IP = "151"
+P_H = "153"
+P_HR = "13"
+P_R = "98"
+P_ER = "79"
+P_BB = "104"
+P_SO = "126"
+P_HP = "8"
+P_WP = "26"
+P_BK = "1"
+P_ERA = "4.71"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Dear"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "34"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "97"
+P_H = "124"
+P_HR = "3"
+P_R = "66"
+P_ER = "52"
+P_BB = "56"
+P_SO = "58"
+P_HP = "1"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.82"
+
+
+[[person]]
+name.last = "Diez"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "18"
+P_GS = "16"
+P_CG = "7"
+P_SHO = "1"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_IP = "121"
+P_H = "154"
+P_HR = "23"
+P_R = "94"
+P_ER = "76"
+P_BB = "37"
+P_SO = "107"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.65"
+
+
+[[person]]
+name.last = "Douglas"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "26"
+P_GS = "15"
+P_CG = "7"
+P_SHO = "0"
+P_W = "8"
+P_L = "9"
+P_PCT = ".471"
+P_IP = "124"
+P_H = "138"
+P_HR = "10"
+P_R = "93"
+P_ER = "77"
+P_BB = "85"
+P_SO = "93"
+P_HP = "3"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "5.59"
+
+
+[[person]]
+name.last = "Eaves"
+name.given = "J."
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "15"
+P_GS = "9"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "54"
+P_H = "89"
+P_HR = "7"
+P_R = "75"
+P_ER = "55"
+P_BB = "48"
+P_SO = "20"
+P_HP = "2"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "9.17"
+
+
+[[person]]
+name.last = "Ernst"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "37"
+P_GS = "22"
+P_CG = "4"
+P_SHO = "0"
+P_W = "12"
+P_L = "9"
+P_PCT = ".571"
+P_IP = "188"
+P_H = "232"
+P_HR = "23"
+P_R = "134"
+P_ER = "116"
+P_BB = "96"
+P_SO = "85"
+P_HP = "5"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "5.55"
+
+
+[[person]]
+name.last = "Fausett"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "9"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "31"
+P_H = "47"
+P_HR = "6"
+P_R = "32"
+P_ER = "30"
+P_BB = "15"
+P_SO = "11"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "7.19"
+
+
+[[person]]
+name.last = "Fierro"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "48"
+P_GS = "11"
+P_CG = "6"
+P_SHO = "1"
+P_W = "14"
+P_L = "7"
+P_PCT = ".667"
+P_IP = "202"
+P_H = "195"
+P_HR = "12"
+P_R = "95"
+P_ER = "66"
+P_BB = "73"
+P_SO = "109"
+P_HP = "12"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "2.94"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Ford"
+name.given = "L."
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "7"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "47"
+P_H = "53"
+P_HR = "4"
+P_R = "41"
+P_ER = "25"
+P_BB = "26"
+P_SO = "38"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.79"
+
+
+[[person]]
+name.last = "Gaines"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "20"
+P_GS = "18"
+P_CG = "5"
+P_SHO = "1"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "115"
+P_H = "146"
+P_HR = "9"
+P_R = "90"
+P_ER = "69"
+P_BB = "42"
+P_SO = "82"
+P_HP = "6"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "5.40"
+
+
+[[person]]
+name.last = "Gazella"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "18"
+P_GS = "15"
+P_CG = "7"
+P_SHO = "0"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "118"
+P_H = "133"
+P_HR = "15"
+P_R = "94"
+P_ER = "72"
+P_BB = "55"
+P_SO = "79"
+P_HP = "1"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "5.49"
+
+
+[[person]]
+name.last = "Harrison"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+[person.playing.totals]
+P_G = "23"
+P_GS = "17"
+P_CG = "13"
+P_SHO = "0"
+P_W = "8"
+P_L = "12"
+P_PCT = ".400"
+P_IP = "149"
+P_H = "175"
+P_HR = "15"
+P_R = "88"
+P_ER = "76"
+P_BB = "61"
+P_SO = "82"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.59"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Heidorn"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Hobbs"
+P_G = "24"
+[person.playing.totals]
+P_G = "31"
+P_GS = "17"
+P_CG = "4"
+P_SHO = "0"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "142"
+P_H = "150"
+P_HR = "13"
+P_R = "89"
+P_ER = "75"
+P_BB = "67"
+P_SO = "55"
+P_HP = "4"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.75"
+
+
+[[person]]
+name.last = "Heise"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "12"
+P_GS = "5"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "52"
+P_H = "54"
+P_HR = "2"
+P_R = "35"
+P_ER = "21"
+P_BB = "33"
+P_SO = "55"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.63"
+
+
+[[person]]
+name.last = "Hensley"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "14"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "33"
+P_H = "39"
+P_HR = "6"
+P_R = "41"
+P_ER = "36"
+P_BB = "41"
+P_SO = "17"
+P_HP = "1"
+P_WP = "16"
+P_BK = "1"
+P_ERA = "9.82"
+
+
+[[person]]
+name.last = "Izaguirre"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+[person.playing.totals]
+P_G = "17"
+P_GS = "5"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "77"
+P_H = "103"
+P_HR = "15"
+P_R = "57"
+P_ER = "45"
+P_BB = "11"
+P_SO = "30"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "5.26"
+
+
+[[person]]
+name.last = "Jack"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+[person.playing.totals]
+P_G = "9"
+P_GS = "8"
+P_CG = "5"
+P_SHO = "1"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+P_IP = "61"
+P_H = "41"
+P_HR = "2"
+P_R = "29"
+P_ER = "24"
+P_BB = "62"
+P_SO = "64"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.54"
+
+
+[[person]]
+name.last = "Johnston"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "9"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "50"
+P_H = "58"
+P_HR = "4"
+P_R = "49"
+P_ER = "33"
+P_BB = "38"
+P_SO = "43"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "5.94"
+
+
+[[person]]
+name.last = "Langhamer"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "20"
+P_GS = "17"
+P_CG = "7"
+P_SHO = "0"
+P_W = "4"
+P_L = "11"
+P_PCT = ".267"
+P_IP = "110"
+P_H = "146"
+P_HR = "15"
+P_R = "105"
+P_ER = "86"
+P_BB = "64"
+P_SO = "60"
+P_HP = "1"
+P_WP = "15"
+P_BK = "0"
+P_ERA = "7.04"
+
+
+[[person]]
+name.last = "Leach"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "37"
+P_GS = "30"
+P_CG = "26"
+P_SHO = "2"
+P_W = "19"
+P_L = "12"
+P_PCT = ".613"
+P_IP = "268"
+P_H = "258"
+P_HR = "28"
+P_R = "130"
+P_ER = "112"
+P_BB = "107"
+P_SO = "158"
+P_HP = "8"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.76"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Lippold"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "32"
+P_GS = "31"
+P_CG = "29"
+P_SHO = "2"
+P_W = "19"
+P_L = "12"
+P_PCT = ".613"
+P_IP = "264"
+P_H = "275"
+P_HR = "16"
+P_R = "128"
+P_ER = "109"
+P_BB = "78"
+P_SO = "179"
+P_HP = "6"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "3.72"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Lowrey"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+P_G = "20"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+P_G = "4"
+[person.playing.totals]
+P_G = "24"
+P_GS = "16"
+P_CG = "6"
+P_SHO = "0"
+P_W = "5"
+P_L = "12"
+P_PCT = ".294"
+P_IP = "121"
+P_H = "158"
+P_HR = "18"
+P_R = "131"
+P_ER = "107"
+P_BB = "109"
+P_SO = "46"
+P_HP = "1"
+P_WP = "7"
+P_BK = "2"
+P_ERA = "7.96"
+
+
+[[person]]
+name.last = "Maier"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "21"
+P_GS = "20"
+P_CG = "15"
+P_SHO = "1"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "154"
+P_H = "167"
+P_HR = "9"
+P_R = "95"
+P_ER = "72"
+P_BB = "70"
+P_SO = "103"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.21"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Martinez"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+P_G = "23"
+[[person.playing.split]]
+team.name = "Hobbs"
+P_G = "3"
+[person.playing.totals]
+P_G = "26"
+P_GS = "16"
+P_CG = "9"
+P_SHO = "1"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "141"
+P_H = "148"
+P_HR = "12"
+P_R = "86"
+P_ER = "69"
+P_BB = "43"
+P_SO = "75"
+P_HP = "4"
+P_WP = "5"
+P_BK = "3"
+P_ERA = "4.40"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "McAvoy"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "31"
+P_GS = "19"
+P_CG = "7"
+P_SHO = "1"
+P_W = "8"
+P_L = "11"
+P_PCT = ".421"
+P_IP = "133"
+P_H = "149"
+P_HR = "7"
+P_R = "105"
+P_ER = "92"
+P_BB = "117"
+P_SO = "101"
+P_HP = "5"
+P_WP = "8"
+P_BK = "3"
+P_ERA = "6.23"
+
+
+[[person]]
+name.last = "McGuire"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "21"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "65"
+P_H = "68"
+P_HR = "6"
+P_R = "52"
+P_ER = "40"
+P_BB = "52"
+P_SO = "51"
+P_HP = "3"
+P_WP = "14"
+P_BK = "3"
+P_ERA = "5.54"
+
+
+[[person]]
+name.last = "McKay"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "10"
+P_SHO = "3"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "131"
+P_H = "151"
+P_HR = "13"
+P_R = "108"
+P_ER = "98"
+P_BB = "82"
+P_SO = "83"
+P_HP = "4"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "6.73"
+
+
+[[person]]
+name.last = "McNeal"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "11"
+P_GS = "8"
+P_CG = "6"
+P_SHO = "1"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "68"
+P_H = "63"
+P_HR = "10"
+P_R = "50"
+P_ER = "38"
+P_BB = "44"
+P_SO = "50"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.03"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "13"
+P_GS = "13"
+P_CG = "8"
+P_SHO = "0"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "94"
+P_H = "83"
+P_HR = "1"
+P_R = "52"
+P_ER = "42"
+P_BB = "61"
+P_SO = "66"
+P_HP = "2"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "4.02"
+
+
+[[person]]
+name.last = "Najera"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "18"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "53"
+P_H = "67"
+P_HR = "10"
+P_R = "46"
+P_ER = "38"
+P_BB = "33"
+P_SO = "29"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.45"
+
+
+[[person]]
+name.last = "Payte"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "26"
+P_GS = "12"
+P_CG = "1"
+P_SHO = "0"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "105"
+P_H = "111"
+P_HR = "9"
+P_R = "75"
+P_ER = "61"
+P_BB = "73"
+P_SO = "62"
+P_HP = "3"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "5.23"
+
+
+[[person]]
+name.last = "Perez"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "32"
+P_GS = "8"
+P_CG = "4"
+P_SHO = "1"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+P_IP = "114"
+P_H = "125"
+P_HR = "9"
+P_R = "74"
+P_ER = "62"
+P_BB = "66"
+P_SO = "84"
+P_HP = "1"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.89"
+
+
+[[person]]
+name.last = "Phipps"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "27"
+P_GS = "26"
+P_CG = "18"
+P_SHO = "3"
+P_W = "15"
+P_L = "9"
+P_PCT = ".625"
+P_IP = "195"
+P_H = "184"
+P_HR = "11"
+P_R = "98"
+P_ER = "77"
+P_BB = "51"
+P_SO = "164"
+P_HP = "2"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "3.55"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Rivero"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "17"
+P_GS = "14"
+P_CG = "10"
+P_SHO = "1"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "119"
+P_H = "102"
+P_HR = "2"
+P_R = "57"
+P_ER = "50"
+P_BB = "61"
+P_SO = "111"
+P_HP = "6"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.78"
+
+
+[[person]]
+name.last = "Samples"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+P_G = "11"
+[[person.playing.split]]
+team.name = "Hobbs"
+P_G = "4"
+[person.playing.totals]
+P_G = "15"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "6"
+P_PCT = ".143"
+P_IP = "48"
+P_H = "67"
+P_HR = "8"
+P_R = "41"
+P_ER = "32"
+P_BB = "17"
+P_SO = "21"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "6.00"
+
+
+[[person]]
+name.last = "Sorensen"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Hobbs"
+P_G = "26"
+[person.playing.totals]
+P_G = "31"
+P_GS = "18"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "99"
+P_H = "101"
+P_HR = "23"
+P_R = "99"
+P_ER = "85"
+P_BB = "99"
+P_SO = "46"
+P_HP = "5"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "7.73"
+
+
+[[person]]
+name.last = "Thompson"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "7"
+P_GS = "4"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "41"
+P_H = "55"
+P_HR = "9"
+P_R = "27"
+P_ER = "25"
+P_BB = "11"
+P_SO = "30"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.49"
+
+
+[[person]]
+name.last = "Valmas"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "16"
+P_GS = "11"
+P_CG = "7"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "100"
+P_H = "116"
+P_HR = "15"
+P_R = "66"
+P_ER = "56"
+P_BB = "36"
+P_SO = "53"
+P_HP = "2"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "5.04"
+
+
+[[person]]
+name.last = "Waldrip"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "38"
+P_GS = "25"
+P_CG = "11"
+P_SHO = "2"
+P_W = "18"
+P_L = "7"
+P_PCT = ".720"
+P_IP = "197"
+P_H = "206"
+P_HR = "19"
+P_R = "107"
+P_ER = "95"
+P_BB = "69"
+P_SO = "104"
+P_HP = "4"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "4.34"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Woodard"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "22"
+P_GS = "9"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "118"
+P_H = "163"
+P_HR = "17"
+P_R = "121"
+P_ER = "102"
+P_BB = "88"
+P_SO = "33"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "7.78"
+
+
+[[person]]
+name.last = "Woods"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "14"
+P_GS = "9"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "70"
+P_H = "124"
+P_HR = "15"
+P_R = "77"
+P_ER = "65"
+P_BB = "19"
+P_SO = "57"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "8.36"
+
+
+[[person]]
+name.last = "Young"
+name.given = "H."
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "25"
+P_GS = "22"
+P_CG = "13"
+P_SHO = "2"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "175"
+P_H = "197"
+P_HR = "9"
+P_R = "99"
+P_ER = "79"
+P_BB = "70"
+P_SO = "109"
+P_HP = "8"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "4.06"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Cofone"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Giel"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ballinger"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bakas"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Herd"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Niccolai"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Roper"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Snodgrass"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carlsbad"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dickey"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mehl"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "8"
+P_W = "5"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Parker"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sadler"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "3"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Slencak"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Brenek"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Exter"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "10"
+P_W = "2"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ford"
+name.given = "E."
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hanta"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kenaga"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Patchell"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "8"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pawelek"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rodriguez"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Russell"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Soler"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Teran"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "El Paso"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Eaves"
+name.given = "V."
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gibson"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "E."
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nunez"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Simmons"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walker"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hobbs"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Burke"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gonzales"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Herbert"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "O'Neal"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pascual"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Midland/Lamesa"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bowland"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DiCesare"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "4"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Douglas"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fesler"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Meekins"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Onate"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pirro"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Plainview"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Braconi"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+[person.playing.totals]
+P_G = "10"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cross"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Summerlin"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa/San Angelo"
+[person.playing.totals]
+P_G = "8"
+P_W = "1"
+P_L = "4"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DeHondt"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Angelo"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Landrum"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Angelo"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lopez"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Angelo"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Valdez"
+[[person.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Angelo"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"

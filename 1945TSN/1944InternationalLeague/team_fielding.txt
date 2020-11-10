@@ -1,0 +1,158 @@
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "139"
+F_TP = "1"
+F_GDP = "100"
+F_LOB = "1113"
+F_PO = "3921"
+F_A = "1628"
+F_E = "179"
+F_TC = "5728"
+F_PB = "7"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "140"
+F_TP = "0"
+F_GDP = "100"
+F_LOB = "1068"
+F_PO = "3802"
+F_A = "1798"
+F_E = "200"
+F_TC = "5800"
+F_PB = "11"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "135"
+F_TP = "0"
+F_GDP = "92"
+F_LOB = "1135"
+F_PO = "3845"
+F_A = "1732"
+F_E = "196"
+F_TC = "5773"
+F_PB = "13"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "133"
+F_TP = "1"
+F_GDP = "112"
+F_LOB = "1178"
+F_PO = "3818"
+F_A = "1703"
+F_E = "216"
+F_TC = "5737"
+F_PB = "15"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "170"
+F_TP = "0"
+F_GDP = "92"
+F_LOB = "1077"
+F_PO = "3831"
+F_A = "1847"
+F_E = "245"
+F_TC = "5923"
+F_PB = "12"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "112"
+F_TP = "0"
+F_GDP = "81"
+F_LOB = "1102"
+F_PO = "3871"
+F_A = "1718"
+F_E = "240"
+F_TC = "5829"
+F_PB = "12"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "137"
+F_TP = "0"
+F_GDP = "91"
+F_LOB = "1212"
+F_PO = "3844"
+F_A = "1733"
+F_E = "248"
+F_TC = "5825"
+F_PB = "16"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1944"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "100"
+F_TP = "1"
+F_GDP = "120"
+F_LOB = "1115"
+F_PO = "3822"
+F_A = "1721"
+F_E = "261"
+F_TC = "5804"
+F_PB = "13"
+F_PCT = ".955"

@@ -1,0 +1,158 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+P_W = "93"
+P_L = "61"
+P_T = "2"
+F_DP = "108"
+F_TP = "1"
+F_PB = "13"
+F_PO = "4212"
+F_A = "1915"
+F_E = "239"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+P_W = "86"
+P_L = "68"
+P_T = "3"
+F_DP = "89"
+F_TP = "0"
+F_PB = "20"
+F_PO = "4255"
+F_A = "1926"
+F_E = "249"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+P_W = "67"
+P_L = "84"
+P_T = "1"
+F_DP = "118"
+F_TP = "0"
+F_PB = "23"
+F_PO = "4059"
+F_A = "1961"
+F_E = "267"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+P_W = "72"
+P_L = "82"
+P_T = "2"
+F_DP = "107"
+F_TP = "0"
+F_PB = "15"
+F_PO = "4175"
+F_A = "2073"
+F_E = "289"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+P_W = "88"
+P_L = "62"
+P_T = "1"
+F_DP = "88"
+F_TP = "1"
+F_PB = "19"
+F_PO = "4116"
+F_A = "1893"
+F_E = "283"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+P_W = "90"
+P_L = "61"
+P_T = "2"
+F_DP = "96"
+F_TP = "0"
+F_PB = "13"
+F_PO = "4127"
+F_A = "1969"
+F_E = "302"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+P_W = "56"
+P_L = "94"
+P_T = "1"
+F_DP = "104"
+F_TP = "2"
+F_PB = "14"
+F_PO = "3978"
+F_A = "2033"
+F_E = "321"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+P_W = "54"
+P_L = "94"
+P_T = "0"
+F_DP = "119"
+F_TP = "1"
+F_PB = "16"
+F_PO = "3876"
+F_A = "1864"
+F_E = "310"
+F_PCT = ".949"

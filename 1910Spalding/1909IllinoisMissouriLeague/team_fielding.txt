@@ -1,0 +1,76 @@
+[[team]]
+name = "Monmouth"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3447"
+F_A = "1532"
+F_E = "228"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Macomb"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3471"
+F_A = "1638"
+F_E = "272"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3303"
+F_A = "1602"
+F_E = "285"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Beardstown"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3435"
+F_A = "1635"
+F_E = "304"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Galesburg"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3433"
+F_A = "1589"
+F_E = "329"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3642"
+F_A = "1531"
+F_E = "347"
+F_PCT = ".937"

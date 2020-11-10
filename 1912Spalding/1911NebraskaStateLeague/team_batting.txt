@@ -1,0 +1,150 @@
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3533"
+B_R = "571"
+B_H = "969"
+B_SH = "181"
+B_SB = "240"
+B_2B = "178"
+B_3B = "59"
+B_HR = "42"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3750"
+B_R = "572"
+B_H = "1019"
+B_SH = "156"
+B_SB = "156"
+B_2B = "205"
+B_3B = "36"
+B_HR = "99"
+B_AVG = ".272"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3777"
+B_R = "599"
+B_H = "978"
+B_SH = "105"
+B_SB = "146"
+B_2B = "145"
+B_3B = "19"
+B_HR = "91"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3674"
+B_R = "541"
+B_H = "950"
+B_SH = "151"
+B_SB = "229"
+B_2B = "146"
+B_3B = "49"
+B_HR = "49"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Fremont"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3486"
+B_R = "624"
+B_H = "898"
+B_SH = "165"
+B_SB = "275"
+B_2B = "134"
+B_3B = "54"
+B_HR = "82"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3699"
+B_R = "564"
+B_H = "904"
+B_SH = "189"
+B_SB = "229"
+B_2B = "159"
+B_3B = "39"
+B_HR = "38"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Seward"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3575"
+B_R = "485"
+B_H = "851"
+B_SH = "146"
+B_SB = "172"
+B_2B = "172"
+B_3B = "33"
+B_HR = "44"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3618"
+B_R = "471"
+B_H = "819"
+B_SH = "145"
+B_SB = "206"
+B_2B = "119"
+B_3B = "38"
+B_HR = "23"
+B_AVG = ".226"

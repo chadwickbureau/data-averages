@@ -1,0 +1,102 @@
+[[team]]
+name = "Freeport"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "41"
+R_PCT = ".658"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "43"
+R_PCT = ".639"
+R_RANK = "2"
+
+
+[[team]]
+name = "La Crosse"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "50"
+R_PCT = ".573"
+R_RANK = "3"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "56"
+R_PCT = ".525"
+R_RANK = "4"
+
+
+[[team]]
+name = "Oshkosh"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "65"
+R_PCT = ".476"
+R_RANK = "5"
+
+
+[[team]]
+name = "Madison"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "66"
+R_PCT = ".441"
+R_RANK = "6"
+
+
+[[team]]
+name = "Green Bay"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "73"
+R_PCT = ".396"
+R_RANK = "7"
+
+
+[[team]]
+name = "Fond du Lac"
+[[team.playing]]
+season = "1907"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "34"
+R_L = "82"
+R_PCT = ".293"
+R_RANK = "8"

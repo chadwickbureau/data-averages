@@ -1,0 +1,436 @@
+[[person]]
+name.last = "Frock"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_W = "20"
+P_L = "7"
+P_T = "1"
+P_DEC = "28"
+P_PCT = ".741"
+
+
+[[person]]
+name.last = "Sline"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_W = "20"
+P_L = "10"
+P_T = "1"
+P_DEC = "31"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Klobedanz"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Bedford"
+[person.playing.totals]
+P_W = "17"
+P_L = "10"
+P_T = "0"
+P_DEC = "27"
+P_PCT = ".630"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_W = "15"
+P_L = "5"
+P_T = "0"
+P_DEC = "24"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Vail"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_W = "15"
+P_L = "9"
+P_T = "0"
+P_DEC = "24"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Labelle"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_W = "23"
+P_L = "14"
+P_T = "0"
+P_DEC = "37"
+P_PCT = ".622"
+
+
+[[person]]
+name.last = "McPartlin"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Haverhill"
+[person.playing.totals]
+P_W = "17"
+P_L = "11"
+P_T = "0"
+P_DEC = "28"
+P_PCT = ".608"
+
+
+[[person]]
+name.last = "Morrissey"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Bedford"
+[person.playing.totals]
+P_W = "10"
+P_L = "7"
+P_T = "0"
+P_DEC = "17"
+P_PCT = ".588"
+
+
+[[person]]
+name.last = "O'Toole"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+P_W = "19"
+P_L = "14"
+P_T = "0"
+P_DEC = "33"
+P_PCT = ".576"
+
+
+[[person]]
+name.last = "Bushey"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_W = "17"
+P_L = "12"
+P_T = "0"
+P_DEC = "29"
+P_PCT = ".572"
+
+
+[[person]]
+name.last = "Whiting"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+P_W = "16"
+P_L = "12"
+P_T = "0"
+P_DEC = "28"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Barberich"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+P_W = "17"
+P_L = "14"
+P_T = "0"
+P_DEC = "31"
+P_PCT = ".548"
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Bedford"
+[person.playing.totals]
+P_W = "10"
+P_L = "10"
+P_T = "2"
+P_DEC = "24"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Leith"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+P_W = "13"
+P_L = "11"
+P_T = "0"
+P_DEC = "24"
+P_PCT = ".542"
+
+
+[[person]]
+name.last = "Elliott"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Bedford"
+[person.playing.totals]
+P_W = "15"
+P_L = "13"
+P_T = "1"
+P_DEC = "29"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Cross"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+P_W = "14"
+P_L = "13"
+P_T = "2"
+P_DEC = "29"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Swanson"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+P_W = "19"
+P_L = "19"
+P_T = "0"
+P_DEC = "38"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Gilroy"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+P_W = "14"
+P_L = "14"
+P_T = "0"
+P_DEC = "28"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Bend"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Haverhill"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+P_W = "18"
+P_L = "18"
+P_T = "0"
+P_DEC = "36"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Deering"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_W = "5"
+P_L = "5"
+P_T = "0"
+P_DEC = "10"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Drohan"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Bedford"
+[person.playing.totals]
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_DEC = "8"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Abbott"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lowell"
+[person.playing.totals]
+P_W = "13"
+P_L = "14"
+P_T = "0"
+P_DEC = "27"
+P_PCT = ".481"
+
+
+[[person]]
+name.last = "Connolly"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Haverhill"
+[person.playing.totals]
+P_W = "17"
+P_L = "19"
+P_T = "0"
+P_DEC = "36"
+P_PCT = ".472"
+
+
+[[person]]
+name.last = "Swope"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[[person.playing.split]]
+team.name = "Manchester"
+[[person.playing.split]]
+team.name = "New Bedford"
+[person.playing.totals]
+P_W = "11"
+P_L = "13"
+P_T = "0"
+P_DEC = "24"
+P_PCT = ".458"
+
+
+[[person]]
+name.last = "Yeager"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+P_W = "15"
+P_L = "19"
+P_T = "0"
+P_DEC = "34"
+P_PCT = ".441"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lowell"
+[person.playing.totals]
+P_W = "5"
+P_L = "12"
+P_T = "0"
+P_DEC = "17"
+P_PCT = ".294"
+
+
+[[person]]
+name.last = "Haskins"
+[[person.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Haverhill"
+[person.playing.totals]
+P_W = "5"
+P_L = "14"
+P_T = "0"
+P_DEC = "19"
+P_PCT = ".211"

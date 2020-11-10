@@ -1,0 +1,76 @@
+[[team]]
+name = "Lake Charles"
+[[team.playing]]
+season = "1908"
+league.name = "Gulf Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "18"
+R_L = "9"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Orange"
+[[team.playing]]
+season = "1908"
+league.name = "Gulf Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "15"
+R_L = "16"
+R_PCT = ".484"
+R_RANK = "2"
+
+
+[[team]]
+name = "Alexandria"
+[[team.playing]]
+season = "1908"
+league.name = "Gulf Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "14"
+R_L = "15"
+R_PCT = ".483"
+R_RANK = "3"
+
+
+[[team]]
+name = "Morgan City"
+[[team.playing]]
+season = "1908"
+league.name = "Gulf Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "14"
+R_L = "15"
+R_PCT = ".483"
+R_RANK = "4"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1908"
+league.name = "Gulf Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "11"
+R_L = "13"
+R_PCT = ".458"
+R_RANK = "5"
+
+
+[[team]]
+name = "Crowley"
+[[team.playing]]
+season = "1908"
+league.name = "Gulf Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "13"
+R_L = "17"
+R_PCT = ".433"
+R_RANK = "6"

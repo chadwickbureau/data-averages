@@ -1,0 +1,88 @@
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3929"
+F_A = "1804"
+F_E = "297"
+F_TC = "6030"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3834"
+F_A = "1820"
+F_E = "324"
+F_TC = "5978"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_PO = "3984"
+F_A = "2015"
+F_E = "343"
+F_TC = "6342"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3925"
+F_A = "1837"
+F_E = "383"
+F_TC = "6145"
+F_PCT = ".938"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_PO = "3941"
+F_A = "2035"
+F_E = "410"
+F_TC = "6386"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1906"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3848"
+F_A = "1869"
+F_E = "407"
+F_TC = "6124"
+F_PCT = ".933"

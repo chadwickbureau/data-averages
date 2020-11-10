@@ -1,0 +1,76 @@
+[[team]]
+name = "Saskatoon"
+[[team.playing]]
+season = "1914"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "52"
+R_PCT = ".577"
+R_RANK = "1"
+
+
+[[team]]
+name = "Moose Jaw"
+[[team.playing]]
+season = "1914"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "52"
+R_PCT = ".548"
+R_RANK = "2"
+
+
+[[team]]
+name = "Regina"
+[[team.playing]]
+season = "1914"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "57"
+R_PCT = ".540"
+R_RANK = "3"
+
+
+[[team]]
+name = "Medicine Hat"
+[[team.playing]]
+season = "1914"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "53"
+R_PCT = ".535"
+R_RANK = "4"
+
+
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1914"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "57"
+R_PCT = ".482"
+R_RANK = "5"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1914"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+R_W = "37"
+R_L = "81"
+R_PCT = ".313"
+R_RANK = "6"

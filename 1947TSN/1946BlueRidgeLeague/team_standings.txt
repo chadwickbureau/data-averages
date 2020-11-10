@@ -1,0 +1,50 @@
+[[team]]
+name = "Lenoir"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "35"
+R_T = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Mount Airy"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "45"
+R_T = "1"
+R_RANK = "2"
+
+
+[[team]]
+name = "Radford"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "55"
+R_T = "2"
+R_RANK = "3"
+
+
+[[team]]
+name = "Galax"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "30"
+R_L = "78"
+R_T = "0"
+R_RANK = "4"

@@ -1,0 +1,96 @@
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2804"
+F_A = "1589"
+F_E = "152"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2708"
+F_A = "1182"
+F_E = "162"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Ironton"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "2700"
+F_A = "1359"
+F_E = "226"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "2873"
+F_A = "1318"
+F_E = "238"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_PO = "2751"
+F_A = "1290"
+F_E = "204"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "67"
+F_PO = "1721"
+F_A = "772"
+F_E = "177"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Maysville"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "46"
+F_PO = "1142"
+F_A = "517"
+F_E = "68"
+F_PCT = ".902"

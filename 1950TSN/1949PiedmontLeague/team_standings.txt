@@ -1,0 +1,158 @@
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "62"
+R_T = "1"
+R_PCT = ".554"
+R_RANK = "1"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "66"
+R_T = "2"
+R_PCT = ".529"
+R_RANK = "2"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "68"
+R_T = "1"
+R_PCT = ".511"
+R_RANK = "3"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "69"
+R_T = "1"
+R_PCT = ".507"
+R_RANK = "4"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "72"
+R_T = "1"
+R_PCT = ".486"
+R_RANK = "5"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "82"
+R_T = "2"
+R_PCT = ".414"
+R_RANK = "6"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"

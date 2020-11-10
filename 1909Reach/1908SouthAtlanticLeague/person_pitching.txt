@@ -1,0 +1,607 @@
+[[person]]
+name.last = "Sitton"
+name.given = "V."
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "23"
+P_W = "17"
+P_L = "5"
+P_T = "1"
+P_PCT = ".773"
+
+
+[[person]]
+name.last = "Helm"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "17"
+P_W = "11"
+P_L = "4"
+P_T = "2"
+P_PCT = ".733"
+
+
+[[person]]
+name.last = "Viebohn"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "13"
+P_W = "8"
+P_L = "3"
+P_T = "2"
+P_PCT = ".727"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "25"
+P_W = "17"
+P_L = "7"
+P_T = "1"
+P_PCT = ".708"
+
+
+[[person]]
+name.last = "Hoff"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "21"
+P_W = "14"
+P_L = "6"
+P_T = "1"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Sitton"
+name.given = "P."
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "33"
+P_W = "19"
+P_L = "9"
+P_T = "3"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Goettel"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "20"
+P_W = "18"
+P_L = "9"
+P_T = "3"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Friend"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "8"
+P_W = "4"
+P_L = "2"
+P_T = "2"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Hansen"
+name.given = "P."
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "12"
+P_W = "7"
+P_L = "4"
+P_T = "1"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Hartley"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "5"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Hixon"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "33"
+P_W = "18"
+P_L = "12"
+P_T = "3"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Richardson"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "14"
+P_W = "7"
+P_L = "5"
+P_T = "2"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Mullin"
+name.given = "A."
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "19"
+P_W = "11"
+P_L = "8"
+P_T = "0"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "Paige"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "21"
+P_W = "11"
+P_L = "8"
+P_T = "2"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "Keiber"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "32"
+P_W = "15"
+P_L = "13"
+P_T = "4"
+P_PCT = ".536"
+
+
+[[person]]
+name.last = "Reagan"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "17"
+P_W = "9"
+P_L = "8"
+P_T = "0"
+P_PCT = ".529"
+
+
+[[person]]
+name.last = "Welsher"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "39"
+P_W = "19"
+P_L = "17"
+P_T = "3"
+P_PCT = ".528"
+
+
+[[person]]
+name.last = "Viola"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "6"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Kahrs"
+name.given = "P."
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "11"
+P_W = "5"
+P_L = "5"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Foster"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "28"
+P_W = "13"
+P_L = "2"
+P_T = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Clarke"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "28"
+P_W = "18"
+P_L = "19"
+P_T = "1"
+P_PCT = ".486"
+
+
+[[person]]
+name.last = "Salve"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "30"
+P_W = "14"
+P_L = "15"
+P_T = "1"
+P_PCT = ".483"
+
+
+[[person]]
+name.last = "Atkins"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "15"
+P_W = "6"
+P_L = "7"
+P_T = "2"
+P_PCT = ".461"
+
+
+[[person]]
+name.last = "Weems"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "23"
+P_W = "10"
+P_L = "13"
+P_T = "0"
+P_PCT = ".435"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "7"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Dexter"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Schmick"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Stowers"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "33"
+P_W = "12"
+P_L = "20"
+P_T = "1"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Malarkey"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "5"
+P_T = "2"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Clancy"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "19"
+P_W = "6"
+P_L = "11"
+P_T = "2"
+P_PCT = ".353"
+
+
+[[person]]
+name.last = "Volz"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "34"
+P_W = "9"
+P_L = "19"
+P_T = "6"
+P_PCT = ".321"
+
+
+[[person]]
+name.last = "McCarthy"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "3"
+P_T = "1"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Beckel"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "18"
+P_W = "4"
+P_L = "12"
+P_T = "2"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Routh"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "4"
+P_T = "0"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Flowers"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "4"
+P_T = "0"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "4"
+P_T = "2"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Durrett"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "9"
+P_T = "0"
+P_PCT = ".100"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "5"
+P_T = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "O’Connor"
+[[person.playing]]
+season = "1908"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "4"
+P_T = "0"
+P_PCT = ".000"

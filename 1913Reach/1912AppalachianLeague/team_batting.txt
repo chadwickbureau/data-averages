@@ -1,0 +1,100 @@
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "104"
+B_AB = "3289"
+B_R = "398"
+B_H = "837"
+B_SB = "171"
+B_SH = "116"
+B_SF = "13"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "102"
+B_AB = "3131"
+B_R = "357"
+B_H = "772"
+B_SB = "133"
+B_SH = "103"
+B_SF = "17"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "106"
+B_AB = "3317"
+B_R = "320"
+B_H = "817"
+B_SB = "128"
+B_SH = "103"
+B_SF = "13"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Cleveland"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "102"
+B_AB = "3182"
+B_R = "373"
+B_H = "765"
+B_SB = "146"
+B_SH = "121"
+B_SF = "11"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Morristown"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "102"
+B_AB = "3127"
+B_R = "323"
+B_H = "740"
+B_SB = "129"
+B_SH = "115"
+B_SF = "21"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "101"
+B_AB = "3093"
+B_R = "361"
+B_H = "721"
+B_SB = "144"
+B_SH = "70"
+B_SF = "30"
+B_AVG = ".233"

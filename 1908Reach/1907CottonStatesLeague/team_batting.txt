@@ -1,0 +1,106 @@
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4455"
+B_R = "455"
+B_H = "804"
+B_2B = "191"
+B_3B = "25"
+B_HR = "12"
+B_TB = "1032"
+B_SH = "203"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4429"
+B_R = "423"
+B_H = "874"
+B_2B = "115"
+B_3B = "13"
+B_HR = "3"
+B_TB = "1005"
+B_SH = "195"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Vicksburg"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4512"
+B_R = "460"
+B_H = "785"
+B_2B = "156"
+B_3B = "37"
+B_HR = "7"
+B_TB = "985"
+B_SH = "164"
+B_AVG = ".216"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4341"
+B_R = "305"
+B_H = "777"
+B_2B = "128"
+B_3B = "26"
+B_HR = "6"
+B_TB = "937"
+B_SH = "203"
+B_AVG = ".216"
+
+
+[[team]]
+name = "Gulfport"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4661"
+B_R = "408"
+B_H = "812"
+B_2B = "143"
+B_3B = "23"
+B_HR = "24"
+B_TB = "100"
+B_SH = "161"
+B_AVG = ".214"
+
+
+[[team]]
+name = "Meridian"
+[[team.playing]]
+season = "1907"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4574"
+B_R = "341"
+B_H = "762"
+B_2B = "126"
+B_3B = "28"
+B_HR = "5"
+B_TB = "921"
+B_SH = "169"
+B_AVG = ".201"

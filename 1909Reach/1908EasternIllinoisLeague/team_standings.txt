@@ -1,0 +1,76 @@
+[[team]]
+name = "Staunton"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "23"
+R_L = "9"
+R_PCT = ".718"
+R_RANK = "1"
+
+
+[[team]]
+name = "Vincennes"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "23"
+R_L = "10"
+R_PCT = ".690"
+R_RANK = "2"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "17"
+R_L = "15"
+R_PCT = ".531"
+R_RANK = "3"
+
+
+[[team]]
+name = "Shelbyville"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "17"
+R_L = "17"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Taylorville"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "16"
+R_L = "16"
+R_PCT = ".500"
+R_RANK = "5"
+
+
+[[team]]
+name = "Linton"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "7"
+R_L = "26"
+R_PCT = ".212"
+R_RANK = "6"

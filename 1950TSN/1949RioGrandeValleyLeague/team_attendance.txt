@@ -1,0 +1,58 @@
+[[team]]
+name = "Corpus Christi"
+[[team.playing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "97192"
+
+
+[[team]]
+name = "Brownsville"
+[[team.playing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "51416"
+
+
+[[team]]
+name = "Laredo"
+[[team.playing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "47857"
+
+
+[[team]]
+name = "Del Rio"
+[[team.playing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "32323"
+
+
+[[team]]
+name = "McAllen"
+[[team.playing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "22598"
+
+
+[[team]]
+name = "Donna/Robstown"
+[[team.playing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "19753"

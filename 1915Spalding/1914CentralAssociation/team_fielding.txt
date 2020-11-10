@@ -1,0 +1,110 @@
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3387"
+F_A = "1440"
+F_E = "192"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3483"
+F_A = "1611"
+F_E = "217"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3349"
+F_A = "1426"
+F_E = "236"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3238"
+F_A = "1462"
+F_E = "253"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3332"
+F_A = "1513"
+F_E = "263"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Marshalltown"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3307"
+F_A = "1469"
+F_E = "272"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Galesburg"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3288"
+F_A = "1486"
+F_E = "279"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3284"
+F_A = "1588"
+F_E = "344"
+F_PCT = ".934"

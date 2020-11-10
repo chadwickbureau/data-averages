@@ -1,0 +1,48 @@
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "26198"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "21351"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "14286"
+
+
+[[team]]
+name = "Bluefield"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "11732"
+
+
+[[team]]
+name = "Pulaski"
+[[team.playing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "8991"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_DP = "178"
+F_TP = "1"
+F_PB = "18"
+F_PO = "3881"
+F_A = "1753"
+F_E = "233"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Sioux City/St. Joseph"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_DP = "193"
+F_TP = "0"
+F_PB = "8"
+F_PO = "3852"
+F_A = "1783"
+F_E = "265"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "103"
+F_TP = "0"
+F_PB = "21"
+F_PO = "3913"
+F_A = "1900"
+F_E = "285"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_DP = "79"
+F_TP = "0"
+F_PB = "17"
+F_PO = "3878"
+F_A = "1840"
+F_E = "290"
+F_PCT = ".952"
+
+
+[[team]]
+name = "St. Joseph/Hutchinson"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "73"
+F_TP = "0"
+F_PB = "19"
+F_PO = "3908"
+F_A = "1757"
+F_E = "301"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "94"
+F_TP = "0"
+F_PB = "9"
+F_PO = "3840"
+F_A = "1797"
+F_E = "298"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "88"
+F_TP = "0"
+F_PB = "14"
+F_PO = "3896"
+F_A = "2078"
+F_E = "336"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "77"
+F_TP = "1"
+F_PB = "20"
+F_PO = "3909"
+F_A = "1944"
+F_E = "331"
+F_PCT = ".946"

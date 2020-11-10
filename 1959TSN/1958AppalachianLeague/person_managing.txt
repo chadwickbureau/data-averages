@@ -1,0 +1,89 @@
+[[person]]
+name.last = "Lyons"
+name.given = "Edmund"
+[[person.managing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Johnson City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kurowski"
+name.given = "George (Whitey)"
+[[person.managing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wytheville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dorton"
+name.given = "M. Lamar (Larry)"
+[[person.managing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salem"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Hershel"
+[[person.managing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pulaski"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lutz"
+name.given = "Bernard"
+[[person.managing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bluefield"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hofmann"
+name.given = "Fred"
+[[person.managing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bluefield"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hooper"
+name.given = "Robert"
+[[person.managing]]
+season = "1958"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bluefield"
+S_ORDER = "3"
+[person.managing.totals]

@@ -1,0 +1,134 @@
+[[team]]
+name = "Modesto"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "120"
+F_PB = "36"
+F_PO = "3687"
+F_A = "1495"
+F_E = "229"
+F_PCT = ".958"
+F_TP = "1"
+
+
+[[team]]
+name = "Reno"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "122"
+F_PB = "21"
+F_PO = "3564"
+F_A = "1443"
+F_E = "237"
+F_PCT = ".955"
+F_TP = "1"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "103"
+F_PB = "15"
+F_PO = "3510"
+F_A = "1330"
+F_E = "243"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Salinas"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "83"
+F_PB = "11"
+F_PO = "3471"
+F_A = "1384"
+F_E = "244"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Visalia"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "111"
+F_PB = "18"
+F_PO = "3528"
+F_A = "1490"
+F_E = "257"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "115"
+F_PB = "24"
+F_PO = "3679"
+F_A = "1546"
+F_E = "284"
+F_PCT = ".948"
+F_TP = "0"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "107"
+F_PB = "26"
+F_PO = "3675"
+F_A = "1435"
+F_E = "298"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "96"
+F_PB = "25"
+F_PO = "3565"
+F_A = "1372"
+F_E = "305"
+F_PCT = ".942"
+F_TP = "0"

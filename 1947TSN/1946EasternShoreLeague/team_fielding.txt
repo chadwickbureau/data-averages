@@ -1,0 +1,134 @@
+[[team]]
+name = "Milford"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "95"
+F_TP = "0"
+F_PB = "10"
+F_PO = "3353"
+F_A = "1488"
+F_E = "191"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Dover"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "96"
+F_TP = "0"
+F_PB = "13"
+F_PO = "3223"
+F_A = "1356"
+F_E = "235"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "102"
+F_TP = "0"
+F_PB = "13"
+F_PO = "3271"
+F_A = "1443"
+F_E = "254"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Easton"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "74"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3327"
+F_A = "1418"
+F_E = "282"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Federalsburg"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "74"
+F_TP = "0"
+F_PB = "24"
+F_PO = "3176"
+F_A = "1337"
+F_E = "280"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Seaford"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "72"
+F_TP = "1"
+F_PB = "23"
+F_PO = "3268"
+F_A = "1380"
+F_E = "304"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Centreville"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "64"
+F_TP = "3"
+F_PB = "10"
+F_PO = "3245"
+F_A = "1254"
+F_E = "308"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Cambridge"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "85"
+F_TP = "0"
+F_PB = "24"
+F_PO = "3359"
+F_A = "1353"
+F_E = "327"
+F_PCT = ".935"

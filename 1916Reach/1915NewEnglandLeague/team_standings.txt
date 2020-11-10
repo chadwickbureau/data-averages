@@ -1,0 +1,102 @@
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "42"
+R_PCT = ".647"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "54"
+R_PCT = ".534"
+R_RANK = "2"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "57"
+R_PCT = ".521"
+R_RANK = "3"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "56"
+R_PCT = ".509"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "55"
+R_PCT = ".495"
+R_RANK = "5"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "59"
+R_PCT = ".459"
+R_RANK = "6"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "67"
+R_PCT = ".417"
+R_RANK = "7"
+
+
+[[team]]
+name = "Fitchburg"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "69"
+R_PCT = ".410"
+R_RANK = "8"

@@ -1,0 +1,186 @@
+[[team]]
+name = "Twin Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "78"
+R_L = "47"
+R_T = "0"
+R_PCT = ".624"
+R_RANK = "1"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "48"
+R_T = "0"
+R_PCT = ".616"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "51"
+R_T = "0"
+R_PCT = ".595"
+R_RANK = "3"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "53"
+R_T = "0"
+R_PCT = ".579"
+R_RANK = "4"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "62"
+R_T = "0"
+R_PCT = ".500"
+R_RANK = "5"
+
+
+[[team]]
+name = "Ogden"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "68"
+R_T = "0"
+R_PCT = ".460"
+R_RANK = "6"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "47"
+R_L = "77"
+R_T = "0"
+R_PCT = ".379"
+R_RANK = "7"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "31"
+R_L = "95"
+R_T = "0"
+R_PCT = ".246"
+R_RANK = "8"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Twin Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "0"
+R_L = "2"
+R_RANK = "2"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "0"
+R_L = "2"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "3"
+R_RANK = "2"

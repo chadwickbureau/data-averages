@@ -1,0 +1,154 @@
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "44"
+R_L = "21"
+R_PCT = ".677"
+R_RANK = "1"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "38"
+R_L = "24"
+R_PCT = ".613"
+R_RANK = "2"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "38"
+R_L = "28"
+R_PCT = ".576"
+R_RANK = "3"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "33"
+R_L = "34"
+R_PCT = ".493"
+R_RANK = "4"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "22"
+R_L = "40"
+R_PCT = ".355"
+R_RANK = "5"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "48"
+R_PCT = ".294"
+R_RANK = "6"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "49"
+R_L = "27"
+R_PCT = ".645"
+R_RANK = "1"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "40"
+R_L = "32"
+R_PCT = ".556"
+R_RANK = "2"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "41"
+R_L = "34"
+R_PCT = ".547"
+R_RANK = "3"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "32"
+R_L = "38"
+R_PCT = ".457"
+R_RANK = "4"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "40"
+R_PCT = ".429"
+R_RANK = "5"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "26"
+R_L = "48"
+R_PCT = ".351"
+R_RANK = "6"

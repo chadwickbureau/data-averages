@@ -1,0 +1,110 @@
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2925"
+F_A = "1225"
+F_E = "214"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_PO = "2706"
+F_A = "1256"
+F_E = "232"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Seward"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2751"
+F_A = "1238"
+F_E = "232"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2475"
+F_A = "1184"
+F_E = "224"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Fremont"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2798"
+F_A = "1130"
+F_E = "248"
+F_PCT = ".941"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_PO = "2686"
+F_A = "1341"
+F_E = "252"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_PO = "2920"
+F_A = "1308"
+F_E = "269"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1911"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_PO = "2845"
+F_A = "1401"
+F_E = "284"
+F_PCT = ".937"

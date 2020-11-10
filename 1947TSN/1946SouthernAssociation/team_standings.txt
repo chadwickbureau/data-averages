@@ -1,0 +1,194 @@
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "96"
+R_L = "58"
+R_T = "1"
+R_PCT = ".623"
+R_RANK = "1"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "90"
+R_L = "63"
+R_T = "0"
+R_PCT = ".588"
+R_RANK = "2"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "73"
+R_T = "3"
+R_PCT = ".520"
+R_RANK = "3"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "77"
+R_T = "2"
+R_PCT = ".493"
+R_RANK = "4"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "78"
+R_T = "4"
+R_PCT = ".490"
+R_RANK = "5"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "78"
+R_T = "2"
+R_PCT = ".490"
+R_RANK = "5"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "84"
+R_T = "0"
+R_PCT = ".447"
+R_RANK = "7"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "99"
+R_T = "0"
+R_PCT = ".344"
+R_RANK = "8"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_T = "1"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_T = "1"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"

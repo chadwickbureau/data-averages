@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Griswold"
+name.given = "Harry"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bakersfield"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Uhalt"
+name.given = "Bernard (Frenchy)"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fresno"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Sanders"
+name.given = "Battle (Bones)"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ventura"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Owen"
+name.given = "Marvin"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Jose"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kehn"
+name.given = "Chester"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Santa Barbara"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bongiovanni"
+name.given = "Anthony (Nino)"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Stockton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Jackson"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Modesto"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Macon"
+name.given = "Max"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Modesto"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Treadway"
+name.given = "Leon"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Visalia"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Statz"
+name.given = "Arnold"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Visalia"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Passeau"
+name.given = "Claude"
+[[person.managing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Visalia"
+S_ORDER = "3"
+[person.managing.totals]

@@ -1,0 +1,78 @@
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "145946"
+
+
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "140389"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "130849"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "113358"
+
+
+[[team]]
+name = "Modesto"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "78469"
+
+
+[[team]]
+name = "Santa Barbara"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "72244"
+
+
+[[team]]
+name = "Visalia"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "55614"
+
+
+[[team]]
+name = "Ventura"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "53071"

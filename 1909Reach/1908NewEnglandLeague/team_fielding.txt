@@ -1,0 +1,110 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3470"
+F_A = "1703"
+F_E = "215"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3396"
+F_A = "1701"
+F_E = "266"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3321"
+F_A = "1731"
+F_E = "268"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3325"
+F_A = "1693"
+F_E = "275"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3386"
+F_A = "1775"
+F_E = "283"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3417"
+F_A = "1710"
+F_E = "285"
+F_PCT = ".947"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3298"
+F_A = "1642"
+F_E = "289"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3457"
+F_A = "1726"
+F_E = "323"
+F_PCT = ".941"

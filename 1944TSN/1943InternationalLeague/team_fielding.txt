@@ -1,0 +1,158 @@
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "110"
+F_TP = "1"
+F_GDP = "77"
+F_LOB = "1080"
+F_PO = "3906"
+F_A = "1648"
+F_E = "171"
+F_TC = "5725"
+F_PB = "10"
+F_PCT = ".970"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "134"
+F_TP = "1"
+F_GDP = "89"
+F_LOB = "1192"
+F_PO = "4017"
+F_A = "1750"
+F_E = "195"
+F_TC = "5962"
+F_PB = "13"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "119"
+F_TP = "0"
+F_GDP = "82"
+F_LOB = "1090"
+F_PO = "3847"
+F_A = "1796"
+F_E = "192"
+F_TC = "5835"
+F_PB = "14"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "121"
+F_TP = "2"
+F_GDP = "81"
+F_LOB = "1087"
+F_PO = "3893"
+F_A = "1840"
+F_E = "206"
+F_TC = "5939"
+F_PB = "10"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_DP = "102"
+F_TP = "0"
+F_GDP = "68"
+F_LOB = "1223"
+F_PO = "3999"
+F_A = "1679"
+F_E = "233"
+F_TC = "5911"
+F_PB = "19"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "124"
+F_TP = "1"
+F_GDP = "72"
+F_LOB = "1114"
+F_PO = "3941"
+F_A = "1724"
+F_E = "230"
+F_TC = "5895"
+F_PB = "17"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "103"
+F_TP = "0"
+F_GDP = "116"
+F_LOB = "1019"
+F_PO = "3877"
+F_A = "1782"
+F_E = "238"
+F_TC = "5897"
+F_PB = "9"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "126"
+F_TP = "0"
+F_GDP = "97"
+F_LOB = "1079"
+F_PO = "3832"
+F_A = "1666"
+F_E = "239"
+F_TC = "5737"
+F_PB = "16"
+F_PCT = ".958"

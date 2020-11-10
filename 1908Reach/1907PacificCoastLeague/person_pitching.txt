@@ -1,0 +1,842 @@
+[[person]]
+name.last = "Gray"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_W = "32"
+P_L = "14"
+P_T = "0"
+P_R = "108"
+P_SO = "216"
+P_BB = "155"
+P_HP = "19"
+P_WP = "5"
+P_BK = "1"
+P_PCT = ".696"
+
+
+[[person]]
+name.last = "Hosp"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_W = "12"
+P_L = "7"
+P_T = "0"
+P_R = "72"
+P_SO = "56"
+P_BB = "96"
+P_HP = "13"
+P_WP = "1"
+P_BK = "1"
+P_PCT = ".632"
+
+
+[[person]]
+name.last = "Henley"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "24"
+P_L = "15"
+P_T = "1"
+P_R = "134"
+P_SO = "197"
+P_BB = "103"
+P_HP = "21"
+P_WP = "7"
+P_BK = "1"
+P_PCT = ".616"
+
+
+[[person]]
+name.last = "Ashley"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "6"
+P_L = "4"
+P_T = "0"
+P_R = "37"
+P_SO = "25"
+P_BB = "25"
+P_HP = "6"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_W = "23"
+P_L = "16"
+P_T = "0"
+P_R = "112"
+P_SO = "144"
+P_BB = "82"
+P_HP = "13"
+P_WP = "7"
+P_BK = "1"
+P_PCT = ".590"
+
+
+[[person]]
+name.last = "Hogan"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "20"
+P_L = "14"
+P_T = "1"
+P_R = "143"
+P_SO = "115"
+P_BB = "90"
+P_HP = "9"
+P_WP = "11"
+P_BK = "2"
+P_PCT = ".588"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "25"
+P_L = "18"
+P_T = "1"
+P_R = "160"
+P_SO = "135"
+P_BB = "134"
+P_HP = "25"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".581"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "29"
+P_L = "21"
+P_T = "1"
+P_R = "136"
+P_SO = "156"
+P_BB = "125"
+P_HP = "10"
+P_WP = "5"
+P_BK = "0"
+P_PCT = ".580"
+
+
+[[person]]
+name.last = "Hopkins"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "5"
+P_L = "4"
+P_T = "0"
+P_R = "33"
+P_SO = "27"
+P_BB = "32"
+P_HP = "6"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Bergman"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_W = "6"
+P_L = "5"
+P_T = "0"
+P_R = "40"
+P_SO = "27"
+P_BB = "49"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Nagle"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_W = "16"
+P_L = "14"
+P_T = "1"
+P_R = "95"
+P_SO = "69"
+P_BB = "50"
+P_HP = "5"
+P_WP = "3"
+P_BK = "1"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Cates"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "26"
+P_L = "23"
+P_T = "0"
+P_R = "162"
+P_SO = "226"
+P_BB = "141"
+P_HP = "20"
+P_WP = "11"
+P_BK = "0"
+P_PCT = ".531"
+
+
+[[person]]
+name.last = "Randolph"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_W = "20"
+P_L = "18"
+P_T = "2"
+P_R = "116"
+P_SO = "107"
+P_BB = "108"
+P_HP = "9"
+P_WP = "9"
+P_BK = "3"
+P_PCT = ".526"
+
+
+[[person]]
+name.last = "Kinsella"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "20"
+P_L = "19"
+P_T = "1"
+P_R = "144"
+P_SO = "167"
+P_BB = "102"
+P_HP = "13"
+P_WP = "6"
+P_BK = "2"
+P_PCT = ".513"
+
+
+[[person]]
+name.last = "Hickey"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "1"
+P_L = "1"
+P_T = "0"
+P_R = "3"
+P_SO = "2"
+P_BB = "3"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Quick"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "11"
+P_L = "12"
+P_T = "0"
+P_R = "76"
+P_SO = "56"
+P_BB = "71"
+P_HP = "4"
+P_WP = "1"
+P_BK = "1"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "Carnes"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "16"
+P_L = "19"
+P_T = "0"
+P_R = "136"
+P_SO = "124"
+P_BB = "134"
+P_HP = "16"
+P_WP = "5"
+P_BK = "2"
+P_PCT = ".457"
+
+
+[[person]]
+name.last = "Joy"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "18"
+P_L = "22"
+P_T = "0"
+P_R = "120"
+P_SO = "170"
+P_BB = "143"
+P_HP = "11"
+P_WP = "8"
+P_BK = "1"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Groom"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "20"
+P_L = "26"
+P_T = "1"
+P_R = "156"
+P_SO = "191"
+P_BB = "158"
+P_HP = "28"
+P_WP = "22"
+P_BK = "0"
+P_PCT = ".435"
+
+
+[[person]]
+name.last = "Hartman"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "10"
+P_L = "14"
+P_T = "0"
+P_R = "99"
+P_SO = "84"
+P_BB = "100"
+P_HP = "12"
+P_WP = "4"
+P_BK = "0"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "12"
+P_L = "17"
+P_T = "0"
+P_R = "136"
+P_SO = "100"
+P_BB = "96"
+P_HP = "9"
+P_WP = "7"
+P_BK = "5"
+P_PCT = ".414"
+
+
+[[person]]
+name.last = "Reidy"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "9"
+P_L = "14"
+P_T = "0"
+P_R = "93"
+P_SO = "49"
+P_BB = "32"
+P_HP = "6"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".391"
+
+
+[[person]]
+name.last = "Califf"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "13"
+P_L = "22"
+P_T = "0"
+P_R = "128"
+P_SO = "11"
+P_BB = "108"
+P_HP = "15"
+P_WP = "12"
+P_BK = "0"
+P_PCT = ".371"
+
+
+[[person]]
+name.last = "Pernoll"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "6"
+P_L = "13"
+P_T = "0"
+P_R = "80"
+P_SO = "69"
+P_BB = "73"
+P_HP = "7"
+P_WP = "1"
+P_BK = "1"
+P_PCT = ".315"
+
+
+[[person]]
+name.last = "Goodwin"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_R = "16"
+P_SO = "12"
+P_BB = "19"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Gum"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "1"
+P_L = "5"
+P_T = "0"
+P_R = "45"
+P_SO = "21"
+P_BB = "27"
+P_HP = "5"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".167"
+
+
+[[person]]
+name.last = "Schimpff"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "1"
+P_L = "9"
+P_T = "1"
+P_R = "64"
+P_SO = "33"
+P_BB = "26"
+P_HP = "11"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".100"
+
+
+[[person]]
+name.last = "Gaddy"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "2"
+P_SO = "3"
+P_BB = "1"
+P_HP = "1"
+P_WP = "0"
+P_BK = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "3"
+P_SO = "2"
+P_BB = "2"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Ferraris"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "3"
+P_SO = "2"
+P_BB = "1"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Wheeler"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "4"
+P_SO = "5"
+P_BB = "1"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Reed"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "4"
+P_SO = "13"
+P_BB = "13"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Andrada"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "4"
+P_SO = "3"
+P_BB = "2"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Necker"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "4"
+P_SO = "4"
+P_BB = "6"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Gamble"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "5"
+P_SO = "5"
+P_BB = "0"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Fort"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "6"
+P_SO = "3"
+P_BB = "2"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "7"
+P_SO = "2"
+P_BB = "6"
+P_HP = "0"
+P_WP = "2"
+P_BK = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Jenkins"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "8"
+P_SO = "5"
+P_BB = "5"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Hoag"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "0"
+P_L = "3"
+P_T = "0"
+P_R = "10"
+P_SO = "7"
+P_BB = "14"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Sawyer"
+[[person.playing]]
+season = "1907"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "0"
+P_L = "3"
+P_T = "0"
+P_R = "21"
+P_SO = "6"
+P_BB = "12"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".000"

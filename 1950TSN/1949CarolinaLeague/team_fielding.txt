@@ -1,0 +1,134 @@
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "116"
+F_PB = "26"
+F_PO = "3809"
+F_A = "1517"
+F_E = "184"
+F_TP = "0"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "130"
+F_PB = "10"
+F_PO = "3753"
+F_A = "1527"
+F_E = "223"
+F_TP = "0"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "140"
+F_PB = "20"
+F_PO = "3682"
+F_A = "1580"
+F_E = "227"
+F_TP = "0"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "131"
+F_PB = "12"
+F_PO = "3718"
+F_A = "1395"
+F_E = "225"
+F_TP = "0"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "145"
+F_DP = "133"
+F_PB = "23"
+F_PO = "3724"
+F_A = "1403"
+F_E = "231"
+F_TP = "1"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "137"
+F_PB = "21"
+F_PO = "3643"
+F_A = "1587"
+F_E = "249"
+F_TP = "0"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Reidsville"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "144"
+F_PB = "24"
+F_PO = "3728"
+F_A = "1584"
+F_E = "265"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Martinsville"
+[[team.playing]]
+season = "1949"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "145"
+F_DP = "156"
+F_PB = "14"
+F_PO = "3765"
+F_A = "1531"
+F_E = "281"
+F_TP = "0"
+F_PCT = ".950"

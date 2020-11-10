@@ -1,0 +1,102 @@
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "100"
+R_L = "49"
+R_PCT = ".671"
+R_RANK = "1"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "57"
+R_PCT = ".617"
+R_RANK = "2"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "67"
+R_PCT = ".548"
+R_RANK = "3"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "71"
+R_PCT = ".514"
+R_RANK = "4"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "80"
+R_PCT = ".470"
+R_RANK = "5"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "83"
+R_PCT = ".447"
+R_RANK = "6"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "93"
+R_PCT = ".376"
+R_RANK = "7"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "93"
+R_PCT = ".354"
+R_RANK = "8"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3925"
+F_A = "1680"
+F_E = "175"
+F_DP = "118"
+F_PB = "29"
+F_PCT = ".970"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4089"
+F_A = "1677"
+F_E = "187"
+F_DP = "149"
+F_PB = "8"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "3987"
+F_A = "1685"
+F_E = "255"
+F_DP = "138"
+F_PB = "22"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "4052"
+F_A = "1643"
+F_E = "257"
+F_DP = "155"
+F_PB = "22"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Sherman-Denison"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4012"
+F_A = "1770"
+F_E = "291"
+F_DP = "124"
+F_PB = "16"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "3969"
+F_A = "1789"
+F_E = "302"
+F_DP = "160"
+F_PB = "23"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4008"
+F_A = "1693"
+F_E = "346"
+F_DP = "172"
+F_PB = "19"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4014"
+F_A = "1637"
+F_E = "350"
+F_DP = "110"
+F_PB = "26"
+F_PCT = ".942"

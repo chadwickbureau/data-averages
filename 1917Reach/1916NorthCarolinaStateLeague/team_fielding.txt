@@ -1,0 +1,76 @@
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2929"
+F_A = "1515"
+F_E = "195"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2918"
+F_A = "1341"
+F_E = "215"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2999"
+F_A = "1261"
+F_E = "219"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2910"
+F_A = "1284"
+F_E = "254"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2127"
+F_A = "1374"
+F_E = "253"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2805"
+F_A = "1358"
+F_E = "242"
+F_PCT = ".940"

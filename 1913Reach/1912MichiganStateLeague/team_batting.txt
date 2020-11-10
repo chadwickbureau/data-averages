@@ -1,0 +1,82 @@
+[[team]]
+name = "Traverse City"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4280"
+B_H = "1132"
+B_SH = "197"
+B_SB = "291"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Boyne City"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3940"
+B_H = "1022"
+B_SH = "124"
+B_SB = "162"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Manistee"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3757"
+B_H = "928"
+B_SH = "149"
+B_SB = "203"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4273"
+B_H = "1053"
+B_SH = "98"
+B_SB = "177"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Ludington"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3596"
+B_H = "863"
+B_SH = "134"
+B_SB = "142"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3200"
+B_H = "719"
+B_SH = "108"
+B_SB = "104"
+B_AVG = ".225"

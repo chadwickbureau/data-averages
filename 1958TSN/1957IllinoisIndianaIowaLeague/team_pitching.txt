@@ -1,0 +1,148 @@
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+P_G = "130"
+P_CG = "55"
+P_SHO = "10"
+P_IP = "1155"
+P_AB = "4347"
+P_H = "1020"
+P_HR = "54"
+P_R = "530"
+P_ER = "367"
+P_SH = "81"
+P_BB = "569"
+P_SO = "873"
+P_HP = "31"
+P_WP = "73"
+P_BK = "6"
+P_ERA = "2.86"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+P_G = "128"
+P_CG = "48"
+P_SHO = "7"
+P_IP = "1130"
+P_AB = "4190"
+P_H = "1007"
+P_HR = "73"
+P_R = "574"
+P_ER = "451"
+P_SH = "116"
+P_BB = "615"
+P_SO = "798"
+P_HP = "37"
+P_WP = "65"
+P_BK = "8"
+P_ERA = "3.59"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+P_G = "128"
+P_CG = "36"
+P_SHO = "5"
+P_IP = "1111"
+P_AB = "4249"
+P_H = "1042"
+P_HR = "81"
+P_R = "681"
+P_ER = "497"
+P_SH = "103"
+P_BB = "726"
+P_SO = "736"
+P_HP = "51"
+P_WP = "73"
+P_BK = "3"
+P_ERA = "4.03"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+P_G = "129"
+P_CG = "50"
+P_SHO = "3"
+P_IP = "1111"
+P_AB = "4329"
+P_H = "1091"
+P_HR = "74"
+P_R = "707"
+P_ER = "499"
+P_SH = "107"
+P_BB = "583"
+P_SO = "842"
+P_HP = "44"
+P_WP = "85"
+P_BK = "4"
+P_ERA = "4.04"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+P_G = "129"
+P_CG = "58"
+P_SHO = "7"
+P_IP = "1142"
+P_AB = "4371"
+P_H = "1110"
+P_HR = "108"
+P_R = "646"
+P_ER = "513"
+P_SH = "72"
+P_BB = "607"
+P_SO = "741"
+P_HP = "45"
+P_WP = "87"
+P_BK = "10"
+P_ERA = "4.04"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+P_G = "130"
+P_CG = "47"
+P_SHO = "4"
+P_IP = "1165"
+P_AB = "4509"
+P_H = "1146"
+P_HR = "90"
+P_R = "662"
+P_ER = "527"
+P_SH = "92"
+P_BB = "527"
+P_SO = "844"
+P_HP = "38"
+P_WP = "56"
+P_BK = "1"
+P_ERA = "4.07"

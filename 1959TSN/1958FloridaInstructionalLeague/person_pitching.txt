@@ -1,0 +1,185 @@
+[[person]]
+name.last = "Hayes"
+name.given = "Tim"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Athletics"
+[person.playing.totals]
+P_IP = "31"
+P_SO = "24"
+P_W = "6"
+P_L = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Christoff"
+name.given = "Ernie"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Braves"
+[person.playing.totals]
+P_IP = "76"
+P_SO = "47"
+P_W = "8"
+P_L = "1"
+P_PCT = ".889"
+
+
+[[person]]
+name.last = "Addis"
+name.given = "Duke"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+P_IP = "67"
+P_SO = "30"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+
+
+[[person]]
+name.last = "Kinart"
+name.given = "Duane"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+P_IP = "47"
+P_SO = "23"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Bass"
+name.given = "Norman"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Athletics"
+[person.playing.totals]
+P_IP = "71"
+P_SO = "54"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Holmes"
+name.given = "Bill"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Braves"
+[person.playing.totals]
+P_IP = "79"
+P_SO = "56"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Sadecki"
+name.given = "Ray"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cardinals"
+[person.playing.totals]
+P_IP = "72"
+P_SO = "89"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Stafford"
+name.given = "Bill"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+P_IP = "40"
+P_SO = "28"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Pankey"
+name.given = "Mike"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cardinals"
+[person.playing.totals]
+P_IP = "53"
+P_SO = "37"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Serrett"
+name.given = "Rudy"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+P_IP = "45"
+P_SO = "32"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Tolar"
+name.given = "Billy"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cardinals"
+[person.playing.totals]
+P_IP = "46"
+P_SO = "41"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"

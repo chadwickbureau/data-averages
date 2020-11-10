@@ -1,0 +1,398 @@
+[[team]]
+name = "Cordoba"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "132"
+P_CG = "63"
+P_SHO = "18"
+P_SV = "20"
+P_IP = "1108"
+P_H = "1054"
+P_R = "422"
+P_ER = "324"
+P_HR = "48"
+P_BB = "330"
+P_IBB = "50"
+P_HP = "43"
+P_SO = "552"
+P_WP = "17"
+P_BK = "0"
+P_ERA = "2.63"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "134"
+P_CG = "70"
+P_SHO = "12"
+P_SV = "7"
+P_IP = "1160"
+P_H = "1168"
+P_R = "450"
+P_ER = "344"
+P_HR = "53"
+P_BB = "337"
+P_IBB = "70"
+P_HP = "24"
+P_SO = "562"
+P_WP = "24"
+P_BK = "1"
+P_ERA = "2.67"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "135"
+P_CG = "76"
+P_SHO = "15"
+P_SV = "12"
+P_IP = "1122"
+P_H = "1094"
+P_R = "491"
+P_ER = "345"
+P_HR = "50"
+P_BB = "312"
+P_IBB = "34"
+P_HP = "20"
+P_SO = "782"
+P_WP = "43"
+P_BK = "1"
+P_ERA = "2.77"
+
+
+[[team]]
+name = "Tampico"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "134"
+P_CG = "61"
+P_SHO = "21"
+P_SV = "9"
+P_IP = "1152"
+P_H = "1145"
+P_R = "479"
+P_ER = "360"
+P_HR = "61"
+P_BB = "341"
+P_IBB = "32"
+P_HP = "42"
+P_SO = "642"
+P_WP = "36"
+P_BK = "2"
+P_ERA = "2.81"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "133"
+P_CG = "76"
+P_SHO = "14"
+P_SV = "10"
+P_IP = "1111"
+P_H = "1098"
+P_R = "457"
+P_ER = "369"
+P_HR = "61"
+P_BB = "357"
+P_IBB = "37"
+P_HP = "26"
+P_SO = "539"
+P_WP = "40"
+P_BK = "5"
+P_ERA = "2.99"
+
+
+[[team]]
+name = "Puebla"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "137"
+P_CG = "59"
+P_SHO = "14"
+P_SV = "16"
+P_IP = "1174"
+P_H = "1259"
+P_R = "545"
+P_ER = "407"
+P_HR = "64"
+P_BB = "379"
+P_IBB = "51"
+P_HP = "37"
+P_SO = "538"
+P_WP = "22"
+P_BK = "0"
+P_ERA = "3.12"
+
+
+[[team]]
+name = "Reynosa"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "136"
+P_CG = "63"
+P_SHO = "16"
+P_SV = "6"
+P_IP = "1162"
+P_H = "1113"
+P_R = "519"
+P_ER = "406"
+P_HR = "53"
+P_BB = "466"
+P_IBB = "74"
+P_HP = "48"
+P_SO = "632"
+P_WP = "31"
+P_BK = "5"
+P_ERA = "3.14"
+
+
+[[team]]
+name = "Coahuilla"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "127"
+P_CG = "34"
+P_SHO = "15"
+P_SV = "20"
+P_IP = "1076"
+P_H = "1107"
+P_R = "472"
+P_ER = "376"
+P_HR = "45"
+P_BB = "426"
+P_IBB = "45"
+P_HP = "24"
+P_SO = "617"
+P_WP = "34"
+P_BK = "1"
+P_ERA = "3.14"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "138"
+P_CG = "57"
+P_SHO = "18"
+P_SV = "19"
+P_IP = "1168"
+P_H = "1201"
+P_R = "532"
+P_ER = "416"
+P_HR = "47"
+P_BB = "385"
+P_IBB = "31"
+P_HP = "57"
+P_SO = "702"
+P_WP = "62"
+P_BK = "2"
+P_ERA = "3.21"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "136"
+P_CG = "62"
+P_SHO = "11"
+P_SV = "12"
+P_IP = "1143"
+P_H = "1167"
+P_R = "505"
+P_ER = "413"
+P_HR = "52"
+P_BB = "403"
+P_IBB = "48"
+P_HP = "41"
+P_SO = "523"
+P_WP = "41"
+P_BK = "4"
+P_ERA = "3.25"
+
+
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "136"
+P_CG = "45"
+P_SHO = "15"
+P_SV = "10"
+P_IP = "1165"
+P_H = "1214"
+P_R = "599"
+P_ER = "440"
+P_HR = "66"
+P_BB = "404"
+P_IBB = "32"
+P_HP = "20"
+P_SO = "606"
+P_WP = "58"
+P_BK = "3"
+P_ERA = "3.40"
+
+
+[[team]]
+name = "Aguascalientes"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "136"
+P_CG = "56"
+P_SHO = "8"
+P_SV = "16"
+P_IP = "1165"
+P_H = "1227"
+P_R = "633"
+P_ER = "453"
+P_HR = "67"
+P_BB = "541"
+P_IBB = "65"
+P_HP = "60"
+P_SO = "633"
+P_WP = "56"
+P_BK = "2"
+P_ERA = "3.50"
+
+
+[[team]]
+name = "Union Laguna"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "137"
+P_CG = "54"
+P_SHO = "13"
+P_SV = "10"
+P_IP = "1158"
+P_H = "1175"
+P_R = "538"
+P_ER = "452"
+P_HR = "72"
+P_BB = "439"
+P_IBB = "71"
+P_HP = "39"
+P_SO = "501"
+P_WP = "65"
+P_BK = "4"
+P_ERA = "3.51"
+
+
+[[team]]
+name = "Durango"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "134"
+P_CG = "57"
+P_SHO = "8"
+P_SV = "15"
+P_IP = "1130"
+P_H = "1334"
+P_R = "650"
+P_ER = "452"
+P_HR = "78"
+P_BB = "438"
+P_IBB = "36"
+P_HP = "37"
+P_SO = "552"
+P_WP = "74"
+P_BK = "2"
+P_ERA = "3.61"
+
+
+[[team]]
+name = "Chihuahua"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "135"
+P_CG = "57"
+P_SHO = "10"
+P_SV = "9"
+P_IP = "1120"
+P_H = "1212"
+P_R = "584"
+P_ER = "452"
+P_HR = "61"
+P_BB = "471"
+P_IBB = "49"
+P_HP = "47"
+P_SO = "554"
+P_WP = "37"
+P_BK = "2"
+P_ERA = "3.63"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1976"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "132"
+P_CG = "12"
+P_SHO = "6"
+P_SV = "24"
+P_IP = "1109"
+P_H = "1246"
+P_R = "599"
+P_ER = "459"
+P_HR = "42"
+P_BB = "516"
+P_IBB = "52"
+P_HP = "37"
+P_SO = "564"
+P_WP = "40"
+P_BK = "4"
+P_ERA = "3.72"

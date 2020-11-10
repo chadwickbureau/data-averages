@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Shephard"
+name.given = "Lawrence"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lincoln"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bockman"
+name.given = "J. Edward"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Amarillo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Roy (Red)"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Topeka"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dossey"
+name.given = "William"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Topeka"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Landenberger"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Sioux City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hutchinson"
+name.given = "Ira"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Colorado Springs"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cullop"
+name.given = "Henry (Nick)"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Albuquerque"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Toso"
+name.given = "Harold"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Albuquerque"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hathaway"
+name.given = "Ray"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pueblo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Stringer"
+name.given = "Lou"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Des Moines"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Hershel"
+[[person.managing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Des Moines"
+S_ORDER = "2"
+[person.managing.totals]

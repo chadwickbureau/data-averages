@@ -1,0 +1,102 @@
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "4080"
+B_H = "1082"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Hugo"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4418"
+B_H = "1116"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4316"
+B_H = "1077"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4553"
+B_H = "1130"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Bonham"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3650"
+B_H = "898"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4181"
+B_H = "1019"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Durant"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3494"
+B_H = "813"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4056"
+B_H = "893"
+B_AVG = ".220"

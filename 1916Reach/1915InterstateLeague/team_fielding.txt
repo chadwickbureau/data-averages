@@ -1,0 +1,88 @@
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "84"
+F_PO = "2222"
+F_A = "1087"
+F_E = "170"
+F_TC = "3479"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "87"
+F_PO = "2251"
+F_A = "1016"
+F_E = "172"
+F_TC = "3439"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "87"
+F_PO = "2289"
+F_A = "1172"
+F_E = "184"
+F_TC = "3645"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "89"
+F_PO = "2288"
+F_A = "1025"
+F_E = "184"
+F_TC = "3497"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "71"
+F_PO = "1819"
+F_A = "835"
+F_E = "161"
+F_TC = "2815"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Warren"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "84"
+F_PO = "2158"
+F_A = "967"
+F_E = "221"
+F_TC = "3346"
+F_PCT = ".934"

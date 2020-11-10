@@ -1,0 +1,58 @@
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "164"
+F_PO = "4343"
+F_A = "2094"
+F_E = "274"
+F_TC = "6711"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "163"
+F_PO = "4353"
+F_A = "2007"
+F_E = "326"
+F_TC = "6686"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "162"
+F_PO = "4254"
+F_A = "2152"
+F_E = "345"
+F_TC = "6751"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "159"
+F_PO = "4239"
+F_A = "2150"
+F_E = "371"
+F_TC = "6760"
+F_PCT = ".945"

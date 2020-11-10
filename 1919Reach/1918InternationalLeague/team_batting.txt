@@ -1,0 +1,174 @@
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4030"
+B_R = "562"
+B_H = "1072"
+B_TB = "1360"
+B_2B = "156"
+B_3B = "51"
+B_HR = "10"
+B_SH = "178"
+B_SB = "167"
+B_BB = "405"
+B_SO = "371"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4214"
+B_R = "482"
+B_H = "1117"
+B_TB = "1433"
+B_2B = "148"
+B_3B = "60"
+B_HR = "16"
+B_SH = "138"
+B_SB = "161"
+B_BB = "352"
+B_SO = "451"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "3855"
+B_R = "466"
+B_H = "1027"
+B_TB = "1283"
+B_2B = "130"
+B_3B = "51"
+B_HR = "8"
+B_SH = "118"
+B_SB = "168"
+B_BB = "262"
+B_SO = "469"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4161"
+B_R = "585"
+B_H = "1076"
+B_TB = "1351"
+B_2B = "144"
+B_3B = "40"
+B_HR = "17"
+B_SH = "213"
+B_SB = "213"
+B_BB = "466"
+B_SO = "437"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4019"
+B_R = "474"
+B_H = "985"
+B_TB = "1178"
+B_2B = "110"
+B_3B = "34"
+B_HR = "5"
+B_SH = "134"
+B_SB = "176"
+B_BB = "335"
+B_SO = "354"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3988"
+B_R = "470"
+B_H = "953"
+B_TB = "1160"
+B_2B = "109"
+B_3B = "40"
+B_HR = "6"
+B_SH = "136"
+B_SB = "126"
+B_BB = "292"
+B_SO = "448"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Syracuse/Hamilton"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3653"
+B_R = "375"
+B_H = "854"
+B_TB = "1043"
+B_2B = "110"
+B_3B = "30"
+B_HR = "6"
+B_SH = "141"
+B_SB = "130"
+B_BB = "347"
+B_SO = "507"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4020"
+B_R = "411"
+B_H = "948"
+B_TB = "1174"
+B_2B = "111"
+B_3B = "53"
+B_HR = "3"
+B_SH = "106"
+B_SB = "130"
+B_BB = "339"
+B_SO = "501"
+B_AVG = ".233"

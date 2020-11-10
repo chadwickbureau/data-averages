@@ -1,0 +1,126 @@
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4550"
+B_R = "541"
+B_H = "1167"
+B_SH = "226"
+B_SB = "259"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4461"
+B_R = "518"
+B_H = "1128"
+B_SH = "227"
+B_SB = "151"
+B_AVG = ".253"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4261"
+B_R = "512"
+B_H = "1033"
+B_SH = "302"
+B_SB = "297"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4400"
+B_R = "529"
+B_H = "1078"
+B_SH = "239"
+B_SB = "172"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4549"
+B_R = "399"
+B_H = "1095"
+B_SH = "226"
+B_SB = "208"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Zanesville"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "4507"
+B_R = "516"
+B_H = "1083"
+B_SH = "230"
+B_SB = "239"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4362"
+B_R = "490"
+B_H = "996"
+B_SH = "235"
+B_SB = "186"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4432"
+B_R = "348"
+B_H = "900"
+B_SH = "186"
+B_SB = "144"
+B_AVG = ".203"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1943"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "113"
+F_TP = "0"
+F_PB = "22"
+F_PO = "3500"
+F_A = "1640"
+F_E = "187"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1943"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "111"
+F_TP = "1"
+F_PB = "18"
+F_PO = "3574"
+F_A = "1607"
+F_E = "189"
+F_PCT = ".965"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1943"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "104"
+F_TP = "0"
+F_PB = "16"
+F_PO = "3470"
+F_A = "1596"
+F_E = "204"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1943"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "104"
+F_TP = "0"
+F_PB = "14"
+F_PO = "3500"
+F_A = "1471"
+F_E = "220"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1943"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "116"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3582"
+F_A = "1540"
+F_E = "263"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1943"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "100"
+F_TP = "1"
+F_PB = "51"
+F_PO = "3375"
+F_A = "1560"
+F_E = "342"
+F_PCT = ".935"

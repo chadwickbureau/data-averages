@@ -1,0 +1,2335 @@
+[[person]]
+name.last = "Alvarado"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "28"
+P_GS = "27"
+P_CG = "16"
+P_SHO = "4"
+P_W = "15"
+P_L = "7"
+P_PCT = ".682"
+P_IP = "218"
+P_H = "206"
+P_HR = "20"
+P_R = "84"
+P_ER = "71"
+P_BB = "39"
+P_SO = "104"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.93"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Alvarez"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "26"
+P_GS = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+P_IP = "74"
+P_H = "74"
+P_HR = "6"
+P_R = "46"
+P_ER = "40"
+P_BB = "31"
+P_SO = "23"
+P_HP = "3"
+P_WP = "1"
+P_BK = "2"
+P_ERA = "4.86"
+
+
+[[person]]
+name.last = "Anderton"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "21"
+P_GS = "19"
+P_CG = "12"
+P_SHO = "3"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "131"
+P_H = "117"
+P_HR = "10"
+P_R = "66"
+P_ER = "44"
+P_BB = "41"
+P_SO = "61"
+P_HP = "7"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.02"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Arroyo"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "10"
+[[person.playing.split]]
+team.name = "Yucatan"
+P_G = "7"
+[person.playing.totals]
+P_G = "17"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "50"
+P_H = "58"
+P_HR = "4"
+P_R = "31"
+P_ER = "23"
+P_BB = "23"
+P_SO = "19"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.14"
+
+
+[[person]]
+name.last = "Cadena"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "32"
+P_GS = "1"
+P_CG = "1"
+P_SHO = "0"
+P_W = "7"
+P_L = "1"
+P_PCT = ".875"
+P_IP = "93"
+P_H = "117"
+P_HR = "9"
+P_R = "67"
+P_ER = "57"
+P_BB = "29"
+P_SO = "25"
+P_HP = "8"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "5.52"
+
+
+[[person]]
+name.last = "Cardenas"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "13"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "36"
+P_H = "36"
+P_HR = "6"
+P_R = "28"
+P_ER = "25"
+P_BB = "19"
+P_SO = "13"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "6.25"
+
+
+[[person]]
+name.last = "Cacheux"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "16"
+[person.playing.totals]
+P_G = "22"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "75"
+P_H = "81"
+P_HR = "13"
+P_R = "43"
+P_ER = "37"
+P_BB = "20"
+P_SO = "39"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.44"
+
+
+[[person]]
+name.last = "Collins"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "8"
+P_GS = "8"
+P_CG = "6"
+P_SHO = "1"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "64"
+P_H = "40"
+P_HR = "3"
+P_R = "24"
+P_ER = "22"
+P_BB = "53"
+P_SO = "47"
+P_HP = "1"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "3.09"
+
+
+[[person]]
+name.last = "Consuegra"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "6"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "35"
+P_H = "49"
+P_HR = "4"
+P_R = "27"
+P_ER = "23"
+P_BB = "11"
+P_SO = "12"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "5.91"
+
+
+[[person]]
+name.last = "Contreras"
+name.given = "R."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Poza Rica"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Monterrey"
+P_G = "7"
+[person.playing.totals]
+P_G = "9"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "59"
+P_H = "55"
+P_HR = "3"
+P_R = "32"
+P_ER = "24"
+P_BB = "14"
+P_SO = "19"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.32"
+
+
+[[person]]
+name.last = "Cuevas"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "20"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "38"
+P_H = "47"
+P_HR = "3"
+P_R = "18"
+P_ER = "18"
+P_BB = "14"
+P_SO = "16"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.26"
+
+
+[[person]]
+name.last = "Cruz"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "23"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "71"
+P_H = "88"
+P_HR = "15"
+P_R = "44"
+P_ER = "41"
+P_BB = "23"
+P_SO = "22"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "5.20"
+
+
+[[person]]
+name.last = "Dangleis"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "26"
+P_GS = "13"
+P_CG = "5"
+P_SHO = "2"
+P_W = "3"
+P_L = "13"
+P_PCT = ".188"
+P_IP = "98"
+P_H = "122"
+P_HR = "7"
+P_R = "70"
+P_ER = "53"
+P_BB = "37"
+P_SO = "50"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.87"
+
+
+[[person]]
+name.last = "DeLeon"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "23"
+P_GS = "18"
+P_CG = "5"
+P_SHO = "0"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "124"
+P_H = "129"
+P_HR = "26"
+P_R = "94"
+P_ER = "73"
+P_BB = "42"
+P_SO = "51"
+P_HP = "1"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "5.30"
+
+
+[[person]]
+name.last = "Dicochea"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "34"
+P_GS = "26"
+P_CG = "13"
+P_SHO = "2"
+P_W = "16"
+P_L = "12"
+P_PCT = ".571"
+P_IP = "196"
+P_H = "193"
+P_HR = "20"
+P_R = "104"
+P_ER = "84"
+P_BB = "88"
+P_SO = "73"
+P_HP = "5"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.86"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Ferrer"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "26"
+P_GS = "20"
+P_CG = "6"
+P_SHO = "1"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "133"
+P_H = "147"
+P_HR = "12"
+P_R = "80"
+P_ER = "61"
+P_BB = "67"
+P_SO = "57"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.13"
+
+
+[[person]]
+name.last = "Ferrer"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "32"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "110"
+P_H = "111"
+P_HR = "10"
+P_R = "70"
+P_ER = "61"
+P_BB = "56"
+P_SO = "41"
+P_HP = "3"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "4.99"
+
+
+[[person]]
+name.last = "Fister"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "6"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "32"
+P_H = "37"
+P_HR = "2"
+P_R = "20"
+P_ER = "15"
+P_BB = "16"
+P_SO = "13"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.22"
+
+
+[[person]]
+name.last = "Garcia"
+name.given = "M."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "34"
+P_GS = "16"
+P_CG = "5"
+P_SHO = "0"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "152"
+P_H = "144"
+P_HR = "6"
+P_R = "72"
+P_ER = "55"
+P_BB = "67"
+P_SO = "55"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.26"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "M."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "21"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "76"
+P_H = "90"
+P_HR = "9"
+P_R = "52"
+P_ER = "43"
+P_BB = "25"
+P_SO = "37"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.09"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "W."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+P_G = "22"
+[[person.playing.split]]
+team.name = "Poza Rica"
+P_G = "10"
+[person.playing.totals]
+P_G = "32"
+P_GS = "19"
+P_CG = "11"
+P_SHO = "2"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+P_IP = "140"
+P_H = "149"
+P_HR = "12"
+P_R = "78"
+P_ER = "61"
+P_BB = "65"
+P_SO = "65"
+P_HP = "1"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "3.92"
+
+
+[[person]]
+name.last = "Guerra"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+P_G = "30"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+P_G = "3"
+[person.playing.totals]
+P_G = "33"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "77"
+P_H = "93"
+P_HR = "9"
+P_R = "48"
+P_ER = "45"
+P_BB = "30"
+P_SO = "51"
+P_HP = "2"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "5.26"
+
+
+[[person]]
+name.last = "Herrera"
+name.given = "P."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "10"
+P_GS = "9"
+P_CG = "5"
+P_SHO = "1"
+P_W = "5"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "67"
+P_H = "64"
+P_HR = "6"
+P_R = "23"
+P_ER = "20"
+P_BB = "25"
+P_SO = "22"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "2.69"
+
+
+[[person]]
+name.last = "Herrera"
+name.given = "T."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+P_G = "15"
+[person.playing.totals]
+P_G = "21"
+P_GS = "16"
+P_CG = "6"
+P_SHO = "0"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "128"
+P_H = "142"
+P_HR = "8"
+P_R = "69"
+P_ER = "61"
+P_BB = "47"
+P_SO = "51"
+P_HP = "4"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.29"
+
+
+[[person]]
+name.last = "Jimenez"
+name.given = "D."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "29"
+P_GS = "23"
+P_CG = "16"
+P_SHO = "1"
+P_W = "14"
+P_L = "11"
+P_PCT = ".560"
+P_IP = "191"
+P_H = "178"
+P_HR = "13"
+P_R = "93"
+P_ER = "78"
+P_BB = "113"
+P_SO = "138"
+P_HP = "5"
+P_WP = "14"
+P_BK = "3"
+P_ERA = "3.68"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Ladera"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "30"
+P_GS = "18"
+P_CG = "11"
+P_SHO = "2"
+P_W = "14"
+P_L = "10"
+P_PCT = ".583"
+P_IP = "160"
+P_H = "169"
+P_HR = "9"
+P_R = "71"
+P_ER = "69"
+P_BB = "48"
+P_SO = "81"
+P_HP = "0"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "3.88"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Locke"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "40"
+P_GS = "33"
+P_CG = "25"
+P_SHO = "3"
+P_W = "19"
+P_L = "16"
+P_PCT = ".543"
+P_IP = "267"
+P_H = "263"
+P_HR = "33"
+P_R = "113"
+P_ER = "100"
+P_BB = "57"
+P_SO = "144"
+P_HP = "1"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "3.37"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Gr."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Yucatan"
+P_G = "40"
+[person.playing.totals]
+P_G = "41"
+P_GS = "16"
+P_CG = "4"
+P_SHO = "1"
+P_W = "8"
+P_L = "11"
+P_PCT = ".421"
+P_IP = "153"
+P_H = "162"
+P_HR = "17"
+P_R = "94"
+P_ER = "80"
+P_BB = "60"
+P_SO = "77"
+P_HP = "1"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "4.71"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Gu."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "33"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "84"
+P_H = "96"
+P_HR = "7"
+P_R = "50"
+P_ER = "44"
+P_BB = "41"
+P_SO = "37"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.71"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "V."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+P_G = "15"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+P_G = "3"
+[person.playing.totals]
+P_G = "18"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "50"
+P_H = "55"
+P_HR = "5"
+P_R = "29"
+P_ER = "23"
+P_BB = "30"
+P_SO = "24"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.14"
+
+
+[[person]]
+name.last = "Luna"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+P_G = "4"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+P_G = "20"
+[person.playing.totals]
+P_G = "24"
+P_GS = "13"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "10"
+P_PCT = ".091"
+P_IP = "100"
+P_H = "133"
+P_HR = "12"
+P_R = "67"
+P_ER = "58"
+P_BB = "32"
+P_SO = "40"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.22"
+
+
+[[person]]
+name.last = "Moreno"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "27"
+P_GS = "21"
+P_CG = "12"
+P_SHO = "4"
+P_W = "13"
+P_L = "8"
+P_PCT = ".619"
+P_IP = "160"
+P_H = "160"
+P_HR = "14"
+P_R = "62"
+P_ER = "48"
+P_BB = "43"
+P_SO = "78"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "2.70"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Nakamura"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "15"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "52"
+P_H = "52"
+P_HR = "1"
+P_R = "16"
+P_ER = "15"
+P_BB = "18"
+P_SO = "18"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.60"
+
+
+[[person]]
+name.last = "Olivo"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "28"
+P_GS = "20"
+P_CG = "7"
+P_SHO = "1"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "151"
+P_H = "160"
+P_HR = "13"
+P_R = "76"
+P_ER = "64"
+P_BB = "59"
+P_SO = "122"
+P_HP = "1"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "3.81"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Osorio"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "16"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "74"
+P_H = "81"
+P_HR = "6"
+P_R = "37"
+P_ER = "35"
+P_BB = "13"
+P_SO = "41"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.26"
+
+
+[[person]]
+name.last = "Peete"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "9"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "33"
+P_H = "31"
+P_HR = "4"
+P_R = "21"
+P_ER = "17"
+P_BB = "23"
+P_SO = "11"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.64"
+
+
+[[person]]
+name.last = "Perez"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Monterrey"
+P_G = "17"
+[person.playing.totals]
+P_G = "22"
+P_GS = "18"
+P_CG = "6"
+P_SHO = "1"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "134"
+P_H = "137"
+P_HR = "17"
+P_R = "78"
+P_ER = "62"
+P_BB = "51"
+P_SO = "67"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.16"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "9"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "32"
+P_H = "45"
+P_HR = "4"
+P_R = "21"
+P_ER = "16"
+P_BB = "10"
+P_SO = "18"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Piedra"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Yucatan"
+P_G = "37"
+[person.playing.totals]
+P_G = "43"
+P_GS = "27"
+P_CG = "15"
+P_SHO = "3"
+P_W = "15"
+P_L = "11"
+P_PCT = ".577"
+P_IP = "217"
+P_H = "198"
+P_HR = "17"
+P_R = "107"
+P_ER = "85"
+P_BB = "114"
+P_SO = "159"
+P_HP = "1"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "3.53"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Ramirez"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "35"
+P_GS = "29"
+P_CG = "16"
+P_SHO = "2"
+P_W = "17"
+P_L = "10"
+P_PCT = ".630"
+P_IP = "214"
+P_H = "238"
+P_HR = "18"
+P_R = "101"
+P_ER = "93"
+P_BB = "56"
+P_SO = "90"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.91"
+
+
+[[person]]
+name.last = "Ramos"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "38"
+P_GS = "20"
+P_CG = "12"
+P_SHO = "2"
+P_W = "13"
+P_L = "12"
+P_PCT = ".520"
+P_IP = "187"
+P_H = "206"
+P_HR = "21"
+P_R = "104"
+P_ER = "89"
+P_BB = "57"
+P_SO = "86"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.28"
+
+
+[[person]]
+name.last = "Rendon"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "11"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "52"
+P_H = "54"
+P_HR = "6"
+P_R = "29"
+P_ER = "25"
+P_BB = "19"
+P_SO = "25"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.33"
+
+
+[[person]]
+name.last = "Rivas"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "25"
+P_GS = "22"
+P_CG = "7"
+P_SHO = "0"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "140"
+P_H = "165"
+P_HR = "14"
+P_R = "74"
+P_ER = "64"
+P_BB = "30"
+P_SO = "71"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.11"
+
+
+[[person]]
+name.last = "Rivera"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "22"
+[person.playing.totals]
+P_G = "29"
+P_GS = "14"
+P_CG = "9"
+P_SHO = "2"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "133"
+P_H = "134"
+P_HR = "11"
+P_R = "76"
+P_ER = "59"
+P_BB = "47"
+P_SO = "108"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.99"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "M."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "26"
+P_GS = "18"
+P_CG = "5"
+P_SHO = "0"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "128"
+P_H = "145"
+P_HR = "7"
+P_R = "83"
+P_ER = "70"
+P_BB = "64"
+P_SO = "45"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.92"
+
+
+[[person]]
+name.last = "Sackie"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "17"
+P_GS = "10"
+P_CG = "3"
+P_SHO = "1"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "63"
+P_H = "60"
+P_HR = "8"
+P_R = "35"
+P_ER = "30"
+P_BB = "16"
+P_SO = "18"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.29"
+
+
+[[person]]
+name.last = "Searcy"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "10"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "54"
+P_H = "67"
+P_HR = "9"
+P_R = "41"
+P_ER = "38"
+P_BB = "30"
+P_SO = "32"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "6.33"
+
+
+[[person]]
+name.last = "Sotelo"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+P_G = "15"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+P_G = "17"
+[person.playing.totals]
+P_G = "32"
+P_GS = "14"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "116"
+P_H = "143"
+P_HR = "6"
+P_R = "79"
+P_ER = "56"
+P_BB = "55"
+P_SO = "51"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.34"
+
+
+[[person]]
+name.last = "Spasoff"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "6"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "35"
+P_H = "41"
+P_HR = "4"
+P_R = "22"
+P_ER = "15"
+P_BB = "15"
+P_SO = "22"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.86"
+
+
+[[person]]
+name.last = "Trice"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "25"
+P_GS = "11"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "114"
+P_H = "111"
+P_HR = "5"
+P_R = "63"
+P_ER = "54"
+P_BB = "49"
+P_SO = "32"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.26"
+
+
+[[person]]
+name.last = "Tully"
+name.given = "Martinez"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Poza Rica"
+P_G = "10"
+[person.playing.totals]
+P_G = "11"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "31"
+P_H = "34"
+P_HR = "7"
+P_R = "27"
+P_ER = "24"
+P_BB = "16"
+P_SO = "26"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.97"
+
+
+[[person]]
+name.last = "Vazquez"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "11"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "30"
+P_H = "37"
+P_HR = "4"
+P_R = "22"
+P_ER = "21"
+P_BB = "8"
+P_SO = "10"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.30"
+
+
+[[person]]
+name.last = "Waters"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "13"
+P_GS = "12"
+P_CG = "6"
+P_SHO = "1"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "83"
+P_H = "87"
+P_HR = "7"
+P_R = "49"
+P_ER = "44"
+P_BB = "37"
+P_SO = "42"
+P_HP = "0"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.77"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "22"
+P_GS = "21"
+P_CG = "12"
+P_SHO = "1"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+P_IP = "145"
+P_H = "176"
+P_HR = "25"
+P_R = "94"
+P_ER = "84"
+P_BB = "39"
+P_SO = "57"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.21"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "25"
+P_GS = "18"
+P_CG = "9"
+P_SHO = "3"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "132"
+P_H = "136"
+P_HR = "9"
+P_R = "76"
+P_ER = "60"
+P_BB = "80"
+P_SO = "56"
+P_HP = "8"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "4.09"
+
+
+[[person]]
+name.last = "deAlejandro"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "A."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Montane"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "10"
+P_W = "2"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Montejo"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Perry"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Reds"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Donoso"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fernandez"
+name.given = "A."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Flores"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "3"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "M."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Miro"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Osorio"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pitts"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rayle"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fields"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Garza Gomez"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ordonez"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Vega"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monterrey"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Currie"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gonzalez"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Taborn"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Beltran"
+name.given = "E."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Beltran"
+name.given = "M."
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Camacho"
+name.given = "R."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cecena"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Celis"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nuevo Laredo"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Contreras"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Delfin Barrientos"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Galindo"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gamboa"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hayling"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hebra"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Howell"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Munoz"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rivero"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ortega"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Zambrana"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Poza Rica"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Arthur"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Chiique"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Galata"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Garza"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Peraza"
+[[person.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yucatan"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"

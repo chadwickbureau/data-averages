@@ -1,0 +1,134 @@
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "76"
+F_PB = "15"
+F_PO = "3318"
+F_A = "1516"
+F_E = "212"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "98"
+F_PB = "10"
+F_PO = "3400"
+F_A = "1579"
+F_E = "233"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "81"
+F_PB = "16"
+F_PO = "3473"
+F_A = "1682"
+F_E = "249"
+F_PCT = ".954"
+F_TP = "1"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "83"
+F_PB = "4"
+F_PO = "3218"
+F_A = "1614"
+F_E = "240"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "75"
+F_PB = "16"
+F_PO = "3302"
+F_A = "1466"
+F_E = "238"
+F_PCT = ".952"
+F_TP = "1"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "96"
+F_PB = "13"
+F_PO = "3152"
+F_A = "1457"
+F_E = "242"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "83"
+F_PB = "13"
+F_PO = "3230"
+F_A = "1495"
+F_E = "271"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Syracuse/Hamilton"
+[[team.playing]]
+season = "1918"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_DP = "74"
+F_PB = "18"
+F_PO = "3053"
+F_A = "1478"
+F_E = "352"
+F_PCT = ".928"
+F_TP = "0"

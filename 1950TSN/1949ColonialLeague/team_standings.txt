@@ -1,0 +1,164 @@
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "82"
+R_L = "47"
+R_T = "0"
+R_PCT = ".636"
+R_RANK = "1"
+
+
+[[team]]
+name = "Stamford"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "52"
+R_T = "1"
+R_PCT = ".587"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "54"
+R_T = "1"
+R_PCT = ".575"
+R_RANK = "3"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "63"
+R_T = "2"
+R_PCT = ".496"
+R_RANK = "4"
+
+
+[[team]]
+name = "Poughkeepsie"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "78"
+R_T = "0"
+R_PCT = ".366"
+R_RANK = "5"
+
+
+[[team]]
+name = "Kingston"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "39"
+R_L = "81"
+R_T = "2"
+R_PCT = ".325"
+R_RANK = "6"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Stamford"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "1"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "2"
+R_PCT = ".333"
+R_RANK = "2"

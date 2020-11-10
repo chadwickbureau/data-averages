@@ -1,0 +1,110 @@
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "171"
+F_PO = "4470"
+F_A = "2064"
+F_E = "247"
+F_PCT = ".964"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_PO = "4543"
+F_A = "2078"
+F_E = "247"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "170"
+F_PO = "4480"
+F_A = "2101"
+F_E = "276"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "173"
+F_PO = "4625"
+F_A = "2311"
+F_E = "309"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "168"
+F_PO = "4363"
+F_A = "2178"
+F_E = "319"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "170"
+F_PO = "4580"
+F_A = "2211"
+F_E = "348"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "172"
+F_PO = "4555"
+F_A = "2182"
+F_E = "358"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1913"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_PO = "4489"
+F_A = "2280"
+F_E = "391"
+F_PCT = ".945"

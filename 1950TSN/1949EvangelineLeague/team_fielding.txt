@@ -1,0 +1,134 @@
+[[team]]
+name = "Thibodaux"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3505"
+F_A = "1478"
+F_E = "224"
+F_DP = "118"
+F_PB = "9"
+F_PCT = ".957"
+F_TP = "2"
+
+
+[[team]]
+name = "Houma"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3573"
+F_A = "1445"
+F_E = "242"
+F_DP = "125"
+F_PB = "24"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Lafayette"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3520"
+F_A = "1452"
+F_E = "261"
+F_DP = "124"
+F_PB = "31"
+F_PCT = ".950"
+F_TP = "1"
+
+
+[[team]]
+name = "Hammond"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3567"
+F_A = "1430"
+F_E = "263"
+F_DP = "105"
+F_PB = "38"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "New Iberia"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3588"
+F_A = "1527"
+F_E = "272"
+F_DP = "124"
+F_PB = "28"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Alexandria"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3681"
+F_A = "1541"
+F_E = "294"
+F_DP = "136"
+F_PB = "30"
+F_PCT = ".947"
+F_TP = "1"
+
+
+[[team]]
+name = "Baton Rouge"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3582"
+F_A = "1328"
+F_E = "304"
+F_DP = "125"
+F_PB = "22"
+F_PCT = ".942"
+F_TP = "0"
+
+
+[[team]]
+name = "Abbeville"
+[[team.playing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3402"
+F_A = "1321"
+F_E = "313"
+F_DP = "104"
+F_PB = "32"
+F_PCT = ".938"
+F_TP = "0"

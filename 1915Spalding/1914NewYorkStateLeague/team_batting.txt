@@ -1,0 +1,126 @@
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3950"
+B_R = "511"
+B_H = "1066"
+B_TB = "1357"
+B_SO = "325"
+B_BB = "306"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4013"
+B_R = "575"
+B_H = "1046"
+B_TB = "1466"
+B_SO = "467"
+B_BB = "414"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4075"
+B_R = "542"
+B_H = "1028"
+B_TB = "1340"
+B_SO = "571"
+B_BB = "356"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3840"
+B_R = "463"
+B_H = "944"
+B_TB = "1215"
+B_SO = "483"
+B_BB = "271"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Troy"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3990"
+B_R = "420"
+B_H = "978"
+B_TB = "1248"
+B_SO = "496"
+B_BB = "335"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4132"
+B_R = "413"
+B_H = "1003"
+B_TB = "1237"
+B_SO = "458"
+B_BB = "286"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3767"
+B_R = "382"
+B_H = "896"
+B_TB = "1137"
+B_SO = "415"
+B_BB = "331"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1914"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3931"
+B_R = "344"
+B_H = "907"
+B_TB = "1136"
+B_SO = "526"
+B_BB = "290"
+B_AVG = ".231"

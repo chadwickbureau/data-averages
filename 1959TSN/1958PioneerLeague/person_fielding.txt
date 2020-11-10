@@ -1,0 +1,3817 @@
+[[person]]
+name.last = "Smith"
+name.given = "B."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "126"
+F_1B_PO = "984"
+F_1B_A = "60"
+F_1B_E = "9"
+F_1B_DP = "94"
+F_1B_PCT = ".991"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "55"
+F_1B_PO = "385"
+F_1B_A = "35"
+F_1B_E = "4"
+F_1B_DP = "35"
+F_1B_PCT = ".991"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Kudajeski"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "74"
+F_1B_PO = "604"
+F_1B_A = "39"
+F_1B_E = "9"
+F_1B_DP = "43"
+F_1B_PCT = ".986"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Lembo"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "81"
+F_1B_PO = "624"
+F_1B_A = "32"
+F_1B_E = "10"
+F_1B_DP = "59"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Dyer"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "55"
+F_1B_PO = "424"
+F_1B_A = "23"
+F_1B_E = "7"
+F_1B_DP = "33"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "DeGraaf"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "19"
+F_1B_PO = "122"
+F_1B_A = "6"
+F_1B_E = "2"
+F_1B_DP = "11"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Shill"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "135"
+F_1B_PO = "1049"
+F_1B_A = "76"
+F_1B_E = "19"
+F_1B_DP = "124"
+F_1B_PCT = ".983"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "104"
+F_1B_PO = "685"
+F_1B_A = "55"
+F_1B_E = "14"
+F_1B_DP = "64"
+F_1B_PCT = ".981"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Riddle"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "90"
+F_1B_PO = "662"
+F_1B_A = "39"
+F_1B_E = "14"
+F_1B_DP = "67"
+F_1B_PCT = ".980"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "62"
+F_1B_PO = "418"
+F_1B_A = "38"
+F_1B_E = "10"
+F_1B_DP = "37"
+F_1B_PCT = ".979"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Ward"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "43"
+F_1B_PO = "310"
+F_1B_A = "24"
+F_1B_E = "7"
+F_1B_DP = "33"
+F_1B_PCT = ".979"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Franchi"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "26"
+F_1B_PO = "190"
+F_1B_A = "11"
+F_1B_E = "5"
+F_1B_DP = "16"
+F_1B_PCT = ".976"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+name.given = "Ch."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "38"
+F_1B_PO = "293"
+F_1B_A = "14"
+F_1B_E = "8"
+F_1B_DP = "31"
+F_1B_PCT = ".975"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Stolzer"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "16"
+F_1B_PO = "105"
+F_1B_A = "4"
+F_1B_E = "3"
+F_1B_DP = "11"
+F_1B_PCT = ".973"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Risser"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "31"
+F_1B_PO = "258"
+F_1B_A = "9"
+F_1B_E = "8"
+F_1B_DP = "21"
+F_1B_PCT = ".971"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "17"
+F_2B_PO = "51"
+F_2B_A = "40"
+F_2B_E = "2"
+F_2B_DP = "8"
+F_2B_PCT = ".978"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Bennett"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "43"
+F_2B_PO = "107"
+F_2B_A = "113"
+F_2B_E = "8"
+F_2B_DP = "23"
+F_2B_PCT = ".965"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Burright"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "134"
+F_2B_PO = "336"
+F_2B_A = "321"
+F_2B_E = "25"
+F_2B_DP = "75"
+F_2B_PCT = ".963"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gomez"
+name.given = "S."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "128"
+F_2B_PO = "302"
+F_2B_A = "355"
+F_2B_E = "25"
+F_2B_DP = "67"
+F_2B_PCT = ".963"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McElroy"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "74"
+F_2B_PO = "159"
+F_2B_A = "197"
+F_2B_E = "15"
+F_2B_DP = "33"
+F_2B_PCT = ".960"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Hintze"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "48"
+F_2B_PO = "106"
+F_2B_A = "122"
+F_2B_E = "13"
+F_2B_DP = "29"
+F_2B_PCT = ".946"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Crouch"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "75"
+F_2B_PO = "168"
+F_2B_A = "202"
+F_2B_E = "22"
+F_2B_DP = "35"
+F_2B_PCT = ".944"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Bradley"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "31"
+F_2B_PO = "77"
+F_2B_A = "58"
+F_2B_E = "8"
+F_2B_DP = "19"
+F_2B_PCT = ".944"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Klimchock"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "115"
+F_2B_PO = "273"
+F_2B_A = "286"
+F_2B_E = "34"
+F_2B_DP = "86"
+F_2B_PCT = ".943"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "53"
+F_2B_PO = "126"
+F_2B_A = "145"
+F_2B_E = "17"
+F_2B_DP = "34"
+F_2B_PCT = ".941"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Conte"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "20"
+F_2B_PO = "53"
+F_2B_A = "54"
+F_2B_E = "7"
+F_2B_DP = "13"
+F_2B_PCT = ".939"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Valdes (Vila)"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "80"
+F_2B_PO = "149"
+F_2B_A = "216"
+F_2B_E = "26"
+F_2B_DP = "48"
+F_2B_PCT = ".934"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Sorenson"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "66"
+F_2B_PO = "144"
+F_2B_A = "162"
+F_2B_E = "23"
+F_2B_DP = "42"
+F_2B_PCT = ".930"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Riddle"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "12"
+F_2B_PO = "20"
+F_2B_A = "28"
+F_2B_E = "4"
+F_2B_DP = "6"
+F_2B_PCT = ".923"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Franchi"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "26"
+F_2B_A = "29"
+F_2B_E = "5"
+F_2B_DP = "7"
+F_2B_PCT = ".917"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "17"
+F_2B_PO = "47"
+F_2B_A = "49"
+F_2B_E = "9"
+F_2B_DP = "11"
+F_2B_PCT = ".914"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "22"
+F_3B_PO = "18"
+F_3B_A = "25"
+F_3B_E = "0"
+F_3B_DP = "1"
+F_3B_PCT = "1.000"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Mendoza"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "7"
+F_3B_A = "20"
+F_3B_E = "0"
+F_3B_DP = "3"
+F_3B_PCT = "1.000"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "McElroy"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "35"
+F_3B_PO = "32"
+F_3B_A = "81"
+F_3B_E = "7"
+F_3B_DP = "10"
+F_3B_PCT = ".942"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "T."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "130"
+F_3B_PO = "99"
+F_3B_A = "230"
+F_3B_E = "28"
+F_3B_DP = "8"
+F_3B_PCT = ".922"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Risch"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "65"
+F_3B_PO = "46"
+F_3B_A = "118"
+F_3B_E = "14"
+F_3B_DP = "12"
+F_3B_PCT = ".921"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Spyhalski"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "41"
+F_3B_PO = "27"
+F_3B_A = "59"
+F_3B_E = "8"
+F_3B_DP = "6"
+F_3B_PCT = ".915"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Dibelius"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "50"
+F_3B_PO = "37"
+F_3B_A = "81"
+F_3B_E = "12"
+F_3B_DP = "5"
+F_3B_PCT = ".908"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Osborne"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "121"
+F_3B_PO = "132"
+F_3B_A = "221"
+F_3B_E = "36"
+F_3B_DP = "22"
+F_3B_PCT = ".907"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Ala"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "124"
+F_3B_PO = "118"
+F_3B_A = "233"
+F_3B_E = "38"
+F_3B_DP = "21"
+F_3B_PCT = ".902"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Owen"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "68"
+F_3B_PO = "48"
+F_3B_A = "107"
+F_3B_E = "17"
+F_3B_DP = "5"
+F_3B_PCT = ".901"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Burnett"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "114"
+F_3B_PO = "118"
+F_3B_A = "175"
+F_3B_E = "34"
+F_3B_DP = "20"
+F_3B_PCT = ".896"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "J."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "16"
+F_3B_PO = "20"
+F_3B_A = "29"
+F_3B_E = "6"
+F_3B_DP = "1"
+F_3B_PCT = ".891"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Sorenson"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "22"
+F_3B_PO = "11"
+F_3B_A = "21"
+F_3B_E = "4"
+F_3B_DP = "1"
+F_3B_PCT = ".889"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+name.given = "Ch."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "11"
+F_3B_PO = "10"
+F_3B_A = "19"
+F_3B_E = "4"
+F_3B_DP = "1"
+F_3B_PCT = ".879"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Ward"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "55"
+F_3B_PO = "55"
+F_3B_A = "86"
+F_3B_E = "23"
+F_3B_DP = "14"
+F_3B_PCT = ".860"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Strange"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "26"
+F_3B_PO = "31"
+F_3B_A = "55"
+F_3B_E = "15"
+F_3B_DP = "1"
+F_3B_PCT = ".851"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "113"
+F_SS_PO = "201"
+F_SS_A = "332"
+F_SS_E = "20"
+F_SS_DP = "69"
+F_SS_PCT = ".964"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Bradley"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "15"
+F_SS_PO = "35"
+F_SS_A = "43"
+F_SS_E = "4"
+F_SS_DP = "15"
+F_SS_PCT = ".951"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Palma"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "123"
+F_SS_PO = "204"
+F_SS_A = "363"
+F_SS_E = "39"
+F_SS_DP = "69"
+F_SS_PCT = ".936"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "George"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "132"
+F_SS_PO = "205"
+F_SS_A = "403"
+F_SS_E = "45"
+F_SS_DP = "91"
+F_SS_PCT = ".931"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "G."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "116"
+F_SS_PO = "227"
+F_SS_A = "334"
+F_SS_E = "43"
+F_SS_DP = "75"
+F_SS_PCT = ".929"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Carrasquel"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "133"
+F_SS_PO = "225"
+F_SS_A = "350"
+F_SS_E = "48"
+F_SS_DP = "61"
+F_SS_PCT = ".923"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Krall"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "106"
+F_SS_PO = "194"
+F_SS_A = "345"
+F_SS_E = "45"
+F_SS_DP = "57"
+F_SS_PCT = ".920"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Fischer"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "17"
+F_SS_PO = "31"
+F_SS_A = "48"
+F_SS_E = "8"
+F_SS_DP = "8"
+F_SS_PCT = ".908"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Wood"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "86"
+F_SS_PO = "151"
+F_SS_A = "242"
+F_SS_E = "43"
+F_SS_DP = "29"
+F_SS_PCT = ".901"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Manning"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "42"
+F_SS_PO = "63"
+F_SS_A = "117"
+F_SS_E = "20"
+F_SS_DP = "24"
+F_SS_PCT = ".900"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Henry"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "13"
+F_SS_A = "22"
+F_SS_E = "4"
+F_SS_DP = "3"
+F_SS_PCT = ".897"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Blanks"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "34"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "28"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wood"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "24"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mendoza"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "19"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sorensen"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "16"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Camilli"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "12"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Billingsley"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "55"
+F_OF_PO = "126"
+F_OF_A = "8"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".978"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Queen"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "99"
+F_OF_PO = "234"
+F_OF_A = "12"
+F_OF_E = "6"
+F_OF_DP = "4"
+F_OF_PCT = ".976"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sinquefield"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "129"
+F_OF_PO = "298"
+F_OF_A = "17"
+F_OF_E = "9"
+F_OF_DP = "2"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Valdespino"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "87"
+F_OF_PO = "150"
+F_OF_A = "9"
+F_OF_E = "5"
+F_OF_DP = "4"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hickman"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "55"
+F_OF_PO = "121"
+F_OF_A = "9"
+F_OF_E = "4"
+F_OF_DP = "2"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Smithdeal"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "88"
+F_OF_A = "2"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wolf"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "130"
+F_OF_PO = "277"
+F_OF_A = "14"
+F_OF_E = "10"
+F_OF_DP = "3"
+F_OF_PCT = ".967"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Garofalo"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "81"
+F_OF_PO = "111"
+F_OF_A = "6"
+F_OF_E = "4"
+F_OF_DP = "2"
+F_OF_PCT = ".967"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "63"
+F_OF_PO = "138"
+F_OF_A = "6"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pruitt"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "133"
+F_OF_PO = "265"
+F_OF_A = "10"
+F_OF_E = "10"
+F_OF_DP = "0"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Glasgow"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "116"
+F_OF_PO = "155"
+F_OF_A = "9"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Stevens"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "23"
+F_OF_PO = "43"
+F_OF_A = "6"
+F_OF_E = "2"
+F_OF_DP = "2"
+F_OF_PCT = ".961"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lindbeck"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "125"
+F_OF_PO = "203"
+F_OF_A = "9"
+F_OF_E = "9"
+F_OF_DP = "0"
+F_OF_PCT = ".959"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cranshaw"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "133"
+F_OF_PO = "235"
+F_OF_A = "13"
+F_OF_E = "11"
+F_OF_DP = "2"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Burnett"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "20"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "131"
+F_OF_PO = "281"
+F_OF_A = "25"
+F_OF_E = "14"
+F_OF_DP = "2"
+F_OF_PCT = ".956"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+name.given = "Cl."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "37"
+F_OF_PO = "58"
+F_OF_A = "6"
+F_OF_E = "3"
+F_OF_DP = "3"
+F_OF_PCT = ".955"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Aycock"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "41"
+F_OF_PO = "57"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "2"
+F_OF_PCT = ".954"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Reber"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "24"
+F_OF_PO = "16"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".952"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Spyhalski"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "64"
+F_OF_PO = "86"
+F_OF_A = "5"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".948"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Gomez"
+name.given = "J."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "77"
+F_OF_PO = "172"
+F_OF_A = "7"
+F_OF_E = "10"
+F_OF_DP = "1"
+F_OF_PCT = ".947"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Osborne"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "33"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".943"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "DiCrosta"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "120"
+F_OF_PO = "256"
+F_OF_A = "17"
+F_OF_E = "17"
+F_OF_DP = "2"
+F_OF_PCT = ".941"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Denney"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "14"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".941"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Reed"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "125"
+F_OF_PO = "209"
+F_OF_A = "5"
+F_OF_E = "14"
+F_OF_DP = "1"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Barboza"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "27"
+F_OF_PO = "40"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".938"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McElroy"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "13"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".938"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Duncan"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "21"
+F_OF_PO = "37"
+F_OF_A = "6"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".935"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "47"
+F_OF_PO = "81"
+F_OF_A = "4"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".934"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+name.given = "Ch."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "40"
+F_OF_PO = "52"
+F_OF_A = "5"
+F_OF_E = "4"
+F_OF_DP = "2"
+F_OF_PCT = ".934"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Nester"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "14"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".933"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "L."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "91"
+F_OF_PO = "151"
+F_OF_A = "10"
+F_OF_E = "12"
+F_OF_DP = "1"
+F_OF_PCT = ".931"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Yaremchuk"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "109"
+F_OF_PO = "152"
+F_OF_A = "8"
+F_OF_E = "12"
+F_OF_DP = "0"
+F_OF_PCT = ".930"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Zimmerman"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "91"
+F_OF_PO = "141"
+F_OF_A = "12"
+F_OF_E = "12"
+F_OF_DP = "2"
+F_OF_PCT = ".927"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wyatt"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "28"
+F_OF_PO = "38"
+F_OF_A = "0"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".927"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rodgers"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "30"
+F_OF_PO = "46"
+F_OF_A = "3"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".925"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Franchi"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "76"
+F_OF_PO = "119"
+F_OF_A = "3"
+F_OF_E = "10"
+F_OF_DP = "2"
+F_OF_PCT = ".924"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cunningham"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "55"
+F_OF_PO = "90"
+F_OF_A = "6"
+F_OF_E = "8"
+F_OF_DP = "0"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Valdes (Vila)"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "43"
+F_OF_A = "1"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".917"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lind"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "27"
+F_OF_PO = "40"
+F_OF_A = "3"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".915"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jackson"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "26"
+F_OF_PO = "47"
+F_OF_A = "3"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".909"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Ward"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "15"
+F_OF_A = "0"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".833"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bernhardt"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "48"
+F_OF_PO = "35"
+F_OF_A = "7"
+F_OF_E = "9"
+F_OF_DP = "1"
+F_OF_PCT = ".824"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Biebel"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "17"
+F_C_PO = "105"
+F_C_A = "12"
+F_C_E = "0"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hay"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "53"
+F_C_A = "10"
+F_C_E = "0"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cannizzo"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "98"
+F_C_PO = "701"
+F_C_A = "54"
+F_C_E = "8"
+F_C_DP = "7"
+F_C_PB = "24"
+F_C_PCT = ".990"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Uecker"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "89"
+F_C_PO = "584"
+F_C_A = "50"
+F_C_E = "9"
+F_C_DP = "12"
+F_C_PB = "7"
+F_C_PCT = ".986"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "McKeon"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "100"
+F_C_PO = "739"
+F_C_A = "64"
+F_C_E = "12"
+F_C_DP = "8"
+F_C_PB = "2"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Maupin"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "48"
+F_C_PO = "298"
+F_C_A = "29"
+F_C_E = "5"
+F_C_DP = "4"
+F_C_PB = "9"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Falls"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "59"
+F_C_A = "2"
+F_C_E = "1"
+F_C_DP = "1"
+F_C_PB = "5"
+F_C_PCT = ".984"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "DeGraaf"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "64"
+F_C_PO = "354"
+F_C_A = "47"
+F_C_E = "7"
+F_C_DP = "6"
+F_C_PB = "9"
+F_C_PCT = ".983"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Prendergast"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "38"
+F_C_PO = "280"
+F_C_A = "22"
+F_C_E = "6"
+F_C_DP = "3"
+F_C_PB = "8"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Prince"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "31"
+F_C_PO = "132"
+F_C_A = "15"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "7"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Michaels"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "71"
+F_C_PO = "446"
+F_C_A = "46"
+F_C_E = "11"
+F_C_DP = "3"
+F_C_PB = "4"
+F_C_PCT = ".978"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Camilli"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "98"
+F_C_PO = "567"
+F_C_A = "64"
+F_C_E = "15"
+F_C_DP = "2"
+F_C_PB = "13"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+name.given = "Ch."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "37"
+F_C_PO = "245"
+F_C_A = "22"
+F_C_E = "7"
+F_C_DP = "6"
+F_C_PB = "3"
+F_C_PCT = ".974"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Rodgers"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "68"
+F_C_PO = "478"
+F_C_A = "42"
+F_C_E = "16"
+F_C_DP = "7"
+F_C_PB = "2"
+F_C_PCT = ".970"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bernhardt"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "39"
+F_C_PO = "209"
+F_C_A = "25"
+F_C_E = "8"
+F_C_DP = "2"
+F_C_PB = "14"
+F_C_PCT = ".967"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Briggs"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "41"
+F_C_PO = "230"
+F_C_A = "24"
+F_C_E = "9"
+F_C_DP = "2"
+F_C_PB = "5"
+F_C_PCT = ".966"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Burke"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "39"
+F_C_PO = "194"
+F_C_A = "16"
+F_C_E = "8"
+F_C_DP = "3"
+F_C_PB = "6"
+F_C_PCT = ".963"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Fishel"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "56"
+F_C_PO = "264"
+F_C_A = "33"
+F_C_E = "13"
+F_C_DP = "6"
+F_C_PB = "18"
+F_C_PCT = ".958"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Scranton"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "13"
+F_P_A = "19"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cueto"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "5"
+F_P_A = "27"
+F_P_E = "0"
+F_P_DP = "3"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Orwiler"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "4"
+F_P_A = "25"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pfister"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "9"
+F_P_A = "16"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Blanco"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "4"
+F_P_A = "17"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Belden"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "3"
+F_P_A = "18"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "O'Donnell"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "7"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Picker"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "3"
+F_P_A = "16"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "5"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bridges"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "3"
+F_P_A = "11"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davidson"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "11"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jankunis"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "2"
+F_P_A = "6"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rich"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "0"
+F_P_A = "8"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "0"
+F_P_A = "6"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Burroughs"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "0"
+F_P_A = "4"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kaat"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "12"
+F_P_A = "53"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".985"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bass"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "9"
+F_P_A = "35"
+F_P_E = "1"
+F_P_DP = "4"
+F_P_PCT = ".978"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "C."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "5"
+F_P_A = "31"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".973"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schmitt"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "8"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "5"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McMullan"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "4"
+F_P_A = "23"
+F_P_E = "1"
+F_P_DP = "4"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Page"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "4"
+F_P_A = "21"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "6"
+F_P_A = "38"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".957"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Merrigan"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "2"
+F_P_A = "19"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "41"
+F_P_PO = "8"
+F_P_A = "33"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".953"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bacque"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "7"
+F_P_A = "34"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".953"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Castellanos"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "54"
+F_P_PO = "5"
+F_P_A = "13"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".947"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tomlan"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "10"
+F_P_A = "25"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".946"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schmid"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "11"
+F_P_A = "21"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ingram"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "7"
+F_P_A = "24"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".939"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Stokoe"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "0"
+F_P_A = "30"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".938"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Clapp"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "8"
+F_P_A = "21"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".935"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Suto"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "3"
+F_P_A = "11"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "8"
+F_P_A = "5"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Guenthner"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "3"
+F_P_A = "10"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Holmes"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "15"
+F_P_A = "35"
+F_P_E = "4"
+F_P_DP = "6"
+F_P_PCT = ".926"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Polk"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "4"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Demm"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "4"
+F_P_A = "29"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "O'Cain"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "5"
+F_P_A = "17"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Riddle"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "5"
+F_P_A = "6"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "J."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "4"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lynn"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "8"
+F_P_A = "13"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".913"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Felker"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "12"
+F_P_A = "28"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bartek"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "2"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Prevatt"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "14"
+F_P_A = "35"
+F_P_E = "5"
+F_P_DP = "3"
+F_P_PCT = ".907"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Powers"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "44"
+F_P_PO = "4"
+F_P_A = "25"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Iannicelli"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "3"
+F_P_A = "16"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".905"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Curtis"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "6"
+F_P_A = "12"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "O'Melia"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "1"
+F_P_A = "17"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Shrode"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "2"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "4"
+F_P_A = "20"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fields"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "2"
+F_P_A = "14"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Richardson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McGuire"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Keller"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sylvester"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "0"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Drake"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "2"
+F_P_A = "13"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".882"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "L."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "2"
+F_P_A = "13"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".882"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Swertfager"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "3"
+F_P_A = "26"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".879"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Denney"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "4"
+F_P_A = "16"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".870"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Herzberger"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "11"
+F_P_A = "35"
+F_P_E = "7"
+F_P_DP = "1"
+F_P_PCT = ".868"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kowalski"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "5"
+F_P_A = "14"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".864"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Morris"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "2"
+F_P_A = "22"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Szostak"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "0"
+F_P_A = "6"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Thompson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "8"
+F_P_A = "33"
+F_P_E = "7"
+F_P_DP = "3"
+F_P_PCT = ".854"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "W."
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "3"
+F_P_A = "8"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".846"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "9"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".846"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Webrand"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "6"
+F_P_A = "7"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".812"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sheldon"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "5"
+F_P_A = "8"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".812"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rosenquist"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "1"
+F_P_A = "13"
+F_P_E = "4"
+F_P_DP = "3"
+F_P_PCT = ".778"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McCaig"
+[[person.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "4"
+F_P_A = "8"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".750"
+F_P_TP = "0"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Veracruz"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "161"
+F_PO = "3999"
+F_A = "1808"
+F_E = "151"
+F_DP = "144"
+F_PB = "24"
+F_PCT = ".975"
+F_TP = "0"
+
+
+[[team]]
+name = "Reynosa"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "3939"
+F_A = "1681"
+F_E = "158"
+F_DP = "130"
+F_PB = "19"
+F_PCT = ".973"
+F_TP = "0"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "3765"
+F_A = "1658"
+F_E = "159"
+F_DP = "147"
+F_PB = "18"
+F_PCT = ".972"
+F_TP = "0"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3777"
+F_A = "1615"
+F_E = "164"
+F_DP = "139"
+F_PB = "21"
+F_PCT = ".970"
+F_TP = "0"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3822"
+F_A = "1652"
+F_E = "168"
+F_DP = "152"
+F_PB = "19"
+F_PCT = ".970"
+F_TP = "0"
+
+
+[[team]]
+name = "Puebla"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3800"
+F_A = "1717"
+F_E = "172"
+F_DP = "153"
+F_PB = "14"
+F_PCT = ".970"
+F_TP = "1"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "3877"
+F_A = "1807"
+F_E = "184"
+F_DP = "148"
+F_PB = "29"
+F_PCT = ".969"
+F_TP = "0"
+
+
+[[team]]
+name = "Jalisco"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+F_PO = "3876"
+F_A = "1781"
+F_E = "187"
+F_DP = "140"
+F_PB = "38"
+F_PCT = ".968"
+F_TP = "1"

@@ -1,0 +1,110 @@
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3430"
+F_A = "1589"
+F_E = "192"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3427"
+F_A = "1520"
+F_E = "198"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3476"
+F_A = "1771"
+F_E = "213"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3333"
+F_A = "1502"
+F_E = "202"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3401"
+F_A = "1671"
+F_E = "232"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3208"
+F_A = "1668"
+F_E = "245"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "2976"
+F_A = "1511"
+F_E = "252"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3069"
+F_A = "1549"
+F_E = "271"
+F_PCT = ".945"

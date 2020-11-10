@@ -1,0 +1,128 @@
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "16"
+R_L = "5"
+R_PCT = ".762"
+R_RANK = "1"
+
+
+[[team]]
+name = "Albuquerque"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "13"
+R_L = "6"
+R_PCT = ".684"
+R_RANK = "2"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "13"
+R_L = "7"
+R_PCT = ".650"
+R_RANK = "3"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "7"
+R_L = "14"
+R_PCT = ".333"
+R_RANK = "4"
+
+
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "5"
+R_L = "13"
+R_PCT = ".278"
+R_RANK = "5"
+
+
+[[team]]
+name = "Las Cruces"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "5"
+R_L = "14"
+R_PCT = ".233"
+R_RANK = "6"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "24"
+R_L = "15"
+R_PCT = ".615"
+R_RANK = "1"
+
+
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "23"
+R_L = "16"
+R_PCT = ".590"
+R_RANK = "2"
+
+
+[[team]]
+name = "Albuquerque"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "19"
+R_L = "20"
+R_PCT = ".487"
+R_RANK = "3"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1915"
+league.name = "Rio Grande Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "12"
+R_L = "27"
+R_PCT = ".308"
+R_RANK = "4"

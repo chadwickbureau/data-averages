@@ -1,0 +1,102 @@
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "54"
+R_PCT = ".609"
+R_RANK = "1"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "61"
+R_PCT = ".544"
+R_RANK = "2"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "62"
+R_PCT = ".526"
+R_RANK = "3"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "65"
+R_PCT = ".518"
+R_RANK = "4"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "67"
+R_PCT = ".511"
+R_RANK = "5"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "70"
+R_PCT = ".493"
+R_RANK = "6"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "74"
+R_PCT = ".467"
+R_RANK = "7"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "91"
+R_PCT = ".331"
+R_RANK = "8"

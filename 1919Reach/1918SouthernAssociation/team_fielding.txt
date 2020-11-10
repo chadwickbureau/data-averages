@@ -1,0 +1,134 @@
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "70"
+F_DP = "44"
+F_TP = "0"
+F_PB = "4"
+F_PO = "1802"
+F_A = "891"
+F_E = "89"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "73"
+F_DP = "43"
+F_TP = "0"
+F_PB = "3"
+F_PO = "1863"
+F_A = "926"
+F_E = "95"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "70"
+F_DP = "39"
+F_TP = "1"
+F_PB = "2"
+F_PO = "1839"
+F_A = "903"
+F_E = "95"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "73"
+F_DP = "43"
+F_TP = "0"
+F_PB = "3"
+F_PO = "1891"
+F_A = "947"
+F_E = "104"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "67"
+F_DP = "37"
+F_TP = "0"
+F_PB = "2"
+F_PO = "1757"
+F_A = "894"
+F_E = "118"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "68"
+F_DP = "45"
+F_TP = "0"
+F_PB = "8"
+F_PO = "1829"
+F_A = "861"
+F_E = "126"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "69"
+F_DP = "35"
+F_TP = "0"
+F_PB = "2"
+F_PO = "1737"
+F_A = "885"
+F_E = "128"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1918"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "69"
+F_DP = "52"
+F_TP = "0"
+F_PB = "2"
+F_PO = "1556"
+F_A = "923"
+F_E = "143"
+F_PCT = ".942"

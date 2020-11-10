@@ -1,0 +1,102 @@
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3494"
+F_A = "1478"
+F_E = "306"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3693"
+F_A = "1704"
+F_E = "346"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3671"
+F_A = "1855"
+F_E = "358"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3630"
+F_A = "1671"
+F_E = "370"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3511"
+F_A = "1548"
+F_E = "352"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Leavenworth"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3282"
+F_A = "1480"
+F_E = "342"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Webb City"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3454"
+F_A = "1424"
+F_E = "349"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3423"
+F_A = "1471"
+F_E = "358"
+F_PCT = ".932"

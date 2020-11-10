@@ -1,0 +1,58 @@
+[[team]]
+name = "Chihuahua"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "59917"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "59847"
+
+
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "55640"
+
+
+[[team]]
+name = "Nogales"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "48887"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "42257"
+
+
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "25315"

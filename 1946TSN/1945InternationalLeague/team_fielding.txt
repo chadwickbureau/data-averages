@@ -1,0 +1,158 @@
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "153"
+F_TP = "0"
+F_GDP = "88"
+F_LOB = "1254"
+F_PO = "3835"
+F_A = "1650"
+F_E = "181"
+F_TC = "5666"
+F_PB = "10"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "142"
+F_TP = "0"
+F_GDP = "88"
+F_LOB = "1297"
+F_PO = "3777"
+F_A = "1708"
+F_E = "202"
+F_TC = "5687"
+F_PB = "14"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "155"
+F_TP = "0"
+F_GDP = "87"
+F_LOB = "1081"
+F_PO = "3855"
+F_A = "1780"
+F_E = "217"
+F_TC = "5852"
+F_PB = "9"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "128"
+F_TP = "0"
+F_GDP = "111"
+F_LOB = "1078"
+F_PO = "3760"
+F_A = "1641"
+F_E = "240"
+F_TC = "5641"
+F_PB = "23"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "130"
+F_TP = "0"
+F_GDP = "101"
+F_LOB = "1108"
+F_PO = "3778"
+F_A = "1681"
+F_E = "252"
+F_TC = "5711"
+F_PB = "10"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "115"
+F_TP = "0"
+F_GDP = "112"
+F_LOB = "1208"
+F_PO = "3761"
+F_A = "1789"
+F_E = "274"
+F_TC = "5824"
+F_PB = "8"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "107"
+F_TP = "0"
+F_GDP = "95"
+F_LOB = "1179"
+F_PO = "3776"
+F_A = "1671"
+F_E = "275"
+F_TC = "5722"
+F_PB = "14"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "116"
+F_TP = "0"
+F_GDP = "90"
+F_LOB = "1142"
+F_PO = "3774"
+F_A = "1563"
+F_E = "276"
+F_TC = "5613"
+F_PB = "22"
+F_PCT = ".951"

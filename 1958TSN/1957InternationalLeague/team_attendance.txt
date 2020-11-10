@@ -1,0 +1,78 @@
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "386071"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "342597"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "258861"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "258778"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "181651"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "180418"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "176137"
+
+
+[[team]]
+name = "Havana"
+[[team.playing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "84320"

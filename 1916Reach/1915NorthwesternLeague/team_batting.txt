@@ -1,0 +1,118 @@
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "102"
+B_AB = "3472"
+B_R = "484"
+B_H = "960"
+B_2B = "177"
+B_3B = "33"
+B_HR = "24"
+B_TB = "1275"
+B_SH = "123"
+B_SB = "120"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "157"
+B_AB = "5320"
+B_R = "682"
+B_H = "1408"
+B_2B = "221"
+B_3B = "66"
+B_HR = "28"
+B_TB = "1845"
+B_SH = "214"
+B_SB = "331"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "159"
+B_AB = "4981"
+B_R = "632"
+B_H = "1294"
+B_2B = "219"
+B_3B = "66"
+B_HR = "16"
+B_TB = "1693"
+B_SH = "217"
+B_SB = "212"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5121"
+B_R = "640"
+B_H = "1327"
+B_2B = "240"
+B_3B = "66"
+B_HR = "41"
+B_TB = "1822"
+B_SH = "155"
+B_SB = "170"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "158"
+B_AB = "5280"
+B_R = "722"
+B_H = "1363"
+B_2B = "231"
+B_3B = "68"
+B_HR = "24"
+B_TB = "1802"
+B_SH = "214"
+B_SB = "162"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "108"
+B_AB = "3487"
+B_R = "394"
+B_H = "841"
+B_2B = "130"
+B_3B = "23"
+B_HR = "13"
+B_TB = "1056"
+B_SH = "120"
+B_SB = "111"
+B_AVG = ".241"

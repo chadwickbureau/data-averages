@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Geraghty"
+name.given = "Benjamin"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wichita"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Houk"
+name.given = "Ralph"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Denver"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Davis"
+name.given = "John (Red)"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Minneapolis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Macon"
+name.given = "Max"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "St. Paul"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Keane"
+name.given = "John"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Omaha"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cohen"
+name.given = "Andrew"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Indianapolis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Skaff"
+name.given = "Frank"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Griffin"
+name.given = "G. Donald"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Norman"
+name.given = "Willis (Bill)"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Meyer"
+name.given = "L. D. (Dutch)"
+[[person.managing]]
+season = "1957"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Louisville"
+S_ORDER = "0"
+[person.managing.totals]

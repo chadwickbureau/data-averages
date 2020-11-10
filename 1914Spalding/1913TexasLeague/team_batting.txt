@@ -1,0 +1,190 @@
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4808"
+B_R = "607"
+B_H = "1181"
+B_SO = "594"
+B_BB = "544"
+B_2B = "153"
+B_3B = "52"
+B_HR = "10"
+B_SB = "239"
+B_SH = "231"
+B_SF = "35"
+B_EB = "287"
+B_TB = "1468"
+B_AVG = ".246"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4996"
+B_R = "554"
+B_H = "1206"
+B_SO = "633"
+B_BB = "524"
+B_2B = "181"
+B_3B = "29"
+B_HR = "9"
+B_SB = "275"
+B_SH = "202"
+B_SF = "26"
+B_EB = "266"
+B_TB = "1472"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5003"
+B_R = "570"
+B_H = "1200"
+B_SO = "686"
+B_BB = "497"
+B_2B = "205"
+B_3B = "59"
+B_HR = "23"
+B_SB = "313"
+B_SH = "180"
+B_SF = "22"
+B_EB = "392"
+B_TB = "1592"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4815"
+B_R = "576"
+B_H = "1139"
+B_SO = "553"
+B_BB = "507"
+B_2B = "142"
+B_3B = "68"
+B_HR = "10"
+B_SB = "236"
+B_SH = "225"
+B_SF = "28"
+B_EB = "308"
+B_TB = "1447"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "157"
+B_AB = "4994"
+B_R = "532"
+B_H = "1155"
+B_SO = "780"
+B_BB = "560"
+B_2B = "159"
+B_3B = "59"
+B_HR = "23"
+B_SB = "298"
+B_SH = "168"
+B_SF = "22"
+B_EB = "346"
+B_TB = "1501"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "158"
+B_AB = "4989"
+B_R = "485"
+B_H = "1105"
+B_SO = "665"
+B_BB = "502"
+B_2B = "134"
+B_3B = "51"
+B_HR = "9"
+B_SB = "267"
+B_SH = "219"
+B_SF = "34"
+B_EB = "263"
+B_TB = "1368"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4810"
+B_R = "533"
+B_H = "1064"
+B_SO = "787"
+B_BB = "527"
+B_2B = "169"
+B_3B = "44"
+B_HR = "21"
+B_SB = "172"
+B_SH = "155"
+B_SF = "18"
+B_EB = "320"
+B_TB = "1384"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4879"
+B_R = "541"
+B_H = "1072"
+B_SO = "564"
+B_BB = "525"
+B_2B = "158"
+B_3B = "67"
+B_HR = "18"
+B_SB = "223"
+B_SH = "199"
+B_SF = "35"
+B_EB = "346"
+B_TB = "1418"
+B_AVG = ".220"

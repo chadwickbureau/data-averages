@@ -1,0 +1,134 @@
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "133"
+F_PB = "28"
+F_PO = "3344"
+F_A = "1514"
+F_E = "165"
+F_PCT = ".967"
+F_TP = "1"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "117"
+F_PB = "14"
+F_PO = "3317"
+F_A = "1355"
+F_E = "177"
+F_PCT = ".961"
+F_TP = "0"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "101"
+F_PB = "25"
+F_PO = "3340"
+F_A = "1330"
+F_E = "217"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "81"
+F_PB = "22"
+F_PO = "3319"
+F_A = "1346"
+F_E = "223"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "115"
+F_PB = "24"
+F_PO = "3320"
+F_A = "1343"
+F_E = "251"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "110"
+F_PB = "23"
+F_PO = "3282"
+F_A = "1421"
+F_E = "280"
+F_PCT = ".944"
+F_TP = "0"
+
+
+[[team]]
+name = "Lockport"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "123"
+F_PB = "19"
+F_PO = "3363"
+F_A = "1486"
+F_E = "292"
+F_PCT = ".943"
+F_TP = "1"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1949"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "78"
+F_PB = "48"
+F_PO = "3283"
+F_A = "1280"
+F_E = "323"
+F_PCT = ".934"
+F_TP = "0"

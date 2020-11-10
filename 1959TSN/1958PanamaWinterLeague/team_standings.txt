@@ -1,0 +1,50 @@
+[[team]]
+name = "Azucareros"
+[[team.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "23"
+R_L = "13"
+R_PCT = ".639"
+R_RANK = "1"
+
+
+[[team]]
+name = "Marlboro"
+[[team.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "19"
+R_L = "17"
+R_PCT = ".528"
+R_RANK = "2"
+
+
+[[team]]
+name = "Carta Vieja"
+[[team.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "16"
+R_L = "20"
+R_PCT = ".444"
+R_RANK = "3"
+
+
+[[team]]
+name = "Cerveza Balboa"
+[[team.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "14"
+R_L = "22"
+R_PCT = ".389"
+R_RANK = "4"

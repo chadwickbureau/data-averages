@@ -1,0 +1,100 @@
+[[team]]
+name = "La Crosse"
+[[team.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3805"
+B_R = "449"
+B_H = "883"
+B_TB = "1134"
+B_SH = "170"
+B_SB = "242"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "3779"
+B_R = "391"
+B_H = "864"
+B_TB = "1109"
+B_SH = "167"
+B_SB = "161"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Winona"
+[[team.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3786"
+B_R = "407"
+B_H = "845"
+B_TB = "1011"
+B_SH = "195"
+B_SB = "241"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3810"
+B_R = "376"
+B_H = "841"
+B_TB = "1010"
+B_SH = "208"
+B_SB = "187"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3975"
+B_R = "398"
+B_H = "874"
+B_TB = "1060"
+B_SH = "189"
+B_SB = "239"
+B_AVG = ".220"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1909"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3941"
+B_R = "376"
+B_H = "832"
+B_TB = "1039"
+B_SH = "116"
+B_SB = "212"
+B_AVG = ".211"

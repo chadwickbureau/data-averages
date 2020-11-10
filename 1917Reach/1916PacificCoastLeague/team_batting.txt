@@ -1,0 +1,112 @@
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "195"
+B_AB = "6604"
+B_R = "959"
+B_H = "1806"
+B_SB = "194"
+B_HR = "65"
+B_3B = "46"
+B_2B = "329"
+B_SH = "217"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "194"
+B_AB = "6397"
+B_R = "790"
+B_H = "1691"
+B_SB = "221"
+B_HR = "40"
+B_3B = "34"
+B_2B = "291"
+B_SH = "226"
+B_AVG = ".264"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "206"
+B_AB = "6740"
+B_R = "805"
+B_H = "1761"
+B_SB = "234"
+B_HR = "58"
+B_3B = "39"
+B_2B = "260"
+B_SH = "194"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "199"
+B_AB = "6419"
+B_R = "833"
+B_H = "1666"
+B_SB = "234"
+B_HR = "36"
+B_3B = "63"
+B_2B = "259"
+B_SH = "225"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "208"
+B_AB = "6765"
+B_R = "674"
+B_H = "1751"
+B_SB = "238"
+B_HR = "15"
+B_3B = "26"
+B_2B = "279"
+B_SH = "259"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "208"
+B_AB = "6780"
+B_R = "847"
+B_H = "1715"
+B_SB = "252"
+B_HR = "34"
+B_3B = "62"
+B_2B = "288"
+B_SH = "262"
+B_AVG = ".253"

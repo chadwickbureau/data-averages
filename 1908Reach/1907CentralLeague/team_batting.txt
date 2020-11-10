@@ -1,0 +1,110 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4566"
+B_R = "687"
+B_H = "1224"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4428"
+B_R = "499"
+B_H = "1044"
+B_AVG = ".240"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4648"
+B_R = "318"
+B_H = "1042"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4337"
+B_R = "505"
+B_H = "973"
+B_AVG = ".217"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4190"
+B_R = "400"
+B_H = "886"
+B_AVG = ".211"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "3983"
+B_R = "416"
+B_H = "852"
+B_AVG = ".211"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "4483"
+B_R = "375"
+B_H = "1065"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4406"
+B_R = "436"
+B_H = "902"
+B_AVG = ".205"

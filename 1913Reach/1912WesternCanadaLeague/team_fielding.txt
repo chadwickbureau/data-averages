@@ -1,0 +1,58 @@
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2557"
+F_A = "1219"
+F_E = "197"
+F_DP = "59"
+F_TP = "1"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Red Deer"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2195"
+F_A = "1033"
+F_E = "212"
+F_DP = "44"
+F_TP = "0"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2123"
+F_A = "1156"
+F_E = "237"
+F_DP = "53"
+F_TP = "2"
+F_PCT = ".920"
+
+
+[[team]]
+name = "Bassano"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2046"
+F_A = "864"
+F_E = "154"
+F_DP = "45"
+F_TP = "0"
+F_PCT = ".919"

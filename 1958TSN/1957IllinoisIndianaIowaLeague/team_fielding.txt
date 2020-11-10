@@ -1,0 +1,100 @@
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "119"
+F_PB = "22"
+F_PO = "3390"
+F_A = "1300"
+F_E = "193"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "99"
+F_PB = "24"
+F_PO = "3496"
+F_A = "1353"
+F_E = "216"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "143"
+F_PB = "21"
+F_PO = "3426"
+F_A = "1464"
+F_E = "227"
+F_PCT = ".956"
+F_TP = "1"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "106"
+F_PB = "23"
+F_PO = "3466"
+F_A = "1386"
+F_E = "231"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "120"
+F_PB = "26"
+F_PO = "3334"
+F_A = "1330"
+F_E = "285"
+F_PCT = ".942"
+F_TP = "1"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1957"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "92"
+F_PB = "30"
+F_PO = "3333"
+F_A = "1248"
+F_E = "284"
+F_PCT = ".942"
+F_TP = "0"

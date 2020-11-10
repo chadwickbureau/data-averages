@@ -1,0 +1,100 @@
+[[team]]
+name = "Twin Falls"
+[[team.playing]]
+season = "1946"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "96"
+F_TP = "1"
+F_PB = "19"
+F_PO = "3399"
+F_A = "1407"
+F_E = "239"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1946"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "99"
+F_TP = "0"
+F_PB = "14"
+F_PO = "3462"
+F_A = "1399"
+F_E = "245"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1946"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "83"
+F_TP = "1"
+F_PB = "8"
+F_PO = "3391"
+F_A = "1488"
+F_E = "268"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1946"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "98"
+F_TP = "1"
+F_PB = "25"
+F_PO = "3411"
+F_A = "1479"
+F_E = "316"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1946"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "91"
+F_TP = "0"
+F_PB = "31"
+F_PO = "3337"
+F_A = "1374"
+F_E = "311"
+F_PCT = ".938"
+
+
+[[team]]
+name = "Ogden"
+[[team.playing]]
+season = "1946"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "72"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3337"
+F_A = "1210"
+F_E = "300"
+F_PCT = ".938"

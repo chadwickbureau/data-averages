@@ -1,0 +1,82 @@
+[[team]]
+name = "Maysville"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3146"
+F_A = "1597"
+F_E = "137"
+F_TC = "4880"
+F_PCT = ".971"
+
+
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3124"
+F_A = "1523"
+F_E = "243"
+F_TC = "4890"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2858"
+F_A = "1528"
+F_E = "273"
+F_TC = "4659"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3212"
+F_A = "1648"
+F_E = "313"
+F_TC = "5173"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2696"
+F_A = "1550"
+F_E = "306"
+F_TC = "4552"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Mount Sterling"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2569"
+F_A = "1326"
+F_E = "334"
+F_TC = "4229"
+F_PCT = ".921"

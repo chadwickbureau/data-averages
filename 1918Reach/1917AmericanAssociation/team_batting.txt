@@ -1,0 +1,190 @@
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5008"
+B_R = "626"
+B_ER = "502"
+B_H = "1326"
+B_TB = "1782"
+B_2B = "207"
+B_3B = "66"
+B_HR = "39"
+B_SH = "210"
+B_SB = "140"
+B_BB = "523"
+B_SO = "547"
+B_AVG = ".265"
+F_SB = "153"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5077"
+B_R = "620"
+B_ER = "466"
+B_H = "1329"
+B_TB = "1812"
+B_2B = "236"
+B_3B = "89"
+B_HR = "23"
+B_SH = "169"
+B_SB = "122"
+B_BB = "457"
+B_SO = "584"
+B_AVG = ".262"
+F_SB = "144"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5026"
+B_R = "652"
+B_ER = "451"
+B_H = "1307"
+B_TB = "1790"
+B_2B = "191"
+B_3B = "89"
+B_HR = "38"
+B_SH = "179"
+B_SB = "204"
+B_BB = "504"
+B_SO = "590"
+B_AVG = ".260"
+F_SB = "144"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5163"
+B_R = "632"
+B_ER = "467"
+B_H = "1326"
+B_TB = "1737"
+B_2B = "221"
+B_3B = "47"
+B_HR = "32"
+B_SH = "147"
+B_SB = "157"
+B_BB = "538"
+B_SO = "607"
+B_AVG = ".257"
+F_SB = "146"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5004"
+B_R = "598"
+B_ER = "437"
+B_H = "1278"
+B_TB = "1672"
+B_2B = "177"
+B_3B = "71"
+B_HR = "25"
+B_SH = "196"
+B_SB = "159"
+B_BB = "505"
+B_SO = "483"
+B_AVG = ".255"
+F_SB = "179"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5124"
+B_R = "637"
+B_ER = "456"
+B_H = "1297"
+B_TB = "1741"
+B_2B = "212"
+B_3B = "68"
+B_HR = "32"
+B_SH = "223"
+B_SB = "156"
+B_BB = "429"
+B_SO = "533"
+B_AVG = ".253"
+F_SB = "103"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4999"
+B_R = "619"
+B_ER = "468"
+B_H = "1242"
+B_TB = "1687"
+B_2B = "169"
+B_3B = "93"
+B_HR = "30"
+B_SH = "203"
+B_SB = "147"
+B_BB = "482"
+B_SO = "530"
+B_AVG = ".251"
+F_SB = "124"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1917"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5043"
+B_R = "563"
+B_ER = "351"
+B_H = "1252"
+B_TB = "1509"
+B_2B = "133"
+B_3B = "50"
+B_HR = "8"
+B_SH = "168"
+B_SB = "146"
+B_BB = "451"
+B_SO = "561"
+B_AVG = ".248"
+F_SB = "203"

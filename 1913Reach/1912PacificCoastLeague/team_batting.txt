@@ -1,0 +1,94 @@
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "205"
+B_AB = "6721"
+B_R = "891"
+B_H = "1831"
+B_SB = "282"
+B_SH = "230"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "207"
+B_AB = "6754"
+B_R = "879"
+B_H = "1832"
+B_SB = "337"
+B_SH = "317"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "204"
+B_AB = "6652"
+B_R = "937"
+B_H = "1773"
+B_SB = "327"
+B_SH = "292"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "189"
+B_AB = "6243"
+B_R = "698"
+B_H = "1654"
+B_SB = "291"
+B_SH = "237"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "194"
+B_AB = "6302"
+B_R = "748"
+B_H = "1669"
+B_SB = "264"
+B_SH = "210"
+B_AVG = ".265"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "205"
+B_AB = "6503"
+B_R = "692"
+B_H = "1685"
+B_SB = "264"
+B_SH = "231"
+B_AVG = ".259"

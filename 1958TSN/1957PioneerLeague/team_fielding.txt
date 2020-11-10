@@ -1,0 +1,134 @@
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "107"
+F_PB = "37"
+F_PO = "3341"
+F_A = "1264"
+F_E = "180"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "113"
+F_PB = "22"
+F_PO = "3243"
+F_A = "1379"
+F_E = "185"
+F_PCT = ".961"
+F_TP = "1"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "124"
+F_PB = "24"
+F_PO = "3292"
+F_A = "1380"
+F_E = "196"
+F_PCT = ".960"
+F_TP = "1"
+
+
+[[team]]
+name = "Magic Valley"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "111"
+F_PB = "20"
+F_PO = "3320"
+F_A = "1298"
+F_E = "211"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "149"
+F_PB = "20"
+F_PO = "3291"
+F_A = "1350"
+F_E = "218"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "123"
+F_PB = "34"
+F_PO = "3325"
+F_A = "1334"
+F_E = "239"
+F_PCT = ".951"
+F_TP = "1"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "133"
+F_PB = "37"
+F_PO = "3366"
+F_A = "1295"
+F_E = "241"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "117"
+F_PB = "7"
+F_PO = "3366"
+F_A = "1357"
+F_E = "254"
+F_PCT = ".949"
+F_TP = "0"

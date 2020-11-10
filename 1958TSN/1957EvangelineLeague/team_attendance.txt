@@ -1,0 +1,58 @@
+[[team]]
+name = "Alexandria"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "52937"
+
+
+[[team]]
+name = "Thibodaux"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "28653"
+
+
+[[team]]
+name = "Crowley"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "17779"
+
+
+[[team]]
+name = "Lake Charles"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "15589"
+
+
+[[team]]
+name = "Lafayette"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "9567"
+
+
+[[team]]
+name = "Baton Rouge"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "8297"

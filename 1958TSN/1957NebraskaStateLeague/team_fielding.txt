@@ -1,0 +1,134 @@
+[[team]]
+name = "McCook"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_DP = "36"
+F_PB = "9"
+F_PO = "1465"
+F_A = "515"
+F_E = "141"
+F_PCT = ".934"
+F_TP = "0"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "55"
+F_DP = "31"
+F_PB = "13"
+F_PO = "1423"
+F_A = "546"
+F_E = "145"
+F_PCT = ".931"
+F_TP = "0"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_DP = "35"
+F_PB = "34"
+F_PO = "1466"
+F_A = "544"
+F_E = "153"
+F_PCT = ".929"
+F_TP = "0"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_DP = "39"
+F_PB = "24"
+F_PO = "1464"
+F_A = "557"
+F_E = "155"
+F_PCT = ".929"
+F_TP = "0"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_DP = "26"
+F_PB = "9"
+F_PO = "1465"
+F_A = "468"
+F_E = "150"
+F_PCT = ".928"
+F_TP = "0"
+
+
+[[team]]
+name = "Holdrege"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_DP = "30"
+F_PB = "20"
+F_PO = "1443"
+F_A = "510"
+F_E = "155"
+F_PCT = ".926"
+F_TP = "0"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "55"
+F_DP = "36"
+F_PB = "11"
+F_PO = "1425"
+F_A = "498"
+F_E = "169"
+F_PCT = ".919"
+F_TP = "0"
+
+
+[[team]]
+name = "North Platte"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_DP = "30"
+F_PB = "17"
+F_PO = "1405"
+F_A = "505"
+F_E = "197"
+F_PCT = ".907"
+F_TP = "0"

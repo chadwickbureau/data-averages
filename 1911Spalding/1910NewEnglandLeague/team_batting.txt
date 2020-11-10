@@ -1,0 +1,158 @@
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4090"
+B_R = "561"
+B_H = "1021"
+B_TB = "1334"
+B_2B = "136"
+B_3B = "63"
+B_HR = "17"
+B_SH = "194"
+B_SB = "220"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4281"
+B_R = "511"
+B_H = "1054"
+B_TB = "1275"
+B_2B = "132"
+B_3B = "40"
+B_HR = "3"
+B_SH = "229"
+B_SB = "262"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "3920"
+B_R = "459"
+B_H = "959"
+B_TB = "1194"
+B_2B = "129"
+B_3B = "38"
+B_HR = "10"
+B_SH = "215"
+B_SB = "205"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3929"
+B_R = "455"
+B_H = "934"
+B_TB = "1148"
+B_2B = "115"
+B_3B = "39"
+B_HR = "7"
+B_SH = "169"
+B_SB = "155"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3907"
+B_R = "435"
+B_H = "902"
+B_TB = "1133"
+B_2B = "129"
+B_3B = "39"
+B_HR = "8"
+B_SH = "195"
+B_SB = "181"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4020"
+B_R = "436"
+B_H = "915"
+B_TB = "1091"
+B_2B = "114"
+B_3B = "25"
+B_HR = "4"
+B_SH = "203"
+B_SB = "195"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4005"
+B_R = "441"
+B_H = "892"
+B_TB = "1154"
+B_2B = "138"
+B_3B = "47"
+B_HR = "10"
+B_SH = "190"
+B_SB = "249"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3855"
+B_R = "359"
+B_H = "801"
+B_TB = "1005"
+B_2B = "108"
+B_3B = "33"
+B_HR = "10"
+B_SH = "206"
+B_SB = "214"
+B_AVG = ".208"

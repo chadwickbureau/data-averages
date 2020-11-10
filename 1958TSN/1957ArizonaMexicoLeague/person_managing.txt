@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Hooper"
+name.given = "Robert"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Phoenix"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Solano"
+name.given = "Claudio"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cananea"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rios"
+name.given = "Daniel"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cananea"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Clear"
+name.given = "E. Robert"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Douglas"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Marion"
+name.given = "John (Red)"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Las Vegas"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Jameson"
+name.given = "Don"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tucson"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Choukalos"
+name.given = "Ernest"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tucson"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "Arthur"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexicali"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Magallon"
+name.given = "Manuel"
+[[person.managing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexicali"
+S_ORDER = "2"
+[person.managing.totals]

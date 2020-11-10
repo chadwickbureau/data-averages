@@ -1,0 +1,118 @@
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4759"
+B_R = "571"
+B_H = "184"
+B_1B = "1573"
+B_2B = "172"
+B_3B = "74"
+B_HR = "23"
+B_AVG = ".249"
+B_SH = "251"
+B_SB = "303"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4823"
+B_R = "557"
+B_H = "145"
+B_1B = "1572"
+B_2B = "197"
+B_3B = "58"
+B_HR = "38"
+B_AVG = ".237"
+B_SH = "255"
+B_SB = "263"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4740"
+B_R = "553"
+B_H = "121"
+B_1B = "1525"
+B_2B = "150"
+B_3B = "37"
+B_HR = "10"
+B_AVG = ".236"
+B_SH = "269"
+B_SB = "206"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "4643"
+B_R = "583"
+B_H = "88"
+B_1B = "1486"
+B_2B = "173"
+B_3B = "69"
+B_HR = "29"
+B_AVG = ".234"
+B_SH = "263"
+B_SB = "403"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4796"
+B_R = "498"
+B_H = "113"
+B_1B = "1405"
+B_2B = "146"
+B_3B = "58"
+B_HR = "10"
+B_AVG = ".232"
+B_SH = "202"
+B_SB = "228"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "151"
+B_AB = "4651"
+B_R = "431"
+B_H = "979"
+B_1B = "1261"
+B_2B = "122"
+B_3B = "65"
+B_HR = "10"
+B_AVG = ".210"
+B_SH = "223"
+B_SB = "141"

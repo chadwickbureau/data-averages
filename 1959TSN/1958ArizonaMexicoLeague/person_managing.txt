@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Clear"
+name.given = "E. Robert"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Douglas"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dunlop"
+name.given = "Harry"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tucson"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Garibay"
+name.given = "Guillermo (Memo)"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Nogales"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Aldama"
+name.given = "Leonel"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Chihuahua"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Torres"
+name.given = "Epitacio (LaMala)"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Juarez"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Serrell"
+name.given = "Barney"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Juarez"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ramirez"
+name.given = "Pedro"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Juarez"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "Felipe (Burro)"
+[[person.managing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexicali"
+S_ORDER = "0"
+[person.managing.totals]

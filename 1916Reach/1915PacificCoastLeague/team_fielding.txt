@@ -1,0 +1,82 @@
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1915"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "207"
+F_PO = "5698"
+F_A = "2874"
+F_E = "319"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1915"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "210"
+F_PO = "5698"
+F_A = "3029"
+F_E = "352"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1915"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "209"
+F_PO = "5602"
+F_A = "2911"
+F_E = "342"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1915"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "196"
+F_PO = "5280"
+F_A = "2603"
+F_E = "341"
+F_PCT = ".959"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1915"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "208"
+F_PO = "5653"
+F_A = "2798"
+F_E = "368"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1915"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "200"
+F_PO = "5380"
+F_A = "2512"
+F_E = "342"
+F_PCT = ".958"

@@ -1,0 +1,580 @@
+[[person]]
+name.last = "Stanley"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hutchinson"
+[person.playing.totals]
+P_G = "32"
+P_W = "23"
+P_L = "6"
+P_BB = "62"
+P_SO = "148"
+P_PCT = ".793"
+
+
+[[person]]
+name.last = "Hunt"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hutchinson"
+[person.playing.totals]
+P_G = "13"
+P_W = "9"
+P_L = "3"
+P_BB = "32"
+P_SO = "75"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hutchinson"
+[person.playing.totals]
+P_G = "12"
+P_W = "7"
+P_L = "3"
+P_BB = "29"
+P_SO = "68"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Hassler"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_G = "37"
+P_W = "25"
+P_L = "11"
+P_BB = "81"
+P_SO = "193"
+P_PCT = ".694"
+
+
+[[person]]
+name.last = "Clawson"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McPherson"
+[person.playing.totals]
+P_G = "31"
+P_W = "20"
+P_L = "9"
+P_BB = "58"
+P_SO = "164"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Schmidt"
+name.given = "H."
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hutchinson"
+[person.playing.totals]
+P_G = "15"
+P_W = "7"
+P_L = "4"
+P_BB = "36"
+P_SO = "68"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hutchinson"
+[person.playing.totals]
+P_G = "27"
+P_W = "12"
+P_L = "7"
+P_BB = "72"
+P_SO = "96"
+P_PCT = ".632"
+
+
+[[person]]
+name.last = "Lagenaur"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McPherson"
+[person.playing.totals]
+P_G = "28"
+P_W = "15"
+P_L = "9"
+P_BB = "55"
+P_SO = "135"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Sizemore"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_G = "24"
+P_W = "12"
+P_L = "8"
+P_BB = "36"
+P_SO = "64"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_G = "12"
+P_W = "6"
+P_L = "4"
+P_BB = "15"
+P_SO = "38"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Hayes"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellington"
+[person.playing.totals]
+P_G = "17"
+P_W = "8"
+P_L = "6"
+P_BB = "29"
+P_SO = "71"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Giffin"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellington"
+[person.playing.totals]
+P_G = "26"
+P_W = "13"
+P_L = "10"
+P_BB = "37"
+P_SO = "88"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellington"
+[person.playing.totals]
+P_G = "26"
+P_W = "13"
+P_L = "10"
+P_BB = "84"
+P_SO = "159"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newton"
+[person.playing.totals]
+P_G = "19"
+P_W = "9"
+P_L = "7"
+P_BB = "55"
+P_PCT = ".562"
+
+
+[[person]]
+name.last = "Routt"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McPherson"
+[person.playing.totals]
+P_G = "32"
+P_W = "15"
+P_L = "12"
+P_BB = "58"
+P_SO = "168"
+P_PCT = ".555"
+
+
+[[person]]
+name.last = "Kellar"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Arkansas City"
+[person.playing.totals]
+P_G = "23"
+P_W = "10"
+P_L = "8"
+P_BB = "45"
+P_SO = "127"
+P_PCT = ".555"
+
+
+[[person]]
+name.last = "Salm"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_G = "30"
+P_W = "12"
+P_L = "10"
+P_BB = "32"
+P_SO = "108"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newton"
+[person.playing.totals]
+P_G = "12"
+P_W = "6"
+P_L = "5"
+P_BB = "17"
+P_SO = "43"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Lancaster"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Arkansas City"
+[person.playing.totals]
+P_G = "14"
+P_W = "7"
+P_L = "6"
+P_BB = "32"
+P_SO = "59"
+P_PCT = ".539"
+
+
+[[person]]
+name.last = "Maple"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_G = "30"
+P_W = "14"
+P_L = "13"
+P_BB = "63"
+P_SO = "142"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Mize"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[[person.playing.split]]
+team.name = "McPherson"
+[person.playing.totals]
+P_G = "15"
+P_W = "6"
+P_L = "6"
+P_BB = "42"
+P_SO = "58"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Patton"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_G = "10"
+P_W = "5"
+P_L = "5"
+P_BB = "28"
+P_SO = "67"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_G = "31"
+P_W = "11"
+P_L = "12"
+P_BB = "77"
+P_SO = "126"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lyons"
+[person.playing.totals]
+P_G = "24"
+P_W = "7"
+P_L = "8"
+P_BB = "37"
+P_SO = "87"
+P_PCT = ".466"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newton"
+[person.playing.totals]
+P_G = "28"
+P_W = "12"
+P_L = "14"
+P_BB = "60"
+P_SO = "112"
+P_PCT = ".461"
+
+
+[[person]]
+name.last = "Watson"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Bend"
+[person.playing.totals]
+P_G = "17"
+P_W = "6"
+P_L = "7"
+P_BB = "56"
+P_SO = "68"
+P_PCT = ".461"
+
+
+[[person]]
+name.last = "McGrath"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Larned"
+[person.playing.totals]
+P_G = "31"
+P_W = "11"
+P_L = "15"
+P_BB = "57"
+P_SO = "189"
+P_PCT = ".423"
+
+
+[[person]]
+name.last = "Scarry"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Larned"
+[person.playing.totals]
+P_G = "22"
+P_W = "8"
+P_L = "11"
+P_BB = "111"
+P_SO = "119"
+P_PCT = ".421"
+
+
+[[person]]
+name.last = "La Flambois"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Arkansas City"
+[person.playing.totals]
+P_G = "12"
+P_W = "3"
+P_L = "5"
+P_BB = "24"
+P_SO = "58"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellington"
+[person.playing.totals]
+P_G = "23"
+P_W = "8"
+P_L = "14"
+P_BB = "54"
+P_SO = "101"
+P_PCT = ".363"
+
+
+[[person]]
+name.last = "Hoss"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Arkansas City"
+[person.playing.totals]
+P_G = "17"
+P_W = "5"
+P_L = "9"
+P_BB = "40"
+P_SO = "67"
+P_PCT = ".357"
+
+
+[[person]]
+name.last = "Fallis"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Arkansas City"
+[person.playing.totals]
+P_G = "23"
+P_W = "6"
+P_L = "14"
+P_BB = "33"
+P_SO = "66"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Hardin"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Larned"
+[person.playing.totals]
+P_G = "29"
+P_W = "5"
+P_L = "17"
+P_BB = "89"
+P_SO = "115"
+P_PCT = ".227"
+
+
+[[person]]
+name.last = "Howie"
+[[person.playing]]
+season = "1909"
+league.name = "Kansas State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Larned"
+[person.playing.totals]
+P_G = "26"
+P_W = "2"
+P_L = "17"
+P_BB = "61"
+P_SO = "79"
+P_PCT = ".105"

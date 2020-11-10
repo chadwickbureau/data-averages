@@ -1,0 +1,232 @@
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "37"
+R_L = "23"
+R_PCT = ".617"
+R_RANK = "1"
+
+
+[[team]]
+name = "Leavenworth"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "39"
+R_L = "27"
+R_PCT = ".591"
+R_RANK = "2"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "36"
+R_L = "33"
+R_PCT = ".522"
+R_RANK = "3"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "35"
+R_L = "33"
+R_PCT = ".515"
+R_RANK = "4"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "30"
+R_L = "33"
+R_PCT = ".476"
+R_RANK = "5"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "30"
+R_L = "34"
+R_PCT = ".469"
+R_RANK = "6"
+
+
+[[team]]
+name = "Salina"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "27"
+R_L = "36"
+R_PCT = ".429"
+R_RANK = "7"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "25"
+R_L = "40"
+R_PCT = ".385"
+R_RANK = "8"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "43"
+R_L = "23"
+R_PCT = ".652"
+R_RANK = "1"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "40"
+R_L = "29"
+R_PCT = ".580"
+R_RANK = "2"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "39"
+R_L = "31"
+R_PCT = ".557"
+R_RANK = "3"
+
+
+[[team]]
+name = "Leavenworth"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "37"
+R_L = "30"
+R_PCT = ".552"
+R_RANK = "4"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "36"
+R_L = "33"
+R_PCT = ".522"
+R_RANK = "5"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "40"
+R_PCT = ".429"
+R_RANK = "6"
+
+
+[[team]]
+name = "Salina"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "24"
+R_L = "41"
+R_PCT = ".369"
+R_RANK = "7"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "23"
+R_L = "45"
+R_PCT = ".338"
+R_RANK = "8"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

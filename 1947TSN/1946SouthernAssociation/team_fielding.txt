@@ -1,0 +1,134 @@
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "168"
+F_TP = "0"
+F_PB = "7"
+F_PO = "3938"
+F_A = "1715"
+F_E = "205"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "136"
+F_TP = "0"
+F_PB = "15"
+F_PO = "3907"
+F_A = "1697"
+F_E = "216"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_DP = "149"
+F_TP = "1"
+F_PB = "15"
+F_PO = "3927"
+F_A = "1658"
+F_E = "215"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "116"
+F_TP = "0"
+F_PB = "7"
+F_PO = "3856"
+F_A = "1612"
+F_E = "223"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "130"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3815"
+F_A = "1526"
+F_E = "226"
+F_PCT = ".959"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "164"
+F_TP = "0"
+F_PB = "12"
+F_PO = "3889"
+F_A = "1760"
+F_E = "250"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_DP = "134"
+F_TP = "4"
+F_PB = "16"
+F_PO = "3775"
+F_A = "1679"
+F_E = "267"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1946"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "120"
+F_TP = "0"
+F_PB = "14"
+F_PO = "3955"
+F_A = "1646"
+F_E = "284"
+F_PCT = ".952"

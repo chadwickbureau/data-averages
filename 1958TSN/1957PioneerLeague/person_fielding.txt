@@ -1,0 +1,4220 @@
+[[person]]
+name.last = "Dixon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "66"
+F_1B_PO = "513"
+F_1B_A = "31"
+F_1B_E = "4"
+F_1B_DP = "50"
+F_1B_PCT = ".993"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Balsz"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "80"
+F_1B_PO = "615"
+F_1B_A = "37"
+F_1B_E = "8"
+F_1B_DP = "43"
+F_1B_PCT = ".988"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "74"
+F_1B_PO = "613"
+F_1B_A = "48"
+F_1B_E = "8"
+F_1B_DP = "72"
+F_1B_PCT = ".988"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Cooke"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "127"
+F_1B_PO = "1091"
+F_1B_A = "48"
+F_1B_E = "17"
+F_1B_DP = "110"
+F_1B_PCT = ".985"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Hopke"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "124"
+F_1B_PO = "1093"
+F_1B_A = "78"
+F_1B_E = "18"
+F_1B_DP = "103"
+F_1B_PCT = ".985"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Gordon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "55"
+F_1B_PO = "406"
+F_1B_A = "34"
+F_1B_E = "7"
+F_1B_DP = "39"
+F_1B_PCT = ".984"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Reynolds"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "52"
+F_1B_PO = "469"
+F_1B_A = "16"
+F_1B_E = "9"
+F_1B_DP = "39"
+F_1B_PCT = ".982"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Escalante"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "46"
+F_1B_PO = "368"
+F_1B_A = "16"
+F_1B_E = "7"
+F_1B_DP = "41"
+F_1B_PCT = ".982"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Palmquist"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "13"
+F_1B_PO = "102"
+F_1B_A = "8"
+F_1B_E = "2"
+F_1B_DP = "7"
+F_1B_PCT = ".982"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Severson"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "24"
+F_1B_PO = "188"
+F_1B_A = "14"
+F_1B_E = "4"
+F_1B_DP = "16"
+F_1B_PCT = ".981"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Tucker"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "68"
+F_1B_PO = "547"
+F_1B_A = "48"
+F_1B_E = "12"
+F_1B_DP = "48"
+F_1B_PCT = ".980"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Marinacci"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "58"
+F_1B_PO = "445"
+F_1B_A = "29"
+F_1B_E = "10"
+F_1B_DP = "56"
+F_1B_PCT = ".979"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Stammen"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "21"
+F_1B_PO = "162"
+F_1B_A = "12"
+F_1B_E = "4"
+F_1B_DP = "10"
+F_1B_PCT = ".978"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Staab"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "12"
+F_1B_PO = "81"
+F_1B_A = "2"
+F_1B_E = "2"
+F_1B_DP = "7"
+F_1B_PCT = ".976"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Casino"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "62"
+F_1B_PO = "497"
+F_1B_A = "20"
+F_1B_E = "13"
+F_1B_DP = "52"
+F_1B_PCT = ".975"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Kennedy"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "18"
+F_1B_PO = "121"
+F_1B_A = "5"
+F_1B_E = "4"
+F_1B_DP = "16"
+F_1B_PCT = ".969"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Sancimino"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "14"
+F_1B_PO = "111"
+F_1B_A = "7"
+F_1B_E = "4"
+F_1B_DP = "18"
+F_1B_PCT = ".967"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Brien"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "13"
+F_1B_PO = "51"
+F_1B_A = "6"
+F_1B_E = "2"
+F_1B_DP = "2"
+F_1B_PCT = ".966"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Hiney"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "16"
+F_1B_PO = "128"
+F_1B_A = "15"
+F_1B_E = "5"
+F_1B_DP = "13"
+F_1B_PCT = ".966"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Abernethy"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "42"
+F_1B_PO = "306"
+F_1B_A = "28"
+F_1B_E = "16"
+F_1B_DP = "33"
+F_1B_PCT = ".954"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Vassie"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "125"
+F_2B_PO = "314"
+F_2B_A = "393"
+F_2B_E = "21"
+F_2B_DP = "80"
+F_2B_PCT = ".971"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Staab"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "35"
+F_2B_A = "31"
+F_2B_E = "2"
+F_2B_DP = "5"
+F_2B_PCT = ".971"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Lyons"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "60"
+F_2B_PO = "121"
+F_2B_A = "140"
+F_2B_E = "9"
+F_2B_DP = "42"
+F_2B_PCT = ".967"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Hintze"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "124"
+F_2B_PO = "316"
+F_2B_A = "329"
+F_2B_E = "25"
+F_2B_DP = "80"
+F_2B_PCT = ".963"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Wiley"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "68"
+F_2B_PO = "182"
+F_2B_A = "181"
+F_2B_E = "14"
+F_2B_DP = "52"
+F_2B_PCT = ".963"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Loudenback"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "124"
+F_2B_PO = "349"
+F_2B_A = "320"
+F_2B_E = "28"
+F_2B_DP = "80"
+F_2B_PCT = ".960"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Lerner"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "88"
+F_2B_PO = "213"
+F_2B_A = "207"
+F_2B_E = "19"
+F_2B_DP = "49"
+F_2B_PCT = ".957"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "D."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "108"
+F_2B_PO = "310"
+F_2B_A = "271"
+F_2B_E = "29"
+F_2B_DP = "73"
+F_2B_PCT = ".952"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "30"
+F_2B_A = "47"
+F_2B_E = "4"
+F_2B_DP = "9"
+F_2B_PCT = ".951"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gilchrist"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "110"
+F_2B_PO = "276"
+F_2B_A = "296"
+F_2B_E = "31"
+F_2B_DP = "68"
+F_2B_PCT = ".949"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Sickel"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "20"
+F_2B_PO = "30"
+F_2B_A = "42"
+F_2B_E = "4"
+F_2B_DP = "9"
+F_2B_PCT = ".947"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "G."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "30"
+F_2B_A = "36"
+F_2B_E = "5"
+F_2B_DP = "15"
+F_2B_PCT = ".930"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Risch"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "39"
+F_2B_A = "34"
+F_2B_E = "6"
+F_2B_DP = "5"
+F_2B_PCT = ".924"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McDevitt"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "49"
+F_2B_PO = "96"
+F_2B_A = "121"
+F_2B_E = "18"
+F_2B_DP = "33"
+F_2B_PCT = ".922"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "LeDoux"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "28"
+F_2B_PO = "74"
+F_2B_A = "59"
+F_2B_E = "12"
+F_2B_DP = "23"
+F_2B_PCT = ".917"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Dyer"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "31"
+F_2B_A = "36"
+F_2B_E = "7"
+F_2B_DP = "8"
+F_2B_PCT = ".906"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McDonald"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "30"
+F_2B_A = "23"
+F_2B_E = "6"
+F_2B_DP = "2"
+F_2B_PCT = ".898"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Zebrowski"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "20"
+F_2B_PO = "43"
+F_2B_A = "44"
+F_2B_E = "10"
+F_2B_DP = "10"
+F_2B_PCT = ".897"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "G."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "67"
+F_3B_PO = "45"
+F_3B_A = "95"
+F_3B_E = "11"
+F_3B_DP = "11"
+F_3B_PCT = ".927"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Jacquin"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "124"
+F_3B_PO = "113"
+F_3B_A = "227"
+F_3B_E = "29"
+F_3B_DP = "21"
+F_3B_PCT = ".921"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Ala"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "125"
+F_3B_PO = "158"
+F_3B_A = "257"
+F_3B_E = "38"
+F_3B_DP = "26"
+F_3B_PCT = ".916"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Yoder"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "33"
+F_3B_PO = "39"
+F_3B_A = "73"
+F_3B_E = "11"
+F_3B_DP = "9"
+F_3B_PCT = ".911"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Sadowski"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "92"
+F_3B_PO = "78"
+F_3B_A = "193"
+F_3B_E = "28"
+F_3B_DP = "21"
+F_3B_PCT = ".906"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Hiney"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "75"
+F_3B_PO = "61"
+F_3B_A = "139"
+F_3B_E = "22"
+F_3B_DP = "16"
+F_3B_PCT = ".901"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Owen"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "36"
+F_3B_PO = "35"
+F_3B_A = "89"
+F_3B_E = "14"
+F_3B_DP = "10"
+F_3B_PCT = ".899"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "13"
+F_3B_PO = "19"
+F_3B_A = "25"
+F_3B_E = "5"
+F_3B_DP = "1"
+F_3B_PCT = ".898"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Scariato"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "112"
+F_3B_PO = "115"
+F_3B_A = "234"
+F_3B_E = "40"
+F_3B_DP = "13"
+F_3B_PCT = ".897"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Gonzalez"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "40"
+F_3B_PO = "34"
+F_3B_A = "59"
+F_3B_E = "11"
+F_3B_DP = "7"
+F_3B_PCT = ".894"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Lerner"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "23"
+F_3B_PO = "27"
+F_3B_A = "36"
+F_3B_E = "8"
+F_3B_DP = "7"
+F_3B_PCT = ".887"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Sorensen"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "23"
+F_3B_PO = "14"
+F_3B_A = "49"
+F_3B_E = "8"
+F_3B_DP = "3"
+F_3B_PCT = ".887"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Evans"
+name.given = "J."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "46"
+F_3B_PO = "29"
+F_3B_A = "86"
+F_3B_E = "15"
+F_3B_DP = "6"
+F_3B_PCT = ".885"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Langer"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "25"
+F_3B_PO = "29"
+F_3B_A = "49"
+F_3B_E = "11"
+F_3B_DP = "8"
+F_3B_PCT = ".876"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "McDevitt"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "7"
+F_3B_A = "12"
+F_3B_E = "3"
+F_3B_DP = "2"
+F_3B_PCT = ".864"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Sickel"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "18"
+F_3B_PO = "13"
+F_3B_A = "46"
+F_3B_E = "10"
+F_3B_DP = "2"
+F_3B_PCT = ".855"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "R."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "34"
+F_3B_PO = "27"
+F_3B_A = "64"
+F_3B_E = "16"
+F_3B_DP = "4"
+F_3B_PCT = ".850"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Wiley"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "40"
+F_3B_PO = "35"
+F_3B_A = "63"
+F_3B_E = "18"
+F_3B_DP = "5"
+F_3B_PCT = ".845"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Brien"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "29"
+F_3B_PO = "21"
+F_3B_A = "47"
+F_3B_E = "9"
+F_3B_DP = "3"
+F_3B_PCT = ".842"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Maxwell"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "15"
+F_3B_PO = "9"
+F_3B_A = "12"
+F_3B_E = "4"
+F_3B_DP = "0"
+F_3B_PCT = ".840"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "107"
+F_SS_PO = "179"
+F_SS_A = "313"
+F_SS_E = "14"
+F_SS_DP = "61"
+F_SS_PCT = ".972"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Wiley"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "18"
+F_SS_PO = "37"
+F_SS_A = "50"
+F_SS_E = "3"
+F_SS_DP = "10"
+F_SS_PCT = ".967"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "25"
+F_SS_PO = "48"
+F_SS_A = "73"
+F_SS_E = "6"
+F_SS_DP = "22"
+F_SS_PCT = ".953"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Benedict"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "119"
+F_SS_PO = "204"
+F_SS_A = "395"
+F_SS_E = "35"
+F_SS_DP = "81"
+F_SS_PCT = ".945"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Krall"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "116"
+F_SS_PO = "212"
+F_SS_A = "373"
+F_SS_E = "41"
+F_SS_DP = "85"
+F_SS_PCT = ".935"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Sorenson"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "28"
+F_SS_PO = "37"
+F_SS_A = "77"
+F_SS_E = "8"
+F_SS_DP = "14"
+F_SS_PCT = ".934"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Wisniewski"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "125"
+F_SS_PO = "211"
+F_SS_A = "405"
+F_SS_E = "45"
+F_SS_DP = "79"
+F_SS_PCT = ".932"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Langer"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "83"
+F_SS_PO = "153"
+F_SS_A = "208"
+F_SS_E = "27"
+F_SS_DP = "53"
+F_SS_PCT = ".930"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "G."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "12"
+F_SS_PO = "12"
+F_SS_A = "27"
+F_SS_E = "3"
+F_SS_DP = "2"
+F_SS_PCT = ".929"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Kray"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "64"
+F_SS_PO = "113"
+F_SS_A = "181"
+F_SS_E = "24"
+F_SS_DP = "36"
+F_SS_PCT = ".925"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Dantoni"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "125"
+F_SS_PO = "212"
+F_SS_A = "391"
+F_SS_E = "62"
+F_SS_DP = "82"
+F_SS_PCT = ".907"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Evans"
+name.given = "J."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "27"
+F_SS_PO = "35"
+F_SS_A = "82"
+F_SS_E = "12"
+F_SS_DP = "13"
+F_SS_PCT = ".907"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "McCutcheon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "126"
+F_SS_PO = "212"
+F_SS_A = "371"
+F_SS_E = "63"
+F_SS_DP = "75"
+F_SS_PCT = ".902"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Denney"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "56"
+F_OF_A = "3"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Luce"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "24"
+F_OF_PO = "31"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "W."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "16"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Chronopoulos"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "15"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McGuckin"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "8"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Klinger"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "80"
+F_OF_PO = "139"
+F_OF_A = "5"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".993"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brodsky"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "67"
+F_OF_PO = "132"
+F_OF_A = "12"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".993"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hermon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "86"
+F_OF_PO = "210"
+F_OF_A = "8"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".982"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hunt"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "67"
+F_OF_PO = "147"
+F_OF_A = "8"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".981"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Paddock"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "44"
+F_OF_A = "7"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".981"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brien"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "52"
+F_OF_PO = "92"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".980"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Risch"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "84"
+F_OF_PO = "219"
+F_OF_A = "10"
+F_OF_E = "5"
+F_OF_DP = "2"
+F_OF_PCT = ".979"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sasek"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "39"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".977"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Palmquist"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "44"
+F_OF_PO = "70"
+F_OF_A = "5"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".974"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "R."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "59"
+F_OF_PO = "102"
+F_OF_A = "6"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".973"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "97"
+F_OF_PO = "231"
+F_OF_A = "9"
+F_OF_E = "7"
+F_OF_DP = "2"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "19"
+F_OF_PO = "32"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Nelson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "57"
+F_OF_PO = "95"
+F_OF_A = "6"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".971"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bedell"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "102"
+F_OF_PO = "216"
+F_OF_A = "10"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Glasgow"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "123"
+F_OF_PO = "181"
+F_OF_A = "10"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".970"
+F_OF_TP = "1"
+
+
+[[person]]
+name.last = "Abernethy"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "28"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jacoby"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "120"
+F_OF_PO = "203"
+F_OF_A = "11"
+F_OF_E = "7"
+F_OF_DP = "3"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Greco"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "112"
+F_OF_PO = "164"
+F_OF_A = "5"
+F_OF_E = "6"
+F_OF_DP = "2"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Carmel"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "121"
+F_OF_PO = "275"
+F_OF_A = "18"
+F_OF_E = "11"
+F_OF_DP = "6"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Plaster"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "125"
+F_OF_PO = "196"
+F_OF_A = "20"
+F_OF_E = "8"
+F_OF_DP = "3"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sancimino"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "94"
+F_OF_PO = "208"
+F_OF_A = "8"
+F_OF_E = "8"
+F_OF_DP = "2"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Nickell"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "24"
+F_OF_PO = "27"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Queen"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "123"
+F_OF_PO = "252"
+F_OF_A = "7"
+F_OF_E = "10"
+F_OF_DP = "2"
+F_OF_PCT = ".963"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "25"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".962"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Smithdeal"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "28"
+F_OF_PO = "68"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".960"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "LaComb"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "30"
+F_OF_PO = "22"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".960"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sinquefield"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "123"
+F_OF_PO = "316"
+F_OF_A = "16"
+F_OF_E = "15"
+F_OF_DP = "0"
+F_OF_PCT = ".957"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hewitt"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "109"
+F_OF_PO = "199"
+F_OF_A = "12"
+F_OF_E = "10"
+F_OF_DP = "1"
+F_OF_PCT = ".955"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Schmitt"
+name.given = "R."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "73"
+F_OF_PO = "119"
+F_OF_A = "6"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".954"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Clarkson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "52"
+F_OF_PO = "73"
+F_OF_A = "5"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".951"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Maxwell"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "105"
+F_OF_PO = "135"
+F_OF_A = "19"
+F_OF_E = "9"
+F_OF_DP = "2"
+F_OF_PCT = ".945"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wyatt"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "16"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".944"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Vea"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "119"
+F_OF_PO = "156"
+F_OF_A = "15"
+F_OF_E = "11"
+F_OF_DP = "2"
+F_OF_PCT = ".940"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Gamez"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "28"
+F_OF_A = "3"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Palamar"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "22"
+F_OF_PO = "28"
+F_OF_A = "3"
+F_OF_E = "2"
+F_OF_DP = "2"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jackson"
+name.given = "L. C."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "108"
+F_OF_PO = "186"
+F_OF_A = "11"
+F_OF_E = "13"
+F_OF_DP = "2"
+F_OF_PCT = ".938"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Staab"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "40"
+F_OF_A = "2"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".933"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lerner"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "26"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".931"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jackson"
+name.given = "L. B."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "24"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".926"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Moskus"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "83"
+F_OF_PO = "92"
+F_OF_A = "4"
+F_OF_E = "8"
+F_OF_DP = "4"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "59"
+F_OF_PO = "68"
+F_OF_A = "4"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Heavener"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "9"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Antoine"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "22"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".920"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "DeGrotte"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "111"
+F_OF_PO = "146"
+F_OF_A = "12"
+F_OF_E = "14"
+F_OF_DP = "3"
+F_OF_PCT = ".919"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Aycock"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "30"
+F_OF_PO = "51"
+F_OF_A = "2"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".914"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wiltrout"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "21"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".913"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Russell"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "27"
+F_OF_PO = "37"
+F_OF_A = "0"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".902"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Thurlby"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "36"
+F_OF_PO = "39"
+F_OF_A = "2"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".891"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hiney"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "14"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".889"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Julian"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "8"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".889"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McGavock"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "13"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".875"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cooper"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "95"
+F_C_PO = "615"
+F_C_A = "49"
+F_C_E = "7"
+F_C_DP = "9"
+F_C_PB = "9"
+F_C_PCT = ".990"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Luce"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "32"
+F_C_PO = "182"
+F_C_A = "18"
+F_C_E = "2"
+F_C_DP = "4"
+F_C_PB = "8"
+F_C_PCT = ".990"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Warner"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "112"
+F_C_PO = "843"
+F_C_A = "63"
+F_C_E = "10"
+F_C_DP = "12"
+F_C_PB = "18"
+F_C_PCT = ".989"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dapper"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "35"
+F_C_PO = "217"
+F_C_A = "19"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".987"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "McKeon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "93"
+F_C_PO = "645"
+F_C_A = "55"
+F_C_E = "10"
+F_C_DP = "7"
+F_C_PB = "4"
+F_C_PCT = ".986"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "J."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "35"
+F_C_PO = "189"
+F_C_A = "28"
+F_C_E = "3"
+F_C_DP = "4"
+F_C_PB = "6"
+F_C_PCT = ".986"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "56"
+F_C_PO = "363"
+F_C_A = "35"
+F_C_E = "8"
+F_C_DP = "4"
+F_C_PB = "15"
+F_C_PCT = ".980"
+F_C_TP = "1"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "69"
+F_C_PO = "451"
+F_C_A = "21"
+F_C_E = "10"
+F_C_DP = "3"
+F_C_PB = "11"
+F_C_PCT = ".979"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Weatherspoon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "53"
+F_C_PO = "295"
+F_C_A = "28"
+F_C_E = "9"
+F_C_DP = "4"
+F_C_PB = "3"
+F_C_PCT = ".979"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cannizzo"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "57"
+F_C_PO = "394"
+F_C_A = "37"
+F_C_E = "10"
+F_C_DP = "4"
+F_C_PB = "12"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Stammen"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "19"
+F_C_PO = "119"
+F_C_A = "8"
+F_C_E = "3"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cannizzaro"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "42"
+F_C_PO = "248"
+F_C_A = "19"
+F_C_E = "7"
+F_C_DP = "9"
+F_C_PB = "11"
+F_C_PCT = ".974"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Radford"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "38"
+F_C_PO = "231"
+F_C_A = "16"
+F_C_E = "7"
+F_C_DP = "2"
+F_C_PB = "2"
+F_C_PCT = ".972"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Fuller"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "11"
+F_C_PO = "69"
+F_C_A = "1"
+F_C_E = "2"
+F_C_DP = "1"
+F_C_PB = "5"
+F_C_PCT = ".972"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Kenders"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "102"
+F_C_PO = "557"
+F_C_A = "55"
+F_C_E = "18"
+F_C_DP = "5"
+F_C_PB = "19"
+F_C_PCT = ".971"
+F_C_TP = "1"
+
+
+[[person]]
+name.last = "Antoine"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "59"
+F_C_PO = "392"
+F_C_A = "34"
+F_C_E = "13"
+F_C_DP = "6"
+F_C_PB = "8"
+F_C_PCT = ".970"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "T."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "84"
+F_C_A = "6"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "5"
+F_C_PCT = ".968"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Camilli"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "43"
+F_C_PO = "275"
+F_C_A = "30"
+F_C_E = "11"
+F_C_DP = "1"
+F_C_PB = "9"
+F_C_PCT = ".965"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Julian"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "67"
+F_C_PO = "416"
+F_C_A = "39"
+F_C_E = "19"
+F_C_DP = "6"
+F_C_PB = "23"
+F_C_PCT = ".960"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Gamez"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "48"
+F_C_A = "7"
+F_C_E = "5"
+F_C_DP = "1"
+F_C_PB = "10"
+F_C_PCT = ".917"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bays"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "5"
+F_P_A = "28"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "1"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "3"
+F_P_A = "27"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pleis"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "7"
+F_P_A = "19"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Seyfried"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "8"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Greer"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "4"
+F_P_A = "16"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gore"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "3"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "A"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sereduk"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "0"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Poholsky"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "3"
+F_P_A = "5"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hogg"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Huffman"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Carlson"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "4"
+F_P_A = "2"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McKinnis"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "2"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Shima"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "11"
+F_P_A = "33"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".978"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mahaffey"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "11"
+F_P_A = "28"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".975"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Koplitz"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "3"
+F_P_A = "30"
+F_P_E = "1"
+F_P_DP = "7"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "14"
+F_P_A = "47"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".968"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Paffel"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "6"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".966"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Huda"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "6"
+F_P_A = "21"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Chronopoulos"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "2"
+F_P_A = "24"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".963"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wexler"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "4"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".963"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Clapp"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "13"
+F_P_A = "36"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".961"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wingo"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "6"
+F_P_A = "17"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".958"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schmitt"
+name.given = "D."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "3"
+F_P_A = "18"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Radzevich"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "53"
+F_P_PO = "13"
+F_P_A = "27"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Szostak"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "41"
+F_P_PO = "11"
+F_P_A = "29"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schomer"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "5"
+F_P_A = "15"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "W."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "15"
+F_P_A = "42"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".950"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Shaffer"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "3"
+F_P_A = "14"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".944"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Powers"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "6"
+F_P_A = "26"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Black"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "6"
+F_P_A = "26"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Choate"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "13"
+F_P_A = "47"
+F_P_E = "4"
+F_P_DP = "4"
+F_P_PCT = ".938"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dustal"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "3"
+F_P_A = "25"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Peterson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "6"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ponte"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "9"
+F_P_A = "31"
+F_P_E = "3"
+F_P_DP = "6"
+F_P_PCT = ".930"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Reiss"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "4"
+F_P_A = "21"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".926"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Evans"
+name.given = "E."
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "12"
+F_P_A = "55"
+F_P_E = "6"
+F_P_DP = "6"
+F_P_PCT = ".918"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schoof"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "42"
+F_P_PO = "8"
+F_P_A = "36"
+F_P_E = "4"
+F_P_DP = "4"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Young"
+name.given = "F."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "4"
+F_P_A = "17"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".913"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McGavock"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "8"
+F_P_A = "21"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Palmquist"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "5"
+F_P_A = "14"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".905"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "R."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Idaho Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "3"
+F_P_A = "16"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".905"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McCormick"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "2"
+F_P_A = "16"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Huelfer"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "10"
+F_P_A = "24"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".895"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bryant"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "5"
+F_P_A = "12"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".895"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Smithdeal"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "2"
+F_P_A = "15"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".895"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Carson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "5"
+F_P_A = "20"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".893"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sheffield"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "50"
+F_P_PO = "14"
+F_P_A = "34"
+F_P_E = "6"
+F_P_DP = "0"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "R."
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "3"
+F_P_A = "21"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Furlow"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "44"
+F_P_PO = "5"
+F_P_A = "17"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".880"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Burgess"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "5"
+F_P_A = "17"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".880"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Curtiss"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "2"
+F_P_A = "12"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kinnamon"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "1"
+F_P_A = "6"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Denney"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "8"
+F_P_A = "19"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".871"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Botz"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "5"
+F_P_A = "13"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Norris"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Staab"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "3"
+F_P_A = "19"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".846"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Nelson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Billings"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "3"
+F_P_A = "8"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".846"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hannah"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "3"
+F_P_A = "12"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".833"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Foss"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "0"
+F_P_A = "5"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".833"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Burford"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boise"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "2"
+F_P_A = "17"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".826"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jorissen"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "5"
+F_P_A = "18"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".821"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Roberts"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Magic Valley"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "3"
+F_P_A = "14"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".810"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tegenkamp"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "45"
+F_P_PO = "5"
+F_P_A = "24"
+F_P_E = "7"
+F_P_DP = "1"
+F_P_PCT = ".806"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Duerr"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "1"
+F_P_A = "15"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McKee"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Walling"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Great Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Patrick"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "0"
+F_P_A = "3"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".750"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "O'Melia"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pocatello"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "2"
+F_P_A = "20"
+F_P_E = "8"
+F_P_DP = "2"
+F_P_PCT = ".733"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jarchow"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Missoula"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "2"
+F_P_A = "6"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".727"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lunsford"
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salt Lake City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "0"
+F_P_A = "2"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".500"
+F_P_TP = "0"

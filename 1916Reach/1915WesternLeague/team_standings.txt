@@ -1,0 +1,102 @@
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "87"
+R_L = "53"
+R_PCT = ".621"
+R_RANK = "1"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "82"
+R_L = "55"
+R_PCT = ".599"
+R_RANK = "2"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "63"
+R_PCT = ".543"
+R_RANK = "3"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "69"
+R_PCT = ".507"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "69"
+R_PCT = ".504"
+R_RANK = "5"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "68"
+R_PCT = ".493"
+R_RANK = "6"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "80"
+R_PCT = ".416"
+R_RANK = "7"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "43"
+R_L = "94"
+R_PCT = ".314"
+R_RANK = "8"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+F_G = "39"
+F_PO = "936"
+F_A = "421"
+F_E = "39"
+F_DP = "32"
+F_PB = "1"
+F_PCT = ".979"
+F_TP = "1"
+
+
+[[team]]
+name = "Mexico Tigers"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+F_G = "37"
+F_PO = "906"
+F_A = "424"
+F_E = "31"
+F_DP = "26"
+F_PB = "4"
+F_PCT = ".977"
+F_TP = "1"
+
+
+[[team]]
+name = "Coatzacoalcos"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+F_G = "36"
+F_PO = "897"
+F_A = "391"
+F_E = "31"
+F_DP = "20"
+F_PB = "3"
+F_PCT = ".976"
+F_TP = "0"
+
+
+[[team]]
+name = "Ciudad Juarez"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+F_G = "39"
+F_PO = "1014"
+F_A = "448"
+F_E = "36"
+F_DP = "34"
+F_PB = "4"
+F_PCT = ".976"
+F_TP = "0"
+
+
+[[team]]
+name = "Union Laguna"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+F_G = "36"
+F_PO = "903"
+F_A = "415"
+F_E = "33"
+F_DP = "42"
+F_PB = "5"
+F_PCT = ".976"
+F_TP = "0"
+
+
+[[team]]
+name = "Reynosa"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[team.playing.totals]
+F_G = "37"
+F_PO = "876"
+F_A = "372"
+F_E = "35"
+F_DP = "37"
+F_PB = "6"
+F_PCT = ".973"
+F_TP = "2"

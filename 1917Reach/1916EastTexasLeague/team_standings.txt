@@ -1,0 +1,53 @@
+[[team]]
+name = "Palestine"
+[[team.playing]]
+season = "1916"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_PCT = ".584"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lufkin"
+[[team.playing]]
+season = "1916"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_PCT = ".572"
+R_RANK = "2"
+
+
+[[team]]
+name = "Nacogdoches"
+[[team.playing]]
+season = "1916"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Rusk"
+[[team.playing]]
+season = "1916"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_PCT = ".412"
+R_RANK = "4"
+
+
+[[team]]
+name = "Crockett"
+[[team.playing]]
+season = "1916"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_PCT = ".350"
+R_RANK = "5"

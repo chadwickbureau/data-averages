@@ -1,0 +1,54 @@
+[[team]]
+name = "St. John"
+[[team.playing]]
+season = "1913"
+league.name = "New Brunswick-Maine League"
+phase = "regular"
+[team.playing.totals]
+F_G = "70"
+F_PO = "1918"
+F_A = "871"
+F_E = "177"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Bangor"
+[[team.playing]]
+season = "1913"
+league.name = "New Brunswick-Maine League"
+phase = "regular"
+[team.playing.totals]
+F_G = "66"
+F_PO = "1690"
+F_A = "827"
+F_E = "192"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Fredericton"
+[[team.playing]]
+season = "1913"
+league.name = "New Brunswick-Maine League"
+phase = "regular"
+[team.playing.totals]
+F_G = "65"
+F_PO = "1735"
+F_A = "749"
+F_E = "193"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Calais-St. Stephen"
+[[team.playing]]
+season = "1913"
+league.name = "New Brunswick-Maine League"
+phase = "regular"
+[team.playing.totals]
+F_G = "61"
+F_PO = "1552"
+F_A = "709"
+F_E = "209"
+F_PCT = ".915"

@@ -1,0 +1,150 @@
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "4052"
+B_R = "530"
+B_H = "1038"
+B_SB = "223"
+B_SH = "151"
+B_2B = "145"
+B_3B = "84"
+B_HR = "26"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3887"
+B_R = "454"
+B_H = "982"
+B_SB = "211"
+B_SH = "157"
+B_2B = "259"
+B_3B = "45"
+B_HR = "10"
+B_AVG = ".253"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "3696"
+B_R = "422"
+B_H = "862"
+B_SB = "227"
+B_SH = "190"
+B_2B = "159"
+B_3B = "25"
+B_HR = "12"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3833"
+B_R = "495"
+B_H = "891"
+B_SB = "279"
+B_SH = "166"
+B_2B = "157"
+B_3B = "38"
+B_HR = "11"
+B_AVG = ".232"
+
+
+[[team]]
+name = "New Britain"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "2808"
+B_R = "401"
+B_H = "885"
+B_SB = "219"
+B_SH = "158"
+B_2B = "147"
+B_3B = "34"
+B_HR = "12"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Northampton"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "47"
+B_AB = "1498"
+B_R = "173"
+B_H = "333"
+B_SB = "89"
+B_SH = "59"
+B_2B = "53"
+B_3B = "15"
+B_HR = "4"
+B_AVG = ".222"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3780"
+B_R = "362"
+B_H = "832"
+B_SB = "176"
+B_SH = "128"
+B_2B = "139"
+B_3B = "53"
+B_HR = "10"
+B_AVG = ".220"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "47"
+B_AB = "1516"
+B_R = "172"
+B_H = "319"
+B_SB = "74"
+B_SH = "72"
+B_2B = "61"
+B_3B = "17"
+B_HR = "12"
+B_AVG = ".210"

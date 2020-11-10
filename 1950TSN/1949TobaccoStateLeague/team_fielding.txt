@@ -1,0 +1,134 @@
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "170"
+F_PB = "37"
+F_PO = "3517"
+F_A = "1674"
+F_E = "242"
+F_PCT = ".955"
+F_TP = "1"
+
+
+[[team]]
+name = "Lumberton"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "114"
+F_PB = "31"
+F_PO = "3482"
+F_A = "1285"
+F_E = "247"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Red Springs"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "123"
+F_PB = "29"
+F_PO = "3459"
+F_A = "1470"
+F_E = "268"
+F_PCT = ".948"
+F_TP = "0"
+
+
+[[team]]
+name = "Dunn-Erwin"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "118"
+F_PB = "35"
+F_PO = "3552"
+F_A = "1366"
+F_E = "306"
+F_PCT = ".941"
+F_TP = "0"
+
+
+[[team]]
+name = "Smithfield-Selma"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "135"
+F_PB = "36"
+F_PO = "3459"
+F_A = "1479"
+F_E = "328"
+F_PCT = ".938"
+F_TP = "1"
+
+
+[[team]]
+name = "Sanford"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_DP = "98"
+F_PB = "30"
+F_PO = "3444"
+F_A = "1571"
+F_E = "344"
+F_PCT = ".936"
+F_TP = "0"
+
+
+[[team]]
+name = "Fayetteville"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "104"
+F_PB = "31"
+F_PO = "3489"
+F_A = "1589"
+F_E = "361"
+F_PCT = ".934"
+F_TP = "0"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1949"
+league.name = "Tobacco State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "97"
+F_PB = "36"
+F_PO = "3495"
+F_A = "1529"
+F_E = "377"
+F_PCT = ".930"
+F_TP = "0"

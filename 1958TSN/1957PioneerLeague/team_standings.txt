@@ -1,0 +1,358 @@
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "30"
+R_L = "21"
+R_T = "0"
+R_PCT = ".650"
+R_RANK = "1"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "39"
+R_L = "23"
+R_T = "0"
+R_PCT = ".629"
+R_RANK = "2"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "38"
+R_L = "23"
+R_T = "0"
+R_PCT = ".623"
+R_RANK = "3"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "29"
+R_L = "33"
+R_T = "1"
+R_PCT = ".468"
+R_RANK = "4"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "29"
+R_L = "33"
+R_T = "0"
+R_PCT = ".468"
+R_RANK = "4"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "26"
+R_L = "35"
+R_T = "1"
+R_PCT = ".426"
+R_RANK = "6"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "25"
+R_L = "35"
+R_T = "2"
+R_PCT = ".417"
+R_RANK = "7"
+
+
+[[team]]
+name = "Magic Valley"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "42"
+R_T = "0"
+R_PCT = ".323"
+R_RANK = "8"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "41"
+R_L = "24"
+R_T = "0"
+R_PCT = ".631"
+R_RANK = "1"
+
+
+[[team]]
+name = "Magic Valley"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "20"
+R_L = "24"
+R_T = "0"
+R_PCT = ".625"
+R_RANK = "2"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "36"
+R_L = "29"
+R_T = "0"
+R_PCT = ".554"
+R_RANK = "3"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "35"
+R_L = "29"
+R_T = "0"
+R_PCT = ".547"
+R_RANK = "4"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "34"
+R_L = "30"
+R_T = "1"
+R_PCT = ".534"
+R_RANK = "5"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "27"
+R_L = "37"
+R_T = "1"
+R_PCT = ".422"
+R_RANK = "6"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "23"
+R_L = "42"
+R_T = "0"
+R_PCT = ".354"
+R_RANK = "6"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "22"
+R_L = "43"
+R_T = "0"
+R_PCT = ".338"
+R_RANK = "8"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "47"
+R_T = "0"
+R_PCT = ".627"
+R_RANK = "1"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "53"
+R_T = "1"
+R_PCT = ".579"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "62"
+R_T = "0"
+R_PCT = ".508"
+R_RANK = "3"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "64"
+R_T = "1"
+R_PCT = ".492"
+R_RANK = "4"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "64"
+R_T = "0"
+R_PCT = ".488"
+R_RANK = "5"
+
+
+[[team]]
+name = "Magic Valley"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "66"
+R_T = "0"
+R_PCT = ".476"
+R_RANK = "6"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "70"
+R_T = "2"
+R_PCT = ".444"
+R_RANK = "7"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "77"
+R_T = "2"
+R_PCT = ".384"
+R_RANK = "8"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "3"
+R_RANK = "2"

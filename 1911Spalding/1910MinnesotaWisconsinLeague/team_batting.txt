@@ -1,0 +1,134 @@
+[[team]]
+name = "Red Wing"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "3924"
+B_R = "495"
+B_H = "1033"
+B_TB = "1298"
+B_SH = "187"
+B_SB = "239"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4009"
+B_R = "471"
+B_H = "1026"
+B_TB = "1295"
+B_SH = "186"
+B_SB = "261"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4065"
+B_R = "553"
+B_H = "1039"
+B_TB = "1383"
+B_SH = "236"
+B_SB = "227"
+B_AVG = ".256"
+
+
+[[team]]
+name = "La Crosse"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "3985"
+B_R = "486"
+B_H = "977"
+B_TB = "1254"
+B_SH = "169"
+B_SB = "248"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Winona"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3967"
+B_R = "441"
+B_H = "914"
+B_TB = "1155"
+B_SH = "261"
+B_SB = "228"
+B_AVG = ".230"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4048"
+B_R = "454"
+B_H = "901"
+B_TB = "1163"
+B_SH = "170"
+B_SB = "195"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4052"
+B_R = "448"
+B_H = "903"
+B_TB = "1211"
+B_SH = "196"
+B_SB = "261"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3899"
+B_R = "335"
+B_H = "768"
+B_TB = "915"
+B_SH = "163"
+B_SB = "161"
+B_AVG = ".197"

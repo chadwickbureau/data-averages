@@ -1,0 +1,89 @@
+[[person]]
+name.last = "Kittle"
+name.given = "Hubert"
+[[person.managing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Yakima"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Layne"
+name.given = "Hillis"
+[[person.managing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lewiston"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Haas"
+name.given = "Berthold"
+[[person.managing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wenatchee"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Luby"
+name.given = "Hugh"
+[[person.managing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Eugene"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hathaway"
+name.given = "Ray"
+[[person.managing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tri-City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lundberg"
+name.given = "Donald"
+[[person.managing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salem"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kindsfather"
+name.given = "J. Vernon"
+[[person.managing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salem"
+S_ORDER = "2"
+[person.managing.totals]

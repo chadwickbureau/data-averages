@@ -1,0 +1,134 @@
+[[team]]
+name = "Chickasha"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "97"
+F_PB = "20"
+F_PO = "3508"
+F_A = "1438"
+F_E = "265"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Pauls Valley"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "121"
+F_PB = "17"
+F_PO = "3641"
+F_A = "1516"
+F_E = "296"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Lawton"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "84"
+F_PB = "33"
+F_PO = "3719"
+F_A = "1402"
+F_E = "298"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Ada"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "112"
+F_PB = "40"
+F_PO = "3629"
+F_A = "1460"
+F_E = "356"
+F_PCT = ".935"
+F_TP = "0"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "124"
+F_PB = "15"
+F_PO = "3748"
+F_A = "1356"
+F_E = "355"
+F_PCT = ".935"
+F_TP = "1"
+
+
+[[team]]
+name = "Duncan"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "83"
+F_PB = "25"
+F_PO = "3615"
+F_A = "1342"
+F_E = "352"
+F_PCT = ".934"
+F_TP = "0"
+
+
+[[team]]
+name = "Seminole"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "115"
+F_PB = "33"
+F_PO = "354"
+F_A = "1433"
+F_E = "375"
+F_PCT = ".927"
+F_TP = "0"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1949"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "82"
+F_PB = "38"
+F_PO = "3502"
+F_A = "1531"
+F_E = "409"
+F_PCT = ".925"
+F_TP = "2"

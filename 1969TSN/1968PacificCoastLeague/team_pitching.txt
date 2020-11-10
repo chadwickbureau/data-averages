@@ -1,0 +1,274 @@
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "145"
+P_CG = "58"
+P_SHO = "17"
+P_IP = "1237"
+P_H = "1137"
+P_R = "481"
+P_ER = "406"
+P_HR = "65"
+P_BB = "340"
+P_IBB = "33"
+P_HP = "19"
+P_SO = "889"
+P_WP = "36"
+P_ERA = "2.95"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "148"
+P_CG = "60"
+P_SHO = "15"
+P_IP = "1275"
+P_H = "1187"
+P_R = "528"
+P_ER = "452"
+P_HR = "79"
+P_BB = "390"
+P_IBB = "24"
+P_HP = "34"
+P_SO = "904"
+P_WP = "45"
+P_ERA = "3.19"
+
+
+[[team]]
+name = "San Diego"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "146"
+P_CG = "51"
+P_SHO = "14"
+P_IP = "1271"
+P_H = "1107"
+P_R = "530"
+P_ER = "459"
+P_HR = "67"
+P_BB = "480"
+P_IBB = "48"
+P_HP = "29"
+P_SO = "869"
+P_WP = "76"
+P_ERA = "3.25"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "147"
+P_CG = "23"
+P_SHO = "14"
+P_IP = "1257"
+P_H = "1199"
+P_R = "564"
+P_ER = "458"
+P_HR = "77"
+P_BB = "433"
+P_IBB = "61"
+P_HP = "27"
+P_SO = "930"
+P_WP = "58"
+P_ERA = "3.28"
+
+
+[[team]]
+name = "Hawaii"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "147"
+P_CG = "26"
+P_SHO = "12"
+P_IP = "1272"
+P_H = "1161"
+P_R = "540"
+P_ER = "478"
+P_HR = "89"
+P_BB = "481"
+P_IBB = "61"
+P_HP = "29"
+P_SO = "904"
+P_WP = "69"
+P_ERA = "3.38"
+
+
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "147"
+P_CG = "42"
+P_SHO = "13"
+P_IP = "1260"
+P_H = "1221"
+P_R = "534"
+P_ER = "475"
+P_HR = "55"
+P_BB = "416"
+P_IBB = "39"
+P_HP = "26"
+P_SO = "861"
+P_WP = "79"
+P_ERA = "3.39"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "148"
+P_CG = "31"
+P_SHO = "12"
+P_IP = "1286"
+P_H = "1214"
+P_R = "574"
+P_ER = "489"
+P_HR = "103"
+P_BB = "455"
+P_IBB = "38"
+P_HP = "28"
+P_SO = "768"
+P_WP = "57"
+P_ERA = "3.42"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "144"
+P_CG = "23"
+P_SHO = "10"
+P_IP = "1248"
+P_H = "1284"
+P_R = "591"
+P_ER = "503"
+P_HR = "78"
+P_BB = "469"
+P_IBB = "54"
+P_HP = "30"
+P_SO = "867"
+P_WP = "52"
+P_ERA = "3.63"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "144"
+P_CG = "33"
+P_SHO = "12"
+P_IP = "1209"
+P_H = "1165"
+P_R = "573"
+P_ER = "494"
+P_HR = "100"
+P_BB = "442"
+P_IBB = "63"
+P_HP = "40"
+P_SO = "909"
+P_WP = "50"
+P_ERA = "3.68"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "146"
+P_CG = "30"
+P_SHO = "11"
+P_IP = "1222"
+P_H = "1203"
+P_R = "587"
+P_ER = "508"
+P_HR = "103"
+P_BB = "412"
+P_IBB = "25"
+P_HP = "39"
+P_SO = "762"
+P_WP = "45"
+P_ERA = "3.74"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "145"
+P_CG = "45"
+P_SHO = "8"
+P_IP = "1237"
+P_H = "1291"
+P_R = "668"
+P_ER = "572"
+P_HR = "100"
+P_BB = "414"
+P_IBB = "43"
+P_HP = "37"
+P_SO = "708"
+P_WP = "50"
+P_ERA = "4.16"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1968"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+P_G = "145"
+P_CG = "31"
+P_SHO = "6"
+P_IP = "1205"
+P_H = "1253"
+P_R = "661"
+P_ER = "570"
+P_HR = "89"
+P_BB = "501"
+P_IBB = "45"
+P_HP = "36"
+P_SO = "929"
+P_WP = "68"
+P_ERA = "4.26"

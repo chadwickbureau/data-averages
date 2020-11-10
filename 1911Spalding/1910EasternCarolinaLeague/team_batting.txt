@@ -1,0 +1,112 @@
+[[team]]
+name = "Fayetteville"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "84"
+B_AB = "2327"
+B_R = "206"
+B_H = "502"
+B_2B = "40"
+B_3B = "17"
+B_HR = "1"
+B_SH = "93"
+B_SB = "135"
+B_AVG = ".215"
+
+
+[[team]]
+name = "Goldsboro"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "83"
+B_AB = "2153"
+B_R = "167"
+B_H = "440"
+B_2B = "51"
+B_3B = "5"
+B_HR = "1"
+B_SH = "99"
+B_SB = "110"
+B_AVG = ".209"
+
+
+[[team]]
+name = "Wilson"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "83"
+B_AB = "2301"
+B_R = "197"
+B_H = "478"
+B_2B = "49"
+B_3B = "10"
+B_HR = "1"
+B_SH = "82"
+B_SB = "79"
+B_AVG = ".207"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "83"
+B_AB = "2202"
+B_R = "188"
+B_H = "447"
+B_2B = "32"
+B_3B = "5"
+B_HR = "2"
+B_SH = "80"
+B_SB = "92"
+B_AVG = ".203"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "88"
+B_AB = "2468"
+B_R = "157"
+B_H = "455"
+B_2B = "44"
+B_3B = "8"
+B_HR = "2"
+B_SH = "118"
+B_SB = "77"
+B_AVG = ".184"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "85"
+B_AB = "2300"
+B_R = "135"
+B_H = "423"
+B_2B = "55"
+B_3B = "12"
+B_HR = "0"
+B_SH = "115"
+B_SB = "85"
+B_AVG = ".184"

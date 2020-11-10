@@ -1,0 +1,174 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "158"
+B_AB = "5262"
+B_R = "856"
+B_H = "1540"
+B_TB = "2120"
+B_2B = "215"
+B_3B = "109"
+B_HR = "49"
+B_SH = "196"
+B_SB = "292"
+B_SO = "600"
+B_BB = "591"
+B_AVG = ".293"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5295"
+B_R = "781"
+B_H = "1532"
+B_TB = "2062"
+B_2B = "221"
+B_3B = "123"
+B_HR = "21"
+B_SH = "143"
+B_SB = "266"
+B_SO = "561"
+B_BB = "425"
+B_AVG = ".289"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5174"
+B_R = "745"
+B_H = "1466"
+B_TB = "2014"
+B_2B = "229"
+B_3B = "101"
+B_HR = "39"
+B_SH = "189"
+B_SB = "276"
+B_SO = "578"
+B_BB = "491"
+B_AVG = ".283"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5148"
+B_R = "752"
+B_H = "1435"
+B_TB = "1950"
+B_2B = "183"
+B_3B = "100"
+B_HR = "44"
+B_SH = "169"
+B_SB = "204"
+B_SO = "645"
+B_BB = "494"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5176"
+B_R = "702"
+B_H = "1439"
+B_TB = "1849"
+B_2B = "189"
+B_3B = "88"
+B_HR = "15"
+B_SH = "177"
+B_SB = "215"
+B_SO = "453"
+B_BB = "385"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5197"
+B_R = "685"
+B_H = "1413"
+B_TB = "1884"
+B_2B = "187"
+B_3B = "109"
+B_HR = "22"
+B_SH = "198"
+B_SB = "139"
+B_SO = "513"
+B_BB = "471"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5036"
+B_R = "689"
+B_H = "1367"
+B_TB = "1820"
+B_2B = "179"
+B_3B = "95"
+B_HR = "28"
+B_SH = "157"
+B_SB = "222"
+B_SO = "535"
+B_BB = "415"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4969"
+B_R = "679"
+B_H = "1282"
+B_TB = "1748"
+B_2B = "197"
+B_3B = "88"
+B_HR = "31"
+B_SH = "149"
+B_SB = "188"
+B_SO = "581"
+B_BB = "470"
+B_AVG = ".258"

@@ -1,0 +1,110 @@
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3818"
+F_A = "1706"
+F_E = "195"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3650"
+F_A = "1662"
+F_E = "205"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3598"
+F_A = "1540"
+F_E = "205"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Zanesville"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_PO = "3773"
+F_A = "1889"
+F_E = "249"
+F_PCT = ".958"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3663"
+F_A = "1818"
+F_E = "255"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3698"
+F_A = "1832"
+F_E = "278"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3663"
+F_A = "1832"
+F_E = "307"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1908"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3487"
+F_A = "1786"
+F_E = "357"
+F_PCT = ".937"

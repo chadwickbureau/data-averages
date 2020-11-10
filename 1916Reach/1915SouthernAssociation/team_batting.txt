@@ -1,0 +1,158 @@
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "159"
+B_AB = "4968"
+B_R = "711"
+B_H = "1349"
+B_TB = "1791"
+B_2B = "184"
+B_3B = "87"
+B_HR = "28"
+B_SH = "209"
+B_SB = "208"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4902"
+B_R = "552"
+B_H = "1234"
+B_TB = "1632"
+B_2B = "187"
+B_3B = "53"
+B_HR = "35"
+B_SH = "158"
+B_SB = "193"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "158"
+B_AB = "4933"
+B_R = "606"
+B_H = "1242"
+B_TB = "1558"
+B_2B = "189"
+B_3B = "44"
+B_HR = "13"
+B_SH = "189"
+B_SB = "192"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4914"
+B_R = "602"
+B_H = "1233"
+B_TB = "1578"
+B_2B = "158"
+B_3B = "65"
+B_HR = "19"
+B_SH = "261"
+B_SB = "147"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "161"
+B_AB = "5231"
+B_R = "601"
+B_H = "1289"
+B_TB = "1682"
+B_2B = "174"
+B_3B = "81"
+B_HR = "19"
+B_SH = "176"
+B_SB = "201"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4867"
+B_R = "549"
+B_H = "1176"
+B_TB = "1509"
+B_2B = "159"
+B_3B = "66"
+B_HR = "14"
+B_SH = "169"
+B_SB = "158"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4649"
+B_R = "487"
+B_H = "1107"
+B_TB = "1439"
+B_2B = "141"
+B_3B = "73"
+B_HR = "15"
+B_SH = "179"
+B_SB = "154"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "158"
+B_AB = "4937"
+B_R = "512"
+B_H = "1177"
+B_TB = "1510"
+B_2B = "177"
+B_3B = "51"
+B_HR = "18"
+B_SH = "216"
+B_SB = "128"
+B_AVG = ".238"

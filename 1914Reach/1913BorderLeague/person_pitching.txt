@@ -1,0 +1,548 @@
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ypsilanti"
+[person.playing.totals]
+P_G = "8"
+P_IP = "62"
+P_W = "6"
+P_L = "0"
+P_R = "21"
+P_H = "57"
+P_BB = "11"
+P_SO = "47"
+P_HP = "0"
+P_WP = "1"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Standish"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ypsilanti"
+[person.playing.totals]
+P_G = "11"
+P_IP = "75"
+P_W = "8"
+P_L = "2"
+P_R = "19"
+P_H = "60"
+P_BB = "15"
+P_SO = "59"
+P_HP = "4"
+P_WP = "1"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Tanner"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ypsilanti"
+[person.playing.totals]
+P_G = "5"
+P_IP = "34"
+P_W = "4"
+P_L = "1"
+P_R = "18"
+P_H = "26"
+P_BB = "19"
+P_SO = "31"
+P_HP = "2"
+P_WP = "0"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Meredith"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ypsilanti"
+[person.playing.totals]
+P_G = "8"
+P_IP = "57"
+P_W = "5"
+P_L = "2"
+P_R = "30"
+P_H = "49"
+P_BB = "17"
+P_SO = "32"
+P_HP = "0"
+P_WP = "0"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Manning"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wyandotte"
+[person.playing.totals]
+P_G = "17"
+P_IP = "138"
+P_W = "10"
+P_L = "5"
+P_R = "60"
+P_H = "118"
+P_BB = "30"
+P_SO = "125"
+P_HP = "13"
+P_WP = "11"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Prieskorn"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wyandotte"
+[person.playing.totals]
+P_G = "4"
+P_IP = "18"
+P_W = "2"
+P_L = "1"
+P_R = "8"
+P_H = "20"
+P_BB = "4"
+P_SO = "6"
+P_HP = "0"
+P_WP = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Hendershott"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pontiac"
+[person.playing.totals]
+P_G = "16"
+P_IP = "111"
+P_W = "7"
+P_L = "5"
+P_R = "67"
+P_H = "106"
+P_BB = "15"
+P_SO = "66"
+P_HP = "1"
+P_WP = "2"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Nichols"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wyandotte"
+[person.playing.totals]
+P_G = "17"
+P_IP = "154"
+P_W = "9"
+P_L = "7"
+P_R = "57"
+P_H = "128"
+P_BB = "37"
+P_SO = "127"
+P_HP = "5"
+P_WP = "4"
+P_PCT = ".562"
+
+
+[[person]]
+name.last = "Mueller"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Port Huron"
+[person.playing.totals]
+P_G = "17"
+P_IP = "137"
+P_W = "8"
+P_L = "7"
+P_R = "58"
+P_H = "116"
+P_BB = "47"
+P_SO = "149"
+P_HP = "4"
+P_WP = "3"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Renaud"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Windsor"
+[person.playing.totals]
+P_G = "2"
+P_IP = "15"
+P_W = "1"
+P_L = "1"
+P_R = "4"
+P_H = "8"
+P_BB = "3"
+P_SO = "8"
+P_HP = "1"
+P_WP = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Kliene"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pontiac"
+[person.playing.totals]
+P_G = "2"
+P_IP = "11"
+P_W = "1"
+P_L = "1"
+P_R = "4"
+P_H = "11"
+P_BB = "1"
+P_SO = "6"
+P_HP = "0"
+P_WP = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Gascon"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pontiac"
+[person.playing.totals]
+P_G = "2"
+P_IP = "4"
+P_W = "1"
+P_L = "1"
+P_R = "3"
+P_H = "5"
+P_BB = "1"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Port Huron"
+[person.playing.totals]
+P_G = "2"
+P_IP = "12"
+P_W = "1"
+P_L = "1"
+P_R = "4"
+P_H = "5"
+P_BB = "1"
+P_SO = "8"
+P_HP = "0"
+P_WP = "3"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Adams"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Windsor"
+[person.playing.totals]
+P_G = "2"
+P_IP = "16"
+P_W = "1"
+P_L = "1"
+P_R = "12"
+P_H = "15"
+P_BB = "4"
+P_SO = "18"
+P_HP = "3"
+P_WP = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Shocker"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Windsor"
+[person.playing.totals]
+P_G = "16"
+P_IP = "121"
+P_W = "6"
+P_L = "7"
+P_R = "66"
+P_H = "114"
+P_BB = "33"
+P_SO = "90"
+P_HP = "8"
+P_WP = "4"
+P_PCT = ".461"
+
+
+[[person]]
+name.last = "Corbatt"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Port Huron"
+[person.playing.totals]
+P_G = "14"
+P_IP = "117"
+P_W = "5"
+P_L = "8"
+P_R = "60"
+P_H = "85"
+P_BB = "30"
+P_SO = "95"
+P_HP = "6"
+P_WP = "2"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Campau"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pontiac"
+[person.playing.totals]
+P_G = "9"
+P_IP = "62"
+P_W = "2"
+P_L = "4"
+P_R = "43"
+P_H = "64"
+P_BB = "31"
+P_SO = "82"
+P_HP = "4"
+P_WP = "4"
+P_PCT = ".133"
+
+
+[[person]]
+name.last = "Faustman"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pontiac"
+[person.playing.totals]
+P_G = "8"
+P_IP = "45"
+P_W = "0"
+P_L = "3"
+P_R = "37"
+P_H = "43"
+P_BB = "14"
+P_SO = "21"
+P_HP = "6"
+P_WP = "3"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Fanning"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ypsilanti"
+[person.playing.totals]
+P_G = "4"
+P_IP = "20"
+P_W = "0"
+P_L = "1"
+P_R = "10"
+P_H = "11"
+P_BB = "10"
+P_SO = "16"
+P_HP = "1"
+P_WP = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Peterson"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ypsilanti"
+[person.playing.totals]
+P_G = "2"
+P_IP = "12"
+P_W = "0"
+P_L = "1"
+P_R = "5"
+P_H = "9"
+P_BB = "1"
+P_SO = "9"
+P_HP = "0"
+P_WP = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Port Huron"
+[person.playing.totals]
+P_G = "2"
+P_IP = "18"
+P_W = "0"
+P_L = "2"
+P_R = "9"
+P_H = "15"
+P_BB = "9"
+P_SO = "10"
+P_HP = "1"
+P_WP = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Parent"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Windsor"
+[person.playing.totals]
+P_G = "3"
+P_IP = "26"
+P_W = "0"
+P_L = "3"
+P_R = "22"
+P_H = "24"
+P_BB = "9"
+P_SO = "19"
+P_HP = "1"
+P_WP = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Mason"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Windsor"
+[person.playing.totals]
+P_G = "2"
+P_IP = "13"
+P_W = "0"
+P_L = "1"
+P_R = "17"
+P_H = "19"
+P_BB = "10"
+P_SO = "11"
+P_HP = "1"
+P_WP = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Crosman"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ypsilanti"
+[person.playing.totals]
+P_G = "4"
+P_IP = "37"
+P_W = "0"
+P_L = "1"
+P_R = "12"
+P_H = "38"
+P_BB = "11"
+P_SO = "13"
+P_HP = "1"
+P_WP = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Underwood"
+[[person.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pontiac"
+[person.playing.totals]
+P_G = "2"
+P_IP = "18"
+P_W = "0"
+P_L = "2"
+P_R = "17"
+P_H = "20"
+P_BB = "6"
+P_SO = "10"
+P_HP = "1"
+P_WP = "0"
+P_PCT = ".000"

@@ -1,0 +1,118 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4321"
+B_R = "537"
+B_H = "1083"
+B_SH = "262"
+B_SB = "269"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4480"
+B_R = "532"
+B_H = "1066"
+B_SH = "252"
+B_SB = "237"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4424"
+B_R = "489"
+B_H = "1024"
+B_SH = "180"
+B_SB = "250"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4395"
+B_R = "416"
+B_H = "1005"
+B_SH = "199"
+B_SB = "141"
+B_AVG = ".229"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4442"
+B_R = "459"
+B_H = "1002"
+B_SH = "216"
+B_SB = "191"
+B_AVG = ".226"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4391"
+B_R = "448"
+B_H = "947"
+B_SH = "173"
+B_SB = "192"
+B_AVG = ".216"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4382"
+B_R = "369"
+B_H = "931"
+B_SH = "158"
+B_SB = "137"
+B_AVG = ".212"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4247"
+B_R = "346"
+B_H = "869"
+B_SH = "204"
+B_SB = "247"
+B_AVG = ".205"

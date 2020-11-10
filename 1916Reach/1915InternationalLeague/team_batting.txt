@@ -1,0 +1,174 @@
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4611"
+B_R = "640"
+B_H = "1263"
+B_2B = "152"
+B_3B = "105"
+B_HR = "16"
+B_TB = "1673"
+B_SH = "153"
+B_SB = "176"
+B_BB = "403"
+B_SO = "429"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4444"
+B_R = "605"
+B_H = "1218"
+B_2B = "176"
+B_3B = "66"
+B_HR = "14"
+B_TB = "1568"
+B_SH = "188"
+B_SB = "196"
+B_BB = "486"
+B_SO = "587"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4497"
+B_R = "549"
+B_H = "1181"
+B_2B = "140"
+B_3B = "59"
+B_HR = "37"
+B_TB = "1550"
+B_SH = "203"
+B_SB = "170"
+B_BB = "437"
+B_SO = "456"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4643"
+B_R = "672"
+B_H = "1213"
+B_2B = "165"
+B_3B = "57"
+B_HR = "65"
+B_TB = "1687"
+B_SH = "156"
+B_SB = "176"
+B_BB = "522"
+B_SO = "520"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4605"
+B_R = "656"
+B_H = "1191"
+B_2B = "152"
+B_3B = "73"
+B_HR = "16"
+B_TB = "1537"
+B_SH = "120"
+B_SB = "189"
+B_BB = "570"
+B_SO = "620"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4661"
+B_R = "562"
+B_H = "1200"
+B_2B = "148"
+B_3B = "79"
+B_HR = "18"
+B_TB = "1560"
+B_SH = "156"
+B_SB = "189"
+B_BB = "419"
+B_SO = "536"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Newark/Harrisburg"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4428"
+B_R = "543"
+B_H = "1130"
+B_2B = "131"
+B_3B = "74"
+B_HR = "19"
+B_TB = "1466"
+B_SH = "173"
+B_SB = "207"
+B_BB = "450"
+B_SO = "453"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1915"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4408"
+B_R = "509"
+B_H = "1107"
+B_2B = "124"
+B_3B = "50"
+B_HR = "11"
+B_TB = "1364"
+B_SH = "140"
+B_SB = "141"
+B_BB = "441"
+B_SO = "566"
+B_AVG = ".251"

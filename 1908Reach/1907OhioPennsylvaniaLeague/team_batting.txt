@@ -1,0 +1,126 @@
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4532"
+B_R = "563"
+B_H = "1167"
+B_TB = "1494"
+B_SH = "236"
+B_SB = "241"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4396"
+B_R = "465"
+B_H = "1053"
+B_TB = "1383"
+B_SH = "142"
+B_SB = "168"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4284"
+B_R = "449"
+B_H = "1019"
+B_TB = "1275"
+B_SH = "187"
+B_SB = "110"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4533"
+B_R = "561"
+B_H = "1063"
+B_TB = "1365"
+B_SH = "219"
+B_SB = "349"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5309"
+B_R = "457"
+B_H = "1004"
+B_TB = "1272"
+B_SH = "196"
+B_SB = "245"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4466"
+B_R = "417"
+B_H = "1004"
+B_TB = "1253"
+B_SH = "152"
+B_SB = "154"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Sharon"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4470"
+B_R = "388"
+B_H = "966"
+B_TB = "1205"
+B_SH = "216"
+B_SB = "161"
+B_AVG = ".216"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4272"
+B_R = "410"
+B_H = "914"
+B_TB = "1129"
+B_SH = "168"
+B_SB = "244"
+B_AVG = ".214"

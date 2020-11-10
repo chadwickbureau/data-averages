@@ -1,0 +1,110 @@
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3308"
+F_A = "1583"
+F_E = "229"
+F_PCT = ".955"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3338"
+F_A = "1797"
+F_E = "275"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3241"
+F_A = "1581"
+F_E = "264"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3244"
+F_A = "1642"
+F_E = "262"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3549"
+F_A = "1709"
+F_E = "292"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3309"
+F_A = "1838"
+F_E = "300"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3222"
+F_A = "1575"
+F_E = "271"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1910"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3394"
+F_A = "1773"
+F_E = "306"
+F_PCT = ".944"

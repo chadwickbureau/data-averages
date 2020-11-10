@@ -1,0 +1,3284 @@
+[[person]]
+name.last = "Ferek"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "10"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+P_IP = "55"
+P_AB = "203"
+P_H = "43"
+P_R = "21"
+P_ER = "12"
+P_SH = "5"
+P_BB = "23"
+P_SO = "54"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "1.96"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hill"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "31"
+P_CG = "20"
+P_SHO = "3"
+P_W = "17"
+P_L = "5"
+P_T = "0"
+P_PCT = ".773"
+P_IP = "210"
+P_AB = "802"
+P_H = "203"
+P_R = "77"
+P_ER = "56"
+P_SH = "11"
+P_BB = "57"
+P_SO = "154"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "2.40"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wade"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "21"
+P_CG = "18"
+P_SHO = "3"
+P_W = "15"
+P_L = "4"
+P_T = "0"
+P_PCT = ".789"
+P_IP = "160"
+P_AB = "585"
+P_H = "116"
+P_R = "51"
+P_ER = "44"
+P_SH = "4"
+P_BB = "49"
+P_SO = "151"
+P_HP = "4"
+P_WP = "2"
+P_ERA = "2.48"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stephens"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "13"
+P_CG = "3"
+P_SHO = "1"
+P_W = "2"
+P_L = "1"
+P_T = "0"
+P_PCT = ".667"
+P_IP = "48"
+P_AB = "185"
+P_H = "52"
+P_R = "21"
+P_ER = "14"
+P_SH = "2"
+P_BB = "21"
+P_SO = "20"
+P_HP = "5"
+P_WP = "1"
+P_ERA = "2.63"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Guise"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "26"
+P_CG = "19"
+P_SHO = "1"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_PCT = ".636"
+P_IP = "179"
+P_AB = "689"
+P_H = "162"
+P_R = "76"
+P_ER = "53"
+P_SH = "10"
+P_BB = "56"
+P_SO = "142"
+P_HP = "3"
+P_WP = "11"
+P_ERA = "2.66"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Tart"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "24"
+P_CG = "13"
+P_SHO = "1"
+P_W = "14"
+P_L = "6"
+P_T = "0"
+P_PCT = ".700"
+P_IP = "159"
+P_AB = "572"
+P_H = "128"
+P_R = "68"
+P_ER = "47"
+P_SH = "7"
+P_BB = "88"
+P_SO = "140"
+P_HP = "7"
+P_WP = "3"
+P_ERA = "2.66"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Deets"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "24"
+P_CG = "15"
+P_SHO = "2"
+P_W = "12"
+P_L = "6"
+P_T = "0"
+P_PCT = ".667"
+P_IP = "159"
+P_AB = "604"
+P_H = "141"
+P_R = "66"
+P_ER = "50"
+P_SH = "8"
+P_BB = "41"
+P_SO = "110"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "2.83"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Errante"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "25"
+P_CG = "9"
+P_SHO = "0"
+P_W = "8"
+P_L = "11"
+P_T = "0"
+P_PCT = ".421"
+P_IP = "156"
+P_AB = "543"
+P_H = "131"
+P_R = "70"
+P_ER = "50"
+P_SH = "6"
+P_BB = "65"
+P_SO = "106"
+P_HP = "6"
+P_WP = "4"
+P_ERA = "2.88"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "23"
+P_CG = "10"
+P_SHO = "0"
+P_W = "10"
+P_L = "4"
+P_T = "0"
+P_PCT = ".714"
+P_IP = "131"
+P_AB = "487"
+P_H = "125"
+P_R = "56"
+P_ER = "42"
+P_SH = "8"
+P_BB = "44"
+P_SO = "80"
+P_HP = "1"
+P_WP = "7"
+P_ERA = "2.89"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Blumette"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "10"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+P_IP = "51"
+P_AB = "203"
+P_H = "60"
+P_R = "21"
+P_ER = "17"
+P_SH = "6"
+P_BB = "17"
+P_SO = "42"
+P_HP = "2"
+P_WP = "5"
+P_ERA = "3.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hadley"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "21"
+P_CG = "15"
+P_SHO = "4"
+P_W = "13"
+P_L = "5"
+P_T = "0"
+P_PCT = ".722"
+P_IP = "146"
+P_AB = "551"
+P_H = "123"
+P_R = "56"
+P_ER = "49"
+P_SH = "3"
+P_BB = "51"
+P_SO = "114"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "3.02"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Horn"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "28"
+P_CG = "23"
+P_SHO = "1"
+P_W = "17"
+P_L = "10"
+P_T = "0"
+P_PCT = ".630"
+P_IP = "208"
+P_AB = "805"
+P_H = "196"
+P_R = "85"
+P_ER = "70"
+P_SH = "12"
+P_BB = "77"
+P_SO = "135"
+P_HP = "6"
+P_WP = "1"
+P_ERA = "3.03"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Piatnek"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "37"
+P_CG = "16"
+P_SHO = "1"
+P_W = "11"
+P_L = "16"
+P_T = "0"
+P_PCT = ".407"
+P_IP = "200"
+P_AB = "765"
+P_H = "176"
+P_R = "99"
+P_ER = "68"
+P_SH = "13"
+P_BB = "93"
+P_SO = "160"
+P_HP = "1"
+P_WP = "6"
+P_ERA = "3.06"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "28"
+P_CG = "13"
+P_SHO = "1"
+P_W = "11"
+P_L = "8"
+P_T = "0"
+P_PCT = ".579"
+P_IP = "172"
+P_AB = "672"
+P_H = "168"
+P_R = "80"
+P_ER = "60"
+P_SH = "7"
+P_BB = "52"
+P_SO = "112"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "3.14"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cardey"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "30"
+P_CG = "12"
+P_SHO = "1"
+P_W = "10"
+P_L = "8"
+P_T = "1"
+P_PCT = ".556"
+P_IP = "179"
+P_AB = "623"
+P_H = "132"
+P_R = "84"
+P_ER = "64"
+P_SH = "10"
+P_BB = "118"
+P_SO = "112"
+P_HP = "12"
+P_WP = "12"
+P_ERA = "3.22"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Tate"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "15"
+P_CG = "9"
+P_SHO = "1"
+P_W = "5"
+P_L = "9"
+P_T = "0"
+P_PCT = ".357"
+P_IP = "101"
+P_AB = "394"
+P_H = "115"
+P_R = "53"
+P_ER = "37"
+P_SH = "9"
+P_BB = "46"
+P_SO = "56"
+P_HP = "0"
+P_WP = "7"
+P_ERA = "3.30"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Crider"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "29"
+P_CG = "0"
+P_SHO = "0"
+P_W = "7"
+P_L = "5"
+P_T = "0"
+P_PCT = ".583"
+P_IP = "49"
+P_AB = "190"
+P_H = "38"
+P_R = "26"
+P_ER = "18"
+P_SH = "1"
+P_BB = "17"
+P_SO = "38"
+P_HP = "3"
+P_WP = "0"
+P_ERA = "3.31"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bickford"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "28"
+P_CG = "15"
+P_SHO = "4"
+P_W = "10"
+P_L = "12"
+P_T = "0"
+P_PCT = ".455"
+P_IP = "181"
+P_AB = "676"
+P_H = "166"
+P_R = "89"
+P_ER = "67"
+P_SH = "11"
+P_BB = "91"
+P_SO = "153"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "3.33"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Lambert"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "28"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_T = "0"
+P_PCT = ".250"
+P_IP = "89"
+P_AB = "364"
+P_H = "106"
+P_R = "55"
+P_ER = "33"
+P_SH = "3"
+P_BB = "19"
+P_SO = "48"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.34"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hendrix"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "24"
+P_CG = "13"
+P_SHO = "2"
+P_W = "17"
+P_L = "4"
+P_T = "0"
+P_PCT = ".810"
+P_IP = "164"
+P_AB = "656"
+P_H = "165"
+P_R = "78"
+P_ER = "61"
+P_SH = "5"
+P_BB = "42"
+P_SO = "94"
+P_HP = "6"
+P_WP = "2"
+P_ERA = "3.35"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+P_G = "11"
+[[person.playing.split]]
+team.name = "Anniston"
+P_G = "18"
+[person.playing.totals]
+P_G = "29"
+P_CG = "6"
+P_SHO = "2"
+P_W = "8"
+P_L = "5"
+P_T = "1"
+P_PCT = ".615"
+P_IP = "140"
+P_AB = "576"
+P_H = "156"
+P_R = "74"
+P_ER = "53"
+P_SH = "6"
+P_BB = "44"
+P_SO = "65"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "3.41"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Acosta"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "14"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "4"
+P_T = "0"
+P_PCT = ".600"
+P_IP = "80"
+P_AB = "332"
+P_H = "108"
+P_R = "39"
+P_ER = "35"
+P_SH = "1"
+P_BB = "17"
+P_SO = "34"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.49"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McLendon"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "29"
+P_CG = "13"
+P_SHO = "2"
+P_W = "13"
+P_L = "8"
+P_T = "1"
+P_PCT = ".619"
+P_IP = "172"
+P_AB = "699"
+P_H = "186"
+P_R = "101"
+P_ER = "67"
+P_SH = "13"
+P_BB = "35"
+P_SO = "67"
+P_HP = "6"
+P_WP = "2"
+P_ERA = "3.51"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Beavers"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "28"
+P_CG = "13"
+P_SHO = "2"
+P_W = "12"
+P_L = "10"
+P_T = "0"
+P_PCT = ".545"
+P_IP = "160"
+P_AB = "645"
+P_H = "164"
+P_R = "83"
+P_ER = "63"
+P_SH = "15"
+P_BB = "52"
+P_SO = "107"
+P_HP = "2"
+P_WP = "5"
+P_ERA = "3.54"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Sloat"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "21"
+P_CG = "17"
+P_SHO = "1"
+P_W = "11"
+P_L = "8"
+P_T = "0"
+P_PCT = ".579"
+P_IP = "161"
+P_AB = "631"
+P_H = "144"
+P_R = "84"
+P_ER = "65"
+P_SH = "9"
+P_BB = "65"
+P_SO = "135"
+P_HP = "2"
+P_WP = "9"
+P_ERA = "3.63"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trotter"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "10"
+P_CG = "5"
+P_SHO = "1"
+P_W = "5"
+P_L = "3"
+P_T = "0"
+P_PCT = ".625"
+P_IP = "60"
+P_AB = "249"
+P_H = "73"
+P_R = "31"
+P_ER = "25"
+P_SH = "4"
+P_BB = "6"
+P_SO = "26"
+P_HP = "0"
+P_WP = "0"
+P_ERA = "3.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "29"
+P_CG = "18"
+P_SHO = "1"
+P_W = "11"
+P_L = "15"
+P_T = "1"
+P_PCT = ".423"
+P_IP = "217"
+P_AB = "842"
+P_H = "2116"
+P_R = "119"
+P_ER = "91"
+P_SH = "15"
+P_BB = "93"
+P_SO = "108"
+P_HP = "9"
+P_WP = "19"
+P_ERA = "3.77"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Burtschey"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "20"
+P_CG = "8"
+P_SHO = "0"
+P_W = "7"
+P_L = "7"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "117"
+P_AB = "470"
+P_H = "122"
+P_R = "63"
+P_ER = "49"
+P_SH = "5"
+P_BB = "43"
+P_SO = "84"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "3.77"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McConnell"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "23"
+P_CG = "1"
+P_SHO = "0"
+P_W = "7"
+P_L = "3"
+P_T = "0"
+P_PCT = ".700"
+P_IP = "71"
+P_AB = "272"
+P_H = "75"
+P_R = "42"
+P_ER = "30"
+P_SH = "4"
+P_BB = "31"
+P_SO = "44"
+P_HP = "3"
+P_WP = "6"
+P_ERA = "3.80"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stevens"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "26"
+P_CG = "12"
+P_SHO = "1"
+P_W = "6"
+P_L = "8"
+P_T = "1"
+P_PCT = ".429"
+P_IP = "154"
+P_AB = "619"
+P_H = "157"
+P_R = "79"
+P_ER = "66"
+P_SH = "7"
+P_BB = "49"
+P_SO = "70"
+P_HP = "6"
+P_WP = "3"
+P_ERA = "3.86"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "E."
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "21"
+P_CG = "10"
+P_SHO = "1"
+P_W = "11"
+P_L = "8"
+P_T = "0"
+P_PCT = ".579"
+P_IP = "137"
+P_AB = "513"
+P_H = "107"
+P_R = "80"
+P_ER = "59"
+P_SH = "8"
+P_BB = "77"
+P_SO = "116"
+P_HP = "9"
+P_WP = "6"
+P_ERA = "3.88"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sakas"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "14"
+P_CG = "8"
+P_SHO = "2"
+P_W = "5"
+P_L = "4"
+P_T = "0"
+P_PCT = ".556"
+P_IP = "88"
+P_AB = "356"
+P_H = "102"
+P_R = "49"
+P_ER = "38"
+P_SH = "8"
+P_BB = "25"
+P_SO = "47"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "3.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Heller"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "30"
+P_CG = "13"
+P_SHO = "0"
+P_W = "10"
+P_L = "11"
+P_T = "1"
+P_PCT = ".476"
+P_IP = "183"
+P_AB = "731"
+P_H = "191"
+P_R = "119"
+P_ER = "82"
+P_SH = "9"
+P_BB = "80"
+P_SO = "100"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "4.03"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "10"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "58"
+P_AB = "229"
+P_H = "62"
+P_R = "30"
+P_ER = "26"
+P_SH = "5"
+P_BB = "17"
+P_SO = "44"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "4.03"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "9"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "49"
+P_AB = "194"
+P_H = "50"
+P_R = "22"
+P_ER = "22"
+P_SH = "1"
+P_BB = "15"
+P_SO = "29"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "4.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ryan"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "12"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "2"
+P_T = "0"
+P_PCT = ".714"
+P_IP = "71"
+P_AB = "306"
+P_H = "77"
+P_R = "37"
+P_ER = "32"
+P_SH = "2"
+P_BB = "27"
+P_SO = "49"
+P_HP = "5"
+P_WP = "1"
+P_ERA = "4.06"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Kirschner"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "16"
+P_CG = "4"
+P_SHO = "1"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "74"
+P_AB = "293"
+P_H = "78"
+P_R = "38"
+P_ER = "34"
+P_SH = "3"
+P_BB = "29"
+P_SO = "38"
+P_HP = "0"
+P_WP = "3"
+P_ERA = "4.14"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cook"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "29"
+P_CG = "7"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_T = "1"
+P_PCT = ".500"
+P_IP = "119"
+P_AB = "457"
+P_H = "131"
+P_R = "72"
+P_ER = "55"
+P_SH = "14"
+P_BB = "54"
+P_SO = "65"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "4.16"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "20"
+P_CG = "12"
+P_SHO = "0"
+P_W = "8"
+P_L = "8"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "136"
+P_AB = "555"
+P_H = "162"
+P_R = "78"
+P_ER = "63"
+P_SH = "11"
+P_BB = "29"
+P_SO = "50"
+P_HP = "6"
+P_WP = "2"
+P_ERA = "4.17"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Thompson"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+P_G = "2"
+[[person.playing.split]]
+team.name = "Gadsden"
+P_G = "22"
+[person.playing.totals]
+P_G = "24"
+P_CG = "11"
+P_SHO = "0"
+P_W = "7"
+P_L = "9"
+P_T = "0"
+P_PCT = ".438"
+P_IP = "150"
+P_AB = "584"
+P_H = "161"
+P_R = "97"
+P_ER = "70"
+P_SH = "10"
+P_BB = "74"
+P_SO = "100"
+P_HP = "7"
+P_WP = "9"
+P_ERA = "4.20"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "18"
+P_CG = "5"
+P_SHO = "2"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_PCT = ".300"
+P_IP = "91"
+P_AB = "338"
+P_H = "97"
+P_R = "51"
+P_ER = "44"
+P_SH = "10"
+P_BB = "24"
+P_SO = "17"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "4.35"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Britt"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Jackson"
+P_G = "23"
+[person.playing.totals]
+P_G = "28"
+P_CG = "14"
+P_SHO = "1"
+P_W = "8"
+P_L = "10"
+P_T = "0"
+P_PCT = ".444"
+P_IP = "163"
+P_AB = "643"
+P_H = "163"
+P_R = "95"
+P_ER = "79"
+P_SH = "11"
+P_BB = "80"
+P_SO = "94"
+P_HP = "2"
+P_WP = "6"
+P_ERA = "4.36"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Menarchek"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "28"
+P_CG = "4"
+P_SHO = "1"
+P_W = "5"
+P_L = "8"
+P_T = "1"
+P_PCT = ".385"
+P_IP = "134"
+P_AB = "526"
+P_H = "149"
+P_R = "80"
+P_ER = "65"
+P_SH = "7"
+P_BB = "93"
+P_SO = "101"
+P_HP = "4"
+P_WP = "5"
+P_ERA = "4.37"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kallaher"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "27"
+P_CG = "7"
+P_SHO = "0"
+P_W = "6"
+P_L = "10"
+P_T = "0"
+P_PCT = ".375"
+P_IP = "119"
+P_AB = "469"
+P_H = "114"
+P_R = "72"
+P_ER = "58"
+P_SH = "7"
+P_BB = "55"
+P_SO = "85"
+P_HP = "7"
+P_WP = "2"
+P_ERA = "4.39"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Embree"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "19"
+P_CG = "6"
+P_SHO = "2"
+P_W = "2"
+P_L = "7"
+P_T = "1"
+P_PCT = ".222"
+P_IP = "98"
+P_AB = "357"
+P_H = "80"
+P_R = "54"
+P_ER = "48"
+P_SH = "6"
+P_BB = "39"
+P_SO = "58"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "4.41"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Zmitrovich"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "33"
+P_CG = "16"
+P_SHO = "2"
+P_W = "12"
+P_L = "14"
+P_T = "1"
+P_PCT = ".462"
+P_IP = "205"
+P_AB = "780"
+P_H = "192"
+P_R = "120"
+P_ER = "101"
+P_SH = "12"
+P_BB = "108"
+P_SO = "126"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "4.43"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Rogovin"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "22"
+P_CG = "5"
+P_SHO = "0"
+P_W = "8"
+P_L = "5"
+P_T = "0"
+P_PCT = ".615"
+P_IP = "96"
+P_AB = "369"
+P_H = "96"
+P_R = "52"
+P_ER = "48"
+P_SH = "2"
+P_BB = "50"
+P_SO = "72"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "4.50"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Petrick"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_T = "0"
+P_PCT = ".667"
+P_IP = "48"
+P_AB = "182"
+P_H = "48"
+P_R = "26"
+P_ER = "24"
+P_SH = "4"
+P_BB = "16"
+P_SO = "23"
+P_HP = "4"
+P_WP = "2"
+P_ERA = "4.50"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Guiterrez"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "30"
+P_CG = "8"
+P_SHO = "1"
+P_W = "11"
+P_L = "6"
+P_T = "0"
+P_PCT = ".647"
+P_IP = "154"
+P_AB = "586"
+P_H = "136"
+P_R = "97"
+P_ER = "78"
+P_SH = "8"
+P_BB = "111"
+P_SO = "149"
+P_HP = "8"
+P_WP = "5"
+P_ERA = "4.56"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mackey"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "29"
+P_CG = "10"
+P_SHO = "1"
+P_W = "7"
+P_L = "14"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "132"
+P_AB = "580"
+P_H = "162"
+P_R = "95"
+P_ER = "67"
+P_SH = "16"
+P_BB = "62"
+P_SO = "67"
+P_HP = "3"
+P_WP = "6"
+P_ERA = "4.57"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "20"
+P_CG = "9"
+P_SHO = "1"
+P_W = "7"
+P_L = "8"
+P_T = "1"
+P_PCT = ".467"
+P_IP = "114"
+P_AB = "457"
+P_H = "125"
+P_R = "74"
+P_ER = "59"
+P_SH = "4"
+P_BB = "68"
+P_SO = "56"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "4.66"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "17"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "65"
+P_AB = "240"
+P_H = "58"
+P_R = "50"
+P_ER = "34"
+P_SH = "2"
+P_BB = "37"
+P_SO = "36"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "4.71"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kelly"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "19"
+P_CG = "10"
+P_SHO = "1"
+P_W = "5"
+P_L = "10"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "111"
+P_AB = "435"
+P_H = "112"
+P_R = "69"
+P_ER = "59"
+P_SH = "3"
+P_BB = "55"
+P_SO = "82"
+P_HP = "8"
+P_WP = "5"
+P_ERA = "4.78"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Knowles"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "15"
+P_CG = "9"
+P_SHO = "2"
+P_W = "6"
+P_L = "8"
+P_T = "0"
+P_PCT = ".429"
+P_IP = "94"
+P_AB = "391"
+P_H = "112"
+P_R = "71"
+P_ER = "50"
+P_SH = "4"
+P_BB = "33"
+P_SO = "45"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "4.79"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Vickery"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "37"
+P_CG = "12"
+P_SHO = "1"
+P_W = "11"
+P_L = "15"
+P_T = "0"
+P_PCT = ".423"
+P_IP = "191"
+P_AB = "766"
+P_H = "180"
+P_R = "119"
+P_ER = "102"
+P_SH = "5"
+P_BB = "93"
+P_SO = "143"
+P_HP = "4"
+P_WP = "0"
+P_ERA = "4.81"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barger"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "28"
+P_CG = "15"
+P_SHO = "0"
+P_W = "9"
+P_L = "10"
+P_T = "0"
+P_PCT = ".474"
+P_IP = "185"
+P_AB = "736"
+P_H = "205"
+P_R = "120"
+P_ER = "99"
+P_SH = "15"
+P_BB = "50"
+P_SO = "97"
+P_HP = "4"
+P_WP = "0"
+P_ERA = "4.82"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Peeler"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "12"
+P_CG = "4"
+P_SHO = "1"
+P_W = "5"
+P_L = "3"
+P_T = "0"
+P_PCT = ".625"
+P_IP = "53"
+P_AB = "198"
+P_H = "49"
+P_R = "34"
+P_ER = "29"
+P_SH = "1"
+P_BB = "25"
+P_SO = "39"
+P_HP = "3"
+P_WP = "0"
+P_ERA = "4.92"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "17"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_T = "1"
+P_PCT = ".333"
+P_IP = "75"
+P_AB = "309"
+P_H = "86"
+P_R = "57"
+P_ER = "43"
+P_SH = "3"
+P_BB = "44"
+P_SO = "46"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "5.16"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sparks"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "14"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_T = "0"
+P_PCT = ".444"
+P_IP = "68"
+P_AB = "285"
+P_H = "94"
+P_R = "52"
+P_ER = "39"
+P_SH = "11"
+P_BB = "26"
+P_SO = "41"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "5.16"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Albert"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "32"
+P_CG = "5"
+P_SHO = "1"
+P_W = "7"
+P_L = "12"
+P_T = "0"
+P_PCT = ".368"
+P_IP = "141"
+P_AB = "499"
+P_H = "133"
+P_R = "101"
+P_ER = "81"
+P_SH = "12"
+P_BB = "105"
+P_SO = "82"
+P_HP = "4"
+P_WP = "5"
+P_ERA = "5.17"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mills"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "23"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_T = "0"
+P_PCT = ".250"
+P_IP = "86"
+P_AB = "348"
+P_H = "90"
+P_R = "64"
+P_ER = "50"
+P_SH = "7"
+P_BB = "25"
+P_SO = "48"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "5.23"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McClure"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "26"
+P_CG = "11"
+P_SHO = "0"
+P_W = "10"
+P_L = "10"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "151"
+P_AB = "629"
+P_H = "169"
+P_R = "110"
+P_ER = "91"
+P_SH = "7"
+P_BB = "44"
+P_SO = "80"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "5.42"
+P_BK = "0"
+
+
+[[person]]
+name.last = "VanLeiden"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "17"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "5"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "88"
+P_AB = "374"
+P_H = "106"
+P_R = "65"
+P_ER = "53"
+P_SH = "5"
+P_BB = "31"
+P_SO = "39"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "5.42"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Hamill"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "19"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "6"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "99"
+P_AB = "393"
+P_H = "104"
+P_R = "69"
+P_ER = "61"
+P_SH = "5"
+P_BB = "40"
+P_SO = "43"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "5.55"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Janicek"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "45"
+P_AB = "209"
+P_H = "55"
+P_R = "35"
+P_ER = "28"
+P_SH = "0"
+P_BB = "21"
+P_SO = "22"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "5.60"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Albertson"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "21"
+P_CG = "7"
+P_SHO = "0"
+P_W = "8"
+P_L = "8"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "105"
+P_AB = "465"
+P_H = "127"
+P_R = "88"
+P_ER = "67"
+P_SH = "4"
+P_BB = "58"
+P_SO = "54"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "5.74"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pressley"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "17"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_T = "1"
+P_PCT = ".500"
+P_IP = "84"
+P_AB = "350"
+P_H = "100"
+P_R = "67"
+P_ER = "55"
+P_SH = "11"
+P_BB = "52"
+P_SO = "54"
+P_HP = "9"
+P_WP = "7"
+P_ERA = "5.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bytnar"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "11"
+P_CG = "2"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "47"
+P_AB = "211"
+P_H = "82"
+P_R = "49"
+P_ER = "31"
+P_SH = "4"
+P_BB = "24"
+P_SO = "16"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "5.94"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "23"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_PCT = ".250"
+P_IP = "78"
+P_AB = "340"
+P_H = "104"
+P_R = "66"
+P_ER = "57"
+P_SH = "7"
+P_BB = "25"
+P_SO = "38"
+P_HP = "3"
+P_WP = "3"
+P_ERA = "6.58"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Lambert"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "7"
+P_CG = "6"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_T = "0"
+P_PCT = ".667"
+P_IP = "51"
+P_AB = "216"
+P_H = "61"
+P_R = "48"
+P_ER = "41"
+P_SH = "3"
+P_BB = "24"
+P_SO = "29"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "7.24"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Duncan"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "12"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+P_IP = "49"
+P_AB = "231"
+P_H = "70"
+P_R = "54"
+P_ER = "47"
+P_SH = "4"
+P_BB = "25"
+P_SO = "16"
+P_HP = "6"
+P_WP = "0"
+P_ERA = "8.63"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gill"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "27"
+P_H = "28"
+P_R = "16"
+P_BB = "2"
+P_SO = "12"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Goss"
+name.given = "Copeland"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "11"
+P_H = "18"
+P_R = "8"
+P_BB = "5"
+P_SO = "9"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Intindola"
+name.given = "Orest"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "8"
+P_H = "7"
+P_R = "9"
+P_BB = "5"
+P_SO = "2"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Braumbaugh"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "7"
+P_H = "7"
+P_R = "4"
+P_BB = "4"
+P_SO = "4"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Schultz"
+name.given = "Robert"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "6"
+P_H = "4"
+P_R = "10"
+P_BB = "14"
+P_SO = "8"
+P_HP = "1"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Russell"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "6"
+P_H = "7"
+P_R = "6"
+P_BB = "3"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Navage"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "6"
+P_H = "8"
+P_R = "7"
+P_BB = "5"
+P_SO = "5"
+P_HP = "0"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Weaver"
+name.given = "Claude"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "34"
+P_H = "37"
+P_R = "20"
+P_BB = "4"
+P_SO = "10"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Condit"
+name.given = "Douglas"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "22"
+P_H = "22"
+P_R = "11"
+P_BB = "7"
+P_SO = "16"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Edwards"
+name.given = "Les"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "29"
+P_H = "29"
+P_R = "22"
+P_BB = "21"
+P_SO = "11"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Stewart"
+name.given = "Homer"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "26"
+P_H = "35"
+P_R = "23"
+P_BB = "6"
+P_SO = "22"
+P_HP = "1"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Burrows"
+name.given = "John"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "22"
+P_H = "17"
+P_R = "16"
+P_BB = "25"
+P_SO = "10"
+P_HP = "1"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "T. Roy"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "22"
+P_H = "20"
+P_R = "5"
+P_BB = "4"
+P_SO = "4"
+P_HP = "0"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Callaway"
+name.given = "William"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "31"
+P_H = "35"
+P_R = "29"
+P_BB = "18"
+P_SO = "19"
+P_HP = "1"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Porterfield"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "11"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "24"
+P_H = "26"
+P_R = "11"
+P_BB = "21"
+P_SO = "13"
+P_HP = "0"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Strincevich"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "23"
+P_H = "32"
+P_R = "15"
+P_BB = "4"
+P_SO = "14"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Greer"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "27"
+P_H = "25"
+P_R = "10"
+P_BB = "6"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Schneider"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "30"
+P_H = "31"
+P_R = "22"
+P_BB = "21"
+P_SO = "14"
+P_HP = "1"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Wilbourne"
+name.given = "J. E."
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "28"
+P_H = "35"
+P_R = "21"
+P_BB = "15"
+P_SO = "13"
+P_HP = "1"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Conn"
+name.given = "Hampton"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "11"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "36"
+P_H = "45"
+P_R = "34"
+P_BB = "14"
+P_SO = "16"
+P_HP = "0"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Plaia"
+name.given = "Bernard"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "33"
+P_H = "35"
+P_R = "23"
+P_BB = "12"
+P_SO = "10"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Kish"
+name.given = "Elmer"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "21"
+P_H = "28"
+P_R = "22"
+P_BB = "18"
+P_SO = "7"
+P_HP = "0"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Tauscher"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "19"
+P_R = "10"
+P_BB = "6"
+P_SO = "12"
+P_HP = "1"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Korpa"
+name.given = "Stephen"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "23"
+P_R = "19"
+P_BB = "11"
+P_SO = "3"
+P_HP = "1"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Bellinger"
+name.given = "Glen"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "2"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "10"
+P_H = "17"
+P_R = "13"
+P_BB = "4"
+P_SO = "4"
+P_HP = "2"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Kanagy"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "17"
+P_H = "29"
+P_R = "18"
+P_BB = "9"
+P_SO = "14"
+P_HP = "4"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "17"
+P_H = "27"
+P_R = "15"
+P_BB = "17"
+P_SO = "9"
+P_HP = "0"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Roger"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "16"
+P_H = "22"
+P_R = "20"
+P_BB = "18"
+P_SO = "15"
+P_HP = "2"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Veigel"
+name.given = "Allen"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_G = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "19"
+P_R = "12"
+P_BB = "7"
+P_SO = "1"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Lawson"
+name.given = "James"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "14"
+P_R = "6"
+P_BB = "3"
+P_SO = "5"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Prothro"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "18"
+P_R = "14"
+P_BB = "6"
+P_SO = "0"
+P_HP = "1"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Hornsby"
+name.given = "Leonard"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "7"
+P_R = "2"
+P_BB = "2"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Fisher"
+name.given = "Albert"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "10"
+P_H = "18"
+P_R = "12"
+P_BB = "1"
+P_SO = "8"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Bentz"
+name.given = "Howard"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "9"
+P_R = "6"
+P_BB = "5"
+P_SO = "4"
+P_HP = "1"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Parra"
+name.given = "Daniel"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gadsden"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "10"
+P_R = "7"
+P_BB = "2"
+P_SO = "6"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Petit"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "7"
+P_H = "12"
+P_R = "9"
+P_BB = "5"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Rodriquez"
+name.given = "Fernando"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "5"
+P_H = "14"
+P_R = "11"
+P_BB = "4"
+P_SO = "4"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "5"
+P_H = "6"
+P_R = "6"
+P_BB = "5"
+P_SO = "3"
+P_HP = "1"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Dollard"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "5"
+P_H = "6"
+P_R = "6"
+P_BB = "4"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Vance"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "4"
+P_H = "11"
+P_R = "10"
+P_BB = "6"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Petty"
+name.given = "Vernon"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anniston"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "3"
+P_H = "4"
+P_R = "5"
+P_BB = "1"
+P_SO = "2"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Trieschman"
+name.given = "Arthur"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "2"
+P_H = "5"
+P_R = "7"
+P_BB = "5"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Fish"
+name.given = "Pate"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "2"
+P_H = "4"
+P_R = "7"
+P_BB = "6"
+P_SO = "1"
+P_HP = "1"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Fincher"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "0"
+P_H = "1"
+P_R = "3"
+P_BB = "2"
+P_SO = "0"
+P_HP = "1"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Oceak"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "0"
+P_H = "1"
+P_R = "1"
+P_BB = "0"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"

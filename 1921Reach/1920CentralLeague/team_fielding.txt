@@ -1,0 +1,54 @@
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3316"
+F_A = "1469"
+F_E = "253"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Ludington"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3298"
+F_A = "1465"
+F_E = "250"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3372"
+F_A = "1521"
+F_E = "274"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3257"
+F_A = "1630"
+F_E = "309"
+F_PCT = ".941"

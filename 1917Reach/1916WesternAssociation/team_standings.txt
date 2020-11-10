@@ -1,0 +1,328 @@
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "60"
+R_L = "29"
+R_PCT = ".674"
+R_RANK = "1"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "53"
+R_L = "40"
+R_PCT = ".570"
+R_RANK = "2"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "52"
+R_L = "40"
+R_PCT = ".565"
+R_RANK = "3"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "45"
+R_L = "46"
+R_PCT = ".495"
+R_RANK = "4"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "43"
+R_L = "51"
+R_PCT = ".457"
+R_RANK = "5"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "41"
+R_L = "50"
+R_PCT = ".451"
+R_RANK = "6"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "39"
+R_L = "52"
+R_PCT = ".429"
+R_RANK = "7"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "34"
+R_L = "59"
+R_PCT = ".366"
+R_RANK = "8"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "27"
+R_L = "18"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "27"
+R_L = "18"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "26"
+R_L = "20"
+R_PCT = ".565"
+R_RANK = "2"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "25"
+R_L = "21"
+R_PCT = ".543"
+R_RANK = "3"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "22"
+R_L = "24"
+R_PCT = ".468"
+R_RANK = "4"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "20"
+R_L = "26"
+R_PCT = ".435"
+R_RANK = "6"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "20"
+R_L = "26"
+R_PCT = ".435"
+R_RANK = "6"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "16"
+R_L = "30"
+R_PCT = ".348"
+R_RANK = "8"
+
+
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "86"
+R_L = "49"
+R_PCT = ".637"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "58"
+R_PCT = ".579"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "58"
+R_PCT = ".576"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "73"
+R_PCT = ".467"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "77"
+R_PCT = ".450"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "76"
+R_PCT = ".445"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "76"
+R_PCT = ".445"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "83"
+R_PCT = ".403"
+
+
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

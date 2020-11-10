@@ -1,0 +1,50 @@
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2196"
+F_A = "1006"
+F_E = "193"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Medicine Hat"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2238"
+F_A = "1061"
+F_E = "224"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Lethbridge"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2189"
+F_A = "1024"
+F_E = "281"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2272"
+F_A = "1076"
+F_E = "249"
+F_PCT = ".931"

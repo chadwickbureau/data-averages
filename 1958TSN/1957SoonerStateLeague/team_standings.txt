@@ -1,0 +1,186 @@
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "51"
+R_T = "0"
+R_PCT = ".592"
+R_RANK = "1"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "52"
+R_T = "0"
+R_PCT = ".587"
+R_RANK = "2"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "55"
+R_T = "0"
+R_PCT = ".563"
+R_RANK = "3"
+
+
+[[team]]
+name = "Shawnee"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "62"
+R_T = "0"
+R_PCT = ".508"
+R_RANK = "4"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "63"
+R_T = "0"
+R_PCT = ".496"
+R_RANK = "5"
+
+
+[[team]]
+name = "Lawton"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "66"
+R_T = "0"
+R_PCT = ".472"
+R_RANK = "6"
+
+
+[[team]]
+name = "Ponca City"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "74"
+R_T = "0"
+R_PCT = ".413"
+R_RANK = "7"
+
+
+[[team]]
+name = "Seminole"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "79"
+R_T = "0"
+R_PCT = ".368"
+R_RANK = "8"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Shawnee"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "3"
+R_RANK = "2"
+
+
+[[team]]
+name = "Ardmoore"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "0"
+R_L = "3"
+R_RANK = "2"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_RANK = "2"

@@ -1,0 +1,150 @@
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4368"
+B_R = "520"
+B_H = "1063"
+B_2B = "153"
+B_3B = "59"
+B_HR = "14"
+B_TB = "1376"
+B_SH = "211"
+B_SB = "253"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4544"
+B_R = "526"
+B_H = "1095"
+B_2B = "161"
+B_3B = "46"
+B_HR = "25"
+B_TB = "1423"
+B_SH = "171"
+B_SB = "168"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4361"
+B_R = "447"
+B_H = "1049"
+B_2B = "135"
+B_3B = "38"
+B_HR = "9"
+B_TB = "1287"
+B_SH = "226"
+B_SB = "245"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4696"
+B_R = "475"
+B_H = "1123"
+B_2B = "148"
+B_3B = "74"
+B_HR = "19"
+B_TB = "1476"
+B_SH = "212"
+B_SB = "164"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4555"
+B_R = "468"
+B_H = "1090"
+B_2B = "142"
+B_3B = "49"
+B_HR = "7"
+B_TB = "1351"
+B_SH = "180"
+B_SB = "287"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4410"
+B_R = "483"
+B_H = "946"
+B_2B = "109"
+B_3B = "33"
+B_HR = "7"
+B_TB = "1142"
+B_SH = "201"
+B_SB = "182"
+B_AVG = ".215"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4275"
+B_R = "380"
+B_H = "903"
+B_2B = "119"
+B_3B = "39"
+B_HR = "12"
+B_TB = "1136"
+B_SH = "194"
+B_SB = "174"
+B_AVG = ".211"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4535"
+B_R = "330"
+B_H = "900"
+B_2B = "92"
+B_3B = "37"
+B_HR = "10"
+B_TB = "1096"
+B_SH = "139"
+B_SB = "155"
+B_AVG = ".198"

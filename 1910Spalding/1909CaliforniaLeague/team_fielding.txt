@@ -1,0 +1,96 @@
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "4039"
+F_A = "1989"
+F_E = "317"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+F_PO = "4371"
+F_A = "2104"
+F_E = "292"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3744"
+F_A = "1951"
+F_E = "279"
+F_PCT = ".953"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "88"
+F_PO = "2304"
+F_A = "1157"
+F_E = "182"
+F_PCT = ".950"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "96"
+F_PO = "2560"
+F_A = "1338"
+F_E = "220"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Santa Cruz"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "96"
+F_PO = "2598"
+F_A = "1171"
+F_E = "214"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "45"
+F_PO = "1221"
+F_A = "568"
+F_E = "109"
+F_PCT = ".943"

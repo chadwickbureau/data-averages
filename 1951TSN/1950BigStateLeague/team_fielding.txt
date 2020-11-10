@@ -1,0 +1,134 @@
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "115"
+F_PB = "18"
+F_PO = "3711"
+F_A = "1507"
+F_E = "181"
+F_PCT = ".966"
+F_TP = "0"
+
+
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "146"
+F_PB = "18"
+F_PO = "3780"
+F_A = "1601"
+F_E = "207"
+F_PCT = ".963"
+F_TP = "0"
+
+
+[[team]]
+name = "Sherman-Denison"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_DP = "107"
+F_PB = "33"
+F_PO = "3803"
+F_A = "1552"
+F_E = "213"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "145"
+F_DP = "123"
+F_PB = "23"
+F_PO = "3751"
+F_A = "1458"
+F_E = "208"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "190"
+F_PB = "12"
+F_PO = "3818"
+F_A = "1708"
+F_E = "227"
+F_PCT = ".961"
+F_TP = "0"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_DP = "134"
+F_PB = "11"
+F_PO = "3791"
+F_A = "1552"
+F_E = "225"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "142"
+F_PB = "33"
+F_PO = "3842"
+F_A = "1606"
+F_E = "240"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_DP = "134"
+F_PB = "37"
+F_PO = "3749"
+F_A = "1571"
+F_E = "240"
+F_PCT = ".957"
+F_TP = "1"

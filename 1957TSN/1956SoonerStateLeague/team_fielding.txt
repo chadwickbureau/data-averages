@@ -1,0 +1,134 @@
+[[team]]
+name = "Lawton"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "131"
+F_PB = "17"
+F_PO = "3612"
+F_A = "1409"
+F_E = "300"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "92"
+F_PB = "30"
+F_PO = "3632"
+F_A = "1363"
+F_E = "309"
+F_PCT = ".942"
+F_TP = "0"
+
+
+[[team]]
+name = "Ponca City"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "88"
+F_PB = "31"
+F_PO = "3620"
+F_A = "1299"
+F_E = "315"
+F_PCT = ".939"
+F_TP = "0"
+
+
+[[team]]
+name = "Seminole"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "80"
+F_PB = "25"
+F_PO = "3595"
+F_A = "1321"
+F_E = "316"
+F_PCT = ".939"
+F_TP = "0"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "97"
+F_PB = "40"
+F_PO = "3596"
+F_A = "1418"
+F_E = "336"
+F_PCT = ".937"
+F_TP = "0"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "114"
+F_PB = "63"
+F_PO = "3637"
+F_A = "1455"
+F_E = "342"
+F_PCT = ".937"
+F_TP = "1"
+
+
+[[team]]
+name = "Shawnee"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "107"
+F_PB = "28"
+F_PO = "3609"
+F_A = "1333"
+F_E = "350"
+F_PCT = ".933"
+F_TP = "2"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1956"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "120"
+F_PB = "32"
+F_PO = "3589"
+F_A = "1334"
+F_E = "372"
+F_PCT = ".929"
+F_TP = "0"

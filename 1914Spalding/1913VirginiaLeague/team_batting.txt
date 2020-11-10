@@ -1,0 +1,124 @@
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4619"
+B_R = "604"
+B_H = "1172"
+B_2B = "152"
+B_3B = "57"
+B_HR = "10"
+B_SB = "234"
+B_SH = "144"
+B_SO = "589"
+B_BB = "359"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4501"
+B_R = "556"
+B_H = "1135"
+B_2B = "149"
+B_3B = "63"
+B_HR = "25"
+B_SB = "328"
+B_SH = "137"
+B_SO = "670"
+B_BB = "341"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4413"
+B_R = "495"
+B_H = "1072"
+B_2B = "148"
+B_3B = "45"
+B_HR = "31"
+B_SB = "248"
+B_SH = "139"
+B_SO = "670"
+B_BB = "416"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4441"
+B_R = "486"
+B_H = "1074"
+B_2B = "170"
+B_3B = "27"
+B_HR = "21"
+B_SB = "231"
+B_SH = "188"
+B_SO = "577"
+B_BB = "324"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4605"
+B_R = "516"
+B_H = "1068"
+B_2B = "202"
+B_3B = "61"
+B_HR = "32"
+B_SB = "224"
+B_SH = "199"
+B_SO = "530"
+B_BB = "336"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4442"
+B_R = "439"
+B_H = "996"
+B_2B = "140"
+B_3B = "43"
+B_HR = "18"
+B_SB = "204"
+B_SH = "349"
+B_SO = "702"
+B_BB = "358"
+B_AVG = ".224"

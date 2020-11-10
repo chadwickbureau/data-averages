@@ -1,0 +1,110 @@
+[[team]]
+name = "South Bend/Grand Rapids"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3583"
+F_A = "1781"
+F_E = "216"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Zanesville"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3381"
+F_A = "1790"
+F_E = "223"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Grand Rapids/Newark"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3576"
+F_A = "1681"
+F_E = "232"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3715"
+F_A = "1745"
+F_E = "247"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Evansville/South Bend"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3456"
+F_A = "1740"
+F_E = "238"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3686"
+F_A = "1615"
+F_E = "251"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3323"
+F_A = "1637"
+F_E = "261"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3483"
+F_A = "1647"
+F_E = "320"
+F_PCT = ".941"

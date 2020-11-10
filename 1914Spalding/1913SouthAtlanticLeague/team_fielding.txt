@@ -1,0 +1,82 @@
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3292"
+F_A = "1456"
+F_E = "199"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "2889"
+F_A = "1571"
+F_E = "217"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3138"
+F_A = "1630"
+F_E = "233"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3007"
+F_A = "1457"
+F_E = "231"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3050"
+F_A = "1520"
+F_E = "264"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3255"
+F_A = "1347"
+F_E = "290"
+F_PCT = ".941"

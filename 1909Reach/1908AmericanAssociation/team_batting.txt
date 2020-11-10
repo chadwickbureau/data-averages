@@ -1,0 +1,158 @@
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4952"
+B_R = "569"
+B_H = "1310"
+B_TB = "1662"
+B_2B = "236"
+B_3B = "31"
+B_HR = "18"
+B_SH = "172"
+B_SB = "152"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4949"
+B_R = "604"
+B_H = "1308"
+B_TB = "1711"
+B_2B = "252"
+B_3B = "35"
+B_HR = "27"
+B_SH = "201"
+B_SB = "199"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4930"
+B_R = "536"
+B_H = "1233"
+B_TB = "1576"
+B_2B = "156"
+B_3B = "62"
+B_HR = "21"
+B_SH = "247"
+B_SB = "200"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5038"
+B_R = "610"
+B_H = "1236"
+B_TB = "1586"
+B_2B = "190"
+B_3B = "56"
+B_HR = "16"
+B_SH = "240"
+B_SB = "199"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4822"
+B_R = "550"
+B_H = "1169"
+B_TB = "1474"
+B_2B = "159"
+B_3B = "40"
+B_HR = "22"
+B_SH = "218"
+B_SB = "230"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4789"
+B_R = "504"
+B_H = "1122"
+B_TB = "1428"
+B_2B = "153"
+B_3B = "42"
+B_HR = "23"
+B_SH = "163"
+B_SB = "162"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4917"
+B_R = "556"
+B_H = "1144"
+B_TB = "1417"
+B_2B = "177"
+B_3B = "36"
+B_HR = "8"
+B_SH = "212"
+B_SB = "223"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1908"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4878"
+B_R = "543"
+B_H = "1129"
+B_TB = "1501"
+B_2B = "204"
+B_3B = "45"
+B_HR = "26"
+B_SH = "195"
+B_SB = "169"
+B_AVG = ".231"

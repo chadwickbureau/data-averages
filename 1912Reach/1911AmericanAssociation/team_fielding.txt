@@ -1,0 +1,110 @@
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_PO = "4406"
+F_A = "2169"
+F_E = "275"
+F_PCT = ".960"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "166"
+F_PO = "4415"
+F_A = "2072"
+F_E = "325"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_PO = "4526"
+F_A = "2249"
+F_E = "358"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "167"
+F_PO = "4408"
+F_A = "2210"
+F_E = "346"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "170"
+F_PO = "4446"
+F_A = "2283"
+F_E = "358"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "167"
+F_PO = "4437"
+F_A = "2284"
+F_E = "377"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "165"
+F_PO = "4375"
+F_A = "2212"
+F_E = "365"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "165"
+F_PO = "4354"
+F_A = "2207"
+F_E = "368"
+F_PCT = ".947"

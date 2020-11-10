@@ -1,0 +1,134 @@
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "92"
+F_PB = "8"
+F_PO = "3248"
+F_A = "1318"
+F_E = "200"
+F_TP = "1"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "110"
+F_PB = "21"
+F_PO = "3292"
+F_A = "1414"
+F_E = "213"
+F_TP = "0"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "102"
+F_PB = "10"
+F_PO = "3361"
+F_A = "1347"
+F_E = "230"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "111"
+F_PB = "33"
+F_PO = "3270"
+F_A = "1289"
+F_E = "223"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "108"
+F_PB = "14"
+F_PO = "3262"
+F_A = "1303"
+F_E = "225"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "98"
+F_PB = "28"
+F_PO = "3260"
+F_A = "1297"
+F_E = "223"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "98"
+F_PB = "16"
+F_PO = "3315"
+F_A = "1350"
+F_E = "242"
+F_TP = "1"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "120"
+F_PB = "29"
+F_PO = "3278"
+F_A = "1434"
+F_E = "257"
+F_TP = "0"
+F_PCT = ".948"

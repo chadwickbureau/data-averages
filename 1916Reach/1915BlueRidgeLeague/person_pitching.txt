@@ -1,0 +1,795 @@
+[[person]]
+name.last = "Welcher"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "85"
+P_AB = "315"
+P_H = "81"
+P_R = "27"
+P_HP = "3"
+P_BB = "34"
+P_SO = "18"
+P_WP = "1"
+P_W = "8"
+P_L = "0"
+P_T = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Scherdell"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hanover"
+[person.playing.totals]
+P_IP = "159"
+P_AB = "597"
+P_H = "150"
+P_R = "48"
+P_HP = "11"
+P_BB = "39"
+P_SO = "95"
+P_WP = "1"
+P_W = "15"
+P_L = "3"
+P_T = "0"
+P_PCT = ".833"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frederick"
+[person.playing.totals]
+P_IP = "185.1"
+P_AB = "672"
+P_H = "114"
+P_R = "39"
+P_HP = "9"
+P_BB = "49"
+P_SO = "140"
+P_WP = "5"
+P_W = "17"
+P_L = "4"
+P_T = "0"
+P_PCT = ".810"
+
+
+[[person]]
+name.last = "Stevens"
+name.given = "B."
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frederick"
+[person.playing.totals]
+P_IP = "154"
+P_AB = "566"
+P_H = "118"
+P_R = "47"
+P_HP = "7"
+P_BB = "27"
+P_SO = "78"
+P_WP = "3"
+P_W = "14"
+P_L = "4"
+P_T = "0"
+P_PCT = ".778"
+
+
+[[person]]
+name.last = "Kleskie"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[person.playing.totals]
+P_IP = "53.1"
+P_AB = "200"
+P_H = "55"
+P_R = "32"
+P_HP = "10"
+P_BB = "30"
+P_SO = "23"
+P_WP = "1"
+P_W = "3"
+P_L = "1"
+P_T = "2"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Douglas"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Martinsburg"
+[person.playing.totals]
+P_IP = "111"
+P_AB = "404"
+P_H = "71"
+P_R = "32"
+P_HP = "2"
+P_BB = "17"
+P_SO = "55"
+P_WP = "1"
+P_W = "9"
+P_L = "4"
+P_T = "0"
+P_PCT = ".692"
+
+
+[[person]]
+name.last = "Mumford"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Martinsburg"
+[person.playing.totals]
+P_IP = "122"
+P_AB = "468"
+P_H = "93"
+P_R = "48"
+P_HP = "3"
+P_BB = "40"
+P_SO = "64"
+P_WP = "9"
+P_W = "12"
+P_L = "6"
+P_T = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Hoffecker"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Martinsburg"
+[person.playing.totals]
+P_IP = "181.2"
+P_AB = "650"
+P_H = "121"
+P_R = "63"
+P_HP = "3"
+P_BB = "63"
+P_SO = "100"
+P_WP = "5"
+P_W = "11"
+P_L = "6"
+P_T = "2"
+P_PCT = ".647"
+
+
+[[person]]
+name.last = "Heavener"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "117"
+P_AB = "415"
+P_H = "96"
+P_R = "38"
+P_HP = "0"
+P_BB = "37"
+P_SO = "78"
+P_WP = "5"
+P_W = "8"
+P_L = "6"
+P_T = "0"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Smallwood"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hanover"
+[person.playing.totals]
+P_IP = "81.2"
+P_AB = "306"
+P_H = "73"
+P_R = "30"
+P_HP = "4"
+P_BB = "11"
+P_SO = "55"
+P_WP = "3"
+P_W = "5"
+P_L = "4"
+P_T = "0"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Norton"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frederick"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "93.2"
+P_AB = "371"
+P_H = "92"
+P_R = "50"
+P_HP = "5"
+P_BB = "31"
+P_SO = "47"
+P_WP = "5"
+P_W = "6"
+P_L = "5"
+P_T = "1"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Stricker"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[person.playing.totals]
+P_IP = "197.2"
+P_AB = "714"
+P_H = "133"
+P_R = "81"
+P_HP = "8"
+P_BB = "90"
+P_SO = "170"
+P_WP = "7"
+P_W = "11"
+P_L = "11"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Clarke"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Martinsburg"
+[person.playing.totals]
+P_IP = "143.1"
+P_AB = "551"
+P_H = "127"
+P_R = "59"
+P_HP = "7"
+P_BB = "42"
+P_SO = "78"
+P_WP = "0"
+P_W = "7"
+P_L = "7"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Kunkle"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hanover"
+[person.playing.totals]
+P_IP = "87.2"
+P_AB = "324"
+P_H = "80"
+P_R = "34"
+P_HP = "5"
+P_BB = "30"
+P_SO = "38"
+P_WP = "0"
+P_W = "4"
+P_L = "4"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hanover"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "56.2"
+P_AB = "215"
+P_H = "57"
+P_R = "32"
+P_HP = "6"
+P_BB = "26"
+P_SO = "42"
+P_WP = "1"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Sherman"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hanover"
+[person.playing.totals]
+P_IP = "171.2"
+P_AB = "615"
+P_H = "143"
+P_R = "64"
+P_HP = "11"
+P_BB = "53"
+P_SO = "127"
+P_WP = "2"
+P_W = "9"
+P_L = "10"
+P_T = "1"
+P_PCT = ".474"
+
+
+[[person]]
+name.last = "Peck"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frederick"
+[person.playing.totals]
+P_IP = "105.1"
+P_AB = "391"
+P_H = "82"
+P_R = "37"
+P_HP = "7"
+P_BB = "14"
+P_SO = "45"
+P_WP = "0"
+P_W = "6"
+P_L = "7"
+P_T = "0"
+P_PCT = ".462"
+
+
+[[person]]
+name.last = "Greenwell"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gettysburg"
+[person.playing.totals]
+P_IP = "143.2"
+P_AB = "568"
+P_H = "142"
+P_R = "66"
+P_HP = "3"
+P_BB = "17"
+P_SO = "79"
+P_WP = "1"
+P_W = "7"
+P_L = "9"
+P_T = "1"
+P_PCT = ".438"
+
+
+[[person]]
+name.last = "Barton"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "58"
+P_AB = "200"
+P_H = "46"
+P_R = "24"
+P_HP = "1"
+P_BB = "17"
+P_SO = "20"
+P_WP = "0"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Bitters"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[[person.playing.split]]
+team.name = "Gettysburg"
+[person.playing.totals]
+P_IP = "52.2"
+P_AB = "183"
+P_H = "48"
+P_R = "29"
+P_HP = "8"
+P_BB = "23"
+P_SO = "24"
+P_WP = "2"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Howard"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gettysburg"
+[person.playing.totals]
+P_IP = "227.1"
+P_AB = "836"
+P_H = "201"
+P_R = "67"
+P_HP = "8"
+P_BB = "58"
+P_SO = "160"
+P_WP = "4"
+P_W = "10"
+P_L = "14"
+P_T = "2"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Herrell"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gettysburg"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "103"
+P_AB = "391"
+P_H = "97"
+P_R = "57"
+P_HP = "9"
+P_BB = "34"
+P_SO = "58"
+P_WP = "6"
+P_W = "6"
+P_L = "9"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Eldridge"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frederick"
+[person.playing.totals]
+P_IP = "61.1"
+P_AB = "236"
+P_H = "62"
+P_R = "28"
+P_HP = "0"
+P_BB = "7"
+P_SO = "22"
+P_WP = "0"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Jameson"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[person.playing.totals]
+P_IP = "95.2"
+P_AB = "385"
+P_H = "92"
+P_R = "53"
+P_HP = "6"
+P_BB = "22"
+P_SO = "57"
+P_WP = "1"
+P_W = "4"
+P_L = "7"
+P_T = "1"
+P_PCT = ".364"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "108.1"
+P_AB = "380"
+P_H = "93"
+P_R = "34"
+P_HP = "2"
+P_BB = "28"
+P_SO = "64"
+P_WP = "5"
+P_W = "4"
+P_L = "8"
+P_T = "1"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Stewart"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[person.playing.totals]
+P_IP = "78"
+P_AB = "290"
+P_H = "86"
+P_R = "40"
+P_HP = "0"
+P_BB = "21"
+P_SO = "25"
+P_WP = "0"
+P_W = "3"
+P_L = "6"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Cotter"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "64.2"
+P_AB = "221"
+P_H = "52"
+P_R = "32"
+P_HP = "5"
+P_BB = "33"
+P_SO = "39"
+P_WP = "0"
+P_W = "3"
+P_L = "6"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hanover"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "78"
+P_AB = "289"
+P_H = "76"
+P_R = "34"
+P_HP = "4"
+P_BB = "22"
+P_SO = "48"
+P_WP = "1"
+P_W = "3"
+P_L = "6"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Kelly"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Martinsburg"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "85"
+P_AB = "341"
+P_H = "87"
+P_R = "49"
+P_HP = "7"
+P_BB = "22"
+P_SO = "67"
+P_WP = "0"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Boyd"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hagerstown"
+[person.playing.totals]
+P_IP = "47"
+P_AB = "163"
+P_H = "32"
+P_R = "34"
+P_HP = "6"
+P_BB = "22"
+P_SO = "31"
+P_WP = "3"
+P_W = "2"
+P_L = "5"
+P_T = "0"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Stair"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gettysburg"
+[person.playing.totals]
+P_IP = "148"
+P_AB = "547"
+P_H = "119"
+P_R = "70"
+P_HP = "12"
+P_BB = "56"
+P_SO = "83"
+P_WP = "9"
+P_W = "4"
+P_L = "11"
+P_T = "1"
+P_PCT = ".267"
+
+
+[[person]]
+name.last = "Holbig"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[person.playing.totals]
+P_IP = "61"
+P_AB = "236"
+P_H = "65"
+P_R = "40"
+P_HP = "6"
+P_BB = "24"
+P_SO = "39"
+P_WP = "3"
+P_W = "2"
+P_L = "6"
+P_T = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hanover"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[person.playing.totals]
+P_IP = "68"
+P_AB = "270"
+P_H = "76"
+P_R = "43"
+P_HP = "3"
+P_BB = "15"
+P_SO = "18"
+P_WP = "1"
+P_W = "2"
+P_L = "6"
+P_T = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Yates"
+[[person.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chambersburg"
+[person.playing.totals]
+P_IP = "70.2"
+P_AB = "273"
+P_H = "82"
+P_R = "39"
+P_HP = "1"
+P_BB = "13"
+P_SO = "16"
+P_WP = "1"
+P_W = "2"
+P_L = "7"
+P_T = "0"
+P_PCT = ".222"

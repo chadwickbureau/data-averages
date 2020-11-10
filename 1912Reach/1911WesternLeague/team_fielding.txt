@@ -1,0 +1,110 @@
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4465"
+F_A = "2126"
+F_E = "249"
+F_PB = "15"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4459"
+F_A = "2173"
+F_E = "266"
+F_PB = "18"
+F_PCT = ".961"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4358"
+F_A = "2155"
+F_E = "280"
+F_PB = "13"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4336"
+F_A = "2013"
+F_E = "277"
+F_PB = "26"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4551"
+F_A = "2301"
+F_E = "299"
+F_PB = "28"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4558"
+F_A = "2248"
+F_E = "382"
+F_PB = "31"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4264"
+F_A = "2107"
+F_E = "376"
+F_PB = "24"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4291"
+F_A = "2069"
+F_E = "413"
+F_PB = "26"
+F_PCT = ".940"

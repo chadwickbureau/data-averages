@@ -1,0 +1,112 @@
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "4254"
+B_R = "856"
+B_H = "1324"
+B_2B = "231"
+B_3B = "93"
+B_HR = "53"
+B_SH = "161"
+B_SB = "196"
+B_AVG = ".311"
+
+
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3789"
+B_R = "620"
+B_H = "1101"
+B_2B = "157"
+B_3B = "82"
+B_HR = "27"
+B_SH = "170"
+B_SB = "148"
+B_AVG = ".291"
+
+
+[[team]]
+name = "Helena"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3964"
+B_R = "656"
+B_H = "1121"
+B_2B = "194"
+B_3B = "68"
+B_HR = "28"
+B_SH = "143"
+B_SB = "142"
+B_AVG = ".283"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3843"
+B_R = "612"
+B_H = "1086"
+B_2B = "138"
+B_3B = "62"
+B_HR = "29"
+B_SH = "249"
+B_SB = "228"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4277"
+B_R = "755"
+B_H = "1205"
+B_2B = "201"
+B_3B = "69"
+B_HR = "27"
+B_SH = "186"
+B_SB = "197"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Ogden"
+[[team.playing]]
+season = "1913"
+league.name = "Union Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3999"
+B_R = "634"
+B_H = "1073"
+B_2B = "197"
+B_3B = "51"
+B_HR = "36"
+B_SH = "122"
+B_SB = "118"
+B_AVG = ".268"

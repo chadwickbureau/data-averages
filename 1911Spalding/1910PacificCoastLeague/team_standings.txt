@@ -1,0 +1,76 @@
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "114"
+R_L = "87"
+R_PCT = ".567"
+R_RANK = "1"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "122"
+R_L = "98"
+R_PCT = ".555"
+R_RANK = "2"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "114"
+R_L = "106"
+R_PCT = ".518"
+R_RANK = "3"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "113"
+R_L = "107"
+R_PCT = ".514"
+R_RANK = "4"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "101"
+R_L = "121"
+R_PCT = ".455"
+R_RANK = "5"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "83"
+R_L = "128"
+R_PCT = ".393"
+R_RANK = "6"

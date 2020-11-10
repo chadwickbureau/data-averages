@@ -1,0 +1,4339 @@
+[[person]]
+name.last = "Aguilar"
+name.given = "Jose"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "6"
+B_AB = "8"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "3"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Almeida"
+name.given = "Reynaldo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "15"
+B_AB = "16"
+B_R = "1"
+B_H = "2"
+B_TB = "4"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "6"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Alvarado"
+name.given = "Natanael"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "36"
+B_AB = "132"
+B_R = "18"
+B_H = "42"
+B_TB = "57"
+B_2B = "5"
+B_3B = "2"
+B_HR = "2"
+B_RBI = "12"
+B_SH = "1"
+B_SF = "1"
+B_BB = "14"
+B_HP = "1"
+B_SO = "14"
+B_SB = "3"
+B_CS = "3"
+B_AVG = ".318"
+B_AVG_RANK = "9"
+
+
+[[person]]
+name.last = "Alvarez"
+name.given = "Manuel"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "33"
+B_AB = "97"
+B_R = "14"
+B_H = "23"
+B_TB = "33"
+B_2B = "4"
+B_3B = "3"
+B_HR = "0"
+B_RBI = "13"
+B_SH = "0"
+B_SF = "3"
+B_BB = "17"
+B_HP = "0"
+B_SO = "19"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Balaz"
+name.given = "John"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "28"
+B_AB = "97"
+B_R = "11"
+B_H = "23"
+B_TB = "33"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_RBI = "10"
+B_SH = "1"
+B_SF = "1"
+B_BB = "11"
+B_HP = "0"
+B_SO = "14"
+B_SB = "2"
+B_CS = "0"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Batista"
+name.given = "Rafael"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "32"
+B_AB = "112"
+B_R = "13"
+B_H = "34"
+B_TB = "54"
+B_2B = "11"
+B_3B = "0"
+B_HR = "3"
+B_RBI = "20"
+B_SH = "0"
+B_SF = "2"
+B_BB = "13"
+B_HP = "1"
+B_SO = "29"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Biagini"
+name.given = "Gregory"
+description.bats = "S"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "31"
+B_AB = "99"
+B_R = "17"
+B_H = "31"
+B_TB = "43"
+B_2B = "3"
+B_3B = "0"
+B_HR = "3"
+B_RBI = "12"
+B_SH = "0"
+B_SF = "1"
+B_BB = "24"
+B_HP = "0"
+B_SO = "14"
+B_SB = "0"
+B_CS = "1"
+B_AVG = ".313"
+B_AVG_RANK = "10"
+
+
+[[person]]
+name.last = "Bobadilla"
+name.given = "Manuel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "28"
+B_AB = "88"
+B_R = "5"
+B_H = "21"
+B_TB = "24"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "6"
+B_SH = "0"
+B_SF = "0"
+B_BB = "6"
+B_HP = "0"
+B_SO = "11"
+B_SB = "1"
+B_CS = "1"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Bojorquez"
+name.given = "Jose"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "29"
+B_AB = "92"
+B_R = "6"
+B_H = "23"
+B_TB = "31"
+B_2B = "5"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "9"
+B_SH = "3"
+B_SF = "1"
+B_BB = "6"
+B_HP = "0"
+B_SO = "14"
+B_SB = "1"
+B_CS = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Briones"
+name.given = "Antonio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "39"
+B_AB = "154"
+B_R = "14"
+B_H = "47"
+B_TB = "58"
+B_2B = "5"
+B_3B = "3"
+B_HR = "0"
+B_RBI = "13"
+B_SH = "5"
+B_SF = "1"
+B_BB = "13"
+B_HP = "0"
+B_SO = "12"
+B_SB = "18"
+B_CS = "2"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "Cabrera"
+name.given = "Jorge"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "14"
+B_AB = "36"
+B_R = "4"
+B_H = "13"
+B_TB = "13"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "7"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".361"
+
+
+[[person]]
+name.last = "Cerda"
+name.given = "Benjamin"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "27"
+B_AB = "90"
+B_R = "5"
+B_H = "21"
+B_TB = "25"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "4"
+B_SH = "0"
+B_SF = "0"
+B_BB = "6"
+B_HP = "0"
+B_SO = "7"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Chavarria"
+name.given = "Miguel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "36"
+B_AB = "122"
+B_R = "17"
+B_H = "33"
+B_TB = "37"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "7"
+B_SH = "2"
+B_SF = "2"
+B_BB = "12"
+B_HP = "2"
+B_SO = "18"
+B_SB = "5"
+B_CS = "1"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Chavez"
+name.given = "Franco B."
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "3"
+B_AB = "12"
+B_R = "1"
+B_H = "4"
+B_TB = "6"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "3"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "3"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Chavez"
+name.given = "Guadalupe B."
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "37"
+B_AB = "117"
+B_R = "13"
+B_H = "24"
+B_TB = "29"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "9"
+B_SH = "8"
+B_SF = "2"
+B_BB = "11"
+B_HP = "0"
+B_SO = "18"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".205"
+
+
+[[person]]
+name.last = "Chavez"
+name.given = "Guadalupe G."
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "8"
+B_AB = "10"
+B_R = "1"
+B_H = "2"
+B_TB = "4"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "3"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Collins"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "39"
+B_AB = "137"
+B_R = "25"
+B_H = "52"
+B_TB = "72"
+B_2B = "8"
+B_3B = "3"
+B_HR = "2"
+B_RBI = "31"
+B_SH = "0"
+B_SF = "1"
+B_BB = "15"
+B_HP = "1"
+B_SO = "12"
+B_SB = "5"
+B_CS = "4"
+B_AVG = ".380"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Collins"
+name.given = "Silvester"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "24"
+B_AB = "89"
+B_R = "7"
+B_H = "23"
+B_TB = "31"
+B_2B = "2"
+B_3B = "3"
+B_HR = "0"
+B_RBI = "4"
+B_SH = "2"
+B_SF = "0"
+B_BB = "4"
+B_HP = "1"
+B_SO = "16"
+B_SB = "3"
+B_CS = "1"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Contreras"
+name.given = "Juan C."
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "20"
+B_AB = "64"
+B_R = "5"
+B_H = "16"
+B_TB = "18"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "5"
+B_SH = "3"
+B_SF = "0"
+B_BB = "3"
+B_HP = "1"
+B_SO = "7"
+B_SB = "6"
+B_CS = "0"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Contreras"
+name.given = "Juan V."
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "23"
+B_AB = "73"
+B_R = "2"
+B_H = "12"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "5"
+B_SH = "1"
+B_SF = "1"
+B_BB = "2"
+B_HP = "0"
+B_SO = "12"
+B_SB = "3"
+B_CS = "1"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Cruz"
+name.given = "Domingo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "27"
+B_AB = "78"
+B_R = "5"
+B_H = "19"
+B_TB = "24"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "5"
+B_SH = "2"
+B_SF = "0"
+B_BB = "4"
+B_HP = "3"
+B_SO = "6"
+B_SB = "1"
+B_CS = "3"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Davila"
+name.given = "Luis"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "37"
+B_AB = "126"
+B_R = "13"
+B_H = "31"
+B_TB = "39"
+B_2B = "6"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "9"
+B_SH = "3"
+B_SF = "2"
+B_BB = "19"
+B_HP = "0"
+B_SO = "15"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "DeFreites"
+name.given = "Arturo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "37"
+B_AB = "123"
+B_R = "9"
+B_H = "32"
+B_TB = "35"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "16"
+B_SH = "0"
+B_SF = "2"
+B_BB = "9"
+B_HP = "1"
+B_SO = "25"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Delgado"
+name.given = "Manuel"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "1"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Deliza"
+name.given = "Juan"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "30"
+B_AB = "115"
+B_R = "12"
+B_H = "35"
+B_TB = "36"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "8"
+B_SH = "1"
+B_SF = "1"
+B_BB = "6"
+B_HP = "0"
+B_SO = "13"
+B_SB = "6"
+B_CS = "4"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Espino"
+name.given = "Hector"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "35"
+B_AB = "110"
+B_R = "23"
+B_H = "36"
+B_TB = "45"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "18"
+B_SH = "0"
+B_SF = "4"
+B_BB = "22"
+B_HP = "5"
+B_SO = "4"
+B_SB = "0"
+B_CS = "1"
+B_AVG = ".327"
+B_AVG_RANK = "6"
+
+
+[[person]]
+name.last = "Esqueda"
+name.given = "Carlos"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "14"
+B_AB = "31"
+B_R = "2"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "0"
+B_SF = "0"
+B_BB = "2"
+B_HP = "0"
+B_SO = "9"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Faudoa"
+name.given = "Victor"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "26"
+B_AB = "80"
+B_R = "5"
+B_H = "26"
+B_TB = "32"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "3"
+B_SF = "0"
+B_BB = "5"
+B_HP = "0"
+B_SO = "8"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Felix"
+name.given = "Victor"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "33"
+B_AB = "99"
+B_R = "22"
+B_H = "26"
+B_TB = "32"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "6"
+B_SH = "1"
+B_SF = "1"
+B_BB = "17"
+B_HP = "1"
+B_SO = "4"
+B_SB = "2"
+B_CS = "2"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Figueroa"
+name.given = "Leobardo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "32"
+B_AB = "106"
+B_R = "10"
+B_H = "27"
+B_TB = "34"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_RBI = "7"
+B_SH = "3"
+B_SF = "1"
+B_BB = "23"
+B_HP = "2"
+B_SO = "10"
+B_SB = "4"
+B_CS = "0"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Garzon"
+name.given = "Felix"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "11"
+B_AB = "33"
+B_R = "3"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "5"
+B_SH = "2"
+B_SF = "1"
+B_BB = "1"
+B_HP = "0"
+B_SO = "6"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Gomez"
+name.given = "Graciano"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "19"
+B_AB = "61"
+B_R = "2"
+B_H = "15"
+B_TB = "18"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "0"
+B_SF = "0"
+B_BB = "2"
+B_HP = "0"
+B_SO = "9"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "Efrain"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "16"
+B_AB = "42"
+B_R = "0"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "3"
+B_SH = "1"
+B_SF = "0"
+B_BB = "1"
+B_HP = "0"
+B_SO = "6"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "Jesus"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "31"
+B_AB = "96"
+B_R = "6"
+B_H = "21"
+B_TB = "22"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "4"
+B_SH = "1"
+B_SF = "2"
+B_BB = "2"
+B_HP = "0"
+B_SO = "14"
+B_SB = "0"
+B_CS = "2"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Guzman"
+name.given = "Andres"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "27"
+B_AB = "87"
+B_R = "6"
+B_H = "23"
+B_TB = "32"
+B_2B = "3"
+B_3B = "3"
+B_HR = "0"
+B_RBI = "6"
+B_SH = "0"
+B_SF = "2"
+B_BB = "3"
+B_HP = "0"
+B_SO = "17"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Guzman"
+name.given = "Marco"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "20"
+B_AB = "46"
+B_R = "6"
+B_H = "15"
+B_TB = "19"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "3"
+B_SH = "0"
+B_SF = "0"
+B_BB = "5"
+B_HP = "0"
+B_SO = "6"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".326"
+
+
+[[person]]
+name.last = "Heras"
+name.given = "Roberto"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "29"
+B_AB = "100"
+B_R = "5"
+B_H = "20"
+B_TB = "24"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "12"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "20"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "Juan"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "28"
+B_AB = "94"
+B_R = "9"
+B_H = "27"
+B_TB = "31"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "7"
+B_SH = "1"
+B_SF = "1"
+B_BB = "3"
+B_HP = "0"
+B_SO = "12"
+B_SB = "4"
+B_CS = "1"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "Miguel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "24"
+B_AB = "65"
+B_R = "4"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "1"
+B_SF = "0"
+B_BB = "1"
+B_HP = "2"
+B_SO = "8"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".123"
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "Pedro"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "22"
+B_AB = "80"
+B_R = "10"
+B_H = "23"
+B_TB = "28"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "5"
+B_SH = "0"
+B_SF = "1"
+B_BB = "3"
+B_HP = "1"
+B_SO = "6"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "Rodolfo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "25"
+B_AB = "75"
+B_R = "2"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "1"
+B_SF = "0"
+B_BB = "4"
+B_HP = "1"
+B_SO = "12"
+B_SB = "2"
+B_CS = "0"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Juarez"
+name.given = "Marcelo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "33"
+B_AB = "105"
+B_R = "12"
+B_H = "27"
+B_TB = "30"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "18"
+B_SH = "2"
+B_SF = "2"
+B_BB = "3"
+B_HP = "1"
+B_SO = "7"
+B_SB = "1"
+B_CS = "2"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Lara"
+name.given = "Armando"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "37"
+B_AB = "125"
+B_R = "13"
+B_H = "24"
+B_TB = "28"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "15"
+B_SH = "3"
+B_SF = "4"
+B_BB = "7"
+B_HP = "0"
+B_SO = "6"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Lara"
+name.given = "Cesar"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "30"
+B_AB = "82"
+B_R = "2"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "3"
+B_SH = "2"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "14"
+B_SB = "1"
+B_CS = "1"
+B_AVG = ".122"
+
+
+[[person]]
+name.last = "Lara"
+name.given = "Francisco"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "9"
+B_AB = "19"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "3"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "2"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".158"
+
+
+[[person]]
+name.last = "Leon"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "3"
+B_AB = "9"
+B_R = "3"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "1"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Llenas"
+name.given = "Winston"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "25"
+B_AB = "84"
+B_R = "12"
+B_H = "22"
+B_TB = "31"
+B_2B = "1"
+B_3B = "1"
+B_HR = "2"
+B_RBI = "14"
+B_SH = "0"
+B_SF = "0"
+B_BB = "2"
+B_HP = "0"
+B_SO = "7"
+B_SB = "2"
+B_CS = "1"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Carlos"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "30"
+B_AB = "105"
+B_R = "14"
+B_H = "35"
+B_TB = "50"
+B_2B = "6"
+B_3B = "0"
+B_HR = "3"
+B_RBI = "15"
+B_SH = "0"
+B_SF = "3"
+B_BB = "5"
+B_HP = "2"
+B_SO = "13"
+B_SB = "2"
+B_CS = "2"
+B_AVG = ".333"
+B_AVG_RANK = "5"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Jaime"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "32"
+B_AB = "115"
+B_R = "8"
+B_H = "28"
+B_TB = "29"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "7"
+B_SH = "0"
+B_SF = "0"
+B_BB = "9"
+B_HP = "0"
+B_SO = "6"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Luque"
+name.given = "Gregorio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "1"
+B_AB = "2"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "1"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Mendoza"
+name.given = "Luis"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "27"
+B_AB = "96"
+B_R = "13"
+B_H = "21"
+B_TB = "24"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "5"
+B_SH = "4"
+B_SF = "0"
+B_BB = "5"
+B_HP = "0"
+B_SO = "6"
+B_SB = "0"
+B_CS = "3"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Mendoza"
+name.given = "Margarito"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "16"
+B_AB = "36"
+B_R = "2"
+B_H = "10"
+B_TB = "13"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "6"
+B_SH = "0"
+B_SF = "0"
+B_BB = "2"
+B_HP = "0"
+B_SO = "6"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Mendoza"
+name.given = "Porfirio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "34"
+B_AB = "133"
+B_R = "16"
+B_H = "31"
+B_TB = "35"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "2"
+B_SF = "0"
+B_BB = "6"
+B_HP = "0"
+B_SO = "10"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Montoya"
+name.given = "Raul"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "28"
+B_AB = "88"
+B_R = "9"
+B_H = "18"
+B_TB = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "7"
+B_SH = "2"
+B_SF = "0"
+B_BB = "6"
+B_HP = "0"
+B_SO = "3"
+B_SB = "3"
+B_CS = "2"
+B_AVG = ".205"
+
+
+[[person]]
+name.last = "Mora"
+name.given = "Andres"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "35"
+B_AB = "110"
+B_R = "19"
+B_H = "32"
+B_TB = "45"
+B_2B = "4"
+B_3B = "0"
+B_HR = "3"
+B_RBI = "21"
+B_SH = "0"
+B_SF = "1"
+B_BB = "16"
+B_HP = "1"
+B_SO = "17"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Morales"
+name.given = "Luis"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "14"
+B_AB = "21"
+B_R = "2"
+B_H = "3"
+B_TB = "7"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_RBI = "3"
+B_SH = "0"
+B_SF = "0"
+B_BB = "1"
+B_HP = "0"
+B_SO = "7"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Munoz"
+name.given = "Eduardo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "36"
+B_AB = "121"
+B_R = "16"
+B_H = "37"
+B_TB = "41"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "6"
+B_SH = "4"
+B_SF = "0"
+B_BB = "18"
+B_HP = "1"
+B_SO = "10"
+B_SB = "3"
+B_CS = "0"
+B_AVG = ".306"
+
+
+[[person]]
+name.last = "Navarrete"
+name.given = "Carlos"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "18"
+B_AB = "55"
+B_R = "4"
+B_H = "15"
+B_TB = "15"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "4"
+B_SH = "1"
+B_SF = "0"
+B_BB = "3"
+B_HP = "0"
+B_SO = "5"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Navarrete"
+name.given = "Juan"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "37"
+B_AB = "142"
+B_R = "22"
+B_H = "51"
+B_TB = "58"
+B_2B = "1"
+B_3B = "3"
+B_HR = "0"
+B_RBI = "17"
+B_SH = "1"
+B_SF = "1"
+B_BB = "8"
+B_HP = "0"
+B_SO = "11"
+B_SB = "7"
+B_CS = "5"
+B_AVG = ".359"
+B_AVG_RANK = "3"
+
+
+[[person]]
+name.last = "Osuna"
+name.given = "Elpidio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "15"
+B_AB = "45"
+B_R = "1"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "0"
+B_SF = "0"
+B_BB = "3"
+B_HP = "0"
+B_SO = "6"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Parra"
+name.given = "Manuel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "39"
+B_AB = "144"
+B_R = "10"
+B_H = "40"
+B_TB = "47"
+B_2B = "4"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "15"
+B_SH = "0"
+B_SF = "0"
+B_BB = "8"
+B_HP = "1"
+B_SO = "19"
+B_SB = "0"
+B_CS = "1"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Pierce"
+name.given = "Jack"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "36"
+B_AB = "128"
+B_R = "18"
+B_H = "31"
+B_TB = "57"
+B_2B = "5"
+B_3B = "0"
+B_HR = "7"
+B_RBI = "18"
+B_SH = "0"
+B_SF = "0"
+B_BB = "14"
+B_HP = "0"
+B_SO = "25"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Quintero"
+name.given = "Victor"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "31"
+B_AB = "78"
+B_R = "13"
+B_H = "24"
+B_TB = "28"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "13"
+B_SH = "1"
+B_SF = "1"
+B_BB = "8"
+B_HP = "0"
+B_SO = "7"
+B_SB = "3"
+B_CS = "1"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Quinones"
+name.given = "Ventura"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "2"
+B_AB = "1"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "1"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Rivera"
+name.given = "Carlos"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "34"
+B_AB = "119"
+B_R = "6"
+B_H = "35"
+B_TB = "43"
+B_2B = "6"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "11"
+B_SH = "2"
+B_SF = "1"
+B_BB = "5"
+B_HP = "0"
+B_SO = "18"
+B_SB = "0"
+B_CS = "2"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Rivera"
+name.given = "Franco"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "16"
+B_AB = "39"
+B_R = "3"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "0"
+B_SF = "0"
+B_BB = "3"
+B_HP = "0"
+B_SO = "13"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".128"
+
+
+[[person]]
+name.last = "Rivero"
+name.given = "Gener"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "36"
+B_AB = "101"
+B_R = "11"
+B_H = "20"
+B_TB = "22"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "5"
+B_SH = "1"
+B_SF = "0"
+B_BB = "9"
+B_HP = "1"
+B_SO = "7"
+B_SB = "2"
+B_CS = "2"
+B_AVG = ".198"
+
+
+[[person]]
+name.last = "Robles"
+name.given = "Humberto"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "1"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Guillermo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "6"
+B_AB = "3"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "0"
+B_SF = "1"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Jaime"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "18"
+B_AB = "54"
+B_R = "8"
+B_H = "16"
+B_TB = "20"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "5"
+B_SH = "0"
+B_SF = "0"
+B_BB = "2"
+B_HP = "0"
+B_SO = "8"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Jose"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "31"
+B_AB = "102"
+B_R = "10"
+B_H = "26"
+B_TB = "26"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "7"
+B_SH = "1"
+B_SF = "0"
+B_BB = "7"
+B_HP = "0"
+B_SO = "6"
+B_SB = "0"
+B_CS = "1"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Jose G."
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "16"
+B_AB = "42"
+B_R = "5"
+B_H = "9"
+B_TB = "11"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "3"
+B_SH = "0"
+B_SF = "1"
+B_BB = "5"
+B_HP = "0"
+B_SO = "11"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Juan"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "36"
+B_AB = "86"
+B_R = "9"
+B_H = "20"
+B_TB = "23"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "14"
+B_SH = "4"
+B_SF = "1"
+B_BB = "3"
+B_HP = "1"
+B_SO = "6"
+B_SB = "1"
+B_CS = "0"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Rodolfo"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "38"
+B_AB = "130"
+B_R = "29"
+B_H = "40"
+B_TB = "51"
+B_2B = "7"
+B_3B = "2"
+B_HR = "0"
+B_RBI = "17"
+B_SH = "0"
+B_SF = "1"
+B_BB = "30"
+B_HP = "0"
+B_SO = "10"
+B_SB = "2"
+B_CS = "5"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Romo"
+name.given = "Jose"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "26"
+B_AB = "79"
+B_R = "5"
+B_H = "21"
+B_TB = "28"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "8"
+B_SH = "0"
+B_SF = "1"
+B_BB = "3"
+B_HP = "0"
+B_SO = "9"
+B_SB = "2"
+B_CS = "0"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Rosales"
+name.given = "Arturo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "28"
+B_AB = "82"
+B_R = "10"
+B_H = "23"
+B_TB = "27"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "9"
+B_SH = "0"
+B_SF = "0"
+B_BB = "4"
+B_HP = "1"
+B_SO = "10"
+B_SB = "2"
+B_CS = "0"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Rosario"
+name.given = "Angel"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "33"
+B_AB = "111"
+B_R = "13"
+B_H = "28"
+B_TB = "38"
+B_2B = "7"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "10"
+B_SH = "0"
+B_SF = "2"
+B_BB = "16"
+B_HP = "0"
+B_SO = "11"
+B_SB = "2"
+B_CS = "1"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Rosas"
+name.given = "Clemente"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "17"
+B_AB = "34"
+B_R = "2"
+B_H = "8"
+B_TB = "11"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "0"
+B_SF = "0"
+B_BB = "2"
+B_HP = "0"
+B_SO = "4"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Sanchez"
+name.given = "Juan"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "30"
+B_AB = "89"
+B_R = "12"
+B_H = "24"
+B_TB = "29"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "8"
+B_SH = "0"
+B_SF = "0"
+B_BB = "5"
+B_HP = "2"
+B_SO = "26"
+B_SB = "1"
+B_CS = "1"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Serna"
+name.given = "Joel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "29"
+B_AB = "97"
+B_R = "9"
+B_H = "31"
+B_TB = "40"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_RBI = "11"
+B_SH = "0"
+B_SF = "2"
+B_BB = "10"
+B_HP = "1"
+B_SO = "16"
+B_SB = "0"
+B_CS = "2"
+B_AVG = ".320"
+B_AVG_RANK = "8"
+
+
+[[person]]
+name.last = "Serratos"
+name.given = "Ramon"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "21"
+B_AB = "28"
+B_R = "3"
+B_H = "8"
+B_TB = "10"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_RBI = "2"
+B_SH = "0"
+B_SF = "0"
+B_BB = "4"
+B_HP = "0"
+B_SO = "2"
+B_SB = "2"
+B_CS = "1"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Silverio"
+name.given = "Tomas"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "34"
+B_AB = "116"
+B_R = "14"
+B_H = "39"
+B_TB = "53"
+B_2B = "9"
+B_3B = "1"
+B_HR = "1"
+B_RBI = "9"
+B_SH = "1"
+B_SF = "0"
+B_BB = "14"
+B_HP = "0"
+B_SO = "16"
+B_SB = "5"
+B_CS = "5"
+B_AVG = ".336"
+B_AVG_RANK = "4"
+
+
+[[person]]
+name.last = "Soto"
+name.given = "Carlos"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "34"
+B_AB = "112"
+B_R = "15"
+B_H = "41"
+B_TB = "57"
+B_2B = "4"
+B_3B = "3"
+B_HR = "2"
+B_RBI = "20"
+B_SH = "0"
+B_SF = "2"
+B_BB = "9"
+B_HP = "2"
+B_SO = "7"
+B_SB = "0"
+B_CS = "3"
+B_AVG = ".366"
+B_AVG_RANK = "2"
+
+
+[[person]]
+name.last = "Suarez"
+name.given = "Miguel"
+description.bats = "L"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "36"
+B_AB = "131"
+B_R = "16"
+B_H = "42"
+B_TB = "50"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_RBI = "8"
+B_SH = "1"
+B_SF = "0"
+B_BB = "4"
+B_HP = "0"
+B_SO = "6"
+B_SB = "0"
+B_CS = "2"
+B_AVG = ".321"
+B_AVG_RANK = "7"
+
+
+[[person]]
+name.last = "Valenzuela"
+name.given = "Guillermo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "13"
+B_AB = "21"
+B_R = "1"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "0"
+B_SF = "0"
+B_BB = "1"
+B_HP = "0"
+B_SO = "4"
+B_SB = "0"
+B_CS = "1"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Valle"
+name.given = "Guadalupe"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "39"
+B_AB = "126"
+B_R = "10"
+B_H = "29"
+B_TB = "38"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_RBI = "13"
+B_SH = "2"
+B_SF = "2"
+B_BB = "12"
+B_HP = "1"
+B_SO = "23"
+B_SB = "1"
+B_CS = "1"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Vega"
+name.given = "Abelardo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "36"
+B_AB = "123"
+B_R = "10"
+B_H = "29"
+B_TB = "31"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "6"
+B_SH = "2"
+B_SF = "1"
+B_BB = "12"
+B_HP = "1"
+B_SO = "13"
+B_SB = "3"
+B_CS = "1"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Villela"
+name.given = "Carlos"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "26"
+B_AB = "85"
+B_R = "6"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "5"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "18"
+B_SB = "2"
+B_CS = "0"
+B_AVG = ".141"
+
+
+[[person]]
+name.last = "Zamora"
+name.given = "Roberto"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "6"
+B_AB = "14"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "1"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "4"
+B_SB = "0"
+B_CS = "0"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Dimas"
+name.given = "Rodolfo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Enriquez"
+name.given = "Jorge"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Garcia"
+name.given = "Rafael"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Gutierrez"
+name.given = "Porfirio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Higueras"
+name.given = "Teodoro"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kekich"
+name.given = "Mike"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Nieblas"
+name.given = "Armando"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Olguin"
+name.given = "Salvador"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Paul"
+name.given = "Mike"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Renteria"
+name.given = "Hilario"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "5"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sanchez"
+name.given = "Daniel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ciudad Juarez"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Acosta"
+name.given = "Cecilio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "9"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Brunet"
+name.given = "George"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Carranza"
+name.given = "Javier"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "15"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Colorado"
+name.given = "Savlador"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Delfin"
+name.given = "Justino"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Leyva"
+name.given = "Jose"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Pena"
+name.given = "Jose"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Quijada"
+name.given = "Armando"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Romo"
+name.given = "Vicente"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Uresti"
+name.given = "Crisanto"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Coatzacoalcos"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Burke"
+name.given = "Steve"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "6"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Castillejos"
+name.given = "Jose"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hughes"
+name.given = "James"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "3"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Hector"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "14"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Ruiz"
+name.given = "Miguel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sauceda"
+name.given = "Ramiro"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "17"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Terlecky"
+name.given = "Gregory"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "3"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "Stan"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Villanueva"
+name.given = "Luis"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "6"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Gary"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "3"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Zaldivar"
+name.given = "Arturo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mexico City Tigers"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Antunez"
+name.given = "Martin"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "3"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Arano"
+name.given = "Ramon"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "9"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Barbosa"
+name.given = "Antonio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Barojas"
+name.given = "Salome"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Buentello"
+name.given = "Israel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Pulido"
+name.given = "Alfonso"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Salinas"
+name.given = "Guadalupe"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "6"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Segui"
+name.given = "Diego"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "6"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Vazquez"
+name.given = "Marco"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "5"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Velazquez"
+name.given = "Agustin"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Vidana"
+name.given = "Alejandro"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reynosa"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Camper"
+name.given = "Cardell"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "11"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "Angel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "15"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Mauleon"
+name.given = "Ignacio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "5"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Menendez"
+name.given = "Rolando"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "10"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Pollorena"
+name.given = "Antonio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "6"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Solis"
+name.given = "Guillermo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "7"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Solis"
+name.given = "Miguel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Torrealba"
+name.given = "Alfredo"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Urrea"
+name.given = "Leonel"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saltillo"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Aguilar"
+name.given = "Rafael"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "5"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Arratia"
+name.given = "Javier"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "6"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Delgado"
+name.given = "Justino"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "6"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Elizalde"
+name.given = "Efrain"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Garcia"
+name.given = "Horacio"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Martinez"
+name.given = "Javier"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Maytorena"
+name.given = "Franco"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "5"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Quintero"
+name.given = "Frank"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "9"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sosa"
+name.given = "Carlos"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Valdez"
+name.given = "Humberto"
+[[person.playing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Union Laguna"
+[person.playing.totals]
+B_G = "8"
+B_AB = "0"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_RBI = "0"
+B_SH = "0"
+B_SF = "0"
+B_BB = "0"
+B_HP = "0"
+B_SO = "0"
+B_SB = "0"
+B_CS = "0"

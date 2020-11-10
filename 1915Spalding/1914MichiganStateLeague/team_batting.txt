@@ -1,0 +1,86 @@
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3849"
+B_R = "575"
+B_H = "1016"
+B_2B = "152"
+B_3B = "76"
+B_HR = "20"
+B_TB = "1380"
+B_SH = "160"
+B_SB = "201"
+B_BB = "334"
+B_SO = "551"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Ludington"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3796"
+B_R = "465"
+B_H = "921"
+B_2B = "156"
+B_3B = "38"
+B_HR = "15"
+B_TB = "1198"
+B_SH = "145"
+B_SB = "178"
+B_BB = "298"
+B_SO = "530"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3799"
+B_R = "449"
+B_H = "861"
+B_2B = "115"
+B_3B = "17"
+B_HR = "6"
+B_TB = "1028"
+B_SH = "157"
+B_SB = "226"
+B_BB = "386"
+B_SO = "504"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Belding"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "3891"
+B_R = "477"
+B_H = "885"
+B_2B = "151"
+B_3B = "17"
+B_HR = "23"
+B_TB = "1139"
+B_SH = "160"
+B_SB = "212"
+B_BB = "379"
+B_SO = "580"
+B_AVG = ".227"

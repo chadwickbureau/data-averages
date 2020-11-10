@@ -1,0 +1,126 @@
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "100"
+F_PB = "27"
+F_PO = "3202"
+F_A = "1149"
+F_E = "206"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "109"
+F_PB = "40"
+F_PO = "3198"
+F_A = "1224"
+F_E = "217"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Corning"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "94"
+F_PB = "31"
+F_PO = "3145"
+F_A = "1281"
+F_E = "239"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_DP = "107"
+F_PB = "24"
+F_PO = "3068"
+F_A = "1298"
+F_E = "238"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "114"
+F_DP = "98"
+F_PB = "35"
+F_PO = "2962"
+F_A = "1103"
+F_E = "224"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_DP = "104"
+F_PB = "20"
+F_PO = "2945"
+F_A = "1063"
+F_E = "246"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "14"
+F_DP = "8"
+F_PB = "0"
+F_PO = "360"
+F_A = "146"
+F_E = "35"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1956"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "12"
+F_DP = "8"
+F_PB = "1"
+F_PO = "300"
+F_A = "135"
+F_E = "35"
+F_PCT = ".926"

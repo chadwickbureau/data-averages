@@ -1,0 +1,658 @@
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_IP = "343"
+P_AB = "1205"
+P_H = "224"
+P_R = "90"
+P_HP = "13"
+P_BB = "92"
+P_SO = "268"
+P_WP = "12"
+P_W = "29"
+P_L = "10"
+P_PCT = ".744"
+
+
+[[person]]
+name.last = "Ferris"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "344"
+P_AB = "1331"
+P_H = "293"
+P_R = "122"
+P_HP = "9"
+P_BB = "50"
+P_SO = "148"
+P_WP = "3"
+P_W = "27"
+P_L = "12"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Fortune"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "309"
+P_AB = "1151"
+P_H = "241"
+P_R = "115"
+P_HP = "7"
+P_BB = "98"
+P_SO = "209"
+P_WP = "9"
+P_W = "22"
+P_L = "10"
+P_PCT = ".687"
+
+
+[[person]]
+name.last = "Pratt"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "135"
+P_AB = "490"
+P_H = "129"
+P_R = "48"
+P_HP = "3"
+P_BB = "16"
+P_SO = "64"
+P_WP = "3"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Labate"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "111"
+P_AB = "422"
+P_H = "100"
+P_R = "50"
+P_HP = "1"
+P_BB = "21"
+P_SO = "25"
+P_WP = "1"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+
+
+[[person]]
+name.last = "Frye"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "297"
+P_AB = "1078"
+P_H = "245"
+P_R = "112"
+P_HP = "10"
+P_BB = "90"
+P_SO = "135"
+P_WP = "5"
+P_W = "22"
+P_L = "13"
+P_PCT = ".629"
+
+
+[[person]]
+name.last = "Ostermeyer"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "124"
+P_AB = "437"
+P_H = "102"
+P_R = "43"
+P_HP = "6"
+P_BB = "55"
+P_SO = "44"
+P_WP = "3"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Geary"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "235"
+P_AB = "879"
+P_H = "204"
+P_R = "79"
+P_HP = "4"
+P_BB = "38"
+P_SO = "134"
+P_WP = "8"
+P_W = "19"
+P_L = "12"
+P_PCT = ".613"
+
+
+[[person]]
+name.last = "Ledbetter"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "241"
+P_AB = "898"
+P_H = "205"
+P_R = "80"
+P_HP = "8"
+P_BB = "42"
+P_SO = "123"
+P_WP = "6"
+P_W = "17"
+P_L = "12"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "McWhorter"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_IP = "305"
+P_AB = "1152"
+P_H = "267"
+P_R = "125"
+P_HP = "9"
+P_BB = "74"
+P_SO = "141"
+P_WP = "6"
+P_W = "20"
+P_L = "15"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Glazner"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "67"
+P_AB = "266"
+P_H = "59"
+P_R = "20"
+P_HP = "5"
+P_BB = "21"
+P_SO = "51"
+P_WP = "2"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Forbes"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "242"
+P_AB = "883"
+P_H = "224"
+P_R = "118"
+P_HP = "10"
+P_BB = "77"
+P_SO = "100"
+P_WP = "9"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Schwartie"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "336"
+P_AB = "1287"
+P_H = "254"
+P_R = "149"
+P_HP = "14"
+P_BB = "155"
+P_SO = "251"
+P_WP = "7"
+P_W = "22"
+P_L = "17"
+P_PCT = ".564"
+
+
+[[person]]
+name.last = "Lowe"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "187"
+P_AB = "693"
+P_H = "154"
+P_R = "83"
+P_HP = "6"
+P_BB = "62"
+P_SO = "81"
+P_WP = "7"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Munoz"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_IP = "278"
+P_AB = "976"
+P_H = "177"
+P_R = "78"
+P_HP = "12"
+P_BB = "94"
+P_SO = "195"
+P_WP = "6"
+P_W = "17"
+P_L = "14"
+P_PCT = ".548"
+
+
+[[person]]
+name.last = "Baumgartner"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "303"
+P_AB = "1148"
+P_H = "254"
+P_R = "126"
+P_HP = "8"
+P_BB = "105"
+P_SO = "155"
+P_WP = "6"
+P_W = "16"
+P_L = "16"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Atkinson"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "233"
+P_AB = "847"
+P_H = "194"
+P_R = "94"
+P_HP = "23"
+P_BB = "77"
+P_SO = "81"
+P_WP = "3"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Gittings"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "131"
+P_AB = "475"
+P_H = "96"
+P_R = "59"
+P_HP = "8"
+P_BB = "55"
+P_SO = "62"
+P_WP = "1"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Gingras"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "85"
+P_AB = "335"
+P_H = "84"
+P_R = "54"
+P_HP = "6"
+P_BB = "52"
+P_SO = "48"
+P_WP = "4"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Perritt"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "80"
+P_AB = "293"
+P_H = "50"
+P_R = "31"
+P_HP = "5"
+P_BB = "23"
+P_SO = "48"
+P_WP = "1"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Kuykendall"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "48"
+P_AB = "178"
+P_H = "53"
+P_R = "25"
+P_HP = "1"
+P_BB = "14"
+P_SO = "14"
+P_WP = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Mohart"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_IP = "167"
+P_AB = "640"
+P_H = "170"
+P_R = "93"
+P_HP = "7"
+P_BB = "56"
+P_SO = "86"
+P_WP = "3"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Currie"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_IP = "124"
+P_AB = "443"
+P_H = "109"
+P_R = "52"
+P_HP = "5"
+P_BB = "52"
+P_SO = "67"
+P_WP = "9"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Burge"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "88"
+P_AB = "338"
+P_H = "84"
+P_R = "43"
+P_HP = "3"
+P_BB = "28"
+P_SO = "39"
+P_WP = "2"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Parnham"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_IP = "223"
+P_AB = "844"
+P_H = "186"
+P_R = "86"
+P_HP = "13"
+P_BB = "42"
+P_SO = "109"
+P_WP = "2"
+P_W = "9"
+P_L = "15"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Meador"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "108"
+P_AB = "409"
+P_H = "86"
+P_R = "55"
+P_HP = "7"
+P_BB = "32"
+P_SO = "46"
+P_WP = "4"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+
+
+[[person]]
+name.last = "Gossage"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "89"
+P_AB = "357"
+P_H = "96"
+P_R = "47"
+P_HP = "3"
+P_BB = "20"
+P_SO = "31"
+P_WP = "5"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Harper"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_IP = "187"
+P_AB = "687"
+P_H = "165"
+P_R = "84"
+P_HP = "17"
+P_BB = "61"
+P_SO = "100"
+P_WP = "6"
+P_W = "6"
+P_L = "15"
+P_PCT = ".289"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_IP = "264"
+P_AB = "996"
+P_H = "216"
+P_R = "136"
+P_HP = "33"
+P_BB = "138"
+P_SO = "267"
+P_WP = "22"
+P_W = "8"
+P_L = "20"
+P_PCT = ".285"
+
+
+[[person]]
+name.last = "Ingle"
+[[person.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "103"
+P_AB = "449"
+P_H = "114"
+P_R = "65"
+P_HP = "4"
+P_BB = "43"
+P_SO = "48"
+P_WP = "3"
+P_W = "3"
+P_L = "8"
+P_PCT = ".273"

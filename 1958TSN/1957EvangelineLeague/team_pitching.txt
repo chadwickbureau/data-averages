@@ -1,0 +1,148 @@
+[[team]]
+name = "Crowley"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+P_G = "110"
+P_CG = "62"
+P_SHO = "5"
+P_IP = "924"
+P_AB = "3584"
+P_H = "916"
+P_HR = "89"
+P_R = "554"
+P_ER = "424"
+P_SH = "97"
+P_BB = "470"
+P_SO = "582"
+P_HP = "12"
+P_WP = "23"
+P_ERA = "4.13"
+P_BK = "4"
+
+
+[[team]]
+name = "Alexandria"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+P_G = "113"
+P_CG = "44"
+P_SHO = "4"
+P_IP = "946"
+P_AB = "3552"
+P_H = "886"
+P_HR = "62"
+P_R = "580"
+P_ER = "488"
+P_SH = "79"
+P_BB = "692"
+P_SO = "593"
+P_HP = "29"
+P_WP = "41"
+P_ERA = "4.64"
+P_BK = "8"
+
+
+[[team]]
+name = "Thibodaux"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+P_G = "111"
+P_CG = "51"
+P_SHO = "4"
+P_IP = "922"
+P_AB = "3572"
+P_H = "999"
+P_HR = "68"
+P_R = "632"
+P_ER = "477"
+P_SH = "99"
+P_BB = "586"
+P_SO = "595"
+P_HP = "30"
+P_WP = "57"
+P_ERA = "4.66"
+P_BK = "2"
+
+
+[[team]]
+name = "Lafayette"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+P_G = "58"
+P_CG = "26"
+P_SHO = "4"
+P_IP = "472"
+P_AB = "1841"
+P_H = "464"
+P_HR = "31"
+P_R = "290"
+P_ER = "248"
+P_SH = "43"
+P_BB = "322"
+P_SO = "372"
+P_HP = "9"
+P_WP = "28"
+P_ERA = "4.73"
+P_BK = "5"
+
+
+[[team]]
+name = "Baton Rouge"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+P_G = "59"
+P_CG = "30"
+P_SHO = "0"
+P_IP = "485"
+P_AB = "1876"
+P_H = "475"
+P_HR = "27"
+P_R = "329"
+P_ER = "275"
+P_SH = "59"
+P_BB = "336"
+P_SO = "312"
+P_HP = "21"
+P_WP = "22"
+P_ERA = "5.10"
+P_BK = "3"
+
+
+[[team]]
+name = "Lake Charles"
+[[team.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+P_G = "111"
+P_CG = "56"
+P_SHO = "8"
+P_IP = "935"
+P_AB = "3738"
+P_H = "1007"
+P_HR = "105"
+P_R = "720"
+P_ER = "568"
+P_SH = "82"
+P_BB = "598"
+P_SO = "653"
+P_HP = "25"
+P_WP = "61"
+P_ERA = "5.47"
+P_BK = "9"

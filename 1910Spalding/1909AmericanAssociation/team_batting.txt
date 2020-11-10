@@ -1,0 +1,158 @@
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5857"
+B_R = "644"
+B_H = "1447"
+B_TB = "1843"
+B_2B = "205"
+B_3B = "73"
+B_HR = "15"
+B_SH = "277"
+B_SB = "187"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "170"
+B_AB = "5403"
+B_R = "614"
+B_H = "1302"
+B_TB = "1667"
+B_2B = "200"
+B_3B = "51"
+B_HR = "21"
+B_SH = "217"
+B_SB = "197"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "167"
+B_AB = "5213"
+B_R = "546"
+B_H = "1258"
+B_TB = "1614"
+B_2B = "191"
+B_3B = "60"
+B_HR = "15"
+B_SH = "185"
+B_SB = "195"
+B_AVG = ".241"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "165"
+B_AB = "4717"
+B_R = "465"
+B_H = "1120"
+B_TB = "1463"
+B_2B = "197"
+B_3B = "34"
+B_HR = "26"
+B_SH = "173"
+B_SB = "145"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5423"
+B_R = "578"
+B_H = "1279"
+B_TB = "1584"
+B_2B = "185"
+B_3B = "45"
+B_HR = "10"
+B_SH = "254"
+B_SB = "183"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "170"
+B_AB = "5297"
+B_R = "511"
+B_H = "1237"
+B_TB = "1529"
+B_2B = "169"
+B_3B = "42"
+B_HR = "13"
+B_SH = "198"
+B_SB = "203"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "174"
+B_AB = "5452"
+B_R = "592"
+B_H = "1266"
+B_TB = "1595"
+B_2B = "188"
+B_3B = "39"
+B_HR = "21"
+B_SH = "227"
+B_SB = "193"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1909"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "167"
+B_AB = "5093"
+B_R = "516"
+B_H = "1171"
+B_TB = "1448"
+B_2B = "165"
+B_3B = "38"
+B_HR = "12"
+B_SH = "224"
+B_SB = "180"
+B_AVG = ".230"

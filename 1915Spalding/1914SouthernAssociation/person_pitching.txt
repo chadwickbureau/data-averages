@@ -1,0 +1,2458 @@
+[[person]]
+name.last = "Brown"
+name.given = "C."
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "32"
+P_IP = "255"
+P_AB = "912"
+P_H = "201"
+P_R = "64"
+P_SO = "102"
+P_BB = "74"
+P_HP = "9"
+P_WP = "1"
+P_BK = "1"
+P_W = "21"
+P_L = "7"
+P_T = "1"
+P_TO = "2"
+P_GF = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Hardgrove"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "40"
+P_IP = "252"
+P_AB = "1085"
+P_H = "259"
+P_R = "104"
+P_SO = "90"
+P_BB = "57"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_W = "20"
+P_L = "9"
+P_T = "2"
+P_TO = "4"
+P_GF = "4"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Bagby"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "38"
+P_IP = "221"
+P_AB = "794"
+P_H = "186"
+P_R = "77"
+P_SO = "123"
+P_BB = "62"
+P_HP = "12"
+P_WP = "5"
+P_BK = "0"
+P_W = "20"
+P_L = "9"
+P_T = "0"
+P_TO = "3"
+P_GF = "6"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "A,"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "41"
+P_IP = "288"
+P_AB = "1058"
+P_H = "254"
+P_R = "116"
+P_SO = "72"
+P_BB = "93"
+P_HP = "11"
+P_WP = "8"
+P_BK = "0"
+P_W = "18"
+P_L = "9"
+P_T = "4"
+P_TO = "2"
+P_GF = "8"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "31"
+P_IP = "232"
+P_AB = "761"
+P_H = "172"
+P_R = "58"
+P_SO = "119"
+P_BB = "55"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_W = "13"
+P_L = "7"
+P_T = "5"
+P_TO = "4"
+P_GF = "3"
+P_PCT = ".650"
+
+
+[[person]]
+name.last = "Robertson"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "25"
+P_IP = "211"
+P_AB = "762"
+P_H = "172"
+P_R = "58"
+P_SO = "62"
+P_BB = "25"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_W = "14"
+P_L = "8"
+P_T = "2"
+P_TO = "4"
+P_GF = "1"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Keeley"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "32"
+P_IP = "239"
+P_AB = "843"
+P_H = "87"
+P_R = "75"
+P_SO = "78"
+P_BB = "75"
+P_HP = "8"
+P_WP = "7"
+P_BK = "0"
+P_W = "15"
+P_L = "9"
+P_T = "3"
+P_TO = "2"
+P_GF = "3"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Perryman"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "34"
+P_IP = "240"
+P_AB = "894"
+P_H = "230"
+P_R = "92"
+P_SO = "97"
+P_BB = "39"
+P_HP = "5"
+P_WP = "3"
+P_BK = "0"
+P_W = "15"
+P_L = "9"
+P_T = "2"
+P_TO = "3"
+P_GF = "7"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Gudger"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "41"
+P_IP = "286"
+P_AB = "1054"
+P_H = "246"
+P_R = "100"
+P_SO = "104"
+P_BB = "59"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_W = "19"
+P_L = "13"
+P_T = "4"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".594"
+
+
+[[person]]
+name.last = "Kissinger"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "28"
+P_IP = "209"
+P_AB = "743"
+P_H = "167"
+P_R = "60"
+P_SO = "111"
+P_BB = "55"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_W = "13"
+P_L = "9"
+P_T = "2"
+P_TO = "2"
+P_GF = "2"
+P_PCT = ".591"
+
+
+[[person]]
+name.last = "Merritt"
+name.given = "H."
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "36"
+P_IP = "285"
+P_AB = "1045"
+P_H = "268"
+P_R = "109"
+P_SO = "117"
+P_BB = "72"
+P_HP = "8"
+P_WP = "1"
+P_BK = "0"
+P_W = "17"
+P_L = "12"
+P_T = "4"
+P_TO = "3"
+P_GF = "0"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Townsend"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "35"
+P_IP = "241"
+P_AB = "863"
+P_H = "199"
+P_R = "89"
+P_SO = "72"
+P_BB = "56"
+P_HP = "7"
+P_WP = "0"
+P_BK = "0"
+P_W = "17"
+P_L = "12"
+P_T = "1"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Fox"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "16"
+P_IP = "112"
+P_AB = "449"
+P_H = "119"
+P_R = "62"
+P_SO = "47"
+P_BB = "24"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_W = "7"
+P_L = "5"
+P_T = "1"
+P_TO = "0"
+P_GF = "3"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "32"
+P_IP = "243"
+P_AB = "810"
+P_H = "178"
+P_R = "85"
+P_SO = "200"
+P_BB = "107"
+P_HP = "13"
+P_WP = "5"
+P_BK = "0"
+P_W = "15"
+P_L = "11"
+P_T = "3"
+P_TO = "3"
+P_GF = "1"
+P_PCT = ".577"
+
+
+[[person]]
+name.last = "Hogg"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "38"
+P_IP = "285"
+P_AB = "1015"
+P_H = "243"
+P_R = "90"
+P_SO = "90"
+P_BB = "68"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_W = "19"
+P_L = "14"
+P_T = "2"
+P_TO = "0"
+P_GF = "3"
+P_PCT = ".576"
+
+
+[[person]]
+name.last = "Boland"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "38"
+P_IP = "306"
+P_AB = "961"
+P_H = "234"
+P_R = "103"
+P_SO = "174"
+P_BB = "94"
+P_HP = "12"
+P_WP = "8"
+P_BK = "0"
+P_W = "17"
+P_L = "13"
+P_T = "2"
+P_TO = "2"
+P_GF = "3"
+P_PCT = ".567"
+
+
+[[person]]
+name.last = "Dent"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "35"
+P_IP = "278"
+P_AB = "1069"
+P_H = "294"
+P_R = "103"
+P_SO = "68"
+P_BB = "38"
+P_HP = "5"
+P_WP = "0"
+P_BK = "0"
+P_W = "15"
+P_L = "12"
+P_T = "4"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Sline"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "33"
+P_IP = "259"
+P_AB = "933"
+P_H = "244"
+P_R = "102"
+P_SO = "86"
+P_BB = "69"
+P_HP = "22"
+P_WP = "4"
+P_BK = "0"
+P_W = "16"
+P_L = "13"
+P_T = "1"
+P_TO = "2"
+P_GF = "1"
+P_PCT = ".552"
+
+
+[[person]]
+name.last = "Berger"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "39"
+P_IP = "310"
+P_AB = "1145"
+P_H = "267"
+P_R = "115"
+P_SO = "151"
+P_BB = "61"
+P_HP = "14"
+P_WP = "3"
+P_BK = "0"
+P_W = "20"
+P_L = "17"
+P_T = "1"
+P_TO = "2"
+P_GF = "0"
+P_PCT = ".541"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "28"
+P_IP = "298"
+P_AB = "698"
+P_H = "166"
+P_R = "81"
+P_SO = "90"
+P_BB = "99"
+P_HP = "13"
+P_WP = "7"
+P_BK = "0"
+P_W = "12"
+P_L = "10"
+P_T = "1"
+P_TO = "3"
+P_GF = "1"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Holmes"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "14"
+P_IP = "96"
+P_AB = "376"
+P_H = "110"
+P_R = "45"
+P_SO = "21"
+P_BB = "28"
+P_HP = "8"
+P_WP = "6"
+P_BK = "0"
+P_W = "6"
+P_L = "5"
+P_T = "0"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Doescher"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "17"
+P_IP = "106"
+P_AB = "447"
+P_H = "109"
+P_R = "50"
+P_SO = "22"
+P_BB = "35"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_W = "7"
+P_L = "6"
+P_T = "2"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Roth"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "18"
+P_IP = "130"
+P_AB = "466"
+P_H = "120"
+P_R = "53"
+P_SO = "32"
+P_BB = "43"
+P_HP = "6"
+P_WP = "3"
+P_BK = "8"
+P_W = "7"
+P_L = "0"
+P_T = "3"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "42"
+P_IP = "306"
+P_AB = "1116"
+P_H = "266"
+P_R = "104"
+P_SO = "116"
+P_BB = "85"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_W = "20"
+P_L = "18"
+P_T = "2"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".526"
+
+
+[[person]]
+name.last = "Browning"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "36"
+P_IP = "122"
+P_AB = "734"
+P_H = "246"
+P_R = "95"
+P_SO = "83"
+P_BB = "48"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_W = "14"
+P_L = "13"
+P_T = "1"
+P_TO = "1"
+P_GF = "8"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Kroh"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "34"
+P_IP = "232"
+P_AB = "863"
+P_H = "222"
+P_R = "86"
+P_SO = "79"
+P_BB = "57"
+P_HP = "16"
+P_WP = "2"
+P_BK = "0"
+P_W = "15"
+P_L = "14"
+P_T = "0"
+P_TO = "2"
+P_GF = "3"
+P_PCT = ".517"
+
+
+[[person]]
+name.last = "Liebhardt"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "33"
+P_IP = "252"
+P_AB = "967"
+P_H = "211"
+P_R = "120"
+P_SO = "115"
+P_BB = "62"
+P_HP = "2"
+P_WP = "3"
+P_BK = "1"
+P_W = "15"
+P_L = "14"
+P_T = "1"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".517"
+
+
+[[person]]
+name.last = "Lively"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "25"
+P_IP = "170"
+P_AB = "638"
+P_H = "139"
+P_R = "67"
+P_SO = "54"
+P_BB = "51"
+P_HP = "9"
+P_WP = "5"
+P_BK = "0"
+P_W = "9"
+P_L = "9"
+P_T = "0"
+P_TO = "2"
+P_GF = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Benn"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "14"
+P_IP = "78"
+P_AB = "264"
+P_H = "69"
+P_R = "53"
+P_SO = "28"
+P_BB = "59"
+P_HP = "16"
+P_WP = "8"
+P_BK = "0"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_TO = "2"
+P_GF = "6"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Harding"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "41"
+P_IP = "265"
+P_AB = "948"
+P_H = "257"
+P_R = "119"
+P_SO = "96"
+P_BB = "71"
+P_HP = "4"
+P_WP = "5"
+P_BK = "1"
+P_W = "16"
+P_L = "16"
+P_T = "1"
+P_TO = "4"
+P_GF = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "East"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "12"
+P_IP = "85"
+P_AB = "296"
+P_H = "80"
+P_R = "46"
+P_SO = "42"
+P_BB = "52"
+P_HP = "9"
+P_WP = "0"
+P_BK = "0"
+P_W = "5"
+P_L = "5"
+P_T = "0"
+P_TO = "0"
+P_GF = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Boyd"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "22"
+P_IP = "142"
+P_AB = "460"
+P_H = "140"
+P_R = "71"
+P_SO = "45"
+P_BB = "49"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_W = "9"
+P_L = "10"
+P_T = "1"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".474"
+
+
+[[person]]
+name.last = "Howell"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "31"
+P_IP = "159"
+P_AB = "582"
+P_H = "152"
+P_R = "82"
+P_SO = "63"
+P_BB = "65"
+P_HP = "10"
+P_WP = "4"
+P_BK = "0"
+P_W = "9"
+P_L = "10"
+P_T = "1"
+P_TO = "2"
+P_GF = "8"
+P_PCT = ".474"
+
+
+[[person]]
+name.last = "Goulait"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "22"
+P_IP = "160"
+P_AB = "583"
+P_H = "145"
+P_R = "63"
+P_SO = "89"
+P_BB = "52"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_W = "8"
+P_L = "9"
+P_T = "3"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".471"
+
+
+[[person]]
+name.last = "O'Brien"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "14"
+P_IP = "92"
+P_AB = "347"
+P_H = "94"
+P_R = "44"
+P_SO = "39"
+P_BB = "30"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_W = "5"
+P_L = "6"
+P_T = "1"
+P_TO = "2"
+P_GF = "0"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Steele"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "14"
+P_IP = "101"
+P_AB = "377"
+P_H = "110"
+P_R = "56"
+P_SO = "13"
+P_BB = "14"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_W = "5"
+P_L = "6"
+P_T = "1"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Renfer"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "31"
+P_IP = "158"
+P_AB = "554"
+P_H = "131"
+P_R = "65"
+P_SO = "70"
+P_BB = "61"
+P_HP = "10"
+P_WP = "5"
+P_BK = "0"
+P_W = "9"
+P_L = "11"
+P_T = "1"
+P_TO = "1"
+P_GF = "8"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "More"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "38"
+P_IP = "254"
+P_AB = "931"
+P_H = "238"
+P_R = "103"
+P_SO = "65"
+P_BB = "68"
+P_HP = "8"
+P_WP = "4"
+P_BK = "0"
+P_W = "12"
+P_L = "15"
+P_T = "3"
+P_TO = "0"
+P_GF = "8"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Thompson"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "19"
+P_IP = "137"
+P_AB = "456"
+P_H = "116"
+P_R = "58"
+P_SO = "55"
+P_BB = "38"
+P_HP = "3"
+P_WP = "2"
+P_BK = "2"
+P_W = "7"
+P_L = "9"
+P_T = "0"
+P_TO = "2"
+P_GF = "1"
+P_PCT = ".438"
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "F."
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "33"
+P_IP = "229"
+P_AB = "788"
+P_H = "175"
+P_R = "89"
+P_SO = "135"
+P_BB = "101"
+P_HP = "10"
+P_WP = "1"
+P_BK = "0"
+P_W = "12"
+P_L = "16"
+P_T = "2"
+P_TO = "2"
+P_GF = "1"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Styles"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "17"
+P_IP = "83"
+P_AB = "301"
+P_H = "79"
+P_R = "41"
+P_SO = "35"
+P_BB = "30"
+P_HP = "10"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "3"
+P_T = "2"
+P_TO = "0"
+P_GF = "9"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Buscher"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "141"
+P_IP = "546"
+P_AB = "156"
+P_H = "96"
+P_R = "64"
+P_SO = "64"
+P_BB = "54"
+P_HP = "10"
+P_WP = "10"
+P_BK = "0"
+P_W = "5"
+P_L = "8"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Case"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "24"
+P_IP = "87"
+P_AB = "709"
+P_H = "185"
+P_R = "105"
+P_SO = "58"
+P_BB = "3"
+P_HP = "11"
+P_WP = "4"
+P_BK = "0"
+P_W = "8"
+P_L = "14"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".364"
+
+
+[[person]]
+name.last = "Day"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "22"
+P_IP = "140"
+P_AB = "512"
+P_H = "146"
+P_R = "63"
+P_SO = "38"
+P_BB = "41"
+P_HP = "7"
+P_WP = "4"
+P_BK = "0"
+P_W = "6"
+P_L = "11"
+P_T = "0"
+P_TO = "1"
+P_GF = "4"
+P_PCT = ".353"
+
+
+[[person]]
+name.last = "McLeod"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "24"
+P_IP = "169"
+P_AB = "639"
+P_H = "179"
+P_R = "92"
+P_SO = "52"
+P_BB = "58"
+P_HP = "8"
+P_WP = "4"
+P_BK = "0"
+P_W = "7"
+P_L = "14"
+P_T = "1"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Black"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "45"
+P_IP = "310"
+P_AB = "1150"
+P_H = "338"
+P_R = "175"
+P_SO = "127"
+P_BB = "89"
+P_HP = "15"
+P_WP = "6"
+P_BK = "1"
+P_W = "10"
+P_L = "29"
+P_T = "1"
+P_TO = "0"
+P_GF = "5"
+P_PCT = ".256"
+
+
+[[person]]
+name.last = "Ross"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "10"
+P_IP = "49"
+P_AB = "180"
+P_H = "42"
+P_R = "17"
+P_SO = "17"
+P_BB = "18"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "3"
+P_T = "1"
+P_TO = "1"
+P_GF = "4"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "14"
+P_IP = "65"
+P_AB = "268"
+P_H = "82"
+P_R = "57"
+P_SO = "30"
+P_BB = "27"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_W = "2"
+P_L = "6"
+P_T = "1"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Harbin"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "17"
+P_IP = "88"
+P_AB = "290"
+P_H = "74"
+P_R = "44"
+P_SO = "28"
+P_BB = "20"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_W = "2"
+P_L = "7"
+P_T = "1"
+P_TO = "1"
+P_GF = "6"
+P_PCT = ".222"
+
+
+[[person]]
+name.last = "Karr"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "15"
+P_IP = "110"
+P_AB = "407"
+P_H = "90"
+P_R = "48"
+P_SO = "55"
+P_BB = "40"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_W = "2"
+P_L = "10"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".167"
+
+
+[[person]]
+name.last = "Wheatley"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "11"
+P_IP = "68"
+P_AB = "253"
+P_H = "69"
+P_R = "34"
+P_SO = "19"
+P_BB = "32"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_W = "1"
+P_L = "7"
+P_T = "0"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".125"
+
+
+[[person]]
+name.last = "Collier"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "9"
+P_IP = "33"
+P_AB = "118"
+P_H = "24"
+P_R = "14"
+P_SO = "19"
+P_BB = "16"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "0"
+P_T = "1"
+P_TO = "3"
+P_GF = "3"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Currie"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "3"
+P_IP = "23"
+P_AB = "83"
+P_H = "26"
+P_R = "12"
+P_SO = "8"
+P_BB = "14"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_W = "3"
+P_L = "0"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Roth"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "4"
+P_IP = "26"
+P_AB = "96"
+P_H = "24"
+P_R = "8"
+P_SO = "14"
+P_BB = "11"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "3"
+P_L = "0"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "2"
+P_IP = "14"
+P_AB = "58"
+P_H = "20"
+P_R = "8"
+P_SO = "2"
+P_BB = "8"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "0"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Rodgers"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "4"
+P_IP = "19"
+P_AB = "73"
+P_H = "21"
+P_R = "14"
+P_SO = "14"
+P_BB = "10"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_W = "3"
+P_L = "1"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Efrid"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "6"
+P_IP = "34"
+P_AB = "146"
+P_H = "44"
+P_R = "21"
+P_SO = "12"
+P_BB = "5"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "1"
+P_T = "0"
+P_TO = "0"
+P_GF = "3"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Sage"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "6"
+P_IP = "47"
+P_AB = "162"
+P_H = "41"
+P_R = "17"
+P_SO = "11"
+P_BB = "10"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_W = "2"
+P_L = "1"
+P_T = "1"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Fellingrin"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "4"
+P_IP = "29"
+P_AB = "114"
+P_H = "35"
+P_R = "20"
+P_SO = "11"
+P_BB = "10"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "2"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Morgan"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "9"
+P_IP = "65"
+P_AB = "242"
+P_H = "66"
+P_R = "23"
+P_SO = "13"
+P_BB = "21"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Barfort"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "2"
+P_IP = "12"
+P_AB = "42"
+P_H = "14"
+P_R = "6"
+P_SO = "5"
+P_BB = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "1"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Marshall"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "4"
+P_IP = "21"
+P_AB = "78"
+P_H = "17"
+P_R = "39"
+P_SO = "5"
+P_BB = "1"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "1"
+P_T = "0"
+P_TO = "0"
+P_GF = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Paige"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "5"
+P_IP = "29"
+P_AB = "111"
+P_H = "29"
+P_R = "19"
+P_SO = "10"
+P_BB = "13"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Liverett"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "4"
+P_IP = "25"
+P_AB = "87"
+P_H = "25"
+P_R = "13"
+P_SO = "12"
+P_BB = "11"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Evans"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "8"
+P_IP = "31"
+P_AB = "104"
+P_H = "37"
+P_R = "21"
+P_SO = "16"
+P_BB = "16"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "2"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Lornzen"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "6"
+P_IP = "33"
+P_AB = "113"
+P_H = "24"
+P_R = "17"
+P_SO = "13"
+P_BB = "20"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "1"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Kent"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "4"
+P_IP = "17"
+P_AB = "63"
+P_H = "17"
+P_R = "13"
+P_SO = "5"
+P_BB = "6"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "1"
+P_TO = "2"
+P_GF = "1"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Merritt"
+name.given = "G."
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "8"
+P_IP = "59"
+P_AB = "227"
+P_H = "58"
+P_R = "30"
+P_SO = "24"
+P_BB = "13"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "5"
+P_T = "1"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Gregory"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "6"
+P_IP = "36"
+P_AB = "130"
+P_H = "34"
+P_R = "17"
+P_SO = "14"
+P_BB = "14"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_TO = "2"
+P_GF = "1"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "6"
+P_IP = "24"
+P_AB = "93"
+P_H = "25"
+P_R = "13"
+P_SO = "14"
+P_BB = "8"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "3"
+P_T = "2"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Sindler"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "7"
+P_IP = "43"
+P_AB = "171"
+P_H = "48"
+P_R = "33"
+P_SO = "10"
+P_BB = "15"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_W = "13"
+P_L = "3"
+P_T = "0"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "9"
+P_IP = "69"
+P_AB = "64"
+P_H = "46"
+P_R = "15"
+P_SO = "15"
+P_BB = "32"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_W = "1"
+P_L = "5"
+P_T = "0"
+P_TO = "0"
+P_GF = "3"
+P_PCT = ".167"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "2"
+P_IP = "8"
+P_AB = "31"
+P_H = "7"
+P_R = "5"
+P_SO = "2"
+P_BB = "7"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Kirby"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "4"
+P_IP = "4"
+P_AB = "15"
+P_H = "6"
+P_R = "10"
+P_SO = "2"
+P_BB = "72"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_TO = "3"
+P_GF = "1"
+
+
+[[person]]
+name.last = "Fritz"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "6"
+P_IP = "41"
+P_AB = "160"
+P_H = "58"
+P_R = "33"
+P_SO = "9"
+P_BB = "15"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "4"
+P_T = "1"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Tetrick"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mobile"
+[person.playing.totals]
+P_G = "2"
+P_IP = "8"
+P_AB = "38"
+P_H = "15"
+P_R = "6"
+P_SO = "4"
+P_BB = "2"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Glavenich"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "3"
+P_IP = "12"
+P_AB = "42"
+P_H = "14"
+P_R = "12"
+P_SO = "8"
+P_BB = "10"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_TO = "0"
+P_GF = "3"
+
+
+[[person]]
+name.last = "Piddy"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "7"
+P_IP = "7"
+P_AB = "32"
+P_H = "12"
+P_R = "9"
+P_SO = "5"
+P_BB = "4"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+
+
+[[person]]
+name.last = "Grime"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "4"
+P_IP = "10"
+P_AB = "35"
+P_H = "14"
+P_R = "7"
+P_SO = "5"
+P_BB = "11"
+P_HP = "0"
+P_WP = "1"
+P_BK = "1"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_TO = "0"
+P_GF = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Turner"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "2"
+P_IP = "11"
+P_AB = "39"
+P_H = "11"
+P_R = "9"
+P_SO = "5"
+P_BB = "5"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_TO = "0"
+P_GF = "2"
+
+
+[[person]]
+name.last = "Resigle"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "7"
+P_IP = "42"
+P_AB = "135"
+P_H = "41"
+P_R = "32"
+P_SO = "14"
+P_BB = "27"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_TO = "2"
+P_GF = "4"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Quarders"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "8"
+P_IP = "38"
+P_AB = "138"
+P_H = "35"
+P_R = "29"
+P_SO = "9"
+P_BB = "4"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_TO = "2"
+P_GF = "5"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Lile"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "6"
+P_IP = "16"
+P_AB = "59"
+P_H = "20"
+P_R = "10"
+P_SO = "5"
+P_BB = "8"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "3"
+P_T = "0"
+P_TO = "0"
+P_GF = "4"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "McFarland"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chattanooga"
+[person.playing.totals]
+P_G = "1"
+P_IP = "7"
+P_AB = "26"
+P_H = "10"
+P_R = "5"
+P_SO = "2"
+P_BB = "1"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "3"
+P_IP = "25"
+P_AB = "97"
+P_H = "25"
+P_R = "18"
+P_SO = "9"
+P_BB = "6"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "5"
+P_IP = "19"
+P_AB = "78"
+P_H = "25"
+P_R = "16"
+P_SO = "7"
+P_BB = "4"
+P_HP = "6"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "4"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Chandler"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "2"
+P_IP = "9"
+P_AB = "33"
+P_H = "10"
+P_R = "8"
+P_SO = "2"
+P_BB = "5"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Works"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "8"
+P_IP = "41"
+P_AB = "182"
+P_H = "47"
+P_R = "31"
+P_SO = "13"
+P_BB = "31"
+P_HP = "4"
+P_WP = "1"
+P_BK = "0"
+P_W = "0"
+P_L = "4"
+P_T = "1"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Harrell"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "7"
+P_IP = "7"
+P_AB = "28"
+P_H = "11"
+P_R = "3"
+P_SO = "0"
+P_BB = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "0"
+P_T = "1"
+P_TO = "0"
+P_GF = "0"
+
+
+[[person]]
+name.last = "Shanley"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "1"
+P_IP = "7"
+P_AB = "26"
+P_H = "9"
+P_R = "5"
+P_SO = "1"
+P_BB = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "0"
+P_T = "1"
+P_TO = "0"
+P_GF = "0"
+
+
+[[person]]
+name.last = "Kimball"
+[[person.playing]]
+season = "1914"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "3"
+P_IP = "24"
+P_AB = "89"
+P_H = "21"
+P_R = "10"
+P_SO = "6"
+P_BB = "9"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "1"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".000"

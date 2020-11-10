@@ -1,0 +1,158 @@
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4133"
+F_A = "1648"
+F_E = "174"
+F_TC = "5955"
+F_DP = "147"
+F_TP = "1"
+F_PB = "2"
+F_SB = "61"
+F_CS = "50"
+F_PCT = ".971"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4016"
+F_A = "1658"
+F_E = "174"
+F_TC = "5848"
+F_DP = "131"
+F_TP = "1"
+F_PB = "19"
+F_SB = "92"
+F_CS = "38"
+F_PCT = ".970"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4110"
+F_A = "1760"
+F_E = "212"
+F_TC = "6082"
+F_DP = "147"
+F_TP = "1"
+F_PB = "18"
+F_SB = "74"
+F_CS = "45"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4099"
+F_A = "1812"
+F_E = "215"
+F_TC = "6196"
+F_DP = "179"
+F_TP = "1"
+F_PB = "11"
+F_SB = "77"
+F_CS = "49"
+F_PCT = ".961"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4048"
+F_A = "1718"
+F_E = "215"
+F_TC = "5981"
+F_DP = "153"
+F_TP = "0"
+F_PB = "0"
+F_SB = "65"
+F_CS = "58"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4098"
+F_A = "1851"
+F_E = "223"
+F_TC = "6172"
+F_DP = "140"
+F_TP = "2"
+F_PB = "5"
+F_SB = "71"
+F_CS = "46"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "3978"
+F_A = "1729"
+F_E = "234"
+F_TC = "5941"
+F_DP = "131"
+F_TP = "0"
+F_PB = "12"
+F_SB = "61"
+F_CS = "45"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4020"
+F_A = "1660"
+F_E = "230"
+F_TC = "5910"
+F_DP = "113"
+F_TP = "0"
+F_PB = "12"
+F_SB = "84"
+F_CS = "45"
+F_PCT = ".961"

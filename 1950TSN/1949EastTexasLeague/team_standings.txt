@@ -1,0 +1,184 @@
+[[team]]
+name = "Longview"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "89"
+R_L = "51"
+R_PCT = ".636"
+R_RANK = "1"
+
+
+[[team]]
+name = "Gladewater"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "87"
+R_L = "53"
+R_PCT = ".621"
+R_RANK = "2"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "62"
+R_PCT = ".547"
+R_RANK = "3"
+
+
+[[team]]
+name = "Kilgore"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "65"
+R_PCT = ".536"
+R_RANK = "4"
+
+
+[[team]]
+name = "Marshall"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "68"
+R_PCT = ".504"
+R_RANK = "5"
+
+
+[[team]]
+name = "Tyler"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "78"
+R_PCT = ".443"
+R_RANK = "6"
+
+
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "88"
+R_PCT = ".367"
+R_RANK = "7"
+
+
+[[team]]
+name = "Bryan"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "91"
+R_PCT = ".345"
+R_RANK = "8"
+
+
+[[team]]
+name = "Kilgore"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Longview"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"
+
+
+[[team]]
+name = "Gladewater"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"
+
+
+[[team]]
+name = "Gladewater"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Kilgore"
+[[team.playing]]
+season = "1949"
+league.name = "East Texas League"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_PCT = ".000"
+R_RANK = "2"

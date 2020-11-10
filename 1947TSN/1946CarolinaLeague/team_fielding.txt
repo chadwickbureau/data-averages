@@ -1,0 +1,134 @@
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "106"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3668"
+F_A = "1502"
+F_E = "238"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "107"
+F_TP = "0"
+F_PB = "20"
+F_PO = "3753"
+F_A = "1544"
+F_E = "248"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "116"
+F_TP = "0"
+F_PB = "14"
+F_PO = "3762"
+F_A = "1660"
+F_E = "269"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Martinsville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "111"
+F_TP = "1"
+F_PB = "10"
+F_PO = "3663"
+F_A = "1504"
+F_E = "268"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "117"
+F_TP = "0"
+F_PB = "14"
+F_PO = "3672"
+F_A = "1552"
+F_E = "298"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Leaksville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "98"
+F_TP = "0"
+F_PB = "13"
+F_PO = "3632"
+F_A = "1435"
+F_E = "314"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "113"
+F_TP = "0"
+F_PB = "12"
+F_PO = "3686"
+F_A = "1509"
+F_E = "333"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "113"
+F_TP = "0"
+F_PB = "12"
+F_PO = "3686"
+F_A = "1509"
+F_E = "333"
+F_PCT = ".940"

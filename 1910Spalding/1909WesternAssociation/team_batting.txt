@@ -1,0 +1,102 @@
+[[team]]
+name = "Enid"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4233"
+B_R = "598"
+B_H = "1060"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Guthrie"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4142"
+B_R = "562"
+B_H = "1076"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Bartlesville"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "685"
+B_R = "487"
+B_H = "936"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Sapulpa"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4054"
+B_R = "445"
+B_H = "1001"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Pittsburg"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4045"
+B_R = "506"
+B_H = "975"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3662"
+B_R = "485"
+B_H = "870"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4137"
+B_R = "554"
+B_H = "1060"
+B_AVG = ".232"
+
+
+[[team]]
+name = "El Reno"
+[[team.playing]]
+season = "1909"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3577"
+B_R = "371"
+B_H = "732"
+B_AVG = ".205"

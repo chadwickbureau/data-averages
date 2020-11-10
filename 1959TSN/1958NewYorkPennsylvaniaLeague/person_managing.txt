@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Minor"
+name.given = "Harry"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wellsville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bristol"
+name.given = "David"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Geneva"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Zientara"
+name.given = "Benedict"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Olean"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gott"
+name.given = "Thomas"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Auburn"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Yoter"
+name.given = "Elmer"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Corning"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Richmond"
+name.given = "Donald"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Batavia"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gromek"
+name.given = "Stephen"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Erie"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kerestes"
+name.given = "Melvin"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Elmira"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rogers"
+name.given = "Stanley (Packy)"
+[[person.managing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Elmira"
+S_ORDER = "2"
+[person.managing.totals]

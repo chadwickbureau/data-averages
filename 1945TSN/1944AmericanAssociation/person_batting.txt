@@ -1,0 +1,10047 @@
+[[person]]
+name.last = "Bowman"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+B_G = "8"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "5"
+[person.playing.totals]
+B_G = "13"
+B_AB = "1"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = "1.000"
+
+
+[[person]]
+name.last = "Cullop"
+name.given = "Nick"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "10"
+B_AB = "6"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Nicklasson"
+name.given = "Henry"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "11"
+B_AB = "42"
+B_R = "6"
+B_H = "17"
+B_TB = "20"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_AVG = ".405"
+
+
+[[person]]
+name.last = "Herring"
+name.given = "Arthur"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "27"
+B_AB = "45"
+B_R = "6"
+B_H = "17"
+B_TB = "22"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".378"
+
+
+[[person]]
+name.last = "Binks"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "100"
+B_AB = "281"
+B_R = "59"
+B_H = "105"
+B_TB = "156"
+B_2B = "17"
+B_3B = "2"
+B_HR = "10"
+B_SH = "0"
+B_SB = "8"
+B_AVG = ".374"
+
+
+[[person]]
+name.last = "Rebel"
+name.given = "Arthur"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "22"
+B_AB = "88"
+B_R = "16"
+B_H = "32"
+B_TB = "46"
+B_2B = "10"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_AVG = ".364"
+
+
+[[person]]
+name.last = "Frantz"
+name.given = "Arthur"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "12"
+B_AB = "11"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".364"
+
+
+[[person]]
+name.last = "Wyrostek"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "110"
+B_AB = "416"
+B_R = "87"
+B_H = "149"
+B_TB = "239"
+B_2B = "50"
+B_3B = "5"
+B_HR = "10"
+B_SH = "12"
+B_SB = "11"
+B_AVG = ".358"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Hershel"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "58"
+B_AB = "218"
+B_R = "49"
+B_H = "78"
+B_TB = "114"
+B_2B = "8"
+B_3B = "2"
+B_HR = "8"
+B_SH = "3"
+B_SB = "3"
+B_AVG = ".358"
+
+
+[[person]]
+name.last = "Jordan"
+name.given = "Thomas"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+B_G = "8"
+[[person.playing.split]]
+team.name = "Kansas City"
+B_G = "58"
+[person.playing.totals]
+B_G = "66"
+B_AB = "219"
+B_R = "27"
+B_H = "78"
+B_TB = "111"
+B_2B = "15"
+B_3B = "3"
+B_HR = "4"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".356"
+
+
+[[person]]
+name.last = "Lopatka"
+name.given = "Arthur"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "39"
+B_AB = "73"
+B_R = "6"
+B_H = "26"
+B_TB = "33"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".356"
+
+
+[[person]]
+name.last = "Lyon"
+name.given = "Russell"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "64"
+B_AB = "167"
+B_R = "17"
+B_H = "59"
+B_TB = "81"
+B_2B = "14"
+B_3B = "1"
+B_HR = "2"
+B_SH = "0"
+B_SB = "1"
+B_AVG = ".353"
+
+
+[[person]]
+name.last = "Martin (ovich)"
+name.given = "Boris"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "114"
+B_AB = "386"
+B_R = "82"
+B_H = "135"
+B_TB = "224"
+B_2B = "27"
+B_3B = "10"
+B_HR = "14"
+B_SH = "4"
+B_SB = "7"
+B_AVG = ".350"
+
+
+[[person]]
+name.last = "Saltzgaver"
+name.given = "Jack"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "85"
+B_AB = "210"
+B_R = "42"
+B_H = "73"
+B_TB = "96"
+B_2B = "12"
+B_3B = "4"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_AVG = ".348"
+
+
+[[person]]
+name.last = "Becker"
+name.given = "Heinz"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "146"
+B_AB = "526"
+B_R = "115"
+B_H = "182"
+B_TB = "256"
+B_2B = "26"
+B_3B = "9"
+B_HR = "10"
+B_SH = "3"
+B_SB = "6"
+B_AVG = ".346"
+
+
+[[person]]
+name.last = "Peck"
+name.given = "Harold"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "148"
+B_AB = "579"
+B_R = "140"
+B_H = "200"
+B_TB = "282"
+B_2B = "25"
+B_3B = "9"
+B_HR = "13"
+B_SH = "12"
+B_SB = "18"
+B_AVG = ".345"
+
+
+[[person]]
+name.last = "Marion"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "114"
+B_AB = "394"
+B_R = "67"
+B_H = "136"
+B_TB = "193"
+B_2B = "21"
+B_3B = "3"
+B_HR = "10"
+B_SH = "4"
+B_SB = "8"
+B_AVG = ".345"
+
+
+[[person]]
+name.last = "Cotelle"
+name.given = "Como"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+B_G = "48"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "67"
+[person.playing.totals]
+B_G = "115"
+B_AB = "385"
+B_R = "53"
+B_H = "132"
+B_TB = "171"
+B_2B = "18"
+B_3B = "9"
+B_HR = "1"
+B_SH = "5"
+B_SB = "5"
+B_AVG = ".343"
+
+
+[[person]]
+name.last = "Biggs"
+name.given = "C. Alton"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+B_G = "55"
+[[person.playing.split]]
+team.name = "Milwaukee"
+B_G = "43"
+[person.playing.totals]
+B_G = "98"
+B_AB = "387"
+B_R = "48"
+B_H = "132"
+B_TB = "163"
+B_2B = "21"
+B_3B = "5"
+B_HR = "0"
+B_SH = "7"
+B_SB = "11"
+B_AVG = ".341"
+
+
+[[person]]
+name.last = "Blackburn"
+name.given = "Wayne"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "149"
+B_AB = "535"
+B_R = "104"
+B_H = "180"
+B_TB = "220"
+B_2B = "23"
+B_3B = "7"
+B_HR = "1"
+B_SH = "13"
+B_SB = "25"
+B_AVG = ".336"
+
+
+[[person]]
+name.last = "Hower"
+name.given = "Carl"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "13"
+B_AB = "27"
+B_R = "2"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Wayne"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "10"
+B_AB = "3"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Barath"
+name.given = "Stephen"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "111"
+B_AB = "347"
+B_R = "71"
+B_H = "114"
+B_TB = "202"
+B_2B = "25"
+B_3B = "9"
+B_HR = "15"
+B_SH = "3"
+B_SB = "10"
+B_AVG = ".329"
+
+
+[[person]]
+name.last = "Reinhart"
+name.given = "Fred"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "111"
+B_AB = "346"
+B_R = "58"
+B_H = "113"
+B_TB = "150"
+B_2B = "22"
+B_3B = "6"
+B_HR = "1"
+B_SH = "3"
+B_SB = "3"
+B_AVG = ".327"
+
+
+[[person]]
+name.last = "Chapman"
+name.given = "Glenn"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "146"
+B_AB = "528"
+B_R = "85"
+B_H = "172"
+B_TB = "220"
+B_2B = "28"
+B_3B = "4"
+B_HR = "4"
+B_SH = "11"
+B_SB = "13"
+B_AVG = ".326"
+
+
+[[person]]
+name.last = "Burgo"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "101"
+B_AB = "370"
+B_R = "72"
+B_H = "120"
+B_TB = "189"
+B_2B = "26"
+B_3B = "5"
+B_HR = "11"
+B_SH = "3"
+B_SB = "4"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "English"
+name.given = "Gilbert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "91"
+B_AB = "332"
+B_R = "59"
+B_H = "107"
+B_TB = "149"
+B_2B = "18"
+B_3B = "6"
+B_HR = "4"
+B_SH = "8"
+B_SB = "2"
+B_AVG = ".322"
+
+
+[[person]]
+name.last = "Vaughn"
+name.given = "Fred"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "125"
+B_AB = "445"
+B_R = "73"
+B_H = "143"
+B_TB = "236"
+B_2B = "24"
+B_3B = "9"
+B_HR = "17"
+B_SH = "7"
+B_SB = "16"
+B_AVG = ".321"
+
+
+[[person]]
+name.last = "Capri"
+name.given = "Patrick"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+B_G = "6"
+[[person.playing.split]]
+team.name = "Indianapolis"
+B_G = "14"
+[person.playing.totals]
+B_G = "20"
+B_AB = "66"
+B_R = "12"
+B_H = "21"
+B_TB = "23"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Shofner"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "133"
+B_AB = "464"
+B_R = "73"
+B_H = "147"
+B_TB = "195"
+B_2B = "15"
+B_3B = "9"
+B_HR = "5"
+B_SH = "12"
+B_SB = "12"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Sabena"
+name.given = "Michael"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "61"
+B_AB = "205"
+B_R = "22"
+B_H = "65"
+B_TB = "73"
+B_2B = "8"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Lamitina"
+name.given = "Samuel"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "27"
+B_AB = "82"
+B_R = "13"
+B_H = "26"
+B_TB = "39"
+B_2B = "4"
+B_3B = "3"
+B_HR = "1"
+B_SH = "0"
+B_SB = "5"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Steiner"
+name.given = "Benjamin"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "149"
+B_AB = "617"
+B_R = "122"
+B_H = "195"
+B_TB = "249"
+B_2B = "25"
+B_3B = "10"
+B_HR = "3"
+B_SH = "6"
+B_SB = "17"
+B_AVG = ".316"
+
+
+[[person]]
+name.last = "Schultz"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "93"
+B_AB = "298"
+B_R = "39"
+B_H = "94"
+B_TB = "120"
+B_2B = "23"
+B_3B = "0"
+B_HR = "1"
+B_SH = "7"
+B_SB = "4"
+B_AVG = ".315"
+
+
+[[person]]
+name.last = "Morgan"
+name.given = "Edwin"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "65"
+B_AB = "213"
+B_R = "27"
+B_H = "67"
+B_TB = "86"
+B_2B = "10"
+B_3B = "3"
+B_HR = "1"
+B_SH = "0"
+B_SB = "4"
+B_AVG = ".315"
+
+
+[[person]]
+name.last = "Kats"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "73"
+B_AB = "271"
+B_R = "47"
+B_H = "85"
+B_TB = "97"
+B_2B = "8"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "5"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Browne"
+name.given = "Earle"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "143"
+B_AB = "564"
+B_R = "90"
+B_H = "176"
+B_TB = "239"
+B_2B = "30"
+B_3B = "6"
+B_HR = "7"
+B_SH = "12"
+B_SB = "9"
+B_AVG = ".312"
+
+
+[[person]]
+name.last = "Antonelli"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "139"
+B_AB = "526"
+B_R = "77"
+B_H = "164"
+B_TB = "225"
+B_2B = "31"
+B_3B = "6"
+B_HR = "6"
+B_SH = "9"
+B_SB = "4"
+B_AVG = ".312"
+
+
+[[person]]
+name.last = "Pruett"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "114"
+B_AB = "356"
+B_R = "55"
+B_H = "111"
+B_TB = "166"
+B_2B = "20"
+B_3B = "4"
+B_HR = "9"
+B_SH = "0"
+B_SB = "2"
+B_AVG = ".312"
+
+
+[[person]]
+name.last = "Landrum"
+name.given = "Jesse"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "148"
+B_AB = "562"
+B_R = "78"
+B_H = "175"
+B_TB = "247"
+B_2B = "22"
+B_3B = "10"
+B_HR = "10"
+B_SH = "2"
+B_SB = "5"
+B_AVG = ".311"
+
+
+[[person]]
+name.last = "Culler"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "148"
+B_AB = "629"
+B_R = "131"
+B_H = "194"
+B_TB = "247"
+B_2B = "30"
+B_3B = "4"
+B_HR = "5"
+B_SH = "8"
+B_SB = "19"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Corona"
+name.given = "George"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "122"
+B_AB = "442"
+B_R = "67"
+B_H = "136"
+B_TB = "182"
+B_2B = "29"
+B_3B = "4"
+B_HR = "3"
+B_SH = "13"
+B_SB = "6"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Nagel"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "109"
+B_AB = "425"
+B_R = "66"
+B_H = "131"
+B_TB = "224"
+B_2B = "10"
+B_3B = "7"
+B_HR = "23"
+B_SH = "4"
+B_SB = "3"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Sandlock"
+name.given = "Michael"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "35"
+B_AB = "120"
+B_R = "17"
+B_H = "37"
+B_TB = "45"
+B_2B = "5"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Glunt"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "152"
+B_AB = "610"
+B_R = "79"
+B_H = "187"
+B_TB = "234"
+B_2B = "30"
+B_3B = "4"
+B_HR = "3"
+B_SH = "7"
+B_SB = "5"
+B_AVG = ".307"
+
+
+[[person]]
+name.last = "Cookson"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "141"
+B_AB = "564"
+B_R = "87"
+B_H = "172"
+B_TB = "195"
+B_2B = "19"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "47"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "Baron"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "148"
+B_AB = "541"
+B_R = "100"
+B_H = "164"
+B_TB = "230"
+B_2B = "29"
+B_3B = "11"
+B_HR = "5"
+B_SH = "26"
+B_SB = "15"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Nelson"
+name.given = "Thomas"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "146"
+B_AB = "518"
+B_R = "78"
+B_H = "157"
+B_TB = "256"
+B_2B = "25"
+B_3B = "7"
+B_HR = "20"
+B_SH = "6"
+B_SB = "10"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Donald O."
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "101"
+B_AB = "324"
+B_R = "71"
+B_H = "98"
+B_TB = "136"
+B_2B = "14"
+B_3B = "6"
+B_HR = "4"
+B_SH = "1"
+B_SB = "17"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Burns"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "59"
+B_AB = "232"
+B_R = "29"
+B_H = "70"
+B_TB = "91"
+B_2B = "12"
+B_3B = "3"
+B_HR = "1"
+B_SH = "3"
+B_SB = "4"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Swanson"
+name.given = "Harold"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "21"
+B_AB = "40"
+B_R = "5"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Barna"
+name.given = "Herbert"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "106"
+B_AB = "325"
+B_R = "67"
+B_H = "97"
+B_TB = "195"
+B_2B = "20"
+B_3B = "3"
+B_HR = "24"
+B_SH = "2"
+B_SB = "12"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Mallory"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "153"
+B_AB = "637"
+B_R = "91"
+B_H = "189"
+B_TB = "246"
+B_2B = "34"
+B_3B = "10"
+B_HR = "1"
+B_SH = "21"
+B_SB = "15"
+B_AVG = ".297"
+
+
+[[person]]
+name.last = "Gillenwater"
+name.given = "Carden"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "152"
+B_AB = "550"
+B_R = "111"
+B_H = "163"
+B_TB = "263"
+B_2B = "25"
+B_3B = "9"
+B_HR = "19"
+B_SH = "13"
+B_SB = "15"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Norman"
+name.given = "Wilis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "138"
+B_AB = "443"
+B_R = "84"
+B_H = "131"
+B_TB = "205"
+B_2B = "21"
+B_3B = "1"
+B_HR = "17"
+B_SH = "12"
+B_SB = "7"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Clemens"
+name.given = "Chester"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "101"
+B_AB = "405"
+B_R = "82"
+B_H = "119"
+B_TB = "158"
+B_2B = "10"
+B_3B = "10"
+B_HR = "3"
+B_SH = "1"
+B_SB = "21"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Farrell"
+name.given = "M. Kerby"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "123"
+B_AB = "458"
+B_R = "53"
+B_H = "134"
+B_TB = "159"
+B_2B = "9"
+B_3B = "5"
+B_HR = "2"
+B_SH = "4"
+B_SB = "7"
+B_AVG = ".293"
+
+
+[[person]]
+name.last = "Zimmerman"
+name.given = "Roy"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "47"
+B_AB = "174"
+B_R = "19"
+B_H = "51"
+B_TB = "69"
+B_2B = "14"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_AVG = ".293"
+
+
+[[person]]
+name.last = "McDonnell"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "14"
+B_AB = "41"
+B_R = "5"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_AVG = ".293"
+
+
+[[person]]
+name.last = "Crawford"
+name.given = "Glenn"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "130"
+B_AB = "495"
+B_R = "87"
+B_H = "144"
+B_TB = "205"
+B_2B = "21"
+B_3B = "8"
+B_HR = "8"
+B_SH = "6"
+B_SB = "11"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Polly"
+name.given = "Nick"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "149"
+B_AB = "486"
+B_R = "110"
+B_H = "141"
+B_TB = "243"
+B_2B = "24"
+B_3B = "9"
+B_HR = "20"
+B_SH = "7"
+B_SB = "9"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Secory"
+name.given = "Frank"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "88"
+B_AB = "248"
+B_R = "51"
+B_H = "72"
+B_TB = "122"
+B_2B = "19"
+B_3B = "2"
+B_HR = "9"
+B_SH = "5"
+B_SB = "9"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Todd"
+name.given = "Hugh"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "96"
+B_AB = "280"
+B_R = "42"
+B_H = "81"
+B_TB = "118"
+B_2B = "13"
+B_3B = "6"
+B_HR = "4"
+B_SH = "1"
+B_SB = "5"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Schulte"
+name.given = "Leonard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "153"
+B_AB = "607"
+B_R = "112"
+B_H = "175"
+B_TB = "256"
+B_2B = "30"
+B_3B = "9"
+B_HR = "11"
+B_SH = "14"
+B_SB = "6"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Mack"
+name.given = "Joseph"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "155"
+B_AB = "543"
+B_R = "95"
+B_H = "156"
+B_TB = "223"
+B_2B = "36"
+B_3B = "5"
+B_HR = "7"
+B_SH = "17"
+B_SB = "5"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Boken"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "76"
+B_AB = "245"
+B_R = "38"
+B_H = "70"
+B_TB = "106"
+B_2B = "10"
+B_3B = "1"
+B_HR = "8"
+B_SH = "4"
+B_SB = "4"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Levy"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "46"
+B_AB = "126"
+B_R = "17"
+B_H = "36"
+B_TB = "48"
+B_2B = "5"
+B_3B = "2"
+B_HR = "1"
+B_SH = "2"
+B_SB = "3"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Seinsoth"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "43"
+B_AB = "91"
+B_R = "19"
+B_H = "26"
+B_TB = "41"
+B_2B = "6"
+B_3B = "0"
+B_HR = "3"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Matthewson"
+name.given = "Dale"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "12"
+B_AB = "7"
+B_R = "3"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Easterwood"
+name.given = "Roy"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "37"
+B_AB = "106"
+B_R = "13"
+B_H = "30"
+B_TB = "48"
+B_2B = "4"
+B_3B = "1"
+B_HR = "4"
+B_SH = "1"
+B_SB = "2"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Stumpf"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "144"
+B_AB = "554"
+B_R = "18"
+B_H = "156"
+B_TB = "257"
+B_2B = "36"
+B_3B = "4"
+B_HR = "19"
+B_SH = "11"
+B_SB = "3"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Genovese"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "148"
+B_AB = "527"
+B_R = "130"
+B_H = "147"
+B_TB = "212"
+B_2B = "22"
+B_3B = "11"
+B_HR = "7"
+B_SH = "20"
+B_SB = "33"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Vosmik"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "39"
+B_AB = "111"
+B_R = "17"
+B_H = "31"
+B_TB = "37"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Walters"
+name.given = "Fred"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "129"
+B_AB = "446"
+B_R = "48"
+B_H = "124"
+B_TB = "169"
+B_2B = "22"
+B_3B = "4"
+B_HR = "5"
+B_SH = "4"
+B_SB = "9"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Poland"
+name.given = "Hugh"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "123"
+B_AB = "413"
+B_R = "37"
+B_H = "115"
+B_TB = "149"
+B_2B = "20"
+B_3B = "4"
+B_HR = "2"
+B_SH = "2"
+B_SB = "6"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Victor"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "19"
+B_AB = "36"
+B_R = "5"
+B_H = "10"
+B_TB = "12"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Sebesak"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "31"
+B_AB = "94"
+B_R = "14"
+B_H = "26"
+B_TB = "32"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Piet"
+name.given = "Frank"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+B_G = "82"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "21"
+[person.playing.totals]
+B_G = "103"
+B_AB = "335"
+B_R = "41"
+B_H = "92"
+B_TB = "129"
+B_2B = "19"
+B_3B = "0"
+B_HR = "6"
+B_SH = "2"
+B_SB = "6"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Dill"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "112"
+B_AB = "320"
+B_R = "39"
+B_H = "88"
+B_TB = "133"
+B_2B = "22"
+B_3B = "7"
+B_HR = "3"
+B_SH = "2"
+B_SB = "9"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Vitter"
+name.given = "Joseph"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "140"
+B_AB = "447"
+B_R = "70"
+B_H = "122"
+B_TB = "161"
+B_2B = "15"
+B_3B = "6"
+B_HR = "4"
+B_SH = "15"
+B_SB = "19"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Hogsett"
+name.given = "Elon"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "31"
+B_AB = "33"
+B_R = "9"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "14"
+B_AB = "33"
+B_R = "3"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Schlueter"
+name.given = "Norman"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "12"
+B_AB = "33"
+B_R = "4"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Ignasiak"
+name.given = "Edwin"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "136"
+B_AB = "463"
+B_R = "76"
+B_H = "125"
+B_TB = "170"
+B_2B = "18"
+B_3B = "3"
+B_HR = "7"
+B_SH = "8"
+B_SB = "5"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Borom"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "79"
+B_AB = "311"
+B_R = "50"
+B_H = "84"
+B_TB = "97"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "11"
+B_SB = "9"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Schaedler"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "36"
+B_AB = "89"
+B_R = "11"
+B_H = "24"
+B_TB = "43"
+B_2B = "7"
+B_3B = "0"
+B_HR = "4"
+B_SH = "1"
+B_SB = "1"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Corbett"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "103"
+B_AB = "364"
+B_R = "39"
+B_H = "98"
+B_TB = "137"
+B_2B = "22"
+B_3B = "4"
+B_HR = "3"
+B_SH = "4"
+B_SB = "4"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Price"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "82"
+B_AB = "283"
+B_R = "38"
+B_H = "76"
+B_TB = "94"
+B_2B = "14"
+B_3B = "2"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Heath"
+name.given = "Thomas"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "68"
+B_AB = "216"
+B_R = "20"
+B_H = "58"
+B_TB = "78"
+B_2B = "11"
+B_3B = "3"
+B_HR = "1"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Lucier"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "22"
+B_AB = "26"
+B_R = "5"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Danneker"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "142"
+B_AB = "497"
+B_R = "91"
+B_H = "133"
+B_TB = "213"
+B_2B = "24"
+B_3B = "7"
+B_HR = "14"
+B_SH = "4"
+B_SB = "32"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Blazo"
+name.given = "Michael"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "142"
+B_AB = "495"
+B_R = "64"
+B_H = "132"
+B_TB = "167"
+B_2B = "21"
+B_3B = "4"
+B_HR = "2"
+B_SH = "1"
+B_SB = "10"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Wright"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "32"
+B_AB = "101"
+B_R = "15"
+B_H = "27"
+B_TB = "43"
+B_2B = "4"
+B_3B = "0"
+B_HR = "4"
+B_SH = "1"
+B_SB = "2"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Wren"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "110"
+B_AB = "369"
+B_R = "44"
+B_H = "98"
+B_TB = "135"
+B_2B = "14"
+B_3B = "7"
+B_HR = "3"
+B_SH = "2"
+B_SB = "15"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Kimble"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "152"
+B_AB = "510"
+B_R = "91"
+B_H = "135"
+B_TB = "187"
+B_2B = "20"
+B_3B = "10"
+B_HR = "4"
+B_SH = "7"
+B_SB = "17"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Portner"
+name.given = "Michael"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "49"
+B_AB = "194"
+B_R = "27"
+B_H = "51"
+B_TB = "64"
+B_2B = "6"
+B_3B = "2"
+B_HR = "1"
+B_SH = "2"
+B_SB = "7"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Musser"
+name.given = "Roy"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "50"
+B_AB = "184"
+B_R = "24"
+B_H = "48"
+B_TB = "57"
+B_2B = "4"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "62"
+B_AB = "119"
+B_R = "14"
+B_H = "31"
+B_TB = "43"
+B_2B = "5"
+B_3B = "2"
+B_HR = "1"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Caldwell"
+name.given = "Earl"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "29"
+B_AB = "96"
+B_R = "14"
+B_H = "25"
+B_TB = "32"
+B_2B = "4"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Bucher"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_AB = "96"
+B_R = "12"
+B_H = "25"
+B_TB = "34"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Ebranyi"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "134"
+B_AB = "390"
+B_R = "37"
+B_H = "100"
+B_TB = "124"
+B_2B = "12"
+B_3B = "0"
+B_HR = "4"
+B_SH = "3"
+B_SB = "2"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Crumling"
+name.given = "Eugene"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "39"
+B_AB = "125"
+B_R = "16"
+B_H = "32"
+B_TB = "36"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Platek"
+name.given = "Stanley"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "137"
+B_AB = "455"
+B_R = "46"
+B_H = "116"
+B_TB = "148"
+B_2B = "15"
+B_3B = "4"
+B_HR = "3"
+B_SH = "7"
+B_SB = "5"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Whitehead"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_AB = "55"
+B_R = "8"
+B_H = "14"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Deutsch"
+name.given = "Melvin"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "36"
+B_AB = "83"
+B_R = "4"
+B_H = "21"
+B_TB = "28"
+B_2B = "1"
+B_3B = "3"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Howerton"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "133"
+B_AB = "401"
+B_R = "62"
+B_H = "101"
+B_TB = "146"
+B_2B = "18"
+B_3B = "9"
+B_HR = "3"
+B_SH = "3"
+B_SB = "9"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Rich"
+name.given = "Woodrow"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "41"
+B_AB = "76"
+B_R = "2"
+B_H = "19"
+B_TB = "21"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Bickhaus"
+name.given = "Ernest"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "11"
+B_AB = "8"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Drews"
+name.given = "Frank"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "95"
+B_AB = "298"
+B_R = "35"
+B_H = "74"
+B_TB = "96"
+B_2B = "11"
+B_3B = "1"
+B_HR = "3"
+B_SH = "8"
+B_SB = "10"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Holt"
+name.given = "Golden"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "80"
+B_AB = "236"
+B_R = "26"
+B_H = "59"
+B_TB = "70"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SB = "3"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Young"
+name.given = "Floyd"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "121"
+B_AB = "419"
+B_R = "44"
+B_H = "103"
+B_TB = "144"
+B_2B = "17"
+B_3B = "3"
+B_HR = "6"
+B_SH = "7"
+B_SB = "4"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Bettencourt"
+name.given = "Lawrence"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "29"
+B_AB = "69"
+B_R = "10"
+B_H = "17"
+B_TB = "21"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "4"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Pepper"
+name.given = "Fred"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "42"
+B_AB = "78"
+B_R = "8"
+B_H = "19"
+B_TB = "24"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Kimball"
+name.given = "Leighton"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "143"
+B_AB = "511"
+B_R = "73"
+B_H = "124"
+B_TB = "202"
+B_2B = "20"
+B_3B = "5"
+B_HR = "16"
+B_SH = "9"
+B_SB = "10"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Scheiwe"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+B_G = "20"
+[[person.playing.split]]
+team.name = "Kansas City"
+B_G = "10"
+[person.playing.totals]
+B_G = "30"
+B_AB = "70"
+B_R = "6"
+B_H = "17"
+B_TB = "24"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Burkhart"
+name.given = "Kenneth"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "33"
+B_AB = "91"
+B_R = "10"
+B_H = "22"
+B_TB = "29"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Acosta"
+name.given = "Julio"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "39"
+B_AB = "87"
+B_R = "13"
+B_H = "21"
+B_TB = "31"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "1"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Patrow"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "29"
+B_AB = "87"
+B_R = "10"
+B_H = "21"
+B_TB = "24"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Boss"
+name.given = "Harley"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "27"
+B_AB = "87"
+B_R = "3"
+B_H = "21"
+B_TB = "21"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Raddant"
+name.given = "Kenneth"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "27"
+B_AB = "58"
+B_R = "5"
+B_H = "14"
+B_TB = "14"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Badke"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "28"
+B_AB = "97"
+B_R = "11"
+B_H = "23"
+B_TB = "23"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Bodner"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "28"
+B_AB = "93"
+B_R = "9"
+B_H = "22"
+B_TB = "28"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Rhabe"
+name.given = "Nicholas"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "38"
+B_AB = "115"
+B_R = "12"
+B_H = "27"
+B_TB = "27"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "McLain"
+name.given = "Jack"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "39"
+B_AB = "102"
+B_R = "20"
+B_H = "24"
+B_TB = "35"
+B_2B = "2"
+B_3B = "3"
+B_HR = "1"
+B_SH = "2"
+B_SB = "7"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Mauer"
+name.given = "Kenneth"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "16"
+B_AB = "26"
+B_R = "3"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Bates"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+B_G = "7"
+[[person.playing.split]]
+team.name = "St. Paul"
+B_G = "6"
+[person.playing.totals]
+B_G = "13"
+B_AB = "26"
+B_R = "1"
+B_H = "6"
+B_TB = "9"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Nitcholas"
+name.given = "Otho"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "30"
+B_AB = "70"
+B_R = "7"
+B_H = "16"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "12"
+B_SB = "0"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Earl"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "26"
+B_AB = "48"
+B_R = "5"
+B_H = "11"
+B_TB = "18"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "5"
+B_SB = "0"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Padden"
+name.given = "Thomas"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "18"
+[[person.playing.split]]
+team.name = "St. Paul"
+B_G = "51"
+[person.playing.totals]
+B_G = "69"
+B_AB = "145"
+B_R = "11"
+B_H = "33"
+B_TB = "43"
+B_2B = "7"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Scoffic"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "46"
+B_AB = "97"
+B_R = "9"
+B_H = "22"
+B_TB = "33"
+B_2B = "8"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Logan"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "66"
+B_AB = "168"
+B_R = "13"
+B_H = "38"
+B_TB = "44"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "7"
+B_SB = "2"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Flowers"
+name.given = "C. Wesley"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "15"
+B_AB = "31"
+B_R = "5"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Burmeister"
+name.given = "Gerald"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "74"
+B_AB = "221"
+B_R = "28"
+B_H = "49"
+B_TB = "77"
+B_2B = "3"
+B_3B = "2"
+B_HR = "7"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Herndon"
+name.given = "Roy"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "25"
+B_AB = "54"
+B_R = "6"
+B_H = "12"
+B_TB = "16"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "3"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Anderson"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "18"
+B_AB = "54"
+B_R = "2"
+B_H = "12"
+B_TB = "15"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Q. P."
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "51"
+B_AB = "149"
+B_R = "9"
+B_H = "33"
+B_TB = "38"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_AVG = ".221"
+
+
+[[person]]
+name.last = "Hendrickson"
+name.given = "Don"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+B_G = "17"
+[[person.playing.split]]
+team.name = "Milwaukee"
+B_G = "18"
+[person.playing.totals]
+B_G = "35"
+B_AB = "50"
+B_R = "4"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Marshall"
+name.given = "Henry"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "39"
+B_AB = "92"
+B_R = "14"
+B_H = "20"
+B_TB = "23"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "3"
+B_AVG = ".217"
+
+
+[[person]]
+name.last = "Aliperto"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "94"
+B_AB = "288"
+B_R = "20"
+B_H = "62"
+B_TB = "78"
+B_2B = "7"
+B_3B = "3"
+B_HR = "1"
+B_SH = "2"
+B_SB = "4"
+B_AVG = ".215"
+
+
+[[person]]
+name.last = "Heltzel"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "70"
+B_AB = "235"
+B_R = "16"
+B_H = "50"
+B_TB = "59"
+B_2B = "7"
+B_3B = "1"
+B_HR = "0"
+B_SH = "9"
+B_SB = "1"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Kelley"
+name.given = "Harry"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "43"
+B_AB = "57"
+B_R = "4"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "31"
+B_AB = "57"
+B_R = "5"
+B_H = "12"
+B_TB = "12"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Singleton"
+name.given = "B. Elmer"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "32"
+B_AB = "53"
+B_R = "12"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Tauscher"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "39"
+B_AB = "48"
+B_R = "3"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Odom"
+name.given = "David"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "21"
+B_AB = "29"
+B_R = "4"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Castro"
+name.given = "Dominic"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "128"
+B_AB = "389"
+B_R = "35"
+B_H = "80"
+B_TB = "104"
+B_2B = "9"
+B_3B = "3"
+B_HR = "3"
+B_SH = "10"
+B_SB = "1"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Ripple"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "24"
+B_AB = "68"
+B_R = "7"
+B_H = "14"
+B_TB = "17"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Strincevich"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "33"
+B_AB = "34"
+B_R = "6"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Berge"
+name.given = "Arnie"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "24"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "33"
+[person.playing.totals]
+B_G = "57"
+B_AB = "137"
+B_R = "16"
+B_H = "28"
+B_TB = "31"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "4"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Sproull"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "30"
+B_AB = "69"
+B_R = "6"
+B_H = "14"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Buker"
+name.given = "Cyril"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "37"
+B_AB = "65"
+B_R = "3"
+B_H = "13"
+B_TB = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "McNulty"
+name.given = "Marvin"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "28"
+B_AB = "65"
+B_R = "5"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Hutchings"
+name.given = "John"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "34"
+B_AB = "55"
+B_R = "2"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Sertich"
+name.given = "Michael"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "16"
+B_AB = "55"
+B_R = "7"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "McKenna"
+name.given = "Christopher"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "21"
+B_AB = "45"
+B_R = "1"
+B_H = "9"
+B_TB = "15"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Wilkie"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "16"
+B_AB = "30"
+B_R = "6"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Ananicz"
+name.given = "Thomas"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "12"
+B_AB = "15"
+B_R = "3"
+B_H = "3"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Aragon"
+name.given = "Jack"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "127"
+B_AB = "372"
+B_R = "35"
+B_H = "74"
+B_TB = "115"
+B_2B = "16"
+B_3B = "2"
+B_HR = "7"
+B_SH = "3"
+B_SB = "7"
+B_AVG = ".199"
+
+
+[[person]]
+name.last = "Gassaway"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "43"
+B_AB = "77"
+B_R = "9"
+B_H = "15"
+B_TB = "27"
+B_2B = "2"
+B_3B = "2"
+B_HR = "2"
+B_SH = "5"
+B_SB = "0"
+B_AVG = ".195"
+
+
+[[person]]
+name.last = "Fannin"
+name.given = "Clifford"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "41"
+B_AB = "36"
+B_R = "5"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".194"
+
+
+[[person]]
+name.last = "Schlulte"
+name.given = "Fred"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+B_G = "17"
+[[person.playing.split]]
+team.name = "Indianapolis"
+B_G = "20"
+[person.playing.totals]
+B_G = "37"
+B_AB = "99"
+B_R = "9"
+B_H = "19"
+B_TB = "24"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Lehrman"
+name.given = "Arnold"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "24"
+B_AB = "78"
+B_R = "13"
+B_H = "15"
+B_TB = "21"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "2"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Dinges"
+name.given = "Vance"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "21"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Burman"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "29"
+B_AB = "91"
+B_R = "8"
+B_H = "17"
+B_TB = "18"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_AVG = ".187"
+
+
+[[person]]
+name.last = "Mitrus"
+name.given = "George"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "39"
+B_AB = "113"
+B_R = "15"
+B_H = "21"
+B_TB = "30"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Sierotko"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "25"
+B_AB = "59"
+B_R = "4"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Morgan"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "41"
+B_AB = "87"
+B_R = "10"
+B_H = "16"
+B_TB = "19"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Partenheimer"
+name.given = "Stanwood"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "6"
+[[person.playing.split]]
+team.name = "Columbus"
+B_G = "22"
+[person.playing.totals]
+B_G = "28"
+B_AB = "76"
+B_R = "8"
+B_H = "14"
+B_TB = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Lehman"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "11"
+B_AB = "22"
+B_R = "0"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Klopp"
+name.given = "Stanley"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "10"
+B_AB = "11"
+B_R = "0"
+B_H = "2"
+B_TB = "3"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "DiBiasi"
+name.given = "Vincent"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "31"
+B_AB = "67"
+B_R = "6"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Goedde"
+name.given = "Sylvester"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_AB = "56"
+B_R = "4"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Cunningham"
+name.given = "Wesley"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "40"
+B_AB = "29"
+B_R = "4"
+B_H = "5"
+B_TB = "7"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".172"
+
+
+[[person]]
+name.last = "Bowman"
+name.given = "Paul"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "13"
+B_AB = "29"
+B_R = "4"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".172"
+
+
+[[person]]
+name.last = "Scheetz"
+name.given = "Owen"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "25"
+B_AB = "53"
+B_R = "10"
+B_H = "9"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".170"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "24"
+B_AB = "36"
+B_R = "2"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Widmar"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "31"
+B_AB = "61"
+B_R = "3"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Webb"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "36"
+B_AB = "56"
+B_R = "5"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".161"
+
+
+[[person]]
+name.last = "Pfund"
+name.given = "Leroy"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "19"
+B_AB = "25"
+B_R = "3"
+B_H = "4"
+B_TB = "9"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".160"
+
+
+[[person]]
+name.last = "Lady"
+name.given = "J. Ben"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "27"
+B_AB = "63"
+B_R = "4"
+B_H = "10"
+B_TB = "12"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".159"
+
+
+[[person]]
+name.last = "Sahlin"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "41"
+B_AB = "32"
+B_R = "6"
+B_H = "5"
+B_TB = "8"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Mosley"
+name.given = "J. Roy"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "16"
+B_AB = "13"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".154"
+
+
+[[person]]
+name.last = "Horton"
+name.given = "Claude"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "13"
+B_AB = "13"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_AVG = ".154"
+
+
+[[person]]
+name.last = "Diehl"
+name.given = "George"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+B_G = "10"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "13"
+[person.playing.totals]
+B_G = "23"
+B_AB = "46"
+B_R = "2"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Donald"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "18"
+B_AB = "46"
+B_R = "1"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Curtis"
+name.given = "Vernon"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "46"
+B_AB = "82"
+B_R = "6"
+B_H = "12"
+B_TB = "12"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SB = "1"
+B_AVG = ".146"
+
+
+[[person]]
+name.last = "Lindquist"
+name.given = "Carl"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "32"
+B_AB = "41"
+B_R = "3"
+B_H = "6"
+B_TB = "9"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".146"
+
+
+[[person]]
+name.last = "Rudolph"
+name.given = "Ernest"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "35"
+B_AB = "63"
+B_R = "5"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Wonson"
+name.given = "Harold"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "42"
+B_AB = "42"
+B_R = "3"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Simonds"
+name.given = "Dwight"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "10"
+B_AB = "14"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "LaMacchia"
+name.given = "Alfred"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_AB = "37"
+B_R = "8"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".135"
+
+
+[[person]]
+name.last = "Kimberlin"
+name.given = "Harry"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "37"
+B_AB = "45"
+B_R = "4"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Podgajny"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "18"
+B_AB = "30"
+B_R = "1"
+B_H = "4"
+B_TB = "6"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Herr"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "30"
+B_AB = "38"
+B_R = "2"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".132"
+
+
+[[person]]
+name.last = "Camp"
+name.given = "Loy"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "34"
+B_AB = "62"
+B_R = "6"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".129"
+
+
+[[person]]
+name.last = "Roberts"
+name.given = "Eugene"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "39"
+B_AB = "118"
+B_R = "6"
+B_H = "15"
+B_TB = "17"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_AVG = ".127"
+
+
+[[person]]
+name.last = "Missler"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "17"
+B_AB = "41"
+B_R = "3"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".122"
+
+
+[[person]]
+name.last = "Upton"
+name.given = "Herbert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "43"
+B_AB = "149"
+B_R = "2"
+B_H = "18"
+B_TB = "18"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".121"
+
+
+[[person]]
+name.last = "Clark"
+name.given = "Wm. Otis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "23"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "9"
+[person.playing.totals]
+B_G = "32"
+B_AB = "75"
+B_R = "4"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_AVG = ".120"
+
+
+[[person]]
+name.last = "Wood"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "13"
+B_AB = "17"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".118"
+
+
+[[person]]
+name.last = "Speer"
+name.given = "Floyd"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "12"
+B_AB = "20"
+B_R = "2"
+B_H = "2"
+B_TB = "4"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Lichenstein"
+name.given = "Edwin"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "12"
+B_AB = "20"
+B_R = "2"
+B_H = "2"
+B_TB = "4"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Barrett"
+name.given = "Francis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "16"
+B_AB = "21"
+B_R = "3"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".095"
+
+
+[[person]]
+name.last = "Creel"
+name.given = "Jack"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "36"
+B_AB = "75"
+B_R = "6"
+B_H = "7"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "0"
+B_AVG = ".093"
+
+
+[[person]]
+name.last = "Lippold"
+name.given = "Gregory"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "20"
+B_AB = "22"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".091"
+
+
+[[person]]
+name.last = "Byers"
+name.given = "Ollie"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "14"
+[[person.playing.split]]
+team.name = "Indianapolis"
+B_G = "16"
+[person.playing.totals]
+B_G = "30"
+B_AB = "68"
+B_R = "9"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".088"
+
+
+[[person]]
+name.last = "Bain"
+name.given = "Loren"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "35"
+B_AB = "72"
+B_R = "2"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_AVG = ".083"
+
+
+[[person]]
+name.last = "Pugsley"
+name.given = "Franklin"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "30"
+B_AB = "12"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".083"
+
+
+[[person]]
+name.last = "Wiley"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "14"
+B_AB = "13"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".077"
+
+
+[[person]]
+name.last = "Farmer"
+name.given = "Jack"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "34"
+B_AB = "21"
+B_R = "2"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_AVG = ".048"
+
+
+[[person]]
+name.last = "Hearn"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+B_G = "17"
+[[person.playing.split]]
+team.name = "Kansas City"
+B_G = "22"
+[person.playing.totals]
+B_G = "39"
+B_AB = "31"
+B_R = "3"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".032"
+
+
+[[person]]
+name.last = "Shanklin"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "18"
+B_AB = "28"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Goff"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "15"
+B_AB = "7"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Latchic"
+name.given = "Andrew"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "4"
+B_AB = "1"
+B_H = "1"
+B_AVG = "1.000"
+
+
+[[person]]
+name.last = "Comyn"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "2"
+B_AB = "1"
+B_H = "1"
+B_AVG = "1.000"
+
+
+[[person]]
+name.last = "Hazen"
+name.given = "Vaughn"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "9"
+B_AB = "5"
+B_H = "3"
+B_AVG = ".600"
+
+
+[[person]]
+name.last = "Werth"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "6"
+B_AB = "2"
+B_H = "1"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Roy L."
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "5"
+B_AB = "2"
+B_H = "1"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Kash"
+name.given = "Michael"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_H = "1"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Kern"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_H = "1"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Donahue"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "9"
+B_AB = "14"
+B_H = "5"
+B_AVG = ".357"
+
+
+[[person]]
+name.last = "Rager"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "5"
+B_AB = "3"
+B_H = "1"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Musulas"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "1"
+B_AB = "3"
+B_H = "1"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Riskosky"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "5"
+B_AB = "18"
+B_H = "5"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Campbell"
+name.given = "Ray"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+B_G = "6"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "1"
+[person.playing.totals]
+B_G = "7"
+B_AB = "8"
+B_H = "2"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Pinkston"
+name.given = "Jesse"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "5"
+B_AB = "8"
+B_H = "2"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Furey"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "7"
+B_AB = "4"
+B_H = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Rooney"
+name.given = "Samuel"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "9"
+B_AB = "25"
+B_H = "6"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Frantz"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "7"
+B_AB = "26"
+B_H = "6"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Burkart"
+name.given = "Elmer"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "8"
+B_AB = "18"
+B_H = "4"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Blake"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "9"
+B_AB = "10"
+B_H = "2"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "8"
+B_AB = "11"
+B_H = "2"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Savino"
+name.given = "George"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "9"
+B_AB = "17"
+B_H = "3"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Weaver"
+name.given = "Claude"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "8"
+B_AB = "18"
+B_H = "3"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Patton"
+name.given = "Ray"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "5"
+B_AB = "6"
+B_H = "1"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Dowling"
+name.given = "Clarence"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "7"
+B_AB = "6"
+B_H = "1"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Males"
+name.given = "Victor"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "2"
+B_AB = "6"
+B_H = "1"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Callahan"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "9"
+B_AB = "15"
+B_H = "2"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Cogswell"
+name.given = "Phil."
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+B_G = "8"
+[[person.playing.split]]
+team.name = "Columbus"
+B_G = "1"
+[person.playing.totals]
+B_G = "9"
+B_AB = "16"
+B_H = "2"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Rochelli"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "5"
+B_AB = "16"
+B_H = "2"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Fink"
+name.given = "Herman"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "7"
+B_AB = "8"
+B_H = "1"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Ennis"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "8"
+B_AB = "8"
+B_H = "1"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Dowling"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "4"
+B_AB = "8"
+B_H = "1"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Gregory"
+name.given = "Kenneth"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "3"
+B_AB = "8"
+B_H = "1"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "King"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "9"
+B_AB = "9"
+B_H = "1"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Flick"
+name.given = "Lewis"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "5"
+B_AB = "17"
+B_H = "1"
+B_AVG = ".059"
+
+
+[[person]]
+name.last = "Gomez"
+name.given = "Pedro"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "5"
+B_AB = "14"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Meyers"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "6"
+B_AB = "11"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Crosby"
+name.given = "Jerry"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "4"
+B_AB = "11"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Storti"
+name.given = "Lindel"
+description.bats = "S"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "5"
+B_AB = "9"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Kanavas"
+name.given = "Nick"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "6"
+B_AB = "5"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Carter"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "2"
+B_AB = "5"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Gables"
+name.given = "Kenneth"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "9"
+B_AB = "4"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Long"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "1"
+B_AB = "4"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Bronkhurst"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "4"
+B_AB = "3"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Stout"
+name.given = "Allyn"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "3"
+B_AB = "3"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Gruenwald"
+name.given = "Roger"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "3"
+B_AB = "3"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Grasmick"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "1"
+B_AB = "3"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Garagiola"
+name.given = "Jos."
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "1"
+B_AB = "3"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Propst"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "1"
+B_AB = "3"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Uniak"
+name.given = "Ray"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "5"
+B_AB = "2"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Prpish"
+name.given = "Paul"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "3"
+B_AB = "2"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Clark"
+name.given = "Elden"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "3"
+B_AB = "2"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Zych"
+name.given = "Alexander"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Kobrin"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Bucha"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "1"
+B_AB = "2"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "McCormick"
+name.given = "N."
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "4"
+[[person.playing.split]]
+team.name = "Kansas City"
+B_G = "1"
+[person.playing.totals]
+B_G = "5"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Spence"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "4"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Wint"
+name.given = "Preston"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "3"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Hanzlik"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "2"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "McCready"
+name.given = "Eugene"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Wittmer"
+name.given = "Al"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Koney"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Froehle"
+name.given = "Donald"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Eder"
+name.given = "Roy"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Sullivan"
+name.given = "Wm. H."
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Belshe"
+name.given = "Maurice"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Ernst"
+name.given = "Donald"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "King"
+name.given = "Don"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "3"
+B_AB = "0"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Brock"
+name.given = "Lewis"
+description.bats = "R"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Drake"
+name.given = "Lawrence"
+description.bats = "L"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_H = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Polly"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "149"
+B_BB = "147"
+B_HP = "3"
+B_RBI = "120"
+B_SO = "72"
+B_GDP = "13"
+
+
+[[person]]
+name.last = "Nagel"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "109"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "117"
+B_SO = "55"
+B_GDP = "19"
+
+
+[[person]]
+name.last = "Becker"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "146"
+B_BB = "93"
+B_HP = "4"
+B_RBI = "115"
+B_SO = "43"
+B_GDP = "14"
+
+
+[[person]]
+name.last = "Mack"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "155"
+B_BB = "115"
+B_HP = "3"
+B_RBI = "102"
+B_SO = "61"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Browne"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "143"
+B_BB = "58"
+B_HP = "5"
+B_RBI = "99"
+B_SO = "30"
+B_GDP = "11"
+
+
+[[person]]
+name.last = "Schulte"
+name.given = "L."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "153"
+B_BB = "42"
+B_HP = "2"
+B_RBI = "98"
+B_SO = "31"
+B_GDP = "18"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "146"
+B_BB = "61"
+B_HP = "6"
+B_RBI = "97"
+B_SO = "48"
+B_GDP = "18"
+
+
+[[person]]
+name.last = "Chapman"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "146"
+B_BB = "54"
+B_HP = "1"
+B_RBI = "93"
+B_SO = "48"
+B_GDP = "19"
+
+
+[[person]]
+name.last = "Norman"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "138"
+B_BB = "86"
+B_HP = "4"
+B_RBI = "90"
+B_SO = "63"
+B_GDP = "9"
+
+
+[[person]]
+name.last = "Antonelli"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "139"
+B_BB = "39"
+B_HP = "2"
+B_RBI = "88"
+B_SO = "14"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Barna"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "106"
+B_BB = "61"
+B_HP = "1"
+B_RBI = "85"
+B_SO = "44"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Peck"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "148"
+B_BB = "71"
+B_HP = "8"
+B_RBI = "83"
+B_SO = "42"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Landrum"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "148"
+B_BB = "36"
+B_HP = "4"
+B_RBI = "82"
+B_SO = "33"
+B_GDP = "19"
+
+
+[[person]]
+name.last = "Mallory"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "153"
+B_BB = "34"
+B_HP = "0"
+B_RBI = "82"
+B_SO = "54"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Marion"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "114"
+B_BB = "45"
+B_HP = "2"
+B_RBI = "80"
+B_SO = "37"
+B_GDP = "8"
+
+
+[[person]]
+name.last = "Barath"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "111"
+B_BB = "63"
+B_HP = "3"
+B_RBI = "77"
+B_SO = "64"
+B_GDP = "12"
+
+
+[[person]]
+name.last = "Shofner"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "133"
+B_BB = "28"
+B_HP = "2"
+B_RBI = "76"
+B_SO = "44"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Baron"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "148"
+B_BB = "45"
+B_HP = "8"
+B_RBI = "73"
+B_SO = "31"
+B_GDP = "12"
+
+
+[[person]]
+name.last = "Martin (ovich)"
+name.given = "B."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "114"
+B_BB = "40"
+B_HP = "5"
+B_RBI = "72"
+B_SO = "33"
+B_GDP = "19"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "129"
+B_BB = "39"
+B_HP = "3"
+B_RBI = "72"
+B_SO = "34"
+B_GDP = "14"
+
+
+[[person]]
+name.last = "Crawford"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "130"
+B_BB = "61"
+B_HP = "4"
+B_RBI = "71"
+B_SO = "43"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Burgo"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "101"
+B_BB = "27"
+B_HP = "15"
+B_RBI = "70"
+B_SO = "12"
+B_GDP = "14"
+
+
+[[person]]
+name.last = "Gillenwater"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "152"
+B_BB = "83"
+B_HP = "5"
+B_RBI = "70"
+B_SO = "63"
+B_GDP = "9"
+
+
+[[person]]
+name.last = "Wyrostek"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "110"
+B_BB = "60"
+B_HP = "3"
+B_RBI = "69"
+B_SO = "36"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Ignasiak"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "136"
+B_BB = "89"
+B_HP = "1"
+B_RBI = "69"
+B_SO = "81"
+B_GDP = "12"
+
+
+[[person]]
+name.last = "Cotelle"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "115"
+B_BB = "28"
+B_HP = "5"
+B_RBI = "68"
+B_SO = "16"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Corona"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "122"
+B_BB = "41"
+B_HP = "2"
+B_RBI = "68"
+B_SO = "47"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Stumpf"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "144"
+B_BB = "72"
+B_HP = "4"
+B_RBI = "68"
+B_SO = "57"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Steiner"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "149"
+B_BB = "64"
+B_HP = "1"
+B_RBI = "68"
+B_SO = "60"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Kimble"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "152"
+B_BB = "92"
+B_HP = "2"
+B_RBI = "67"
+B_SO = "38"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Binks"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "100"
+B_BB = "25"
+B_HP = "4"
+B_RBI = "66"
+B_SO = "25"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Blackburn"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "149"
+B_BB = "99"
+B_HP = "6"
+B_RBI = "65"
+B_SO = "29"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Poland"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "123"
+B_BB = "19"
+B_HP = "2"
+B_RBI = "64"
+B_SO = "23"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Platek"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "137"
+B_BB = "58"
+B_HP = "1"
+B_RBI = "63"
+B_SO = "44"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Blazo"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "142"
+B_BB = "51"
+B_HP = "1"
+B_RBI = "63"
+B_SO = "34"
+B_GDP = "18"
+
+
+[[person]]
+name.last = "Reinhart"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "111"
+B_BB = "39"
+B_HP = "7"
+B_RBI = "62"
+B_SO = "20"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Vaughn"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "125"
+B_BB = "39"
+B_HP = "3"
+B_RBI = "62"
+B_SO = "70"
+B_GDP = "11"
+
+
+[[person]]
+name.last = "Kimball"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "143"
+B_BB = "57"
+B_HP = "3"
+B_RBI = "60"
+B_SO = "76"
+B_GDP = "8"
+
+
+[[person]]
+name.last = "Biggs"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "98"
+B_BB = "24"
+B_HP = "1"
+B_RBI = "59"
+B_SO = "26"
+B_GDP = "16"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "121"
+B_BB = "37"
+B_HP = "1"
+B_RBI = "59"
+B_SO = "57"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Vitter"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "140"
+B_BB = "50"
+B_HP = "2"
+B_RBI = "57"
+B_SO = "50"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "H."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "58"
+B_BB = "30"
+B_HP = "1"
+B_RBI = "56"
+B_SO = "9"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Lyon"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "64"
+B_BB = "16"
+B_HP = "2"
+B_RBI = "55"
+B_SO = "13"
+B_GDP = "11"
+
+
+[[person]]
+name.last = "Genovese"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "148"
+B_BB = "115"
+B_HP = "5"
+B_RBI = "55"
+B_SO = "43"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Glunt"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "152"
+B_BB = "23"
+B_HP = "3"
+B_RBI = "55"
+B_SO = "34"
+B_GDP = "8"
+
+
+[[person]]
+name.last = "Wren"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "110"
+B_BB = "26"
+B_HP = "4"
+B_RBI = "54"
+B_SO = "38"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Culler"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "148"
+B_BB = "46"
+B_HP = "3"
+B_RBI = "54"
+B_SO = "33"
+B_GDP = "8"
+
+
+[[person]]
+name.last = "Boken"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "76"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "53"
+B_SO = "22"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Howerton"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "133"
+B_BB = "36"
+B_HP = "2"
+B_RBI = "52"
+B_SO = "75"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Danneker"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "142"
+B_BB = "85"
+B_HP = "1"
+B_RBI = "51"
+B_SO = "45"
+B_GDP = "12"
+
+
+[[person]]
+name.last = "Pruett"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "114"
+B_BB = "51"
+B_HP = "2"
+B_RBI = "49"
+B_SO = "36"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Secory"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "88"
+B_BB = "44"
+B_HP = "2"
+B_RBI = "47"
+B_SO = "41"
+B_GDP = "8"
+
+
+[[person]]
+name.last = "English"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "91"
+B_BB = "34"
+B_HP = "1"
+B_RBI = "47"
+B_SO = "14"
+B_GDP = "14"
+
+
+[[person]]
+name.last = "Drews"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "95"
+B_BB = "57"
+B_HP = "1"
+B_RBI = "46"
+B_SO = "17"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Dill"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "112"
+B_BB = "44"
+B_HP = "3"
+B_RBI = "46"
+B_SO = "59"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Piet"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "103"
+B_BB = "20"
+B_HP = "7"
+B_RBI = "44"
+B_SO = "21"
+B_GDP = "13"
+
+
+[[person]]
+name.last = "Farrell"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "123"
+B_BB = "34"
+B_HP = "1"
+B_RBI = "44"
+B_SO = "24"
+B_GDP = "10"
+
+
+[[person]]
+name.last = "Jordan"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "66"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "43"
+B_SO = "10"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Todd"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "96"
+B_BB = "37"
+B_HP = "0"
+B_RBI = "43"
+B_SO = "21"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Aragon"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "127"
+B_BB = "52"
+B_HP = "0"
+B_RBI = "43"
+B_SO = "76"
+B_GDP = "11"
+
+
+[[person]]
+name.last = "Clemens"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "101"
+B_BB = "31"
+B_HP = "4"
+B_RBI = "43"
+B_SO = "30"
+B_GDP = "9"
+
+
+[[person]]
+name.last = "Corbett"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "103"
+B_BB = "42"
+B_HP = "3"
+B_RBI = "42"
+B_SO = "39"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Castro"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "128"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "42"
+B_SO = "55"
+B_GDP = "14"
+
+
+[[person]]
+name.last = "Cookson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "141"
+B_BB = "44"
+B_HP = "1"
+B_RBI = "42"
+B_SO = "41"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Ebranyi"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "134"
+B_BB = "75"
+B_HP = "0"
+B_RBI = "39"
+B_SO = "43"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "93"
+B_BB = "52"
+B_HP = "2"
+B_RBI = "38"
+B_SO = "18"
+B_GDP = "9"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "59"
+B_BB = "16"
+B_HP = "1"
+B_RBI = "34"
+B_SO = "22"
+B_GDP = "11"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "D."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "101"
+B_BB = "31"
+B_HP = "0"
+B_RBI = "34"
+B_SO = "27"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Morgan"
+name.given = "E."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "65"
+B_BB = "31"
+B_HP = "1"
+B_RBI = "33"
+B_SO = "12"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Heath"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "68"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "33"
+B_SO = "19"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Burmeister"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "74"
+B_BB = "30"
+B_HP = "3"
+B_RBI = "32"
+B_SO = "21"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Aliperto"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "94"
+B_BB = "23"
+B_HP = "0"
+B_RBI = "25"
+B_SO = "57"
+B_GDP = "8"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "82"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "24"
+B_SO = "11"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Zimmerman"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "47"
+B_BB = "12"
+B_HP = "4"
+B_RBI = "22"
+B_SO = "5"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Saltzgaver"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "85"
+B_BB = "53"
+B_HP = "1"
+B_RBI = "22"
+B_SO = "13"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Holt"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "80"
+B_BB = "28"
+B_HP = "0"
+B_RBI = "22"
+B_SO = "22"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Seinsoth"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "43"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "21"
+B_SO = "17"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Easterwood"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "37"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "20"
+B_SO = "16"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Scoffic"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "46"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "20"
+B_SO = "10"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Rebel"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "22"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "3"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Crumling"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "39"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "16"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Portner"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "49"
+B_BB = "17"
+B_HP = "2"
+B_RBI = "19"
+B_SO = "30"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Musser"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "50"
+B_BB = "13"
+B_HP = "3"
+B_RBI = "19"
+B_SO = "30"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "62"
+B_BB = "6"
+B_HP = "3"
+B_RBI = "18"
+B_SO = "13"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Heltzel"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "70"
+B_BB = "20"
+B_HP = "1"
+B_RBI = "18"
+B_SO = "20"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Vosmik"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "39"
+B_BB = "14"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "5"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Logan"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "66"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "16"
+B_SO = "18"
+B_GDP = "7"
+
+
+[[person]]
+name.last = "Borom"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "79"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "26"
+B_GDP = "9"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "32"
+B_BB = "16"
+B_HP = "1"
+B_RBI = "15"
+B_SO = "14"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Sandlock"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "35"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "16"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Levy"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "46"
+B_BB = "12"
+B_HP = "1"
+B_RBI = "15"
+B_SO = "12"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Schaedler"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "36"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "17"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Bucher"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "2"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Berge"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "57"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "14"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Padden"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "69"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "21"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Rhabe"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "38"
+B_BB = "7"
+B_HP = "2"
+B_RBI = "12"
+B_SO = "8"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Sabena"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "61"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "13"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Sebesak"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "31"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "6"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "McLain"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "39"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "16"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Gassaway"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "43"
+B_BB = "3"
+B_HP = "2"
+B_RBI = "11"
+B_SO = "28"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Herndon"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "25"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "5"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Caldwell"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "29"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "17"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Nitcholas"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "30"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "9"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Kats"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "73"
+B_BB = "36"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "32"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "Capri"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "20"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "5"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Lehrman"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "24"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "10"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Boss"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "27"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "6"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Burkhart"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "33"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "11"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Deutsch"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "36"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "13"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Roberts"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "39"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "31"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "51"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "22"
+B_GDP = "6"
+
+
+[[person]]
+name.last = "McKenna"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "21"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "13"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Scheiwe"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "30"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "9"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Rich"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "41"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "5"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Kelley"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "43"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "3"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Hower"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "13"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "2"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Lady"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "27"
+B_BB = "11"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "11"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Bodner"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "28"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "11"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Badke"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "28"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "14"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Bettencourt"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "29"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "7"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Acosta"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "39"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "11"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "McDonnell"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "14"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "0"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Ripple"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "24"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "5"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Scheetz"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "25"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "6"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Whitehead"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "5"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Raddant"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "27"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "7"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Lamitina"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "27"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "9"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Hogsett"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "31"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "7"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "DiBiasi"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "31"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "14"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Hutchings"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "34"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "9"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Webb"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "36"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "8"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Pepper"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "42"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "21"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Goedde"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "25"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "26"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "11"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "McNulty"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "28"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "8"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Sproull"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "35"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "14"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Schulte"
+name.given = "F."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "37"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "6"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Kimberlin"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "37"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "5"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Mitrus"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "39"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "15"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Morgan"
+name.given = "R."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "41"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "26"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Ananicz"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "12"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "4"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Flowers"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "15"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "8"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Mauer"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "16"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "2"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Podgajny"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "18"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "5"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "V."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "19"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "4"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Sierotko"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "25"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "15"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Herring"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "27"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "3"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Partenheimer"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "28"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "16"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Burman"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "29"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "3"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "31"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "21"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "32"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "14"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Camp"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "34"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "16"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Lopatka"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "39"
+B_BB = "3"
+B_HP = "2"
+B_RBI = "4"
+B_SO = "17"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Fannin"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "41"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Speer"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "24"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "12"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Bates"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "13"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "6"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "14"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Sertich"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "16"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "6"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "18"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "10"
+B_GDP = "3"
+
+
+[[person]]
+name.last = "Lucier"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "22"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "2"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Widmar"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "31"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "22"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Lindquist"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "32"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "19"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Strincevich"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "33"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "11"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Rudolph"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "35"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "14"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Bain"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "35"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "21"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Marshall"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "39"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_GDP = "5"
+
+
+[[person]]
+name.last = "Upton"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "43"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "53"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Dinges"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "11"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "3"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Schlueter"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "12"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "2"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Horton"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "13"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Wood"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "13"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Bowman"
+name.given = "P."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "13"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "8"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Wilkie"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "16"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "9"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Barrett"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "16"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "8"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "D."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "18"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "13"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Odom"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "21"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "11"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Diehl"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "23"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "15"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Patrow"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "29"
+B_BB = "14"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "19"
+B_GDP = "4"
+
+
+[[person]]
+name.last = "Singleton"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "32"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "14"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Farmer"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "34"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Hendrickson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+B_G = "35"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "11"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Creel"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "36"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "20"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Simonds"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "10"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Cullop"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "10"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "0"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Nicklasson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "11"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Lichtenstein"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "12"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "3"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Wiley"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "14"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "12"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Missler"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "17"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Shanklin"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "18"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "14"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Lippold"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "20"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "24"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "11"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "LaMacchia"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "25"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Byers"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "30"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Pugsley"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "30"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Buker"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "37"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Tauscher"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "39"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "10"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Sahlin"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "41"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "14"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "46"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "24"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "W."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "10"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "2"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Klopp"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "10"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Lehman"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "11"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Bickhaus"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+B_G = "11"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Matthewson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "12"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "1"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Frantz"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "12"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Bowman"
+name.given = "R."
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "13"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Goff"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "15"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Mosley"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "16"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "5"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Pfund"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "19"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "11"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Swanson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "21"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "10"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Herr"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "30"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_GDP = "0"
+
+
+[[person]]
+name.last = "Hearn"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+B_G = "39"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "11"
+B_GDP = "2"
+
+
+[[person]]
+name.last = "Cunningham"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+B_G = "40"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "7"
+B_GDP = "1"
+
+
+[[person]]
+name.last = "Wonson"
+[[person.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "42"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "10"
+B_GDP = "1"

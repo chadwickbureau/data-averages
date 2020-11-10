@@ -1,0 +1,134 @@
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "107"
+F_TP = "1"
+F_PB = "8"
+F_PO = "3702"
+F_A = "1457"
+F_E = "230"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "109"
+F_TP = "0"
+F_PB = "22"
+F_PO = "3706"
+F_A = "1510"
+F_E = "245"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "118"
+F_TP = "0"
+F_PB = "24"
+F_PO = "3731"
+F_A = "1707"
+F_E = "288"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "86"
+F_TP = "1"
+F_PB = "6"
+F_PO = "3711"
+F_A = "1485"
+F_E = "302"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Leaksville"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "141"
+F_TP = "0"
+F_PB = "15"
+F_PO = "3706"
+F_A = "1720"
+F_E = "327"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "123"
+F_TP = "0"
+F_PB = "20"
+F_PO = "3759"
+F_A = "1541"
+F_E = "326"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "124"
+F_TP = "0"
+F_PB = "21"
+F_PO = "3697"
+F_A = "1628"
+F_E = "333"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Martinsville"
+[[team.playing]]
+season = "1947"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "109"
+F_TP = "0"
+F_PB = "20"
+F_PO = "3668"
+F_A = "1556"
+F_E = "351"
+F_PCT = ".937"

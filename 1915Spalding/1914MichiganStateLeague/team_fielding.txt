@@ -1,0 +1,62 @@
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3207"
+F_A = "1543"
+F_E = "205"
+F_DP = "94"
+F_TP = "0"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Ludington"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3098"
+F_A = "1513"
+F_E = "223"
+F_DP = "75"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Belding"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "3184"
+F_A = "1488"
+F_E = "283"
+F_DP = "76"
+F_TP = "1"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1914"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3061"
+F_A = "1472"
+F_E = "298"
+F_DP = "81"
+F_TP = "0"
+F_PCT = ".938"

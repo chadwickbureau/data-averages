@@ -1,0 +1,185 @@
+[[person]]
+name.last = "Borland"
+name.given = "Tom"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pastora"
+[person.playing.totals]
+P_IP = "150"
+P_SO = "136"
+P_W = "10"
+P_L = "7"
+P_ERA = "2.16"
+
+
+[[person]]
+name.last = "Hoskins"
+name.given = "Dave"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gavilanes"
+[person.playing.totals]
+P_IP = "158"
+P_SO = "86"
+P_W = "12"
+P_L = "7"
+P_ERA = "2.28"
+
+
+[[person]]
+name.last = "Castellanos"
+name.given = "Ramon"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rapinos"
+[person.playing.totals]
+P_IP = "99"
+P_SO = "64"
+P_W = "6"
+P_L = "7"
+P_ERA = "2.55"
+
+
+[[person]]
+name.last = "Watkins"
+name.given = "Bud"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pastora"
+[person.playing.totals]
+P_IP = "144"
+P_SO = "108"
+P_W = "6"
+P_L = "8"
+P_ERA = "2.75"
+
+
+[[person]]
+name.last = "Cox"
+name.given = "Glenn"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rapinos"
+[person.playing.totals]
+P_IP = "128"
+P_SO = "85"
+P_W = "9"
+P_L = "6"
+P_ERA = "2.89"
+
+
+[[person]]
+name.last = "Dailey"
+name.given = "Bill"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gavilanes"
+[person.playing.totals]
+P_IP = "118"
+P_SO = "85"
+P_W = "5"
+P_L = "9"
+P_ERA = "3.05"
+
+
+[[person]]
+name.last = "Sherry"
+name.given = "Larry"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cabimas"
+[person.playing.totals]
+P_IP = "124"
+P_SO = "138"
+P_W = "8"
+P_L = "8"
+P_ERA = "3.12"
+
+
+[[person]]
+name.last = "Greenwood"
+name.given = "Bob"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pastora"
+[person.playing.totals]
+P_IP = "95"
+P_SO = "65"
+P_W = "7"
+P_L = "4"
+P_ERA = "3.22"
+
+
+[[person]]
+name.last = "Harris"
+name.given = "Bill"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cabimas"
+[person.playing.totals]
+P_IP = "107"
+P_SO = "74"
+P_W = "5"
+P_L = "8"
+P_ERA = "3.36"
+
+
+[[person]]
+name.last = "Casale"
+name.given = "Jerry"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gavilanes"
+[person.playing.totals]
+P_IP = "99"
+P_SO = "77"
+P_W = "5"
+P_L = "7"
+P_ERA = "3.46"
+
+
+[[person]]
+name.last = "Marturet"
+name.given = "Luis"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cabimas"
+[person.playing.totals]
+P_IP = "91"
+P_SO = "30"
+P_W = "5"
+P_L = "3"
+P_ERA = "3.76"

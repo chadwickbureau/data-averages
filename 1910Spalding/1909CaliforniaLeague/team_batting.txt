@@ -1,0 +1,96 @@
+[[team]]
+name = "Santa Cruz"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "3169"
+B_R = "449"
+B_H = "799"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "158"
+B_AB = "5282"
+B_R = "624"
+B_H = "1292"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4485"
+B_R = "550"
+B_H = "1085"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4965"
+B_R = "508"
+B_H = "1179"
+B_AVG = ".237"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "88"
+B_AB = "2806"
+B_R = "273"
+B_H = "639"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "45"
+B_AB = "1499"
+B_R = "133"
+B_H = "334"
+B_AVG = ".223"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "3084"
+B_R = "287"
+B_H = "645"
+B_AVG = ".209"

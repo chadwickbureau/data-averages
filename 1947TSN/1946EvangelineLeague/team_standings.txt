@@ -1,0 +1,178 @@
+[[team]]
+name = "Houma"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "39"
+R_PCT = ".702"
+R_RANK = "1"
+
+
+[[team]]
+name = "Natchez"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "87"
+R_L = "46"
+R_PCT = ".654"
+R_RANK = "2"
+
+
+[[team]]
+name = "Abbeville"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "82"
+R_L = "48"
+R_PCT = ".631"
+R_RANK = "3"
+
+
+[[team]]
+name = "Alexandria"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "67"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "New Iberia"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "79"
+R_PCT = ".402"
+R_RANK = "5"
+
+
+[[team]]
+name = "Thibodaux"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "80"
+R_PCT = ".398"
+R_RANK = "6"
+
+
+[[team]]
+name = "Baton Rouge"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "82"
+R_PCT = ".379"
+R_RANK = "6"
+
+
+[[team]]
+name = "Hammond"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "87"
+R_PCT = ".336"
+R_RANK = "8"
+
+
+[[team]]
+name = "Houma"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Alexandria"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Abbeville"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Natchez"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Houma"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Abbeville"
+[[team.playing]]
+season = "1946"
+league.name = "Evangeline League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_RANK = "2"

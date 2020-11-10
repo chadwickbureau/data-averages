@@ -1,0 +1,142 @@
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "363"
+B_H = "1114"
+B_TB = "1246"
+B_AVG = ".295"
+B_2B = "114"
+B_3B = "25"
+B_HR = "6"
+B_SH = "145"
+B_SB = "171"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "496"
+B_H = "1012"
+B_TB = "1235"
+B_AVG = ".254"
+B_2B = "146"
+B_3B = "12"
+B_HR = "2"
+B_SH = "153"
+B_SB = "159"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "473"
+B_H = "917"
+B_TB = "1108"
+B_AVG = ".248"
+B_2B = "120"
+B_3B = "25"
+B_HR = "7"
+B_SH = "142"
+B_SB = "220"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "423"
+B_H = "881"
+B_TB = "1045"
+B_AVG = ".238"
+B_2B = "114"
+B_3B = "25"
+B_HR = "6"
+B_SH = "113"
+B_SB = "196"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "512"
+B_H = "904"
+B_TB = "1113"
+B_AVG = ".227"
+B_2B = "135"
+B_3B = "22"
+B_HR = "7"
+B_SH = "140"
+B_SB = "171"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "439"
+B_H = "866"
+B_TB = "1051"
+B_AVG = ".218"
+B_2B = "125"
+B_3B = "21"
+B_HR = "6"
+B_SH = "128"
+B_SB = "134"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "373"
+B_H = "910"
+B_TB = "1063"
+B_AVG = ".217"
+B_2B = "127"
+B_3B = "14"
+B_HR = "5"
+B_SH = "64"
+B_SB = "78"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1906"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_R = "383"
+B_H = "830"
+B_TB = "1014"
+B_AVG = ".216"
+B_2B = "115"
+B_3B = "25"
+B_HR = "6"
+B_SH = "140"
+B_SB = "152"

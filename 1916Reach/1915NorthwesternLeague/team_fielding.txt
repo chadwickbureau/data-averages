@@ -1,0 +1,88 @@
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+F_PO = "4199"
+F_A = "1999"
+F_E = "313"
+F_DP = "108"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "102"
+F_PO = "2676"
+F_A = "1396"
+F_E = "170"
+F_DP = "64"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "159"
+F_PO = "4243"
+F_A = "1950"
+F_E = "284"
+F_DP = "97"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_PO = "2776"
+F_A = "1452"
+F_E = "213"
+F_DP = "59"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4269"
+F_A = "1955"
+F_E = "324"
+F_DP = "146"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1915"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4012"
+F_A = "2084"
+F_E = "319"
+F_DP = "111"
+F_PCT = ".950"

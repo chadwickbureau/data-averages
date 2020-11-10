@@ -1,0 +1,100 @@
+[[team]]
+name = "Corpus Christi"
+[[team.playing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "132"
+F_PB = "21"
+F_PO = "3334"
+F_A = "1270"
+F_E = "175"
+F_PCT = ".963"
+F_TP = "0"
+
+
+[[team]]
+name = "Port Arthur/Temple"
+[[team.playing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "104"
+F_DP = "111"
+F_PB = "17"
+F_PO = "2715"
+F_A = "1108"
+F_E = "160"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "111"
+F_PB = "23"
+F_PO = "3234"
+F_A = "1136"
+F_E = "187"
+F_PCT = ".959"
+F_TP = "1"
+
+
+[[team]]
+name = "Abilene"
+[[team.playing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "109"
+F_PB = "32"
+F_PO = "3289"
+F_A = "1324"
+F_E = "206"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "30"
+F_DP = "29"
+F_PB = "7"
+F_PO = "755"
+F_A = "314"
+F_E = "52"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1957"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "107"
+F_PB = "19"
+F_PO = "3296"
+F_A = "1352"
+F_E = "242"
+F_PCT = ".951"
+F_TP = "0"

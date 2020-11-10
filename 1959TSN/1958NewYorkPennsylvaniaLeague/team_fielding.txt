@@ -1,0 +1,134 @@
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "116"
+F_PB = "18"
+F_PO = "3201"
+F_A = "1303"
+F_E = "176"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "106"
+F_PB = "28"
+F_PO = "3216"
+F_A = "1322"
+F_E = "204"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "86"
+F_PB = "33"
+F_PO = "3213"
+F_A = "1105"
+F_E = "214"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "110"
+F_PB = "15"
+F_PO = "3200"
+F_A = "1213"
+F_E = "213"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Corning"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "123"
+F_PB = "30"
+F_PO = "3133"
+F_A = "1257"
+F_E = "227"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "105"
+F_PB = "52"
+F_PO = "3097"
+F_A = "1189"
+F_E = "217"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "78"
+F_PB = "23"
+F_PO = "3201"
+F_A = "1188"
+F_E = "220"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "98"
+F_PB = "22"
+F_PO = "3214"
+F_A = "1226"
+F_E = "229"
+F_PCT = ".951"
+F_TP = "0"

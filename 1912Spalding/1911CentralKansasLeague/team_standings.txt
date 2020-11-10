@@ -1,0 +1,128 @@
+[[team]]
+name = "Concordia"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "16"
+R_PCT = ".556"
+R_RANK = "1"
+
+
+[[team]]
+name = "Clay Center"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "19"
+R_L = "17"
+R_PCT = ".528"
+R_RANK = "2"
+
+
+[[team]]
+name = "Junction City"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "19"
+R_L = "17"
+R_PCT = ".528"
+R_RANK = "3"
+
+
+[[team]]
+name = "Manhattan"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "14"
+R_L = "22"
+R_PCT = ".389"
+R_RANK = "4"
+
+
+[[team]]
+name = "Junction City"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "24"
+R_L = "11"
+R_PCT = ".686"
+R_RANK = "1"
+
+
+[[team]]
+name = "Clay Center"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "21"
+R_L = "14"
+R_PCT = ".600"
+R_RANK = "2"
+
+
+[[team]]
+name = "Manhattan"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "14"
+R_L = "21"
+R_PCT = ".400"
+R_RANK = "3"
+
+
+[[team]]
+name = "Concordia"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "11"
+R_L = "24"
+R_PCT = ".314"
+R_RANK = "4"
+
+
+[[team]]
+name = "Concordia"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Junction City"
+[[team.playing]]
+season = "1911"
+league.name = "Central Kansas League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"

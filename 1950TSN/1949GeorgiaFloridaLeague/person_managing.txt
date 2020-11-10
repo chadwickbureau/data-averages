@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Bender"
+name.given = "Sheldon"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Albany"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Alexson"
+name.given = "Andrew"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Valdosta"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Katkaveck"
+name.given = "Stanley (Mickey)"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waycross"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "Edward"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Americus"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "DiLullo"
+name.given = "Ralph"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thomasville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Peterman"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Moultrie"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lee"
+name.given = "Harold"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cordele"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Veazey"
+name.given = "Norman"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tallahassee"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Shawkey"
+name.given = "Robert"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tallahassee"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Heving"
+name.given = "John"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tallahassee"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cabaniss"
+name.given = "Eugene"
+[[person.managing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tallahassee"
+S_ORDER = "4"
+[person.managing.totals]

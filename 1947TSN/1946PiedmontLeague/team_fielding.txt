@@ -1,0 +1,100 @@
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1946"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "107"
+F_TP = "0"
+F_PB = "6"
+F_PO = "3670"
+F_A = "1555"
+F_E = "222"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1946"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "97"
+F_TP = "1"
+F_PB = "20"
+F_PO = "3646"
+F_A = "1564"
+F_E = "222"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1946"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "140"
+F_TP = "0"
+F_PB = "28"
+F_PO = "3664"
+F_A = "1572"
+F_E = "253"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1946"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "134"
+F_TP = "0"
+F_PB = "23"
+F_PO = "3590"
+F_A = "1555"
+F_E = "254"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1946"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "114"
+F_TP = "0"
+F_PB = "19"
+F_PO = "3617"
+F_A = "1550"
+F_E = "270"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1946"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "116"
+F_TP = "0"
+F_PB = "32"
+F_PO = "3661"
+F_A = "1585"
+F_E = "319"
+F_PCT = ".943"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_PO = "3828"
+F_A = "1963"
+F_E = "203"
+F_TC = "5994"
+F_PB = "23"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3976"
+F_A = "1941"
+F_E = "228"
+F_TC = "6145"
+F_PB = "12"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3980"
+F_A = "1831"
+F_E = "239"
+F_TC = "6050"
+F_PB = "9"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3912"
+F_A = "1880"
+F_E = "254"
+F_TC = "6036"
+F_PB = "21"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_PO = "3829"
+F_A = "2010"
+F_E = "261"
+F_TC = "6100"
+F_PB = "21"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_PO = "3963"
+F_A = "1902"
+F_E = "269"
+F_TC = "6154"
+F_PB = "6"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_PO = "3948"
+F_A = "1980"
+F_E = "286"
+F_TC = "6214"
+F_PB = "12"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_PO = "4013"
+F_A = "1808"
+F_E = "309"
+F_TC = "6130"
+F_PB = "7"
+F_PCT = ".950"

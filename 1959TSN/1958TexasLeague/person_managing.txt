@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Klein"
+name.given = "Louis"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fort Worth"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Harry (The Hat)"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Houston"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Murray"
+name.given = "Raymond"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Corpus Christi"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lowrey"
+name.given = "Harry (Peanuts)"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Austin"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Williams"
+name.given = "David"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dallas"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Schepps"
+name.given = "George"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dallas"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Frederick"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dallas"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hatton"
+name.given = "Grady"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Antonio"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Widmar"
+name.given = "Albert"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tulsa"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Fanning"
+name.given = "W. James"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tulsa"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rochelli"
+name.given = "Louis"
+[[person.managing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Victoria"
+S_ORDER = "0"
+[person.managing.totals]

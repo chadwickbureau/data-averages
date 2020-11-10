@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Adair"
+name.given = "Marion (Bill)"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Augusta"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Charnofsky"
+name.given = "Stanley"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Augusta"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Blackburn"
+name.given = "Wayne"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Augusta"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Just"
+name.given = "Joseph"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Jacksonville"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Buheller"
+name.given = "Clarence"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Jacksonville"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ozark"
+name.given = "Daniel"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Macon"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Verble"
+name.given = "Gene"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charlotte"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Staller"
+name.given = "George"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Knoxville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wellman"
+name.given = "Robert"
+[[person.managing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Savannah"
+S_ORDER = "0"
+[person.managing.totals]

@@ -1,0 +1,76 @@
+[[team]]
+name = "La Crosse"
+[[team.playing]]
+season = "1906"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "41"
+R_PCT = ".650"
+R_RANK = "1"
+
+
+[[team]]
+name = "Freeport"
+[[team.playing]]
+season = "1906"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "42"
+R_PCT = ".635"
+R_RANK = "2"
+
+
+[[team]]
+name = "Oshkosh"
+[[team.playing]]
+season = "1906"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "63"
+R_PCT = ".475"
+R_RANK = "3"
+
+
+[[team]]
+name = "Green Bay"
+[[team.playing]]
+season = "1906"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "61"
+R_PCT = ".470"
+R_RANK = "4"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1906"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "73"
+R_PCT = ".390"
+R_RANK = "5"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1906"
+league.name = "Wisconsin State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "71"
+R_PCT = ".388"
+R_RANK = "6"

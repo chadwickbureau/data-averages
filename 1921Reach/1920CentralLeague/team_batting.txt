@@ -1,0 +1,90 @@
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4334"
+B_R = "563"
+B_H = "1142"
+B_TB = "1435"
+B_2B = "140"
+B_3B = "57"
+B_HR = "13"
+B_SH = "127"
+B_BB = "454"
+B_HP = "57"
+B_SB = "149"
+B_SO = "511"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Ludington"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4163"
+B_R = "579"
+B_H = "1070"
+B_TB = "1429"
+B_2B = "172"
+B_3B = "32"
+B_HR = "41"
+B_SH = "184"
+B_BB = "482"
+B_HP = "59"
+B_SB = "112"
+B_SO = "556"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4284"
+B_R = "524"
+B_H = "1102"
+B_TB = "1374"
+B_2B = "166"
+B_3B = "41"
+B_HR = "8"
+B_SH = "166"
+B_BB = "350"
+B_HP = "46"
+B_SB = "68"
+B_SO = "563"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1920"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4028"
+B_R = "537"
+B_H = "960"
+B_TB = "1206"
+B_2B = "109"
+B_3B = "46"
+B_HR = "15"
+B_SH = "197"
+B_BB = "432"
+B_HP = "43"
+B_SB = "211"
+B_SO = "561"
+B_AVG = ".238"

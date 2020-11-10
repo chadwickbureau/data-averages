@@ -1,0 +1,142 @@
+[[team]]
+name = "Butler"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4210"
+B_R = "729"
+B_H = "1163"
+B_TB = "1565"
+B_2B = "183"
+B_3B = "78"
+B_HR = "21"
+B_SH = "86"
+B_SB = "118"
+B_BB = "528"
+B_HP = "37"
+B_RBI = "581"
+B_SO = "577"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4219"
+B_R = "676"
+B_H = "1132"
+B_TB = "1534"
+B_2B = "170"
+B_3B = "62"
+B_HR = "36"
+B_SH = "103"
+B_SB = "176"
+B_BB = "534"
+B_HP = "35"
+B_RBI = "527"
+B_SO = "530"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Oil City"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4389"
+B_R = "569"
+B_H = "1101"
+B_TB = "1410"
+B_2B = "168"
+B_3B = "54"
+B_HR = "11"
+B_SH = "87"
+B_SB = "101"
+B_BB = "476"
+B_HP = "35"
+B_RBI = "472"
+B_SO = "639"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Niagara Falls"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4397"
+B_R = "689"
+B_H = "1053"
+B_TB = "1398"
+B_2B = "138"
+B_3B = "75"
+B_HR = "19"
+B_SH = "85"
+B_SB = "109"
+B_BB = "681"
+B_HP = "41"
+B_RBI = "514"
+B_SO = "689"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4114"
+B_R = "601"
+B_H = "986"
+B_TB = "1340"
+B_2B = "142"
+B_3B = "64"
+B_HR = "28"
+B_SH = "118"
+B_SB = "161"
+B_BB = "573"
+B_HP = "52"
+B_RBI = "459"
+B_SO = "698"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Johnstown"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4152"
+B_R = "542"
+B_H = "961"
+B_TB = "1302"
+B_2B = "179"
+B_3B = "39"
+B_HR = "28"
+B_SH = "66"
+B_SB = "135"
+B_BB = "585"
+B_HP = "31"
+B_RBI = "434"
+B_SO = "710"
+B_AVG = ".231"

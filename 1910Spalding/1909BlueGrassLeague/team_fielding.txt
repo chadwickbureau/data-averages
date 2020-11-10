@@ -1,0 +1,70 @@
+[[team]]
+name = "Winchester"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_E = "194"
+F_TC = "3888"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_E = "205"
+F_TC = "2954"
+F_PCT = ".931"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_E = "232"
+F_TC = "4083"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_E = "213"
+F_TC = "3540"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_E = "206"
+F_TC = "4083"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Shelbyville"
+[[team.playing]]
+season = "1909"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+F_E = "222"
+F_TC = "3445"
+F_PCT = ".936"

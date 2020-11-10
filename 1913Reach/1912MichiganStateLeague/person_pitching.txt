@@ -1,0 +1,808 @@
+[[person]]
+name.last = "Kirby"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Traverse City"
+[person.playing.totals]
+P_G = "26"
+P_IP = "174.2"
+P_AB = "663"
+P_H = "110"
+P_WP = "2"
+P_HP = "13"
+P_BB = "38"
+P_SO = "138"
+P_W = "18"
+P_L = "3"
+P_PCT = ".857"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manistee"
+[person.playing.totals]
+P_G = "14"
+P_IP = "108.2"
+P_AB = "428"
+P_H = "84"
+P_WP = "2"
+P_HP = "8"
+P_BB = "31"
+P_SO = "101"
+P_W = "11"
+P_L = "3"
+P_PCT = ".786"
+
+
+[[person]]
+name.last = "Benn"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manistee"
+[person.playing.totals]
+P_G = "38"
+P_IP = "262.2"
+P_AB = "955"
+P_H = "188"
+P_WP = "4"
+P_HP = "9"
+P_BB = "43"
+P_SO = "212"
+P_W = "22"
+P_L = "7"
+P_PCT = ".759"
+
+
+[[person]]
+name.last = "Saeger"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Traverse City"
+[person.playing.totals]
+P_G = "27"
+P_IP = "184.1"
+P_AB = "744"
+P_H = "169"
+P_WP = "2"
+P_HP = "10"
+P_BB = "46"
+P_SO = "77"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "R."
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manistee"
+[person.playing.totals]
+P_G = "31"
+P_IP = "263.1"
+P_AB = "976"
+P_H = "198"
+P_WP = "4"
+P_HP = "10"
+P_BB = "56"
+P_SO = "179"
+P_W = "21"
+P_L = "9"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Jewell"
+name.given = "H."
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ludington"
+[person.playing.totals]
+P_G = "33"
+P_IP = "242"
+P_AB = "1001"
+P_H = "238"
+P_WP = "6"
+P_HP = "7"
+P_BB = "61"
+P_SO = "149"
+P_W = "19"
+P_L = "9"
+P_PCT = ".679"
+
+
+[[person]]
+name.last = "Hogan"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manistee"
+[person.playing.totals]
+P_G = "20"
+P_IP = "161"
+P_AB = "621"
+P_H = "131"
+P_WP = "2"
+P_HP = "5"
+P_BB = "32"
+P_SO = "96"
+P_W = "10"
+P_L = "5"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Traverse City"
+[person.playing.totals]
+P_G = "35"
+P_IP = "231.1"
+P_AB = "906"
+P_H = "207"
+P_WP = "2"
+P_HP = "9"
+P_BB = "23"
+P_SO = "111"
+P_W = "18"
+P_L = "9"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manistee"
+[person.playing.totals]
+P_G = "30"
+P_IP = "225.1"
+P_AB = "870"
+P_H = "186"
+P_WP = "1"
+P_HP = "9"
+P_BB = "36"
+P_SO = "100"
+P_W = "16"
+P_L = "9"
+P_PCT = ".640"
+
+
+[[person]]
+name.last = "Leake"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Traverse City"
+[person.playing.totals]
+P_G = "12"
+P_IP = "99.2"
+P_AB = "346"
+P_H = "61"
+P_WP = "4"
+P_HP = "1"
+P_BB = "20"
+P_SO = "78"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Method"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boyne City"
+[person.playing.totals]
+P_G = "26"
+P_IP = "224"
+P_AB = "864"
+P_H = "171"
+P_WP = "2"
+P_HP = "3"
+P_BB = "25"
+P_SO = "122"
+P_W = "13"
+P_L = "8"
+P_PCT = ".619"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Traverse City"
+[person.playing.totals]
+P_G = "17"
+P_IP = "113"
+P_AB = "463"
+P_H = "112"
+P_WP = "5"
+P_HP = "4"
+P_BB = "30"
+P_SO = "50"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Shaw"
+name.given = "F. D."
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cadillac"
+[[person.playing.split]]
+team.name = "Muskegon"
+[person.playing.totals]
+P_G = "16"
+P_IP = "86.2"
+P_AB = "377"
+P_H = "104"
+P_WP = "3"
+P_HP = "6"
+P_BB = "26"
+P_SO = "51"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Bemis"
+name.given = "Peg"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Muskegon"
+[person.playing.totals]
+P_G = "12"
+P_IP = "99.1"
+P_AB = "395"
+P_H = "79"
+P_WP = "2"
+P_HP = "5"
+P_BB = "19"
+P_SO = "44"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Schaefer"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ludington"
+[person.playing.totals]
+P_G = "31"
+P_IP = "197.2"
+P_AB = "800"
+P_H = "199"
+P_WP = "4"
+P_HP = "6"
+P_BB = "30"
+P_SO = "93"
+P_W = "12"
+P_L = "11"
+P_PCT = ".522"
+
+
+[[person]]
+name.last = "Kuhagen"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boyne City"
+[person.playing.totals]
+P_G = "22"
+P_IP = "114.2"
+P_AB = "461"
+P_H = "117"
+P_WP = "2"
+P_HP = "0"
+P_BB = "28"
+P_SO = "76"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Close"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Traverse City"
+[[person.playing.split]]
+team.name = "Cadillac"
+[person.playing.totals]
+P_G = "26"
+P_IP = "160.1"
+P_AB = "721"
+P_H = "188"
+P_WP = "6"
+P_HP = "11"
+P_BB = "43"
+P_SO = "85"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ludington"
+[person.playing.totals]
+P_G = "37"
+P_IP = "245.2"
+P_AB = "968"
+P_H = "217"
+P_WP = "8"
+P_HP = "10"
+P_BB = "56"
+P_SO = "194"
+P_W = "14"
+P_L = "14"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Boweman"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Muskegon"
+[person.playing.totals]
+P_G = "43"
+P_IP = "299"
+P_AB = "1171"
+P_H = "215"
+P_WP = "16"
+P_HP = "14"
+P_BB = "93"
+P_SO = "213"
+P_W = "17"
+P_L = "18"
+P_PCT = ".486"
+
+
+[[person]]
+name.last = "Roberts"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boyne City"
+[person.playing.totals]
+P_G = "37"
+P_IP = "267"
+P_AB = "1068"
+P_H = "218"
+P_WP = "10"
+P_HP = "21"
+P_BB = "107"
+P_SO = "141"
+P_W = "15"
+P_L = "16"
+P_PCT = ".484"
+
+
+[[person]]
+name.last = "Newmeyer"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ludington"
+[person.playing.totals]
+P_G = "39"
+P_IP = "278.1"
+P_AB = "1110"
+P_H = "244"
+P_WP = "13"
+P_HP = "8"
+P_BB = "61"
+P_SO = "171"
+P_W = "14"
+P_L = "15"
+P_PCT = ".483"
+
+
+[[person]]
+name.last = "Maul"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Muskegon"
+[person.playing.totals]
+P_G = "34"
+P_IP = "247"
+P_AB = "995"
+P_H = "228"
+P_WP = "5"
+P_HP = "10"
+P_BB = "56"
+P_SO = "120"
+P_W = "12"
+P_L = "15"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Meyers"
+name.given = "F."
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boyne City"
+[person.playing.totals]
+P_G = "20"
+P_IP = "146"
+P_AB = "590"
+P_H = "139"
+P_WP = "3"
+P_HP = "2"
+P_BB = "22"
+P_SO = "89"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Sharrock"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Traverse City"
+[[person.playing.split]]
+team.name = "Cadillac"
+[person.playing.totals]
+P_G = "29"
+P_IP = "151"
+P_AB = "596"
+P_H = "155"
+P_WP = "5"
+P_HP = "8"
+P_BB = "34"
+P_SO = "50"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Gerloski"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cadillac"
+[person.playing.totals]
+P_G = "20"
+P_IP = "96"
+P_AB = "387"
+P_H = "96"
+P_WP = "0"
+P_HP = "8"
+P_BB = "46"
+P_SO = "49"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Oldenberg"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Muskegon"
+[[person.playing.split]]
+team.name = "Boyne City"
+[person.playing.totals]
+P_G = "7"
+P_IP = "53"
+P_AB = "190"
+P_H = "47"
+P_WP = "0"
+P_HP = "2"
+P_BB = "8"
+P_SO = "15"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Mooney"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cadillac"
+[person.playing.totals]
+P_G = "46"
+P_IP = "260"
+P_AB = "1069"
+P_H = "274"
+P_WP = "18"
+P_HP = "35"
+P_BB = "105"
+P_SO = "143"
+P_W = "12"
+P_L = "20"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Sherlock"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cadillac"
+[[person.playing.split]]
+team.name = "Traverse City"
+[person.playing.totals]
+P_G = "6"
+P_IP = "46"
+P_AB = "190"
+P_H = "48"
+P_WP = "2"
+P_HP = "6"
+P_BB = "20"
+P_SO = "15"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Browning"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Muskegon"
+[person.playing.totals]
+P_G = "14"
+P_IP = "103.2"
+P_AB = "416"
+P_H = "106"
+P_WP = "1"
+P_HP = "5"
+P_BB = "42"
+P_SO = "39"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Wilkie"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boyne City"
+[person.playing.totals]
+P_G = "15"
+P_IP = "104"
+P_AB = "445"
+P_H = "102"
+P_WP = "3"
+P_HP = "5"
+P_BB = "29"
+P_SO = "70"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Phelan"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Muskegon"
+[person.playing.totals]
+P_G = "21"
+P_IP = "139.2"
+P_AB = "555"
+P_H = "129"
+P_WP = "7"
+P_HP = "4"
+P_BB = "36"
+P_SO = "69"
+P_W = "5"
+P_L = "11"
+P_PCT = ".313"
+
+
+[[person]]
+name.last = "Tindall"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Boyne City"
+[person.playing.totals]
+P_G = "20"
+P_IP = "127.2"
+P_AB = "534"
+P_H = "160"
+P_WP = "2"
+P_HP = "5"
+P_BB = "32"
+P_SO = "41"
+P_W = "3"
+P_L = "12"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Talbot"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cadillac"
+[person.playing.totals]
+P_G = "14"
+P_IP = "92.2"
+P_AB = "382"
+P_H = "91"
+P_WP = "4"
+P_HP = "4"
+P_BB = "36"
+P_SO = "27"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ludington"
+[[person.playing.split]]
+team.name = "Cadillac"
+[person.playing.totals]
+P_G = "23"
+P_IP = "142"
+P_AB = "580"
+P_H = "145"
+P_WP = "1"
+P_HP = "11"
+P_BB = "34"
+P_SO = "62"
+P_W = "3"
+P_L = "12"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Sanford"
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cadillac"
+[person.playing.totals]
+P_G = "23"
+P_IP = "149.1"
+P_AB = "576"
+P_H = "161"
+P_WP = "9"
+P_HP = "7"
+P_BB = "55"
+P_SO = "73"
+P_W = "3"
+P_L = "17"
+P_PCT = ".150"
+
+
+[[person]]
+name.last = "Meyers"
+name.given = "J. H."
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Muskegon"
+[person.playing.totals]
+P_G = "8"
+P_IP = "57.6"
+P_AB = "246"
+P_H = "75"
+P_WP = "2"
+P_HP = "4"
+P_BB = "12"
+P_SO = "26"
+P_W = "1"
+P_L = "6"
+P_PCT = ".143"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Steubenville"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3961"
+B_R = "356"
+B_H = "1069"
+B_TB = "1183"
+B_SH = "193"
+B_SB = "133"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3746"
+B_R = "448"
+B_H = "919"
+B_TB = "1119"
+B_SH = "229"
+B_SB = "262"
+B_AVG = ".245"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4000"
+B_R = "447"
+B_H = "982"
+B_TB = "1175"
+B_SH = "178"
+B_SB = "152"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4056"
+B_R = "377"
+B_H = "964"
+B_TB = "1188"
+B_SH = "175"
+B_SB = "136"
+B_AVG = ".238"
+
+
+[[team]]
+name = "McKeesport"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4187"
+B_R = "547"
+B_H = "992"
+B_TB = "1343"
+B_SH = "203"
+B_SB = "230"
+B_AVG = ".237"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3843"
+B_R = "383"
+B_H = "869"
+B_TB = "1025"
+B_SH = "170"
+B_SB = "161"
+B_AVG = ".226"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4104"
+B_R = "375"
+B_H = "878"
+B_TB = "1078"
+B_SH = "193"
+B_SB = "203"
+B_AVG = ".214"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4145"
+B_R = "397"
+B_H = "854"
+B_TB = "1049"
+B_SH = "147"
+B_SB = "139"
+B_AVG = ".206"

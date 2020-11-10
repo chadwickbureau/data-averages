@@ -1,0 +1,1786 @@
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "14"
+P_CG = "10"
+P_SHO = "2"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "106"
+P_AB = "405"
+P_H = "89"
+P_R = "35"
+P_ER = "24"
+P_SH = "1"
+P_BB = "32"
+P_SO = "83"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "2.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCree"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "22"
+P_CG = "17"
+P_SHO = "1"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "160"
+P_AB = "629"
+P_H = "145"
+P_R = "68"
+P_ER = "39"
+P_SH = "4"
+P_BB = "47"
+P_SO = "124"
+P_HP = "1"
+P_WP = "15"
+P_ERA = "2.19"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gorski"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "13"
+P_CG = "8"
+P_SHO = "2"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "93"
+P_AB = "346"
+P_H = "78"
+P_R = "35"
+P_ER = "23"
+P_SH = "3"
+P_BB = "20"
+P_SO = "48"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "2.23"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Killian"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+P_G = "15"
+P_CG = "7"
+P_SHO = "2"
+P_W = "9"
+P_L = "3"
+P_PCT = ".750"
+P_IP = "104"
+P_AB = "364"
+P_H = "72"
+P_R = "30"
+P_ER = "28"
+P_SH = "3"
+P_BB = "60"
+P_SO = "77"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "2.42"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Wood"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "33"
+P_CG = "21"
+P_SHO = "5"
+P_W = "18"
+P_L = "12"
+P_PCT = ".600"
+P_IP = "234"
+P_AB = "887"
+P_H = "213"
+P_R = "94"
+P_ER = "69"
+P_SH = "8"
+P_BB = "84"
+P_SO = "204"
+P_HP = "9"
+P_WP = "3"
+P_ERA = "2.65"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Southworth"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "40"
+P_CG = "5"
+P_SHO = "1"
+P_W = "21"
+P_L = "1"
+P_PCT = ".955"
+P_IP = "152"
+P_AB = "587"
+P_H = "141"
+P_R = "64"
+P_ER = "53"
+P_SH = "5"
+P_BB = "62"
+P_SO = "100"
+P_HP = "3"
+P_WP = "9"
+P_ERA = "3.14"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Proctor"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+P_G = "21"
+P_CG = "6"
+P_SHO = "0"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+P_IP = "102"
+P_AB = "418"
+P_H = "118"
+P_R = "59"
+P_ER = "36"
+P_SH = "5"
+P_BB = "47"
+P_SO = "59"
+P_HP = "4"
+P_WP = "7"
+P_ERA = "3.18"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Macierowski"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "19"
+P_CG = "8"
+P_SHO = "1"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "127"
+P_AB = "493"
+P_H = "118"
+P_R = "66"
+P_ER = "46"
+P_SH = "2"
+P_BB = "44"
+P_SO = "86"
+P_HP = "7"
+P_WP = "2"
+P_ERA = "3.26"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Abernathy"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "14"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "74"
+P_AB = "297"
+P_H = "89"
+P_R = "40"
+P_ER = "27"
+P_SH = "4"
+P_BB = "22"
+P_SO = "39"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "3.28"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Jarlett"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "30"
+P_CG = "14"
+P_SHO = "1"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+P_IP = "176"
+P_AB = "694"
+P_H = "182"
+P_R = "86"
+P_ER = "65"
+P_SH = "11"
+P_BB = "53"
+P_SO = "94"
+P_HP = "5"
+P_WP = "8"
+P_ERA = "3.32"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Foxworth"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+P_G = "36"
+P_CG = "24"
+P_SHO = "3"
+P_W = "17"
+P_L = "14"
+P_PCT = ".548"
+P_IP = "253"
+P_AB = "1022"
+P_H = "278"
+P_R = "139"
+P_ER = "94"
+P_SH = "11"
+P_BB = "81"
+P_SO = "152"
+P_HP = "5"
+P_WP = "9"
+P_ERA = "3.34"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cudd"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+P_G = "28"
+P_CG = "15"
+P_SHO = "1"
+P_W = "17"
+P_L = "7"
+P_PCT = ".708"
+P_IP = "183"
+P_AB = "720"
+P_H = "198"
+P_R = "104"
+P_ER = "68"
+P_SH = "11"
+P_BB = "49"
+P_SO = "79"
+P_HP = "5"
+P_WP = "5"
+P_ERA = "3.34"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+P_G = "15"
+P_CG = "11"
+P_SHO = "0"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "123"
+P_AB = "466"
+P_H = "114"
+P_R = "63"
+P_ER = "46"
+P_SH = "3"
+P_BB = "60"
+P_SO = "49"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "3.37"
+P_BK = "3"
+
+
+[[person]]
+name.last = "Bringle"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+P_G = "33"
+P_CG = "23"
+P_SHO = "3"
+P_W = "21"
+P_L = "4"
+P_PCT = ".840"
+P_IP = "252"
+P_AB = "982"
+P_H = "249"
+P_R = "118"
+P_ER = "96"
+P_SH = "9"
+P_BB = "78"
+P_SO = "132"
+P_HP = "3"
+P_WP = "10"
+P_ERA = "3.43"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hopper"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+P_G = "28"
+P_CG = "15"
+P_SHO = "2"
+P_W = "17"
+P_L = "8"
+P_PCT = ".680"
+P_IP = "186"
+P_AB = "715"
+P_H = "174"
+P_R = "87"
+P_ER = "71"
+P_SH = "7"
+P_BB = "78"
+P_SO = "91"
+P_HP = "5"
+P_WP = "6"
+P_ERA = "3.44"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+P_G = "30"
+P_CG = "15"
+P_SHO = "3"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_IP = "181"
+P_AB = "678"
+P_H = "151"
+P_R = "84"
+P_ER = "70"
+P_SH = "6"
+P_BB = "101"
+P_SO = "121"
+P_HP = "5"
+P_WP = "15"
+P_ERA = "3.48"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "16"
+P_CG = "7"
+P_SHO = "1"
+P_W = "4"
+P_L = "7"
+P_PCT = ".364"
+P_IP = "100"
+P_AB = "390"
+P_H = "101"
+P_R = "50"
+P_ER = "39"
+P_SH = "6"
+P_BB = "40"
+P_SO = "58"
+P_HP = "6"
+P_WP = "2"
+P_ERA = "3.51"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schuettenberg"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "29"
+P_CG = "15"
+P_SHO = "0"
+P_W = "19"
+P_L = "4"
+P_PCT = ".826"
+P_IP = "182"
+P_AB = "707"
+P_H = "173"
+P_R = "8"
+P_ER = "72"
+P_SH = "3"
+P_BB = "78"
+P_SO = "122"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "3.56"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Calder"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "19"
+P_CG = "6"
+P_SHO = "0"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "115"
+P_AB = "443"
+P_H = "110"
+P_R = "62"
+P_ER = "46"
+P_SH = "3"
+P_BB = "58"
+P_SO = "66"
+P_HP = "5"
+P_WP = "7"
+P_ERA = "3.60"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hyde"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "39"
+P_CG = "4"
+P_SHO = "1"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "132"
+P_AB = "498"
+P_H = "126"
+P_R = "82"
+P_ER = "53"
+P_SH = "6"
+P_BB = "96"
+P_SO = "75"
+P_HP = "10"
+P_WP = "4"
+P_ERA = "3.61"
+P_BK = "4"
+
+
+[[person]]
+name.last = "Palumbo"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "27"
+P_CG = "9"
+P_SHO = "2"
+P_W = "9"
+P_L = "10"
+P_PCT = ".474"
+P_IP = "152"
+P_AB = "596"
+P_H = "159"
+P_R = "89"
+P_ER = "62"
+P_SH = "6"
+P_BB = "77"
+P_SO = "51"
+P_HP = "6"
+P_WP = "9"
+P_ERA = "3.67"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Palmer"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+P_G = "36"
+P_CG = "9"
+P_SHO = "2"
+P_W = "14"
+P_L = "6"
+P_PCT = ".700"
+P_IP = "195"
+P_AB = "776"
+P_H = "213"
+P_R = "93"
+P_ER = "81"
+P_SH = "7"
+P_BB = "33"
+P_SO = "74"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "3.74"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Carpenter"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Statesville"
+P_G = "13"
+[person.playing.totals]
+P_G = "18"
+P_CG = "1"
+P_SHO = "1"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "68"
+P_AB = "245"
+P_H = "61"
+P_R = "35"
+P_ER = "29"
+P_SH = "3"
+P_BB = "41"
+P_SO = "25"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "3.84"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Boyette"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+P_G = "37"
+P_CG = "24"
+P_SHO = "3"
+P_W = "15"
+P_L = "20"
+P_PCT = ".429"
+P_IP = "255"
+P_AB = "1022"
+P_H = "265"
+P_R = "158"
+P_ER = "109"
+P_SH = "12"
+P_BB = "96"
+P_SO = "176"
+P_HP = "10"
+P_WP = "9"
+P_ERA = "3.85"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Strickler"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "18"
+P_CG = "6"
+P_SHO = "1"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "116"
+P_AB = "458"
+P_H = "114"
+P_R = "60"
+P_ER = "51"
+P_SH = "4"
+P_BB = "59"
+P_SO = "72"
+P_HP = "5"
+P_WP = "0"
+P_ERA = "3.96"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nesbitt"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "30"
+P_CG = "8"
+P_SHO = "1"
+P_W = "6"
+P_L = "13"
+P_PCT = ".316"
+P_IP = "145"
+P_AB = "561"
+P_H = "147"
+P_R = "96"
+P_ER = "64"
+P_SH = "6"
+P_BB = "83"
+P_SO = "97"
+P_HP = "8"
+P_WP = "13"
+P_ERA = "3.97"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pelczarski"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "13"
+P_CG = "7"
+P_SHO = "0"
+P_W = "7"
+P_L = "1"
+P_PCT = ".875"
+P_IP = "93"
+P_AB = "382"
+P_H = "99"
+P_R = "52"
+P_ER = "41"
+P_SH = "3"
+P_BB = "25"
+P_SO = "60"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "3.97"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Vaughn"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "15"
+P_CG = "8"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "106"
+P_AB = "420"
+P_H = "108"
+P_R = "61"
+P_ER = "47"
+P_SH = "6"
+P_BB = "46"
+P_SO = "91"
+P_HP = "3"
+P_WP = "1"
+P_ERA = "3.99"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Blume"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "27"
+P_CG = "6"
+P_SHO = "1"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+P_IP = "126"
+P_AB = "502"
+P_H = "130"
+P_R = "75"
+P_ER = "60"
+P_SH = "1"
+P_BB = "79"
+P_SO = "54"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "4.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Landwehr"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "31"
+P_CG = "2"
+P_SHO = "0"
+P_W = "10"
+P_L = "10"
+P_PCT = ".500"
+P_IP = "141"
+P_AB = "572"
+P_H = "159"
+P_R = "91"
+P_ER = "68"
+P_SH = "6"
+P_BB = "77"
+P_SO = "74"
+P_HP = "6"
+P_WP = "25"
+P_ERA = "4.34"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hagen"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "20"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "11"
+P_PCT = ".353"
+P_IP = "113"
+P_AB = "442"
+P_H = "131"
+P_R = "83"
+P_ER = "55"
+P_SH = "6"
+P_BB = "52"
+P_SO = "72"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "4.38"
+P_BK = "2"
+
+
+[[person]]
+name.last = "DiManno"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+P_G = "25"
+P_CG = "5"
+P_SHO = "0"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "112"
+P_AB = "472"
+P_H = "146"
+P_R = "83"
+P_ER = "57"
+P_SH = "7"
+P_BB = "40"
+P_SO = "40"
+P_HP = "2"
+P_WP = "6"
+P_ERA = "4.58"
+P_BK = "0"
+
+
+[[person]]
+name.last = "James"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "31"
+P_CG = "9"
+P_SHO = "1"
+P_W = "8"
+P_L = "9"
+P_PCT = ".471"
+P_IP = "147"
+P_AB = "578"
+P_H = "155"
+P_R = "102"
+P_ER = "75"
+P_SH = "8"
+P_BB = "100"
+P_SO = "83"
+P_HP = "6"
+P_WP = "10"
+P_ERA = "4.59"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Deese"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+P_G = "14"
+P_CG = "7"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "76"
+P_AB = "293"
+P_H = "72"
+P_R = "51"
+P_ER = "39"
+P_SH = "3"
+P_BB = "21"
+P_SO = "48"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "4.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Olsen"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+P_G = "15"
+P_CG = "8"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "83"
+P_AB = "341"
+P_H = "100"
+P_R = "58"
+P_ER = "43"
+P_SH = "1"
+P_BB = "20"
+P_SO = "53"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "4.66"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dwyer"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+P_G = "23"
+P_CG = "8"
+P_SHO = "2"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_IP = "127"
+P_AB = "508"
+P_H = "142"
+P_R = "93"
+P_ER = "66"
+P_SH = "13"
+P_BB = "80"
+P_SO = "67"
+P_HP = "5"
+P_WP = "13"
+P_ERA = "4.68"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "49"
+P_CG = "14"
+P_SHO = "2"
+P_W = "16"
+P_L = "16"
+P_PCT = ".500"
+P_IP = "236"
+P_AB = "961"
+P_H = "265"
+P_R = "148"
+P_ER = "124"
+P_SH = "11"
+P_BB = "83"
+P_SO = "150"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "4.73"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Greene"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "12"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "55"
+P_AB = "217"
+P_H = "55"
+P_R = "46"
+P_ER = "29"
+P_SH = "1"
+P_BB = "55"
+P_SO = "29"
+P_HP = "8"
+P_WP = "8"
+P_ERA = "4.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rachko"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "32"
+P_CG = "9"
+P_SHO = "0"
+P_W = "7"
+P_L = "11"
+P_PCT = ".389"
+P_IP = "174"
+P_AB = "679"
+P_H = "189"
+P_R = "119"
+P_ER = "92"
+P_SH = "10"
+P_BB = "109"
+P_SO = "125"
+P_HP = "4"
+P_WP = "7"
+P_ERA = "4.76"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Handel"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "13"
+P_CG = "5"
+P_SHO = "1"
+P_W = "1"
+P_L = "8"
+P_PCT = ".111"
+P_IP = "72"
+P_AB = "287"
+P_H = "82"
+P_R = "54"
+P_ER = "39"
+P_SH = "6"
+P_BB = "34"
+P_SO = "26"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "4.88"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bennett"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "51"
+P_CG = "0"
+P_SHO = "0"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_IP = "136"
+P_AB = "539"
+P_H = "150"
+P_R = "96"
+P_ER = "75"
+P_SH = "9"
+P_BB = "77"
+P_SO = "126"
+P_HP = "11"
+P_WP = "3"
+P_ERA = "4.96"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Winter"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "30"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "106"
+P_AB = "391"
+P_H = "99"
+P_R = "80"
+P_ER = "59"
+P_SH = "11"
+P_BB = "78"
+P_SO = "62"
+P_HP = "10"
+P_WP = "8"
+P_ERA = "5.01"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fleshman"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "20"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "84"
+P_AB = "341"
+P_H = "102"
+P_R = "61"
+P_ER = "47"
+P_SH = "7"
+P_BB = "51"
+P_SO = "31"
+P_HP = "3"
+P_WP = "3"
+P_ERA = "5.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Philpot"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "18"
+P_CG = "6"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+P_IP = "90"
+P_AB = "371"
+P_H = "111"
+P_R = "69"
+P_ER = "51"
+P_SH = "3"
+P_BB = "52"
+P_SO = "36"
+P_HP = "2"
+P_WP = "6"
+P_ERA = "5.10"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "29"
+P_CG = "5"
+P_SHO = "1"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "142"
+P_AB = "566"
+P_H = "160"
+P_R = "104"
+P_ER = "81"
+P_SH = "7"
+P_BB = "72"
+P_SO = "78"
+P_HP = "5"
+P_WP = "9"
+P_ERA = "5.13"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mathieson"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point-Thomasville"
+[person.playing.totals]
+P_G = "19"
+P_CG = "4"
+P_SHO = "1"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "82"
+P_AB = "330"
+P_H = "99"
+P_R = "56"
+P_ER = "47"
+P_SH = "3"
+P_BB = "22"
+P_SO = "38"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "5.16"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Poole"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "16"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "7"
+P_PCT = ".300"
+P_IP = "94"
+P_AB = "373"
+P_H = "99"
+P_R = "63"
+P_ER = "54"
+P_SH = "10"
+P_BB = "44"
+P_SO = "53"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "5.17"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "33"
+P_CG = "5"
+P_SHO = "0"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "164"
+P_AB = "644"
+P_H = "176"
+P_R = "124"
+P_ER = "96"
+P_SH = "6"
+P_BB = "104"
+P_SO = "74"
+P_HP = "7"
+P_WP = "7"
+P_ERA = "5.27"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Holcomb"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "21"
+P_CG = "3"
+P_SHO = "0"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "102"
+P_AB = "406"
+P_H = "112"
+P_R = "66"
+P_ER = "60"
+P_SH = "2"
+P_BB = "53"
+P_SO = "69"
+P_HP = "8"
+P_WP = "2"
+P_ERA = "5.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Comer"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+P_G = "14"
+P_CG = "4"
+P_SHO = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "62"
+P_AB = "262"
+P_H = "77"
+P_R = "49"
+P_ER = "37"
+P_SH = "5"
+P_BB = "24"
+P_SO = "26"
+P_HP = "1"
+P_WP = "7"
+P_ERA = "5.37"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Eury"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+P_G = "13"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "71"
+P_AB = "291"
+P_H = "89"
+P_R = "52"
+P_ER = "43"
+P_SH = "6"
+P_BB = "28"
+P_SO = "39"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "5.45"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wierbicki"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+P_G = "24"
+P_CG = "6"
+P_SHO = "0"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "159"
+P_AB = "644"
+P_H = "177"
+P_R = "133"
+P_ER = "99"
+P_SH = "9"
+P_BB = "125"
+P_SO = "83"
+P_HP = "8"
+P_WP = "10"
+P_ERA = "5.60"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Tokarchik"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+P_G = "19"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "85"
+P_AB = "342"
+P_H = "103"
+P_R = "66"
+P_ER = "54"
+P_SH = "6"
+P_BB = "65"
+P_SO = "53"
+P_HP = "3"
+P_WP = "9"
+P_ERA = "5.72"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barton"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "18"
+P_CG = "2"
+P_SHO = "1"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "75"
+P_AB = "287"
+P_H = "72"
+P_R = "65"
+P_ER = "50"
+P_SH = "8"
+P_BB = "80"
+P_SO = "79"
+P_HP = "10"
+P_WP = "8"
+P_ERA = "6.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wetmore"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "21"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "63"
+P_AB = "254"
+P_H = "83"
+P_R = "60"
+P_ER = "44"
+P_SH = "7"
+P_BB = "52"
+P_SO = "29"
+P_HP = "4"
+P_WP = "5"
+P_ERA = "6.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCall"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+P_G = "11"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "64"
+P_AB = "269"
+P_H = "84"
+P_R = "68"
+P_ER = "45"
+P_SH = "4"
+P_BB = "43"
+P_SO = "50"
+P_HP = "3"
+P_WP = "10"
+P_ERA = "6.33"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Phillips"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "18"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "69"
+P_AB = "267"
+P_H = "79"
+P_R = "56"
+P_ER = "49"
+P_SH = "7"
+P_BB = "59"
+P_SO = "42"
+P_HP = "9"
+P_WP = "4"
+P_ERA = "6.39"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Wiggett"
+description.throws = "L"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+P_G = "17"
+[[person.playing.split]]
+team.name = "Mooresville"
+P_G = "6"
+[person.playing.totals]
+P_G = "23"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "9"
+P_PCT = ".308"
+P_IP = "89"
+P_AB = "344"
+P_H = "86"
+P_R = "79"
+P_ER = "64"
+P_SH = "2"
+P_BB = "98"
+P_SO = "89"
+P_HP = "3"
+P_WP = "6"
+P_ERA = "6.47"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Whiteside"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+P_G = "11"
+P_CG = "3"
+P_SHO = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "53"
+P_AB = "225"
+P_H = "69"
+P_R = "53"
+P_ER = "39"
+P_SH = "5"
+P_BB = "30"
+P_SO = "20"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "6.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kraus"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "16"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "7"
+P_PCT = ".300"
+P_IP = "59"
+P_AB = "267"
+P_H = "88"
+P_R = "59"
+P_ER = "49"
+P_SH = "2"
+P_BB = "24"
+P_SO = "26"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "7.47"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "19"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "63"
+P_AB = "297"
+P_H = "111"
+P_R = "79"
+P_ER = "65"
+P_SH = "4"
+P_BB = "45"
+P_SO = "33"
+P_HP = "5"
+P_WP = "13"
+P_ERA = "9.29"
+P_BK = "1"

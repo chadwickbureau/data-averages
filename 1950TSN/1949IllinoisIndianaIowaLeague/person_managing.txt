@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Coleman"
+name.given = "Robert"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Evansville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Huffman"
+name.given = "Bennie"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waterloo"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Shaffer"
+name.given = "Frederick"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waterloo"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Riley"
+name.given = "Leon"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Terre Haute"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Burwell"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Davenport"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Adlam"
+name.given = "James"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Quincy"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Arnovich"
+name.given = "Morris"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Decatur"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rochelli"
+name.given = "Louis"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Danville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Crandall"
+name.given = "James"
+[[person.managing]]
+season = "1949"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Springfield"
+S_ORDER = "0"
+[person.managing.totals]

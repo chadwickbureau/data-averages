@@ -1,0 +1,158 @@
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "3986"
+F_A = "1774"
+F_E = "148"
+F_TC = "5908"
+F_DP = "165"
+F_TP = "1"
+F_PB = "6"
+F_SB = "33"
+F_CS = "38"
+F_PCT = ".975"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "3970"
+F_A = "1606"
+F_E = "181"
+F_TC = "5757"
+F_DP = "141"
+F_TP = "0"
+F_PB = "4"
+F_SB = "56"
+F_CS = "36"
+F_PCT = ".969"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3972"
+F_A = "1595"
+F_E = "182"
+F_TC = "5749"
+F_DP = "127"
+F_TP = "0"
+F_PB = "15"
+F_SB = "34"
+F_CS = "32"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "3906"
+F_A = "1692"
+F_E = "183"
+F_TC = "5781"
+F_DP = "159"
+F_TP = "0"
+F_PB = "12"
+F_SB = "40"
+F_CS = "28"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4006"
+F_A = "1528"
+F_E = "188"
+F_TC = "5722"
+F_DP = "147"
+F_TP = "0"
+F_PB = "8"
+F_SB = "43"
+F_CS = "29"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4004"
+F_A = "1614"
+F_E = "195"
+F_TC = "5813"
+F_DP = "116"
+F_TP = "0"
+F_PB = "15"
+F_SB = "54"
+F_CS = "25"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Corpus Christi"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "3970"
+F_A = "1528"
+F_E = "195"
+F_TC = "5693"
+F_DP = "119"
+F_TP = "0"
+F_PB = "29"
+F_SB = "52"
+F_CS = "34"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "3893"
+F_A = "1736"
+F_E = "205"
+F_TC = "5834"
+F_DP = "145"
+F_TP = "0"
+F_PB = "10"
+F_SB = "60"
+F_CS = "38"
+F_PCT = ".965"

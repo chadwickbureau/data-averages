@@ -1,0 +1,78 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "102387"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "83100"
+
+
+[[team]]
+name = "Pawtucket"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "68767"
+
+
+[[team]]
+name = "Nashua"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "38979"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "30391"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "18191"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "12882"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1949"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "7305"

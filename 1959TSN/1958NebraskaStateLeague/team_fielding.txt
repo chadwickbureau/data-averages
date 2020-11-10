@@ -1,0 +1,134 @@
+[[team]]
+name = "North Platte"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "47"
+F_PB = "28"
+F_PO = "1585"
+F_A = "611"
+F_E = "131"
+F_PCT = ".944"
+F_TP = "0"
+
+
+[[team]]
+name = "McCook"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "31"
+F_PB = "37"
+F_PO = "1641"
+F_A = "657"
+F_E = "159"
+F_PCT = ".935"
+F_TP = "0"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "36"
+F_PB = "22"
+F_PO = "1547"
+F_A = "534"
+F_E = "144"
+F_PCT = ".935"
+F_TP = "0"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "35"
+F_PB = "50"
+F_PO = "1565"
+F_A = "590"
+F_E = "152"
+F_PCT = ".934"
+F_TP = "0"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "35"
+F_PB = "16"
+F_PO = "1568"
+F_A = "549"
+F_E = "153"
+F_PCT = ".933"
+F_TP = "0"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "51"
+F_PB = "29"
+F_PO = "1531"
+F_A = "604"
+F_E = "162"
+F_PCT = ".929"
+F_TP = "0"
+
+
+[[team]]
+name = "Holdrege"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "52"
+F_PB = "47"
+F_PO = "1611"
+F_A = "547"
+F_E = "168"
+F_PCT = ".928"
+F_TP = "0"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "44"
+F_PB = "25"
+F_PO = "1573"
+F_A = "597"
+F_E = "171"
+F_PCT = ".927"
+F_TP = "0"

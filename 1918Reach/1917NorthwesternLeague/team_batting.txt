@@ -1,0 +1,112 @@
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2458"
+B_R = "403"
+B_H = "675"
+B_2B = "152"
+B_3B = "16"
+B_HR = "28"
+B_TB = "268"
+B_SH = "55"
+B_SB = "54"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2201"
+B_R = "361"
+B_H = "600"
+B_2B = "114"
+B_3B = "30"
+B_HR = "9"
+B_TB = "201"
+B_SH = "69"
+B_SB = "130"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2628"
+B_R = "403"
+B_H = "697"
+B_2B = "126"
+B_3B = "44"
+B_HR = "14"
+B_TB = "256"
+B_SH = "74"
+B_SB = "116"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2619"
+B_R = "367"
+B_H = "680"
+B_2B = "123"
+B_3B = "15"
+B_HR = "4"
+B_TB = "165"
+B_SH = "76"
+B_SB = "123"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2390"
+B_R = "337"
+B_H = "620"
+B_2B = "124"
+B_3B = "19"
+B_HR = "33"
+B_TB = "231"
+B_SH = "78"
+B_SB = "81"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2587"
+B_R = "327"
+B_H = "596"
+B_2B = "104"
+B_3B = "11"
+B_HR = "9"
+B_TB = "153"
+B_SH = "107"
+B_SB = "112"
+B_AVG = ".231"

@@ -1,0 +1,3421 @@
+[[person]]
+name.last = "Baker"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "20"
+P_GS = "17"
+P_CG = "9"
+P_SHO = "3"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "112"
+P_H = "104"
+P_HR = "6"
+P_R = "64"
+P_ER = "42"
+P_BB = "75"
+P_SO = "86"
+P_HP = "2"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.38"
+
+
+[[person]]
+name.last = "Ballard"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "29"
+P_GS = "13"
+P_CG = "5"
+P_SHO = "0"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "162"
+P_H = "150"
+P_HR = "13"
+P_R = "113"
+P_ER = "98"
+P_BB = "126"
+P_SO = "143"
+P_HP = "7"
+P_WP = "12"
+P_BK = "1"
+P_ERA = "5.44"
+
+
+[[person]]
+name.last = "Banach"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "16"
+P_GS = "16"
+P_CG = "12"
+P_SHO = "1"
+P_W = "13"
+P_L = "1"
+P_PCT = ".929"
+P_IP = "136"
+P_H = "110"
+P_HR = "6"
+P_R = "38"
+P_ER = "29"
+P_BB = "44"
+P_SO = "121"
+P_HP = "5"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "1.92"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Barto"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "8"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "1"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "55"
+P_H = "43"
+P_HR = "3"
+P_R = "34"
+P_ER = "27"
+P_BB = "40"
+P_SO = "76"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.42"
+
+
+[[person]]
+name.last = "Bessette"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "30"
+P_GS = "18"
+P_CG = "5"
+P_SHO = "0"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "121"
+P_H = "89"
+P_HR = "3"
+P_R = "82"
+P_ER = "70"
+P_BB = "107"
+P_SO = "132"
+P_HP = "9"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "5.21"
+
+
+[[person]]
+name.last = "Budzik"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "35"
+P_GS = "22"
+P_CG = "11"
+P_SHO = "2"
+P_W = "10"
+P_L = "12"
+P_PCT = ".455"
+P_IP = "171"
+P_H = "152"
+P_HR = "14"
+P_R = "96"
+P_ER = "75"
+P_BB = "114"
+P_SO = "145"
+P_HP = "4"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "3.95"
+
+
+[[person]]
+name.last = "Bush"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "57"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "145"
+P_H = "134"
+P_HR = "6"
+P_R = "67"
+P_ER = "52"
+P_BB = "64"
+P_SO = "53"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.23"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Butler"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "32"
+P_GS = "28"
+P_CG = "12"
+P_SHO = "1"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_IP = "193"
+P_H = "182"
+P_HR = "6"
+P_R = "100"
+P_ER = "76"
+P_BB = "123"
+P_SO = "145"
+P_HP = "2"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "3.54"
+
+
+[[person]]
+name.last = "Carson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "26"
+P_GS = "10"
+P_CG = "10"
+P_SHO = "1"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_IP = "144"
+P_H = "150"
+P_HR = "15"
+P_R = "86"
+P_ER = "73"
+P_BB = "70"
+P_SO = "136"
+P_HP = "3"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "4.56"
+
+
+[[person]]
+name.last = "Castro"
+name.given = "A."
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "39"
+P_GS = "18"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "11"
+P_PCT = ".313"
+P_IP = "162"
+P_H = "169"
+P_HR = "7"
+P_R = "87"
+P_ER = "59"
+P_BB = "60"
+P_SO = "121"
+P_HP = "5"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "3.28"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Cisco"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "18"
+P_GS = "16"
+P_CG = "8"
+P_SHO = "0"
+P_W = "4"
+P_L = "10"
+P_PCT = ".286"
+P_IP = "122"
+P_H = "124"
+P_HR = "5"
+P_R = "71"
+P_ER = "53"
+P_BB = "64"
+P_SO = "100"
+P_HP = "3"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.91"
+
+
+[[person]]
+name.last = "Daily"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "30"
+P_GS = "22"
+P_CG = "16"
+P_SHO = "0"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "175"
+P_H = "175"
+P_HR = "5"
+P_R = "86"
+P_ER = "75"
+P_BB = "81"
+P_SO = "135"
+P_HP = "5"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "3.86"
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "14"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "1"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "62"
+P_H = "64"
+P_HR = "5"
+P_R = "39"
+P_ER = "28"
+P_BB = "38"
+P_SO = "22"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.06"
+
+
+[[person]]
+name.last = "DeBruler"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "8"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "30"
+P_H = "30"
+P_HR = "4"
+P_R = "27"
+P_ER = "21"
+P_BB = "20"
+P_SO = "22"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "6.30"
+
+
+[[person]]
+name.last = "DeLeon"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "24"
+P_GS = "14"
+P_CG = "8"
+P_SHO = "2"
+P_W = "11"
+P_L = "6"
+P_PCT = ".647"
+P_IP = "138"
+P_H = "151"
+P_HR = "12"
+P_R = "62"
+P_ER = "53"
+P_BB = "35"
+P_SO = "82"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.46"
+
+
+[[person]]
+name.last = "Dewey"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "17"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "55"
+P_H = "55"
+P_HR = "2"
+P_R = "29"
+P_ER = "22"
+P_BB = "24"
+P_SO = "29"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.60"
+
+
+[[person]]
+name.last = "Dooling"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "7"
+P_SHO = "3"
+P_W = "7"
+P_L = "12"
+P_PCT = ".368"
+P_IP = "139"
+P_H = "135"
+P_HR = "8"
+P_R = "96"
+P_ER = "67"
+P_BB = "125"
+P_SO = "124"
+P_HP = "5"
+P_WP = "10"
+P_BK = "1"
+P_ERA = "4.34"
+
+
+[[person]]
+name.last = "Duerr"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "27"
+P_GS = "19"
+P_CG = "15"
+P_SHO = "2"
+P_W = "13"
+P_L = "8"
+P_PCT = ".619"
+P_IP = "173"
+P_H = "173"
+P_HR = "13"
+P_R = "100"
+P_ER = "76"
+P_BB = "109"
+P_SO = "180"
+P_HP = "3"
+P_WP = "12"
+P_BK = "0"
+P_ERA = "3.95"
+
+
+[[person]]
+name.last = "Dumas"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "22"
+P_GS = "17"
+P_CG = "11"
+P_SHO = "0"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "147"
+P_H = "103"
+P_HR = "9"
+P_R = "59"
+P_ER = "53"
+P_BB = "102"
+P_SO = "148"
+P_HP = "2"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.24"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Duncan"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "10"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "30"
+P_H = "26"
+P_HR = "1"
+P_R = "16"
+P_ER = "14"
+P_BB = "31"
+P_SO = "33"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.20"
+
+
+[[person]]
+name.last = "Dykstra"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "31"
+P_GS = "19"
+P_CG = "9"
+P_SHO = "0"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "127"
+P_H = "135"
+P_HR = "15"
+P_R = "94"
+P_ER = "71"
+P_BB = "81"
+P_SO = "91"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "5.03"
+
+
+[[person]]
+name.last = "Echavarria"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "26"
+P_GS = "16"
+P_CG = "8"
+P_SHO = "0"
+P_W = "7"
+P_L = "9"
+P_PCT = ".438"
+P_IP = "142"
+P_H = "135"
+P_HR = "6"
+P_R = "70"
+P_ER = "60"
+P_BB = "59"
+P_SO = "96"
+P_HP = "0"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "3.80"
+
+
+[[person]]
+name.last = "Egan"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "31"
+P_GS = "21"
+P_CG = "11"
+P_SHO = "1"
+P_W = "10"
+P_L = "14"
+P_PCT = ".417"
+P_IP = "186"
+P_H = "168"
+P_HR = "8"
+P_R = "104"
+P_ER = "76"
+P_BB = "126"
+P_SO = "157"
+P_HP = "18"
+P_WP = "13"
+P_BK = "1"
+P_ERA = "3.68"
+
+
+[[person]]
+name.last = "Erickson"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "26"
+P_GS = "18"
+P_CG = "8"
+P_SHO = "1"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+P_IP = "135"
+P_H = "131"
+P_HR = "9"
+P_R = "81"
+P_ER = "64"
+P_BB = "60"
+P_SO = "98"
+P_HP = "3"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "4.27"
+
+
+[[person]]
+name.last = "Flachman"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "8"
+P_GS = "2"
+P_CG = "2"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "31"
+P_H = "24"
+P_HR = "3"
+P_R = "11"
+P_ER = "8"
+P_BB = "16"
+P_SO = "22"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.32"
+
+
+[[person]]
+name.last = "Flynn"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "9"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "39"
+P_H = "44"
+P_HR = "2"
+P_R = "25"
+P_ER = "20"
+P_BB = "32"
+P_SO = "39"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.62"
+
+
+[[person]]
+name.last = "Foy"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "14"
+P_GS = "4"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "57"
+P_H = "51"
+P_HR = "2"
+P_R = "29"
+P_ER = "21"
+P_BB = "30"
+P_SO = "50"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.32"
+
+
+[[person]]
+name.last = "Gallagher"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "15"
+P_GS = "14"
+P_CG = "6"
+P_SHO = "0"
+P_W = "4"
+P_L = "10"
+P_PCT = ".286"
+P_IP = "96"
+P_H = "73"
+P_HR = "6"
+P_R = "59"
+P_ER = "48"
+P_BB = "97"
+P_SO = "126"
+P_HP = "3"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Gordon"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "7"
+P_GS = "6"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "56"
+P_H = "50"
+P_HR = "5"
+P_R = "25"
+P_ER = "22"
+P_BB = "34"
+P_SO = "40"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.54"
+
+
+[[person]]
+name.last = "Hackett"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "10"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "2"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "46"
+P_H = "41"
+P_HR = "4"
+P_R = "31"
+P_ER = "30"
+P_BB = "25"
+P_SO = "42"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "5.87"
+
+
+[[person]]
+name.last = "Hallett"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "22"
+P_GS = "15"
+P_CG = "6"
+P_SHO = "1"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "127"
+P_H = "117"
+P_HR = "6"
+P_R = "66"
+P_ER = "48"
+P_BB = "63"
+P_SO = "84"
+P_HP = "2"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.40"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Heffner"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "10"
+P_GS = "8"
+P_CG = "5"
+P_SHO = "0"
+P_W = "7"
+P_L = "2"
+P_PCT = ".778"
+P_IP = "68"
+P_H = "63"
+P_HR = "2"
+P_R = "30"
+P_ER = "25"
+P_BB = "31"
+P_SO = "67"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "3.31"
+
+
+[[person]]
+name.last = "Holmes"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "16"
+P_GS = "10"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "56"
+P_H = "54"
+P_HR = "8"
+P_R = "45"
+P_ER = "43"
+P_BB = "51"
+P_SO = "51"
+P_HP = "2"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "6.91"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "23"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "90"
+P_H = "132"
+P_HR = "13"
+P_R = "84"
+P_ER = "64"
+P_BB = "34"
+P_SO = "63"
+P_HP = "2"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "6.40"
+
+
+[[person]]
+name.last = "Judson"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "15"
+P_GS = "8"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "51"
+P_H = "57"
+P_HR = "1"
+P_R = "48"
+P_ER = "35"
+P_BB = "57"
+P_SO = "40"
+P_HP = "2"
+P_WP = "12"
+P_BK = "0"
+P_ERA = "6.18"
+
+
+[[person]]
+name.last = "King"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "19"
+P_GS = "14"
+P_CG = "8"
+P_SHO = "2"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "103"
+P_H = "68"
+P_HR = "3"
+P_R = "50"
+P_ER = "43"
+P_BB = "87"
+P_SO = "118"
+P_HP = "2"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "3.76"
+
+
+[[person]]
+name.last = "Laspagnoletta"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "26"
+P_GS = "12"
+P_CG = "7"
+P_SHO = "0"
+P_W = "12"
+P_L = "5"
+P_PCT = ".706"
+P_IP = "138"
+P_H = "112"
+P_HR = "5"
+P_R = "56"
+P_ER = "44"
+P_BB = "90"
+P_SO = "125"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "2.87"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Maestri"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "42"
+P_GS = "28"
+P_CG = "10"
+P_SHO = "2"
+P_W = "16"
+P_L = "11"
+P_PCT = ".593"
+P_IP = "156"
+P_H = "194"
+P_HR = "9"
+P_R = "94"
+P_ER = "61"
+P_BB = "126"
+P_SO = "210"
+P_HP = "1"
+P_WP = "10"
+P_BK = "1"
+P_ERA = "3.52"
+
+
+[[person]]
+name.last = "Maly"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "10"
+P_GS = "8"
+P_CG = "1"
+P_SHO = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "42"
+P_H = "47"
+P_HR = "3"
+P_R = "39"
+P_ER = "32"
+P_BB = "37"
+P_SO = "29"
+P_HP = "4"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "6.86"
+
+
+[[person]]
+name.last = "Martens"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "6"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "32"
+P_H = "37"
+P_HR = "3"
+P_R = "20"
+P_ER = "14"
+P_BB = "10"
+P_SO = "26"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.94"
+
+
+[[person]]
+name.last = "Matzura"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "23"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "95"
+P_H = "109"
+P_HR = "4"
+P_R = "62"
+P_ER = "44"
+P_BB = "69"
+P_SO = "56"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.17"
+
+
+[[person]]
+name.last = "McGuire"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "13"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "0"
+P_L = "7"
+P_PCT = ".000"
+P_IP = "40"
+P_H = "64"
+P_HR = "2"
+P_R = "29"
+P_ER = "26"
+P_BB = "35"
+P_SO = "31"
+P_HP = "1"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "5.85"
+
+
+[[person]]
+name.last = "Menshouse"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "45"
+P_H = "51"
+P_HR = "2"
+P_R = "21"
+P_ER = "15"
+P_BB = "30"
+P_SO = "19"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Mora"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "38"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "65"
+P_H = "64"
+P_HR = "4"
+P_R = "59"
+P_ER = "44"
+P_BB = "61"
+P_SO = "58"
+P_HP = "7"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "6.09"
+
+
+[[person]]
+name.last = "Nonnenmocher"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "9"
+P_GS = "7"
+P_CG = "5"
+P_SHO = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "57"
+P_H = "63"
+P_HR = "3"
+P_R = "27"
+P_ER = "22"
+P_BB = "17"
+P_SO = "34"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.47"
+
+
+[[person]]
+name.last = "Papstein"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "27"
+P_GS = "14"
+P_CG = "5"
+P_SHO = "1"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "122"
+P_H = "120"
+P_HR = "3"
+P_R = "61"
+P_ER = "46"
+P_BB = "46"
+P_SO = "80"
+P_HP = "4"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.39"
+
+
+[[person]]
+name.last = "Patterson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "18"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "66"
+P_H = "71"
+P_HR = "4"
+P_R = "39"
+P_ER = "32"
+P_BB = "25"
+P_SO = "69"
+P_HP = "8"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "4.36"
+
+
+[[person]]
+name.last = "Pekich"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "28"
+P_GS = "23"
+P_CG = "10"
+P_SHO = "0"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "178"
+P_H = "165"
+P_HR = "15"
+P_R = "82"
+P_ER = "68"
+P_BB = "83"
+P_SO = "123"
+P_HP = "2"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "3.44"
+
+
+[[person]]
+name.last = "Perez"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "28"
+P_GS = "24"
+P_CG = "13"
+P_SHO = "4"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_IP = "176"
+P_H = "156"
+P_HR = "13"
+P_R = "94"
+P_ER = "73"
+P_BB = "67"
+P_SO = "119"
+P_HP = "7"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.73"
+
+
+[[person]]
+name.last = "Pierce"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "8"
+P_GS = "4"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "49"
+P_H = "49"
+P_HR = "2"
+P_R = "19"
+P_ER = "14"
+P_BB = "16"
+P_SO = "37"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.57"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "8"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "43"
+P_H = "44"
+P_HR = "3"
+P_R = "25"
+P_ER = "19"
+P_BB = "16"
+P_SO = "30"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.98"
+
+
+[[person]]
+name.last = "Radzevich"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "27"
+P_GS = "19"
+P_CG = "14"
+P_SHO = "1"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "169"
+P_H = "157"
+P_HR = "9"
+P_R = "75"
+P_ER = "53"
+P_BB = "65"
+P_SO = "105"
+P_HP = "7"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.82"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Raymer"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "26"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "71"
+P_H = "76"
+P_HR = "4"
+P_R = "48"
+P_ER = "36"
+P_BB = "48"
+P_SO = "37"
+P_HP = "3"
+P_WP = "1"
+P_BK = "2"
+P_ERA = "4.56"
+
+
+[[person]]
+name.last = "Reidell"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "31"
+P_H = "45"
+P_HR = "3"
+P_R = "41"
+P_ER = "33"
+P_BB = "42"
+P_SO = "23"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "9.58"
+
+
+[[person]]
+name.last = "Richenberg"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "14"
+P_GS = "9"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "67"
+P_H = "70"
+P_HR = "4"
+P_R = "52"
+P_ER = "40"
+P_BB = "47"
+P_SO = "37"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "5.37"
+
+
+[[person]]
+name.last = "Risenhoover"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "33"
+P_GS = "28"
+P_CG = "11"
+P_SHO = "0"
+P_W = "20"
+P_L = "8"
+P_PCT = ".714"
+P_IP = "248"
+P_H = "194"
+P_HR = "14"
+P_R = "91"
+P_ER = "72"
+P_BB = "93"
+P_SO = "236"
+P_HP = "3"
+P_WP = "24"
+P_BK = "4"
+P_ERA = "2.61"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Rouleau"
+name.given = "Jas."
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "8"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "36"
+P_H = "53"
+P_HR = "2"
+P_R = "27"
+P_ER = "20"
+P_BB = "24"
+P_SO = "15"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.00"
+
+
+[[person]]
+name.last = "Rovelto"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "16"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "67"
+P_H = "64"
+P_HR = "8"
+P_R = "48"
+P_ER = "38"
+P_BB = "43"
+P_SO = "52"
+P_HP = "1"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "5.10"
+
+
+[[person]]
+name.last = "Rowland"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "16"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "60"
+P_H = "74"
+P_HR = "6"
+P_R = "37"
+P_ER = "31"
+P_BB = "36"
+P_SO = "25"
+P_HP = "0"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.65"
+
+
+[[person]]
+name.last = "Scalzi"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "11"
+P_GS = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "57"
+P_H = "59"
+P_HR = "2"
+P_R = "30"
+P_ER = "26"
+P_BB = "43"
+P_SO = "33"
+P_HP = "4"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.11"
+
+
+[[person]]
+name.last = "Shell"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "16"
+P_GS = "11"
+P_CG = "7"
+P_SHO = "2"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "102"
+P_H = "84"
+P_HR = "2"
+P_R = "40"
+P_ER = "30"
+P_BB = "45"
+P_SO = "75"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.65"
+
+
+[[person]]
+name.last = "Seeman"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "36"
+P_GS = "24"
+P_CG = "13"
+P_SHO = "3"
+P_W = "17"
+P_L = "11"
+P_PCT = ".607"
+P_IP = "204"
+P_H = "199"
+P_HR = "18"
+P_R = "99"
+P_ER = "80"
+P_BB = "60"
+P_SO = "160"
+P_HP = "1"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.53"
+
+
+[[person]]
+name.last = "Shrode"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "7"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "36"
+P_H = "40"
+P_HR = "4"
+P_R = "29"
+P_ER = "26"
+P_BB = "27"
+P_SO = "35"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "6.50"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "C."
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "26"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "1"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "80"
+P_H = "70"
+P_HR = "4"
+P_R = "55"
+P_ER = "41"
+P_BB = "58"
+P_SO = "53"
+P_HP = "3"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "4.61"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "S."
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "13"
+P_GS = "10"
+P_CG = "4"
+P_SHO = "2"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "66"
+P_H = "65"
+P_HR = "2"
+P_R = "42"
+P_ER = "34"
+P_BB = "48"
+P_SO = "40"
+P_HP = "3"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.64"
+
+
+[[person]]
+name.last = "Snyder"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "25"
+P_GS = "19"
+P_CG = "8"
+P_SHO = "1"
+P_W = "6"
+P_L = "11"
+P_PCT = ".353"
+P_IP = "110"
+P_H = "124"
+P_HR = "2"
+P_R = "72"
+P_ER = "52"
+P_BB = "52"
+P_SO = "89"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.25"
+
+
+[[person]]
+name.last = "Soviero"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "18"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "79"
+P_H = "80"
+P_HR = "2"
+P_R = "66"
+P_ER = "51"
+P_BB = "80"
+P_SO = "49"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "5.81"
+
+
+[[person]]
+name.last = "Stedman"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "27"
+P_GS = "15"
+P_CG = "11"
+P_SHO = "2"
+P_W = "10"
+P_L = "6"
+P_PCT = ".625"
+P_IP = "144"
+P_H = "156"
+P_HR = "9"
+P_R = "86"
+P_ER = "66"
+P_BB = "49"
+P_SO = "96"
+P_HP = "2"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "4.13"
+
+
+[[person]]
+name.last = "Stoehr"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "20"
+P_GS = "16"
+P_CG = "10"
+P_SHO = "2"
+P_W = "10"
+P_L = "3"
+P_PCT = ".769"
+P_IP = "128"
+P_H = "105"
+P_HR = "11"
+P_R = "62"
+P_ER = "49"
+P_BB = "72"
+P_SO = "90"
+P_HP = "2"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "3.45"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "10"
+P_GS = "10"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "64"
+P_H = "46"
+P_HR = "2"
+P_R = "37"
+P_ER = "29"
+P_BB = "40"
+P_SO = "38"
+P_HP = "8"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.08"
+
+
+[[person]]
+name.last = "Temple"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "21"
+P_GS = "16"
+P_CG = "8"
+P_SHO = "1"
+P_W = "9"
+P_L = "6"
+P_PCT = ".600"
+P_IP = "136"
+P_H = "101"
+P_HR = "10"
+P_R = "71"
+P_ER = "53"
+P_BB = "80"
+P_SO = "90"
+P_HP = "5"
+P_WP = "12"
+P_BK = "1"
+P_ERA = "3.51"
+
+
+[[person]]
+name.last = "Trammel"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "20"
+P_GS = "18"
+P_CG = "8"
+P_SHO = "0"
+P_W = "10"
+P_L = "6"
+P_PCT = ".625"
+P_IP = "135"
+P_H = "77"
+P_HR = "5"
+P_R = "75"
+P_ER = "55"
+P_BB = "105"
+P_SO = "144"
+P_HP = "7"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "3.67"
+
+
+[[person]]
+name.last = "Travis"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "21"
+P_GS = "19"
+P_CG = "8"
+P_SHO = "1"
+P_W = "6"
+P_L = "12"
+P_PCT = ".333"
+P_IP = "125"
+P_H = "117"
+P_HR = "7"
+P_R = "71"
+P_ER = "61"
+P_BB = "93"
+P_SO = "115"
+P_HP = "3"
+P_WP = "14"
+P_BK = "0"
+P_ERA = "4.39"
+
+
+[[person]]
+name.last = "Whelan"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "21"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "74"
+P_H = "80"
+P_HR = "3"
+P_R = "40"
+P_ER = "37"
+P_BB = "47"
+P_SO = "49"
+P_HP = "1"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Wilderman"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "11"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "1"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "50"
+P_H = "44"
+P_HR = "2"
+P_R = "26"
+P_ER = "20"
+P_BB = "30"
+P_SO = "28"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.60"
+
+
+[[person]]
+name.last = "Wise"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "20"
+P_GS = "13"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "8"
+P_PCT = ".273"
+P_IP = "127"
+P_H = "115"
+P_HR = "2"
+P_R = "58"
+P_ER = "43"
+P_BB = "54"
+P_SO = "74"
+P_HP = "5"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "3.05"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Ballou"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "4"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dulkowski"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Faecher"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gott"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mikkelsen"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sanders"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "14"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Serzen"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Butts"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cash"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dudley"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gurney"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hatchell"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Holmes"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Markey"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Milledge"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Perry"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rickerson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Roman"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Siebert"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Tuohey"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Batavia"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Amershek"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cunningham"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DeCandido"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fenn"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Geiser"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Halloran"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hammill"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jacoby"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Presley"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trochim"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wheeler"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "8"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Witkowski"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corning"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Heflin"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kerestes"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Potts"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Repasky"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Clessuras"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "4"
+P_W = "2"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Donatucci"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Estermyer"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gromek"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "17"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jaciuk"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Julio"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mandy"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Maupin"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "May"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nichols"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Otis"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sebring"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "P."
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "10"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Steele"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erie"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bowles"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bristol"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Griesheimer"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mace"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Reiss"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rubenacker"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Soderstrom"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Geneva"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Colgan"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dickerson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Foreman"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "George"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "10"
+P_W = "2"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rouleau"
+name.given = "John"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Olean"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Andujar"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Arrigo"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Chevere"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "4"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Huda"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kenney"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Matta"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Minor"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Norley"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Zabielski"
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wellsville"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"

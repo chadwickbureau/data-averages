@@ -1,0 +1,166 @@
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5363"
+B_R = "992"
+B_H = "1706"
+B_TB = "2363"
+B_2B = "280"
+B_3B = "100"
+B_HR = "59"
+B_SH = "191"
+B_SB = "180"
+B_LOB = "1135"
+B_AVG = ".318"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "5154"
+B_R = "909"
+B_H = "1572"
+B_TB = "2378"
+B_2B = "303"
+B_3B = "100"
+B_HR = "101"
+B_SH = "211"
+B_SB = "125"
+B_LOB = "1012"
+B_AVG = ".305"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "151"
+B_AB = "5224"
+B_R = "854"
+B_H = "1561"
+B_TB = "2238"
+B_2B = "287"
+B_3B = "75"
+B_HR = "80"
+B_SH = "162"
+B_SB = "151"
+B_LOB = "1099"
+B_AVG = ".299"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5119"
+B_R = "889"
+B_H = "1523"
+B_TB = "2058"
+B_2B = "212"
+B_3B = "82"
+B_HR = "53"
+B_SH = "239"
+B_SB = "262"
+B_LOB = "1088"
+B_AVG = ".298"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5120"
+B_R = "871"
+B_H = "1524"
+B_TB = "2009"
+B_2B = "236"
+B_3B = "69"
+B_HR = "37"
+B_SH = "209"
+B_SB = "368"
+B_LOB = "1090"
+B_AVG = ".298"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5151"
+B_R = "735"
+B_H = "1461"
+B_TB = "1878"
+B_2B = "200"
+B_3B = "68"
+B_HR = "27"
+B_SH = "184"
+B_SB = "157"
+B_LOB = "1086"
+B_AVG = ".284"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "151"
+B_AB = "4985"
+B_R = "598"
+B_H = "1341"
+B_TB = "1711"
+B_2B = "179"
+B_3B = "73"
+B_HR = "15"
+B_SH = "143"
+B_SB = "118"
+B_LOB = "1000"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "150"
+B_AB = "5056"
+B_R = "573"
+B_H = "1232"
+B_TB = "1633"
+B_2B = "196"
+B_3B = "53"
+B_HR = "33"
+B_SH = "112"
+B_SB = "68"
+B_LOB = "1133"
+B_AVG = ".244"

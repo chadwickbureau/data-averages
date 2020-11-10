@@ -1,0 +1,134 @@
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "62"
+B_AB = "2022"
+B_R = "336"
+B_H = "563"
+B_TB = "754"
+B_SH = "112"
+B_SB = "103"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "66"
+B_AB = "2219"
+B_R = "318"
+B_H = "604"
+B_TB = "828"
+B_SH = "84"
+B_SB = "69"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "67"
+B_AB = "2194"
+B_R = "281"
+B_H = "586"
+B_TB = "744"
+B_SH = "87"
+B_SB = "87"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "67"
+B_AB = "2117"
+B_R = "294"
+B_H = "541"
+B_TB = "718"
+B_SH = "77"
+B_SB = "114"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Moline"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "65"
+B_AB = "2128"
+B_R = "252"
+B_H = "530"
+B_TB = "682"
+B_SH = "97"
+B_SB = "86"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Alton"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "63"
+B_AB = "2015"
+B_R = "212"
+B_H = "498"
+B_TB = "641"
+B_SH = "60"
+B_SB = "67"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "62"
+B_AB = "2064"
+B_R = "236"
+B_H = "494"
+B_TB = "624"
+B_SH = "58"
+B_SB = "76"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1917"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "62"
+B_AB = "2112"
+B_R = "264"
+B_H = "486"
+B_TB = "634"
+B_SH = "57"
+B_SB = "84"
+B_AVG = ".230"

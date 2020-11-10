@@ -1,0 +1,150 @@
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "167"
+B_AB = "5747"
+B_R = "969"
+B_H = "1727"
+B_2B = "306"
+B_3B = "74"
+B_HR = "68"
+B_SH = "255"
+B_SB = "248"
+B_AVG = ".301"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "165"
+B_AB = "5546"
+B_R = "878"
+B_H = "1549"
+B_2B = "267"
+B_3B = "62"
+B_HR = "52"
+B_SH = "253"
+B_SB = "168"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5611"
+B_R = "719"
+B_H = "1501"
+B_2B = "194"
+B_3B = "72"
+B_HR = "17"
+B_SH = "266"
+B_SB = "251"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "165"
+B_AB = "5573"
+B_R = "774"
+B_H = "1488"
+B_2B = "249"
+B_3B = "74"
+B_HR = "20"
+B_SH = "200"
+B_SB = "166"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "170"
+B_AB = "5694"
+B_R = "738"
+B_H = "1520"
+B_2B = "231"
+B_3B = "103"
+B_HR = "30"
+B_SH = "217"
+B_SB = "175"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5504"
+B_R = "671"
+B_H = "1419"
+B_2B = "159"
+B_3B = "70"
+B_HR = "16"
+B_SH = "244"
+B_SB = "169"
+B_AVG = ".258"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "166"
+B_AB = "5484"
+B_R = "727"
+B_H = "1390"
+B_2B = "176"
+B_3B = "86"
+B_HR = "39"
+B_SH = "136"
+B_SB = "268"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1911"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "167"
+B_AB = "5544"
+B_R = "693"
+B_H = "1399"
+B_2B = "329"
+B_3B = "67"
+B_HR = "33"
+B_SH = "210"
+B_SB = "139"
+B_AVG = ".252"

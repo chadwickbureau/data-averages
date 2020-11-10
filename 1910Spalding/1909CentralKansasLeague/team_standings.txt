@@ -1,0 +1,102 @@
+[[team]]
+name = "Ellsworth"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "23"
+R_PCT = ".657"
+R_RANK = "1"
+
+
+[[team]]
+name = "Salina"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "28"
+R_PCT = ".588"
+R_RANK = "2"
+
+
+[[team]]
+name = "Abilene"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "37"
+R_L = "30"
+R_PCT = ".552"
+R_RANK = "3"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "36"
+R_L = "32"
+R_PCT = ".529"
+R_RANK = "4"
+
+
+[[team]]
+name = "Junction City"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "34"
+R_L = "32"
+R_PCT = ".515"
+R_RANK = "5"
+
+
+[[team]]
+name = "Beloit"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "36"
+R_PCT = ".478"
+R_RANK = "6"
+
+
+[[team]]
+name = "Clay Center"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "32"
+R_L = "37"
+R_PCT = ".463"
+R_RANK = "7"
+
+
+[[team]]
+name = "Manhattan"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "16"
+R_L = "54"
+R_PCT = ".229"
+R_RANK = "8"

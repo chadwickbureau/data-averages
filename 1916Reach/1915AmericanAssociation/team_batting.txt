@@ -1,0 +1,182 @@
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5327"
+B_R = "805"
+B_ER = "573"
+B_H = "1504"
+B_TB = "1972"
+B_2B = "246"
+B_3B = "78"
+B_HR = "22"
+B_SH = "213"
+B_SB = "113"
+B_BB = "550"
+B_SO = "499"
+B_LOB = "1172"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5164"
+B_R = "711"
+B_ER = "561"
+B_H = "1394"
+B_TB = "1830"
+B_2B = "215"
+B_3B = "55"
+B_HR = "37"
+B_SH = "175"
+B_SB = "147"
+B_BB = "570"
+B_SO = "481"
+B_LOB = "1124"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5043"
+B_R = "725"
+B_ER = "519"
+B_H = "1363"
+B_TB = "1694"
+B_2B = "175"
+B_3B = "60"
+B_HR = "12"
+B_SH = "257"
+B_SB = "237"
+B_BB = "566"
+B_SO = "448"
+B_LOB = "1082"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5077"
+B_R = "727"
+B_ER = "523"
+B_H = "1357"
+B_TB = "1814"
+B_2B = "188"
+B_3B = "106"
+B_HR = "19"
+B_SH = "201"
+B_SB = "173"
+B_BB = "559"
+B_SO = "430"
+B_LOB = "1092"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Cleveland"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4960"
+B_R = "672"
+B_ER = "443"
+B_H = "1301"
+B_TB = "1678"
+B_2B = "187"
+B_3B = "77"
+B_HR = "12"
+B_SH = "184"
+B_SB = "206"
+B_BB = "496"
+B_SO = "509"
+B_LOB = "1009"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5032"
+B_R = "714"
+B_ER = "469"
+B_H = "1305"
+B_TB = "1678"
+B_2B = "166"
+B_3B = "60"
+B_HR = "29"
+B_SH = "213"
+B_SB = "180"
+B_BB = "687"
+B_SO = "494"
+B_LOB = "1170"
+B_AVG = ".259"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5108"
+B_R = "704"
+B_ER = "510"
+B_H = "1307"
+B_TB = "1793"
+B_2B = "195"
+B_3B = "87"
+B_HR = "39"
+B_SH = "226"
+B_SB = "162"
+B_BB = "603"
+B_SO = "581"
+B_LOB = "1130"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1915"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4782"
+B_R = "532"
+B_ER = "387"
+B_H = "1154"
+B_TB = "1455"
+B_2B = "164"
+B_3B = "49"
+B_HR = "13"
+B_SH = "152"
+B_SB = "129"
+B_BB = "490"
+B_SO = "495"
+B_LOB = "1006"
+B_AVG = ".241"

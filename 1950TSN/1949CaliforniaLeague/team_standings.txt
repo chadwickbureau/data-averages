@@ -1,0 +1,192 @@
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "54"
+R_T = "0"
+R_PCT = ".612"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "83"
+R_L = "57"
+R_T = "0"
+R_PCT = ".592"
+R_RANK = "2"
+
+
+[[team]]
+name = "Ventura"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "60"
+R_T = "1"
+R_PCT = ".571"
+R_RANK = "3"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "64"
+R_T = "1"
+R_PCT = ".543"
+R_RANK = "4"
+
+
+[[team]]
+name = "Santa Barbara"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "65"
+R_T = "0"
+R_PCT = ".536"
+R_RANK = "5"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "76"
+R_T = "0"
+R_PCT = ".457"
+R_RANK = "6"
+
+
+[[team]]
+name = "Modesto"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "85"
+R_T = "0"
+R_PCT = ".388"
+R_RANK = "7"
+
+
+[[team]]
+name = "Visalia"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "98"
+R_T = "0"
+R_PCT = ".300"
+R_RANK = "8"
+
+
+[[team]]
+name = "Ventura"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "2"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "3"
+R_PCT = ".400"
+R_RANK = "2"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "0"
+R_L = "3"
+R_PCT = ".000"
+R_RANK = "2"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"

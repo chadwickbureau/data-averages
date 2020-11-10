@@ -1,0 +1,134 @@
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "133"
+F_TP = "0"
+F_PB = "11"
+F_PO = "3578"
+F_A = "1617"
+F_E = "189"
+F_PCT = ".965"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "129"
+F_TP = "0"
+F_PB = "13"
+F_PO = "3550"
+F_A = "1588"
+F_E = "220"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "147"
+F_TP = "1"
+F_PB = "14"
+F_PO = "3534"
+F_A = "1552"
+F_E = "245"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "106"
+F_TP = "1"
+F_PB = "8"
+F_PO = "3501"
+F_A = "1461"
+F_E = "238"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "104"
+F_TP = "0"
+F_PB = "7"
+F_PO = "3492"
+F_A = "1464"
+F_E = "245"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "81"
+F_TP = "1"
+F_PB = "19"
+F_PO = "3545"
+F_A = "1480"
+F_E = "278"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "132"
+F_TP = "0"
+F_PB = "12"
+F_PO = "3461"
+F_A = "1582"
+F_E = "281"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1945"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "90"
+F_TP = "1"
+F_PB = "22"
+F_PO = "3444"
+F_A = "1467"
+F_E = "295"
+F_PCT = ".943"

@@ -1,0 +1,58 @@
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "62485"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "39857"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "37309"
+
+
+[[team]]
+name = "Stamford"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "31092"
+
+
+[[team]]
+name = "Kingston"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "29231"
+
+
+[[team]]
+name = "Poughkeepsie"
+[[team.playing]]
+season = "1949"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "25123"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "72"
+F_PB = "6"
+F_PO = "3548"
+F_A = "1664"
+F_E = "215"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "80"
+F_PB = "8"
+F_PO = "3635"
+F_A = "1862"
+F_E = "235"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "64"
+F_PB = "7"
+F_PO = "3663"
+F_A = "1886"
+F_E = "260"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "77"
+F_PB = "11"
+F_PO = "3599"
+F_A = "1671"
+F_E = "259"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "77"
+F_PB = "6"
+F_PO = "3591"
+F_A = "1722"
+F_E = "265"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "58"
+F_PB = "12"
+F_PO = "3637"
+F_A = "1881"
+F_E = "281"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "69"
+F_PB = "2"
+F_PO = "3605"
+F_A = "1604"
+F_E = "273"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "67"
+F_PB = "9"
+F_PO = "3596"
+F_A = "1757"
+F_E = "338"
+F_PCT = ".941"

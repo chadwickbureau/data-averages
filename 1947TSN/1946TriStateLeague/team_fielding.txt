@@ -1,0 +1,100 @@
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1946"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "120"
+F_TP = "0"
+F_PB = "23"
+F_PO = "3654"
+F_A = "1607"
+F_E = "221"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1946"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "106"
+F_TP = "1"
+F_PB = "19"
+F_PO = "3687"
+F_A = "1595"
+F_E = "254"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1946"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "81"
+F_TP = "1"
+F_PB = "14"
+F_PO = "3590"
+F_A = "1474"
+F_E = "245"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1946"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "135"
+F_TP = "0"
+F_PB = "16"
+F_PO = "3573"
+F_A = "1455"
+F_E = "258"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Shelby"
+[[team.playing]]
+season = "1946"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "128"
+F_TP = "0"
+F_PB = "8"
+F_PO = "3585"
+F_A = "1624"
+F_E = "281"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1946"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "92"
+F_TP = "1"
+F_PB = "23"
+F_PO = "3514"
+F_A = "1394"
+F_E = "321"
+F_PCT = ".939"

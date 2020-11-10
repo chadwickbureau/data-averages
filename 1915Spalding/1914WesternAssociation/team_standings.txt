@@ -1,0 +1,180 @@
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "37"
+R_L = "21"
+R_PCT = ".638"
+R_RANK = "1"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "34"
+R_L = "22"
+R_PCT = ".607"
+R_RANK = "2"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "34"
+R_L = "23"
+R_PCT = ".596"
+R_RANK = "3"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "30"
+R_L = "27"
+R_PCT = ".526"
+R_RANK = "4"
+
+
+[[team]]
+name = "Joplin-Webb City"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "38"
+R_PCT = ".415"
+R_RANK = "5"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "18"
+R_L = "42"
+R_PCT = ".300"
+R_RANK = "6"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "44"
+R_L = "27"
+R_PCT = ".620"
+R_RANK = "1"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "40"
+R_L = "27"
+R_PCT = ".587"
+R_RANK = "2"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "39"
+R_L = "29"
+R_PCT = ".574"
+R_RANK = "3"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "38"
+R_L = "31"
+R_PCT = ".551"
+R_RANK = "4"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "37"
+R_PCT = ".439"
+R_RANK = "5"
+
+
+[[team]]
+name = "Henryetta"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "15"
+R_L = "54"
+R_PCT = ".217"
+R_RANK = "6"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

@@ -1,0 +1,158 @@
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5570"
+B_R = "865"
+B_H = "1549"
+B_2B = "227"
+B_3B = "57"
+B_HR = "29"
+B_TB = "1977"
+B_SH = "197"
+B_SB = "292"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5533"
+B_R = "794"
+B_H = "1477"
+B_2B = "282"
+B_3B = "56"
+B_HR = "41"
+B_TB = "1994"
+B_SH = "169"
+B_SB = "184"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5587"
+B_R = "805"
+B_H = "1462"
+B_2B = "215"
+B_3B = "87"
+B_HR = "33"
+B_TB = "1951"
+B_SH = "202"
+B_SB = "138"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "163"
+B_AB = "5435"
+B_R = "676"
+B_H = "1380"
+B_2B = "182"
+B_3B = "70"
+B_HR = "27"
+B_TB = "1783"
+B_SH = "177"
+B_SB = "169"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "165"
+B_AB = "5408"
+B_R = "715"
+B_H = "1368"
+B_2B = "207"
+B_3B = "72"
+B_HR = "11"
+B_TB = "1752"
+B_SH = "203"
+B_SB = "233"
+B_AVG = ".253"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5503"
+B_R = "739"
+B_H = "1394"
+B_2B = "188"
+B_3B = "99"
+B_HR = "32"
+B_TB = "1870"
+B_SH = "199"
+B_SB = "205"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "170"
+B_AB = "5458"
+B_R = "591"
+B_H = "1358"
+B_2B = "179"
+B_3B = "68"
+B_HR = "11"
+B_TB = "1706"
+B_SH = "185"
+B_SB = "132"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1912"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5464"
+B_R = "604"
+B_H = "1314"
+B_2B = "163"
+B_3B = "64"
+B_HR = "12"
+B_TB = "1641"
+B_SH = "193"
+B_SB = "173"
+B_AVG = ".240"

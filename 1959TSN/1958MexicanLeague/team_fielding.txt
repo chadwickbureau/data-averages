@@ -1,0 +1,100 @@
+[[team]]
+name = "Yucatan"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "110"
+F_PB = "17"
+F_PO = "3118"
+F_A = "1224"
+F_E = "120"
+F_PCT = ".973"
+F_TP = "0"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "129"
+F_PB = "5"
+F_PO = "3140"
+F_A = "1211"
+F_E = "137"
+F_PCT = ".969"
+F_TP = "0"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "124"
+F_PB = "11"
+F_PO = "3140"
+F_A = "1364"
+F_E = "159"
+F_PCT = ".968"
+F_TP = "0"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "110"
+F_PB = "10"
+F_PO = "3125"
+F_A = "1390"
+F_E = "169"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "134"
+F_PB = "27"
+F_PO = "3066"
+F_A = "1323"
+F_E = "175"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "137"
+F_PB = "8"
+F_PO = "3247"
+F_A = "1393"
+F_E = "195"
+F_PCT = ".960"
+F_TP = "1"

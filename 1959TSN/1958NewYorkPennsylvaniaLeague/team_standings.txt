@@ -1,0 +1,186 @@
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "56"
+R_T = "0"
+R_PCT = ".556"
+R_RANK = "1"
+
+
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "57"
+R_T = "0"
+R_PCT = ".548"
+R_RANK = "2"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "57"
+R_T = "0"
+R_PCT = ".540"
+R_RANK = "3"
+
+
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "58"
+R_T = "0"
+R_PCT = ".536"
+R_RANK = "4"
+
+
+[[team]]
+name = "Corning"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "61"
+R_T = "0"
+R_PCT = ".512"
+R_RANK = "5"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "65"
+R_T = "0"
+R_PCT = ".480"
+R_RANK = "6"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "72"
+R_T = "0"
+R_PCT = ".424"
+R_RANK = "7"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "74"
+R_T = "0"
+R_PCT = ".403"
+R_RANK = "8"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "2"
+R_RANK = "2"
+
+
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "0"
+R_L = "2"
+R_RANK = "2"
+
+
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "3"
+R_RANK = "2"

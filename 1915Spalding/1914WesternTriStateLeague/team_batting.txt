@@ -1,0 +1,78 @@
+[[team]]
+name = "Pendleton"
+[[team.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "3082"
+B_R = "462"
+B_H = "869"
+B_2B = "171"
+B_3B = "42"
+B_HR = "30"
+B_TB = "1214"
+B_SH = "123"
+B_SB = "180"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Baker"
+[[team.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "3143"
+B_R = "387"
+B_H = "825"
+B_2B = "164"
+B_3B = "24"
+B_HR = "23"
+B_TB = "1106"
+B_SH = "90"
+B_SB = "163"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Walla Walla"
+[[team.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "3106"
+B_R = "416"
+B_H = "786"
+B_2B = "148"
+B_3B = "40"
+B_HR = "33"
+B_TB = "1113"
+B_SH = "85"
+B_SB = "138"
+B_AVG = ".253"
+
+
+[[team]]
+name = "North Yakima"
+[[team.playing]]
+season = "1914"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "2938"
+B_R = "355"
+B_H = "731"
+B_2B = "156"
+B_3B = "35"
+B_HR = "21"
+B_TB = "1029"
+B_SH = "79"
+B_SB = "144"
+B_AVG = ".249"

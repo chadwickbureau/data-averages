@@ -1,0 +1,166 @@
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "5092"
+B_R = "859"
+B_H = "1524"
+B_TB = "2032"
+B_2B = "231"
+B_3B = "83"
+B_HR = "37"
+B_SH = "191"
+B_SB = "241"
+B_LOB = "1031"
+B_AVG = ".299"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4771"
+B_R = "588"
+B_H = "1318"
+B_TB = "1764"
+B_2B = "218"
+B_3B = "75"
+B_HR = "26"
+B_SH = "184"
+B_SB = "114"
+B_LOB = "948"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "146"
+B_AB = "4724"
+B_R = "640"
+B_H = "1289"
+B_TB = "1716"
+B_2B = "189"
+B_3B = "83"
+B_HR = "24"
+B_SH = "190"
+B_SB = "169"
+B_LOB = "1033"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "150"
+B_AB = "5025"
+B_R = "601"
+B_H = "1360"
+B_TB = "1740"
+B_2B = "168"
+B_3B = "64"
+B_HR = "28"
+B_SH = "172"
+B_SB = "172"
+B_LOB = "1060"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "148"
+B_AB = "4924"
+B_R = "656"
+B_H = "1326"
+B_TB = "1671"
+B_2B = "182"
+B_3B = "53"
+B_HR = "19"
+B_SH = "188"
+B_SB = "182"
+B_LOB = "1041"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "4760"
+B_R = "631"
+B_H = "1209"
+B_TB = "1560"
+B_2B = "188"
+B_3B = "47"
+B_HR = "23"
+B_SH = "218"
+B_SB = "190"
+B_LOB = "1008"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "151"
+B_AB = "4772"
+B_R = "614"
+B_H = "1201"
+B_TB = "1566"
+B_2B = "198"
+B_3B = "67"
+B_HR = "11"
+B_SH = "249"
+B_SB = "279"
+B_LOB = "974"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1919"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "4797"
+B_R = "489"
+B_H = "1176"
+B_TB = "1498"
+B_2B = "151"
+B_3B = "63"
+B_HR = "15"
+B_SH = "177"
+B_SB = "115"
+B_LOB = "958"
+B_AVG = ".245"

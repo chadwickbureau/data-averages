@@ -1,0 +1,150 @@
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5770"
+B_R = "1068"
+B_H = "1732"
+B_TB = "2378"
+B_SH = "278"
+B_SB = "305"
+B_2B = "331"
+B_3B = "48"
+B_HR = "73"
+B_AVG = ".300"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5536"
+B_R = "943"
+B_H = "1567"
+B_TB = "2163"
+B_SH = "298"
+B_SB = "385"
+B_2B = "215"
+B_3B = "87"
+B_HR = "69"
+B_AVG = ".283"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5568"
+B_R = "801"
+B_H = "1491"
+B_TB = "2007"
+B_SH = "233"
+B_SB = "233"
+B_2B = "249"
+B_3B = "60"
+B_HR = "49"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5447"
+B_R = "789"
+B_H = "1437"
+B_TB = "1920"
+B_SH = "245"
+B_SB = "254"
+B_2B = "207"
+B_3B = "60"
+B_HR = "52"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5525"
+B_R = "835"
+B_H = "1458"
+B_TB = "1970"
+B_SH = "279"
+B_SB = "321"
+B_2B = "234"
+B_3B = "79"
+B_HR = "40"
+B_AVG = ".264"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5477"
+B_R = "774"
+B_H = "1403"
+B_TB = "1897"
+B_SH = "249"
+B_SB = "348"
+B_2B = "226"
+B_3B = "83"
+B_HR = "34"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5522"
+B_R = "563"
+B_H = "1293"
+B_TB = "1701"
+B_SH = "134"
+B_SB = "132"
+B_2B = "209"
+B_3B = "50"
+B_HR = "33"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1910"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5431"
+B_R = "625"
+B_H = "1329"
+B_TB = "1725"
+B_SH = "214"
+B_SB = "259"
+B_2B = "152"
+B_3B = "77"
+B_HR = "30"
+B_AVG = ".245"

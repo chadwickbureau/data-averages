@@ -1,0 +1,134 @@
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "150"
+F_PB = "20"
+F_PO = "3524"
+F_A = "1691"
+F_E = "175"
+F_PCT = ".968"
+F_TP = "0"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "136"
+F_PB = "15"
+F_PO = "3520"
+F_A = "1554"
+F_E = "175"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "134"
+F_PB = "5"
+F_PO = "3419"
+F_A = "1575"
+F_E = "182"
+F_PCT = ".965"
+F_TP = "0"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "104"
+F_PB = "12"
+F_PO = "3470"
+F_A = "1515"
+F_E = "203"
+F_PCT = ".961"
+F_TP = "1"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "138"
+F_PB = "14"
+F_PO = "3575"
+F_A = "1612"
+F_E = "218"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "108"
+F_PB = "4"
+F_PO = "3452"
+F_A = "1574"
+F_E = "209"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "102"
+F_PB = "13"
+F_PO = "3423"
+F_A = "1447"
+F_E = "216"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "141"
+F_PB = "17"
+F_PO = "3538"
+F_A = "1589"
+F_E = "238"
+F_PCT = ".956"
+F_TP = "0"

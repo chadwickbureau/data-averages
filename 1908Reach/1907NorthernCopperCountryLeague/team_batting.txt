@@ -1,0 +1,62 @@
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1907"
+league.name = "Northern Copper Country League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "3041"
+B_R = "425"
+B_H = "766"
+B_SH = "136"
+B_SB = "266"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Houghton"
+[[team.playing]]
+season = "1907"
+league.name = "Northern Copper Country League"
+phase = "regular"
+[team.playing.totals]
+B_G = "105"
+B_AB = "3292"
+B_R = "426"
+B_H = "818"
+B_SH = "117"
+B_SB = "184"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Calumet"
+[[team.playing]]
+season = "1907"
+league.name = "Northern Copper Country League"
+phase = "regular"
+[team.playing.totals]
+B_G = "102"
+B_AB = "2756"
+B_R = "297"
+B_H = "648"
+B_SH = "111"
+B_SB = "127"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1907"
+league.name = "Northern Copper Country League"
+phase = "regular"
+[team.playing.totals]
+B_G = "103"
+B_AB = "3516"
+B_R = "404"
+B_H = "819"
+B_SH = "151"
+B_SB = "155"
+B_AVG = ".233"

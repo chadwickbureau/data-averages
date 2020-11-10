@@ -1,0 +1,124 @@
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4583"
+B_R = "638"
+B_H = "1184"
+B_2B = "160"
+B_3B = "83"
+B_HR = "16"
+B_SB = "229"
+B_SH = "185"
+B_SO = "483"
+B_BB = "446"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4635"
+B_R = "649"
+B_H = "1140"
+B_2B = "224"
+B_3B = "55"
+B_HR = "15"
+B_SB = "341"
+B_SH = "165"
+B_SO = "492"
+B_BB = "494"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4842"
+B_R = "482"
+B_H = "1191"
+B_2B = "163"
+B_3B = "39"
+B_HR = "31"
+B_SB = "144"
+B_SH = "149"
+B_SO = "596"
+B_BB = "375"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "145"
+B_AB = "4889"
+B_R = "632"
+B_H = "1191"
+B_2B = "174"
+B_3B = "84"
+B_HR = "22"
+B_SB = "291"
+B_SH = "169"
+B_SO = "707"
+B_BB = "427"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4597"
+B_R = "531"
+B_H = "1101"
+B_2B = "156"
+B_3B = "38"
+B_HR = "21"
+B_SB = "183"
+B_SH = "189"
+B_SO = "683"
+B_BB = "322"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "148"
+B_AB = "4813"
+B_R = "512"
+B_H = "1147"
+B_2B = "169"
+B_3B = "46"
+B_HR = "14"
+B_SB = "260"
+B_SH = "174"
+B_SO = "597"
+B_BB = "401"
+B_AVG = ".238"

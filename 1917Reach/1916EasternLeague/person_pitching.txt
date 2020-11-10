@@ -1,0 +1,898 @@
+[[person]]
+name.last = "Martin"
+name.given = "P."
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+P_G = "36"
+P_W = "21"
+P_L = "6"
+P_IP = "248"
+P_BB = "102"
+P_SO = "166"
+P_PCT = ".769"
+
+
+[[person]]
+name.last = "Hearne"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+P_G = "30"
+P_W = "22"
+P_L = "7"
+P_IP = "263"
+P_BB = "44"
+P_SO = "121"
+P_PCT = ".759"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "G."
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "36"
+P_W = "18"
+P_L = "6"
+P_IP = "220"
+P_BB = "74"
+P_SO = "107"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Fortune"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+P_G = "30"
+P_W = "19"
+P_L = "7"
+P_IP = "239"
+P_BB = "87"
+P_SO = "159"
+P_PCT = ".731"
+
+
+[[person]]
+name.last = "Durning"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "35"
+P_W = "16"
+P_L = "7"
+P_IP = "268"
+P_BB = "126"
+P_SO = "187"
+P_PCT = ".696"
+
+
+[[person]]
+name.last = "Plitt"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "27"
+P_W = "13"
+P_L = "6"
+P_IP = "249"
+P_BB = "57"
+P_SO = "102"
+P_PCT = ".684"
+
+
+[[person]]
+name.last = "Reiger"
+name.given = "F."
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+P_G = "31"
+P_W = "20"
+P_L = "9"
+P_IP = "243"
+P_BB = "64"
+P_SO = "108"
+P_PCT = ".680"
+
+
+[[person]]
+name.last = "Justin"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "39"
+P_W = "21"
+P_L = "10"
+P_IP = "278"
+P_BB = "60"
+P_SO = "83"
+P_PCT = ".677"
+
+
+[[person]]
+name.last = "Tuckey"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "34"
+P_W = "19"
+P_L = "8"
+P_IP = "247"
+P_BB = "30"
+P_SO = "61"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Lohman"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lowell"
+[person.playing.totals]
+P_G = "34"
+P_W = "19"
+P_L = "11"
+P_IP = "273"
+P_BB = "45"
+P_SO = "106"
+P_PCT = ".633"
+
+
+[[person]]
+name.last = "Tuero"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_G = "42"
+P_W = "22"
+P_L = "13"
+P_IP = "301"
+P_BB = "87"
+P_SO = "141"
+P_PCT = ".629"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "30"
+P_W = "17"
+P_L = "11"
+P_IP = "247"
+P_BB = "92"
+P_SO = "128"
+P_PCT = ".607"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "6"
+P_W = "3"
+P_L = "2"
+P_IP = "21"
+P_BB = "4"
+P_SO = "13"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Herring"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_G = "31"
+P_W = "16"
+P_L = "11"
+P_IP = "250"
+P_BB = "87"
+P_SO = "93"
+P_PCT = ".593"
+
+
+[[person]]
+name.last = "Gero"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "34"
+P_W = "13"
+P_L = "9"
+P_IP = "239"
+P_BB = "58"
+P_SO = "104"
+P_PCT = ".591"
+
+
+[[person]]
+name.last = "Mayberry"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "14"
+P_W = "7"
+P_L = "5"
+P_IP = "111"
+P_BB = "31"
+P_SO = "39"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Fuller"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+P_G = "31"
+P_W = "16"
+P_L = "12"
+P_IP = "235"
+P_BB = "48"
+P_SO = "109"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Jewett"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_G = "30"
+P_W = "14"
+P_L = "11"
+P_IP = "215"
+P_BB = "45"
+P_SO = "49"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "McGinley"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_G = "35"
+P_W = "14"
+P_L = "11"
+P_IP = "258"
+P_BB = "69"
+P_SO = "67"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "Woodward"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "30"
+P_W = "15"
+P_L = "12"
+P_IP = "247"
+P_BB = "97"
+P_SO = "124"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "LaRoy"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "23"
+P_W = "10"
+P_L = "8"
+P_IP = "137"
+P_BB = "45"
+P_SO = "39"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Pennington"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+P_G = "33"
+P_W = "16"
+P_L = "14"
+P_IP = "256"
+P_BB = "83"
+P_SO = "133"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "House"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "27"
+P_W = "11"
+P_L = "10"
+P_IP = "203"
+P_BB = "85"
+P_SO = "82"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "41"
+P_W = "18"
+P_L = "17"
+P_IP = "283"
+P_BB = "91"
+P_SO = "119"
+P_PCT = ".514"
+
+
+[[person]]
+name.last = "McQuillan"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_G = "17"
+P_W = "6"
+P_L = "6"
+P_IP = "137"
+P_BB = "47"
+P_SO = "73"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "W."
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_G = "17"
+P_W = "6"
+P_L = "6"
+P_IP = "114"
+P_BB = "59"
+P_SO = "30"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Van Dyke"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_G = "35"
+P_W = "14"
+P_L = "14"
+P_IP = "220"
+P_BB = "66"
+P_SO = "53"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Sherman"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "3"
+P_IP = "57"
+P_BB = "18"
+P_SO = "30"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Daniels"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "33"
+P_W = "12"
+P_L = "12"
+P_IP = "242"
+P_BB = "88"
+P_SO = "122"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Aldworth"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "9"
+P_W = "4"
+P_L = "4"
+P_IP = "64"
+P_BB = "43"
+P_SO = "36"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_G = "36"
+P_W = "13"
+P_L = "14"
+P_IP = "269"
+P_BB = "70"
+P_SO = "88"
+P_PCT = ".481"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "30"
+P_W = "12"
+P_L = "14"
+P_IP = "233"
+P_BB = "86"
+P_SO = "89"
+P_PCT = ".462"
+
+
+[[person]]
+name.last = "Lyons"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "36"
+P_W = "14"
+P_L = "17"
+P_IP = "259"
+P_BB = "51"
+P_SO = "76"
+P_PCT = ".452"
+
+
+[[person]]
+name.last = "Hoyt"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "10"
+P_W = "4"
+P_L = "5"
+P_IP = "71"
+P_BB = "24"
+P_SO = "22"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Bressler"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "20"
+P_W = "7"
+P_L = "9"
+P_IP = "158"
+P_BB = "56"
+P_SO = "93"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Pearson"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "9"
+P_W = "3"
+P_L = "4"
+P_IP = "65"
+P_BB = "19"
+P_SO = "28"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "29"
+P_W = "11"
+P_L = "15"
+P_IP = "231"
+P_BB = "98"
+P_SO = "99"
+P_PCT = ".423"
+
+
+[[person]]
+name.last = "Press"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "21"
+P_W = "11"
+P_L = "15"
+P_IP = "232"
+P_BB = "78"
+P_SO = "85"
+P_PCT = ".423"
+
+
+[[person]]
+name.last = "McCabe"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "9"
+P_W = "2"
+P_L = "3"
+P_IP = "49"
+P_BB = "19"
+P_SO = "31"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "I."
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lowell"
+[[person.playing.split]]
+team.name = "Hartford"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+P_G = "29"
+P_W = "8"
+P_L = "14"
+P_IP = "204"
+P_BB = "78"
+P_SO = "62"
+P_PCT = ".364"
+
+
+[[person]]
+name.last = "Reiger"
+name.given = "J."
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "27"
+P_W = "7"
+P_L = "15"
+P_IP = "171"
+P_BB = "49"
+P_SO = "69"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Mulrennan"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "26"
+P_W = "7"
+P_L = "15"
+P_IP = "206"
+P_BB = "98"
+P_SO = "92"
+P_PCT = ".318"
+
+
+[[person]]
+name.last = "Trautman"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "20"
+P_W = "6"
+P_L = "13"
+P_IP = "161"
+P_BB = "45"
+P_SO = "48"
+P_PCT = ".316"
+
+
+[[person]]
+name.last = "Zeiser"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lowell"
+[person.playing.totals]
+P_G = "35"
+P_W = "8"
+P_L = "22"
+P_IP = "237"
+P_BB = "109"
+P_SO = "110"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lowell"
+[person.playing.totals]
+P_G = "22"
+P_W = "4"
+P_L = "10"
+P_IP = "116"
+P_BB = "44"
+P_SO = "54"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Bonsack"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lowell"
+[person.playing.totals]
+P_G = "16"
+P_W = "3"
+P_L = "11"
+P_IP = "105"
+P_BB = "49"
+P_SO = "49"
+P_PCT = ".214"
+
+
+[[person]]
+name.last = "Gilmore"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[[person.playing.split]]
+team.name = "Lawrence"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+P_G = "15"
+P_W = "1"
+P_L = "5"
+P_IP = "68"
+P_BB = "42"
+P_SO = "15"
+P_PCT = ".167"
+
+
+[[person]]
+name.last = "Carlo"
+[[person.playing]]
+season = "1916"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "5"
+P_IP = "46"
+P_BB = "16"
+P_SO = "11"
+P_PCT = ".167"

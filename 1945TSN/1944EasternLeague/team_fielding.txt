@@ -1,0 +1,134 @@
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "124"
+F_TP = "1"
+F_PB = "14"
+F_PO = "3434"
+F_A = "1492"
+F_E = "185"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "133"
+F_TP = "1"
+F_PB = "25"
+F_PO = "3473"
+F_A = "1630"
+F_E = "232"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Williamsport"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "130"
+F_TP = "0"
+F_PB = "24"
+F_PO = "3472"
+F_A = "1667"
+F_E = "269"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "107"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3479"
+F_A = "1631"
+F_E = "281"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "117"
+F_TP = "2"
+F_PB = "24"
+F_PO = "3479"
+F_A = "1497"
+F_E = "272"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "104"
+F_TP = "0"
+F_PB = "26"
+F_PO = "3423"
+F_A = "1566"
+F_E = "288"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "122"
+F_TP = "0"
+F_PB = "11"
+F_PO = "3504"
+F_A = "1570"
+F_E = "314"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1944"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "79"
+F_TP = "0"
+F_PB = "24"
+F_PO = "3400"
+F_A = "1388"
+F_E = "312"
+F_PCT = ".939"

@@ -1,0 +1,70 @@
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3079"
+B_R = "487"
+B_H = "827"
+B_2B = "111"
+B_3B = "44"
+B_HR = "18"
+B_SH = "141"
+B_SB = "160"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Traverse City"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3056"
+B_R = "393"
+B_H = "783"
+B_2B = "121"
+B_3B = "40"
+B_HR = "4"
+B_SH = "135"
+B_SB = "132"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3052"
+B_R = "372"
+B_H = "724"
+B_2B = "106"
+B_3B = "21"
+B_HR = "7"
+B_SH = "132"
+B_SB = "157"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Holland"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2912"
+B_R = "300"
+B_H = "673"
+B_2B = "91"
+B_3B = "22"
+B_HR = "16"
+B_SH = "100"
+B_SB = "113"
+B_AVG = ".231"

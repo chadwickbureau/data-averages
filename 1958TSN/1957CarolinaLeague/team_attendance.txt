@@ -1,0 +1,58 @@
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "101000"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "61987"
+
+
+[[team]]
+name = "Kinston-Wilson"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "51500"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "49798"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "46848"
+
+
+[[team]]
+name = "High Point-Thomasville"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "46755"

@@ -1,0 +1,391 @@
+[[person]]
+name.last = "Sample"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_W = "19"
+P_L = "6"
+P_T = "1"
+P_PCT = ".760"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_W = "18"
+P_L = "6"
+P_T = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Barber"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_W = "21"
+P_L = "9"
+P_T = "2"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Roberts"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gulfport-Biloxi"
+[person.playing.totals]
+P_W = "7"
+P_L = "4"
+P_T = "0"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Klawitter"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_W = "15"
+P_L = "10"
+P_T = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Burkett"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gulfport-Biloxi"
+[person.playing.totals]
+P_W = "14"
+P_L = "10"
+P_T = "0"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Demaree"
+name.given = "A."
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_W = "23"
+P_L = "17"
+P_T = "2"
+P_PCT = ".575"
+
+
+[[person]]
+name.last = "Lively"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gulfport-Biloxi"
+[person.playing.totals]
+P_W = "20"
+P_L = "15"
+P_T = "2"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Robb"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_W = "15"
+P_L = "12"
+P_T = "0"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Blakely"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_W = "15"
+P_L = "13"
+P_T = "0"
+P_PCT = ".539"
+
+
+[[person]]
+name.last = "Veasey"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jackson"
+[person.playing.totals]
+P_W = "15"
+P_L = "13"
+P_T = "3"
+P_PCT = ".539"
+
+
+[[person]]
+name.last = "Ellinor"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_W = "14"
+P_L = "13"
+P_T = "3"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Schulz"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gulfport-Biloxi"
+[person.playing.totals]
+P_W = "18"
+P_L = "18"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Billiard"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_W = "12"
+P_L = "12"
+P_T = "5"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "May"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_W = "16"
+P_L = "17"
+P_T = "1"
+P_PCT = ".485"
+
+
+[[person]]
+name.last = "Allison"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_W = "9"
+P_L = "10"
+P_T = "1"
+P_PCT = ".474"
+
+
+[[person]]
+name.last = "Bruner"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[[person.playing.split]]
+team.name = "Gulfport-Biloxi"
+[person.playing.totals]
+P_W = "7"
+P_L = "8"
+P_T = "0"
+P_PCT = ".467"
+
+
+[[person]]
+name.last = "Brazelle"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monroe"
+[person.playing.totals]
+P_W = "12"
+P_L = "16"
+P_T = "1"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Bauer"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monroe"
+[person.playing.totals]
+P_W = "7"
+P_L = "9"
+P_T = "1"
+P_PCT = ".425"
+
+
+[[person]]
+name.last = "Blackburn"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vicksburg"
+[person.playing.totals]
+P_W = "7"
+P_L = "10"
+P_T = "0"
+P_PCT = ".412"
+
+
+[[person]]
+name.last = "Whalen"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monroe"
+[person.playing.totals]
+P_W = "10"
+P_L = "15"
+P_T = "1"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Plyant"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_W = "7"
+P_L = "11"
+P_T = "2"
+P_PCT = ".389"
+
+
+[[person]]
+name.last = "Yount"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_W = "11"
+P_L = "22"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Peaster"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Meridian"
+[person.playing.totals]
+P_W = "5"
+P_L = "11"
+P_T = "0"
+P_PCT = ".313"
+
+
+[[person]]
+name.last = "Frickle"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monroe"
+[person.playing.totals]
+P_W = "7"
+P_L = "20"
+P_T = "1"
+P_PCT = ".260"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Monroe"
+[person.playing.totals]
+P_W = "2"
+P_L = "9"
+P_T = "2"
+P_PCT = ".182"

@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Lutz"
+name.given = "Bernard"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Paris"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Capps"
+name.given = "William"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Paris"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dunn"
+name.given = "J. C."
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ardmore"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ryba"
+name.given = "Dominic (Mike)"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ardmore"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dunn"
+name.given = "J. C."
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ardmore"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gilbert"
+name.given = "Andrew"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Muskogee"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Serrano"
+name.given = "Edward"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Shawnee"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gott"
+name.given = "Thomas"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Greenville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Jackson"
+name.given = "Travis"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lawton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Biebel"
+name.given = "Donald"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ponca City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Anthony"
+name.given = "O. Lee"
+[[person.managing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Seminole"
+S_ORDER = "0"
+[person.managing.totals]

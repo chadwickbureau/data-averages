@@ -1,0 +1,100 @@
+[[team]]
+name = "Dublin"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "124"
+F_PB = "24"
+F_PO = "3344"
+F_A = "1359"
+F_E = "199"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "134"
+F_PB = "31"
+F_PO = "3358"
+F_A = "1281"
+F_E = "208"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "166"
+F_PB = "26"
+F_PO = "3305"
+F_A = "1356"
+F_E = "243"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Waycross"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "102"
+F_PB = "36"
+F_PO = "3287"
+F_A = "1360"
+F_E = "247"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Brunswick"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "109"
+F_PB = "21"
+F_PO = "3302"
+F_A = "1237"
+F_E = "258"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "132"
+F_PB = "30"
+F_PO = "3257"
+F_A = "1263"
+F_E = "314"
+F_PCT = ".935"
+F_TP = "0"

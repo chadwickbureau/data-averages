@@ -1,0 +1,174 @@
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4122"
+B_R = "554"
+B_H = "1036"
+B_2B = "191"
+B_3B = "32"
+B_HR = "29"
+B_TB = "1378"
+B_SH = "141"
+B_SB = "185"
+B_BB = "384"
+B_SO = "581"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4235"
+B_R = "480"
+B_H = "1010"
+B_2B = "165"
+B_3B = "35"
+B_HR = "10"
+B_TB = "1275"
+B_SH = "167"
+B_SB = "176"
+B_BB = "379"
+B_SO = "592"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "3986"
+B_R = "469"
+B_H = "943"
+B_2B = "157"
+B_3B = "40"
+B_HR = "28"
+B_TB = "1264"
+B_SH = "139"
+B_SB = "236"
+B_BB = "229"
+B_SO = "651"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4143"
+B_R = "465"
+B_H = "975"
+B_2B = "152"
+B_3B = "32"
+B_HR = "19"
+B_TB = "1248"
+B_SH = "142"
+B_SB = "154"
+B_BB = "354"
+B_SO = "584"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Marshalltown"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4107"
+B_R = "391"
+B_H = "963"
+B_2B = "164"
+B_3B = "18"
+B_HR = "16"
+B_TB = "1211"
+B_SH = "169"
+B_SB = "135"
+B_BB = "238"
+B_SO = "720"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3907"
+B_R = "430"
+B_H = "910"
+B_2B = "122"
+B_3B = "44"
+B_HR = "17"
+B_TB = "1171"
+B_SH = "155"
+B_SB = "152"
+B_BB = "339"
+B_SO = "542"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Mason City"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4225"
+B_R = "434"
+B_H = "941"
+B_2B = "143"
+B_3B = "46"
+B_HR = "7"
+B_TB = "1197"
+B_SH = "129"
+B_SB = "179"
+B_BB = "326"
+B_SO = "575"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4061"
+B_R = "422"
+B_H = "879"
+B_2B = "163"
+B_3B = "31"
+B_HR = "15"
+B_TB = "1149"
+B_SH = "184"
+B_SB = "159"
+B_BB = "340"
+B_SO = "730"
+B_AVG = ".217"

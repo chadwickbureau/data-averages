@@ -1,0 +1,134 @@
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "88"
+F_TP = "0"
+F_PB = "29"
+F_PO = "3170"
+F_A = "1398"
+F_E = "252"
+F_PCT = ".948"
+
+
+[[team]]
+name = "New River"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "88"
+F_TP = "1"
+F_PB = "11"
+F_PO = "3167"
+F_A = "1353"
+F_E = "250"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "91"
+F_TP = "0"
+F_PB = "31"
+F_PO = "3185"
+F_A = "1310"
+F_E = "284"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Pulaski"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "95"
+F_TP = "0"
+F_PB = "45"
+F_PO = "3174"
+F_A = "1364"
+F_E = "317"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Bluefield"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "100"
+F_TP = "0"
+F_PB = "32"
+F_PO = "3160"
+F_A = "1368"
+F_E = "322"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "100"
+F_TP = "0"
+F_PB = "33"
+F_PO = "3160"
+F_A = "1474"
+F_E = "355"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Elizabethton"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "81"
+F_TP = "0"
+F_PB = "33"
+F_PO = "3284"
+F_A = "1287"
+F_E = "353"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Welch"
+[[team.playing]]
+season = "1946"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_DP = "74"
+F_TP = "0"
+F_PB = "40"
+F_PO = "2981"
+F_A = "1358"
+F_E = "434"
+F_PCT = ".909"

@@ -1,0 +1,110 @@
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "93"
+R_L = "57"
+R_T = "5"
+R_PCT = ".620"
+R_RANK = "1"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "61"
+R_T = "2"
+R_PCT = ".601"
+R_RANK = "2"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "71"
+R_T = "4"
+R_PCT = ".533"
+R_RANK = "3"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "78"
+R_T = "2"
+R_PCT = ".487"
+R_RANK = "4"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "82"
+R_T = "4"
+R_PCT = ".461"
+R_RANK = "5"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "83"
+R_T = "5"
+R_PCT = ".458"
+R_RANK = "6"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "85"
+R_T = "5"
+R_PCT = ".441"
+R_RANK = "7"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "90"
+R_T = "3"
+R_PCT = ".400"
+R_RANK = "8"

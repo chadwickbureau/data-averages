@@ -1,0 +1,102 @@
+[[team]]
+name = "Oshkosh"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "43"
+R_PCT = ".636"
+R_RANK = "1"
+
+
+[[team]]
+name = "Green Bay"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "51"
+R_PCT = ".589"
+R_RANK = "2"
+
+
+[[team]]
+name = "Appleton"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "55"
+R_PCT = ".538"
+R_RANK = "3"
+
+
+[[team]]
+name = "Racine"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "58"
+R_PCT = ".525"
+R_RANK = "4"
+
+
+[[team]]
+name = "Marinette-Menominee"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "59"
+R_PCT = ".508"
+R_RANK = "5"
+
+
+[[team]]
+name = "Madison"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "62"
+R_PCT = ".479"
+R_RANK = "6"
+
+
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "71"
+R_PCT = ".404"
+R_RANK = "7"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+R_W = "39"
+R_L = "82"
+R_PCT = ".355"
+R_RANK = "8"

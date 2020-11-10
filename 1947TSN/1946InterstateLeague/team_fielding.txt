@@ -1,0 +1,134 @@
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "126"
+F_TP = "0"
+F_PB = "11"
+F_PO = "3541"
+F_A = "1460"
+F_E = "195"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "134"
+F_TP = "0"
+F_PB = "14"
+F_PO = "3530"
+F_A = "1578"
+F_E = "227"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "98"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3487"
+F_A = "1415"
+F_E = "242"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "153"
+F_TP = "0"
+F_PB = "6"
+F_PO = "3472"
+F_A = "1610"
+F_E = "256"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Sunbury"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "129"
+F_TP = "0"
+F_PB = "28"
+F_PO = "3544"
+F_A = "1531"
+F_E = "260"
+F_PCT = ".951"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "107"
+F_TP = "0"
+F_PB = "13"
+F_PO = "3471"
+F_A = "1469"
+F_E = "265"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "118"
+F_TP = "0"
+F_PB = "16"
+F_PO = "3455"
+F_A = "1469"
+F_E = "267"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1946"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "117"
+F_TP = "0"
+F_PB = "15"
+F_PO = "3453"
+F_A = "1557"
+F_E = "277"
+F_PCT = ".948"

@@ -1,0 +1,142 @@
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3249"
+F_A = "1488"
+F_E = "231"
+F_TC = "4968"
+F_DP = "91"
+F_TP = "0"
+F_PB = "33"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3210"
+F_A = "1485"
+F_E = "264"
+F_TC = "4959"
+F_DP = "116"
+F_TP = "0"
+F_PB = "30"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3228"
+F_A = "1394"
+F_E = "270"
+F_TC = "4892"
+F_DP = "97"
+F_TP = "0"
+F_PB = "16"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3156"
+F_A = "1366"
+F_E = "266"
+F_TC = "4788"
+F_DP = "119"
+F_TP = "0"
+F_PB = "36"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Lockport"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3235"
+F_A = "1421"
+F_E = "286"
+F_TC = "4942"
+F_DP = "98"
+F_TP = "0"
+F_PB = "12"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3128"
+F_A = "1395"
+F_E = "304"
+F_TC = "4827"
+F_DP = "84"
+F_TP = "0"
+F_PB = "38"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3208"
+F_A = "1308"
+F_E = "323"
+F_TC = "4839"
+F_DP = "95"
+F_TP = "0"
+F_PB = "44"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3116"
+F_A = "1370"
+F_E = "363"
+F_TC = "4849"
+F_DP = "70"
+F_TP = "1"
+F_PB = "36"
+F_PCT = ".925"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "107"
+F_PB = "12"
+F_PO = "3352"
+F_A = "1398"
+F_E = "189"
+F_TP = "0"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "103"
+F_PB = "9"
+F_PO = "3379"
+F_A = "1314"
+F_E = "203"
+F_TP = "0"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Eugene"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "90"
+F_PB = "26"
+F_PO = "3298"
+F_A = "1287"
+F_E = "197"
+F_TP = "0"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Tri-City"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "120"
+F_PB = "48"
+F_PO = "3288"
+F_A = "1393"
+F_E = "229"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Wenatchee"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "114"
+F_PB = "41"
+F_PO = "3344"
+F_A = "1315"
+F_E = "247"
+F_TP = "1"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "92"
+F_PB = "28"
+F_PO = "3336"
+F_A = "1387"
+F_E = "271"
+F_TP = "0"
+F_PCT = ".946"

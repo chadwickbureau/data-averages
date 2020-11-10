@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Alston"
+name.given = "Walter"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "St. Paul"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Alphonse"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Indianapolis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cullop"
+name.given = "Henry (Nick)"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Milwaukee"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Heath"
+name.given = "Thomas"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Minneapolis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Skiff"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Kansas City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Anderson"
+name.given = "Harold"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Columbus"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Walters"
+name.given = "Fred"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Louisville"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ryba"
+name.given = "Dominic (Mike)"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Louisville"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mayo"
+name.given = "Edward"
+[[person.managing]]
+season = "1949"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Toledo"
+S_ORDER = "0"
+[person.managing.totals]

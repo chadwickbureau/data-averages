@@ -1,0 +1,89 @@
+[[person]]
+name.last = "Overmire"
+name.given = "Frank (Stubby)"
+[[person.managing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Valdosta"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mozzali"
+name.given = "Maurice (Mo)"
+[[person.managing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Albany"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Weaver"
+name.given = "Earl"
+[[person.managing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dublin"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Howerton"
+name.given = "Carlson (Cart)"
+[[person.managing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Brunswick"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Everett"
+[[person.managing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waycross"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rufer"
+name.given = "Rudolf"
+[[person.managing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thomasville"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Suplizio"
+name.given = "Samuel"
+[[person.managing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thomasville"
+S_ORDER = "2"
+[person.managing.totals]

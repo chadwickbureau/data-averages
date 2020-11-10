@@ -1,0 +1,76 @@
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3124"
+B_H = "768"
+B_R = "377"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Cairo"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3242"
+B_H = "789"
+B_R = "366"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3112"
+B_H = "753"
+B_R = "432"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3289"
+B_H = "779"
+B_R = "360"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Paducah"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3189"
+B_H = "742"
+B_R = "351"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3117"
+B_H = "652"
+B_R = "321"
+B_AVG = ".209"

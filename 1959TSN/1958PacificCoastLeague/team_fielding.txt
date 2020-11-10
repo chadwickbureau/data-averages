@@ -1,0 +1,134 @@
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "148"
+F_PB = "10"
+F_PO = "3979"
+F_A = "1635"
+F_E = "140"
+F_PCT = ".976"
+F_TP = "0"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_DP = "153"
+F_PB = "2"
+F_PO = "4065"
+F_A = "1666"
+F_E = "147"
+F_PCT = ".975"
+F_TP = "0"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "155"
+F_PB = "10"
+F_PO = "3970"
+F_A = "1719"
+F_E = "170"
+F_PCT = ".971"
+F_TP = "0"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "168"
+F_PB = "23"
+F_PO = "3971"
+F_A = "1707"
+F_E = "175"
+F_PCT = ".970"
+F_TP = "1"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "149"
+F_PB = "28"
+F_PO = "3972"
+F_A = "1577"
+F_E = "172"
+F_PCT = ".970"
+F_TP = "2"
+
+
+[[team]]
+name = "San Diego"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "149"
+F_PB = "9"
+F_PO = "3990"
+F_A = "1568"
+F_E = "176"
+F_PCT = ".969"
+F_TP = "1"
+
+
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "149"
+F_PB = "26"
+F_PO = "3987"
+F_A = "1569"
+F_E = "186"
+F_PCT = ".968"
+F_TP = "0"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1958"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "139"
+F_PB = "15"
+F_PO = "3952"
+F_A = "1527"
+F_E = "189"
+F_PCT = ".967"
+F_TP = "1"

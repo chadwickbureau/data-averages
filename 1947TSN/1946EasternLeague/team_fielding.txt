@@ -1,0 +1,142 @@
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "136"
+F_TP = "1"
+F_PB = "13"
+F_LOB = "1004"
+F_PO = "3411"
+F_A = "1534"
+F_E = "202"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "122"
+F_TP = "0"
+F_PB = "16"
+F_LOB = "1019"
+F_PO = "3488"
+F_A = "1512"
+F_E = "211"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "99"
+F_TP = "0"
+F_PB = "17"
+F_LOB = "1092"
+F_PO = "3628"
+F_A = "1425"
+F_E = "220"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "139"
+F_TP = "0"
+F_PB = "15"
+F_LOB = "1043"
+F_PO = "3525"
+F_A = "1572"
+F_E = "229"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Williamsport"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "89"
+F_TP = "0"
+F_PB = "24"
+F_LOB = "1128"
+F_PO = "3493"
+F_A = "1509"
+F_E = "237"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "104"
+F_TP = "0"
+F_PB = "28"
+F_LOB = "1044"
+F_PO = "3483"
+F_A = "1558"
+F_E = "248"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "126"
+F_TP = "1"
+F_PB = "23"
+F_LOB = "908"
+F_PO = "3387"
+F_A = "1500"
+F_E = "267"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "117"
+F_TP = "1"
+F_PB = "15"
+F_LOB = "1077"
+F_PO = "3479"
+F_A = "1543"
+F_E = "303"
+F_PCT = ".943"

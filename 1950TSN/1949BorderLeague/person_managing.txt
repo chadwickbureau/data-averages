@@ -1,0 +1,89 @@
+[[person]]
+name.last = "Small"
+name.given = "Charles"
+[[person.managing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Geneva"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Metzig"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ottawa"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wein"
+name.given = "Russell"
+[[person.managing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ogdensburg"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hearn"
+name.given = "Barney"
+[[person.managing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Auburn"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Heller"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Watertown"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bonura"
+name.given = "Henry (Zeke)"
+[[person.managing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Kingston"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Leach"
+name.given = "Harold"
+[[person.managing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Kingston"
+S_ORDER = "2"
+[person.managing.totals]

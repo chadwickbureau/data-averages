@@ -1,0 +1,151 @@
+[[person]]
+name.last = "Miley"
+name.given = "Sammy"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pastora"
+[person.playing.totals]
+B_AB = "210"
+B_H = "75"
+B_HR = "7"
+B_RBI = "32"
+B_AVG = ".357"
+
+
+[[person]]
+name.last = "Queen"
+name.given = "Billy"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gavilanes"
+[person.playing.totals]
+B_AB = "185"
+B_H = "62"
+B_HR = "11"
+B_RBI = "40"
+B_AVG = ".335"
+
+
+[[person]]
+name.last = "Carreon"
+name.given = "Camilo"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rapinos"
+[person.playing.totals]
+B_AB = "176"
+B_H = "57"
+B_HR = "6"
+B_RBI = "36"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "Hatfield"
+name.given = "Fred"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gavilanes"
+[person.playing.totals]
+B_AB = "198"
+B_H = "63"
+B_HR = "5"
+B_RBI = "21"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Aparicio"
+name.given = "Luis"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rapinos"
+[person.playing.totals]
+B_AB = "192"
+B_H = "61"
+B_HR = "1"
+B_RBI = "17"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Hardy"
+name.given = "Carroll"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gavilanes"
+[person.playing.totals]
+B_AB = "176"
+B_H = "56"
+B_HR = "4"
+B_RBI = "28"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "DiPietro"
+name.given = "Bob"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pastora"
+[person.playing.totals]
+B_AB = "132"
+B_H = "40"
+B_HR = "4"
+B_RBI = "23"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Romero"
+name.given = "Guillermo"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pastora"
+[person.playing.totals]
+B_AB = "108"
+B_H = "32"
+B_HR = "2"
+B_RBI = "12"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Jenkins"
+name.given = "Bob"
+[[person.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cabimas"
+[person.playing.totals]
+B_AB = "146"
+B_H = "43"
+B_HR = "3"
+B_RBI = "14"
+B_AVG = ".295"

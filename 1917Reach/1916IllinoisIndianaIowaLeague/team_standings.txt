@@ -1,0 +1,102 @@
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "50"
+R_PCT = ".627"
+R_RANK = "1"
+
+
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "57"
+R_PCT = ".581"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "56"
+R_PCT = ".576"
+R_RANK = "3"
+
+
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "66"
+R_PCT = ".504"
+R_RANK = "4"
+
+
+[[team]]
+name = "Moline"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "76"
+R_PCT = ".437"
+R_RANK = "5"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "76"
+R_PCT = ".429"
+R_RANK = "6"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "77"
+R_PCT = ".426"
+R_RANK = "7"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "76"
+R_PCT = ".424"
+R_RANK = "8"

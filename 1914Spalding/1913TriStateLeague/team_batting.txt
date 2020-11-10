@@ -1,0 +1,166 @@
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3642"
+B_R = "577"
+B_H = "1034"
+B_SH = "175"
+B_SB = "268"
+B_AVG = ".284"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3692"
+B_R = "478"
+B_H = "1037"
+B_SH = "161"
+B_SB = "215"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3611"
+B_R = "543"
+B_H = "996"
+B_SH = "156"
+B_SB = "227"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3743"
+B_R = "496"
+B_H = "1025"
+B_SH = "127"
+B_SB = "175"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3603"
+B_R = "529"
+B_H = "982"
+B_SH = "143"
+B_SB = "207"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Atlantic City"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3773"
+B_R = "420"
+B_H = "906"
+B_SH = "125"
+B_SB = "154"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "156"
+B_3B = "61"
+B_HR = "32"
+B_EB = "623"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "136"
+B_3B = "62"
+B_HR = "23"
+B_EB = "550"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "134"
+B_3B = "58"
+B_HR = "26"
+B_EB = "546"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "186"
+B_3B = "36"
+B_HR = "28"
+B_EB = "592"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "142"
+B_3B = "60"
+B_HR = "24"
+B_EB = "560"
+
+
+[[team]]
+name = "Atlantic City"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "152"
+B_3B = "42"
+B_HR = "14"
+B_EB = "486"

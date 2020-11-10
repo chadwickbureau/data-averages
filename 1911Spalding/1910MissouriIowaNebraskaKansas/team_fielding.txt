@@ -1,0 +1,82 @@
+[[team]]
+name = "Maryville"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "99"
+F_PO = "2095"
+F_A = "958"
+F_E = "179"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Shenandoah"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "99"
+F_PO = "2314"
+F_A = "1055"
+F_E = "253"
+F_PCT = ".930"
+
+
+[[team]]
+name = "Falls City"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "97"
+F_PO = "2341"
+F_A = "1008"
+F_E = "251"
+F_PCT = ".930"
+
+
+[[team]]
+name = "Clarinda"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "2390"
+F_A = "1146"
+F_E = "271"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Nebraska City"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "2304"
+F_A = "1084"
+F_E = "257"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1910"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "97"
+F_PO = "2683"
+F_A = "1594"
+F_E = "347"
+F_PCT = ".925"

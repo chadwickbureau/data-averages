@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Klaus"
+name.given = "Richard"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "St. Cloud"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Silvestri"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fargo-Moorhead"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Unser"
+name.given = "Albert"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Winnipeg"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Landenberger"
+name.given = "Kenneth"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Minot"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Maltzberger"
+name.given = "Gordon"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Eau Claire"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hauser"
+name.given = "Joseph"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Duluth-Superior"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mostil"
+name.given = "John"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Duluth-Superior"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Sobek"
+name.given = "George"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Duluth-Superior"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Adlam"
+name.given = "James"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Grand Forks"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lutz"
+name.given = "Bernard"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Aberdeen"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "DeMars"
+name.given = "William"
+[[person.managing]]
+season = "1958"
+league.name = "Northern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Aberdeen"
+S_ORDER = "2"
+[person.managing.totals]

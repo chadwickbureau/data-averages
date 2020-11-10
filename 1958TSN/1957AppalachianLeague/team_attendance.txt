@@ -1,0 +1,58 @@
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "26027"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "20712"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "18007"
+
+
+[[team]]
+name = "Bluefield"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "17264"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "13519"
+
+
+[[team]]
+name = "Pulaski"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "10321"

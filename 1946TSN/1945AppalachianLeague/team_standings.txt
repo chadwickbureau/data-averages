@@ -1,0 +1,130 @@
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "36"
+R_T = "2"
+R_PCT = ".670"
+R_RANK = "1"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "45"
+R_T = "1"
+R_PCT = ".583"
+R_RANK = "2"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "65"
+R_T = "3"
+R_PCT = ".381"
+R_RANK = "3"
+
+
+[[team]]
+name = "Elizabethton"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "38"
+R_L = "68"
+R_T = "0"
+R_PCT = ".358"
+R_RANK = "4"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "0"
+R_L = "3"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Elizabethton"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "1"
+R_L = "3"
+R_RANK = "2"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Harlan"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "121"
+F_PB = "26"
+F_PO = "3256"
+F_A = "1318"
+F_E = "219"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Morristown"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "107"
+F_PB = "27"
+F_PO = "3278"
+F_A = "1340"
+F_E = "255"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Middlesboro"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "94"
+F_PB = "9"
+F_PO = "3253"
+F_A = "1402"
+F_E = "262"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Newport"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "116"
+F_PB = "15"
+F_PO = "3035"
+F_A = "1383"
+F_E = "256"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Jenkins"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "101"
+F_PB = "19"
+F_PO = "3178"
+F_A = "1222"
+F_E = "279"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Pennington Gap"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "124"
+F_PB = "19"
+F_PO = "3220"
+F_A = "1372"
+F_E = "296"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Hazard"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "104"
+F_PB = "32"
+F_PO = "3061"
+F_A = "1244"
+F_E = "286"
+F_PCT = ".938"
+
+
+[[team]]
+name = "Big Stone Gap"
+[[team.playing]]
+season = "1949"
+league.name = "Mountain States League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "105"
+F_PB = "30"
+F_PO = "3149"
+F_A = "1314"
+F_E = "335"
+F_PCT = ".930"

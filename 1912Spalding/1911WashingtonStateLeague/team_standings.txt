@@ -1,0 +1,54 @@
+[[team]]
+name = "Centralia"
+[[team.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[team.playing.totals]
+R_G = "56"
+R_W = "38"
+R_L = "17"
+R_PCT = ".691"
+R_RANK = "1"
+
+
+[[team]]
+name = "Chehalis"
+[[team.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[team.playing.totals]
+R_G = "56"
+R_W = "36"
+R_L = "20"
+R_PCT = ".643"
+R_RANK = "2"
+
+
+[[team]]
+name = "Raymond"
+[[team.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[team.playing.totals]
+R_G = "55"
+R_W = "25"
+R_L = "29"
+R_PCT = ".463"
+R_RANK = "3"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[team.playing.totals]
+R_G = "55"
+R_W = "11"
+R_L = "40"
+R_PCT = ".200"
+R_RANK = "4"

@@ -1,0 +1,158 @@
+[[team]]
+name = "Chanute"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "53"
+R_PCT = ".562"
+R_RANK = "1"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "54"
+R_PCT = ".561"
+R_RANK = "2"
+
+
+[[team]]
+name = "Iola"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "57"
+R_PCT = ".525"
+R_RANK = "3"
+
+
+[[team]]
+name = "Pittsburg"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "59"
+R_PCT = ".508"
+R_RANK = "4"
+
+
+[[team]]
+name = "Carthage"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "66"
+R_PCT = ".450"
+R_RANK = "5"
+
+
+[[team]]
+name = "Bartlesville"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "47"
+R_L = "73"
+R_PCT = ".392"
+R_RANK = "6"
+
+
+[[team]]
+name = "Iola"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "2"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "3"
+R_PCT = ".400"
+R_RANK = "2"
+
+
+[[team]]
+name = "Chanute"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "2"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "Pittsburg"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "3"
+R_PCT = ".400"
+R_RANK = "2"
+
+
+[[team]]
+name = "Iowa"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "3"
+R_PCT = ".500"
+R_RANK = "1"
+
+
+[[team]]
+name = "Chanute"
+[[team.playing]]
+season = "1946"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "3"
+R_PCT = ".500"
+R_RANK = "1"

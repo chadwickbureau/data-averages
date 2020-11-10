@@ -1,0 +1,102 @@
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3810"
+F_A = "1790"
+F_E = "205"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3751"
+F_A = "1705"
+F_E = "211"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3305"
+F_A = "1746"
+F_E = "206"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3598"
+F_A = "1822"
+F_E = "228"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3679"
+F_A = "1597"
+F_E = "238"
+F_PCT = ".957"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3636"
+F_A = "1765"
+F_E = "243"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3590"
+F_A = "1769"
+F_E = "267"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Sharon"
+[[team.playing]]
+season = "1907"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3743"
+F_A = "1894"
+F_E = "307"
+F_PCT = ".948"

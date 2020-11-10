@@ -1,0 +1,154 @@
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "43"
+R_L = "30"
+R_PCT = ".589"
+R_RANK = "1"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "45"
+R_L = "34"
+R_PCT = ".570"
+R_RANK = "2"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "42"
+R_L = "36"
+R_PCT = ".538"
+R_RANK = "3"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "34"
+R_L = "43"
+R_PCT = ".442"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "34"
+R_L = "43"
+R_PCT = ".442"
+R_RANK = "4"
+
+
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "31"
+R_L = "43"
+R_PCT = ".419"
+R_RANK = "6"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "38"
+R_L = "22"
+R_PCT = ".633"
+R_RANK = "1"
+
+
+[[team]]
+name = "Ironton"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "31"
+R_L = "29"
+R_PCT = ".517"
+R_RANK = "2"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "30"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "28"
+R_L = "32"
+R_PCT = ".467"
+R_RANK = "4"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "27"
+R_L = "33"
+R_PCT = ".450"
+R_RANK = "5"
+
+
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "26"
+R_L = "34"
+R_PCT = ".433"
+R_RANK = "6"

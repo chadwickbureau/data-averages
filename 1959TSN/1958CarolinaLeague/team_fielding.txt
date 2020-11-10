@@ -1,0 +1,134 @@
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "118"
+F_PB = "28"
+F_PO = "3611"
+F_A = "1311"
+F_E = "151"
+F_PCT = ".970"
+F_TP = "0"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "122"
+F_PB = "41"
+F_PO = "3582"
+F_A = "1363"
+F_E = "179"
+F_PCT = ".965"
+F_TP = "0"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "134"
+F_PB = "28"
+F_PO = "3593"
+F_A = "1374"
+F_E = "195"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "105"
+F_PB = "24"
+F_PO = "3541"
+F_A = "1365"
+F_E = "205"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "126"
+F_PB = "10"
+F_PO = "3600"
+F_A = "1520"
+F_E = "217"
+F_PCT = ".959"
+F_TP = "1"
+
+
+[[team]]
+name = "Wilson"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "132"
+F_PB = "27"
+F_PO = "3583"
+F_A = "1361"
+F_E = "223"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "158"
+F_PB = "33"
+F_PO = "3611"
+F_A = "1550"
+F_E = "240"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "High Point-Thomasville"
+[[team.playing]]
+season = "1958"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "108"
+F_PB = "39"
+F_PO = "3669"
+F_A = "1502"
+F_E = "258"
+F_PCT = ".952"
+F_TP = "0"

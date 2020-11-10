@@ -1,0 +1,10 @@
+[[person]]
+name.last = "Carroll"
+name.given = "Charles"
+[[person.managing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Greensboro"
+[person.managing.totals]

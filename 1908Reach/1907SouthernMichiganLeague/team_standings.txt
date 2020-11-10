@@ -1,0 +1,89 @@
+[[team]]
+name = "Tecumseh"
+[[team.playing]]
+season = "1907"
+league.name = "South Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "42"
+R_PCT = ".622"
+R_RANK = "1"
+
+
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1907"
+league.name = "South Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "47"
+R_PCT = ".569"
+R_RANK = "2"
+
+
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1907"
+league.name = "South Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "49"
+R_PCT = ".563"
+R_RANK = "3"
+
+
+[[team]]
+name = "Mount Clemens"
+[[team.playing]]
+season = "1907"
+league.name = "South Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "51"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1907"
+league.name = "South Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "47"
+R_PCT = ".495"
+R_RANK = "5"
+
+
+[[team]]
+name = "Lansing"
+[[team.playing]]
+season = "1907"
+league.name = "South Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "57"
+R_PCT = ".447"
+R_RANK = "6"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1907"
+league.name = "South Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "42"
+R_L = "64"
+R_PCT = ".396"
+R_RANK = "7"

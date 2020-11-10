@@ -1,0 +1,82 @@
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "84"
+B_AB = "2773"
+B_R = "361"
+B_H = "727"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "87"
+B_AB = "2830"
+B_R = "348"
+B_H = "709"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "87"
+B_AB = "2811"
+B_R = "391"
+B_H = "705"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "89"
+B_AB = "2887"
+B_R = "339"
+B_H = "707"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Warren"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "84"
+B_AB = "2646"
+B_R = "306"
+B_H = "611"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1915"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "71"
+B_AB = "2238"
+B_R = "235"
+B_H = "515"
+B_AVG = ".228"

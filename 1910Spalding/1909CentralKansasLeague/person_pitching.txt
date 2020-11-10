@@ -1,0 +1,289 @@
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+P_W = "19"
+P_L = "4"
+P_SO = "178"
+P_BB = "49"
+P_SHO = "5"
+P_PCT = ".826"
+
+
+[[person]]
+name.last = "Fury"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+P_W = "15"
+P_L = "5"
+P_SO = "82"
+P_BB = "35"
+P_SHO = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Delberts"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ellsworth"
+[person.playing.totals]
+P_W = "8"
+P_L = "3"
+P_SO = "41"
+P_BB = "17"
+P_SHO = "4"
+P_PCT = ".727"
+
+
+[[person]]
+name.last = "Woods"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ellsworth"
+[person.playing.totals]
+P_W = "18"
+P_L = "7"
+P_SO = "124"
+P_BB = "41"
+P_SHO = "2"
+P_PCT = ".720"
+
+
+[[person]]
+name.last = "Fulwider"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ellsworth"
+[person.playing.totals]
+P_W = "5"
+P_L = "2"
+P_SO = "42"
+P_BB = "22"
+P_SHO = "0"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Jepson"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Junction City"
+[person.playing.totals]
+P_W = "14"
+P_L = "6"
+P_SO = "133"
+P_BB = "54"
+P_SHO = "3"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Kretzer"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beloit"
+[person.playing.totals]
+P_W = "10"
+P_L = "5"
+P_SO = "73"
+P_BB = "31"
+P_SHO = "4"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Parm"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ellsworth"
+[person.playing.totals]
+P_W = "10"
+P_L = "5"
+P_SO = "87"
+P_BB = "19"
+P_SHO = "2"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Lien"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+P_W = "7"
+P_L = "4"
+P_SO = "54"
+P_BB = "19"
+P_SHO = "1"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Stokesberry"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+P_W = "12"
+P_L = "8"
+P_SO = "97"
+P_BB = "21"
+P_SHO = "7"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Brooks"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+P_W = "12"
+P_L = "8"
+P_SO = "93"
+P_BB = "50"
+P_SHO = "3"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Hendrix"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salina"
+[person.playing.totals]
+P_W = "12"
+P_L = "8"
+P_SO = "139"
+P_BB = "71"
+P_SHO = "3"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Bear"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_W = "6"
+P_L = "4"
+P_SO = "60"
+P_BB = "31"
+P_SHO = "1"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Osborne"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_W = "13"
+P_L = "9"
+P_SO = "146"
+P_BB = "69"
+P_SHO = "2"
+P_PCT = ".591"
+
+
+[[person]]
+name.last = "Harlan"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+P_W = "10"
+P_L = "7"
+P_SO = "62"
+P_BB = "29"
+P_SHO = "0"
+P_PCT = ".588"
+
+
+[[person]]
+name.last = "O’Neil"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beloit"
+[[person.playing.split]]
+team.name = "Junction City"
+[person.playing.totals]
+P_W = "11"
+P_L = "9"
+P_SO = "90"
+P_BB = "37"
+P_SHO = "3"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clay Center"
+[person.playing.totals]
+P_W = "8"
+P_L = "8"
+P_SO = "65"
+P_BB = "35"
+P_SHO = "0"
+P_PCT = ".500"

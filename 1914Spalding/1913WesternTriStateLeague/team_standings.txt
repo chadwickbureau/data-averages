@@ -1,0 +1,120 @@
+[[team]]
+name = "Walla Walla"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "45"
+R_L = "20"
+R_PCT = ".692"
+R_RANK = "1"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "40"
+R_L = "23"
+R_PCT = ".635"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pendleton"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "31"
+R_L = "29"
+R_PCT = ".517"
+R_RANK = "3"
+
+
+[[team]]
+name = "North Yakima"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "30"
+R_L = "34"
+R_PCT = ".469"
+R_RANK = "4"
+
+
+[[team]]
+name = "Baker"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/first"
+[team.playing.totals]
+
+
+[[team]]
+name = "La Grande"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/first"
+[team.playing.totals]
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "32"
+R_L = "22"
+R_PCT = ".593"
+R_RANK = "1"
+
+
+[[team]]
+name = "North Yakima"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "27"
+R_L = "27"
+R_PCT = ".500"
+R_RANK = "2"
+
+
+[[team]]
+name = "Walla Walla"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "26"
+R_L = "28"
+R_PCT = ".491"
+R_RANK = "3"
+
+
+[[team]]
+name = "Pendleton"
+[[team.playing]]
+season = "1913"
+league.name = "Western Tri-State League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "23"
+R_L = "31"
+R_PCT = ".434"
+R_RANK = "4"

@@ -1,0 +1,118 @@
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "99"
+B_AB = "3205"
+B_R = "464"
+B_H = "856"
+B_SB = "214"
+B_SH = "121"
+B_SF = "30"
+B_2B = "166"
+B_3B = "47"
+B_HR = "23"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "97"
+B_AB = "3081"
+B_R = "454"
+B_H = "820"
+B_SB = "181"
+B_SH = "150"
+B_SF = "17"
+B_2B = "150"
+B_3B = "23"
+B_HR = "26"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "3357"
+B_R = "460"
+B_H = "869"
+B_SB = "174"
+B_SH = "114"
+B_SF = "20"
+B_2B = "146"
+B_3B = "51"
+B_HR = "22"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Morristown"
+[[team.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3042"
+B_R = "396"
+B_H = "776"
+B_SB = "123"
+B_SH = "213"
+B_SF = "18"
+B_2B = "139"
+B_3B = "22"
+B_HR = "22"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3110"
+B_R = "397"
+B_H = "792"
+B_SB = "132"
+B_SH = "130"
+B_SF = "6"
+B_2B = "134"
+B_3B = "38"
+B_HR = "21"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Cleveland"
+[[team.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "94"
+B_AB = "2973"
+B_R = "336"
+B_H = "717"
+B_SB = "85"
+B_SH = "98"
+B_SF = "18"
+B_2B = "109"
+B_3B = "33"
+B_HR = "16"
+B_AVG = ".241"

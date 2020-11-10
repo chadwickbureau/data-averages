@@ -1,0 +1,126 @@
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4605"
+B_R = "724"
+B_H = "1236"
+B_SH = "195"
+B_SB = "231"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4563"
+B_R = "582"
+B_H = "1187"
+B_SH = "139"
+B_SB = "156"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4602"
+B_R = "507"
+B_H = "157"
+B_SH = "197"
+B_SB = "167"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4508"
+B_R = "585"
+B_H = "1126"
+B_SH = "145"
+B_SB = "156"
+B_AVG = ".249"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4422"
+B_R = "570"
+B_H = "1081"
+B_SH = "246"
+B_SB = "161"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4532"
+B_R = "513"
+B_H = "1102"
+B_SH = "196"
+B_SB = "179"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4606"
+B_R = "584"
+B_H = "1104"
+B_SH = "172"
+B_SB = "175"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1916"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4608"
+B_R = "489"
+B_H = "1055"
+B_SH = "140"
+B_SB = "164"
+B_AVG = ".229"

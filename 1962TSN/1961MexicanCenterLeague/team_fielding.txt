@@ -1,0 +1,100 @@
+[[team]]
+name = "Salamanca"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "100"
+F_PB = "16"
+F_PO = "3171"
+F_A = "1325"
+F_E = "221"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "129"
+F_PB = "35"
+F_PO = "3192"
+F_A = "1230"
+F_E = "225"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Aguascalientes"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "90"
+F_PB = "18"
+F_PO = "3114"
+F_A = "1199"
+F_E = "218"
+F_PCT = ".952"
+F_TP = "1"
+
+
+[[team]]
+name = "San Luis Potosi"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "137"
+F_PB = "21"
+F_PO = "3178"
+F_A = "1314"
+F_E = "229"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Celaya"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "130"
+F_PB = "30"
+F_PO = "3265"
+F_A = "1428"
+F_E = "266"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Guanajuato"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "85"
+F_PB = "41"
+F_PO = "3146"
+F_A = "1392"
+F_E = "268"
+F_PCT = ".944"
+F_TP = "0"

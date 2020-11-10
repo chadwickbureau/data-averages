@@ -1,0 +1,94 @@
+[[team]]
+name = "Charleroi"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3308"
+B_R = "314"
+B_H = "830"
+B_SH = "118"
+B_SB = "108"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Grafton"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "2530"
+B_R = "275"
+B_H = "618"
+B_SH = "71"
+B_SB = "93"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Fairmont"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3359"
+B_R = "388"
+B_H = "818"
+B_SH = "147"
+B_SB = "86"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Clarksburg"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3407"
+B_R = "424"
+B_H = "798"
+B_SH = "155"
+B_SB = "152"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Uniontown"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "109"
+B_AB = "3067"
+B_R = "349"
+B_H = "708"
+B_SH = "122"
+B_SB = "135"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Connellsville"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3181"
+B_R = "346"
+B_H = "703"
+B_SH = "121"
+B_SB = "123"
+B_AVG = ".221"

@@ -1,0 +1,154 @@
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "43"
+R_L = "14"
+R_PCT = ".754"
+R_RANK = "1"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "32"
+R_L = "25"
+R_PCT = ".561"
+R_RANK = "2"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "29"
+R_L = "27"
+R_PCT = ".518"
+R_RANK = "3"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "27"
+R_L = "31"
+R_PCT = ".466"
+R_RANK = "4"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "22"
+R_L = "37"
+R_PCT = ".373"
+R_RANK = "5"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "18"
+R_L = "37"
+R_PCT = ".327"
+R_RANK = "6"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "35"
+R_L = "24"
+R_PCT = ".593"
+R_RANK = "1"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "33"
+R_L = "27"
+R_PCT = ".550"
+R_RANK = "2"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "31"
+R_L = "28"
+R_PCT = ".525"
+R_RANK = "3"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "28"
+R_L = "31"
+R_PCT = ".475"
+R_RANK = "4"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "26"
+R_L = "31"
+R_PCT = ".456"
+R_RANK = "5"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "23"
+R_L = "35"
+R_PCT = ".397"
+R_RANK = "6"

@@ -1,0 +1,446 @@
+[[person]]
+name.last = "Schmick"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+P_G = "20"
+P_W = "15"
+P_L = "4"
+P_T = "1"
+P_SO = "57"
+P_HP = "2"
+P_BB = "57"
+P_WP = "6"
+P_PCT = ".789"
+
+
+[[person]]
+name.last = "Torens"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "13"
+P_W = "9"
+P_L = "4"
+P_T = "0"
+P_SO = "31"
+P_HP = "7"
+P_BB = "22"
+P_WP = "0"
+P_PCT = ".692"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "38"
+P_W = "25"
+P_L = "12"
+P_T = "1"
+P_SO = "148"
+P_HP = "17"
+P_BB = "64"
+P_WP = "6"
+P_PCT = ".676"
+
+
+[[person]]
+name.last = "Ridgway"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "30"
+P_W = "19"
+P_L = "10"
+P_T = "1"
+P_SO = "97"
+P_HP = "4"
+P_BB = "76"
+P_WP = "5"
+P_PCT = ".655"
+
+
+[[person]]
+name.last = "McCarthy"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+P_G = "29"
+P_W = "18"
+P_L = "11"
+P_T = "0"
+P_SO = "125"
+P_HP = "8"
+P_BB = "66"
+P_WP = "8"
+P_PCT = ".621"
+
+
+[[person]]
+name.last = "Dent"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "31"
+P_W = "18"
+P_L = "11"
+P_T = "2"
+P_SO = "107"
+P_HP = "8"
+P_BB = "56"
+P_WP = "2"
+P_PCT = ".621"
+
+
+[[person]]
+name.last = "Bauswine"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "11"
+P_W = "6"
+P_L = "4"
+P_T = "1"
+P_SO = "45"
+P_HP = "4"
+P_BB = "13"
+P_WP = "1"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "McFarlin"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "28"
+P_W = "16"
+P_L = "11"
+P_T = "1"
+P_SO = "89"
+P_HP = "11"
+P_BB = "47"
+P_WP = "5"
+P_PCT = ".593"
+
+
+[[person]]
+name.last = "Touchstone"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "32"
+P_W = "17"
+P_L = "15"
+P_T = "0"
+P_SO = "129"
+P_HP = "9"
+P_BB = "55"
+P_WP = "2"
+P_PCT = ".531"
+
+
+[[person]]
+name.last = "Averett"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "35"
+P_W = "18"
+P_L = "16"
+P_T = "1"
+P_SO = "121"
+P_HP = "24"
+P_BB = "70"
+P_WP = "7"
+P_PCT = ".529"
+
+
+[[person]]
+name.last = "Laval"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "28"
+P_W = "14"
+P_L = "13"
+P_T = "1"
+P_SO = "91"
+P_HP = "7"
+P_BB = "68"
+P_WP = "3"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Lothrop"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+P_G = "27"
+P_W = "14"
+P_L = "13"
+P_T = "0"
+P_SO = "98"
+P_HP = "10"
+P_BB = "33"
+P_WP = "2"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Hayes"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "14"
+P_W = "7"
+P_L = "7"
+P_T = "0"
+P_SO = "56"
+P_HP = "1"
+P_BB = "45"
+P_WP = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hammersley"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "29"
+P_W = "14"
+P_L = "15"
+P_T = "0"
+P_SO = "78"
+P_HP = "12"
+P_BB = "43"
+P_WP = "2"
+P_PCT = ".483"
+
+
+[[person]]
+name.last = "Reis"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "26"
+P_W = "11"
+P_L = "14"
+P_T = "1"
+P_SO = "87"
+P_HP = "14"
+P_BB = "64"
+P_WP = "9"
+P_PCT = ".440"
+
+
+[[person]]
+name.last = "Brazell"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "32"
+P_W = "13"
+P_L = "19"
+P_T = "0"
+P_SO = "135"
+P_HP = "19"
+P_BB = "78"
+P_WP = "5"
+P_PCT = ".406"
+
+
+[[person]]
+name.last = "Withers"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "12"
+P_W = "4"
+P_L = "6"
+P_T = "2"
+P_SO = "27"
+P_HP = "4"
+P_BB = "27"
+P_WP = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Abercrombie"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "31"
+P_W = "12"
+P_L = "19"
+P_T = "0"
+P_SO = "79"
+P_HP = "13"
+P_BB = "68"
+P_WP = "0"
+P_PCT = ".387"
+
+
+[[person]]
+name.last = "Thackam"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "23"
+P_W = "8"
+P_L = "15"
+P_T = "0"
+P_SO = "101"
+P_HP = "6"
+P_BB = "74"
+P_WP = "5"
+P_PCT = ".348"
+
+
+[[person]]
+name.last = "Finn"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_SO = "29"
+P_HP = "3"
+P_BB = "28"
+P_WP = "1"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Welsher"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "12"
+P_W = "3"
+P_L = "9"
+P_T = "0"
+P_SO = "24"
+P_HP = "2"
+P_BB = "21"
+P_WP = "3"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Hazelton"
+[[person.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "18"
+P_W = "4"
+P_L = "14"
+P_T = "0"
+P_SO = "36"
+P_HP = "14"
+P_BB = "59"
+P_WP = "5"
+P_PCT = ".222"

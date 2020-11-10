@@ -1,0 +1,94 @@
+[[team]]
+name = "Chambersburg"
+[[team.playing]]
+season = "1916"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2922"
+B_R = "357"
+B_H = "740"
+B_TB = "1015"
+B_SH = "143"
+B_SB = "113"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Martinsburg"
+[[team.playing]]
+season = "1916"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3236"
+B_R = "392"
+B_H = "800"
+B_TB = "1131"
+B_SH = "111"
+B_SB = "124"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1916"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3055"
+B_R = "314"
+B_H = "730"
+B_TB = "955"
+B_SH = "105"
+B_SB = "135"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Gettysburg"
+[[team.playing]]
+season = "1916"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3049"
+B_R = "330"
+B_H = "728"
+B_TB = "927"
+B_SH = "108"
+B_SB = "141"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Frederick"
+[[team.playing]]
+season = "1916"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2927"
+B_R = "311"
+B_H = "693"
+B_TB = "948"
+B_SH = "91"
+B_SB = "103"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Hanover"
+[[team.playing]]
+season = "1916"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3002"
+B_R = "332"
+B_H = "698"
+B_TB = "878"
+B_SH = "108"
+B_SB = "152"
+B_AVG = ".232"

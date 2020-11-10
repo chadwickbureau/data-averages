@@ -1,0 +1,76 @@
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2641"
+F_A = "1160"
+F_E = "181"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2521"
+F_A = "1151"
+F_E = "191"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Paducah"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2592"
+F_A = "1236"
+F_E = "233"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2600"
+F_A = "1185"
+F_E = "236"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Cairo"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2591"
+F_A = "1179"
+F_E = "239"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1912"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2560"
+F_A = "1085"
+F_E = "247"
+F_PCT = ".936"

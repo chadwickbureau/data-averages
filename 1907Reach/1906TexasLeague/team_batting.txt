@@ -1,0 +1,62 @@
+[[team]]
+name = "Cleburne"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "64"
+B_AB = "2100"
+B_R = "229"
+B_H = "517"
+B_BB = "139"
+B_HP = "36"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "64"
+B_AB = "2011"
+B_R = "206"
+B_H = "445"
+B_BB = "124"
+B_HP = "33"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "63"
+B_AB = "2044"
+B_R = "226"
+B_H = "439"
+B_BB = "115"
+B_HP = "29"
+B_AVG = ".214"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "63"
+B_AB = "2048"
+B_R = "160"
+B_H = "407"
+B_BB = "127"
+B_HP = "27"
+B_AVG = ".198"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4024"
+F_A = "1813"
+F_E = "134"
+F_DP = "140"
+F_PB = "12"
+F_PCT = ".978"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4054"
+F_A = "1894"
+F_E = "181"
+F_DP = "143"
+F_PB = "10"
+F_PCT = ".970"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "3954"
+F_A = "1769"
+F_E = "183"
+F_DP = "148"
+F_PB = "2"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Hollywood"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+F_PO = "4004"
+F_A = "1815"
+F_E = "193"
+F_DP = "144"
+F_PB = "7"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4018"
+F_A = "1800"
+F_E = "194"
+F_DP = "123"
+F_PB = "8"
+F_PCT = ".968"
+
+
+[[team]]
+name = "San Diego"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4187"
+F_A = "1776"
+F_E = "204"
+F_DP = "124"
+F_PB = "11"
+F_PCT = ".967"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4031"
+F_A = "1848"
+F_E = "210"
+F_DP = "102"
+F_PB = "8"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "3862"
+F_A = "1817"
+F_E = "239"
+F_DP = "147"
+F_PB = "7"
+F_PCT = ".960"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2890"
+F_A = "1294"
+F_E = "133"
+F_TC = "4317"
+F_DP = "55"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2861"
+F_A = "1453"
+F_E = "221"
+F_TC = "4535"
+F_DP = "66"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2991"
+F_A = "1404"
+F_E = "214"
+F_TC = "4409"
+F_DP = "60"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "102"
+F_PO = "2709"
+F_A = "1253"
+F_E = "226"
+F_TC = "4188"
+F_DP = "73"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Kitchener"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_PO = "2737"
+F_A = "1338"
+F_E = "235"
+F_TC = "4310"
+F_DP = "64"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2794"
+F_A = "1322"
+F_E = "254"
+F_TC = "4370"
+F_DP = "68"
+F_PCT = ".942"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_PO = "2776"
+F_A = "1411"
+F_E = "293"
+F_TC = "4480"
+F_DP = "72"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "100"
+F_PO = "2554"
+F_A = "1235"
+F_E = "287"
+F_TC = "4067"
+F_DP = "45"
+F_PCT = ".930"

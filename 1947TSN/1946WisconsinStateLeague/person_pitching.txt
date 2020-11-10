@@ -1,0 +1,2726 @@
+[[person]]
+name.last = "Valentine"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "6"
+P_CG = "2"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "32"
+P_AB = "151"
+P_R = "38"
+P_H = "49"
+P_ER = "4"
+P_SH = "1"
+P_BB = "17"
+P_HP = "1"
+P_SO = "21"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "1.12"
+F_P_PCT = ".909"
+
+
+[[person]]
+name.last = "Esqueda"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "25"
+P_CG = "18"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+P_IP = "174"
+P_AB = "628"
+P_R = "64"
+P_H = "110"
+P_ER = "43"
+P_SH = "8"
+P_BB = "87"
+P_HP = "5"
+P_SO = "207"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "2.22"
+F_P_PCT = ".952"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Rose"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "20"
+P_CG = "13"
+P_W = "17"
+P_L = "1"
+P_PCT = ".944"
+P_IP = "143"
+P_AB = "542"
+P_R = "47"
+P_H = "129"
+P_ER = "36"
+P_SH = "5"
+P_BB = "53"
+P_HP = "0"
+P_SO = "108"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "2.25"
+F_P_PCT = ".946"
+
+
+[[person]]
+name.last = "Mavis"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "14.2"
+P_AB = "56"
+P_R = "6"
+P_H = "14"
+P_ER = "4"
+P_SH = "2"
+P_BB = "5"
+P_HP = "0"
+P_SO = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "2.46"
+F_P_PCT = ".667"
+
+
+[[person]]
+name.last = "Perkovich"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "27"
+P_CG = "19"
+P_W = "18"
+P_L = "5"
+P_PCT = ".783"
+P_IP = "198.1"
+P_AB = "771"
+P_R = "75"
+P_H = "170"
+P_ER = "60"
+P_SH = "8"
+P_BB = "85"
+P_HP = "2"
+P_SO = "229"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "2.72"
+F_P_PCT = ".942"
+
+
+[[person]]
+name.last = "Pizzi"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "15"
+P_CG = "9"
+P_W = "9"
+P_L = "1"
+P_PCT = ".900"
+P_IP = "94.1"
+P_AB = "359"
+P_R = "41"
+P_H = "75"
+P_ER = "29"
+P_SH = "2"
+P_BB = "42"
+P_HP = "9"
+P_SO = "84"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.77"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Hyland"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "10"
+P_CG = "7"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "79.2"
+P_AB = "276"
+P_R = "33"
+P_H = "75"
+P_ER = "25"
+P_SH = "5"
+P_BB = "25"
+P_HP = "1"
+P_SO = "29"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "2.82"
+F_P_PCT = ".957"
+
+
+[[person]]
+name.last = "Henze"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "25"
+P_CG = "20"
+P_W = "16"
+P_L = "6"
+P_PCT = ".727"
+P_IP = "183"
+P_AB = "720"
+P_R = "88"
+P_H = "176"
+P_ER = "61"
+P_SH = "3"
+P_BB = "64"
+P_HP = "8"
+P_SO = "137"
+P_WP = "1"
+P_BK = "2"
+P_ERA = "2.99"
+F_P_PCT = ".952"
+
+
+[[person]]
+name.last = "Dawson"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "10"
+P_CG = "4"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "58.2"
+P_AB = "222"
+P_R = "25"
+P_H = "56"
+P_ER = "20"
+P_SH = "3"
+P_BB = "25"
+P_HP = "2"
+P_SO = "25"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.06"
+F_P_PCT = ".875"
+
+
+[[person]]
+name.last = "Rook"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "25"
+P_CG = "20"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "193"
+P_AB = "752"
+P_R = "92"
+P_H = "158"
+P_ER = "66"
+P_SH = "10"
+P_BB = "116"
+P_HP = "6"
+P_SO = "213"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.07"
+F_P_PCT = ".968"
+
+
+[[person]]
+name.last = "Sollazo"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "15"
+P_CG = "13"
+P_W = "10"
+P_L = "4"
+P_PCT = ".714"
+P_IP = "114"
+P_AB = "453"
+P_R = "64"
+P_H = "104"
+P_ER = "39"
+P_SH = "6"
+P_BB = "48"
+P_HP = "3"
+P_SO = "88"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.07"
+F_P_PCT = ".889"
+
+
+[[person]]
+name.last = "Park"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "23"
+P_CG = "17"
+P_W = "18"
+P_L = "3"
+P_PCT = ".857"
+P_IP = "171.2"
+P_AB = "670"
+P_R = "72"
+P_H = "165"
+P_ER = "59"
+P_SH = "7"
+P_BB = "78"
+P_HP = "6"
+P_SO = "98"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.09"
+F_P_PCT = ".980"
+
+
+[[person]]
+name.last = "Gatto"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "21"
+P_CG = "9"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "139"
+P_AB = "545"
+P_R = "74"
+P_H = "127"
+P_ER = "49"
+P_SH = "5"
+P_BB = "73"
+P_HP = "7"
+P_SO = "162"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.17"
+F_P_PCT = ".955"
+
+
+[[person]]
+name.last = "Rude"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "30"
+P_CG = "11"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+P_IP = "163.1"
+P_AB = "613"
+P_R = "85"
+P_H = "132"
+P_ER = "58"
+P_SH = "12"
+P_BB = "110"
+P_HP = "7"
+P_SO = "79"
+P_WP = "12"
+P_BK = "0"
+P_ERA = "3.19"
+F_P_PCT = ".917"
+
+
+[[person]]
+name.last = "Kelley"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "16.1"
+P_AB = "65"
+P_R = "8"
+P_H = "17"
+P_ER = "6"
+P_SH = "1"
+P_BB = "5"
+P_HP = "0"
+P_SO = "6"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.31"
+F_P_PCT = ".750"
+
+
+[[person]]
+name.last = "Goff"
+name.given = "W."
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "25"
+P_CG = "6"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_IP = "107.2"
+P_AB = "408"
+P_R = "52"
+P_H = "86"
+P_ER = "40"
+P_SH = "7"
+P_BB = "71"
+P_HP = "4"
+P_SO = "91"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.34"
+F_P_PCT = ".963"
+
+
+[[person]]
+name.last = "Berner"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "12"
+P_CG = "7"
+P_W = "8"
+P_L = "3"
+P_PCT = ".727"
+P_IP = "94.2"
+P_AB = "371"
+P_R = "43"
+P_H = "97"
+P_ER = "36"
+P_SH = "3"
+P_BB = "40"
+P_HP = "3"
+P_SO = "49"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.42"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Twaddle"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "7"
+P_CG = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "38.1"
+P_AB = "165"
+P_R = "28"
+P_H = "47"
+P_ER = "15"
+P_SH = "3"
+P_BB = "13"
+P_HP = "1"
+P_SO = "16"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.52"
+F_P_PCT = ".834"
+
+
+[[person]]
+name.last = "Dattero"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "20"
+P_CG = "16"
+P_W = "12"
+P_L = "7"
+P_PCT = ".632"
+P_IP = "144.1"
+P_AB = "548"
+P_R = "84"
+P_H = "129"
+P_ER = "57"
+P_SH = "9"
+P_BB = "108"
+P_HP = "4"
+P_SO = "130"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "3.55"
+F_P_PCT = ".912"
+
+
+[[person]]
+name.last = "Wirt"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "15"
+P_CG = "5"
+P_W = "8"
+P_L = "3"
+P_PCT = ".727"
+P_IP = "95.2"
+P_AB = "393"
+P_R = "48"
+P_H = "112"
+P_ER = "38"
+P_SH = "5"
+P_BB = "35"
+P_HP = "5"
+P_SO = "58"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "3.57"
+F_P_PCT = ".909"
+
+
+[[person]]
+name.last = "Oldak"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "14.2"
+P_AB = "63"
+P_R = "9"
+P_H = "17"
+P_ER = "6"
+P_SH = "0"
+P_BB = "8"
+P_HP = "0"
+P_SO = "6"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.69"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Albrecht"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "25"
+P_CG = "12"
+P_W = "13"
+P_L = "7"
+P_PCT = ".650"
+P_IP = "152.1"
+P_AB = "620"
+P_R = "97"
+P_H = "170"
+P_ER = "63"
+P_SH = "9"
+P_BB = "55"
+P_HP = "5"
+P_SO = "125"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.72"
+F_P_PCT = ".963"
+
+
+[[person]]
+name.last = "Suchy"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "20"
+P_CG = "5"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "120"
+P_AB = "476"
+P_R = "89"
+P_H = "110"
+P_ER = "50"
+P_SH = "8"
+P_BB = "66"
+P_HP = "3"
+P_SO = "129"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.75"
+F_P_PCT = ".824"
+
+
+[[person]]
+name.last = "Schade"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "12"
+P_AB = "48"
+P_R = "10"
+P_H = "10"
+P_ER = "5"
+P_SH = "0"
+P_BB = "10"
+P_HP = "1"
+P_SO = "9"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.75"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Tebrinke"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "9"
+P_CG = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "28.2"
+P_AB = "115"
+P_R = "15"
+P_H = "30"
+P_ER = "12"
+P_SH = "2"
+P_BB = "10"
+P_HP = "0"
+P_SO = "9"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.77"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "McEvoy"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "31"
+P_CG = "14"
+P_W = "7"
+P_L = "13"
+P_PCT = ".350"
+P_IP = "197.1"
+P_AB = "802"
+P_R = "129"
+P_H = "224"
+P_ER = "84"
+P_SH = "12"
+P_BB = "91"
+P_HP = "8"
+P_SO = "124"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "3.83"
+F_P_PCT = ".885"
+
+
+[[person]]
+name.last = "Bloohm"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "24"
+P_CG = "15"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+P_IP = "181.1"
+P_AB = "738"
+P_R = "112"
+P_H = "201"
+P_ER = "78"
+P_SH = "12"
+P_BB = "95"
+P_HP = "4"
+P_SO = "150"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.87"
+F_P_PCT = ".893"
+
+
+[[person]]
+name.last = "Mode"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "20"
+P_CG = "15"
+P_W = "11"
+P_L = "8"
+P_PCT = ".579"
+P_IP = "147.1"
+P_AB = "586"
+P_R = "87"
+P_H = "144"
+P_ER = "64"
+P_SH = "15"
+P_BB = "70"
+P_HP = "3"
+P_SO = "142"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.90"
+F_P_PCT = ".926"
+
+
+[[person]]
+name.last = "Glenetski"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "18"
+P_CG = "5"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+P_IP = "86.2"
+P_AB = "350"
+P_R = "54"
+P_H = "92"
+P_ER = "38"
+P_SH = "8"
+P_BB = "35"
+P_HP = "2"
+P_SO = "51"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "3.95"
+F_P_PCT = ".833"
+
+
+[[person]]
+name.last = "Michels"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "28"
+P_CG = "15"
+P_W = "13"
+P_L = "9"
+P_PCT = ".591"
+P_IP = "193"
+P_AB = "772"
+P_R = "123"
+P_H = "211"
+P_ER = "86"
+P_SH = "12"
+P_BB = "88"
+P_HP = "2"
+P_SO = "132"
+P_WP = "9"
+P_BK = "1"
+P_ERA = "4.01"
+F_P_PCT = ".936"
+
+
+[[person]]
+name.last = "Tremain"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "26"
+P_CG = "9"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+P_IP = "143.2"
+P_AB = "572"
+P_R = "96"
+P_H = "149"
+P_ER = "64"
+P_SH = "9"
+P_BB = "92"
+P_HP = "3"
+P_SO = "112"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "4.01"
+F_P_PCT = ".929"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "13"
+P_AB = "54"
+P_R = "14"
+P_H = "14"
+P_ER = "6"
+P_SH = "1"
+P_BB = "15"
+P_HP = "1"
+P_SO = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.15"
+F_P_PCT = ".667"
+
+
+[[person]]
+name.last = "Krier"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "27"
+P_CG = "13"
+P_W = "11"
+P_L = "11"
+P_PCT = ".500"
+P_IP = "153"
+P_AB = "631"
+P_R = "102"
+P_H = "169"
+P_ER = "71"
+P_SH = "9"
+P_BB = "66"
+P_HP = "4"
+P_SO = "105"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.17"
+F_P_PCT = ".910"
+
+
+[[person]]
+name.last = "Colaw"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "25"
+P_CG = "12"
+P_W = "11"
+P_L = "6"
+P_PCT = ".647"
+P_IP = "148.2"
+P_AB = "572"
+P_R = "94"
+P_H = "142"
+P_ER = "69"
+P_SH = "21"
+P_BB = "93"
+P_HP = "8"
+P_SO = "114"
+P_WP = "12"
+P_BK = "0"
+P_ERA = "4.17"
+F_P_PCT = ".963"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "15"
+P_CG = "5"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "94"
+P_AB = "373"
+P_R = "60"
+P_H = "100"
+P_ER = "44"
+P_SH = "10"
+P_BB = "78"
+P_HP = "0"
+P_SO = "58"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "4.21"
+F_P_PCT = ".857"
+
+
+[[person]]
+name.last = "McGinty"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "31"
+P_CG = "15"
+P_W = "11"
+P_L = "13"
+P_PCT = ".458"
+P_IP = "182"
+P_AB = "223"
+P_R = "120"
+P_H = "190"
+P_ER = "86"
+P_SH = "14"
+P_BB = "107"
+P_HP = "4"
+P_SO = "147"
+P_WP = "5"
+P_BK = "3"
+P_ERA = "4.24"
+F_P_PCT = ".917"
+
+
+[[person]]
+name.last = "Lisinski"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "23"
+P_CG = "10"
+P_W = "10"
+P_L = "6"
+P_PCT = ".625"
+P_IP = "133"
+P_AB = "565"
+P_R = "90"
+P_H = "157"
+P_ER = "63"
+P_SH = "4"
+P_BB = "53"
+P_HP = "13"
+P_SO = "79"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.26"
+F_P_PCT = ".885"
+
+
+[[person]]
+name.last = "Schroyer"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "25"
+P_CG = "11"
+P_W = "8"
+P_L = "9"
+P_PCT = ".471"
+P_IP = "135.2"
+P_AB = "574"
+P_R = "111"
+P_H = "153"
+P_ER = "65"
+P_SH = "4"
+P_BB = "62"
+P_HP = "4"
+P_SO = "74"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.31"
+F_P_PCT = ".825"
+
+
+[[person]]
+name.last = "Northrup"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "22.2"
+P_AB = "81"
+P_R = "14"
+P_H = "18"
+P_ER = "11"
+P_SH = "1"
+P_BB = "20"
+P_HP = "3"
+P_SO = "8"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.38"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Lange"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "36"
+P_CG = "4"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "118.1"
+P_AB = "504"
+P_R = "88"
+P_H = "141"
+P_ER = "58"
+P_SH = "8"
+P_BB = "81"
+P_HP = "5"
+P_SO = "75"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.41"
+F_P_PCT = ".949"
+
+
+[[person]]
+name.last = "Kardach"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "21"
+P_CG = "17"
+P_W = "7"
+P_L = "13"
+P_PCT = ".350"
+P_IP = "167"
+P_AB = "647"
+P_R = "111"
+P_H = "146"
+P_ER = "83"
+P_SH = "23"
+P_BB = "98"
+P_HP = "8"
+P_SO = "149"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "4.47"
+F_P_PCT = ".949"
+
+
+[[person]]
+name.last = "Banning"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "12"
+P_CG = "4"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "78.1"
+P_AB = "315"
+P_R = "47"
+P_H = "90"
+P_ER = "39"
+P_SH = "7"
+P_BB = "40"
+P_HP = "3"
+P_SO = "42"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.48"
+F_P_PCT = ".923"
+
+
+[[person]]
+name.last = "Schabow"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "28"
+P_CG = "5"
+P_W = "10"
+P_L = "5"
+P_PCT = ".667"
+P_IP = "124"
+P_AB = "514"
+P_R = "82"
+P_H = "134"
+P_ER = "63"
+P_SH = "5"
+P_BB = "48"
+P_HP = "3"
+P_SO = "71"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.57"
+F_P_PCT = ".977"
+
+
+[[person]]
+name.last = "Scheitweiler"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "8"
+P_CG = "2"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "37"
+P_AB = "162"
+P_R = "32"
+P_H = "53"
+P_ER = "19"
+P_SH = "6"
+P_BB = "14"
+P_HP = "1"
+P_SO = "20"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.61"
+F_P_PCT = ".692"
+
+
+[[person]]
+name.last = "Bryngelson"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "22"
+P_CG = "9"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "103.1"
+P_AB = "425"
+P_R = "79"
+P_H = "116"
+P_ER = "55"
+P_SH = "9"
+P_BB = "55"
+P_HP = "7"
+P_SO = "85"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.78"
+F_P_PCT = ".900"
+
+
+[[person]]
+name.last = "Powers"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "26"
+P_AB = "109"
+P_R = "20"
+P_H = "30"
+P_ER = "14"
+P_SH = "2"
+P_BB = "14"
+P_HP = "0"
+P_SO = "13"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.84"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Dobrovolny"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "21"
+P_CG = "9"
+P_W = "7"
+P_L = "9"
+P_PCT = ".438"
+P_IP = "145.2"
+P_AB = "62"
+P_R = "124"
+P_H = "176"
+P_ER = "79"
+P_SH = "12"
+P_BB = "89"
+P_HP = "2"
+P_SO = "133"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.87"
+F_P_PCT = ".951"
+
+
+[[person]]
+name.last = "Pisarski"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "13"
+P_CG = "3"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "59.2"
+P_AB = "254"
+P_R = "45"
+P_H = "70"
+P_ER = "33"
+P_SH = "3"
+P_BB = "31"
+P_HP = "1"
+P_SO = "44"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.98"
+F_P_PCT = ".800"
+
+
+[[person]]
+name.last = "Meier"
+name.given = "D."
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "17"
+P_CG = "2"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "67.2"
+P_AB = "278"
+P_R = "57"
+P_H = "64"
+P_ER = "38"
+P_SH = "3"
+P_BB = "54"
+P_HP = "3"
+P_SO = "41"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "5.05"
+F_P_PCT = ".774"
+
+
+[[person]]
+name.last = "Majen"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "8"
+P_CG = "3"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "37.1"
+P_AB = "157"
+P_R = "31"
+P_H = "42"
+P_ER = "21"
+P_SH = "1"
+P_BB = "24"
+P_HP = "4"
+P_SO = "15"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "5.06"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Kulig"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "30"
+P_CG = "12"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "163.1"
+P_AB = "661"
+P_R = "118"
+P_H = "178"
+P_ER = "93"
+P_SH = "10"
+P_BB = "86"
+P_HP = "4"
+P_SO = "99"
+P_WP = "4"
+P_BK = "2"
+P_ERA = "5.12"
+F_P_PCT = ".849"
+
+
+[[person]]
+name.last = "Seifert"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "14"
+P_CG = "3"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "55.2"
+P_AB = "214"
+P_R = "41"
+P_H = "49"
+P_ER = "32"
+P_SH = "2"
+P_BB = "31"
+P_HP = "1"
+P_SO = "25"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.17"
+F_P_PCT = ".889"
+
+
+[[person]]
+name.last = "Boyle"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "25"
+P_CG = "8"
+P_W = "8"
+P_L = "13"
+P_PCT = ".381"
+P_IP = "154.1"
+P_AB = "648"
+P_R = "121"
+P_H = "175"
+P_ER = "91"
+P_SH = "11"
+P_BB = "94"
+P_HP = "5"
+P_SO = "98"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "5.31"
+F_P_PCT = ".872"
+
+
+[[person]]
+name.last = "Witowski"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "42.1"
+P_AB = "176"
+P_R = "38"
+P_H = "53"
+P_ER = "25"
+P_SH = "7"
+P_BB = "29"
+P_HP = "2"
+P_SO = "16"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "5.31"
+F_P_PCT = ".900"
+
+
+[[person]]
+name.last = "Landwehr"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "17"
+P_CG = "5"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "87.1"
+P_AB = "390"
+P_R = "81"
+P_H = "130"
+P_ER = "53"
+P_SH = "9"
+P_BB = "38"
+P_HP = "7"
+P_SO = "39"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.46"
+F_P_PCT = ".848"
+
+
+[[person]]
+name.last = "Fredericks"
+name.given = "M."
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "23"
+P_AB = "94"
+P_R = "20"
+P_H = "21"
+P_ER = "14"
+P_SH = "1"
+P_BB = "41"
+P_HP = "3"
+P_SO = "15"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "5.48"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Strzelecki"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "42.2"
+P_AB = "176"
+P_R = "34"
+P_H = "51"
+P_ER = "26"
+P_SH = "2"
+P_BB = "26"
+P_HP = "0"
+P_SO = "26"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "5.49"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Sanders"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "11"
+P_CG = "6"
+P_W = "1"
+P_L = "8"
+P_PCT = ".111"
+P_IP = "67"
+P_AB = "275"
+P_R = "69"
+P_H = "89"
+P_ER = "41"
+P_SH = "3"
+P_BB = "38"
+P_HP = "4"
+P_SO = "48"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.50"
+F_P_PCT = ".913"
+
+
+[[person]]
+name.last = "Wade"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "23"
+P_CG = "4"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "82.1"
+P_AB = "348"
+P_R = "71"
+P_H = "104"
+P_ER = "52"
+P_SH = "8"
+P_BB = "43"
+P_HP = "3"
+P_SO = "52"
+P_WP = "13"
+P_BK = "2"
+P_ERA = "5.68"
+F_P_PCT = ".929"
+
+
+[[person]]
+name.last = "Felling"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "13"
+P_CG = "1"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "62.2"
+P_AB = "265"
+P_R = "49"
+P_H = "76"
+P_ER = "40"
+P_SH = "1"
+P_BB = "30"
+P_HP = "1"
+P_SO = "37"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "5.75"
+F_P_PCT = ".905"
+
+
+[[person]]
+name.last = "Black"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "14"
+P_AB = "55"
+P_R = "12"
+P_H = "18"
+P_ER = "9"
+P_SH = "2"
+P_BB = "14"
+P_HP = "3"
+P_SO = "9"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.78"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Gile"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "23"
+P_AB = "99"
+P_R = "20"
+P_H = "29"
+P_ER = "15"
+P_SH = "1"
+P_BB = "10"
+P_HP = "3"
+P_SO = "16"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.86"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "Jim"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "12"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "43"
+P_AB = "187"
+P_R = "33"
+P_H = "61"
+P_ER = "28"
+P_SH = "2"
+P_BB = "20"
+P_HP = "0"
+P_SO = "33"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.85"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "R."
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "34"
+P_CG = "5"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "124"
+P_AB = "496"
+P_R = "115"
+P_H = "120"
+P_ER = "82"
+P_SH = "11"
+P_BB = "122"
+P_HP = "5"
+P_SO = "78"
+P_WP = "20"
+P_BK = "1"
+P_ERA = "5.94"
+F_P_PCT = ".821"
+
+
+[[person]]
+name.last = "Sagorac"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "26.2"
+P_AB = "128"
+P_R = "33"
+P_H = "39"
+P_ER = "18"
+P_SH = "2"
+P_BB = "15"
+P_HP = "3"
+P_SO = "18"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "6.09"
+F_P_PCT = ".818"
+
+
+[[person]]
+name.last = "Paquette"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "39.2"
+P_AB = "166"
+P_R = "43"
+P_H = "46"
+P_ER = "28"
+P_SH = "2"
+P_BB = "44"
+P_HP = "0"
+P_SO = "21"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.36"
+F_P_PCT = ".900"
+
+
+[[person]]
+name.last = "Cooper"
+name.given = "B."
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "29"
+P_CG = "1"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "98.1"
+P_AB = "413"
+P_R = "85"
+P_H = "125"
+P_ER = "70"
+P_SH = "4"
+P_BB = "60"
+P_HP = "5"
+P_SO = "79"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "6.40"
+F_P_PCT = ".971"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "F."
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "21"
+P_CG = "2"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "86.2"
+P_AB = "399"
+P_R = "88"
+P_H = "117"
+P_ER = "62"
+P_SH = "6"
+P_BB = "50"
+P_HP = "3"
+P_SO = "47"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "6.44"
+F_P_PCT = ".929"
+
+
+[[person]]
+name.last = "Teeter"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "12"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "32"
+P_AB = "130"
+P_R = "32"
+P_H = "39"
+P_ER = "23"
+P_SH = "3"
+P_BB = "21"
+P_HP = "2"
+P_SO = "14"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "6.47"
+F_P_PCT = ".727"
+
+
+[[person]]
+name.last = "Pasciak"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "12"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "47"
+P_AB = "191"
+P_R = "46"
+P_H = "53"
+P_ER = "35"
+P_SH = "3"
+P_BB = "50"
+P_HP = "4"
+P_SO = "47"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "6.70"
+F_P_PCT = ".933"
+
+
+[[person]]
+name.last = "Griffen"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "36"
+P_AB = "149"
+P_R = "37"
+P_H = "44"
+P_ER = "27"
+P_SH = "2"
+P_BB = "24"
+P_HP = "2"
+P_SO = "21"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.75"
+F_P_PCT = ".857"
+
+
+[[person]]
+name.last = "Kieger"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "22.2"
+P_AB = "88"
+P_R = "21"
+P_H = "25"
+P_ER = "17"
+P_SH = "1"
+P_BB = "28"
+P_HP = "1"
+P_SO = "13"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "6.76"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Henrichs"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "23.2"
+P_AB = "103"
+P_R = "22"
+P_H = "34"
+P_ER = "18"
+P_SH = "3"
+P_BB = "7"
+P_HP = "1"
+P_SO = "18"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "6.86"
+F_P_PCT = ".778"
+
+
+[[person]]
+name.last = "Eckert"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "13"
+P_AB = "56"
+P_R = "15"
+P_H = "19"
+P_ER = "10"
+P_SH = "1"
+P_BB = "15"
+P_HP = "1"
+P_SO = "6"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.92"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Young"
+name.given = "Hugh"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "9"
+P_CG = "2"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "52.1"
+P_AB = "215"
+P_R = "46"
+P_H = "71"
+P_ER = "41"
+P_SH = "5"
+P_BB = "35"
+P_HP = "3"
+P_SO = "19"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "7.05"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "18.2"
+P_AB = "75"
+P_R = "23"
+P_H = "19"
+P_ER = "15"
+P_SH = "2"
+P_BB = "30"
+P_HP = "2"
+P_SO = "13"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "7.25"
+F_P_PCT = ".600"
+
+
+[[person]]
+name.last = "Gregory"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "11"
+P_CG = "1"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "25"
+P_AB = "103"
+P_R = "26"
+P_H = "29"
+P_ER = "21"
+P_SH = "2"
+P_BB = "25"
+P_HP = "1"
+P_SO = "13"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "7.56"
+F_P_PCT = ".778"
+
+
+[[person]]
+name.last = "Dowler"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "30.2"
+P_AB = "129"
+P_R = "34"
+P_H = "42"
+P_ER = "26"
+P_SH = "3"
+P_BB = "21"
+P_HP = "5"
+P_SO = "16"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "7.65"
+F_P_PCT = ".933"
+
+
+[[person]]
+name.last = "Vydra"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "20"
+P_AB = "97"
+P_R = "23"
+P_H = "28"
+P_ER = "17"
+P_SH = "2"
+P_BB = "12"
+P_HP = "0"
+P_SO = "8"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "7.65"
+F_P_PCT = ".875"
+
+
+[[person]]
+name.last = "Ranieri"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wisconsin Rapids"
+[person.playing.totals]
+P_G = "9"
+P_CG = "0"
+P_W = "0"
+P_L = "6"
+P_PCT = ".000"
+P_IP = "40.1"
+P_AB = "167"
+P_R = "46"
+P_H = "49"
+P_ER = "35"
+P_SH = "3"
+P_BB = "37"
+P_HP = "4"
+P_SO = "17"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "7.81"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Woschiehowski"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "24.1"
+P_AB = "100"
+P_R = "31"
+P_H = "31"
+P_ER = "22"
+P_SH = "5"
+P_BB = "14"
+P_HP = "4"
+P_SO = "21"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "8.14"
+F_P_PCT = ".778"
+
+
+[[person]]
+name.last = "Krause"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "24.1"
+P_AB = "113"
+P_R = "27"
+P_H = "34"
+P_ER = "23"
+P_SH = "0"
+P_BB = "16"
+P_HP = "0"
+P_SO = "17"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "8.52"
+F_P_PCT = ".818"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "D."
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "12.1"
+P_AB = "53"
+P_R = "17"
+P_H = "19"
+P_ER = "12"
+P_SH = "0"
+P_BB = "7"
+P_HP = "0"
+P_SO = "6"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "8.78"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Stenger"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Janesville"
+[person.playing.totals]
+P_G = "7"
+P_CG = "1"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "17"
+P_AB = "75"
+P_R = "28"
+P_H = "22"
+P_ER = "17"
+P_SH = "0"
+P_BB = "29"
+P_HP = "1"
+P_SO = "11"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "9.00"
+F_P_PCT = ".667"
+
+
+[[person]]
+name.last = "Pruett"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "14"
+P_CG = "2"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "45.1"
+P_AB = "189"
+P_R = "59"
+P_H = "48"
+P_ER = "46"
+P_SH = "3"
+P_BB = "79"
+P_HP = "1"
+P_SO = "62"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "9.14"
+F_P_PCT = ".750"
+
+
+[[person]]
+name.last = "Asbury"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "10"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "34.2"
+P_AB = "151"
+P_R = "44"
+P_H = "50"
+P_ER = "36"
+P_SH = "3"
+P_BB = "35"
+P_HP = "2"
+P_SO = "26"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "9.36"
+F_P_PCT = ".889"
+
+
+[[person]]
+name.last = "Marler"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "14.1"
+P_AB = "56"
+P_R = "15"
+P_H = "13"
+P_ER = "15"
+P_SH = "0"
+P_BB = "10"
+P_HP = "1"
+P_SO = "11"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "9.44"
+F_P_PCT = ".700"
+
+
+[[person]]
+name.last = "Mosser"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "20.2"
+P_AB = "75"
+P_R = "25"
+P_H = "21"
+P_ER = "22"
+P_SH = "2"
+P_BB = "23"
+P_HP = "3"
+P_SO = "13"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "9.61"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Stella"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sheboygan"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "14.1"
+P_AB = "69"
+P_R = "17"
+P_H = "25"
+P_ER = "16"
+P_SH = "2"
+P_BB = "3"
+P_HP = "1"
+P_SO = "8"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "10.07"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Depczynski"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "12.1"
+P_AB = "47"
+P_R = "17"
+P_H = "20"
+P_ER = "15"
+P_SH = "1"
+P_BB = "9"
+P_HP = "1"
+P_SO = "10"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "10.97"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Rollins"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "13.1"
+P_AB = "57"
+P_R = "23"
+P_H = "13"
+P_ER = "17"
+P_SH = "1"
+P_BB = "22"
+P_HP = "5"
+P_SO = "8"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "11.50"
+F_P_PCT = ".667"
+
+
+[[person]]
+name.last = "Schaetzel"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "7"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "11.1"
+P_AB = "52"
+P_R = "20"
+P_H = "18"
+P_ER = "15"
+P_SH = "2"
+P_BB = "18"
+P_HP = "0"
+P_SO = "7"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "11.94"
+F_P_PCT = ".750"
+
+
+[[person]]
+name.last = "Bugs"
+[[person.playing]]
+season = "1946"
+league.name = "Wisconsin State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "11"
+P_AB = "41"
+P_R = "17"
+P_H = "12"
+P_ER = "17"
+P_SH = "2"
+P_BB = "18"
+P_HP = "0"
+P_SO = "6"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "13.90"
+F_P_PCT = "1.000"

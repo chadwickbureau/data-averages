@@ -1,0 +1,118 @@
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2927"
+F_A = "1426"
+F_E = "165"
+F_PCT = ".963"
+F_TP = "1"
+F_DP = "65"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2895"
+F_A = "1498"
+F_E = "196"
+F_PCT = ".957"
+F_TP = "0"
+F_DP = "78"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2953"
+F_A = "1353"
+F_E = "207"
+F_PCT = ".954"
+F_TP = "0"
+F_DP = "82"
+
+
+[[team]]
+name = "Atlantic City"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2891"
+F_A = "1439"
+F_E = "215"
+F_PCT = ".953"
+F_TP = "0"
+F_DP = "60"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2880"
+F_A = "1404"
+F_E = "221"
+F_PCT = ".951"
+F_TP = "0"
+F_DP = "79"
+
+
+[[team]]
+name = "Chester"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2821"
+F_A = "1363"
+F_E = "221"
+F_PCT = ".950"
+F_TP = "0"
+F_DP = "72"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2923"
+F_A = "1379"
+F_E = "233"
+F_PCT = ".949"
+F_TP = "1"
+F_DP = "55"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1912"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2871"
+F_A = "1416"
+F_E = "257"
+F_PCT = ".943"
+F_TP = "0"
+F_DP = "73"

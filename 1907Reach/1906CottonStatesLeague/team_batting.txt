@@ -1,0 +1,76 @@
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1906"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3776"
+B_R = "414"
+B_H = "931"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1906"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3800"
+B_R = "483"
+B_H = "856"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Meridian"
+[[team.playing]]
+season = "1906"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3792"
+B_R = "379"
+B_H = "850"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Gulfport"
+[[team.playing]]
+season = "1906"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3860"
+B_R = "358"
+B_H = "836"
+B_AVG = ".217"
+
+
+[[team]]
+name = "Baton Rouge"
+[[team.playing]]
+season = "1906"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3748"
+B_R = "318"
+B_H = "808"
+B_AVG = ".216"
+
+
+[[team]]
+name = "Vicksburg"
+[[team.playing]]
+season = "1906"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3827"
+B_R = "340"
+B_H = "776"
+B_AVG = ".203"

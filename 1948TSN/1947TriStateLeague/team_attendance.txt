@@ -1,0 +1,78 @@
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "157435"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "150290"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "123897"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "116729"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "101189"
+
+
+[[team]]
+name = "Rock Hill"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "91042"
+
+
+[[team]]
+name = "Fayetteville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "63081"
+
+
+[[team]]
+name = "Reidsville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "59403"

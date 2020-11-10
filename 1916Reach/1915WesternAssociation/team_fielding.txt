@@ -1,0 +1,110 @@
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3573"
+F_A = "1795"
+F_E = "239"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3631"
+F_A = "1723"
+F_E = "245"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3604"
+F_A = "1743"
+F_E = "269"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3568"
+F_A = "1740"
+F_E = "279"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3592"
+F_A = "1651"
+F_E = "279"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3676"
+F_A = "1825"
+F_E = "322"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3548"
+F_A = "1749"
+F_E = "329"
+F_PCT = ".942"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3538"
+F_A = "1742"
+F_E = "346"
+F_PCT = ".939"

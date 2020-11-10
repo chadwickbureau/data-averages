@@ -1,0 +1,1241 @@
+[[person]]
+name.last = "Bird"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "6"
+P_IP = "47"
+P_AB = "201"
+P_H = "36"
+P_R = "20"
+P_HP = "2"
+P_BB = "35"
+P_SO = "27"
+P_WP = "0"
+P_ER = "5"
+P_TO = "1"
+P_G_REL = "1"
+P_CG = "4"
+P_W = "3"
+P_L = "1"
+P_T = "0"
+P_PCT = ".750"
+P_ERA = "0.96"
+
+
+[[person]]
+name.last = "Romine"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+P_G = "15"
+P_IP = "103"
+P_AB = "460"
+P_H = "95"
+P_R = "38"
+P_HP = "2"
+P_BB = "33"
+P_SO = "60"
+P_WP = "1"
+P_ER = "13"
+P_TO = "3"
+P_G_REL = "1"
+P_CG = "11"
+P_W = "9"
+P_L = "5"
+P_T = "0"
+P_PCT = ".643"
+P_ERA = "1.13"
+
+
+[[person]]
+name.last = "Barnes"
+name.given = "J."
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+P_G = "30"
+P_IP = "189"
+P_AB = "720"
+P_H = "143"
+P_R = "34"
+P_HP = "2"
+P_BB = "33"
+P_SO = "113"
+P_WP = "0"
+P_ER = "29"
+P_TO = "2"
+P_G_REL = "11"
+P_CG = "17"
+P_W = "18"
+P_L = "6"
+P_T = "0"
+P_PCT = ".750"
+P_ERA = "1.38"
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moline"
+[person.playing.totals]
+P_G = "27"
+P_IP = "206"
+P_AB = "825"
+P_H = "151"
+P_R = "65"
+P_HP = "13"
+P_BB = "67"
+P_SO = "108"
+P_WP = "6"
+P_ER = "36"
+P_TO = "8"
+P_G_REL = "2"
+P_CG = "17"
+P_W = "16"
+P_L = "8"
+P_T = "0"
+P_PCT = ".667"
+P_ERA = "1.57"
+
+
+[[person]]
+name.last = "Tretter"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Quincy"
+[person.playing.totals]
+P_G = "38"
+P_IP = "300"
+P_AB = "1186"
+P_H = "249"
+P_R = "108"
+P_HP = "4"
+P_BB = "66"
+P_SO = "148"
+P_WP = "2"
+P_ER = "56"
+P_TO = "3"
+P_G_REL = "8"
+P_CG = "28"
+P_W = "19"
+P_L = "15"
+P_T = "1"
+P_PCT = ".559"
+P_ERA = "1.67"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Quincy"
+[person.playing.totals]
+P_G = "30"
+P_IP = "258"
+P_AB = "1034"
+P_H = "196"
+P_R = "74"
+P_HP = "17"
+P_BB = "80"
+P_SO = "145"
+P_WP = "6"
+P_ER = "51"
+P_TO = "2"
+P_G_REL = "0"
+P_CG = "28"
+P_W = "13"
+P_L = "13"
+P_T = "3"
+P_PCT = ".500"
+P_ERA = "1.78"
+
+
+[[person]]
+name.last = "Neal"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moline"
+[person.playing.totals]
+P_G = "27"
+P_IP = "196"
+P_AB = "793"
+P_H = "166"
+P_R = "70"
+P_HP = "1"
+P_BB = "41"
+P_SO = "67"
+P_WP = "5"
+P_ER = "40"
+P_TO = "8"
+P_G_REL = "5"
+P_CG = "15"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_PCT = ".636"
+P_ERA = "1.83"
+
+
+[[person]]
+name.last = "Crabb"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+P_G = "24"
+P_IP = "193"
+P_AB = "781"
+P_H = "164"
+P_R = "60"
+P_HP = "11"
+P_BB = "51"
+P_SO = "68"
+P_WP = "6"
+P_ER = "42"
+P_TO = "2"
+P_G_REL = "4"
+P_CG = "18"
+P_W = "13"
+P_L = "6"
+P_T = "0"
+P_PCT = ".684"
+P_ERA = "1.96"
+
+
+[[person]]
+name.last = "Higbee"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Quincy"
+[person.playing.totals]
+P_G = "23"
+P_IP = "183"
+P_AB = "757"
+P_H = "148"
+P_R = "67"
+P_HP = "19"
+P_BB = "58"
+P_SO = "18"
+P_WP = "4"
+P_ER = "41"
+P_TO = "1"
+P_G_REL = "3"
+P_CG = "19"
+P_W = "11"
+P_L = "9"
+P_T = "0"
+P_PCT = ".550"
+P_ERA = "2.02"
+
+
+[[person]]
+name.last = "Gould"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+P_G = "36"
+P_IP = "271"
+P_AB = "1100"
+P_H = "197"
+P_R = "80"
+P_HP = "9"
+P_BB = "99"
+P_SO = "218"
+P_WP = "2"
+P_ER = "63"
+P_TO = "7"
+P_G_REL = "7"
+P_CG = "23"
+P_W = "19"
+P_L = "12"
+P_T = "0"
+P_PCT = ".613"
+P_ERA = "2.10"
+
+
+[[person]]
+name.last = "Keupper"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Quincy"
+[person.playing.totals]
+P_G = "27"
+P_IP = "208"
+P_AB = "844"
+P_H = "173"
+P_R = "68"
+P_HP = "5"
+P_BB = "67"
+P_SO = "64"
+P_WP = "3"
+P_ER = "49"
+P_TO = "3"
+P_G_REL = "1"
+P_CG = "23"
+P_W = "16"
+P_L = "10"
+P_T = "0"
+P_PCT = ".615"
+P_ERA = "2.12"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+P_G = "15"
+P_IP = "109"
+P_AB = "434"
+P_H = "95"
+P_R = "32"
+P_HP = "2"
+P_BB = "37"
+P_SO = "52"
+P_WP = "0"
+P_ER = "26"
+P_TO = "3"
+P_G_REL = "2"
+P_CG = "11"
+P_W = "7"
+P_L = "5"
+P_T = "0"
+P_PCT = ".583"
+P_ERA = "2.15"
+
+
+[[person]]
+name.last = "Needles"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+P_G = "33"
+P_IP = "276"
+P_AB = "1149"
+P_H = "242"
+P_R = "102"
+P_HP = "6"
+P_BB = "70"
+P_SO = "87"
+P_WP = "4"
+P_ER = "67"
+P_TO = "2"
+P_G_REL = "4"
+P_CG = "28"
+P_W = "17"
+P_L = "13"
+P_T = "1"
+P_PCT = ".567"
+P_ERA = "2.18"
+
+
+[[person]]
+name.last = "Selby"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moline"
+[person.playing.totals]
+P_G = "34"
+P_IP = "243"
+P_AB = "949"
+P_H = "211"
+P_R = "78"
+P_HP = "6"
+P_BB = "63"
+P_SO = "99"
+P_WP = "6"
+P_ER = "61"
+P_TO = "4"
+P_G_REL = "6"
+P_CG = "24"
+P_W = "15"
+P_L = "12"
+P_T = "0"
+P_PCT = ".556"
+P_ERA = "2.26"
+
+
+[[person]]
+name.last = "Scanlan"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+P_G = "25"
+P_IP = "199"
+P_AB = "816"
+P_H = "170"
+P_R = "85"
+P_HP = "6"
+P_BB = "71"
+P_SO = "94"
+P_WP = "5"
+P_ER = "52"
+P_TO = "7"
+P_G_REL = "0"
+P_CG = "18"
+P_W = "16"
+P_L = "4"
+P_T = "0"
+P_PCT = ".800"
+P_ERA = "2.35"
+
+
+[[person]]
+name.last = "Ryan"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+P_G = "16"
+P_IP = "122"
+P_AB = "512"
+P_H = "128"
+P_R = "50"
+P_HP = "5"
+P_BB = "32"
+P_SO = "52"
+P_WP = "0"
+P_ER = "32"
+P_TO = "1"
+P_G_REL = "4"
+P_CG = "11"
+P_W = "5"
+P_L = "8"
+P_T = "0"
+P_PCT = ".385"
+P_ERA = "2.37"
+
+
+[[person]]
+name.last = "Eller"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moline"
+[person.playing.totals]
+P_G = "41"
+P_IP = "294"
+P_AB = "1158"
+P_H = "231"
+P_R = "101"
+P_HP = "5"
+P_BB = "74"
+P_SO = "204"
+P_WP = "5"
+P_ER = "78"
+P_TO = "0"
+P_G_REL = "11"
+P_CG = "30"
+P_W = "19"
+P_L = "15"
+P_T = "0"
+P_PCT = ".559"
+P_ERA = "2.38"
+
+
+[[person]]
+name.last = "Jensen"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+P_G = "36"
+P_IP = "267"
+P_AB = "1073"
+P_H = "239"
+P_R = "97"
+P_HP = "10"
+P_BB = "77"
+P_SO = "110"
+P_WP = "8"
+P_ER = "72"
+P_TO = "7"
+P_G_REL = "7"
+P_CG = "22"
+P_W = "15"
+P_L = "15"
+P_T = "0"
+P_PCT = ".500"
+P_ERA = "2.42"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Freeport"
+[person.playing.totals]
+P_G = "25"
+P_IP = "204"
+P_AB = "791"
+P_H = "184"
+P_R = "65"
+P_HP = "3"
+P_BB = "65"
+P_SO = "71"
+P_WP = "6"
+P_ER = "55"
+P_TO = "2"
+P_G_REL = "5"
+P_CG = "19"
+P_W = "11"
+P_L = "11"
+P_T = "0"
+P_PCT = ".500"
+P_ERA = "2.43"
+
+
+[[person]]
+name.last = "McManus"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "33"
+P_IP = "249"
+P_AB = "998"
+P_H = "238"
+P_R = "89"
+P_HP = "11"
+P_BB = "59"
+P_SO = "79"
+P_WP = "5"
+P_ER = "69"
+P_TO = "5"
+P_G_REL = "8"
+P_CG = "22"
+P_W = "18"
+P_L = "10"
+P_T = "0"
+P_PCT = ".643"
+P_ERA = "2.49"
+
+
+[[person]]
+name.last = "Bohen"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[[person.playing.split]]
+team.name = "Moline"
+[person.playing.totals]
+P_G = "30"
+P_IP = "211"
+P_AB = "879"
+P_H = "161"
+P_R = "90"
+P_HP = "18"
+P_BB = "103"
+P_SO = "104"
+P_WP = "18"
+P_ER = "60"
+P_TO = "10"
+P_G_REL = "3"
+P_CG = "18"
+P_W = "11"
+P_L = "11"
+P_T = "0"
+P_PCT = ".500"
+P_ERA = "2.55"
+
+
+[[person]]
+name.last = "Clarke"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "14"
+P_IP = "88"
+P_AB = "352"
+P_H = "76"
+P_R = "37"
+P_HP = "3"
+P_BB = "25"
+P_SO = "33"
+P_WP = "1"
+P_ER = "25"
+P_TO = "4"
+P_G_REL = "2"
+P_CG = "8"
+P_W = "6"
+P_L = "3"
+P_T = "1"
+P_PCT = ".667"
+P_ERA = "2.55"
+
+
+[[person]]
+name.last = "Burnham"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Freeport"
+[person.playing.totals]
+P_G = "32"
+P_IP = "245"
+P_AB = "999"
+P_H = "214"
+P_R = "92"
+P_HP = "17"
+P_BB = "65"
+P_SO = "137"
+P_WP = "4"
+P_ER = "70"
+P_TO = "6"
+P_G_REL = "6"
+P_CG = "21"
+P_W = "12"
+P_L = "12"
+P_T = "0"
+P_PCT = ".500"
+P_ERA = "2.57"
+
+
+[[person]]
+name.last = "Hardin"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "34"
+P_IP = "237"
+P_AB = "963"
+P_H = "231"
+P_R = "86"
+P_HP = "7"
+P_BB = "53"
+P_SO = "96"
+P_WP = "4"
+P_ER = "72"
+P_TO = "3"
+P_G_REL = "11"
+P_CG = "20"
+P_W = "18"
+P_L = "12"
+P_T = "0"
+P_PCT = ".600"
+P_ERA = "2.74"
+
+
+[[person]]
+name.last = "Schlansker"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+P_G = "33"
+P_IP = "254"
+P_AB = "1036"
+P_H = "234"
+P_R = "96"
+P_HP = "11"
+P_BB = "58"
+P_SO = "99"
+P_WP = "2"
+P_ER = "78"
+P_TO = "7"
+P_G_REL = "0"
+P_CG = "26"
+P_W = "12"
+P_L = "17"
+P_T = "0"
+P_PCT = ".414"
+P_ERA = "2.77"
+
+
+[[person]]
+name.last = "Kellar"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Freeport"
+[person.playing.totals]
+P_G = "31"
+P_IP = "231"
+P_AB = "917"
+P_H = "206"
+P_R = "94"
+P_HP = "9"
+P_BB = "75"
+P_SO = "68"
+P_WP = "8"
+P_ER = "72"
+P_TO = "8"
+P_G_REL = "4"
+P_CG = "20"
+P_W = "3"
+P_L = "20"
+P_T = "0"
+P_PCT = ".130"
+P_ERA = "2.80"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "11"
+P_IP = "70"
+P_AB = "288"
+P_H = "80"
+P_R = "27"
+P_HP = "1"
+P_BB = "5"
+P_SO = "20"
+P_WP = "1"
+P_ER = "22"
+P_TO = "3"
+P_G_REL = "1"
+P_CG = "7"
+P_W = "5"
+P_L = "4"
+P_T = "0"
+P_PCT = ".556"
+P_ERA = "2.82"
+
+
+[[person]]
+name.last = "Lamline"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "28"
+P_IP = "214"
+P_AB = "859"
+P_H = "160"
+P_R = "82"
+P_HP = "4"
+P_BB = "96"
+P_SO = "88"
+P_WP = "3"
+P_ER = "68"
+P_TO = "6"
+P_G_REL = "2"
+P_CG = "20"
+P_W = "11"
+P_L = "13"
+P_T = "1"
+P_PCT = ".458"
+P_ERA = "2.86"
+
+
+[[person]]
+name.last = "Sheehan"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+P_G = "14"
+P_IP = "104"
+P_AB = "421"
+P_H = "90"
+P_R = "57"
+P_HP = "2"
+P_BB = "16"
+P_SO = "46"
+P_WP = "3"
+P_ER = "34"
+P_TO = "2"
+P_G_REL = "3"
+P_CG = "9"
+P_W = "6"
+P_L = "5"
+P_T = "0"
+P_PCT = ".545"
+P_ERA = "2.93"
+
+
+[[person]]
+name.last = "Carlson"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "18"
+P_IP = "135"
+P_AB = "528"
+P_H = "112"
+P_R = "63"
+P_HP = "5"
+P_BB = "45"
+P_SO = "102"
+P_WP = "3"
+P_ER = "46"
+P_TO = "2"
+P_G_REL = "4"
+P_CG = "12"
+P_W = "4"
+P_L = "11"
+P_T = "0"
+P_PCT = ".267"
+P_ERA = "3.07"
+
+
+[[person]]
+name.last = "Elliott"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Quincy"
+[person.playing.totals]
+P_G = "7"
+P_IP = "46"
+P_AB = "185"
+P_H = "44"
+P_R = "28"
+P_HP = "3"
+P_BB = "18"
+P_SO = "11"
+P_WP = "0"
+P_ER = "16"
+P_TO = "3"
+P_G_REL = "1"
+P_CG = "4"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+P_ERA = "3.14"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+P_G = "17"
+P_IP = "130"
+P_AB = "544"
+P_H = "120"
+P_R = "58"
+P_HP = "8"
+P_BB = "36"
+P_SO = "34"
+P_WP = "4"
+P_ER = "46"
+P_TO = "6"
+P_G_REL = "0"
+P_CG = "11"
+P_W = "7"
+P_L = "8"
+P_T = "0"
+P_PCT = ".467"
+P_ERA = "3.19"
+
+
+[[person]]
+name.last = "Wells"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+P_G = "36"
+P_IP = "248"
+P_AB = "1026"
+P_H = "242"
+P_R = "106"
+P_HP = "8"
+P_BB = "51"
+P_SO = "98"
+P_WP = "1"
+P_ER = "88"
+P_TO = "5"
+P_G_REL = "9"
+P_CG = "22"
+P_W = "15"
+P_L = "14"
+P_T = "0"
+P_PCT = ".533"
+P_ERA = "3.20"
+
+
+[[person]]
+name.last = "Timmersman"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+P_G = "12"
+P_IP = "76"
+P_AB = "333"
+P_H = "71"
+P_R = "50"
+P_HP = "7"
+P_BB = "44"
+P_SO = "40"
+P_WP = "1"
+P_ER = "28"
+P_TO = "3"
+P_G_REL = "2"
+P_CG = "7"
+P_W = "3"
+P_L = "7"
+P_T = "1"
+P_PCT = ".300"
+P_ERA = "3.29"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Freeport"
+[person.playing.totals]
+P_G = "8"
+P_IP = "66"
+P_AB = "218"
+P_H = "53"
+P_R = "28"
+P_HP = "2"
+P_BB = "14"
+P_SO = "22"
+P_WP = "1"
+P_ER = "24"
+P_TO = "1"
+P_G_REL = "2"
+P_CG = "5"
+P_W = "1"
+P_L = "6"
+P_T = "0"
+P_PCT = ".143"
+P_ERA = "3.29"
+
+
+[[person]]
+name.last = "Kunkel"
+name.given = "P."
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peoria"
+[person.playing.totals]
+P_G = "14"
+P_IP = "100"
+P_AB = "444"
+P_H = "115"
+P_R = "58"
+P_HP = "7"
+P_BB = "33"
+P_SO = "24"
+P_WP = "0"
+P_ER = "40"
+P_TO = "1"
+P_G_REL = "5"
+P_CG = "8"
+P_W = "6"
+P_L = "5"
+P_T = "0"
+P_PCT = ".545"
+P_ERA = "3.60"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "10"
+P_IP = "58"
+P_AB = "254"
+P_H = "64"
+P_R = "39"
+P_HP = "6"
+P_BB = "17"
+P_SO = "27"
+P_WP = "1"
+P_ER = "24"
+P_TO = "2"
+P_G_REL = "3"
+P_CG = "6"
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_PCT = ".500"
+P_ERA = "3.70"
+
+
+[[person]]
+name.last = "Richmond"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[person.playing.totals]
+P_G = "32"
+P_IP = "218"
+P_AB = "915"
+P_H = "225"
+P_R = "126"
+P_HP = "12"
+P_BB = "77"
+P_SO = "72"
+P_WP = "7"
+P_ER = "95"
+P_TO = "5"
+P_G_REL = "3"
+P_CG = "24"
+P_W = "11"
+P_L = "16"
+P_T = "1"
+P_PCT = ".407"
+P_ERA = "3.93"
+
+
+[[person]]
+name.last = "Carroll"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Freeport"
+[person.playing.totals]
+P_G = "25"
+P_IP = "157"
+P_AB = "646"
+P_H = "129"
+P_R = "83"
+P_HP = "10"
+P_BB = "81"
+P_SO = "46"
+P_WP = "2"
+P_ER = "71"
+P_TO = "5"
+P_G_REL = "7"
+P_CG = "13"
+P_W = "8"
+P_L = "14"
+P_T = "0"
+P_PCT = ".364"
+P_ERA = "4.01"
+
+
+[[person]]
+name.last = "Delano"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[[person.playing.split]]
+team.name = "Freeport"
+[person.playing.totals]
+P_G = "21"
+P_IP = "133"
+P_AB = "559"
+P_H = "135"
+P_R = "76"
+P_HP = "5"
+P_BB = "29"
+P_SO = "26"
+P_WP = "0"
+P_ER = "64"
+P_TO = "7"
+P_G_REL = "1"
+P_CG = "13"
+P_W = "7"
+P_L = "9"
+P_T = "0"
+P_PCT = ".437"
+P_ERA = "4.32"
+
+
+[[person]]
+name.last = "Malloy"
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bloomington"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "16"
+P_IP = "112"
+P_AB = "507"
+P_H = "130"
+P_R = "90"
+P_HP = "7"
+P_BB = "54"
+P_SO = "43"
+P_WP = "5"
+P_ER = "60"
+P_TO = "3"
+P_G_REL = "4"
+P_CG = "9"
+P_W = "3"
+P_L = "9"
+P_T = "0"
+P_PCT = ".250"
+P_ERA = "4.80"
+
+
+[[person]]
+name.last = "Barnes"
+name.given = "V."
+[[person.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Davenport"
+[person.playing.totals]
+P_G = "7"
+P_IP = "48"
+P_AB = "217"
+P_H = "55"
+P_R = "34"
+P_HP = "0"
+P_BB = "21"
+P_SO = "9"
+P_WP = "1"
+P_ER = "26"
+P_TO = "0"
+P_G_REL = "3"
+P_CG = "4"
+P_W = "0"
+P_L = "4"
+P_T = "0"
+P_PCT = ".000"
+P_ERA = "4.91"

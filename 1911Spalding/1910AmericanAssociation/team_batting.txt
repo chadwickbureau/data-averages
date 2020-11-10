@@ -1,0 +1,150 @@
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "167"
+B_AB = "5558"
+B_R = "802"
+B_H = "1514"
+B_2B = "225"
+B_3B = "79"
+B_HR = "39"
+B_SH = "266"
+B_SB = "237"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "171"
+B_AB = "5571"
+B_R = "631"
+B_H = "1385"
+B_2B = "158"
+B_3B = "68"
+B_HR = "18"
+B_SH = "275"
+B_SB = "186"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5478"
+B_R = "667"
+B_H = "1317"
+B_2B = "192"
+B_3B = "45"
+B_HR = "26"
+B_SH = "254"
+B_SB = "229"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5479"
+B_R = "655"
+B_H = "1311"
+B_2B = "191"
+B_3B = "59"
+B_HR = "10"
+B_SH = "263"
+B_SB = "190"
+B_AVG = ".239"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "172"
+B_AB = "5596"
+B_R = "672"
+B_H = "1339"
+B_2B = "164"
+B_3B = "90"
+B_HR = "34"
+B_SH = "207"
+B_SB = "267"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "167"
+B_AB = "5312"
+B_R = "526"
+B_H = "1269"
+B_2B = "118"
+B_3B = "67"
+B_HR = "13"
+B_SH = "205"
+B_SB = "203"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "166"
+B_AB = "5404"
+B_R = "527"
+B_H = "1273"
+B_2B = "133"
+B_3B = "45"
+B_HR = "10"
+B_SH = "225"
+B_SB = "165"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1910"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5341"
+B_R = "575"
+B_H = "1241"
+B_2B = "157"
+B_3B = "65"
+B_HR = "29"
+B_SH = "260"
+B_SB = "242"
+B_AVG = ".232"

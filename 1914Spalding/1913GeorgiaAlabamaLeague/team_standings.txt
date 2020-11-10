@@ -1,0 +1,76 @@
+[[team]]
+name = "Gadsden"
+[[team.playing]]
+season = "1913"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "38"
+R_PCT = ".573"
+R_RANK = "1"
+
+
+[[team]]
+name = "Newnan"
+[[team.playing]]
+season = "1913"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "44"
+R_PCT = ".511"
+R_RANK = "2"
+
+
+[[team]]
+name = "Opelika"
+[[team.playing]]
+season = "1913"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "45"
+R_PCT = ".505"
+R_RANK = "3"
+
+
+[[team]]
+name = "Anniston"
+[[team.playing]]
+season = "1913"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "45"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "La Grange"
+[[team.playing]]
+season = "1913"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "42"
+R_L = "48"
+R_PCT = ".466"
+R_RANK = "5"
+
+
+[[team]]
+name = "Talladega"
+[[team.playing]]
+season = "1913"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "50"
+R_PCT = ".333"
+R_RANK = "6"

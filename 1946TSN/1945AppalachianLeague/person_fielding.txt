@@ -1,0 +1,2408 @@
+[[person]]
+name.last = "Roberts"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "107"
+F_1B_PO = "872"
+F_1B_A = "30"
+F_1B_E = "19"
+F_1B_DP = "71"
+F_1B_PCT = ".979"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Taft"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "68"
+F_1B_A = "7"
+F_1B_E = "2"
+F_1B_DP = "3"
+F_1B_PCT = ".974"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Langston"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "53"
+F_1B_PO = "446"
+F_1B_A = "16"
+F_1B_E = "13"
+F_1B_DP = "19"
+F_1B_PCT = ".973"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "McCaskey"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "105"
+F_1B_PO = "912"
+F_1B_A = "60"
+F_1B_E = "28"
+F_1B_DP = "44"
+F_1B_PCT = ".972"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Anders"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "56"
+F_1B_PO = "381"
+F_1B_A = "22"
+F_1B_E = "14"
+F_1B_DP = "25"
+F_1B_PCT = ".966"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Wieczorek"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "23"
+F_1B_PO = "177"
+F_1B_A = "7"
+F_1B_E = "8"
+F_1B_DP = "9"
+F_1B_PCT = ".958"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Desmuke"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "29"
+F_1B_PO = "199"
+F_1B_A = "13"
+F_1B_E = "11"
+F_1B_DP = "5"
+F_1B_PCT = ".951"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "40"
+F_1B_PO = "268"
+F_1B_A = "9"
+F_1B_E = "16"
+F_1B_DP = "9"
+F_1B_PCT = ".945"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Haus"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "32"
+F_2B_PO = "75"
+F_2B_A = "84"
+F_2B_E = "4"
+F_2B_DP = "11"
+F_2B_PCT = ".975"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Obergfell"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "54"
+F_2B_A = "63"
+F_2B_E = "6"
+F_2B_DP = "9"
+F_2B_PCT = ".951"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Calabro"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "12"
+F_2B_PO = "37"
+F_2B_A = "35"
+F_2B_E = "4"
+F_2B_DP = "4"
+F_2B_PCT = ".947"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Pepio"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "92"
+F_2B_PO = "203"
+F_2B_A = "259"
+F_2B_E = "32"
+F_2B_DP = "26"
+F_2B_PCT = ".935"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Scheuermann"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "74"
+F_2B_PO = "191"
+F_2B_A = "160"
+F_2B_E = "25"
+F_2B_DP = "18"
+F_2B_PCT = ".934"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Hollis"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "97"
+F_2B_PO = "281"
+F_2B_A = "311"
+F_2B_E = "46"
+F_2B_DP = "62"
+F_2B_PCT = ".928"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Stoecker"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "27"
+F_2B_A = "37"
+F_2B_E = "5"
+F_2B_DP = "2"
+F_2B_PCT = ".928"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Carney"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "24"
+F_2B_A = "39"
+F_2B_E = "8"
+F_2B_DP = "1"
+F_2B_PCT = ".887"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gubernat"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "39"
+F_2B_A = "31"
+F_2B_E = "10"
+F_2B_DP = "6"
+F_2B_PCT = ".875"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Polston"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "19"
+F_2B_PO = "43"
+F_2B_A = "50"
+F_2B_E = "14"
+F_2B_DP = "12"
+F_2B_PCT = ".869"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Mutaw"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "12"
+F_2B_PO = "18"
+F_2B_A = "24"
+F_2B_E = "9"
+F_2B_DP = "1"
+F_2B_PCT = ".824"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Peacock"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "10"
+F_2B_PO = "15"
+F_2B_A = "22"
+F_2B_E = "10"
+F_2B_DP = "2"
+F_2B_PCT = ".787"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gardner"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "70"
+F_3B_PO = "107"
+F_3B_A = "132"
+F_3B_E = "11"
+F_3B_DP = "7"
+F_3B_PCT = ".956"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "McAllister"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "11"
+F_3B_A = "30"
+F_3B_E = "4"
+F_3B_DP = "2"
+F_3B_PCT = ".911"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Howe"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "22"
+F_3B_PO = "37"
+F_3B_A = "32"
+F_3B_E = "9"
+F_3B_DP = "1"
+F_3B_PCT = ".885"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Kolafa"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "25"
+F_3B_PO = "33"
+F_3B_A = "37"
+F_3B_E = "10"
+F_3B_DP = "4"
+F_3B_PCT = ".875"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Mutaw"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "20"
+F_3B_PO = "16"
+F_3B_A = "26"
+F_3B_E = "6"
+F_3B_DP = "2"
+F_3B_PCT = ".875"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Laca"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "46"
+F_3B_PO = "42"
+F_3B_A = "72"
+F_3B_E = "19"
+F_3B_DP = "6"
+F_3B_PCT = ".857"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Rinebold"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "11"
+F_3B_PO = "5"
+F_3B_A = "18"
+F_3B_E = "4"
+F_3B_DP = "1"
+F_3B_PCT = ".852"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Turowski"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "25"
+F_3B_PO = "27"
+F_3B_A = "39"
+F_3B_E = "13"
+F_3B_DP = "3"
+F_3B_PCT = ".835"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Calabro"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "13"
+F_3B_PO = "18"
+F_3B_A = "17"
+F_3B_E = "7"
+F_3B_DP = "0"
+F_3B_PCT = ".833"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Olszewski"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "15"
+F_3B_A = "10"
+F_3B_E = "5"
+F_3B_DP = "0"
+F_3B_PCT = ".833"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Podolak"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "20"
+F_3B_PO = "24"
+F_3B_A = "20"
+F_3B_E = "9"
+F_3B_DP = "2"
+F_3B_PCT = ".830"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Antzak"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "11"
+F_3B_PO = "11"
+F_3B_A = "17"
+F_3B_E = "6"
+F_3B_DP = "0"
+F_3B_PCT = ".824"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Pepio"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "11"
+F_3B_PO = "16"
+F_3B_A = "16"
+F_3B_E = "3"
+F_3B_DP = "1"
+F_3B_PCT = ".821"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Mainzer"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "18"
+F_3B_PO = "24"
+F_3B_A = "20"
+F_3B_E = "10"
+F_3B_DP = "3"
+F_3B_PCT = ".815"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Abreu"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "15"
+F_3B_PO = "11"
+F_3B_A = "20"
+F_3B_E = "8"
+F_3B_DP = "1"
+F_3B_PCT = ".795"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Schipferling"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "17"
+F_3B_A = "12"
+F_3B_E = "9"
+F_3B_DP = "0"
+F_3B_PCT = ".763"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Langston"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "15"
+F_3B_PO = "12"
+F_3B_A = "14"
+F_3B_E = "11"
+F_3B_DP = "1"
+F_3B_PCT = ".703"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Gruber"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "21"
+F_SS_PO = "49"
+F_SS_A = "70"
+F_SS_E = "3"
+F_SS_DP = "9"
+F_SS_PCT = ".975"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Stoecker"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "92"
+F_SS_PO = "162"
+F_SS_A = "235"
+F_SS_E = "44"
+F_SS_DP = "21"
+F_SS_PCT = ".900"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Petrosky"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "51"
+F_SS_PO = "108"
+F_SS_A = "161"
+F_SS_E = "33"
+F_SS_DP = "14"
+F_SS_PCT = ".891"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Verble"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "107"
+F_SS_PO = "145"
+F_SS_A = "284"
+F_SS_E = "55"
+F_SS_DP = "52"
+F_SS_PCT = ".886"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Tyson"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "23"
+F_SS_PO = "38"
+F_SS_A = "62"
+F_SS_E = "16"
+F_SS_DP = "7"
+F_SS_PCT = ".862"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Costa"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "50"
+F_SS_PO = "59"
+F_SS_A = "91"
+F_SS_E = "26"
+F_SS_DP = "13"
+F_SS_PCT = ".852"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Hacay"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "34"
+F_SS_PO = "50"
+F_SS_A = "63"
+F_SS_E = "20"
+F_SS_DP = "5"
+F_SS_PCT = ".850"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Taft"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "20"
+F_SS_A = "21"
+F_SS_E = "9"
+F_SS_DP = "2"
+F_SS_PCT = ".820"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Rinebold"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "13"
+F_SS_PO = "18"
+F_SS_A = "30"
+F_SS_E = "11"
+F_SS_DP = "5"
+F_SS_PCT = ".814"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Evans"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "30"
+F_OF_PO = "39"
+F_OF_A = "3"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bellers"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "15"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rabuzzi"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "13"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pearce"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "12"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Page"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "51"
+F_OF_PO = "78"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".988"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rasmussen"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "97"
+F_OF_PO = "225"
+F_OF_A = "11"
+F_OF_E = "6"
+F_OF_DP = "3"
+F_OF_PCT = ".975"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Forrester"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "40"
+F_OF_PO = "36"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".974"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Zunno"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "64"
+F_OF_A = "7"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".973"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Costa"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "63"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Langston"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "25"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".967"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rappe"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "51"
+F_OF_A = "5"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Guettler"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "93"
+F_OF_PO = "111"
+F_OF_A = "5"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".959"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jobst"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "80"
+F_OF_A = "8"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".957"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pavlecic"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "36"
+F_OF_PO = "58"
+F_OF_A = "6"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".955"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wiltsee"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "23"
+F_OF_PO = "41"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".955"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "60"
+F_OF_A = "2"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".954"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jamro"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "97"
+F_OF_PO = "161"
+F_OF_A = "3"
+F_OF_E = "8"
+F_OF_DP = "0"
+F_OF_PCT = ".953"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cunningham"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "73"
+F_OF_PO = "89"
+F_OF_A = "7"
+F_OF_E = "5"
+F_OF_DP = "2"
+F_OF_PCT = ".950"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Loy"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "36"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".949"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sides"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "14"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".941"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brooks"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "26"
+F_OF_PO = "29"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bertini"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "15"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".938"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Swanson"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "24"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "2"
+F_OF_PCT = ".933"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Chetta"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "66"
+F_OF_PO = "87"
+F_OF_A = "5"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".929"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Tanner"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "32"
+F_OF_PO = "33"
+F_OF_A = "3"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Ellis"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "30"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".919"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sylvan"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "64"
+F_OF_A = "3"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".918"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "DeBiase"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "21"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".917"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Polubiatka"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "21"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".917"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jacquot"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "10"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".917"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Akard"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "22"
+F_OF_PO = "18"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".909"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McGovern"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "63"
+F_OF_A = "10"
+F_OF_E = "9"
+F_OF_DP = "4"
+F_OF_PCT = ".890"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Coon"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "21"
+F_OF_A = "3"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".889"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Abreu"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "12"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".867"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Turowski"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "34"
+F_OF_PO = "42"
+F_OF_A = "6"
+F_OF_E = "8"
+F_OF_DP = "1"
+F_OF_PCT = ".857"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Boyer"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "15"
+F_OF_A = "3"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".857"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McCall"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "10"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".857"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Almonte"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "5"
+F_P_A = "14"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Macy"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "4"
+F_P_A = "14"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kreplin"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Glaser"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "3"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Barbolla"
+name.given = "R."
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "5"
+F_P_A = "26"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".969"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "O'Neill"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "6"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".966"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Chuchiak"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "6"
+F_P_A = "17"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".958"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Slack"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "7"
+F_P_A = "38"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".957"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "3"
+F_P_A = "37"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Akard"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "5"
+F_P_A = "42"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".940"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hanrahan"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "8"
+F_P_A = "35"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".935"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ancherico"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "4"
+F_P_A = "20"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Desmuke"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "2"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rogers"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "1"
+F_P_A = "9"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hough"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "3"
+F_P_A = "36"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".907"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McCall"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "3"
+F_P_A = "45"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pryor"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "17"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".905"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kuhlman"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "6"
+F_P_A = "22"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".903"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jackson"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "9"
+F_P_A = "37"
+F_P_E = "5"
+F_P_DP = "6"
+F_P_PCT = ".902"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Deal"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "3"
+F_P_A = "21"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pirrie"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "12"
+F_P_A = "41"
+F_P_E = "7"
+F_P_DP = "1"
+F_P_PCT = ".883"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Oley"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "13"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Colombo"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "2"
+F_P_A = "29"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".861"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rotunno"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "2"
+F_P_A = "12"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Busco"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "4"
+F_P_A = "26"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Boyer"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "5"
+F_P_A = "19"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Campen"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "13"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".833"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mack (Maciejewski)"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "4"
+F_P_A = "14"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".783"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Muzio"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "3"
+F_P_A = "23"
+F_P_E = "8"
+F_P_DP = "0"
+F_P_PCT = ".765"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Abreu"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "40"
+F_C_PO = "275"
+F_C_A = "33"
+F_C_E = "7"
+F_C_DP = "3"
+F_C_PB = "14"
+F_C_PCT = ".978"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "39"
+F_C_PO = "292"
+F_C_A = "41"
+F_C_E = "8"
+F_C_DP = "4"
+F_C_PB = "14"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bryant"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "78"
+F_C_PO = "613"
+F_C_A = "44"
+F_C_E = "18"
+F_C_DP = "2"
+F_C_PB = "16"
+F_C_PCT = ".973"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hawn"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "21"
+F_C_PO = "148"
+F_C_A = "22"
+F_C_E = "5"
+F_C_DP = "1"
+F_C_PB = "3"
+F_C_PCT = ".971"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Schipferling"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "36"
+F_C_PO = "248"
+F_C_A = "27"
+F_C_E = "9"
+F_C_DP = "2"
+F_C_PB = "4"
+F_C_PCT = ".968"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "34"
+F_C_PO = "193"
+F_C_A = "20"
+F_C_E = "8"
+F_C_DP = "1"
+F_C_PB = "15"
+F_C_PCT = ".964"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Schroeder"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "55"
+F_C_PO = "375"
+F_C_A = "38"
+F_C_E = "16"
+F_C_DP = "4"
+F_C_PB = "22"
+F_C_PCT = ".962"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Olszewski"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elizabethton"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "41"
+F_C_PO = "296"
+F_C_A = "17"
+F_C_E = "13"
+F_C_DP = "3"
+F_C_PB = "13"
+F_C_PCT = ".960"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Drew"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "41"
+F_C_PO = "201"
+F_C_A = "33"
+F_C_E = "14"
+F_C_DP = "6"
+F_C_PB = "14"
+F_C_PCT = ".944"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Paul"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "30"
+F_C_PO = "151"
+F_C_A = "18"
+F_C_E = "11"
+F_C_DP = "1"
+F_C_PB = "12"
+F_C_PCT = ".939"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "28"
+F_C_PO = "156"
+F_C_A = "22"
+F_C_E = "12"
+F_C_DP = "1"
+F_C_PB = "18"
+F_C_PCT = ".937"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "42"
+F_C_A = "1"
+F_C_E = "3"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = ".935"
+F_C_TP = "0"

@@ -1,0 +1,66 @@
+[[team]]
+name = "Caborca"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+F_G = "95"
+F_PO = "2415"
+F_A = "1000"
+F_E = "191"
+F_DP = "76"
+F_PB = "38"
+F_PCT = ".947"
+F_TP = "0"
+
+
+[[team]]
+name = "Cananea"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+F_G = "94"
+F_PO = "2355"
+F_A = "1044"
+F_E = "242"
+F_DP = "60"
+F_PB = "19"
+F_PCT = ".934"
+F_TP = "0"
+
+
+[[team]]
+name = "Empalme"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+F_G = "95"
+F_PO = "2397"
+F_A = "1064"
+F_E = "261"
+F_DP = "71"
+F_PB = "35"
+F_PCT = ".930"
+F_TP = "0"
+
+
+[[team]]
+name = "Agua Prieta"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+F_G = "95"
+F_PO = "2382"
+F_A = "971"
+F_E = "253"
+F_DP = "55"
+F_PB = "43"
+F_PCT = ".930"
+F_TP = "0"

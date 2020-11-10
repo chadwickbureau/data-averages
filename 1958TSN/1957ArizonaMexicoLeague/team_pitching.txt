@@ -1,0 +1,136 @@
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+P_G = "135"
+P_CG = "72"
+P_SHO = "7"
+P_IP = "1187"
+P_H = "1239"
+P_HR = "75"
+P_R = "709"
+P_ER = "561"
+P_BB = "574"
+P_SO = "929"
+P_HP = "43"
+P_WP = "79"
+P_BK = "3"
+P_ERA = "4.25"
+
+
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+P_G = "135"
+P_CG = "82"
+P_SHO = "4"
+P_IP = "1164"
+P_H = "1308"
+P_HR = "97"
+P_R = "947"
+P_ER = "691"
+P_BB = "608"
+P_SO = "792"
+P_HP = "49"
+P_WP = "83"
+P_BK = "8"
+P_ERA = "5.34"
+
+
+[[team]]
+name = "Las Vegas"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+P_G = "133"
+P_CG = "51"
+P_SHO = "0"
+P_IP = "1149"
+P_H = "1493"
+P_HR = "121"
+P_R = "938"
+P_ER = "685"
+P_BB = "516"
+P_SO = "758"
+P_HP = "42"
+P_WP = "81"
+P_BK = "1"
+P_ERA = "5.36"
+
+
+[[team]]
+name = "Cananea"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+P_G = "135"
+P_CG = "65"
+P_SHO = "0"
+P_IP = "1190"
+P_H = "1598"
+P_HR = "194"
+P_R = "1018"
+P_ER = "789"
+P_BB = "521"
+P_SO = "599"
+P_HP = "40"
+P_WP = "37"
+P_BK = "8"
+P_ERA = "5.97"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+P_G = "138"
+P_CG = "64"
+P_SHO = "3"
+P_IP = "1200"
+P_H = "1428"
+P_HR = "149"
+P_R = "1027"
+P_ER = "848"
+P_BB = "713"
+P_SO = "995"
+P_HP = "52"
+P_WP = "99"
+P_BK = "9"
+P_ERA = "6.36"
+
+
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+P_G = "126"
+P_CG = "41"
+P_SHO = "2"
+P_IP = "1093"
+P_H = "1410"
+P_HR = "132"
+P_R = "1029"
+P_ER = "801"
+P_BB = "695"
+P_SO = "653"
+P_HP = "35"
+P_WP = "61"
+P_BK = "3"
+P_ERA = "6.60"

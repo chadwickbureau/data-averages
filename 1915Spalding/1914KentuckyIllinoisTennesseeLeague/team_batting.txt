@@ -1,0 +1,76 @@
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2098"
+B_R = "256"
+B_H = "515"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Cairo"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4052"
+B_R = "509"
+B_H = "986"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Paducah"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4180"
+B_R = "476"
+B_H = "1001"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Owensboro"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3906"
+B_R = "489"
+B_H = "925"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3908"
+B_R = "435"
+B_H = "922"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "1895"
+B_R = "235"
+B_H = "447"
+B_AVG = ".236"

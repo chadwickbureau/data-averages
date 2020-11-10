@@ -1,0 +1,336 @@
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "41"
+R_L = "21"
+R_PCT = ".661"
+R_RANK = "1"
+
+
+[[team]]
+name = "Port Huron-Sarnia"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "36"
+R_L = "28"
+R_PCT = ".563"
+R_RANK = "2"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "34"
+R_L = "28"
+R_PCT = ".548"
+R_RANK = "3"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "33"
+R_L = "31"
+R_PCT = ".516"
+R_RANK = "4"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "31"
+R_L = "31"
+R_PCT = ".500"
+R_RANK = "5"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "28"
+R_L = "35"
+R_PCT = ".444"
+R_RANK = "6"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "27"
+R_L = "38"
+R_PCT = ".415"
+R_RANK = "7"
+
+
+[[team]]
+name = "Kitchener"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "38"
+R_PCT = ".345"
+R_RANK = "8"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "34"
+R_L = "22"
+R_PCT = ".607"
+R_RANK = "1"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "31"
+R_L = "24"
+R_PCT = ".564"
+R_RANK = "2"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "24"
+R_PCT = ".556"
+R_RANK = "3"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "31"
+R_L = "25"
+R_PCT = ".554"
+R_RANK = "4"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "27"
+R_PCT = ".518"
+R_RANK = "5"
+
+
+[[team]]
+name = "Kitchener"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "25"
+R_L = "30"
+R_PCT = ".456"
+R_RANK = "6"
+
+
+[[team]]
+name = "Port Huron-Sarnia"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "22"
+R_L = "35"
+R_PCT = ".386"
+R_RANK = "7"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "21"
+R_L = "36"
+R_PCT = ".368"
+R_RANK = "8"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "46"
+R_PCT = ".610"
+R_RANK = "1"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "52"
+R_PCT = ".552"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "53"
+R_PCT = ".551"
+R_RANK = "3"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "55"
+R_PCT = ".538"
+R_RANK = "4"
+
+
+[[team]]
+name = "Port Huron-Sarnia"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "63"
+R_PCT = ".479"
+R_RANK = "5"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "62"
+R_PCT = ".479"
+R_RANK = "6"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "68"
+R_PCT = ".398"
+R_RANK = "7"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "74"
+R_PCT = ".393"
+R_RANK = "8"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

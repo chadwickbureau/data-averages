@@ -1,0 +1,118 @@
+[[team]]
+name = "Moose Jaw"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3457"
+B_R = "701"
+B_H = "1050"
+B_2B = "149"
+B_3B = "70"
+B_HR = "19"
+B_TB = "1295"
+B_SH = "181"
+B_SB = "203"
+B_AVG = ".303"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_G = "103"
+B_AB = "3160"
+B_R = "591"
+B_H = "882"
+B_2B = "115"
+B_3B = "86"
+B_HR = "25"
+B_TB = "1228"
+B_SH = "125"
+B_SB = "158"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_G = "109"
+B_AB = "3496"
+B_R = "505"
+B_H = "844"
+B_2B = "117"
+B_3B = "77"
+B_HR = "26"
+B_TB = "1043"
+B_SH = "162"
+B_SB = "211"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Saskatoon"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3471"
+B_R = "425"
+B_H = "836"
+B_2B = "125"
+B_3B = "47"
+B_HR = "12"
+B_TB = "1075"
+B_SH = "137"
+B_SB = "155"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_G = "106"
+B_AB = "3068"
+B_R = "434"
+B_H = "697"
+B_2B = "84"
+B_3B = "38"
+B_HR = "20"
+B_TB = "1051"
+B_SH = "147"
+B_SB = "177"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Brandon"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_G = "103"
+B_AB = "3325"
+B_R = "359"
+B_H = "739"
+B_2B = "99"
+B_3B = "42"
+B_HR = "12"
+B_TB = "953"
+B_SH = "126"
+B_SB = "165"
+B_AVG = ".222"

@@ -1,0 +1,174 @@
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3633"
+B_R = "561"
+B_H = "1059"
+B_TB = "1300"
+B_2B = "128"
+B_3B = "46"
+B_HR = "7"
+B_SH = "198"
+B_BB = "336"
+B_SB = "153"
+B_SO = "359"
+B_AVG = ".291"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "102"
+B_AB = "3372"
+B_R = "573"
+B_H = "928"
+B_TB = "1289"
+B_2B = "170"
+B_3B = "52"
+B_HR = "29"
+B_SH = "173"
+B_BB = "367"
+B_SB = "168"
+B_SO = "472"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3678"
+B_R = "597"
+B_H = "981"
+B_TB = "1382"
+B_2B = "142"
+B_3B = "64"
+B_HR = "27"
+B_SH = "155"
+B_BB = "362"
+B_SB = "221"
+B_SO = "414"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "100"
+B_AB = "3329"
+B_R = "444"
+B_H = "971"
+B_TB = "1199"
+B_2B = "134"
+B_3B = "52"
+B_HR = "30"
+B_SH = "138"
+B_BB = "311"
+B_SB = "142"
+B_SO = "454"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "109"
+B_AB = "3390"
+B_R = "517"
+B_H = "863"
+B_TB = "1197"
+B_2B = "145"
+B_3B = "48"
+B_HR = "31"
+B_SH = "202"
+B_BB = "334"
+B_SB = "197"
+B_SO = "510"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Kitchener"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "108"
+B_AB = "3401"
+B_R = "384"
+B_H = "841"
+B_TB = "1062"
+B_2B = "93"
+B_3B = "43"
+B_HR = "14"
+B_SH = "134"
+B_BB = "196"
+B_SB = "171"
+B_SO = "486"
+B_AVG = ".247"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "108"
+B_AB = "3468"
+B_R = "409"
+B_H = "824"
+B_TB = "1026"
+B_2B = "91"
+B_3B = "33"
+B_HR = "15"
+B_SH = "161"
+B_BB = "337"
+B_SB = "149"
+B_SO = "545"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1919"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3431"
+B_R = "436"
+B_H = "806"
+B_TB = "1070"
+B_2B = "147"
+B_3B = "51"
+B_HR = "5"
+B_SH = "161"
+B_BB = "293"
+B_SB = "137"
+B_SO = "333"
+B_AVG = ".235"

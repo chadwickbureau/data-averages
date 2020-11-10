@@ -1,0 +1,76 @@
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "119"
+R_L = "93"
+R_PCT = ".561"
+R_RANK = "1"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "116"
+R_L = "94"
+R_PCT = ".552"
+R_RANK = "2"
+
+
+[[team]]
+name = "Salt Lake"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "102"
+R_L = "97"
+R_PCT = ".513"
+R_RANK = "3"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "98"
+R_L = "102"
+R_PCT = ".490"
+R_RANK = "4"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "103"
+R_L = "108"
+R_PCT = ".488"
+R_RANK = "5"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "128"
+R_PCT = ".396"
+R_RANK = "6"

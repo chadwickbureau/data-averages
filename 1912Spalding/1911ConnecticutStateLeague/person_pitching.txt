@@ -1,0 +1,785 @@
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holyoke"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "26"
+P_W = "15"
+P_L = "5"
+P_PCT = ".750"
+P_AB = "708"
+P_R = "76"
+P_H = "158"
+P_BB = "54"
+P_SO = "94"
+P_AVG = ".223"
+
+
+[[person]]
+name.last = "Levernz"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "10"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_AB = "230"
+P_R = "19"
+P_H = "46"
+P_BB = "23"
+P_SO = "43"
+P_AVG = ".200"
+
+
+[[person]]
+name.last = "Upham"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "35"
+P_W = "19"
+P_L = "9"
+P_PCT = ".679"
+P_AB = "910"
+P_R = "85"
+P_H = "201"
+P_BB = "56"
+P_SO = "119"
+P_AVG = ".221"
+
+
+[[person]]
+name.last = "Bannister"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "38"
+P_W = "19"
+P_L = "10"
+P_PCT = ".655"
+P_AB = "903"
+P_R = "107"
+P_H = "213"
+P_BB = "47"
+P_SO = "98"
+P_AVG = ".236"
+
+
+[[person]]
+name.last = "Greenwell"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "37"
+P_W = "18"
+P_L = "10"
+P_PCT = ".643"
+P_AB = "858"
+P_R = "83"
+P_H = "189"
+P_BB = "54"
+P_SO = "111"
+P_AVG = ".220"
+
+
+[[person]]
+name.last = "McCarthy"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "26"
+P_W = "15"
+P_L = "9"
+P_PCT = ".625"
+P_AB = "771"
+P_R = "80"
+P_H = "188"
+P_BB = "55"
+P_SO = "50"
+P_AVG = ".244"
+
+
+[[person]]
+name.last = "Case"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "19"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_AB = "419"
+P_R = "59"
+P_H = "101"
+P_BB = "37"
+P_SO = "42"
+P_AVG = ".241"
+
+
+[[person]]
+name.last = "Swanson"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "19"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_AB = "442"
+P_R = "64"
+P_H = "100"
+P_BB = "38"
+P_SO = "68"
+P_AVG = ".231"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "17"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_AB = "404"
+P_R = "36"
+P_H = "85"
+P_BB = "33"
+P_SO = "86"
+P_AVG = ".210"
+
+
+[[person]]
+name.last = "Temple"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "41"
+P_W = "19"
+P_L = "12"
+P_PCT = ".613"
+P_AB = "997"
+P_R = "92"
+P_H = "253"
+P_BB = "64"
+P_SO = "143"
+P_AVG = ".254"
+
+
+[[person]]
+name.last = "Dent"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "36"
+P_W = "21"
+P_L = "14"
+P_PCT = ".600"
+P_AB = "1068"
+P_R = "90"
+P_H = "222"
+P_BB = "60"
+P_SO = "130"
+P_AVG = ".204"
+
+
+[[person]]
+name.last = "Reisigl"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "46"
+P_W = "20"
+P_L = "14"
+P_PCT = ".588"
+P_AB = "1143"
+P_R = "89"
+P_H = "226"
+P_BB = "72"
+P_SO = "199"
+P_AVG = ".198"
+
+
+[[person]]
+name.last = "Hoar"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Britain"
+[person.playing.totals]
+P_G = "11"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_AB = "300"
+P_R = "33"
+P_H = "69"
+P_BB = "12"
+P_SO = "35"
+P_AVG = ".230"
+
+
+[[person]]
+name.last = "Lower"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterbury"
+[person.playing.totals]
+P_G = "32"
+P_W = "16"
+P_L = "13"
+P_PCT = ".552"
+P_AB = "917"
+P_R = "86"
+P_H = "198"
+P_BB = "57"
+P_SO = "122"
+P_AVG = ".216"
+
+
+[[person]]
+name.last = "Gibbs"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "38"
+P_W = "15"
+P_L = "13"
+P_PCT = ".536"
+P_AB = "893"
+P_R = "76"
+P_H = "178"
+P_BB = "64"
+P_SO = "150"
+P_AVG = ".199"
+
+
+[[person]]
+name.last = "Tuckey"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterbury"
+[person.playing.totals]
+P_G = "30"
+P_W = "15"
+P_L = "13"
+P_PCT = ".536"
+P_AB = "911"
+P_R = "77"
+P_H = "222"
+P_BB = "42"
+P_SO = "78"
+P_AVG = ".244"
+
+
+[[person]]
+name.last = "Christopher"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+P_G = "25"
+P_W = "9"
+P_L = "8"
+P_PCT = ".529"
+P_AB = "591"
+P_R = "91"
+P_H = "177"
+P_BB = "37"
+P_SO = "45"
+P_AVG = ".299"
+
+
+[[person]]
+name.last = "Snyder"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "30"
+P_W = "13"
+P_L = "12"
+P_PCT = ".520"
+P_AB = "700"
+P_R = "75"
+P_H = "140"
+P_BB = "76"
+P_SO = "84"
+P_AVG = ".200"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "28"
+P_W = "13"
+P_L = "12"
+P_PCT = ".520"
+P_AB = "797"
+P_R = "78"
+P_H = "173"
+P_BB = "79"
+P_SO = "172"
+P_AVG = ".217"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Britain"
+[[person.playing.split]]
+team.name = "Waterbury"
+[person.playing.totals]
+P_G = "45"
+P_W = "20"
+P_L = "20"
+P_PCT = ".500"
+P_AB = "1256"
+P_R = "110"
+P_H = "237"
+P_BB = "105"
+P_SO = "193"
+P_AVG = ".189"
+
+
+[[person]]
+name.last = "Warner"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Northampton"
+[person.playing.totals]
+P_G = "10"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_AB = "220"
+P_R = "31"
+P_H = "56"
+P_BB = "21"
+P_SO = "22"
+P_AVG = ".254"
+
+
+[[person]]
+name.last = "Hess"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Britain"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_AB = "217"
+P_R = "37"
+P_H = "70"
+P_BB = "13"
+P_SO = "21"
+P_AVG = ".322"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holyoke"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "41"
+P_W = "18"
+P_L = "19"
+P_PCT = ".486"
+P_AB = "1087"
+P_R = "112"
+P_H = "252"
+P_BB = "110"
+P_SO = "138"
+P_AVG = ".232"
+
+
+[[person]]
+name.last = "Gaiser"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holyoke"
+[person.playing.totals]
+P_G = "15"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_AB = "400"
+P_R = "32"
+P_H = "88"
+P_BB = "34"
+P_SO = "55"
+P_AVG = ".220"
+
+
+[[person]]
+name.last = "Lakoff"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "24"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_AB = "498"
+P_R = "70"
+P_H = "126"
+P_BB = "53"
+P_SO = "61"
+P_AVG = ".253"
+
+
+[[person]]
+name.last = "Sager"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Northampton"
+[[person.playing.split]]
+team.name = "New Britain"
+[person.playing.totals]
+P_G = "31"
+P_W = "11"
+P_L = "14"
+P_PCT = ".440"
+P_AB = "754"
+P_R = "114"
+P_H = "183"
+P_BB = "76"
+P_SO = "94"
+P_AVG = ".243"
+
+
+[[person]]
+name.last = "McLean"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Britain"
+[person.playing.totals]
+P_G = "35"
+P_W = "13"
+P_L = "17"
+P_PCT = ".433"
+P_AB = "1005"
+P_R = "105"
+P_H = "236"
+P_BB = "44"
+P_SO = "123"
+P_AVG = ".235"
+
+
+[[person]]
+name.last = "Foster"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "31"
+P_W = "11"
+P_L = "16"
+P_PCT = ".407"
+P_AB = "770"
+P_R = "106"
+P_H = "200"
+P_BB = "67"
+P_SO = "96"
+P_AVG = ".260"
+
+
+[[person]]
+name.last = "Rossbach"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "16"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_AB = "361"
+P_R = "65"
+P_H = "98"
+P_BB = "22"
+P_SO = "34"
+P_AVG = ".245"
+
+
+[[person]]
+name.last = "Conroy"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Northampton"
+[person.playing.totals]
+P_G = "13"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_AB = "366"
+P_R = "48"
+P_H = "82"
+P_BB = "32"
+P_SO = "47"
+P_AVG = ".224"
+
+
+[[person]]
+name.last = "Rumsey"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+P_G = "10"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_AB = "202"
+P_R = "34"
+P_H = "52"
+P_BB = "20"
+P_SO = "28"
+P_AVG = ".257"
+
+
+[[person]]
+name.last = "Parker"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Britain"
+[person.playing.totals]
+P_G = "35"
+P_W = "11"
+P_L = "17"
+P_PCT = ".390"
+P_AB = "831"
+P_R = "104"
+P_H = "173"
+P_BB = "114"
+P_SO = "135"
+P_AVG = ".208"
+
+
+[[person]]
+name.last = "Callahan"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterbury"
+[person.playing.totals]
+P_G = "36"
+P_W = "10"
+P_L = "20"
+P_PCT = ".333"
+P_AB = "960"
+P_R = "117"
+P_H = "240"
+P_BB = "52"
+P_SO = "136"
+P_AVG = ".250"
+
+
+[[person]]
+name.last = "Clunn"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "14"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_AB = "344"
+P_R = "51"
+P_H = "97"
+P_BB = "28"
+P_SO = "45"
+P_AVG = ".282"
+
+
+[[person]]
+name.last = "Corcoran"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+P_G = "13"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_AB = "310"
+P_R = "52"
+P_H = "98"
+P_BB = "26"
+P_SO = "27"
+P_AVG = ".316"
+
+
+[[person]]
+name.last = "Tretter"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holyoke"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+P_G = "18"
+P_W = "3"
+P_L = "11"
+P_PCT = ".214"
+P_AB = "488"
+P_R = "75"
+P_H = "117"
+P_BB = "30"
+P_SO = "102"
+P_AVG = ".250"
+
+
+[[person]]
+name.last = "Eastman"
+[[person.playing]]
+season = "1911"
+league.name = "Connecticut State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterbury"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "6"
+P_PCT = ".143"
+P_AB = "272"
+P_R = "45"
+P_H = "76"
+P_BB = "17"
+P_SO = "20"
+P_AVG = ".279"

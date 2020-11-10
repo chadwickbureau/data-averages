@@ -1,0 +1,100 @@
+[[team]]
+name = "Adrian"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "50"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "52"
+R_PCT = ".584"
+R_RANK = "2"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "57"
+R_PCT = ".548"
+R_RANK = "3"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "60"
+R_PCT = ".524"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lansing"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "66"
+R_PCT = ".472"
+R_RANK = "5"
+
+
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "64"
+R_PCT = ".471"
+R_RANK = "6"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "19"
+R_L = "41"
+R_PCT = ".317"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+R_W = "19"
+R_L = "42"
+R_PCT = ".311"

@@ -1,0 +1,1999 @@
+[[person]]
+name.last = "Addison"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "12"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "43"
+P_H = "44"
+P_HR = "2"
+P_R = "30"
+P_ER = "26"
+P_BB = "29"
+P_SO = "20"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.44"
+
+
+[[person]]
+name.last = "Beane"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "23"
+P_GS = "16"
+P_CG = "11"
+P_SHO = "2"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "134"
+P_H = "131"
+P_HR = "13"
+P_R = "54"
+P_ER = "50"
+P_BB = "42"
+P_SO = "97"
+P_HP = "3"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "3.36"
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "33"
+P_GS = "24"
+P_CG = "22"
+P_SHO = "2"
+P_W = "19"
+P_L = "7"
+P_PCT = ".731"
+P_IP = "220"
+P_H = "178"
+P_HR = "8"
+P_R = "78"
+P_ER = "58"
+P_BB = "85"
+P_SO = "184"
+P_HP = "3"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "2.37"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Belinsky"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "32"
+P_GS = "23"
+P_CG = "13"
+P_SHO = "2"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "195"
+P_H = "170"
+P_HR = "5"
+P_R = "94"
+P_ER = "65"
+P_BB = "90"
+P_SO = "202"
+P_HP = "16"
+P_WP = "14"
+P_BK = "1"
+P_ERA = "3.00"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Buchner"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "11"
+P_GS = "10"
+P_CG = "6"
+P_SHO = "0"
+P_W = "7"
+P_L = "3"
+P_PCT = ".700"
+P_IP = "83"
+P_H = "84"
+P_HR = "2"
+P_R = "48"
+P_ER = "38"
+P_BB = "56"
+P_SO = "50"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.12"
+
+
+[[person]]
+name.last = "Burroughs"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "15"
+P_GS = "14"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "92"
+P_H = "70"
+P_HR = "3"
+P_R = "46"
+P_ER = "39"
+P_BB = "53"
+P_SO = "91"
+P_HP = "2"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.82"
+
+
+[[person]]
+name.last = "Butler"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "32"
+P_GS = "26"
+P_CG = "15"
+P_SHO = "2"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+P_IP = "205"
+P_H = "176"
+P_HR = "11"
+P_R = "97"
+P_ER = "64"
+P_BB = "70"
+P_SO = "187"
+P_HP = "16"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "2.81"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Clay"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "25"
+P_GS = "20"
+P_CG = "11"
+P_SHO = "2"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "166"
+P_H = "120"
+P_HR = "10"
+P_R = "80"
+P_ER = "60"
+P_BB = "98"
+P_SO = "101"
+P_HP = "8"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.25"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Cockrell"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "12"
+P_GS = "1"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "42"
+P_H = "35"
+P_HR = "2"
+P_R = "24"
+P_ER = "19"
+P_BB = "23"
+P_SO = "22"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.07"
+
+
+[[person]]
+name.last = "Coley"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "11"
+P_GS = "2"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "39"
+P_H = "33"
+P_HR = "5"
+P_R = "15"
+P_ER = "11"
+P_BB = "30"
+P_SO = "36"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.54"
+
+
+[[person]]
+name.last = "Cron"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "25"
+P_GS = "19"
+P_CG = "4"
+P_SHO = "0"
+P_W = "7"
+P_L = "11"
+P_PCT = ".389"
+P_IP = "121"
+P_H = "126"
+P_HR = "11"
+P_R = "106"
+P_ER = "65"
+P_BB = "80"
+P_SO = "90"
+P_HP = "6"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.83"
+
+
+[[person]]
+name.last = "Cueto"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "33"
+P_GS = "21"
+P_CG = "10"
+P_SHO = "1"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "184"
+P_H = "160"
+P_HR = "8"
+P_R = "75"
+P_ER = "49"
+P_BB = "62"
+P_SO = "102"
+P_HP = "5"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "2.40"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Day"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "30"
+P_GS = "27"
+P_CG = "19"
+P_SHO = "4"
+P_W = "15"
+P_L = "11"
+P_PCT = ".577"
+P_IP = "214"
+P_H = "179"
+P_HR = "11"
+P_R = "95"
+P_ER = "71"
+P_BB = "102"
+P_SO = "155"
+P_HP = "7"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "2.99"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "DeSandis"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "11"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "1"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "53"
+P_H = "54"
+P_HR = "3"
+P_R = "34"
+P_ER = "21"
+P_BB = "27"
+P_SO = "24"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.57"
+
+
+[[person]]
+name.last = "Dominquez"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "12"
+P_GS = "6"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "55"
+P_H = "43"
+P_HR = "2"
+P_R = "15"
+P_ER = "10"
+P_BB = "16"
+P_SO = "40"
+P_HP = "6"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "1.64"
+
+
+[[person]]
+name.last = "Durham"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "6"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "31"
+P_H = "34"
+P_HR = "3"
+P_R = "19"
+P_ER = "16"
+P_BB = "29"
+P_SO = "18"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.65"
+
+
+[[person]]
+name.last = "Evans"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "36"
+P_GS = "21"
+P_CG = "13"
+P_SHO = "0"
+P_W = "14"
+P_L = "13"
+P_PCT = ".519"
+P_IP = "197"
+P_H = "176"
+P_HR = "14"
+P_R = "102"
+P_ER = "80"
+P_BB = "74"
+P_SO = "128"
+P_HP = "8"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.65"
+
+
+[[person]]
+name.last = "Farmer"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "7"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "33"
+P_H = "24"
+P_HR = "3"
+P_R = "21"
+P_ER = "18"
+P_BB = "18"
+P_SO = "17"
+P_HP = "1"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "4.91"
+
+
+[[person]]
+name.last = "Fausett"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "13"
+P_GS = "11"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "74"
+P_H = "86"
+P_HR = "5"
+P_R = "44"
+P_ER = "34"
+P_BB = "22"
+P_SO = "36"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.14"
+
+
+[[person]]
+name.last = "Felker"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "37"
+P_GS = "25"
+P_CG = "14"
+P_SHO = "6"
+P_W = "12"
+P_L = "14"
+P_PCT = ".462"
+P_IP = "225"
+P_H = "192"
+P_HR = "7"
+P_R = "100"
+P_ER = "78"
+P_BB = "96"
+P_SO = "185"
+P_HP = "6"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.12"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Fields"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "35"
+P_GS = "22"
+P_CG = "7"
+P_SHO = "3"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "156"
+P_H = "155"
+P_HR = "9"
+P_R = "86"
+P_ER = "70"
+P_BB = "83"
+P_SO = "132"
+P_HP = "12"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "4.04"
+
+
+[[person]]
+name.last = "Fletcher"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "45"
+P_GS = "9"
+P_CG = "3"
+P_SHO = "0"
+P_W = "13"
+P_L = "9"
+P_PCT = ".591"
+P_IP = "148"
+P_H = "159"
+P_HR = "9"
+P_R = "87"
+P_ER = "69"
+P_BB = "67"
+P_SO = "117"
+P_HP = "4"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.20"
+
+
+[[person]]
+name.last = "Flynn"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "26"
+P_GS = "12"
+P_CG = "4"
+P_SHO = "0"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "105"
+P_H = "119"
+P_HR = "8"
+P_R = "77"
+P_ER = "62"
+P_BB = "68"
+P_SO = "61"
+P_HP = "4"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "5.31"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "24"
+P_GS = "10"
+P_CG = "1"
+P_SHO = "1"
+P_W = "4"
+P_L = "7"
+P_PCT = ".364"
+P_IP = "91"
+P_H = "109"
+P_HR = "7"
+P_R = "74"
+P_ER = "52"
+P_BB = "43"
+P_SO = "52"
+P_HP = "0"
+P_WP = "9"
+P_BK = "2"
+P_ERA = "5.14"
+
+
+[[person]]
+name.last = "Gaeta"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "14"
+P_GS = "11"
+P_CG = "4"
+P_SHO = "2"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "66"
+P_H = "67"
+P_HR = "4"
+P_R = "43"
+P_ER = "36"
+P_BB = "46"
+P_SO = "52"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.91"
+
+
+[[person]]
+name.last = "Hammack"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "11"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "34"
+P_H = "39"
+P_HR = "2"
+P_R = "41"
+P_ER = "27"
+P_BB = "36"
+P_SO = "33"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "7.15"
+
+
+[[person]]
+name.last = "Hammond"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "27"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "73"
+P_H = "53"
+P_HR = "3"
+P_R = "35"
+P_ER = "27"
+P_BB = "56"
+P_SO = "56"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.33"
+
+
+[[person]]
+name.last = "Hannam"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "29"
+P_GS = "20"
+P_CG = "11"
+P_SHO = "0"
+P_W = "10"
+P_L = "7"
+P_PCT = ".588"
+P_IP = "165"
+P_H = "158"
+P_HR = "16"
+P_R = "95"
+P_ER = "76"
+P_BB = "43"
+P_SO = "105"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.15"
+
+
+[[person]]
+name.last = "Harper"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "17"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "64"
+P_H = "55"
+P_HR = "6"
+P_R = "50"
+P_ER = "39"
+P_BB = "52"
+P_SO = "62"
+P_HP = "6"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "5.48"
+
+
+[[person]]
+name.last = "Hasson"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "32"
+P_GS = "15"
+P_CG = "6"
+P_SHO = "1"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "147"
+P_H = "149"
+P_HR = "7"
+P_R = "101"
+P_ER = "77"
+P_BB = "87"
+P_SO = "93"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.71"
+
+
+[[person]]
+name.last = "Higby"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "22"
+P_GS = "10"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "68"
+P_H = "72"
+P_HR = "3"
+P_R = "63"
+P_ER = "49"
+P_BB = "67"
+P_SO = "41"
+P_HP = "8"
+P_WP = "6"
+P_BK = "3"
+P_ERA = "6.49"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "33"
+P_GS = "27"
+P_CG = "14"
+P_SHO = "3"
+P_W = "18"
+P_L = "9"
+P_PCT = ".667"
+P_IP = "214"
+P_H = "196"
+P_HR = "12"
+P_R = "95"
+P_ER = "71"
+P_BB = "88"
+P_SO = "136"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "2.99"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Kakuske"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "31"
+P_GS = "28"
+P_CG = "23"
+P_SHO = "1"
+P_W = "19"
+P_L = "9"
+P_PCT = ".679"
+P_IP = "239"
+P_H = "194"
+P_HR = "12"
+P_R = "89"
+P_ER = "60"
+P_BB = "76"
+P_SO = "204"
+P_HP = "6"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "2.26"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Kelleher"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "38"
+P_GS = "26"
+P_CG = "20"
+P_SHO = "2"
+P_W = "16"
+P_L = "10"
+P_PCT = ".615"
+P_IP = "211"
+P_H = "200"
+P_HR = "9"
+P_R = "111"
+P_ER = "78"
+P_BB = "107"
+P_SO = "175"
+P_HP = "11"
+P_WP = "14"
+P_BK = "0"
+P_ERA = "3.33"
+
+
+[[person]]
+name.last = "Kelly"
+name.given = "F."
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "25"
+P_GS = "19"
+P_CG = "4"
+P_SHO = "1"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "101"
+P_H = "115"
+P_HR = "3"
+P_R = "89"
+P_ER = "67"
+P_BB = "108"
+P_SO = "84"
+P_HP = "4"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "5.97"
+
+
+[[person]]
+name.last = "Knoll"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "12"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "48"
+P_H = "43"
+P_HR = "2"
+P_R = "29"
+P_ER = "18"
+P_BB = "50"
+P_SO = "20"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.38"
+
+
+[[person]]
+name.last = "Leak"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "11"
+P_GS = "9"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "38"
+P_H = "54"
+P_HR = "0"
+P_R = "46"
+P_ER = "36"
+P_BB = "36"
+P_SO = "37"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "8.53"
+
+
+[[person]]
+name.last = "LeBlanc"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "25"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "81"
+P_H = "91"
+P_HR = "1"
+P_R = "63"
+P_ER = "45"
+P_BB = "43"
+P_SO = "47"
+P_HP = "5"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "5.00"
+
+
+[[person]]
+name.last = "Madaris"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "17"
+P_GS = "11"
+P_CG = "1"
+P_SHO = "1"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "61"
+P_H = "62"
+P_HR = "6"
+P_R = "57"
+P_ER = "51"
+P_BB = "45"
+P_SO = "41"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "7.52"
+
+
+[[person]]
+name.last = "McCullough"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "30"
+P_GS = "10"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+P_IP = "115"
+P_H = "141"
+P_HR = "13"
+P_R = "88"
+P_ER = "60"
+P_BB = "57"
+P_SO = "55"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.70"
+
+
+[[person]]
+name.last = "Merlob"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "21"
+P_GS = "17"
+P_CG = "7"
+P_SHO = "0"
+P_W = "3"
+P_L = "9"
+P_PCT = ".250"
+P_IP = "120"
+P_H = "113"
+P_HR = "6"
+P_R = "83"
+P_ER = "58"
+P_BB = "83"
+P_SO = "122"
+P_HP = "5"
+P_WP = "12"
+P_BK = "0"
+P_ERA = "4.35"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "J."
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "6"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "34"
+P_H = "43"
+P_HR = "2"
+P_R = "33"
+P_ER = "25"
+P_BB = "29"
+P_SO = "34"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "6.62"
+
+
+[[person]]
+name.last = "Perkins"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "48"
+P_H = "57"
+P_HR = "3"
+P_R = "32"
+P_ER = "22"
+P_BB = "28"
+P_SO = "35"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.13"
+
+
+[[person]]
+name.last = "Poppens"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "15"
+P_GS = "13"
+P_CG = "7"
+P_SHO = "1"
+P_W = "3"
+P_L = "8"
+P_PCT = ".273"
+P_IP = "105"
+P_H = "114"
+P_HR = "8"
+P_R = "64"
+P_ER = "50"
+P_BB = "37"
+P_SO = "47"
+P_HP = "1"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "4.29"
+
+
+[[person]]
+name.last = "Preston"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "27"
+P_GS = "17"
+P_CG = "7"
+P_SHO = "0"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "131"
+P_H = "128"
+P_HR = "11"
+P_R = "91"
+P_ER = "66"
+P_BB = "74"
+P_SO = "83"
+P_HP = "1"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "4.53"
+
+
+[[person]]
+name.last = "Renfroe"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "12"
+P_GS = "9"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "73"
+P_H = "51"
+P_HR = "3"
+P_R = "39"
+P_ER = "26"
+P_BB = "33"
+P_SO = "82"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.21"
+
+
+[[person]]
+name.last = "Scroggs"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "10"
+P_GS = "1"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "30"
+P_H = "31"
+P_HR = "1"
+P_R = "15"
+P_ER = "13"
+P_BB = "7"
+P_SO = "19"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.90"
+
+
+[[person]]
+name.last = "Seagrave"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "32"
+P_GS = "14"
+P_CG = "6"
+P_SHO = "1"
+P_W = "4"
+P_L = "11"
+P_PCT = ".267"
+P_IP = "129"
+P_H = "152"
+P_HR = "8"
+P_R = "90"
+P_ER = "78"
+P_BB = "64"
+P_SO = "73"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "5.44"
+
+
+[[person]]
+name.last = "Seiferlein"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "17"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "42"
+P_H = "45"
+P_HR = "0"
+P_R = "39"
+P_ER = "28"
+P_BB = "36"
+P_SO = "29"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.00"
+
+
+[[person]]
+name.last = "Stange"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "22"
+P_GS = "13"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "95"
+P_H = "89"
+P_HR = "5"
+P_R = "64"
+P_ER = "57"
+P_BB = "74"
+P_SO = "62"
+P_HP = "1"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "5.40"
+
+
+[[person]]
+name.last = "Tano"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "9"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "36"
+P_H = "40"
+P_HR = "1"
+P_R = "21"
+P_ER = "15"
+P_BB = "16"
+P_SO = "32"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "3.75"
+
+
+[[person]]
+name.last = "Temple"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "22"
+P_GS = "11"
+P_CG = "7"
+P_SHO = "1"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "122"
+P_H = "118"
+P_HR = "10"
+P_R = "90"
+P_ER = "64"
+P_BB = "88"
+P_SO = "131"
+P_HP = "5"
+P_WP = "18"
+P_BK = "0"
+P_ERA = "4.72"
+
+
+[[person]]
+name.last = "Townsend"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "24"
+P_GS = "21"
+P_CG = "14"
+P_SHO = "4"
+P_W = "13"
+P_L = "7"
+P_PCT = ".650"
+P_IP = "170"
+P_H = "149"
+P_HR = "7"
+P_R = "67"
+P_ER = "51"
+P_BB = "42"
+P_SO = "108"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.70"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "15"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "41"
+P_H = "39"
+P_HR = "2"
+P_R = "25"
+P_ER = "21"
+P_BB = "29"
+P_SO = "28"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.61"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "26"
+P_GS = "14"
+P_CG = "8"
+P_SHO = "3"
+P_W = "9"
+P_L = "8"
+P_PCT = ".529"
+P_IP = "133"
+P_H = "117"
+P_HR = "1"
+P_R = "67"
+P_ER = "52"
+P_BB = "49"
+P_SO = "111"
+P_HP = "7"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "3.52"
+
+
+[[person]]
+name.last = "Blankenship"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Callaway"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Herr"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Maddox"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Marockie"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Walton Beach"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Alsup"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Meder"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wellman"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Graceville"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barque"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Frioni"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cacciarelli"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Duffield"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Farr"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fentem"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nix"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Panama City"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Andrews"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Folse"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mullaney"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Paulson"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Van Esse"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pensacola"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Courington"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Diaz"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rodriquez"
+[[person.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Selma"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "1"
+P_BK = "0"

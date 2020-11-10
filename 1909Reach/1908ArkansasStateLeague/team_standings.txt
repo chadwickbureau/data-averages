@@ -1,0 +1,76 @@
+[[team]]
+name = "Hot Springs"
+[[team.playing]]
+season = "1908"
+league.name = "Arkansas State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "78"
+R_L = "68"
+R_PCT = ".672"
+R_RANK = "1"
+
+
+[[team]]
+name = "Newport"
+[[team.playing]]
+season = "1908"
+league.name = "Arkansas State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "44"
+R_PCT = ".596"
+R_RANK = "2"
+
+
+[[team]]
+name = "Helena"
+[[team.playing]]
+season = "1908"
+league.name = "Arkansas State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "48"
+R_PCT = ".583"
+R_RANK = "3"
+
+
+[[team]]
+name = "Pine Bluff"
+[[team.playing]]
+season = "1908"
+league.name = "Arkansas State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "61"
+R_PCT = ".455"
+R_RANK = "4"
+
+
+[[team]]
+name = "Argenta"
+[[team.playing]]
+season = "1908"
+league.name = "Arkansas State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "49"
+R_L = "68"
+R_PCT = ".419"
+R_RANK = "5"
+
+
+[[team]]
+name = "Poplar Bluff/Brinkley"
+[[team.playing]]
+season = "1908"
+league.name = "Arkansas State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "28"
+R_L = "79"
+R_PCT = ".262"
+R_RANK = "6"

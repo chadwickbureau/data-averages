@@ -1,0 +1,118 @@
+[[team]]
+name = "Long Branch"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3134"
+B_R = "571"
+B_H = "947"
+B_2B = "159"
+B_3B = "49"
+B_HR = "9"
+B_TB = "1231"
+B_SH = "82"
+B_SB = "132"
+B_AVG = ".302"
+
+
+[[team]]
+name = "Middletown"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3088"
+B_R = "577"
+B_H = "914"
+B_2B = "189"
+B_3B = "37"
+B_HR = "19"
+B_TB = "1234"
+B_SH = "117"
+B_SB = "107"
+B_AVG = ".296"
+
+
+[[team]]
+name = "Kingston"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+B_G = "91"
+B_AB = "2952"
+B_R = "479"
+B_H = "852"
+B_2B = "163"
+B_3B = "38"
+B_HR = "15"
+B_TB = "1136"
+B_SH = "121"
+B_SB = "137"
+B_AVG = ".289"
+
+
+[[team]]
+name = "Newburgh"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+B_G = "96"
+B_AB = "3217"
+B_R = "496"
+B_H = "906"
+B_2B = "141"
+B_3B = "29"
+B_HR = "17"
+B_TB = "1156"
+B_SH = "109"
+B_SB = "111"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Poughkeepsie"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "3240"
+B_R = "588"
+B_H = "912"
+B_2B = "169"
+B_3B = "48"
+B_HR = "15"
+B_TB = "1222"
+B_SH = "144"
+B_SB = "96"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Danbury"
+[[team.playing]]
+season = "1913"
+league.name = "New York-New Jersey League"
+phase = "regular"
+[team.playing.totals]
+B_G = "99"
+B_AB = "3222"
+B_R = "536"
+B_H = "906"
+B_2B = "211"
+B_3B = "15"
+B_HR = "17"
+B_TB = "1198"
+B_SH = "178"
+B_SB = "105"
+B_AVG = ".281"

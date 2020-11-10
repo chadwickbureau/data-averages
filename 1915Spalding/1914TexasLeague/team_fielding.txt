@@ -1,0 +1,118 @@
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4060"
+F_A = "1903"
+F_E = "222"
+F_TC = "6185"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4132"
+F_A = "2012"
+F_E = "263"
+F_TC = "6407"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4183"
+F_A = "2015"
+F_E = "274"
+F_TC = "6472"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+F_PO = "3970"
+F_A = "2215"
+F_E = "280"
+F_TC = "6465"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_PO = "3888"
+F_A = "1736"
+F_E = "263"
+F_TC = "5887"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4064"
+F_A = "1936"
+F_E = "299"
+F_TC = "6299"
+F_PCT = ".953"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "3980"
+F_A = "1970"
+F_E = "311"
+F_TC = "6261"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3662"
+F_A = "1925"
+F_E = "424"
+F_TC = "6011"
+F_PCT = ".929"

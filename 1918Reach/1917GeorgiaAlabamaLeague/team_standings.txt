@@ -1,0 +1,76 @@
+[[team]]
+name = "Anniston"
+[[team.playing]]
+season = "1917"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "11"
+R_L = "5"
+R_PCT = ".688"
+R_RANK = "1"
+
+
+[[team]]
+name = "Griffin"
+[[team.playing]]
+season = "1917"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "9"
+R_L = "6"
+R_PCT = ".600"
+R_RANK = "2"
+
+
+[[team]]
+name = "Tri-Cities"
+[[team.playing]]
+season = "1917"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "8"
+R_L = "8"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Rome"
+[[team.playing]]
+season = "1917"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "7"
+R_L = "9"
+R_PCT = ".438"
+R_RANK = "4"
+
+
+[[team]]
+name = "Talladega"
+[[team.playing]]
+season = "1917"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "7"
+R_L = "9"
+R_PCT = ".438"
+R_RANK = "4"
+
+
+[[team]]
+name = "LaGrange"
+[[team.playing]]
+season = "1917"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+R_W = "5"
+R_L = "10"
+R_PCT = ".333"
+R_RANK = "6"

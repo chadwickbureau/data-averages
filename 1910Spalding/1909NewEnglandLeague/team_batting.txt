@@ -1,0 +1,158 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4091"
+B_R = "591"
+B_H = "1081"
+B_TB = "1408"
+B_2B = "167"
+B_3B = "61"
+B_HR = "12"
+B_SH = "234"
+B_SB = "166"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3982"
+B_R = "512"
+B_H = "1017"
+B_TB = "1265"
+B_2B = "169"
+B_3B = "31"
+B_HR = "6"
+B_SH = "207"
+B_SB = "209"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4002"
+B_R = "506"
+B_H = "986"
+B_TB = "1258"
+B_2B = "159"
+B_3B = "41"
+B_HR = "10"
+B_SH = "232"
+B_SB = "214"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4088"
+B_R = "455"
+B_H = "991"
+B_TB = "1293"
+B_2B = "170"
+B_3B = "44"
+B_HR = "14"
+B_SH = "187"
+B_SB = "201"
+B_AVG = ".242"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3849"
+B_R = "432"
+B_H = "915"
+B_TB = "1154"
+B_2B = "129"
+B_3B = "41"
+B_HR = "10"
+B_SH = "194"
+B_SB = "179"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3877"
+B_R = "522"
+B_H = "916"
+B_TB = "1212"
+B_2B = "144"
+B_3B = "56"
+B_HR = "14"
+B_SH = "218"
+B_SB = "194"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4043"
+B_R = "433"
+B_H = "924"
+B_TB = "1155"
+B_2B = "113"
+B_3B = "53"
+B_HR = "4"
+B_SH = "150"
+B_SB = "212"
+B_AVG = ".229"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1909"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3969"
+B_R = "342"
+B_H = "846"
+B_TB = "1090"
+B_2B = "126"
+B_3B = "38"
+B_HR = "14"
+B_SH = "145"
+B_SB = "176"
+B_AVG = ".213"

@@ -1,0 +1,58 @@
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "126347"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "107778"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "85769"
+
+
+[[team]]
+name = "Globe-Miami"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "60394"
+
+
+[[team]]
+name = "Bisbee-Douglas"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "60149"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "53771"

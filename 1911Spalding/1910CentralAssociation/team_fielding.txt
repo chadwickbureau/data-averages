@@ -1,0 +1,110 @@
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3667"
+F_A = "1778"
+F_E = "174"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Ottumwa"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3714"
+F_A = "1747"
+F_E = "202"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "5874"
+F_A = "1810"
+F_E = "228"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Galesburg"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3635"
+F_A = "1544"
+F_E = "216"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Monmouth"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3606"
+F_A = "1723"
+F_E = "240"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3830"
+F_A = "1741"
+F_E = "261"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3776"
+F_A = "1763"
+F_E = "278"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1910"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3594"
+F_A = "1657"
+F_E = "300"
+F_PCT = ".946"

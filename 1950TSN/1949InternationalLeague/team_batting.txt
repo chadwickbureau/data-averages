@@ -1,0 +1,198 @@
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5117"
+B_R = "900"
+B_H = "1449"
+B_TB = "2128"
+B_2B = "239"
+B_3B = "46"
+B_HR = "116"
+B_SH = "66"
+B_SB = "191"
+B_BB = "725"
+B_SO = "613"
+B_HP = "23"
+B_RBI = "805"
+B_LOB = "1171"
+B_AVG = ".283"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4995"
+B_R = "904"
+B_H = "1348"
+B_TB = "2118"
+B_2B = "253"
+B_3B = "23"
+B_HR = "158"
+B_SH = "86"
+B_SB = "58"
+B_BB = "832"
+B_SO = "660"
+B_HP = "23"
+B_RBI = "853"
+B_LOB = "1114"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5131"
+B_R = "819"
+B_H = "1377"
+B_TB = "2115"
+B_2B = "230"
+B_3B = "44"
+B_HR = "139"
+B_SH = "101"
+B_SB = "34"
+B_BB = "729"
+B_SO = "637"
+B_HP = "28"
+B_RBI = "755"
+B_LOB = "1219"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5032"
+B_R = "749"
+B_H = "1339"
+B_TB = "2040"
+B_2B = "209"
+B_3B = "36"
+B_HR = "140"
+B_SH = "59"
+B_SB = "72"
+B_BB = "568"
+B_SO = "671"
+B_HP = "22"
+B_RBI = "693"
+B_LOB = "1075"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4968"
+B_R = "647"
+B_H = "1216"
+B_TB = "1855"
+B_2B = "175"
+B_3B = "31"
+B_HR = "134"
+B_SH = "59"
+B_SB = "35"
+B_BB = "563"
+B_SO = "675"
+B_HP = "14"
+B_RBI = "594"
+B_LOB = "1073"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4987"
+B_R = "774"
+B_H = "1301"
+B_TB = "1872"
+B_2B = "189"
+B_3B = "41"
+B_HR = "100"
+B_SH = "101"
+B_SB = "143"
+B_BB = "735"
+B_SO = "721"
+B_HP = "25"
+B_RBI = "696"
+B_LOB = "1142"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4893"
+B_R = "702"
+B_H = "1267"
+B_TB = "1903"
+B_2B = "213"
+B_3B = "18"
+B_HR = "129"
+B_SH = "61"
+B_SB = "37"
+B_BB = "691"
+B_SO = "624"
+B_HP = "24"
+B_RBI = "656"
+B_LOB = "1139"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4960"
+B_R = "613"
+B_H = "1202"
+B_TB = "1799"
+B_2B = "156"
+B_3B = "27"
+B_HR = "129"
+B_SH = "59"
+B_SB = "55"
+B_BB = "568"
+B_SO = "728"
+B_HP = "18"
+B_RBI = "555"
+B_LOB = "1084"
+B_AVG = ".242"

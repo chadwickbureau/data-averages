@@ -1,0 +1,124 @@
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3371"
+F_A = "1660"
+F_E = "206"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3337"
+F_A = "1648"
+F_E = "205"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "59"
+F_PO = "1540"
+F_A = "662"
+F_E = "92"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3145"
+F_A = "1572"
+F_E = "227"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_PO = "2926"
+F_A = "1351"
+F_E = "213"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3263"
+F_A = "1497"
+F_E = "241"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3089"
+F_A = "1533"
+F_E = "249"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "3137"
+F_A = "1435"
+F_E = "252"
+F_PCT = ".948"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_PO = "1692"
+F_A = "730"
+F_E = "138"
+F_PCT = ".946"

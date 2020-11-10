@@ -1,0 +1,4473 @@
+[[person]]
+name.last = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "94"
+F_1B_A = "16"
+F_1B_E = "1"
+F_1B_DP = "16"
+F_1B_PCT = ".991"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Richardson"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "136"
+F_1B_PO = "1225"
+F_1B_A = "55"
+F_1B_E = "15"
+F_1B_DP = "97"
+F_1B_PCT = ".988"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Bauman"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "136"
+F_1B_PO = "1204"
+F_1B_A = "65"
+F_1B_E = "15"
+F_1B_DP = "88"
+F_1B_PCT = ".988"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Dotlich"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "85"
+F_1B_PO = "691"
+F_1B_A = "50"
+F_1B_E = "10"
+F_1B_DP = "71"
+F_1B_PCT = ".987"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Melago"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "22"
+F_1B_PO = "141"
+F_1B_A = "4"
+F_1B_E = "2"
+F_1B_DP = "10"
+F_1B_PCT = ".986"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Ozark"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "130"
+F_1B_PO = "1193"
+F_1B_A = "70"
+F_1B_E = "18"
+F_1B_DP = "101"
+F_1B_PCT = ".986"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Sturdivant"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "60"
+F_1B_PO = "520"
+F_1B_A = "22"
+F_1B_E = "8"
+F_1B_DP = "41"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Goldsberry"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "129"
+F_1B_PO = "1159"
+F_1B_A = "52"
+F_1B_E = "21"
+F_1B_DP = "108"
+F_1B_PCT = ".983"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Bauer"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "42"
+F_1B_PO = "431"
+F_1B_A = "15"
+F_1B_E = "10"
+F_1B_DP = "36"
+F_1B_PCT = ".978"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Nell"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "123"
+F_1B_PO = "1000"
+F_1B_A = "45"
+F_1B_E = "26"
+F_1B_DP = "97"
+F_1B_PCT = ".976"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Kuykendall"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "121"
+F_1B_PO = "1144"
+F_1B_A = "39"
+F_1B_E = "34"
+F_1B_DP = "66"
+F_1B_PCT = ".972"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Quevreaux"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "11"
+F_1B_PO = "98"
+F_1B_A = "4"
+F_1B_E = "3"
+F_1B_DP = "15"
+F_1B_PCT = ".971"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Palmer"
+name.given = "I."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "68"
+F_1B_PO = "563"
+F_1B_A = "26"
+F_1B_E = "20"
+F_1B_DP = "44"
+F_1B_PCT = ".967"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Walker"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "20"
+F_1B_PO = "198"
+F_1B_A = "3"
+F_1B_E = "9"
+F_1B_DP = "12"
+F_1B_PCT = ".957"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Carr"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "11"
+F_1B_PO = "85"
+F_1B_A = "1"
+F_1B_E = "6"
+F_1B_DP = "2"
+F_1B_PCT = ".935"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Gilchrist"
+name.given = "L."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "11"
+F_2B_PO = "26"
+F_2B_A = "26"
+F_2B_E = "0"
+F_2B_DP = "6"
+F_2B_PCT = "1.000"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Greer"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "28"
+F_2B_PO = "66"
+F_2B_A = "86"
+F_2B_E = "6"
+F_2B_DP = "14"
+F_2B_PCT = ".962"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gilchrist"
+name.given = "V."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "122"
+F_2B_PO = "328"
+F_2B_A = "317"
+F_2B_E = "30"
+F_2B_DP = "94"
+F_2B_PCT = ".956"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "R."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "82"
+F_2B_PO = "200"
+F_2B_A = "232"
+F_2B_E = "21"
+F_2B_DP = "55"
+F_2B_PCT = ".954"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "32"
+F_2B_A = "49"
+F_2B_E = "4"
+F_2B_DP = "11"
+F_2B_PCT = ".953"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Otey"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "135"
+F_2B_PO = "368"
+F_2B_A = "372"
+F_2B_E = "38"
+F_2B_DP = "66"
+F_2B_PCT = ".951"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Dixon"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "105"
+F_2B_PO = "246"
+F_2B_A = "258"
+F_2B_E = "28"
+F_2B_DP = "67"
+F_2B_PCT = ".947"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Spatafore"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "70"
+F_2B_PO = "162"
+F_2B_A = "188"
+F_2B_E = "20"
+F_2B_DP = "40"
+F_2B_PCT = ".946"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "53"
+F_2B_PO = "126"
+F_2B_A = "137"
+F_2B_E = "15"
+F_2B_DP = "31"
+F_2B_PCT = ".946"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Distefano"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "35"
+F_2B_PO = "74"
+F_2B_A = "93"
+F_2B_E = "10"
+F_2B_DP = "19"
+F_2B_PCT = ".944"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Allaire"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "24"
+F_2B_PO = "45"
+F_2B_A = "53"
+F_2B_E = "6"
+F_2B_DP = "11"
+F_2B_PCT = ".942"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Stassi"
+name.given = "S."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "11"
+F_2B_PO = "19"
+F_2B_A = "29"
+F_2B_E = "3"
+F_2B_DP = "5"
+F_2B_PCT = ".941"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "130"
+F_2B_PO = "448"
+F_2B_A = "366"
+F_2B_E = "55"
+F_2B_DP = "106"
+F_2B_PCT = ".937"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Cox"
+name.given = "W."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "31"
+F_2B_PO = "62"
+F_2B_A = "64"
+F_2B_E = "9"
+F_2B_DP = "10"
+F_2B_PCT = ".933"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McClain"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "46"
+F_2B_PO = "95"
+F_2B_A = "120"
+F_2B_E = "19"
+F_2B_DP = "30"
+F_2B_PCT = ".919"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "27"
+F_2B_PO = "72"
+F_2B_A = "69"
+F_2B_E = "13"
+F_2B_DP = "10"
+F_2B_PCT = ".916"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Melago"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "29"
+F_2B_A = "27"
+F_2B_E = "6"
+F_2B_DP = "3"
+F_2B_PCT = ".903"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Zoeller"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "40"
+F_2B_PO = "83"
+F_2B_A = "99"
+F_2B_E = "22"
+F_2B_DP = "13"
+F_2B_PCT = ".892"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Latimer"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "18"
+F_2B_PO = "30"
+F_2B_A = "25"
+F_2B_E = "7"
+F_2B_DP = "2"
+F_2B_PCT = ".887"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Robbins"
+name.given = "T."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "46"
+F_2B_A = "68"
+F_2B_E = "15"
+F_2B_DP = "4"
+F_2B_PCT = ".884"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Stassi"
+name.given = "S."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "16"
+F_3B_PO = "17"
+F_3B_A = "21"
+F_3B_E = "2"
+F_3B_DP = "3"
+F_3B_PCT = ".950"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Woldt"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "43"
+F_3B_PO = "46"
+F_3B_A = "90"
+F_3B_E = "9"
+F_3B_DP = "10"
+F_3B_PCT = ".938"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "116"
+F_3B_PO = "126"
+F_3B_A = "229"
+F_3B_E = "24"
+F_3B_DP = "18"
+F_3B_PCT = ".937"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "R."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "19"
+F_3B_PO = "23"
+F_3B_A = "33"
+F_3B_E = "4"
+F_3B_DP = "2"
+F_3B_PCT = ".933"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Fausett"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "13"
+F_3B_PO = "16"
+F_3B_A = "28"
+F_3B_E = "4"
+F_3B_DP = "2"
+F_3B_PCT = ".917"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Moran"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "130"
+F_3B_PO = "88"
+F_3B_A = "275"
+F_3B_E = "36"
+F_3B_DP = "24"
+F_3B_PCT = ".910"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Decker"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "121"
+F_3B_PO = "136"
+F_3B_A = "248"
+F_3B_E = "40"
+F_3B_DP = "19"
+F_3B_PCT = ".906"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Range"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "103"
+F_3B_PO = "90"
+F_3B_A = "110"
+F_3B_E = "26"
+F_3B_DP = "20"
+F_3B_PCT = ".899"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Spatafore"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "21"
+F_3B_PO = "23"
+F_3B_A = "51"
+F_3B_E = "9"
+F_3B_DP = "5"
+F_3B_PCT = ".897"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "DeLaGarza"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "30"
+F_3B_PO = "43"
+F_3B_A = "58"
+F_3B_E = "12"
+F_3B_DP = "6"
+F_3B_PCT = ".894"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Dobbs"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "11"
+F_3B_A = "21"
+F_3B_E = "4"
+F_3B_DP = "1"
+F_3B_PCT = ".889"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Range"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "103"
+F_3B_PO = "90"
+F_3B_A = "110"
+F_3B_E = "26"
+F_3B_DP = "20"
+F_3B_PCT = ".885"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Melillo"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "50"
+F_3B_PO = "52"
+F_3B_A = "115"
+F_3B_E = "22"
+F_3B_DP = "20"
+F_3B_PCT = ".884"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "McAlexander"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "134"
+F_3B_PO = "117"
+F_3B_A = "261"
+F_3B_E = "50"
+F_3B_DP = "20"
+F_3B_PCT = ".883"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "30"
+F_3B_PO = "29"
+F_3B_A = "50"
+F_3B_E = "11"
+F_3B_DP = "2"
+F_3B_PCT = ".878"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Lapham"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "89"
+F_3B_PO = "84"
+F_3B_A = "147"
+F_3B_E = "33"
+F_3B_DP = "15"
+F_3B_PCT = ".875"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Wilcox"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "73"
+F_3B_PO = "83"
+F_3B_A = "154"
+F_3B_E = "37"
+F_3B_DP = "17"
+F_3B_PCT = ".865"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Palmer"
+name.given = "I."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "13"
+F_3B_PO = "14"
+F_3B_A = "22"
+F_3B_E = "6"
+F_3B_DP = "1"
+F_3B_PCT = ".857"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Malvica"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "30"
+F_3B_PO = "18"
+F_3B_A = "65"
+F_3B_E = "14"
+F_3B_DP = "5"
+F_3B_PCT = ".856"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Cichon"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "11"
+F_3B_PO = "8"
+F_3B_A = "18"
+F_3B_E = "8"
+F_3B_DP = "5"
+F_3B_PCT = ".765"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Greer"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "107"
+F_SS_PO = "191"
+F_SS_A = "329"
+F_SS_E = "24"
+F_SS_DP = "66"
+F_SS_PCT = ".956"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Harriman"
+name.given = "E."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "128"
+F_SS_PO = "239"
+F_SS_A = "385"
+F_SS_E = "43"
+F_SS_DP = "55"
+F_SS_PCT = ".936"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "DeLaGarza"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "109"
+F_SS_PO = "261"
+F_SS_A = "372"
+F_SS_E = "48"
+F_SS_DP = "73"
+F_SS_PCT = ".930"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Gilchrist"
+name.given = "L."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "122"
+F_SS_PO = "228"
+F_SS_A = "413"
+F_SS_E = "52"
+F_SS_DP = "94"
+F_SS_PCT = ".925"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Pride"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "34"
+F_SS_PO = "47"
+F_SS_A = "94"
+F_SS_E = "12"
+F_SS_DP = "15"
+F_SS_PCT = ".922"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Range"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "16"
+F_SS_PO = "15"
+F_SS_A = "42"
+F_SS_E = "5"
+F_SS_DP = "3"
+F_SS_PCT = ".919"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Gilchrist"
+name.given = "V."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "30"
+F_SS_A = "36"
+F_SS_E = "6"
+F_SS_DP = "6"
+F_SS_PCT = ".917"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Stone"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "40"
+F_SS_PO = "62"
+F_SS_A = "112"
+F_SS_E = "17"
+F_SS_DP = "14"
+F_SS_PCT = ".911"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Ragone"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "100"
+F_SS_PO = "201"
+F_SS_A = "321"
+F_SS_E = "52"
+F_SS_DP = "50"
+F_SS_PCT = ".909"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Dobbs"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "18"
+F_SS_PO = "24"
+F_SS_A = "59"
+F_SS_E = "9"
+F_SS_DP = "10"
+F_SS_PCT = ".902"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Sutch"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "137"
+F_SS_PO = "190"
+F_SS_A = "402"
+F_SS_E = "67"
+F_SS_DP = "64"
+F_SS_PCT = ".898"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "19"
+F_SS_PO = "28"
+F_SS_A = "54"
+F_SS_E = "10"
+F_SS_DP = "7"
+F_SS_PCT = ".891"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Bean"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "92"
+F_SS_PO = "168"
+F_SS_A = "289"
+F_SS_E = "61"
+F_SS_DP = "66"
+F_SS_PCT = ".882"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Spatafore"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "33"
+F_SS_PO = "57"
+F_SS_A = "69"
+F_SS_E = "17"
+F_SS_DP = "12"
+F_SS_PCT = ".881"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Watkins"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "40"
+F_SS_PO = "60"
+F_SS_A = "104"
+F_SS_E = "25"
+F_SS_DP = "14"
+F_SS_PCT = ".868"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Ragland"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "13"
+F_SS_A = "33"
+F_SS_E = "8"
+F_SS_DP = "2"
+F_SS_PCT = ".852"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Evans"
+name.given = "G."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "12"
+F_SS_PO = "22"
+F_SS_A = "29"
+F_SS_E = "9"
+F_SS_DP = "5"
+F_SS_PCT = ".850"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Melillo"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "15"
+F_SS_PO = "25"
+F_SS_A = "46"
+F_SS_E = "14"
+F_SS_DP = "12"
+F_SS_PCT = ".835"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Stephens"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "12"
+F_SS_PO = "19"
+F_SS_A = "44"
+F_SS_E = "13"
+F_SS_DP = "4"
+F_SS_PCT = ".829"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "17"
+F_LF_PO = "21"
+F_LF_A = "2"
+F_LF_E = "0"
+F_LF_DP = "0"
+F_LF_PCT = "1.000"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Behnke"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "15"
+F_LF_PO = "17"
+F_LF_A = "3"
+F_LF_E = "0"
+F_LF_DP = "0"
+F_LF_PCT = "1.000"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Houpt"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "10"
+F_LF_PO = "3"
+F_LF_A = "0"
+F_LF_E = "0"
+F_LF_DP = "0"
+F_LF_PCT = "1.000"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "95"
+F_LF_PO = "187"
+F_LF_A = "17"
+F_LF_E = "7"
+F_LF_DP = "1"
+F_LF_PCT = ".967"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Duarte"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "81"
+F_LF_PO = "105"
+F_LF_A = "9"
+F_LF_E = "7"
+F_LF_DP = "1"
+F_LF_PCT = ".942"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "T."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "60"
+F_LF_PO = "77"
+F_LF_A = "2"
+F_LF_E = "5"
+F_LF_DP = "0"
+F_LF_PCT = ".940"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Rooney"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "12"
+F_LF_PO = "14"
+F_LF_A = "0"
+F_LF_E = "1"
+F_LF_DP = "0"
+F_LF_PCT = ".933"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Bauer"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "55"
+F_LF_PO = "73"
+F_LF_A = "5"
+F_LF_E = "6"
+F_LF_DP = "1"
+F_LF_PCT = ".929"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "DeFazio"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "118"
+F_LF_PO = "194"
+F_LF_A = "13"
+F_LF_E = "18"
+F_LF_DP = "3"
+F_LF_PCT = ".920"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Hodge"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "68"
+F_LF_PO = "81"
+F_LF_A = "2"
+F_LF_E = "8"
+F_LF_DP = "1"
+F_LF_PCT = ".912"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Fulenwider"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "20"
+F_LF_PO = "28"
+F_LF_A = "2"
+F_LF_E = "3"
+F_LF_DP = "0"
+F_LF_PCT = ".909"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Hixson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "25"
+F_LF_PO = "33"
+F_LF_A = "4"
+F_LF_E = "4"
+F_LF_DP = "0"
+F_LF_PCT = ".902"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Seitz"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "56"
+F_LF_PO = "53"
+F_LF_A = "8"
+F_LF_E = "7"
+F_LF_DP = "0"
+F_LF_PCT = ".897"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "A."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "57"
+F_LF_PO = "67"
+F_LF_A = "4"
+F_LF_E = "9"
+F_LF_DP = "0"
+F_LF_PCT = ".888"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Fowler"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "45"
+F_LF_PO = "90"
+F_LF_A = "5"
+F_LF_E = "13"
+F_LF_DP = "2"
+F_LF_PCT = ".880"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Novotney"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "27"
+F_LF_PO = "48"
+F_LF_A = "3"
+F_LF_E = "7"
+F_LF_DP = "0"
+F_LF_PCT = ".879"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Sutphen"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "13"
+F_LF_PO = "20"
+F_LF_A = "1"
+F_LF_E = "3"
+F_LF_DP = "0"
+F_LF_PCT = ".875"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Carr"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "25"
+F_LF_PO = "18"
+F_LF_A = "2"
+F_LF_E = "3"
+F_LF_DP = "0"
+F_LF_PCT = ".870"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Matthews"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "11"
+F_LF_PO = "14"
+F_LF_A = "2"
+F_LF_E = "3"
+F_LF_DP = "0"
+F_LF_PCT = ".842"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Scopetone"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "62"
+F_LF_PO = "91"
+F_LF_A = "20"
+F_LF_E = "21"
+F_LF_DP = "4"
+F_LF_PCT = ".841"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Daniel"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "20"
+F_LF_PO = "43"
+F_LF_A = "2"
+F_LF_E = "9"
+F_LF_DP = "1"
+F_LF_PCT = ".833"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Benson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "14"
+F_LF_PO = "13"
+F_LF_A = "0"
+F_LF_E = "3"
+F_LF_DP = "0"
+F_LF_PCT = ".813"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "10"
+F_LF_PO = "10"
+F_LF_A = "1"
+F_LF_E = "3"
+F_LF_DP = "0"
+F_LF_PCT = ".786"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Cox"
+name.given = "E."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "10"
+F_LF_PO = "8"
+F_LF_A = "2"
+F_LF_E = "3"
+F_LF_DP = "0"
+F_LF_PCT = ".769"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Nell"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "12"
+F_LF_PO = "10"
+F_LF_A = "3"
+F_LF_E = "4"
+F_LF_DP = "0"
+F_LF_PCT = ".765"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Cato"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "22"
+F_LF_PO = "15"
+F_LF_A = "3"
+F_LF_E = "7"
+F_LF_DP = "1"
+F_LF_PCT = ".720"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Souza"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_LF_POS = "1"
+F_LF_G = "26"
+F_LF_PO = "17"
+F_LF_A = "0"
+F_LF_E = "7"
+F_LF_DP = "0"
+F_LF_PCT = ".708"
+F_LF_TP = "0"
+
+
+[[person]]
+name.last = "Norka"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "11"
+F_CF_PO = "28"
+F_CF_A = "3"
+F_CF_E = "0"
+F_CF_DP = "1"
+F_CF_PCT = "1.000"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Duarte"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "52"
+F_CF_PO = "91"
+F_CF_A = "8"
+F_CF_E = "2"
+F_CF_DP = "0"
+F_CF_PCT = ".980"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Krage"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "98"
+F_CF_PO = "210"
+F_CF_A = "24"
+F_CF_E = "8"
+F_CF_DP = "4"
+F_CF_PCT = ".967"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "25"
+F_CF_PO = "66"
+F_CF_A = "14"
+F_CF_E = "3"
+F_CF_DP = "3"
+F_CF_PCT = ".964"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "DeFazio"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "22"
+F_CF_PO = "42"
+F_CF_A = "4"
+F_CF_E = "2"
+F_CF_DP = "0"
+F_CF_PCT = ".958"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "108"
+F_CF_PO = "301"
+F_CF_A = "13"
+F_CF_E = "15"
+F_CF_DP = "5"
+F_CF_PCT = ".954"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Woldt"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "75"
+F_CF_PO = "167"
+F_CF_A = "13"
+F_CF_E = "10"
+F_CF_DP = "3"
+F_CF_PCT = ".947"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Runcie"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "20"
+F_CF_PO = "45"
+F_CF_A = "6"
+F_CF_E = "3"
+F_CF_DP = "0"
+F_CF_PCT = ".944"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "107"
+F_CF_PO = "230"
+F_CF_A = "24"
+F_CF_E = "16"
+F_CF_DP = "4"
+F_CF_PCT = ".941"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Bauer"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "14"
+F_CF_PO = "26"
+F_CF_A = "2"
+F_CF_E = "2"
+F_CF_DP = "0"
+F_CF_PCT = ".933"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Matthews"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "12"
+F_CF_PO = "23"
+F_CF_A = "4"
+F_CF_E = "2"
+F_CF_DP = "1"
+F_CF_PCT = ".931"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Carr"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "60"
+F_CF_PO = "90"
+F_CF_A = "1"
+F_CF_E = "7"
+F_CF_DP = "0"
+F_CF_PCT = ".929"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "40"
+F_CF_PO = "68"
+F_CF_A = "1"
+F_CF_E = "6"
+F_CF_DP = "0"
+F_CF_PCT = ".920"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Watkins"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "70"
+F_CF_PO = "131"
+F_CF_A = "5"
+F_CF_E = "12"
+F_CF_DP = "0"
+F_CF_PCT = ".919"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "20"
+F_CF_PO = "37"
+F_CF_A = "4"
+F_CF_E = "4"
+F_CF_DP = "0"
+F_CF_PCT = ".911"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Fulenwider"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "105"
+F_CF_PO = "198"
+F_CF_A = "15"
+F_CF_E = "22"
+F_CF_DP = "2"
+F_CF_PCT = ".906"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Crues"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "14"
+F_CF_PO = "23"
+F_CF_A = "1"
+F_CF_E = "3"
+F_CF_DP = "0"
+F_CF_PCT = ".889"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Scopetone"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "39"
+F_CF_PO = "68"
+F_CF_A = "10"
+F_CF_E = "11"
+F_CF_DP = "0"
+F_CF_PCT = ".876"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Behl"
+name.given = "F."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "22"
+F_CF_PO = "38"
+F_CF_A = "4"
+F_CF_E = "7"
+F_CF_DP = "0"
+F_CF_PCT = ".857"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Seitz"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "23"
+F_CF_PO = "26"
+F_CF_A = "2"
+F_CF_E = "5"
+F_CF_DP = "0"
+F_CF_PCT = ".848"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Cox"
+name.given = "E."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "33"
+F_CF_PO = "62"
+F_CF_A = "2"
+F_CF_E = "13"
+F_CF_DP = "0"
+F_CF_PCT = ".831"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Scopetone"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "13"
+F_CF_PO = "14"
+F_CF_A = "4"
+F_CF_E = "0"
+F_CF_DP = "0"
+F_CF_PCT = "1.000"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "Cox"
+name.given = "E."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_CF_POS = "1"
+F_CF_G = "72"
+F_CF_PO = "86"
+F_CF_A = "13"
+F_CF_E = "1"
+F_CF_DP = "2"
+F_CF_PCT = ".990"
+F_CF_TP = "0"
+
+
+[[person]]
+name.last = "French"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "36"
+F_RF_PO = "46"
+F_RF_A = "4"
+F_RF_E = "1"
+F_RF_DP = "1"
+F_RF_PCT = ".980"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "A."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "36"
+F_RF_PO = "41"
+F_RF_A = "9"
+F_RF_E = "2"
+F_RF_DP = "0"
+F_RF_PCT = ".962"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Rearden"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "23"
+F_RF_PO = "35"
+F_RF_A = "3"
+F_RF_E = "2"
+F_RF_DP = "0"
+F_RF_PCT = ".950"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Olson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "14"
+F_RF_PO = "17"
+F_RF_A = "1"
+F_RF_E = "1"
+F_RF_DP = "0"
+F_RF_PCT = ".947"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Runcie"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "16"
+F_RF_PO = "14"
+F_RF_A = "4"
+F_RF_E = "1"
+F_RF_DP = "0"
+F_RF_PCT = ".947"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Keggereis"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "49"
+F_RF_PO = "80"
+F_RF_A = "5"
+F_RF_E = "5"
+F_RF_DP = "2"
+F_RF_PCT = ".944"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Bauer"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "30"
+F_RF_PO = "46"
+F_RF_A = "4"
+F_RF_E = "3"
+F_RF_DP = "0"
+F_RF_PCT = ".943"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Rooney"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "93"
+F_RF_PO = "121"
+F_RF_A = "8"
+F_RF_E = "8"
+F_RF_DP = "2"
+F_RF_PCT = ".942"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Benson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "84"
+F_RF_PO = "117"
+F_RF_A = "13"
+F_RF_E = "8"
+F_RF_DP = "3"
+F_RF_PCT = ".942"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Mekules"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "12"
+F_RF_PO = "14"
+F_RF_A = "0"
+F_RF_E = "1"
+F_RF_DP = "0"
+F_RF_PCT = ".933"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "45"
+F_RF_PO = "73"
+F_RF_A = "5"
+F_RF_E = "6"
+F_RF_DP = "0"
+F_RF_PCT = ".929"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Koppe"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "19"
+F_RF_PO = "25"
+F_RF_A = "1"
+F_RF_E = "2"
+F_RF_DP = "0"
+F_RF_PCT = ".929"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Carr"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "16"
+F_RF_PO = "25"
+F_RF_A = "0"
+F_RF_E = "2"
+F_RF_DP = "0"
+F_RF_PCT = ".926"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Matthews"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "25"
+F_RF_PO = "34"
+F_RF_A = "3"
+F_RF_E = "3"
+F_RF_DP = "0"
+F_RF_PCT = ".925"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Crues"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "95"
+F_RF_PO = "156"
+F_RF_A = "13"
+F_RF_E = "15"
+F_RF_DP = "0"
+F_RF_PCT = ".918"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Cichon"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "12"
+F_RF_PO = "9"
+F_RF_A = "2"
+F_RF_E = "1"
+F_RF_DP = "0"
+F_RF_PCT = ".917"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Fortin"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "119"
+F_RF_PO = "160"
+F_RF_A = "12"
+F_RF_E = "17"
+F_RF_DP = "2"
+F_RF_PCT = ".910"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Novotney"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "59"
+F_RF_PO = "69"
+F_RF_A = "3"
+F_RF_E = "8"
+F_RF_DP = "2"
+F_RF_PCT = ".900"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Seeds"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "10"
+F_RF_PO = "18"
+F_RF_A = "0"
+F_RF_E = "2"
+F_RF_DP = "0"
+F_RF_PCT = ".900"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "11"
+F_RF_PO = "19"
+F_RF_A = "0"
+F_RF_E = "3"
+F_RF_DP = "0"
+F_RF_PCT = ".864"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Tinsley"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_RF_POS = "1"
+F_RF_G = "10"
+F_RF_PO = "5"
+F_RF_A = "0"
+F_RF_E = "1"
+F_RF_DP = "0"
+F_RF_PCT = ".833"
+F_RF_TP = "0"
+
+
+[[person]]
+name.last = "Webb"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "17"
+F_C_PO = "74"
+F_C_A = "17"
+F_C_E = "0"
+F_C_DP = "2"
+F_C_PB = "8"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "13"
+F_C_PO = "50"
+F_C_A = "4"
+F_C_E = "0"
+F_C_DP = "4"
+F_C_PB = "2"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hodge"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "36"
+F_C_A = "3"
+F_C_E = "0"
+F_C_DP = "2"
+F_C_PB = "2"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bottarini"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "45"
+F_C_PO = "243"
+F_C_A = "32"
+F_C_E = "3"
+F_C_DP = "4"
+F_C_PB = "10"
+F_C_PCT = ".989"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "D."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "26"
+F_C_PO = "116"
+F_C_A = "21"
+F_C_E = "2"
+F_C_DP = "0"
+F_C_PB = "1"
+F_C_PCT = ".986"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Zigelman"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "123"
+F_C_PO = "782"
+F_C_A = "70"
+F_C_E = "14"
+F_C_DP = "6"
+F_C_PB = "4"
+F_C_PCT = ".984"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "J."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "119"
+F_C_PO = "815"
+F_C_A = "121"
+F_C_E = "18"
+F_C_DP = "9"
+F_C_PB = "22"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Clawitter"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "101"
+F_C_PO = "631"
+F_C_A = "83"
+F_C_E = "14"
+F_C_DP = "8"
+F_C_PB = "25"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Lamprich"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "124"
+F_C_PO = "839"
+F_C_A = "93"
+F_C_E = "23"
+F_C_DP = "11"
+F_C_PB = "23"
+F_C_PCT = ".976"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cook"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "63"
+F_C_PO = "313"
+F_C_A = "60"
+F_C_E = "10"
+F_C_DP = "8"
+F_C_PB = "5"
+F_C_PCT = ".974"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Quevreaux"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "71"
+F_C_PO = "409"
+F_C_A = "42"
+F_C_E = "13"
+F_C_DP = "26"
+F_C_PB = "15"
+F_C_PCT = ".972"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Skidgel"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "60"
+F_C_PO = "221"
+F_C_A = "38"
+F_C_E = "8"
+F_C_DP = "4"
+F_C_PB = "5"
+F_C_PCT = ".970"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Matthews"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "60"
+F_C_PO = "327"
+F_C_A = "22"
+F_C_E = "12"
+F_C_DP = "7"
+F_C_PB = "8"
+F_C_PCT = ".967"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hampton"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "124"
+F_C_A = "26"
+F_C_E = "6"
+F_C_DP = "1"
+F_C_PB = "11"
+F_C_PCT = ".962"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Stockman"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "11"
+F_C_PO = "43"
+F_C_A = "6"
+F_C_E = "2"
+F_C_DP = "0"
+F_C_PB = "0"
+F_C_PCT = ".961"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hansen"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "40"
+F_C_PO = "235"
+F_C_A = "36"
+F_C_E = "12"
+F_C_DP = "1"
+F_C_PB = "12"
+F_C_PCT = ".958"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "T."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "44"
+F_C_PO = "201"
+F_C_A = "22"
+F_C_E = "10"
+F_C_DP = "0"
+F_C_PB = "9"
+F_C_PCT = ".957"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "75"
+F_C_A = "12"
+F_C_E = "4"
+F_C_DP = "0"
+F_C_PB = "3"
+F_C_PCT = ".956"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Diers"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "31"
+F_C_PO = "168"
+F_C_A = "13"
+F_C_E = "9"
+F_C_DP = "1"
+F_C_PB = "9"
+F_C_PCT = ".953"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "R."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "42"
+F_C_PO = "158"
+F_C_A = "23"
+F_C_E = "9"
+F_C_DP = "5"
+F_C_PB = "5"
+F_C_PCT = ".953"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cola"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "23"
+F_C_PO = "109"
+F_C_A = "12"
+F_C_E = "7"
+F_C_DP = "1"
+F_C_PB = "5"
+F_C_PCT = ".945"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Schulich"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "14"
+F_C_PO = "12"
+F_C_A = "5"
+F_C_E = "1"
+F_C_DP = "3"
+F_C_PB = "0"
+F_C_PCT = ".944"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Vaughn"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "22"
+F_C_PO = "83"
+F_C_A = "8"
+F_C_E = "6"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = ".938"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Palmer"
+name.given = "I."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "44"
+F_C_PO = "181"
+F_C_A = "30"
+F_C_E = "17"
+F_C_DP = "2"
+F_C_PB = "5"
+F_C_PCT = ".925"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Santi"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "12"
+F_C_PO = "47"
+F_C_A = "4"
+F_C_E = "7"
+F_C_DP = "0"
+F_C_PB = "0"
+F_C_PCT = ".879"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Nelson"
+name.given = "E."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "8"
+F_P_A = "64"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tysko"
+name.given = "Joe"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "4"
+F_P_A = "25"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Upton"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "6"
+F_P_A = "22"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gray"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Borger"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "7"
+F_P_A = "21"
+F_P_E = "0"
+F_P_DP = "3"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Forrest"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "3"
+F_P_A = "24"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wenderoth"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "16"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Harriman"
+name.given = "N."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "A."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Holcomb"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mumm"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "0"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McPike"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "2"
+F_P_A = "39"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".976"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Archuleta"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "3"
+F_P_A = "35"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".974"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hinrichs"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "3"
+F_P_A = "30"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Werbowski"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "14"
+F_P_A = "49"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".969"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tinsley"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "42"
+F_P_PO = "6"
+F_P_A = "70"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Behl"
+name.given = "J."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "8"
+F_P_A = "40"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".960"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Olson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "7"
+F_P_A = "41"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".960"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Piercey"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "3"
+F_P_A = "21"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".960"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Heinz"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "4"
+F_P_A = "43"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".959"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Casterina"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "0"
+F_P_A = "21"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bergerson"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "3"
+F_P_A = "18"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Haskins"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "7"
+F_P_A = "32"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".951"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hewitt"
+name.given = "M."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "10"
+F_P_A = "28"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".950"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hacker"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "5"
+F_P_A = "47"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".945"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hutto"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "6"
+F_P_A = "28"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".944"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "7"
+F_P_A = "41"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hart"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "3"
+F_P_A = "29"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kramer"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "15"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lonergan"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "13"
+F_P_A = "50"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".940"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tumelson"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "5"
+F_P_A = "39"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".936"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Evans"
+name.given = "W."
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "4"
+F_P_A = "40"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".936"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Budny"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "6"
+F_P_A = "22"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Devine"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "1"
+F_P_A = "13"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Condon"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "1"
+F_P_A = "25"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hair"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "16"
+F_P_A = "43"
+F_P_E = "5"
+F_P_DP = "1"
+F_P_PCT = ".922"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "6"
+F_P_A = "59"
+F_P_E = "5"
+F_P_DP = "1"
+F_P_PCT = ".922"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "West"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "6"
+F_P_A = "29"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".921"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Haupert"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "2"
+F_P_A = "54"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".918"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mekules"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "9"
+F_P_A = "29"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".914"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dobbs"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "13"
+F_P_A = "50"
+F_P_E = "6"
+F_P_DP = "4"
+F_P_PCT = ".913"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dembroge"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "5"
+F_P_A = "37"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".913"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tross"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "9"
+F_P_A = "12"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".913"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "13"
+F_P_A = "27"
+F_P_E = "4"
+F_P_DP = "3"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Leiker"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "3"
+F_P_A = "26"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Garland"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "4"
+F_P_A = "40"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pickering"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lubbock"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "0"
+F_P_A = "9"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ailstock"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "0"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "5"
+F_P_A = "38"
+F_P_E = "6"
+F_P_DP = "0"
+F_P_PCT = ".878"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mix"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[[person.playing.split]]
+team.name = "Lubbock"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "0"
+F_P_A = "14"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Blackwood"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "5"
+F_P_A = "56"
+F_P_E = "10"
+F_P_DP = "2"
+F_P_PCT = ".860"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cwik"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clovis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "2"
+F_P_A = "25"
+F_P_E = "6"
+F_P_DP = "4"
+F_P_PCT = ".833"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ward"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albuquerque"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "1"
+F_P_A = "19"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".833"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gist"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pampa"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "1"
+F_P_A = "13"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".824"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ridgeway"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Borger"
+[[person.playing.split]]
+team.name = "Pampa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".818"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Amarillo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "11"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".813"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sarraille"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Abilene"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "0"
+F_P_A = "4"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Huckabee"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lamesa"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "20"
+F_P_E = "6"
+F_P_DP = "1"
+F_P_PCT = ".778"
+F_P_TP = "0"

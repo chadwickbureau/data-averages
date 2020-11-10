@@ -1,0 +1,174 @@
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5176"
+B_R = "832"
+B_H = "1575"
+B_TB = "2195"
+B_2B = "228"
+B_3B = "97"
+B_HR = "66"
+B_SH = "172"
+B_SB = "257"
+B_BB = "418"
+B_SO = "655"
+B_LOB = "953"
+B_AVG = ".304"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5162"
+B_R = "775"
+B_H = "1492"
+B_TB = "2037"
+B_2B = "294"
+B_3B = "76"
+B_HR = "33"
+B_SH = "216"
+B_SB = "200"
+B_BB = "488"
+B_SO = "632"
+B_LOB = "1079"
+B_AVG = ".289"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5046"
+B_R = "806"
+B_H = "1441"
+B_TB = "2015"
+B_2B = "286"
+B_3B = "69"
+B_HR = "50"
+B_SH = "280"
+B_SB = "174"
+B_BB = "455"
+B_SO = "545"
+B_LOB = "991"
+B_AVG = ".286"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4950"
+B_R = "719"
+B_H = "1406"
+B_TB = "1878"
+B_2B = "279"
+B_3B = "32"
+B_HR = "43"
+B_SH = "212"
+B_SB = "109"
+B_BB = "522"
+B_SO = "547"
+B_LOB = "1026"
+B_AVG = ".284"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5027"
+B_R = "777"
+B_H = "1419"
+B_TB = "1905"
+B_2B = "252"
+B_3B = "60"
+B_HR = "38"
+B_SH = "208"
+B_SB = "203"
+B_BB = "473"
+B_SO = "495"
+B_LOB = "929"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5038"
+B_R = "708"
+B_H = "1386"
+B_TB = "1825"
+B_2B = "255"
+B_3B = "38"
+B_HR = "36"
+B_SH = "193"
+B_SB = "133"
+B_BB = "480"
+B_SO = "557"
+B_LOB = "1034"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5207"
+B_R = "704"
+B_H = "1392"
+B_TB = "1879"
+B_2B = "246"
+B_3B = "80"
+B_HR = "27"
+B_SH = "161"
+B_SB = "156"
+B_BB = "440"
+B_SO = "684"
+B_LOB = "944"
+B_AVG = ".267"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1916"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4992"
+B_R = "535"
+B_H = "1328"
+B_TB = "1712"
+B_2B = "192"
+B_3B = "69"
+B_HR = "18"
+B_SH = "221"
+B_SB = "177"
+B_BB = "373"
+B_SO = "606"
+B_LOB = "961"
+B_AVG = ".266"

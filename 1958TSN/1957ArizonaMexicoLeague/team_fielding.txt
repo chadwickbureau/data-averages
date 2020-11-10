@@ -1,0 +1,100 @@
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "147"
+F_PB = "40"
+F_PO = "3560"
+F_A = "1386"
+F_E = "201"
+F_PCT = ".961"
+F_TP = "0"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "128"
+F_PB = "18"
+F_PO = "3604"
+F_A = "1346"
+F_E = "267"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Cananea"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "136"
+F_PB = "14"
+F_PO = "3557"
+F_A = "1312"
+F_E = "264"
+F_PCT = ".949"
+F_TP = "2"
+
+
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "118"
+F_PB = "13"
+F_PO = "3271"
+F_A = "1208"
+F_E = "269"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Las Vegas"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_DP = "131"
+F_PB = "29"
+F_PO = "3478"
+F_A = "1331"
+F_E = "292"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "110"
+F_PB = "35"
+F_PO = "3515"
+F_A = "1393"
+F_E = "356"
+F_PCT = ".932"
+F_TP = "0"

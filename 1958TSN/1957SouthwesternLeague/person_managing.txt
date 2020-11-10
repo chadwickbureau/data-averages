@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Tucker"
+name.given = "Thurman"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Hobbs"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "York"
+name.given = "Anthony"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ballinger"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Phipps"
+name.given = "Jodie"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Carlsbad"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Welaj"
+name.given = "John"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Midland/Lamesa"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "O'Neal"
+name.given = "Waymond (Hank)"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Midland/Lamesa"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Haas"
+name.given = "Berthold"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Clovis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Basso"
+name.given = "James"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "El Paso"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cross"
+name.given = "Allen"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pampa/San Angelo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Boland"
+name.given = "Arthur"
+[[person.managing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Plainview"
+S_ORDER = "0"
+[person.managing.totals]

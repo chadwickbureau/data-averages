@@ -1,0 +1,76 @@
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1336"
+F_A = "641"
+F_E = "98"
+F_PCT = ".952"
+
+
+[[team]]
+name = "La Salle"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1863"
+F_A = "1048"
+F_E = "151"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Streator"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2485"
+F_A = "1112"
+F_E = "203"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Champaign"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2377"
+F_A = "1014"
+F_E = "184"
+F_PCT = ".922"
+
+
+[[team]]
+name = "Kankakee"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1285"
+F_A = "645"
+F_E = "163"
+F_PCT = ".922"
+
+
+[[team]]
+name = "Ottawa"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2121"
+F_A = "981"
+F_E = "217"
+F_PCT = ".914"

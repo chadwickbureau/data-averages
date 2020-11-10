@@ -1,0 +1,185 @@
+[[person]]
+name.last = "Gary"
+name.given = "Ed"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+B_AB = "126"
+B_H = "48"
+B_HR = "1"
+B_RBI = "30"
+B_AVG = ".381"
+
+
+[[person]]
+name.last = "Boyer"
+name.given = "Bob"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cardinals"
+[person.playing.totals]
+B_AB = "166"
+B_H = "54"
+B_HR = "1"
+B_RBI = "24"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Ranew"
+name.given = "Merritt"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Braves"
+[person.playing.totals]
+B_AB = "85"
+B_H = "25"
+B_HR = "1"
+B_RBI = "11"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Klimchock"
+name.given = "Lou"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Athletics"
+[person.playing.totals]
+B_AB = "152"
+B_H = "43"
+B_HR = "3"
+B_RBI = "37"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Kabbes"
+name.given = "Ron"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cardinals"
+[person.playing.totals]
+B_AB = "147"
+B_H = "41"
+B_HR = "1"
+B_RBI = "17"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Matthews"
+name.given = "Walt"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cardinals"
+[person.playing.totals]
+B_AB = "173"
+B_H = "48"
+B_HR = "2"
+B_RBI = "26"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Ryder"
+name.given = "Steve"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Braves"
+[person.playing.totals]
+B_AB = "166"
+B_H = "45"
+B_HR = "0"
+B_RBI = "16"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Dave"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+B_AB = "167"
+B_H = "45"
+B_HR = "0"
+B_RBI = "17"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "DeMeglio"
+name.given = "Ralph"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+B_AB = "82"
+B_H = "22"
+B_HR = "1"
+B_RBI = "10"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Branson"
+name.given = "Don"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cardinals"
+[person.playing.totals]
+B_AB = "129"
+B_H = "34"
+B_HR = "0"
+B_RBI = "12"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Carpenter"
+name.given = "Fred"
+[[person.playing]]
+season = "1958"
+league.name = "Florida Instructional League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yankees"
+[person.playing.totals]
+B_AB = "104"
+B_H = "27"
+B_HR = "0"
+B_RBI = "17"
+B_AVG = ".260"

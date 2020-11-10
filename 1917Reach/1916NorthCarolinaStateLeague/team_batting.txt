@@ -1,0 +1,94 @@
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3731"
+B_R = "526"
+B_H = "1079"
+B_TB = "1350"
+B_SH = "131"
+B_SB = "153"
+B_AVG = ".289"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3695"
+B_R = "468"
+B_H = "991"
+B_TB = "1308"
+B_SH = "122"
+B_SB = "75"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3764"
+B_R = "497"
+B_H = "977"
+B_TB = "1391"
+B_SH = "143"
+B_SB = "187"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3679"
+B_R = "495"
+B_H = "936"
+B_TB = "1218"
+B_SH = "156"
+B_SB = "193"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3614"
+B_R = "366"
+B_H = "859"
+B_TB = "1131"
+B_SH = "134"
+B_SB = "113"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1916"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3537"
+B_R = "352"
+B_H = "823"
+B_TB = "1032"
+B_SH = "123"
+B_SB = "116"
+B_AVG = ".233"

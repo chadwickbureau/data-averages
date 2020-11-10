@@ -1,0 +1,110 @@
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3370"
+F_A = "1517"
+F_E = "213"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3315"
+F_A = "1450"
+F_E = "221"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Marshalltown"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3433"
+F_A = "1589"
+F_E = "245"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Mason City"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3339"
+F_A = "1520"
+F_E = "242"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Ottumwa"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3290"
+F_A = "1575"
+F_E = "271"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3313"
+F_A = "1546"
+F_E = "278"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Fort Dodge"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3374"
+F_A = "1492"
+F_E = "298"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1916"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3304"
+F_A = "1561"
+F_E = "307"
+F_PCT = ".941"

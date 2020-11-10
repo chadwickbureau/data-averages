@@ -1,0 +1,50 @@
+[[team]]
+name = "Valencia"
+[[team.playing]]
+season = "1958"
+league.name = "Venezuelan Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "28"
+R_L = "18"
+R_PCT = ".609"
+R_RANK = "1"
+
+
+[[team]]
+name = "Oriente"
+[[team.playing]]
+season = "1958"
+league.name = "Venezuelan Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "25"
+R_L = "21"
+R_PCT = ".543"
+R_RANK = "2"
+
+
+[[team]]
+name = "Caracas"
+[[team.playing]]
+season = "1958"
+league.name = "Venezuelan Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "24"
+R_L = "22"
+R_PCT = ".522"
+R_RANK = "3"
+
+
+[[team]]
+name = "Pampero"
+[[team.playing]]
+season = "1958"
+league.name = "Venezuelan Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "17"
+R_L = "28"
+R_PCT = ".378"
+R_RANK = "4"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "125"
+F_PB = "14"
+F_PO = "3189"
+F_A = "1239"
+F_E = "209"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Nogales"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "124"
+F_PB = "20"
+F_PO = "3145"
+F_A = "1243"
+F_E = "212"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_DP = "101"
+F_PB = "16"
+F_PO = "3022"
+F_A = "1113"
+F_E = "205"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_DP = "129"
+F_PB = "43"
+F_PO = "3061"
+F_A = "1144"
+F_E = "232"
+F_PCT = ".948"
+F_TP = "0"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_DP = "98"
+F_PB = "22"
+F_PO = "3064"
+F_A = "1227"
+F_E = "250"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Chihuahua"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "115"
+F_PB = "17"
+F_PO = "3124"
+F_A = "1237"
+F_E = "256"
+F_PCT = ".945"
+F_TP = "0"

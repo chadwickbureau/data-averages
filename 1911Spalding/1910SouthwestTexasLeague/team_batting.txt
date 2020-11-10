@@ -1,0 +1,118 @@
+[[team]]
+name = "Beeville"
+[[team.playing]]
+season = "1910"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3749"
+B_R = "387"
+B_H = "829"
+B_2B = "106"
+B_3B = "13"
+B_HR = "19"
+B_EB = "189"
+B_SB = "171"
+B_SH = "163"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Laredo"
+[[team.playing]]
+season = "1910"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3708"
+B_R = "425"
+B_H = "812"
+B_2B = "83"
+B_3B = "40"
+B_HR = "8"
+B_EB = "187"
+B_SB = "275"
+B_SH = "109"
+B_AVG = ".219"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1910"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3633"
+B_R = "377"
+B_H = "794"
+B_2B = "132"
+B_3B = "30"
+B_HR = "14"
+B_EB = "234"
+B_SB = "304"
+B_SH = "189"
+B_AVG = ".219"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1910"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3749"
+B_R = "410"
+B_H = "813"
+B_2B = "112"
+B_3B = "21"
+B_HR = "29"
+B_EB = "241"
+B_SB = "199"
+B_SH = "155"
+B_AVG = ".217"
+
+
+[[team]]
+name = "Brownsville"
+[[team.playing]]
+season = "1910"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3628"
+B_R = "354"
+B_H = "753"
+B_2B = "104"
+B_3B = "21"
+B_HR = "9"
+B_EB = "173"
+B_SB = "275"
+B_SH = "157"
+B_AVG = ".208"
+
+
+[[team]]
+name = "Corpus Christi"
+[[team.playing]]
+season = "1910"
+league.name = "Southwest Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3734"
+B_R = "265"
+B_H = "676"
+B_2B = "67"
+B_3B = "17"
+B_HR = "9"
+B_EB = "128"
+B_SB = "166"
+B_SH = "141"
+B_AVG = ".181"

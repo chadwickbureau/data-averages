@@ -1,0 +1,82 @@
+[[team]]
+name = "Dothan"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "72"
+B_AB = "2480"
+B_R = "342"
+B_H = "666"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Brunswick"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "74"
+B_AB = "2318"
+B_R = "308"
+B_H = "608"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "75"
+B_AB = "2446"
+B_R = "288"
+B_H = "619"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Waycross"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "75"
+B_AB = "2294"
+B_R = "311"
+B_H = "555"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "74"
+B_AB = "2399"
+B_R = "263"
+B_H = "584"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "71"
+B_AB = "2286"
+B_R = "238"
+B_H = "506"
+B_AVG = ".221"

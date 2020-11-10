@@ -1,0 +1,82 @@
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1910"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_G = "119"
+R_W = "70"
+R_L = "49"
+R_PCT = ".588"
+R_RANK = "1"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1910"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_G = "118"
+R_W = "68"
+R_L = "50"
+R_PCT = ".576"
+R_RANK = "2"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1910"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_G = "117"
+R_W = "60"
+R_L = "58"
+R_PCT = ".508"
+R_RANK = "3"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1910"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_G = "119"
+R_W = "61"
+R_L = "59"
+R_PCT = ".508"
+R_RANK = "4"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1910"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_G = "119"
+R_W = "51"
+R_L = "68"
+R_PCT = ".429"
+R_RANK = "5"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1910"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_G = "118"
+R_W = "46"
+R_L = "72"
+R_PCT = ".385"
+R_RANK = "6"

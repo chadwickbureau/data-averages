@@ -1,0 +1,174 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4345"
+B_R = "625"
+B_H = "1188"
+B_2B = "202"
+B_3B = "46"
+B_HR = "46"
+B_TB = "1620"
+B_SH = "161"
+B_SB = "198"
+B_BB = "382"
+B_SO = "550"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4453"
+B_R = "599"
+B_H = "1159"
+B_2B = "210"
+B_3B = "84"
+B_HR = "28"
+B_TB = "1621"
+B_SH = "169"
+B_SB = "119"
+B_BB = "427"
+B_SO = "542"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4317"
+B_R = "553"
+B_H = "1103"
+B_2B = "186"
+B_3B = "96"
+B_HR = "35"
+B_TB = "1583"
+B_SH = "241"
+B_SB = "175"
+B_BB = "356"
+B_SO = "630"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4297"
+B_R = "607"
+B_H = "1076"
+B_2B = "174"
+B_3B = "72"
+B_HR = "18"
+B_TB = "1448"
+B_SH = "171"
+B_SB = "349"
+B_BB = "450"
+B_SO = "595"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Moline"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4339"
+B_R = "420"
+B_H = "1056"
+B_2B = "185"
+B_3B = "36"
+B_HR = "15"
+B_TB = "1358"
+B_SH = "172"
+B_SB = "177"
+B_BB = "264"
+B_SO = "609"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4333"
+B_R = "502"
+B_H = "1028"
+B_2B = "169"
+B_3B = "64"
+B_HR = "25"
+B_TB = "1400"
+B_SH = "162"
+B_SB = "181"
+B_BB = "396"
+B_SO = "617"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4334"
+B_R = "478"
+B_H = "1016"
+B_2B = "177"
+B_3B = "41"
+B_HR = "34"
+B_TB = "1377"
+B_SH = "182"
+B_SB = "166"
+B_BB = "429"
+B_SO = "581"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1914"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4345"
+B_R = "473"
+B_H = "1006"
+B_2B = "116"
+B_3B = "76"
+B_HR = "30"
+B_TB = "1364"
+B_SH = "182"
+B_SB = "166"
+B_BB = "382"
+B_SO = "587"
+B_AVG = ".232"

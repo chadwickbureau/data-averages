@@ -1,0 +1,117 @@
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "115"
+F_PB = "17"
+F_PO = "3352"
+F_A = "1327"
+F_E = "141"
+F_TP = "0"
+F_PCT = ".971"
+
+
+[[team]]
+name = "Missoula"
+[[team.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "118"
+F_PB = "5"
+F_PO = "3344"
+F_A = "1324"
+F_E = "211"
+F_TP = "0"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_DP = "109"
+F_PB = "20"
+F_PO = "3435"
+F_A = "1320"
+F_E = "219"
+F_TP = "0"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "141"
+F_PB = "38"
+F_PO = "3463"
+F_A = "1404"
+F_E = "226"
+F_TP = "0"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Magic Valley"
+[[team.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_DP = "119"
+F_PB = "32"
+F_PO = "3330"
+F_A = "1423"
+F_E = "239"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "100"
+F_PB = "18"
+F_PO = "3378"
+F_A = "1313"
+F_E = "241"
+F_TP = "0"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1958"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "122"
+F_PB = "13"
+F_PO = "3331"
+F_A = "1380"
+F_E = "252"
+F_TP = "0"
+F_PCT = ".949"

@@ -1,0 +1,102 @@
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4462"
+B_R = "493"
+B_H = "1081"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4491"
+B_R = "510"
+B_H = "1056"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Webb City"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4070"
+B_R = "419"
+B_H = "961"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4267"
+B_R = "408"
+B_H = "1000"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4169"
+B_R = "401"
+B_H = "942"
+B_AVG = ".226"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4320"
+B_R = "489"
+B_H = "974"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4271"
+B_R = "515"
+B_H = "937"
+B_AVG = ".219"
+
+
+[[team]]
+name = "Enid"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4759"
+B_R = "392"
+B_H = "1030"
+B_AVG = ".216"

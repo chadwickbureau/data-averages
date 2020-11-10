@@ -1,0 +1,2287 @@
+[[person]]
+name.last = "Hicks"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "42"
+P_IP = "242"
+P_AB = "888"
+P_H = "204"
+P_R = "84"
+P_HP = "12"
+P_BB = "60"
+P_SO = "132"
+P_WP = "8"
+P_BK = "1"
+P_W = "18"
+P_L = "5"
+P_PCT = ".783"
+
+
+[[person]]
+name.last = "Dessau"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "9"
+P_IP = "67"
+P_AB = "240"
+P_H = "54"
+P_R = "19"
+P_HP = "2"
+P_BB = "18"
+P_SO = "30"
+P_WP = "1"
+P_BK = "0"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "49"
+P_IP = "335"
+P_AB = "1241"
+P_H = "282"
+P_R = "115"
+P_HP = "6"
+P_BB = "121"
+P_SO = "206"
+P_WP = "20"
+P_BK = "0"
+P_W = "25"
+P_L = "9"
+P_PCT = ".735"
+
+
+[[person]]
+name.last = "Leonard"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "35"
+P_IP = "241"
+P_AB = "933"
+P_H = "231"
+P_R = "95"
+P_HP = "10"
+P_BB = "62"
+P_SO = "226"
+P_WP = "9"
+P_BK = "0"
+P_W = "22"
+P_L = "9"
+P_PCT = ".710"
+
+
+[[person]]
+name.last = "Slaughter"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "19"
+P_IP = "93"
+P_AB = "345"
+P_H = "98"
+P_R = "52"
+P_HP = "4"
+P_BB = "50"
+P_SO = "44"
+P_WP = "2"
+P_BK = "0"
+P_W = "7"
+P_L = "3"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "49"
+P_IP = "312"
+P_AB = "1110"
+P_H = "263"
+P_R = "113"
+P_HP = "14"
+P_BB = "72"
+P_SO = "191"
+P_WP = "9"
+P_BK = "0"
+P_W = "23"
+P_L = "10"
+P_PCT = ".697"
+
+
+[[person]]
+name.last = "Schreiber"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "44"
+P_IP = "290"
+P_AB = "1071"
+P_H = "273"
+P_R = "107"
+P_HP = "3"
+P_BB = "77"
+P_SO = "188"
+P_WP = "2"
+P_BK = "1"
+P_W = "20"
+P_L = "9"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Kinsella"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "35"
+P_IP = "280"
+P_AB = "1039"
+P_H = "295"
+P_R = "123"
+P_HP = "7"
+P_BB = "63"
+P_SO = "152"
+P_WP = "4"
+P_BK = "1"
+P_W = "22"
+P_L = "11"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Ellis"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "31"
+P_IP = "212"
+P_AB = "812"
+P_H = "207"
+P_R = "92"
+P_HP = "6"
+P_BB = "23"
+P_SO = "89"
+P_WP = "4"
+P_BK = "0"
+P_W = "14"
+P_L = "7"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Beebe"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "16"
+P_IP = "77"
+P_AB = "292"
+P_H = "80"
+P_R = "41"
+P_HP = "8"
+P_BB = "28"
+P_SO = "38"
+P_WP = "13"
+P_BK = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "F."
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "20"
+P_IP = "155"
+P_AB = "575"
+P_H = "146"
+P_R = "58"
+P_HP = "2"
+P_BB = "17"
+P_SO = "73"
+P_WP = "0"
+P_BK = "0"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "4"
+P_IP = "30"
+P_AB = "110"
+P_H = "22"
+P_R = "9"
+P_HP = "2"
+P_BB = "12"
+P_SO = "14"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "34"
+P_IP = "202"
+P_AB = "799"
+P_H = "231"
+P_R = "104"
+P_HP = "4"
+P_BB = "75"
+P_SO = "106"
+P_WP = "7"
+P_BK = "0"
+P_W = "13"
+P_L = "7"
+P_PCT = ".650"
+
+
+[[person]]
+name.last = "Woldring"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "35"
+P_IP = "233"
+P_AB = "889"
+P_H = "237"
+P_R = "117"
+P_HP = "15"
+P_BB = "96"
+P_SO = "126"
+P_WP = "5"
+P_BK = "1"
+P_W = "14"
+P_L = "8"
+P_PCT = ".637"
+
+
+[[person]]
+name.last = "Giffin"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "16"
+P_IP = "69"
+P_AB = "248"
+P_H = "78"
+P_R = "31"
+P_HP = "1"
+P_BB = "21"
+P_SO = "26"
+P_WP = "0"
+P_BK = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Mogridge"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "14"
+P_IP = "92"
+P_AB = "349"
+P_H = "86"
+P_R = "39"
+P_HP = "3"
+P_BB = "18"
+P_SO = "70"
+P_WP = "3"
+P_BK = "0"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Faber"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "43"
+P_IP = "304"
+P_AB = "1174"
+P_H = "293"
+P_R = "142"
+P_HP = "13"
+P_BB = "69"
+P_SO = "190"
+P_WP = "5"
+P_BK = "0"
+P_W = "21"
+P_L = "14"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Chelleth"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "29"
+P_IP = "203"
+P_AB = "768"
+P_H = "198"
+P_R = "83"
+P_HP = "15"
+P_BB = "70"
+P_SO = "123"
+P_WP = "4"
+P_BK = "1"
+P_W = "14"
+P_L = "10"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Rogge"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "48"
+P_IP = "315"
+P_AB = "1263"
+P_H = "325"
+P_R = "141"
+P_HP = "10"
+P_BB = "81"
+P_SO = "138"
+P_WP = "4"
+P_BK = "0"
+P_W = "19"
+P_L = "14"
+P_PCT = ".576"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "47"
+P_IP = "286"
+P_AB = "1073"
+P_H = "276"
+P_R = "135"
+P_HP = "6"
+P_BB = "95"
+P_SO = "192"
+P_WP = "4"
+P_BK = "0"
+P_W = "19"
+P_L = "14"
+P_PCT = ".576"
+
+
+[[person]]
+name.last = "Bills"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "9"
+P_IP = "50"
+P_AB = "186"
+P_H = "48"
+P_R = "23"
+P_HP = "7"
+P_BB = "17"
+P_SO = "27"
+P_WP = "0"
+P_BK = "1"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Hagerman"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "51"
+P_IP = "345"
+P_AB = "1247"
+P_H = "271"
+P_R = "127"
+P_HP = "21"
+P_BB = "145"
+P_SO = "315"
+P_WP = "12"
+P_BK = "0"
+P_W = "23"
+P_L = "18"
+P_PCT = ".561"
+
+
+[[person]]
+name.last = "Crutcher"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "49"
+P_IP = "300"
+P_AB = "1119"
+P_H = "273"
+P_R = "120"
+P_HP = "7"
+P_BB = "103"
+P_SO = "254"
+P_WP = "11"
+P_BK = "0"
+P_W = "18"
+P_L = "13"
+P_PCT = ".548"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "51"
+P_IP = "314"
+P_AB = "1230"
+P_H = "326"
+P_R = "152"
+P_HP = "13"
+P_BB = "110"
+P_SO = "164"
+P_WP = "14"
+P_BK = "1"
+P_W = "25"
+P_L = "17"
+P_PCT = ".541"
+
+
+[[person]]
+name.last = "Freeman"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "20"
+P_IP = "113"
+P_AB = "441"
+P_H = "134"
+P_R = "71"
+P_HP = "7"
+P_BB = "42"
+P_SO = "52"
+P_WP = "6"
+P_BK = "0"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "38"
+P_IP = "259"
+P_AB = "1018"
+P_H = "276"
+P_R = "140"
+P_HP = "6"
+P_BB = "96"
+P_SO = "143"
+P_WP = "5"
+P_BK = "1"
+P_W = "16"
+P_L = "12"
+P_PCT = ".536"
+
+
+[[person]]
+name.last = "Tuckey"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "33"
+P_IP = "212"
+P_AB = "805"
+P_H = "219"
+P_R = "89"
+P_HP = "10"
+P_BB = "36"
+P_SO = "55"
+P_WP = "4"
+P_BK = "0"
+P_W = "11"
+P_L = "10"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "37"
+P_IP = "239"
+P_AB = "846"
+P_H = "189"
+P_R = "84"
+P_HP = "11"
+P_BB = "44"
+P_SO = "117"
+P_WP = "5"
+P_BK = "1"
+P_W = "15"
+P_L = "14"
+P_PCT = ".517"
+
+
+[[person]]
+name.last = "Hueston"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "50"
+P_IP = "300"
+P_AB = "1222"
+P_H = "325"
+P_R = "168"
+P_HP = "17"
+P_BB = "67"
+P_SO = "170"
+P_WP = "5"
+P_BK = "1"
+P_W = "15"
+P_L = "15"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Perry"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "47"
+P_IP = "265"
+P_AB = "983"
+P_H = "233"
+P_R = "132"
+P_HP = "19"
+P_BB = "115"
+P_SO = "120"
+P_WP = "7"
+P_BK = "0"
+P_W = "15"
+P_L = "15"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Wolverton"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "36"
+P_IP = "186"
+P_AB = "674"
+P_H = "189"
+P_R = "91"
+P_HP = "8"
+P_BB = "78"
+P_SO = "72"
+P_WP = "8"
+P_BK = "2"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "19"
+P_IP = "126"
+P_AB = "487"
+P_H = "128"
+P_R = "64"
+P_HP = "5"
+P_BB = "29"
+P_SO = "48"
+P_WP = "4"
+P_BK = "0"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Frantz"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "9"
+P_IP = "47"
+P_AB = "184"
+P_H = "59"
+P_R = "28"
+P_HP = "6"
+P_BB = "25"
+P_SO = "16"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Leak"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "5"
+P_IP = "36"
+P_AB = "145"
+P_H = "46"
+P_R = "23"
+P_HP = "4"
+P_BB = "20"
+P_SO = "16"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Conway"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "6"
+P_IP = "26"
+P_AB = "116"
+P_H = "40"
+P_R = "29"
+P_HP = "9"
+P_BB = "16"
+P_SO = "27"
+P_WP = "1"
+P_BK = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "3"
+P_IP = "18"
+P_AB = "67"
+P_H = "19"
+P_R = "15"
+P_HP = "1"
+P_BB = "19"
+P_SO = "6"
+P_WP = "2"
+P_BK = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Kenworthy"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "2"
+P_IP = "18"
+P_AB = "72"
+P_H = "21"
+P_R = "11"
+P_HP = "0"
+P_BB = "5"
+P_SO = "5"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Durham"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "40"
+P_IP = "283"
+P_AB = "1088"
+P_H = "305"
+P_R = "143"
+P_HP = "20"
+P_BB = "90"
+P_SO = "109"
+P_WP = "2"
+P_BK = "0"
+P_W = "16"
+P_L = "17"
+P_PCT = ".485"
+
+
+[[person]]
+name.last = "Douglas"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "38"
+P_IP = "249"
+P_AB = "966"
+P_H = "217"
+P_R = "98"
+P_HP = "6"
+P_BB = "71"
+P_SO = "211"
+P_WP = "7"
+P_BK = "0"
+P_W = "15"
+P_L = "16"
+P_PCT = ".484"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "35"
+P_IP = "263"
+P_AB = "959"
+P_H = "234"
+P_R = "115"
+P_HP = "17"
+P_BB = "78"
+P_SO = "158"
+P_WP = "8"
+P_BK = "2"
+P_W = "11"
+P_L = "15"
+P_PCT = ".465"
+
+
+[[person]]
+name.last = "Ryan"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "34"
+P_IP = "211"
+P_AB = "673"
+P_H = "200"
+P_R = "88"
+P_HP = "12"
+P_BB = "77"
+P_SO = "118"
+P_WP = "5"
+P_BK = "0"
+P_W = "12"
+P_L = "14"
+P_PCT = ".461"
+
+
+[[person]]
+name.last = "Healey"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "37"
+P_IP = "215"
+P_AB = "807"
+P_H = "217"
+P_R = "126"
+P_HP = "8"
+P_BB = "85"
+P_SO = "161"
+P_WP = "10"
+P_BK = "0"
+P_W = "11"
+P_L = "13"
+P_PCT = ".458"
+
+
+[[person]]
+name.last = "McAdams"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "13"
+P_IP = "86"
+P_AB = "355"
+P_H = "107"
+P_R = "60"
+P_HP = "10"
+P_BB = "32"
+P_SO = "37"
+P_WP = "3"
+P_BK = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Reynolds"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "12"
+P_IP = "103"
+P_AB = "402"
+P_H = "109"
+P_R = "57"
+P_HP = "0"
+P_BB = "32"
+P_SO = "56"
+P_WP = "3"
+P_BK = "1"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "35"
+P_IP = "263"
+P_AB = "959"
+P_H = "234"
+P_R = "115"
+P_HP = "17"
+P_BB = "78"
+P_SO = "158"
+P_WP = "8"
+P_BK = "2"
+P_W = "11"
+P_L = "15"
+P_PCT = ".423"
+
+
+[[person]]
+name.last = "Sweet"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "22"
+P_IP = "155"
+P_AB = "574"
+P_H = "129"
+P_R = "51"
+P_HP = "12"
+P_BB = "53"
+P_SO = "91"
+P_WP = "2"
+P_BK = "0"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Northrup"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "29"
+P_IP = "169"
+P_AB = "677"
+P_H = "180"
+P_R = "117"
+P_HP = "11"
+P_BB = "87"
+P_SO = "102"
+P_WP = "13"
+P_BK = "1"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+
+
+[[person]]
+name.last = "Rhodes"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "19"
+P_IP = "152"
+P_AB = "496"
+P_H = "137"
+P_R = "59"
+P_HP = "2"
+P_BB = "47"
+P_SO = "58"
+P_WP = "3"
+P_BK = "0"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "15"
+P_IP = "93"
+P_AB = "359"
+P_H = "93"
+P_R = "45"
+P_HP = "8"
+P_BB = "35"
+P_SO = "60"
+P_WP = "3"
+P_BK = "2"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "31"
+P_IP = "233"
+P_AB = "849"
+P_H = "212"
+P_R = "106"
+P_HP = "15"
+P_BB = "66"
+P_SO = "144"
+P_WP = "6"
+P_BK = "2"
+P_W = "9"
+P_L = "14"
+P_PCT = ".391"
+
+
+[[person]]
+name.last = "Sage"
+name.given = "G."
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "21"
+P_IP = "162"
+P_AB = "826"
+P_H = "180"
+P_R = "86"
+P_HP = "4"
+P_BB = "37"
+P_SO = "70"
+P_WP = "4"
+P_BK = "0"
+P_W = "7"
+P_L = "11"
+P_PCT = ".389"
+
+
+[[person]]
+name.last = "Fugate"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "33"
+P_IP = "208"
+P_AB = "814"
+P_H = "202"
+P_R = "106"
+P_HP = "22"
+P_BB = "61"
+P_SO = "167"
+P_WP = "5"
+P_BK = "0"
+P_W = "10"
+P_L = "16"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Jackson"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "50"
+P_IP = "294"
+P_AB = "1160"
+P_H = "323"
+P_R = "183"
+P_HP = "12"
+P_BB = "74"
+P_SO = "176"
+P_WP = "4"
+P_BK = "0"
+P_W = "14"
+P_L = "23"
+P_PCT = ".378"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "34"
+P_IP = "211"
+P_AB = "867"
+P_H = "256"
+P_R = "131"
+P_HP = "1"
+P_BB = "62"
+P_SO = "103"
+P_WP = "3"
+P_BK = "0"
+P_W = "9"
+P_L = "15"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Cocrehan"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "29"
+P_IP = "174"
+P_AB = "642"
+P_H = "154"
+P_R = "83"
+P_HP = "1"
+P_BB = "81"
+P_SO = "83"
+P_WP = "4"
+P_BK = "0"
+P_W = "7"
+P_L = "13"
+P_PCT = ".350"
+
+
+[[person]]
+name.last = "Palmer"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "23"
+P_IP = "100"
+P_AB = "434"
+P_H = "133"
+P_R = "68"
+P_HP = "4"
+P_BB = "25"
+P_SO = "59"
+P_WP = "4"
+P_BK = "0"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Routt"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "20"
+P_IP = "100"
+P_AB = "383"
+P_H = "114"
+P_R = "60"
+P_HP = "5"
+P_BB = "28"
+P_SO = "65"
+P_WP = "5"
+P_BK = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Fentress"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "14"
+P_IP = "81"
+P_AB = "320"
+P_H = "100"
+P_R = "46"
+P_HP = "8"
+P_BB = "28"
+P_SO = "39"
+P_WP = "3"
+P_BK = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Olmstead"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "12"
+P_IP = "73.1"
+P_AB = "286"
+P_H = "86"
+P_R = "56"
+P_HP = "8"
+P_BB = "27"
+P_SO = "27"
+P_WP = "1"
+P_BK = "1"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Wainwright"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "15"
+P_IP = "48"
+P_AB = "194"
+P_H = "64"
+P_R = "42"
+P_HP = "3"
+P_BB = "20"
+P_SO = "17"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Cann"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "4"
+P_IP = "20.2"
+P_AB = "91"
+P_H = "28"
+P_R = "13"
+P_HP = "0"
+P_BB = "13"
+P_SO = "18"
+P_WP = "1"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Brandom"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "23"
+P_IP = "159.1"
+P_AB = "614"
+P_H = "161"
+P_R = "78"
+P_HP = "7"
+P_BB = "36"
+P_SO = "73"
+P_WP = "6"
+P_BK = "0"
+P_W = "6"
+P_L = "13"
+P_PCT = ".316"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "17"
+P_IP = "75.2"
+P_AB = "286"
+P_H = "79"
+P_R = "43"
+P_HP = "0"
+P_BB = "38"
+P_SO = "49"
+P_WP = "0"
+P_BK = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Hersche"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "15"
+P_IP = "76.1"
+P_AB = "313"
+P_H = "96"
+P_R = "53"
+P_HP = "0"
+P_BB = "25"
+P_SO = "28"
+P_WP = "7"
+P_BK = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Alderman"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "16"
+P_IP = "106.2"
+P_AB = "420"
+P_H = "122"
+P_R = "72"
+P_HP = "15"
+P_BB = "33"
+P_SO = "47"
+P_WP = "8"
+P_BK = "0"
+P_W = "3"
+P_L = "8"
+P_PCT = ".273"
+
+
+[[person]]
+name.last = "Hornsby"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "25"
+P_IP = "181"
+P_AB = "687"
+P_H = "185"
+P_R = "109"
+P_HP = "8"
+P_BB = "62"
+P_SO = "78"
+P_WP = "7"
+P_BK = "0"
+P_W = "6"
+P_L = "17"
+P_PCT = ".261"
+
+
+[[person]]
+name.last = "McKee"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "7"
+P_IP = "45.2"
+P_AB = "178"
+P_H = "63"
+P_R = "38"
+P_HP = "6"
+P_BB = "25"
+P_SO = "13"
+P_WP = "2"
+P_BK = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "5"
+P_IP = "35"
+P_AB = "141"
+P_H = "49"
+P_R = "25"
+P_HP = "0"
+P_BB = "8"
+P_SO = "18"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Cochrane"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "14"
+P_IP = "99.1"
+P_AB = "372"
+P_H = "101"
+P_R = "62"
+P_HP = "4"
+P_BB = "49"
+P_SO = "52"
+P_WP = "7"
+P_BK = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+
+
+[[person]]
+name.last = "Jordan"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "6"
+P_IP = "27"
+P_AB = "110"
+P_H = "38"
+P_R = "15"
+P_HP = "1"
+P_BB = "8"
+P_SO = "17"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Doyle"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "18"
+P_IP = "103.1"
+P_AB = "414"
+P_H = "142"
+P_R = "77"
+P_HP = "1"
+P_BB = "25"
+P_SO = "62"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "9"
+P_PCT = ".182"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "C."
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "13"
+P_IP = "72.2"
+P_AB = "302"
+P_H = "102"
+P_R = "53"
+P_HP = "9"
+P_BB = "35"
+P_SO = "39"
+P_WP = "7"
+P_BK = "0"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "8"
+P_IP = "53.1"
+P_AB = "215"
+P_H = "62"
+P_R = "42"
+P_HP = "0"
+P_BB = "27"
+P_SO = "31"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+
+
+[[person]]
+name.last = "Ryan"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "3"
+P_IP = "12"
+P_AB = "44"
+P_H = "16"
+P_R = "9"
+P_HP = "0"
+P_BB = "8"
+P_SO = "7"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Wagner"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "8"
+P_IP = "30.2"
+P_AB = "123"
+P_H = "46"
+P_R = "25"
+P_HP = "0"
+P_BB = "10"
+P_SO = "8"
+P_WP = "1"
+P_BK = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Wheatley"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "6"
+P_IP = "20.1"
+P_AB = "89"
+P_H = "23"
+P_R = "19"
+P_HP = "0"
+P_BB = "11"
+P_SO = "15"
+P_WP = "1"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "5"
+P_IP = "32"
+P_AB = "109"
+P_H = "22"
+P_R = "15"
+P_HP = "1"
+P_BB = "25"
+P_SO = "24"
+P_WP = "2"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Pfeffer"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "5"
+P_IP = "24.1"
+P_AB = "107"
+P_H = "36"
+P_R = "25"
+P_HP = "4"
+P_BB = "14"
+P_SO = "10"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "2"
+P_IP = "12"
+P_AB = "50"
+P_H = "16"
+P_R = "10"
+P_HP = "1"
+P_BB = "3"
+P_SO = "7"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Sage"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "2"
+P_IP = "8.1"
+P_AB = "32"
+P_H = "10"
+P_R = "6"
+P_HP = "0"
+P_BB = "6"
+P_SO = "1"
+P_WP = "1"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Ramey"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+P_G = "6"
+P_IP = "20"
+P_AB = "92"
+P_H = "42"
+P_R = "33"
+P_HP = "4"
+P_BB = "17"
+P_SO = "10"
+P_WP = "1"
+P_BK = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Hearn"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "3"
+P_IP = "10"
+P_AB = "48"
+P_H = "14"
+P_R = "7"
+P_HP = "0"
+P_BB = "2"
+P_SO = "5"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Moser"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sioux City"
+[person.playing.totals]
+P_G = "3"
+P_IP = "17.1"
+P_AB = "79"
+P_H = "37"
+P_R = "29"
+P_HP = "0"
+P_BB = "11"
+P_SO = "6"
+P_WP = "1"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Jarnigan"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "2"
+P_IP = "11.2"
+P_AB = "60"
+P_H = "22"
+P_R = "11"
+P_HP = "0"
+P_BB = "0"
+P_SO = "8"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Speer"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "2"
+P_IP = "11.1"
+P_AB = "54"
+P_H = "20"
+P_R = "14"
+P_HP = "1"
+P_BB = "7"
+P_SO = "9"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Lotz"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "2"
+P_IP = "11.1"
+P_AB = "45"
+P_H = "13"
+P_R = "5"
+P_HP = "0"
+P_BB = "6"
+P_SO = "6"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Closman"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+P_G = "2"
+P_IP = "10.2"
+P_AB = "40"
+P_H = "12"
+P_R = "3"
+P_HP = "0"
+P_BB = "2"
+P_SO = "10"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Haag"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "2"
+P_IP = "9"
+P_AB = "36"
+P_H = "12"
+P_R = "7"
+P_HP = "0"
+P_BB = "1"
+P_SO = "5"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "2"
+P_IP = "7.2"
+P_AB = "38"
+P_H = "13"
+P_R = "9"
+P_HP = "0"
+P_BB = "4"
+P_SO = "3"
+P_WP = "1"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Des Moines"
+[person.playing.totals]
+P_G = "2"
+P_IP = "5"
+P_AB = "25"
+P_H = "6"
+P_R = "3"
+P_HP = "1"
+P_BB = "4"
+P_SO = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Seitz"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "1"
+P_IP = "9"
+P_AB = "33"
+P_H = "11"
+P_R = "9"
+P_HP = "0"
+P_BB = "7"
+P_SO = "8"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Rustenhaven"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Topeka"
+[person.playing.totals]
+P_G = "1"
+P_IP = "8"
+P_AB = "33"
+P_H = "12"
+P_R = "8"
+P_HP = "1"
+P_BB = "3"
+P_SO = "7"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Meares"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "1"
+P_IP = "6"
+P_AB = "23"
+P_H = "6"
+P_R = "3"
+P_HP = "0"
+P_BB = "3"
+P_SO = "4"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "McDonnell"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Joseph"
+[person.playing.totals]
+P_G = "1"
+P_IP = "0.2"
+P_AB = "4"
+P_H = "3"
+P_R = "2"
+P_HP = "0"
+P_BB = "1"
+P_SO = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+P_G = "1"
+P_IP = "0.2"
+P_AB = "3"
+P_H = "1"
+P_R = "1"
+P_HP = "0"
+P_BB = "1"
+P_SO = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"

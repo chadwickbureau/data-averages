@@ -1,0 +1,198 @@
+[[team]]
+name = "Klamath Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4443"
+B_R = "1039"
+B_H = "1332"
+B_TB = "1916"
+B_2B = "246"
+B_3B = "76"
+B_HR = "62"
+B_SH = "54"
+B_SB = "183"
+B_BB = "761"
+B_HP = "60"
+B_SO = "610"
+B_RBI = "859"
+B_LOB = "1085"
+B_AVG = ".300"
+
+
+[[team]]
+name = "Willows"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4478"
+B_R = "858"
+B_H = "1267"
+B_TB = "1879"
+B_2B = "229"
+B_3B = "34"
+B_HR = "105"
+B_SH = "57"
+B_SB = "150"
+B_BB = "574"
+B_HP = "52"
+B_SO = "735"
+B_RBI = "694"
+B_LOB = "1003"
+B_AVG = ".283"
+
+
+[[team]]
+name = "Vallejo"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "92"
+B_AB = "3320"
+B_R = "632"
+B_H = "925"
+B_TB = "1261"
+B_2B = "184"
+B_3B = "31"
+B_HR = "30"
+B_SH = "29"
+B_SB = "58"
+B_BB = "561"
+B_HP = "51"
+B_SO = "559"
+B_RBI = "515"
+B_LOB = "892"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Pittsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4490"
+B_R = "942"
+B_H = "1239"
+B_TB = "1907"
+B_2B = "201"
+B_3B = "49"
+B_HR = "123"
+B_SH = "60"
+B_SB = "112"
+B_BB = "742"
+B_HP = "61"
+B_SO = "787"
+B_RBI = "835"
+B_LOB = "1101"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Medford"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4407"
+B_R = "711"
+B_H = "1206"
+B_TB = "1702"
+B_2B = "178"
+B_3B = "69"
+B_HR = "60"
+B_SH = "47"
+B_SB = "86"
+B_BB = "646"
+B_HP = "37"
+B_SO = "730"
+B_RBI = "730"
+B_LOB = "1069"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Redding"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4511"
+B_R = "883"
+B_H = "1229"
+B_TB = "1785"
+B_2B = "193"
+B_3B = "33"
+B_HR = "99"
+B_SH = "39"
+B_SB = "126"
+B_BB = "768"
+B_HP = "43"
+B_SO = "792"
+B_RBI = "731"
+B_LOB = "1148"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Marysville"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4358"
+B_R = "823"
+B_H = "1183"
+B_TB = "1592"
+B_2B = "163"
+B_3B = "60"
+B_HR = "42"
+B_SH = "46"
+B_SB = "161"
+B_BB = "676"
+B_HP = "38"
+B_SO = "603"
+B_RBI = "662"
+B_LOB = "1011"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Santa Rosa"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+B_G = "92"
+B_AB = "3319"
+B_R = "596"
+B_H = "880"
+B_TB = "1171"
+B_2B = "136"
+B_3B = "25"
+B_HR = "35"
+B_SH = "31"
+B_SB = "76"
+B_BB = "487"
+B_HP = "45"
+B_SO = "615"
+B_RBI = "504"
+B_LOB = "809"
+B_AVG = ".265"

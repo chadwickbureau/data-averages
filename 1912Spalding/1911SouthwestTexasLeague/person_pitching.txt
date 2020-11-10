@@ -1,0 +1,835 @@
+[[person]]
+name.last = "Stubbs"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beeville"
+[person.playing.totals]
+P_G = "27"
+P_R = "63"
+P_H = "157"
+P_SO = "97"
+P_BB = "43"
+P_HP = "13"
+P_WP = "6"
+P_IP = "20.1"
+P_G_EI = "1"
+P_TO = "3"
+P_GF = "6"
+P_T = "1"
+P_W = "15"
+P_L = "5"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Hornbach"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bay City"
+[[person.playing.split]]
+team.name = "Brownsville"
+[person.playing.totals]
+P_G = "26"
+P_R = "55"
+P_H = "133"
+P_SO = "110"
+P_BB = "43"
+P_HP = "10"
+P_WP = "1"
+P_IP = "199.2"
+P_G_EI = "1"
+P_TO = "2"
+P_GF = "5"
+P_T = "0"
+P_W = "16"
+P_L = "6"
+P_PCT = ".727"
+
+
+[[person]]
+name.last = "Napier"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brownsville"
+[person.playing.totals]
+P_G = "35"
+P_R = "55"
+P_H = "173"
+P_SO = "213"
+P_BB = "48"
+P_HP = "5"
+P_WP = "5"
+P_IP = "242"
+P_G_EI = "4"
+P_TO = "1"
+P_GF = "10"
+P_T = "2"
+P_W = "17"
+P_L = "9"
+P_PCT = ".654"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beeville"
+[person.playing.totals]
+P_G = "30"
+P_R = "58"
+P_H = "152"
+P_SO = "195"
+P_BB = "41"
+P_HP = "9"
+P_WP = "11"
+P_IP = "224"
+P_G_EI = "2"
+P_TO = "5"
+P_GF = "2"
+P_T = "0"
+P_W = "15"
+P_L = "9"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Ramos"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Laredo"
+[person.playing.totals]
+P_G = "36"
+P_R = "87"
+P_H = "211"
+P_SO = "211"
+P_BB = "58"
+P_HP = "8"
+P_WP = "3"
+P_IP = "286"
+P_G_EI = "6"
+P_TO = "8"
+P_GF = "2"
+P_T = "2"
+P_W = "20"
+P_L = "14"
+P_PCT = ".588"
+
+
+[[person]]
+name.last = "Newmeyer"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bay City"
+[[person.playing.split]]
+team.name = "Corpus Christi"
+[person.playing.totals]
+P_G = "30"
+P_R = "63"
+P_H = "164"
+P_SO = "166"
+P_BB = "50"
+P_HP = "6"
+P_WP = "11"
+P_IP = "215.2"
+P_G_EI = "3"
+P_TO = "9"
+P_GF = "1"
+P_T = "1"
+P_W = "14"
+P_L = "10"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Galm"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "31"
+P_R = "72"
+P_H = "179"
+P_SO = "93"
+P_BB = "25"
+P_HP = "5"
+P_WP = "1"
+P_IP = "199"
+P_G_EI = "7"
+P_TO = "5"
+P_GF = "10"
+P_T = "0"
+P_W = "12"
+P_L = "9"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Carr"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Laredo"
+[person.playing.totals]
+P_G = "15"
+P_R = "55"
+P_H = "105"
+P_SO = "66"
+P_BB = "42"
+P_HP = "6"
+P_WP = "1"
+P_IP = "125.2"
+P_G_EI = "2"
+P_TO = "2"
+P_GF = "0"
+P_T = "0"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beeville"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "18"
+P_R = "48"
+P_H = "114"
+P_SO = "105"
+P_BB = "36"
+P_HP = "9"
+P_WP = "2"
+P_IP = "137.2"
+P_G_EI = "1"
+P_TO = "4"
+P_GF = "1"
+P_T = "0"
+P_W = "9"
+P_L = "7"
+P_PCT = ".563"
+
+
+[[person]]
+name.last = "Wehrman"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bay City"
+[person.playing.totals]
+P_G = "29"
+P_R = "69"
+P_H = "146"
+P_SO = "151"
+P_BB = "66"
+P_HP = "21"
+P_WP = "5"
+P_IP = "232.2"
+P_G_EI = "1"
+P_TO = "0"
+P_GF = "3"
+P_T = "2"
+P_W = "14"
+P_L = "11"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brownsville"
+[[person.playing.split]]
+team.name = "Beeville"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "24"
+P_R = "65"
+P_H = "139"
+P_SO = "146"
+P_BB = "50"
+P_HP = "21"
+P_WP = "5"
+P_IP = "188"
+P_G_EI = "5"
+P_TO = "8"
+P_GF = "0"
+P_T = "1"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Peebles"
+name.given = "S."
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brownsville"
+[person.playing.totals]
+P_G = "29"
+P_R = "65"
+P_H = "157"
+P_SO = "93"
+P_BB = "56"
+P_HP = "20"
+P_WP = "8"
+P_IP = "213.1"
+P_G_EI = "3"
+P_TO = "4"
+P_GF = "3"
+P_T = "1"
+P_W = "13"
+P_L = "11"
+P_PCT = ".542"
+
+
+[[person]]
+name.last = "Toner"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bay City"
+[person.playing.totals]
+P_G = "13"
+P_R = "28"
+P_H = "76"
+P_SO = "89"
+P_BB = "29"
+P_HP = "7"
+P_WP = "2"
+P_IP = "113.2"
+P_G_EI = "4"
+P_TO = "0"
+P_GF = "1"
+P_T = "0"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Wetzel"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corpus Christi"
+[[person.playing.split]]
+team.name = "Beeville"
+[person.playing.totals]
+P_G = "36"
+P_R = "96"
+P_H = "193"
+P_SO = "189"
+P_BB = "94"
+P_HP = "15"
+P_WP = "5"
+P_IP = "252"
+P_G_EI = "4"
+P_TO = "7"
+P_GF = "6"
+P_T = "0"
+P_W = "16"
+P_L = "14"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "McDowell"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beeville"
+[person.playing.totals]
+P_G = "22"
+P_R = "41"
+P_H = "117"
+P_SO = "88"
+P_BB = "54"
+P_HP = "8"
+P_WP = "4"
+P_IP = "152.2"
+P_G_EI = "3"
+P_TO = "5"
+P_GF = "5"
+P_T = "1"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Lowery"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "17"
+P_R = "51"
+P_H = "99"
+P_SO = "53"
+P_BB = "37"
+P_HP = "8"
+P_WP = "4"
+P_IP = "96.1"
+P_G_EI = "1"
+P_TO = "7"
+P_GF = "2"
+P_T = "0"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Fulton"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beeville"
+[person.playing.totals]
+P_G = "36"
+P_R = "79"
+P_H = "204"
+P_SO = "210"
+P_BB = "59"
+P_HP = "10"
+P_WP = "6"
+P_IP = "262.2"
+P_G_EI = "4"
+P_TO = "4"
+P_GF = "6"
+P_T = "1"
+P_W = "15"
+P_L = "16"
+P_PCT = ".484"
+
+
+[[person]]
+name.last = "Colgrove"
+name.given = "M."
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bay City"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "25"
+P_R = "61"
+P_H = "144"
+P_SO = "96"
+P_BB = "33"
+P_HP = "6"
+P_WP = "4"
+P_IP = "177.2"
+P_G_EI = "5"
+P_TO = "6"
+P_GF = "3"
+P_T = "0"
+P_W = "10"
+P_L = "12"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Gallia"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beeville"
+[[person.playing.split]]
+team.name = "Laredo"
+[person.playing.totals]
+P_G = "21"
+P_R = "53"
+P_H = "131"
+P_SO = "98"
+P_BB = "46"
+P_HP = "13"
+P_WP = "5"
+P_IP = "164.2"
+P_G_EI = "2"
+P_TO = "4"
+P_GF = "1"
+P_T = "0"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Wicker"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corpus Christi"
+[person.playing.totals]
+P_G = "25"
+P_R = "56"
+P_H = "148"
+P_SO = "94"
+P_BB = "33"
+P_HP = "9"
+P_WP = "3"
+P_IP = "192.2"
+P_G_EI = "1"
+P_TO = "3"
+P_GF = "5"
+P_T = "1"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Hellman"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brownsville"
+[person.playing.totals]
+P_G = "17"
+P_R = "37"
+P_H = "83"
+P_SO = "40"
+P_BB = "20"
+P_HP = "5"
+P_WP = "4"
+P_IP = "92.2"
+P_G_EI = "3"
+P_TO = "2"
+P_GF = "9"
+P_T = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Hickey"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bay City"
+[[person.playing.split]]
+team.name = "Brownsville"
+[[person.playing.split]]
+team.name = "Laredo"
+[person.playing.totals]
+P_G = "21"
+P_R = "80"
+P_H = "137"
+P_SO = "74"
+P_BB = "56"
+P_HP = "20"
+P_WP = "8"
+P_IP = "154.1"
+P_G_EI = "1"
+P_TO = "7"
+P_GF = "2"
+P_T = "0"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Gambrell"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Laredo"
+[person.playing.totals]
+P_G = "27"
+P_R = "82"
+P_H = "165"
+P_SO = "87"
+P_BB = "65"
+P_HP = "11"
+P_WP = "9"
+P_IP = "181.2"
+P_G_EI = "1"
+P_TO = "8"
+P_GF = "2"
+P_T = "1"
+P_W = "9"
+P_L = "12"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Topperwein"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Laredo"
+[person.playing.totals]
+P_G = "14"
+P_R = "48"
+P_H = "124"
+P_SO = "49"
+P_BB = "18"
+P_HP = "3"
+P_WP = "1"
+P_IP = "117"
+P_G_EI = "1"
+P_TO = "2"
+P_GF = "1"
+P_T = "0"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Rivard"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Beeville"
+[[person.playing.split]]
+team.name = "Brownsville"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "11"
+P_R = "22"
+P_H = "51"
+P_SO = "37"
+P_BB = "34"
+P_HP = "2"
+P_WP = "2"
+P_IP = "60.2"
+P_G_EI = "2"
+P_TO = "8"
+P_GF = "0"
+P_T = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Trigg"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corpus Christi"
+[person.playing.totals]
+P_G = "24"
+P_R = "47"
+P_H = "132"
+P_SO = "75"
+P_BB = "36"
+P_HP = "6"
+P_WP = "1"
+P_IP = "167.1"
+P_G_EI = "4"
+P_TO = "6"
+P_GF = "5"
+P_T = "0"
+P_W = "8"
+P_L = "12"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Lohman"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "13"
+P_R = "18"
+P_H = "60"
+P_SO = "62"
+P_BB = "13"
+P_HP = "1"
+P_WP = "3"
+P_IP = "107"
+P_G_EI = "2"
+P_TO = "1"
+P_GF = "4"
+P_T = "1"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Lape"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brownsville"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "23"
+P_R = "72"
+P_H = "160"
+P_SO = "86"
+P_BB = "58"
+P_HP = "11"
+P_WP = "9"
+P_IP = "170.1"
+P_G_EI = "1"
+P_TO = "6"
+P_GF = "0"
+P_T = "2"
+P_W = "7"
+P_L = "13"
+P_PCT = ".350"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bay City"
+[[person.playing.split]]
+team.name = "Corpus Christi"
+[person.playing.totals]
+P_G = "40"
+P_R = "99"
+P_H = "239"
+P_SO = "138"
+P_BB = "66"
+P_HP = "9"
+P_WP = "2"
+P_IP = "280.2"
+P_G_EI = "6"
+P_TO = "8"
+P_GF = "7"
+P_T = "2"
+P_W = "9"
+P_L = "21"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "McCormick"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Corpus Christi"
+[[person.playing.split]]
+team.name = "Victoria"
+[person.playing.totals]
+P_G = "26"
+P_R = "72"
+P_H = "135"
+P_SO = "82"
+P_BB = "45"
+P_HP = "4"
+P_WP = "4"
+P_IP = "151"
+P_G_EI = "0"
+P_TO = "7"
+P_GF = "7"
+P_T = "0"
+P_W = "5"
+P_L = "13"
+P_PCT = ".278"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1911"
+league.name = "Southwest Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Laredo"
+[person.playing.totals]
+P_G = "12"
+P_R = "23"
+P_H = "38"
+P_SO = "18"
+P_BB = "10"
+P_HP = "2"
+P_WP = "3"
+P_IP = "40"
+P_G_EI = "0"
+P_TO = "0"
+P_GF = "12"
+P_T = "0"
+P_W = "0"
+P_L = "0"

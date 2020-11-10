@@ -1,0 +1,110 @@
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3008"
+F_A = "1583"
+F_E = "203"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3097"
+F_A = "1520"
+F_E = "232"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "114"
+F_PO = "2897"
+F_A = "1508"
+F_E = "236"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "3121"
+F_A = "1545"
+F_E = "254"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3023"
+F_A = "1695"
+F_E = "266"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_PO = "2864"
+F_A = "1514"
+F_E = "250"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "2982"
+F_A = "1552"
+F_E = "296"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Fitchburg"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "2872"
+F_A = "1483"
+F_E = "289"
+F_PCT = ".938"

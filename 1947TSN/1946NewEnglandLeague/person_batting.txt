@@ -1,0 +1,6270 @@
+[[person]]
+name.last = "Ruthko"
+name.given = "Fred."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "14"
+B_AB = "31"
+B_R = "1"
+B_H = "13"
+B_TB = "18"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "1"
+B_AVG = ".419"
+
+
+[[person]]
+name.last = "McNamara"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "11"
+B_AB = "10"
+B_R = "1"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "3"
+B_AVG = ".400"
+
+
+[[person]]
+name.last = "Cyr"
+name.given = "Wallace"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+B_G = "16"
+[[person.playing.split]]
+team.name = "Fall River"
+B_G = "5"
+[person.playing.totals]
+B_G = "21"
+B_AB = "22"
+B_R = "4"
+B_H = "8"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "5"
+B_AVG = ".364"
+
+
+[[person]]
+name.last = "Hanlon"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "19"
+B_AB = "58"
+B_R = "10"
+B_H = "21"
+B_TB = "36"
+B_2B = "5"
+B_3B = "2"
+B_HR = "2"
+B_SH = "2"
+B_SB = "1"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "4"
+B_AVG = ".362"
+
+
+[[person]]
+name.last = "VanEman"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "45"
+B_AB = "155"
+B_R = "32"
+B_H = "56"
+B_TB = "87"
+B_2B = "5"
+B_3B = "4"
+B_HR = "6"
+B_SH = "4"
+B_SB = "3"
+B_BB = "17"
+B_HP = "4"
+B_RBI = "30"
+B_SO = "32"
+B_AVG = ".361"
+
+
+[[person]]
+name.last = "Mozzali"
+name.given = "Maurice"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "113"
+B_AB = "419"
+B_R = "104"
+B_H = "149"
+B_TB = "247"
+B_2B = "21"
+B_3B = "10"
+B_HR = "19"
+B_SH = "6"
+B_SB = "15"
+B_BB = "64"
+B_HP = "4"
+B_RBI = "118"
+B_SO = "36"
+B_AVG = ".356"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "King"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "25"
+B_AB = "61"
+B_R = "19"
+B_H = "21"
+B_TB = "28"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "2"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "22"
+B_SO = "8"
+B_AVG = ".344"
+
+
+[[person]]
+name.last = "Sperry"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "121"
+B_AB = "512"
+B_R = "109"
+B_H = "175"
+B_TB = "262"
+B_2B = "26"
+B_3B = "14"
+B_HR = "11"
+B_SH = "15"
+B_SB = "13"
+B_BB = "33"
+B_HP = "1"
+B_RBI = "83"
+B_SO = "35"
+B_AVG = ".342"
+
+
+[[person]]
+name.last = "Siok"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "91"
+B_AB = "330"
+B_R = "53"
+B_H = "113"
+B_TB = "172"
+B_2B = "17"
+B_3B = "3"
+B_HR = "12"
+B_SH = "0"
+B_SB = "5"
+B_BB = "17"
+B_HP = "3"
+B_RBI = "76"
+B_SO = "26"
+B_AVG = ".342"
+
+
+[[person]]
+name.last = "Coughlin"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "122"
+B_AB = "504"
+B_R = "71"
+B_H = "172"
+B_TB = "207"
+B_2B = "22"
+B_3B = "5"
+B_HR = "1"
+B_SH = "4"
+B_SB = "8"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "56"
+B_SO = "24"
+B_AVG = ".341"
+
+
+[[person]]
+name.last = "Finfrock"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "18"
+B_AB = "74"
+B_R = "13"
+B_H = "25"
+B_TB = "36"
+B_2B = "5"
+B_3B = "0"
+B_HR = "2"
+B_SH = "1"
+B_SB = "3"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "8"
+B_AVG = ".338"
+
+
+[[person]]
+name.last = "Batts"
+name.given = "Matthew"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "98"
+B_AB = "359"
+B_R = "56"
+B_H = "121"
+B_TB = "188"
+B_2B = "17"
+B_3B = "7"
+B_HR = "12"
+B_SH = "1"
+B_SB = "3"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "86"
+B_SO = "34"
+B_AVG = ".337"
+
+
+[[person]]
+name.last = "Tuminelli"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+B_G = "5"
+[[person.playing.split]]
+team.name = "Portland"
+B_G = "46"
+[person.playing.totals]
+B_G = "51"
+B_AB = "176"
+B_R = "31"
+B_H = "59"
+B_TB = "91"
+B_2B = "13"
+B_3B = "2"
+B_HR = "5"
+B_SH = "3"
+B_SB = "3"
+B_BB = "10"
+B_HP = "2"
+B_RBI = "17"
+B_SO = "11"
+B_AVG = ".335"
+
+
+[[person]]
+name.last = "Raczka"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "68"
+B_AB = "216"
+B_R = "31"
+B_H = "72"
+B_TB = "90"
+B_2B = "10"
+B_3B = "4"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "19"
+B_HP = "3"
+B_RBI = "34"
+B_SO = "26"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "McDonald"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "15"
+B_AB = "36"
+B_R = "11"
+B_H = "12"
+B_TB = "17"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "11"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Blake"
+name.given = "Clifford"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "114"
+B_AB = "450"
+B_R = "64"
+B_H = "149"
+B_TB = "219"
+B_2B = "26"
+B_3B = "4"
+B_HR = "12"
+B_SH = "5"
+B_SB = "7"
+B_BB = "32"
+B_HP = "2"
+B_RBI = "81"
+B_SO = "42"
+B_AVG = ".331"
+
+
+[[person]]
+name.last = "Kosinski"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "49"
+B_AB = "178"
+B_R = "33"
+B_H = "59"
+B_TB = "83"
+B_2B = "6"
+B_3B = "3"
+B_HR = "4"
+B_SH = "4"
+B_SB = "2"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "35"
+B_SO = "22"
+B_AVG = ".331"
+
+
+[[person]]
+name.last = "Kadis"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "29"
+B_AB = "100"
+B_R = "24"
+B_H = "33"
+B_TB = "53"
+B_2B = "4"
+B_3B = "2"
+B_HR = "4"
+B_SH = "2"
+B_SB = "0"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "23"
+B_SO = "17"
+B_AVG = ".330"
+
+
+[[person]]
+name.last = "Clifton"
+name.given = "Henry"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "104"
+B_AB = "413"
+B_R = "95"
+B_H = "136"
+B_TB = "184"
+B_2B = "18"
+B_3B = "3"
+B_HR = "8"
+B_SH = "11"
+B_SB = "1"
+B_BB = "32"
+B_HP = "11"
+B_RBI = "54"
+B_SO = "21"
+B_AVG = ".329"
+
+
+[[person]]
+name.last = "Cearley"
+name.given = "Wilbur"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "110"
+B_AB = "405"
+B_R = "75"
+B_H = "132"
+B_TB = "203"
+B_2B = "21"
+B_3B = "7"
+B_HR = "12"
+B_SH = "3"
+B_SB = "6"
+B_BB = "41"
+B_HP = "0"
+B_RBI = "55"
+B_SO = "39"
+B_AVG = ".326"
+
+
+[[person]]
+name.last = "Suss"
+name.given = "Alexander"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "124"
+B_AB = "456"
+B_R = "94"
+B_H = "148"
+B_TB = "204"
+B_2B = "27"
+B_3B = "4"
+B_HR = "7"
+B_SH = "10"
+B_SB = "10"
+B_BB = "61"
+B_HP = "3"
+B_RBI = "80"
+B_SO = "34"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Eastham"
+name.given = "Leo"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "89"
+B_AB = "338"
+B_R = "58"
+B_H = "110"
+B_TB = "188"
+B_2B = "19"
+B_3B = "4"
+B_HR = "17"
+B_SH = "5"
+B_SB = "15"
+B_BB = "46"
+B_HP = "0"
+B_RBI = "59"
+B_SO = "38"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Sommers"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "121"
+B_AB = "444"
+B_R = "84"
+B_H = "144"
+B_TB = "182"
+B_2B = "12"
+B_3B = "4"
+B_HR = "6"
+B_SH = "10"
+B_SB = "10"
+B_BB = "53"
+B_HP = "5"
+B_RBI = "62"
+B_SO = "17"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "Cote"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "111"
+B_AB = "391"
+B_R = "63"
+B_H = "125"
+B_TB = "175"
+B_2B = "20"
+B_3B = "0"
+B_HR = "10"
+B_SH = "8"
+B_SB = "3"
+B_BB = "49"
+B_HP = "2"
+B_RBI = "75"
+B_SO = "27"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Yvars"
+name.given = "Sal."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "73"
+B_AB = "220"
+B_R = "41"
+B_H = "70"
+B_TB = "118"
+B_2B = "12"
+B_3B = "6"
+B_HR = "8"
+B_SH = "2"
+B_SB = "2"
+B_BB = "36"
+B_HP = "7"
+B_RBI = "54"
+B_SO = "37"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Gruber"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "17"
+B_AB = "44"
+B_R = "11"
+B_H = "14"
+B_TB = "19"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "5"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Kunde"
+name.given = "Arthur"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "13"
+B_AB = "44"
+B_R = "7"
+B_H = "14"
+B_TB = "22"
+B_2B = "2"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "3"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "5"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Stillman"
+name.given = "Ronald"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "10"
+B_AB = "22"
+B_R = "2"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "2"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Boyce"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "105"
+B_AB = "439"
+B_R = "86"
+B_H = "139"
+B_TB = "185"
+B_2B = "28"
+B_3B = "6"
+B_HR = "3"
+B_SH = "2"
+B_SB = "24"
+B_BB = "21"
+B_HP = "1"
+B_RBI = "50"
+B_SO = "26"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Lynk"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "111"
+B_AB = "423"
+B_R = "74"
+B_H = "132"
+B_TB = "188"
+B_2B = "14"
+B_3B = "6"
+B_HR = "10"
+B_SH = "8"
+B_SB = "4"
+B_BB = "34"
+B_HP = "3"
+B_RBI = "77"
+B_SO = "70"
+B_AVG = ".312"
+
+
+[[person]]
+name.last = "Newcombe"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "43"
+B_AB = "74"
+B_R = "10"
+B_H = "23"
+B_TB = "40"
+B_2B = "5"
+B_3B = "3"
+B_HR = "2"
+B_SH = "0"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "11"
+B_AVG = ".311"
+
+
+[[person]]
+name.last = "Detzel"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "122"
+B_AB = "464"
+B_R = "77"
+B_H = "143"
+B_TB = "186"
+B_2B = "27"
+B_3B = "5"
+B_HR = "2"
+B_SH = "9"
+B_SB = "22"
+B_BB = "54"
+B_HP = "2"
+B_RBI = "50"
+B_SO = "50"
+B_AVG = ".309"
+
+
+[[person]]
+name.last = "DiBlasi"
+name.given = "Samuel"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "107"
+B_AB = "386"
+B_R = "67"
+B_H = "118"
+B_TB = "176"
+B_2B = "20"
+B_3B = "10"
+B_HR = "6"
+B_SH = "3"
+B_SB = "2"
+B_BB = "53"
+B_HP = "4"
+B_RBI = "51"
+B_SO = "28"
+B_AVG = ".306"
+
+
+[[person]]
+name.last = "Mahan"
+name.given = "Arthur"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "106"
+B_AB = "357"
+B_R = "62"
+B_H = "109"
+B_TB = "164"
+B_2B = "13"
+B_3B = "6"
+B_HR = "10"
+B_SH = "2"
+B_SB = "2"
+B_BB = "48"
+B_HP = "8"
+B_RBI = "76"
+B_SO = "46"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "O'Neil"
+name.given = "Paul"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "44"
+B_AB = "141"
+B_R = "26"
+B_H = "43"
+B_TB = "57"
+B_2B = "5"
+B_3B = "0"
+B_HR = "3"
+B_SH = "2"
+B_SB = "0"
+B_BB = "20"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "14"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "Tetreault"
+name.given = "Victor"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "62"
+B_AB = "204"
+B_R = "34"
+B_H = "62"
+B_TB = "87"
+B_2B = "8"
+B_3B = "1"
+B_HR = "5"
+B_SH = "4"
+B_SB = "2"
+B_BB = "21"
+B_HP = "4"
+B_RBI = "43"
+B_SO = "31"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Mills"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "103"
+B_AB = "380"
+B_R = "70"
+B_H = "115"
+B_TB = "157"
+B_2B = "25"
+B_3B = "4"
+B_HR = "3"
+B_SH = "1"
+B_SB = "9"
+B_BB = "45"
+B_HP = "7"
+B_RBI = "58"
+B_SO = "41"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Galipeau"
+name.given = "Oscar"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "84"
+B_AB = "290"
+B_R = "42"
+B_H = "87"
+B_TB = "135"
+B_2B = "15"
+B_3B = "3"
+B_HR = "9"
+B_SH = "2"
+B_SB = "0"
+B_BB = "23"
+B_HP = "0"
+B_RBI = "58"
+B_SO = "34"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Lucier"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "15"
+B_AB = "20"
+B_R = "5"
+B_H = "6"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "1"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Laurence"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "113"
+B_AB = "440"
+B_R = "78"
+B_H = "131"
+B_TB = "215"
+B_2B = "23"
+B_3B = "2"
+B_HR = "19"
+B_SH = "5"
+B_SB = "1"
+B_BB = "4"
+B_HP = "3"
+B_RBI = "94"
+B_SO = "23"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Daunt"
+name.given = "Jerome"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "70"
+B_AB = "248"
+B_R = "34"
+B_H = "74"
+B_TB = "114"
+B_2B = "10"
+B_3B = "6"
+B_HR = "6"
+B_SH = "3"
+B_SB = "1"
+B_BB = "23"
+B_HP = "3"
+B_RBI = "36"
+B_SO = "27"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Nafie"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "114"
+B_AB = "394"
+B_R = "70"
+B_H = "117"
+B_TB = "164"
+B_2B = "15"
+B_3B = "7"
+B_HR = "6"
+B_SH = "6"
+B_SB = "7"
+B_BB = "52"
+B_HP = "4"
+B_RBI = "60"
+B_SO = "35"
+B_AVG = ".297"
+
+
+[[person]]
+name.last = "Belanger"
+name.given = "Lucien"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "117"
+B_AB = "439"
+B_R = "77"
+B_H = "130"
+B_TB = "235"
+B_2B = "27"
+B_3B = "6"
+B_HR = "22"
+B_SH = "4"
+B_SB = "4"
+B_BB = "40"
+B_HP = "16"
+B_RBI = "77"
+B_SO = "41"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Piano"
+name.given = "Ray."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "88"
+B_AB = "316"
+B_R = "77"
+B_H = "93"
+B_TB = "145"
+B_2B = "11"
+B_3B = "7"
+B_HR = "9"
+B_SH = "8"
+B_SB = "9"
+B_BB = "66"
+B_HP = "6"
+B_RBI = "56"
+B_SO = "50"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Sevalen"
+name.given = "Nicholas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "17"
+B_AB = "34"
+B_R = "8"
+B_H = "10"
+B_TB = "13"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Dahlberg"
+name.given = "Clinton"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "97"
+B_AB = "328"
+B_R = "72"
+B_H = "96"
+B_TB = "166"
+B_2B = "6"
+B_3B = "8"
+B_HR = "16"
+B_SH = "1"
+B_SB = "1"
+B_BB = "56"
+B_HP = "3"
+B_RBI = "88"
+B_SO = "33"
+B_AVG = ".293"
+
+
+[[person]]
+name.last = "Langworthy"
+name.given = "Jos."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "85"
+B_AB = "274"
+B_R = "46"
+B_H = "80"
+B_TB = "116"
+B_2B = "6"
+B_3B = "3"
+B_HR = "8"
+B_SH = "3"
+B_SB = "7"
+B_BB = "31"
+B_HP = "1"
+B_RBI = "57"
+B_SO = "11"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Fox"
+name.given = "Douglas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "61"
+B_AB = "168"
+B_R = "26"
+B_H = "49"
+B_TB = "61"
+B_2B = "5"
+B_3B = "2"
+B_HR = "1"
+B_SH = "1"
+B_SB = "3"
+B_BB = "21"
+B_HP = "2"
+B_RBI = "22"
+B_SO = "23"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Campanella"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "113"
+B_AB = "396"
+B_R = "75"
+B_H = "115"
+B_TB = "189"
+B_2B = "19"
+B_3B = "8"
+B_HR = "13"
+B_SH = "5"
+B_SB = "16"
+B_BB = "64"
+B_HP = "3"
+B_RBI = "96"
+B_SO = "28"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Gallagher"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "60"
+B_AB = "207"
+B_R = "42"
+B_H = "60"
+B_TB = "96"
+B_2B = "9"
+B_3B = "3"
+B_HR = "7"
+B_SH = "2"
+B_SB = "7"
+B_BB = "36"
+B_HP = "2"
+B_RBI = "38"
+B_SO = "28"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Pullane"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "83"
+B_AB = "277"
+B_R = "30"
+B_H = "80"
+B_TB = "99"
+B_2B = "12"
+B_3B = "2"
+B_HR = "1"
+B_SH = "5"
+B_SB = "3"
+B_BB = "21"
+B_HP = "0"
+B_RBI = "37"
+B_SO = "11"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "119"
+B_AB = "403"
+B_R = "67"
+B_H = "116"
+B_TB = "152"
+B_2B = "8"
+B_3B = "5"
+B_HR = "6"
+B_SH = "11"
+B_SB = "10"
+B_BB = "72"
+B_HP = "3"
+B_RBI = "64"
+B_SO = "32"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Kellogg"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "75"
+B_AB = "260"
+B_R = "42"
+B_H = "75"
+B_TB = "112"
+B_2B = "15"
+B_3B = "2"
+B_HR = "6"
+B_SH = "5"
+B_SB = "3"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "40"
+B_SO = "35"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Kaney"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "108"
+B_AB = "380"
+B_R = "50"
+B_H = "109"
+B_TB = "147"
+B_2B = "9"
+B_3B = "4"
+B_HR = "7"
+B_SH = "5"
+B_SB = "2"
+B_BB = "26"
+B_HP = "0"
+B_RBI = "54"
+B_SO = "42"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Jusczyk"
+name.given = "Edmund"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "14"
+B_AB = "42"
+B_R = "8"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "7"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Hudson"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "115"
+B_AB = "438"
+B_R = "79"
+B_H = "125"
+B_TB = "200"
+B_2B = "26"
+B_3B = "5"
+B_HR = "13"
+B_SH = "6"
+B_SB = "4"
+B_BB = "32"
+B_HP = "2"
+B_RBI = "73"
+B_SO = "60"
+B_AVG = ".285"
+
+
+[[person]]
+name.last = "Wood"
+name.given = "Stephen"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "22"
+B_AB = "60"
+B_R = "6"
+B_H = "17"
+B_TB = "23"
+B_2B = "0"
+B_3B = "0"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "19"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Spangler"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "48"
+B_AB = "174"
+B_R = "31"
+B_H = "49"
+B_TB = "69"
+B_2B = "14"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "2"
+B_BB = "22"
+B_HP = "2"
+B_RBI = "12"
+B_SO = "24"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Kissell"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "117"
+B_AB = "455"
+B_R = "88"
+B_H = "128"
+B_TB = "177"
+B_2B = "19"
+B_3B = "3"
+B_HR = "8"
+B_SH = "9"
+B_SB = "21"
+B_BB = "71"
+B_HP = "0"
+B_RBI = "66"
+B_SO = "17"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Hardin"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "90"
+B_AB = "335"
+B_R = "77"
+B_H = "94"
+B_TB = "129"
+B_2B = "17"
+B_3B = "3"
+B_HR = "4"
+B_SH = "6"
+B_SB = "12"
+B_BB = "44"
+B_HP = "4"
+B_RBI = "32"
+B_SO = "36"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Nahigian"
+name.given = "Alex."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "103"
+B_AB = "329"
+B_R = "46"
+B_H = "92"
+B_TB = "114"
+B_2B = "10"
+B_3B = "6"
+B_HR = "0"
+B_SH = "5"
+B_SB = "8"
+B_BB = "44"
+B_HP = "1"
+B_RBI = "37"
+B_SO = "37"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Rutkay"
+name.given = "Gary"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "10"
+B_AB = "25"
+B_R = "3"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "3"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Maloney"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "88"
+B_AB = "292"
+B_R = "48"
+B_H = "81"
+B_TB = "125"
+B_2B = "9"
+B_3B = "10"
+B_HR = "5"
+B_SH = "6"
+B_SB = "4"
+B_BB = "54"
+B_HP = "0"
+B_RBI = "42"
+B_SO = "42"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Dennis"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "83"
+B_AB = "276"
+B_R = "24"
+B_H = "76"
+B_TB = "100"
+B_2B = "12"
+B_3B = "0"
+B_HR = "4"
+B_SH = "3"
+B_SB = "2"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "30"
+B_SO = "34"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Mackay"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "25"
+B_AB = "69"
+B_R = "14"
+B_H = "19"
+B_TB = "25"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "6"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Lipka"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "116"
+B_AB = "409"
+B_R = "51"
+B_H = "112"
+B_TB = "140"
+B_2B = "11"
+B_3B = "7"
+B_HR = "1"
+B_SH = "8"
+B_SB = "6"
+B_BB = "36"
+B_HP = "1"
+B_RBI = "60"
+B_SO = "22"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Ross"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "105"
+B_AB = "405"
+B_R = "45"
+B_H = "110"
+B_TB = "153"
+B_2B = "23"
+B_3B = "4"
+B_HR = "4"
+B_SH = "7"
+B_SB = "6"
+B_BB = "29"
+B_HP = "2"
+B_RBI = "60"
+B_SO = "43"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Gaulin"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "119"
+B_AB = "425"
+B_R = "72"
+B_H = "115"
+B_TB = "157"
+B_2B = "19"
+B_3B = "4"
+B_HR = "5"
+B_SH = "10"
+B_SB = "14"
+B_BB = "49"
+B_HP = "8"
+B_RBI = "55"
+B_SO = "18"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Skladany"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "71"
+B_AB = "270"
+B_R = "50"
+B_H = "72"
+B_TB = "98"
+B_2B = "12"
+B_3B = "1"
+B_HR = "4"
+B_SH = "0"
+B_SB = "1"
+B_BB = "33"
+B_HP = "2"
+B_RBI = "25"
+B_SO = "22"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Haack"
+name.given = "Howard"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "28"
+B_AB = "86"
+B_R = "17"
+B_H = "23"
+B_TB = "31"
+B_2B = "8"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "8"
+B_HP = "2"
+B_RBI = "9"
+B_SO = "11"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Cress"
+name.given = "Walker"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "35"
+B_AB = "75"
+B_R = "13"
+B_H = "20"
+B_TB = "30"
+B_2B = "3"
+B_3B = "2"
+B_HR = "1"
+B_SH = "5"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "14"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Ayvazian"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+B_G = "46"
+[[person.playing.split]]
+team.name = "Manchester"
+B_G = "36"
+[person.playing.totals]
+B_G = "85"
+B_AB = "316"
+B_R = "45"
+B_H = "84"
+B_TB = "120"
+B_2B = "10"
+B_3B = "4"
+B_HR = "6"
+B_SH = "10"
+B_SB = "2"
+B_BB = "50"
+B_HP = "0"
+B_RBI = "30"
+B_SO = "30"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Ballard"
+name.given = "Peter"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "89"
+B_AB = "229"
+B_R = "22"
+B_H = "61"
+B_TB = "85"
+B_2B = "9"
+B_3B = "3"
+B_HR = "3"
+B_SH = "0"
+B_SB = "0"
+B_BB = "23"
+B_HP = "2"
+B_RBI = "30"
+B_SO = "17"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Therrian"
+name.given = "Kenneth"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "101"
+B_AB = "337"
+B_R = "50"
+B_H = "89"
+B_TB = "108"
+B_2B = "10"
+B_3B = "3"
+B_HR = "1"
+B_SH = "6"
+B_SB = "5"
+B_BB = "36"
+B_HP = "3"
+B_RBI = "22"
+B_SO = "30"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Shepard"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "31"
+B_AB = "53"
+B_R = "7"
+B_H = "14"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "16"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Yaeger"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "119"
+B_AB = "429"
+B_R = "87"
+B_H = "113"
+B_TB = "160"
+B_2B = "15"
+B_3B = "7"
+B_HR = "6"
+B_SH = "13"
+B_SB = "13"
+B_BB = "83"
+B_HP = "2"
+B_RBI = "48"
+B_SO = "73"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Alston"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "50"
+B_AB = "165"
+B_R = "21"
+B_H = "43"
+B_TB = "66"
+B_2B = "5"
+B_3B = "6"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "17"
+B_HP = "0"
+B_RBI = "30"
+B_SO = "14"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Dugas"
+name.given = "Augustine"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "16"
+B_AB = "50"
+B_R = "12"
+B_H = "13"
+B_TB = "21"
+B_2B = "2"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "0"
+B_BB = "12"
+B_HP = "2"
+B_RBI = "13"
+B_SO = "9"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Gentile"
+name.given = "Samuel"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "84"
+B_AB = "301"
+B_R = "34"
+B_H = "78"
+B_TB = "114"
+B_2B = "16"
+B_3B = "7"
+B_HR = "2"
+B_SH = "5"
+B_SB = "11"
+B_BB = "24"
+B_HP = "3"
+B_RBI = "26"
+B_SO = "14"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Passero"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "50"
+B_AB = "166"
+B_R = "38"
+B_H = "43"
+B_TB = "61"
+B_2B = "7"
+B_3B = "1"
+B_HR = "3"
+B_SH = "3"
+B_SB = "2"
+B_BB = "54"
+B_HP = "4"
+B_RBI = "13"
+B_SO = "27"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Hersey"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "52"
+B_AB = "129"
+B_R = "18"
+B_H = "33"
+B_TB = "39"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "5"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "McNamara"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "78"
+B_AB = "291"
+B_R = "35"
+B_H = "74"
+B_TB = "91"
+B_2B = "15"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "4"
+B_BB = "40"
+B_HP = "2"
+B_RBI = "21"
+B_SO = "52"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Bezemes"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "65"
+B_AB = "248"
+B_R = "47"
+B_H = "63"
+B_TB = "110"
+B_2B = "12"
+B_3B = "4"
+B_HR = "9"
+B_SH = "4"
+B_SB = "5"
+B_BB = "19"
+B_HP = "1"
+B_RBI = "38"
+B_SO = "57"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Lombardi"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "20"
+B_AB = "63"
+B_R = "7"
+B_H = "16"
+B_TB = "22"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "18"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Forys"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "33"
+B_AB = "59"
+B_R = "3"
+B_H = "15"
+B_TB = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "5"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Wood"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "108"
+B_AB = "349"
+B_R = "56"
+B_H = "88"
+B_TB = "116"
+B_2B = "10"
+B_3B = "6"
+B_HR = "2"
+B_SH = "9"
+B_SB = "4"
+B_BB = "67"
+B_HP = "8"
+B_RBI = "43"
+B_SO = "45"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Lancellotti"
+name.given = "Lugo"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+B_G = "25"
+[[person.playing.split]]
+team.name = "Fall River"
+B_G = "54"
+[person.playing.totals]
+B_G = "79"
+B_AB = "254"
+B_R = "29"
+B_H = "64"
+B_TB = "77"
+B_2B = "13"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "1"
+B_BB = "31"
+B_HP = "1"
+B_RBI = "30"
+B_SO = "30"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Azzone"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "66"
+B_AB = "222"
+B_R = "24"
+B_H = "56"
+B_TB = "66"
+B_2B = "5"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "0"
+B_BB = "22"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "11"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Bailey"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "61"
+B_AB = "203"
+B_R = "21"
+B_H = "51"
+B_TB = "68"
+B_2B = "5"
+B_3B = "0"
+B_HR = "4"
+B_SH = "2"
+B_SB = "4"
+B_BB = "16"
+B_HP = "6"
+B_RBI = "21"
+B_SO = "23"
+B_AVG = ".251"
+
+
+[[person]]
+name.last = "Cain"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "25"
+B_AB = "60"
+B_R = "11"
+B_H = "15"
+B_TB = "15"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Osmanski"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "13"
+B_AB = "36"
+B_R = "4"
+B_H = "9"
+B_TB = "15"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "9"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Yankowski"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "115"
+B_AB = "410"
+B_R = "43"
+B_H = "102"
+B_TB = "144"
+B_2B = "13"
+B_3B = "10"
+B_HR = "3"
+B_SH = "6"
+B_SB = "8"
+B_BB = "30"
+B_HP = "4"
+B_RBI = "49"
+B_SO = "28"
+B_AVG = ".249"
+
+
+[[person]]
+name.last = "Kelliher"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "110"
+B_AB = "408"
+B_R = "51"
+B_H = "101"
+B_TB = "136"
+B_2B = "15"
+B_3B = "4"
+B_HR = "4"
+B_SH = "9"
+B_SB = "5"
+B_BB = "53"
+B_HP = "2"
+B_RBI = "48"
+B_SO = "51"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Marshall"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "33"
+B_AB = "57"
+B_R = "13"
+B_H = "14"
+B_TB = "16"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Porter"
+name.given = "Harvey"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "100"
+B_AB = "373"
+B_R = "56"
+B_H = "91"
+B_TB = "134"
+B_2B = "15"
+B_3B = "5"
+B_HR = "6"
+B_SH = "4"
+B_SB = "8"
+B_BB = "42"
+B_HP = "3"
+B_RBI = "38"
+B_SO = "81"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Mulcahy"
+name.given = "Kelvin"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+B_G = "13"
+[[person.playing.split]]
+team.name = "Portland"
+B_G = "24"
+[person.playing.totals]
+B_G = "37"
+B_AB = "127"
+B_R = "16"
+B_H = "31"
+B_TB = "35"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "24"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "DeMars"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "98"
+B_AB = "321"
+B_R = "43"
+B_H = "76"
+B_TB = "104"
+B_2B = "9"
+B_3B = "8"
+B_HR = "1"
+B_SH = "9"
+B_SB = "4"
+B_BB = "42"
+B_HP = "5"
+B_RBI = "42"
+B_SO = "26"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Carrio"
+name.given = "Al."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "53"
+B_AB = "173"
+B_R = "18"
+B_H = "41"
+B_TB = "46"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "11"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "13"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Wright"
+name.given = "Roger"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "28"
+B_AB = "72"
+B_R = "12"
+B_H = "17"
+B_TB = "20"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "5"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Talcott"
+name.given = "Roy."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "14"
+B_AB = "34"
+B_R = "6"
+B_H = "8"
+B_TB = "12"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "9"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Fallon"
+name.given = "Stephen"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "34"
+B_AB = "64"
+B_R = "5"
+B_H = "15"
+B_TB = "15"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".234"
+
+
+[[person]]
+name.last = "Chiros"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "33"
+B_AB = "86"
+B_R = "8"
+B_H = "20"
+B_TB = "30"
+B_2B = "7"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "9"
+B_HP = "2"
+B_RBI = "13"
+B_SO = "23"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Sexton"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "19"
+B_AB = "30"
+B_R = "4"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Archambeault"
+name.given = "Lawrence"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "70"
+B_AB = "242"
+B_R = "26"
+B_H = "56"
+B_TB = "80"
+B_2B = "7"
+B_3B = "1"
+B_HR = "5"
+B_SH = "3"
+B_SB = "0"
+B_BB = "12"
+B_HP = "1"
+B_RBI = "26"
+B_SO = "37"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "25"
+B_AB = "39"
+B_R = "4"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "9"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Loconto"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "11"
+B_AB = "13"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Fox"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "71"
+B_AB = "226"
+B_R = "20"
+B_H = "52"
+B_TB = "66"
+B_2B = "9"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_BB = "31"
+B_HP = "1"
+B_RBI = "23"
+B_SO = "24"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Sills"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "106"
+B_AB = "354"
+B_R = "48"
+B_H = "81"
+B_TB = "115"
+B_2B = "13"
+B_3B = "0"
+B_HR = "7"
+B_SH = "7"
+B_SB = "3"
+B_BB = "50"
+B_HP = "7"
+B_RBI = "43"
+B_SO = "28"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Kennedy"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+B_G = "2"
+[[person.playing.split]]
+team.name = "Lynn"
+B_G = "23"
+[person.playing.totals]
+B_G = "25"
+B_AB = "48"
+B_R = "5"
+B_H = "11"
+B_TB = "14"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "7"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Cariglia"
+name.given = "Nicholas"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "71"
+B_AB = "197"
+B_R = "41"
+B_H = "45"
+B_TB = "64"
+B_2B = "3"
+B_3B = "2"
+B_HR = "4"
+B_SH = "5"
+B_SB = "4"
+B_BB = "57"
+B_HP = "2"
+B_RBI = "21"
+B_SO = "30"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Zagami"
+name.given = "Jose"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+B_G = "69"
+[[person.playing.split]]
+team.name = "Providence"
+B_G = "12"
+[person.playing.totals]
+B_G = "81"
+B_AB = "271"
+B_R = "21"
+B_H = "61"
+B_TB = "82"
+B_2B = "13"
+B_3B = "1"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "41"
+B_HP = "1"
+B_RBI = "29"
+B_SO = "35"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Thayer"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "18"
+B_AB = "63"
+B_R = "5"
+B_H = "14"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "6"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Chlebeck"
+name.given = "Andrew"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "34"
+B_AB = "118"
+B_R = "14"
+B_H = "26"
+B_TB = "42"
+B_2B = "7"
+B_3B = "3"
+B_HR = "1"
+B_SH = "0"
+B_SB = "2"
+B_BB = "9"
+B_HP = "4"
+B_RBI = "10"
+B_SO = "23"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "McIrvin"
+name.given = "Calvin"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "46"
+B_AB = "82"
+B_R = "5"
+B_H = "18"
+B_TB = "23"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "7"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Buckley"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "37"
+B_AB = "106"
+B_R = "10"
+B_H = "23"
+B_TB = "27"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "14"
+B_AVG = ".217"
+
+
+[[person]]
+name.last = "DiMuccia"
+name.given = "Ralph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "17"
+B_AB = "51"
+B_R = "11"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "11"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Strollo"
+name.given = "Albino"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "35"
+B_AB = "107"
+B_R = "12"
+B_H = "23"
+B_TB = "33"
+B_2B = "2"
+B_3B = "1"
+B_HR = "2"
+B_SH = "1"
+B_SB = "1"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "26"
+B_AVG = ".215"
+
+
+[[person]]
+name.last = "Lee"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "32"
+B_AB = "94"
+B_R = "15"
+B_H = "20"
+B_TB = "20"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "21"
+B_HP = "2"
+B_RBI = "3"
+B_SO = "11"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Bullwinkel"
+name.given = "Robt."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "26"
+B_AB = "47"
+B_R = "3"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "11"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Hawkins"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "111"
+B_AB = "375"
+B_R = "44"
+B_H = "79"
+B_TB = "90"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SH = "6"
+B_SB = "6"
+B_BB = "38"
+B_HP = "1"
+B_RBI = "16"
+B_SO = "65"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Archer"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "59"
+B_AB = "161"
+B_R = "17"
+B_H = "34"
+B_TB = "52"
+B_2B = "7"
+B_3B = "1"
+B_HR = "3"
+B_SH = "1"
+B_SB = "2"
+B_BB = "15"
+B_HP = "3"
+B_RBI = "23"
+B_SO = "43"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Rehm"
+name.given = "Alfred"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "18"
+B_AB = "57"
+B_R = "7"
+B_H = "12"
+B_TB = "12"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "9"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Pelt"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "10"
+B_AB = "19"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Brygider"
+name.given = "Chas."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+B_G = "19"
+[[person.playing.split]]
+team.name = "Fall River"
+B_G = "93"
+[person.playing.totals]
+B_G = "112"
+B_AB = "378"
+B_R = "46"
+B_H = "79"
+B_TB = "119"
+B_2B = "8"
+B_3B = "10"
+B_HR = "4"
+B_SH = "8"
+B_SB = "2"
+B_BB = "58"
+B_HP = "3"
+B_RBI = "29"
+B_SO = "100"
+B_AVG = ".209"
+
+
+[[person]]
+name.last = "Wetterholm"
+name.given = "Lawrence"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "110"
+B_AB = "378"
+B_R = "30"
+B_H = "79"
+B_TB = "101"
+B_2B = "11"
+B_3B = "1"
+B_HR = "3"
+B_SH = "2"
+B_SB = "1"
+B_BB = "39"
+B_HP = "0"
+B_RBI = "32"
+B_SO = "36"
+B_AVG = ".209"
+
+
+[[person]]
+name.last = "Gatta"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "93"
+B_AB = "296"
+B_R = "29"
+B_H = "62"
+B_TB = "67"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "38"
+B_HP = "2"
+B_RBI = "20"
+B_SO = "34"
+B_AVG = ".209"
+
+
+[[person]]
+name.last = "Foti"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "32"
+B_AB = "67"
+B_R = "11"
+B_H = "14"
+B_TB = "19"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "16"
+B_AVG = ".209"
+
+
+[[person]]
+name.last = "Olson"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "35"
+B_AB = "116"
+B_R = "8"
+B_H = "24"
+B_TB = "32"
+B_2B = "3"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "22"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Gerry"
+name.given = "Harper"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "28"
+B_AB = "88"
+B_R = "14"
+B_H = "18"
+B_TB = "30"
+B_2B = "4"
+B_3B = "1"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "17"
+B_AVG = ".205"
+
+
+[[person]]
+name.last = "Devlin"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "29"
+B_AB = "98"
+B_R = "13"
+B_H = "20"
+B_TB = "25"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "22"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "14"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Karpoe"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "37"
+B_AB = "115"
+B_R = "21"
+B_H = "23"
+B_TB = "30"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "2"
+B_BB = "17"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "40"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Barry"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "22"
+B_AB = "40"
+B_R = "3"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "8"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Meurn"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "14"
+B_AB = "30"
+B_R = "3"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "15"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Roy"
+name.given = "Armand"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "14"
+B_AB = "15"
+B_R = "4"
+B_H = "3"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Klivak"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "27"
+B_AB = "66"
+B_R = "7"
+B_H = "13"
+B_TB = "18"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "17"
+B_AVG = ".197"
+
+
+[[person]]
+name.last = "Price"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "15"
+B_AB = "51"
+B_R = "6"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "8"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Gallant"
+name.given = "Wallace"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "30"
+B_AB = "41"
+B_R = "3"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "17"
+B_AVG = ".195"
+
+
+[[person]]
+name.last = "MacFadden"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "25"
+B_AB = "52"
+B_R = "10"
+B_H = "10"
+B_TB = "13"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "15"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Ayotte"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "45"
+B_AB = "126"
+B_R = "16"
+B_H = "24"
+B_TB = "37"
+B_2B = "4"
+B_3B = "0"
+B_HR = "3"
+B_SH = "1"
+B_SB = "1"
+B_BB = "4"
+B_HP = "2"
+B_RBI = "8"
+B_SO = "35"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Ceriello"
+name.given = "Alphonse"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "24"
+B_AB = "81"
+B_R = "7"
+B_H = "15"
+B_TB = "17"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "8"
+B_HP = "4"
+B_RBI = "3"
+B_SO = "22"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Andrew"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "29"
+B_AB = "114"
+B_R = "19"
+B_H = "21"
+B_TB = "29"
+B_2B = "3"
+B_3B = "1"
+B_HR = "1"
+B_SH = "7"
+B_SB = "0"
+B_BB = "12"
+B_HP = "5"
+B_RBI = "9"
+B_SO = "3"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Gauthier"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "26"
+B_AB = "38"
+B_R = "5"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "7"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Froning"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "24"
+B_AB = "38"
+B_R = "2"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "27"
+B_AB = "50"
+B_R = "4"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "14"
+B_AVG = ".180"
+
+
+[[person]]
+name.last = "Krakowski"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "30"
+B_AB = "57"
+B_R = "5"
+B_H = "10"
+B_TB = "13"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_AVG = ".175"
+
+
+[[person]]
+name.last = "Chirdon"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "14"
+B_AB = "35"
+B_R = "3"
+B_H = "6"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "10"
+B_AVG = ".171"
+
+
+[[person]]
+name.last = "Kelly"
+name.given = "Lester"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+B_G = "4"
+[[person.playing.split]]
+team.name = "Fall River"
+B_G = "12"
+[person.playing.totals]
+B_G = "16"
+B_AB = "18"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "1"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Consoli"
+name.given = "Jos."
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+B_G = "4"
+[[person.playing.split]]
+team.name = "Portland"
+B_G = "40"
+[person.playing.totals]
+B_G = "44"
+B_AB = "133"
+B_R = "15"
+B_H = "22"
+B_TB = "29"
+B_2B = "4"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "2"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "26"
+B_AVG = ".165"
+
+
+[[person]]
+name.last = "Fallon"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "22"
+B_AB = "49"
+B_R = "4"
+B_H = "8"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".163"
+
+
+[[person]]
+name.last = "Chaplik"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "20"
+B_AB = "69"
+B_R = "6"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "14"
+B_AVG = ".159"
+
+
+[[person]]
+name.last = "Saulia"
+name.given = "Neil"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "23"
+B_AB = "44"
+B_R = "6"
+B_H = "7"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "8"
+B_AVG = ".159"
+
+
+[[person]]
+name.last = "Quirk"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "16"
+B_AB = "51"
+B_R = "9"
+B_H = "8"
+B_TB = "11"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "7"
+B_AVG = ".157"
+
+
+[[person]]
+name.last = "Mulkasian"
+name.given = "Sarkis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "19"
+B_AB = "46"
+B_R = "6"
+B_H = "7"
+B_TB = "16"
+B_2B = "1"
+B_3B = "1"
+B_HR = "2"
+B_SH = "1"
+B_SB = "1"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "8"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Mlady"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "28"
+B_AB = "60"
+B_R = "7"
+B_H = "9"
+B_TB = "12"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "17"
+B_AVG = ".150"
+
+
+[[person]]
+name.last = "Wasilewski"
+name.given = "Chester"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "27"
+B_AB = "27"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "15"
+B_AVG = ".148"
+
+
+[[person]]
+name.last = "Whitcher"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "17"
+B_AB = "34"
+B_R = "4"
+B_H = "5"
+B_TB = "7"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "10"
+B_AVG = ".147"
+
+
+[[person]]
+name.last = "Belforti"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "24"
+B_AB = "55"
+B_R = "8"
+B_H = "8"
+B_TB = "12"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "18"
+B_AVG = ".145"
+
+
+[[person]]
+name.last = "Nozinski"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "25"
+B_AB = "50"
+B_R = "3"
+B_H = "7"
+B_TB = "9"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "27"
+B_AVG = ".140"
+
+
+[[person]]
+name.last = "Desrosiers"
+name.given = "Victor"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "29"
+B_AB = "43"
+B_R = "4"
+B_H = "6"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "15"
+B_AVG = ".140"
+
+
+[[person]]
+name.last = "Provinzano"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "21"
+B_AB = "36"
+B_R = "3"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_AVG = ".139"
+
+
+[[person]]
+name.last = "Karelis"
+name.given = "Irving"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "22"
+B_AB = "30"
+B_R = "4"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "7"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Kendrick"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "34"
+B_AB = "61"
+B_R = "4"
+B_H = "8"
+B_TB = "11"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "21"
+B_AVG = ".131"
+
+
+[[person]]
+name.last = "Flaherty"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "10"
+B_AB = "32"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "15"
+B_AB = "24"
+B_R = "1"
+B_H = "3"
+B_TB = "4"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Pryor"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "14"
+B_AB = "27"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Tanner"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "17"
+B_AB = "28"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_AVG = ".107"
+
+
+[[person]]
+name.last = "Bird"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "33"
+B_AB = "68"
+B_R = "5"
+B_H = "7"
+B_TB = "13"
+B_2B = "0"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "21"
+B_AVG = ".103"
+
+
+[[person]]
+name.last = "Cerrone"
+name.given = "Peter"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "41"
+B_AB = "39"
+B_R = "3"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "20"
+B_AVG = ".103"
+
+
+[[person]]
+name.last = "Bridges"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "30"
+B_AB = "60"
+B_R = "2"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "19"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Slotter"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "16"
+B_AB = "30"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "15"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Wozniak"
+name.given = "Mitchell"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "19"
+B_AB = "20"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "6"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Leahy"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_G = "10"
+B_AB = "10"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Forline"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+B_G = "17"
+B_AB = "31"
+B_R = "2"
+B_H = "3"
+B_TB = "7"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "11"
+B_AVG = ".097"
+
+
+[[person]]
+name.last = "Carpenter"
+name.given = "Ernest"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+B_G = "26"
+B_AB = "45"
+B_R = "5"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_AVG = ".089"
+
+
+[[person]]
+name.last = "McEvoy"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_G = "25"
+B_AB = "35"
+B_R = "3"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "8"
+B_AVG = ".086"
+
+
+[[person]]
+name.last = "Phipps"
+name.given = "Chauncey"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+B_G = "14"
+[[person.playing.split]]
+team.name = "Providence"
+B_G = "14"
+[person.playing.totals]
+B_G = "28"
+B_AB = "50"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "10"
+B_AVG = ".080"
+
+
+[[person]]
+name.last = "Berg"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+B_G = "11"
+[[person.playing.split]]
+team.name = "Providence"
+B_G = "1"
+[person.playing.totals]
+B_G = "12"
+B_AB = "16"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_AVG = ".063"
+
+
+[[person]]
+name.last = "Morris"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "23"
+B_AB = "19"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".053"
+
+
+[[person]]
+name.last = "Andrus"
+name.given = "Felix"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "24"
+B_AB = "40"
+B_R = "2"
+B_H = "2"
+B_TB = "3"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "11"
+B_AVG = ".050"
+
+
+[[person]]
+name.last = "Wall"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+B_G = "11"
+B_AB = "24"
+B_R = "4"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "2"
+B_RBI = "0"
+B_SO = "9"
+B_AVG = ".042"
+
+
+[[person]]
+name.last = "Gabler"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+B_G = "24"
+B_AB = "40"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_AVG = ".025"
+
+
+[[person]]
+name.last = "Kalbaugh"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+B_G = "10"
+B_AB = "4"
+B_R = "2"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Begnoche"
+name.given = "Laurier"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+B_G = "18"
+B_AB = "15"
+B_R = "2"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Burns"
+name.given = "Irving"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Corry"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Earley"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Foxx"
+name.given = "Samuel"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hagerman"
+name.given = "Albert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jackstone"
+name.given = "Nicholas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kay"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Leary"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Linden"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mahoney"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mahoney"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Musiel"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Novello"
+name.given = "Anthony"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Paul"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Plausky"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "St. Aubin"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tropea"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Waldstein"
+name.given = "Morton"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "White"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fall River"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bower"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Callas"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cudworth"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Farnum"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ford"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Harrison"
+name.given = "Fred."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Judal"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tellier"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ward"
+name.given = "Bernard"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Early"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Honan"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Salata"
+name.given = "Stephen"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Neilan"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Suchecki"
+name.given = "Jim"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "VanLeiden"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynn"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cerrone"
+name.given = "Andrew"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cronin"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Crery"
+name.given = "Frederick"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "English"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gorinski"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hayes"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Henricksen"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Howard"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kubicki"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lazarus"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Makowski"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Malone"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Posniak"
+name.given = "Mitchell"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Rainey"
+name.given = "Kerry"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schulte"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tremblay"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Manchester"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bodan"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Chartier"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "O'Neill"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Reinertsen"
+name.given = "Bernard"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ruminski"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "VanCott"
+name.given = "Clayton"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wernert"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashua"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Abruzzi"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Crispo"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cusick"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dzialo"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Newell"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ripley"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ryan"
+name.given = "Herbert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schacker"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smollin"
+name.given = "Alfons"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Walaezka"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Watro"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wise"
+name.given = "Hugh"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pawtucket"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Beaumier"
+name.given = "Edmund"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Benson"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Burke"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Calo"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Clements"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Coombs"
+name.given = "Pal"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cousins"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Craft"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Devlin"
+name.given = "Patrick"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Fenton"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gilman"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Laurence"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lee"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Matte"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McDonald"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Merrill"
+name.given = "Leo"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "Myles"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Robertson"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schott"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Silva"
+name.given = "Josepj"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Dana"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stillman"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wazleski"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bell"
+name.given = "Arthur"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bennett"
+name.given = "Arnold"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Comotti"
+name.given = "Elmo"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dragon"
+name.given = "Oscar"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hedison"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McGarry"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Niemiec"
+name.given = "Alfred"
+[[person.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]

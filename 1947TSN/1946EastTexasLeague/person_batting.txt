@@ -1,0 +1,6186 @@
+[[person]]
+name.last = "Frierson"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "84"
+B_AB = "348"
+B_R = "84"
+B_H = "136"
+B_TB = "238"
+B_2B = "23"
+B_3B = "2"
+B_HR = "25"
+B_SH = "0"
+B_SB = "6"
+B_BB = "34"
+B_HP = "2"
+B_RBI = "102"
+B_SO = "16"
+B_AVG = ".391"
+
+
+[[person]]
+name.last = "Stokes"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "119"
+B_AB = "476"
+B_R = "106"
+B_H = "172"
+B_TB = "262"
+B_2B = "38"
+B_3B = "2"
+B_HR = "16"
+B_SH = "3"
+B_SB = "2"
+B_BB = "44"
+B_HP = "4"
+B_RBI = "75"
+B_SO = "31"
+B_AVG = ".361"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Stafford"
+name.given = "Dean"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "123"
+B_AB = "465"
+B_R = "100"
+B_H = "165"
+B_TB = "249"
+B_2B = "24"
+B_3B = "9"
+B_HR = "14"
+B_SH = "3"
+B_SB = "17"
+B_BB = "53"
+B_HP = "4"
+B_RBI = "99"
+B_SO = "21"
+B_AVG = ".355"
+
+
+[[person]]
+name.last = "Graves"
+name.given = "June"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "17"
+B_AB = "31"
+B_R = "6"
+B_H = "11"
+B_TB = "14"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "4"
+B_AVG = ".355"
+
+
+[[person]]
+name.last = "Brack"
+name.given = "Gilbert"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "99"
+B_AB = "370"
+B_R = "100"
+B_H = "129"
+B_TB = "227"
+B_2B = "16"
+B_3B = "14"
+B_HR = "18"
+B_SH = "1"
+B_SB = "19"
+B_BB = "64"
+B_HP = "1"
+B_RBI = "107"
+B_SO = "32"
+B_AVG = ".349"
+
+
+[[person]]
+name.last = "Prather"
+name.given = "Murl"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "106"
+B_AB = "354"
+B_R = "59"
+B_H = "122"
+B_TB = "179"
+B_2B = "31"
+B_3B = "1"
+B_HR = "8"
+B_SH = "5"
+B_SB = "2"
+B_BB = "83"
+B_HP = "2"
+B_RBI = "83"
+B_SO = "29"
+B_AVG = ".345"
+
+
+[[person]]
+name.last = "Washington"
+name.given = "Vernon George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "123"
+B_AB = "439"
+B_R = "73"
+B_H = "151"
+B_TB = "246"
+B_2B = "32"
+B_3B = "0"
+B_HR = "21"
+B_SH = "2"
+B_SB = "2"
+B_BB = "54"
+B_HP = "1"
+B_RBI = "99"
+B_SO = "21"
+B_AVG = ".344"
+
+
+[[person]]
+name.last = "Vaughan"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "54"
+B_AB = "214"
+B_R = "36"
+B_H = "73"
+B_TB = "108"
+B_2B = "10"
+B_3B = "2"
+B_HR = "7"
+B_SH = "6"
+B_SB = "6"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "45"
+B_SO = "20"
+B_AVG = ".341"
+
+
+[[person]]
+name.last = "Stone"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "136"
+B_AB = "541"
+B_R = "105"
+B_H = "184"
+B_TB = "298"
+B_2B = "44"
+B_3B = "5"
+B_HR = "20"
+B_SH = "7"
+B_SB = "11"
+B_BB = "40"
+B_HP = "6"
+B_RBI = "104"
+B_SO = "76"
+B_AVG = ".340"
+
+
+[[person]]
+name.last = "Kracher"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "122"
+B_AB = "421"
+B_R = "81"
+B_H = "143"
+B_TB = "230"
+B_2B = "31"
+B_3B = "1"
+B_HR = "18"
+B_SH = "3"
+B_SB = "11"
+B_BB = "59"
+B_HP = "4"
+B_RBI = "89"
+B_SO = "31"
+B_AVG = ".340"
+
+
+[[person]]
+name.last = "Hunnicutt"
+name.given = "Wyman"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "83"
+B_AB = "259"
+B_R = "55"
+B_H = "88"
+B_TB = "128"
+B_2B = "14"
+B_3B = "1"
+B_HR = "8"
+B_SH = "4"
+B_SB = "3"
+B_BB = "19"
+B_HP = "1"
+B_RBI = "60"
+B_SO = "27"
+B_AVG = ".340"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "136"
+B_AB = "521"
+B_R = "85"
+B_H = "176"
+B_TB = "263"
+B_2B = "24"
+B_3B = "0"
+B_HR = "21"
+B_SH = "8"
+B_SB = "11"
+B_BB = "80"
+B_HP = "0"
+B_RBI = "127"
+B_SO = "23"
+B_AVG = ".338"
+
+
+[[person]]
+name.last = "Nelson"
+name.given = "Murray"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "16"
+B_AB = "36"
+B_R = "5"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "7"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Prichard"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "128"
+B_AB = "440"
+B_R = "116"
+B_H = "146"
+B_TB = "263"
+B_2B = "36"
+B_3B = "6"
+B_HR = "23"
+B_SH = "5"
+B_SB = "26"
+B_BB = "98"
+B_HP = "8"
+B_RBI = "119"
+B_SO = "65"
+B_AVG = ".332"
+
+
+[[person]]
+name.last = "Olive"
+name.given = "Gene"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "141"
+B_AB = "637"
+B_R = "128"
+B_H = "211"
+B_TB = "292"
+B_2B = "34"
+B_3B = "16"
+B_HR = "5"
+B_SH = "7"
+B_SB = "59"
+B_BB = "43"
+B_HP = "4"
+B_RBI = "95"
+B_SO = "46"
+B_AVG = ".331"
+
+
+[[person]]
+name.last = "Reed"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "96"
+B_AB = "341"
+B_R = "75"
+B_H = "113"
+B_TB = "206"
+B_2B = "19"
+B_3B = "4"
+B_HR = "22"
+B_SH = "2"
+B_SB = "8"
+B_BB = "74"
+B_HP = "6"
+B_RBI = "92"
+B_SO = "47"
+B_AVG = ".331"
+
+
+[[person]]
+name.last = "Palmer"
+name.given = "Edwin"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "127"
+B_AB = "506"
+B_R = "107"
+B_H = "167"
+B_TB = "207"
+B_2B = "24"
+B_3B = "5"
+B_HR = "2"
+B_SH = "13"
+B_SB = "48"
+B_BB = "64"
+B_HP = "0"
+B_RBI = "67"
+B_SO = "32"
+B_AVG = ".330"
+
+
+[[person]]
+name.last = "Graham"
+name.given = "Aubrey"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "137"
+B_AB = "517"
+B_R = "78"
+B_H = "168"
+B_TB = "204"
+B_2B = "25"
+B_3B = "4"
+B_HR = "1"
+B_SH = "21"
+B_SB = "10"
+B_BB = "74"
+B_HP = "5"
+B_RBI = "69"
+B_SO = "30"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Rossi"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "111"
+B_AB = "369"
+B_R = "65"
+B_H = "120"
+B_TB = "179"
+B_2B = "24"
+B_3B = "4"
+B_HR = "9"
+B_SH = "0"
+B_SB = "15"
+B_BB = "53"
+B_HP = "3"
+B_RBI = "70"
+B_SO = "47"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "McClung"
+name.given = "Cecil"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "134"
+B_AB = "535"
+B_R = "116"
+B_H = "173"
+B_TB = "253"
+B_2B = "33"
+B_3B = "7"
+B_HR = "11"
+B_SH = "10"
+B_SB = "6"
+B_BB = "74"
+B_HP = "6"
+B_RBI = "78"
+B_SO = "69"
+B_AVG = ".323"
+
+
+[[person]]
+name.last = "Kirby"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "128"
+B_AB = "517"
+B_R = "86"
+B_H = "167"
+B_TB = "218"
+B_2B = "23"
+B_3B = "2"
+B_HR = "8"
+B_SH = "10"
+B_SB = "16"
+B_BB = "26"
+B_HP = "3"
+B_RBI = "60"
+B_SO = "43"
+B_AVG = ".323"
+
+
+[[person]]
+name.last = "Hill"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "24"
+B_AB = "96"
+B_R = "22"
+B_H = "31"
+B_TB = "35"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "5"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "9"
+B_AVG = ".323"
+
+
+[[person]]
+name.last = "Peel"
+name.given = "Homer"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "55"
+B_AB = "115"
+B_R = "19"
+B_H = "37"
+B_TB = "57"
+B_2B = "8"
+B_3B = "0"
+B_HR = "4"
+B_SH = "2"
+B_SB = "2"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "29"
+B_SO = "7"
+B_AVG = ".322"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Rudy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "115"
+B_AB = "431"
+B_R = "71"
+B_H = "138"
+B_TB = "195"
+B_2B = "25"
+B_3B = "4"
+B_HR = "8"
+B_SH = "10"
+B_SB = "12"
+B_BB = "42"
+B_HP = "7"
+B_RBI = "88"
+B_SO = "39"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Rowland"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "54"
+B_AB = "125"
+B_R = "20"
+B_H = "40"
+B_TB = "44"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "16"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "9"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Meriwether"
+name.given = "Conklyn"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "110"
+B_AB = "417"
+B_R = "68"
+B_H = "133"
+B_TB = "229"
+B_2B = "25"
+B_3B = "4"
+B_HR = "21"
+B_SH = "1"
+B_SB = "2"
+B_BB = "40"
+B_HP = "3"
+B_RBI = "96"
+B_SO = "51"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Long"
+name.given = "Lloyd"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "139"
+B_AB = "548"
+B_R = "90"
+B_H = "174"
+B_TB = "230"
+B_2B = "29"
+B_3B = "6"
+B_HR = "5"
+B_SH = "15"
+B_SB = "19"
+B_BB = "44"
+B_HP = "3"
+B_RBI = "90"
+B_SO = "45"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Edwards"
+name.given = "Les"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "35"
+B_AB = "66"
+B_R = "14"
+B_H = "21"
+B_TB = "29"
+B_2B = "2"
+B_3B = "0"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "16"
+B_SO = "12"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Van Pelt"
+name.given = "Harold"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "124"
+B_AB = "474"
+B_R = "124"
+B_H = "150"
+B_TB = "234"
+B_2B = "22"
+B_3B = "1"
+B_HR = "20"
+B_SH = "16"
+B_SB = "4"
+B_BB = "80"
+B_HP = "4"
+B_RBI = "82"
+B_SO = "47"
+B_AVG = ".316"
+
+
+[[person]]
+name.last = "Berry"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "105"
+B_AB = "364"
+B_R = "96"
+B_H = "115"
+B_TB = "192"
+B_2B = "20"
+B_3B = "0"
+B_HR = "19"
+B_SH = "12"
+B_SB = "10"
+B_BB = "71"
+B_HP = "9"
+B_RBI = "70"
+B_SO = "58"
+B_AVG = ".316"
+
+
+[[person]]
+name.last = "Honeycutt"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "83"
+B_AB = "267"
+B_R = "49"
+B_H = "84"
+B_TB = "104"
+B_2B = "14"
+B_3B = "0"
+B_HR = "2"
+B_SH = "14"
+B_SB = "3"
+B_BB = "49"
+B_HP = "11"
+B_RBI = "38"
+B_SO = "7"
+B_AVG = ".315"
+
+
+[[person]]
+name.last = "Head"
+name.given = "Woodrow"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "127"
+B_AB = "503"
+B_R = "95"
+B_H = "158"
+B_TB = "195"
+B_2B = "21"
+B_3B = "2"
+B_HR = "4"
+B_SH = "12"
+B_SB = "31"
+B_BB = "42"
+B_HP = "2"
+B_RBI = "62"
+B_SO = "19"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Funderburk"
+name.given = "Arnold"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "92"
+B_AB = "289"
+B_R = "32"
+B_H = "87"
+B_TB = "111"
+B_2B = "14"
+B_3B = "2"
+B_HR = "2"
+B_SH = "6"
+B_SB = "0"
+B_BB = "29"
+B_HP = "7"
+B_RBI = "38"
+B_SO = "20"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Fox"
+name.given = "Marlin"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "35"
+B_AB = "87"
+B_R = "10"
+B_H = "27"
+B_TB = "33"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "11"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Ray"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "17"
+B_AB = "42"
+B_R = "11"
+B_H = "13"
+B_TB = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "8"
+B_HP = "3"
+B_RBI = "5"
+B_SO = "1"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Demma"
+name.given = "Samuel"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "82"
+B_AB = "285"
+B_R = "30"
+B_H = "88"
+B_TB = "114"
+B_2B = "23"
+B_3B = "0"
+B_HR = "1"
+B_SH = "8"
+B_SB = "2"
+B_BB = "27"
+B_HP = "6"
+B_RBI = "54"
+B_SO = "24"
+B_AVG = ".309"
+
+
+[[person]]
+name.last = "Hale"
+name.given = "Ben"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "52"
+B_AB = "191"
+B_R = "42"
+B_H = "59"
+B_TB = "103"
+B_2B = "9"
+B_3B = "1"
+B_HR = "11"
+B_SH = "0"
+B_SB = "1"
+B_BB = "39"
+B_HP = "4"
+B_RBI = "52"
+B_SO = "25"
+B_AVG = ".309"
+
+
+[[person]]
+name.last = "Finders"
+name.given = "Wendell"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "139"
+B_AB = "590"
+B_R = "109"
+B_H = "181"
+B_TB = "234"
+B_2B = "26"
+B_3B = "9"
+B_HR = "3"
+B_SH = "12"
+B_SB = "40"
+B_BB = "45"
+B_HP = "2"
+B_RBI = "63"
+B_SO = "54"
+B_AVG = ".307"
+
+
+[[person]]
+name.last = "Campbell"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "140"
+B_AB = "579"
+B_R = "112"
+B_H = "178"
+B_TB = "209"
+B_2B = "17"
+B_3B = "1"
+B_HR = "4"
+B_SH = "6"
+B_SB = "18"
+B_BB = "74"
+B_HP = "7"
+B_RBI = "51"
+B_SO = "58"
+B_AVG = ".307"
+
+
+[[person]]
+name.last = "Basile"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "82"
+B_AB = "303"
+B_R = "48"
+B_H = "93"
+B_TB = "137"
+B_2B = "10"
+B_3B = "2"
+B_HR = "10"
+B_SH = "4"
+B_SB = "7"
+B_BB = "42"
+B_HP = "4"
+B_RBI = "57"
+B_SO = "39"
+B_AVG = ".307"
+
+
+[[person]]
+name.last = "Snider"
+name.given = "Glen"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "72"
+B_AB = "272"
+B_R = "53"
+B_H = "83"
+B_TB = "142"
+B_2B = "15"
+B_3B = "1"
+B_HR = "14"
+B_SH = "4"
+B_SB = "7"
+B_BB = "30"
+B_HP = "10"
+B_RBI = "57"
+B_SO = "28"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "Bevell"
+name.given = "Grady"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "125"
+B_AB = "482"
+B_R = "64"
+B_H = "146"
+B_TB = "203"
+B_2B = "36"
+B_3B = "3"
+B_HR = "5"
+B_SH = "1"
+B_SB = "8"
+B_BB = "39"
+B_HP = "2"
+B_RBI = "89"
+B_SO = "30"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Sacka"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "140"
+B_AB = "537"
+B_R = "103"
+B_H = "162"
+B_TB = "296"
+B_2B = "28"
+B_3B = "8"
+B_HR = "30"
+B_SH = "2"
+B_SB = "13"
+B_BB = "49"
+B_HP = "3"
+B_RBI = "111"
+B_SO = "99"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Rigby"
+name.given = "Lloyd"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "138"
+B_AB = "553"
+B_R = "98"
+B_H = "166"
+B_TB = "209"
+B_2B = "28"
+B_3B = "3"
+B_HR = "3"
+B_SH = "8"
+B_SB = "19"
+B_BB = "45"
+B_HP = "19"
+B_RBI = "70"
+B_SO = "18"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Kaiser"
+name.given = "Albert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "108"
+B_AB = "408"
+B_R = "68"
+B_H = "122"
+B_TB = "182"
+B_2B = "27"
+B_3B = "3"
+B_HR = "9"
+B_SH = "5"
+B_SB = "15"
+B_BB = "32"
+B_HP = "3"
+B_RBI = "80"
+B_SO = "48"
+B_AVG = ".299"
+
+
+[[person]]
+name.last = "Pearson"
+name.given = "Llyod"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "121"
+B_AB = "404"
+B_R = "75"
+B_H = "120"
+B_TB = "174"
+B_2B = "19"
+B_3B = "4"
+B_HR = "9"
+B_SH = "4"
+B_SB = "8"
+B_BB = "38"
+B_HP = "14"
+B_RBI = "66"
+B_SO = "66"
+B_AVG = ".297"
+
+
+[[person]]
+name.last = "Floyd"
+name.given = "Leslie (Bubba)"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "97"
+B_AB = "328"
+B_R = "57"
+B_H = "97"
+B_TB = "127"
+B_2B = "19"
+B_3B = "4"
+B_HR = "1"
+B_SH = "10"
+B_SB = "14"
+B_BB = "57"
+B_HP = "6"
+B_RBI = "48"
+B_SO = "20"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Benson"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "138"
+B_AB = "452"
+B_R = "84"
+B_H = "133"
+B_TB = "183"
+B_2B = "21"
+B_3B = "7"
+B_HR = "5"
+B_SH = "22"
+B_SB = "14"
+B_BB = "40"
+B_HP = "13"
+B_RBI = "57"
+B_SO = "31"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Reyes"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "140"
+B_AB = "494"
+B_R = "83"
+B_H = "144"
+B_TB = "199"
+B_2B = "20"
+B_3B = "1"
+B_HR = "11"
+B_SH = "7"
+B_SB = "13"
+B_BB = "89"
+B_HP = "4"
+B_RBI = "84"
+B_SO = "43"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Simpson"
+name.given = "Harold"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "114"
+B_AB = "424"
+B_R = "82"
+B_H = "124"
+B_TB = "206"
+B_2B = "17"
+B_3B = "1"
+B_HR = "21"
+B_SH = "3"
+B_SB = "1"
+B_BB = "57"
+B_HP = "8"
+B_RBI = "107"
+B_SO = "43"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Christy"
+name.given = "Lewis"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "59"
+B_AB = "144"
+B_R = "16"
+B_H = "42"
+B_TB = "56"
+B_2B = "8"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "0"
+B_BB = "11"
+B_HP = "2"
+B_RBI = "20"
+B_SO = "21"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Reed"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "32"
+B_AB = "100"
+B_R = "12"
+B_H = "29"
+B_TB = "44"
+B_2B = "4"
+B_3B = "1"
+B_HR = "3"
+B_SH = "1"
+B_SB = "1"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "21"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Marshall"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "118"
+B_AB = "467"
+B_R = "96"
+B_H = "135"
+B_TB = "163"
+B_2B = "19"
+B_3B = "0"
+B_HR = "3"
+B_SH = "11"
+B_SB = "18"
+B_BB = "63"
+B_HP = "2"
+B_RBI = "70"
+B_SO = "43"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Gustovich"
+name.given = "Pete"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "116"
+B_AB = "418"
+B_R = "56"
+B_H = "121"
+B_TB = "169"
+B_2B = "23"
+B_3B = "2"
+B_HR = "7"
+B_SH = "8"
+B_SB = "9"
+B_BB = "40"
+B_HP = "1"
+B_RBI = "62"
+B_SO = "51"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Drake"
+name.given = "Larry"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "137"
+B_AB = "569"
+B_R = "115"
+B_H = "163"
+B_TB = "275"
+B_2B = "24"
+B_3B = "5"
+B_HR = "26"
+B_SH = "10"
+B_SB = "9"
+B_BB = "57"
+B_HP = "9"
+B_RBI = "112"
+B_SO = "84"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "132"
+B_AB = "387"
+B_R = "47"
+B_H = "111"
+B_TB = "135"
+B_2B = "15"
+B_3B = "3"
+B_HR = "1"
+B_SH = "4"
+B_SB = "10"
+B_BB = "29"
+B_HP = "2"
+B_RBI = "52"
+B_SO = "57"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Cullins"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "129"
+B_AB = "555"
+B_R = "101"
+B_H = "158"
+B_TB = "212"
+B_2B = "26"
+B_3B = "2"
+B_HR = "8"
+B_SH = "4"
+B_SB = "14"
+B_BB = "31"
+B_HP = "7"
+B_RBI = "69"
+B_SO = "47"
+B_AVG = ".285"
+
+
+[[person]]
+name.last = "Hogan"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "42"
+B_AB = "88"
+B_R = "14"
+B_H = "25"
+B_TB = "31"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "3"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Hooks"
+name.given = "Alex"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "129"
+B_AB = "456"
+B_R = "60"
+B_H = "129"
+B_TB = "182"
+B_2B = "24"
+B_3B = "7"
+B_HR = "5"
+B_SH = "11"
+B_SB = "4"
+B_BB = "71"
+B_HP = "5"
+B_RBI = "77"
+B_SO = "25"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Elton"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "60"
+B_AB = "127"
+B_R = "27"
+B_H = "36"
+B_TB = "44"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "2"
+B_BB = "16"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "20"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Watkins"
+name.given = "Watty"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "45"
+B_AB = "106"
+B_R = "12"
+B_H = "30"
+B_TB = "40"
+B_2B = "8"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "11"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Lusk"
+name.given = "Robert (Gabby)"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "111"
+B_AB = "420"
+B_R = "73"
+B_H = "118"
+B_TB = "191"
+B_2B = "29"
+B_3B = "4"
+B_HR = "12"
+B_SH = "5"
+B_SB = "14"
+B_BB = "40"
+B_HP = "7"
+B_RBI = "71"
+B_SO = "28"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Wooten"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "91"
+B_AB = "313"
+B_R = "38"
+B_H = "88"
+B_TB = "106"
+B_2B = "11"
+B_3B = "2"
+B_HR = "1"
+B_SH = "8"
+B_SB = "2"
+B_BB = "20"
+B_HP = "4"
+B_RBI = "35"
+B_SO = "25"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Main"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "140"
+B_AB = "538"
+B_R = "114"
+B_H = "150"
+B_TB = "187"
+B_2B = "16"
+B_3B = "9"
+B_HR = "1"
+B_SH = "13"
+B_SB = "30"
+B_BB = "122"
+B_HP = "8"
+B_RBI = "50"
+B_SO = "92"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Taitt"
+name.given = "Douglas"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "39"
+B_AB = "86"
+B_R = "11"
+B_H = "24"
+B_TB = "36"
+B_2B = "6"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "1"
+B_BB = "8"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "7"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Snyder"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "10"
+B_AB = "36"
+B_R = "5"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "6"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Dooley"
+name.given = "Mike"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "107"
+B_AB = "373"
+B_R = "52"
+B_H = "103"
+B_TB = "145"
+B_2B = "20"
+B_3B = "5"
+B_HR = "4"
+B_SH = "6"
+B_SB = "5"
+B_BB = "43"
+B_HP = "3"
+B_RBI = "51"
+B_SO = "57"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Pearson"
+name.given = "Lon"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "88"
+B_AB = "330"
+B_R = "63"
+B_H = "91"
+B_TB = "125"
+B_2B = "17"
+B_3B = "4"
+B_HR = "3"
+B_SH = "14"
+B_SB = "5"
+B_BB = "18"
+B_HP = "7"
+B_RBI = "50"
+B_SO = "46"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Ringler"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "28"
+B_AB = "95"
+B_R = "16"
+B_H = "26"
+B_TB = "40"
+B_2B = "1"
+B_3B = "2"
+B_HR = "3"
+B_SH = "7"
+B_SB = "3"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "18"
+B_SO = "8"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Rupp"
+name.given = "Vernon"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "112"
+B_AB = "397"
+B_R = "48"
+B_H = "107"
+B_TB = "161"
+B_2B = "19"
+B_3B = "7"
+B_HR = "7"
+B_SH = "8"
+B_SB = "1"
+B_BB = "40"
+B_HP = "3"
+B_RBI = "68"
+B_SO = "74"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Anderson"
+name.given = "Leslie"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "135"
+B_AB = "506"
+B_R = "77"
+B_H = "136"
+B_TB = "164"
+B_2B = "19"
+B_3B = "3"
+B_HR = "1"
+B_SH = "9"
+B_SB = "6"
+B_BB = "60"
+B_HP = "0"
+B_RBI = "49"
+B_SO = "14"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Knox"
+name.given = "Muriel"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "16"
+B_AB = "52"
+B_R = "12"
+B_H = "14"
+B_TB = "22"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "6"
+B_SB = "1"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "5"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "O'Connell"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "34"
+B_AB = "116"
+B_R = "7"
+B_H = "31"
+B_TB = "35"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "10"
+B_HP = "2"
+B_RBI = "13"
+B_SO = "16"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "37"
+B_AB = "90"
+B_R = "10"
+B_H = "24"
+B_TB = "30"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "25"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Vucelich"
+name.given = "Milan"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "137"
+B_AB = "496"
+B_R = "64"
+B_H = "132"
+B_TB = "194"
+B_2B = "28"
+B_3B = "2"
+B_HR = "10"
+B_SH = "4"
+B_SB = "8"
+B_BB = "47"
+B_HP = "4"
+B_RBI = "74"
+B_SO = "59"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Kennedy"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "12"
+B_AB = "19"
+B_R = "1"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Capelle"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "129"
+B_AB = "496"
+B_R = "76"
+B_H = "129"
+B_TB = "178"
+B_2B = "24"
+B_3B = "5"
+B_HR = "5"
+B_SH = "14"
+B_SB = "6"
+B_BB = "48"
+B_HP = "7"
+B_RBI = "41"
+B_SO = "38"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Perrault"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "110"
+B_AB = "393"
+B_R = "92"
+B_H = "102"
+B_TB = "170"
+B_2B = "20"
+B_3B = "3"
+B_HR = "14"
+B_SH = "7"
+B_SB = "10"
+B_BB = "74"
+B_HP = "2"
+B_RBI = "72"
+B_SO = "75"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Ashworth"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "79"
+B_AB = "221"
+B_R = "31"
+B_H = "57"
+B_TB = "74"
+B_2B = "3"
+B_3B = "1"
+B_HR = "4"
+B_SH = "5"
+B_SB = "3"
+B_BB = "27"
+B_HP = "2"
+B_RBI = "32"
+B_SO = "27"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Hibbs"
+name.given = "Hardy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "99"
+B_AB = "308"
+B_R = "24"
+B_H = "79"
+B_TB = "93"
+B_2B = "11"
+B_3B = "0"
+B_HR = "1"
+B_SH = "10"
+B_SB = "2"
+B_BB = "21"
+B_HP = "6"
+B_RBI = "37"
+B_SO = "20"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Evans"
+name.given = "J. L."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "36"
+B_AB = "74"
+B_R = "5"
+B_H = "19"
+B_TB = "19"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "14"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Griffin"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "138"
+B_AB = "512"
+B_R = "78"
+B_H = "131"
+B_TB = "183"
+B_2B = "24"
+B_3B = "2"
+B_HR = "8"
+B_SH = "16"
+B_SB = "8"
+B_BB = "52"
+B_HP = "5"
+B_RBI = "84"
+B_SO = "54"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Ghiglieri"
+name.given = "Johnny"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "122"
+B_AB = "474"
+B_R = "67"
+B_H = "121"
+B_TB = "155"
+B_2B = "14"
+B_3B = "1"
+B_HR = "6"
+B_SH = "11"
+B_SB = "6"
+B_BB = "52"
+B_HP = "4"
+B_RBI = "63"
+B_SO = "64"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Taitt"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "120"
+B_AB = "452"
+B_R = "79"
+B_H = "115"
+B_TB = "145"
+B_2B = "16"
+B_3B = "7"
+B_HR = "0"
+B_SH = "10"
+B_SB = "18"
+B_BB = "52"
+B_HP = "3"
+B_RBI = "40"
+B_SO = "63"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Ferguson"
+name.given = "Leo"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "101"
+B_AB = "335"
+B_R = "46"
+B_H = "85"
+B_TB = "109"
+B_2B = "9"
+B_3B = "0"
+B_HR = "5"
+B_SH = "10"
+B_SB = "0"
+B_BB = "56"
+B_HP = "0"
+B_RBI = "38"
+B_SO = "21"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Bartkowski"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "60"
+B_AB = "181"
+B_R = "30"
+B_H = "46"
+B_TB = "68"
+B_2B = "11"
+B_3B = "1"
+B_HR = "3"
+B_SH = "0"
+B_SB = "2"
+B_BB = "31"
+B_HP = "7"
+B_RBI = "31"
+B_SO = "30"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Wilkerson"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "20"
+B_AB = "63"
+B_R = "6"
+B_H = "16"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "9"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Alvis"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "25"
+B_AB = "87"
+B_R = "11"
+B_H = "22"
+B_TB = "34"
+B_2B = "4"
+B_3B = "1"
+B_HR = "2"
+B_SH = "1"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "21"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Swan"
+name.given = "Bruce"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "58"
+B_AB = "180"
+B_R = "17"
+B_H = "45"
+B_TB = "51"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "2"
+B_BB = "10"
+B_HP = "3"
+B_RBI = "16"
+B_SO = "10"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Holliday"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "91"
+B_AB = "352"
+B_R = "64"
+B_H = "87"
+B_TB = "107"
+B_2B = "9"
+B_3B = "1"
+B_HR = "3"
+B_SH = "13"
+B_SB = "2"
+B_BB = "29"
+B_HP = "12"
+B_RBI = "30"
+B_SO = "60"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "34"
+B_AB = "122"
+B_R = "7"
+B_H = "30"
+B_TB = "32"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "15"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "31"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Critchlow"
+name.given = "Elmer"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "19"
+B_AB = "57"
+B_R = "8"
+B_H = "14"
+B_TB = "20"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "6"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Allday"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "36"
+B_AB = "94"
+B_R = "15"
+B_H = "23"
+B_TB = "30"
+B_2B = "4"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "11"
+B_HP = "3"
+B_RBI = "9"
+B_SO = "17"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Phipps"
+name.given = "Jodie"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "25"
+B_AB = "53"
+B_R = "8"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "11"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Poindexter"
+name.given = "Jennings"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "50"
+B_AB = "90"
+B_R = "16"
+B_H = "22"
+B_TB = "26"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "18"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "McClain"
+name.given = "Jesse"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "12"
+B_AB = "41"
+B_R = "5"
+B_H = "10"
+B_TB = "14"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "10"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Stuckmeyer"
+name.given = "Roland"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "65"
+B_AB = "96"
+B_R = "18"
+B_H = "23"
+B_TB = "29"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "19"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "12"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Roberts"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "19"
+B_AB = "50"
+B_R = "8"
+B_H = "12"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Janicki"
+name.given = "Edwin"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "38"
+B_AB = "117"
+B_R = "14"
+B_H = "28"
+B_TB = "34"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "3"
+B_BB = "17"
+B_HP = "4"
+B_RBI = "10"
+B_SO = "17"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Lucas"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "108"
+B_AB = "346"
+B_R = "64"
+B_H = "82"
+B_TB = "98"
+B_2B = "10"
+B_3B = "0"
+B_HR = "2"
+B_SH = "7"
+B_SB = "5"
+B_BB = "28"
+B_HP = "2"
+B_RBI = "23"
+B_SO = "35"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Perry"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "23"
+B_AB = "38"
+B_R = "3"
+B_H = "9"
+B_TB = "15"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "7"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Doty"
+name.given = "Abner (Hank)"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "26"
+B_AB = "38"
+B_R = "4"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "1"
+B_BB = "14"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "4"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Schulte"
+name.given = "Jay"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "70"
+B_AB = "247"
+B_R = "38"
+B_H = "58"
+B_TB = "82"
+B_2B = "13"
+B_3B = "1"
+B_HR = "3"
+B_SH = "12"
+B_SB = "3"
+B_BB = "16"
+B_HP = "3"
+B_RBI = "23"
+B_SO = "58"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Willoughby"
+name.given = "Carroll"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "49"
+B_AB = "175"
+B_R = "21"
+B_H = "41"
+B_TB = "63"
+B_2B = "10"
+B_3B = "0"
+B_HR = "4"
+B_SH = "0"
+B_SB = "4"
+B_BB = "24"
+B_HP = "2"
+B_RBI = "28"
+B_SO = "22"
+B_AVG = ".234"
+
+
+[[person]]
+name.last = "Sanders"
+name.given = "Aubrey"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "50"
+B_AB = "189"
+B_R = "19"
+B_H = "44"
+B_TB = "58"
+B_2B = "9"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "2"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "33"
+B_SO = "20"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Tassin"
+name.given = "Sidney"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "37"
+B_AB = "90"
+B_R = "7"
+B_H = "21"
+B_TB = "26"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "14"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Wells"
+name.given = "Phil"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "86"
+B_AB = "297"
+B_R = "42"
+B_H = "69"
+B_TB = "86"
+B_2B = "11"
+B_3B = "0"
+B_HR = "2"
+B_SH = "5"
+B_SB = "9"
+B_BB = "66"
+B_HP = "3"
+B_RBI = "29"
+B_SO = "34"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Neal"
+name.given = "Haskell (Nick)"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "58"
+B_AB = "198"
+B_R = "28"
+B_H = "46"
+B_TB = "60"
+B_2B = "9"
+B_3B = "1"
+B_HR = "1"
+B_SH = "6"
+B_SB = "6"
+B_BB = "30"
+B_HP = "4"
+B_RBI = "29"
+B_SO = "35"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Mohnal"
+name.given = "Nick"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "30"
+B_AB = "99"
+B_R = "16"
+B_H = "23"
+B_TB = "25"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "10"
+B_SB = "0"
+B_BB = "8"
+B_HP = "2"
+B_RBI = "5"
+B_SO = "9"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "44"
+B_AB = "104"
+B_R = "6"
+B_H = "24"
+B_TB = "25"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "4"
+B_HP = "2"
+B_RBI = "5"
+B_SO = "24"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Steger"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "39"
+B_AB = "152"
+B_R = "24"
+B_H = "35"
+B_TB = "46"
+B_2B = "4"
+B_3B = "2"
+B_HR = "1"
+B_SH = "3"
+B_SB = "4"
+B_BB = "14"
+B_HP = "4"
+B_RBI = "23"
+B_SO = "27"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Grigg"
+name.given = "James B."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "95"
+B_AB = "275"
+B_R = "40"
+B_H = "63"
+B_TB = "80"
+B_2B = "14"
+B_3B = "0"
+B_HR = "1"
+B_SH = "11"
+B_SB = "2"
+B_BB = "30"
+B_HP = "1"
+B_RBI = "31"
+B_SO = "30"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Birchfield"
+name.given = "Columbus"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "12"
+B_AB = "35"
+B_R = "4"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "10"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "8"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Duncan"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "40"
+B_AB = "132"
+B_R = "28"
+B_H = "30"
+B_TB = "55"
+B_2B = "6"
+B_3B = "2"
+B_HR = "5"
+B_SH = "4"
+B_SB = "0"
+B_BB = "22"
+B_HP = "2"
+B_RBI = "24"
+B_SO = "22"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Locke"
+name.given = "Howard"
+description.bats = "S"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "29"
+B_AB = "107"
+B_R = "19"
+B_H = "24"
+B_TB = "26"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "5"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "22"
+B_AVG = ".224"
+
+
+[[person]]
+name.last = "Yawn"
+name.given = "Sidney"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "58"
+B_AB = "175"
+B_R = "10"
+B_H = "39"
+B_TB = "44"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "9"
+B_SB = "0"
+B_BB = "14"
+B_HP = "3"
+B_RBI = "16"
+B_SO = "34"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Grove"
+name.given = "Dale"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "32"
+B_AB = "54"
+B_R = "10"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "11"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Weeks"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "23"
+B_AB = "77"
+B_R = "8"
+B_H = "17"
+B_TB = "21"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "2"
+B_AVG = ".221"
+
+
+[[person]]
+name.last = "Walkup"
+name.given = "James Elton"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "23"
+B_AB = "68"
+B_R = "8"
+B_H = "15"
+B_TB = "18"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "14"
+B_AVG = ".221"
+
+
+[[person]]
+name.last = "Sedik"
+name.given = "Alex Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "43"
+B_AB = "100"
+B_R = "12"
+B_H = "22"
+B_TB = "39"
+B_2B = "5"
+B_3B = "3"
+B_HR = "2"
+B_SH = "4"
+B_SB = "1"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "30"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Kappelle"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "26"
+B_AB = "82"
+B_R = "11"
+B_H = "18"
+B_TB = "24"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "1"
+B_BB = "6"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "22"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Flowers"
+name.given = "Okey"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "36"
+B_AB = "59"
+B_R = "8"
+B_H = "13"
+B_TB = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "5"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Betterton"
+name.given = "Burl"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "27"
+B_AB = "32"
+B_R = "2"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "3"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Keith"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "17"
+B_AB = "32"
+B_R = "4"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "3"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Buck"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "45"
+B_AB = "190"
+B_R = "30"
+B_H = "41"
+B_TB = "56"
+B_2B = "13"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "2"
+B_BB = "25"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "42"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Bonvillian"
+name.given = "Jack"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "53"
+B_AB = "190"
+B_R = "26"
+B_H = "41"
+B_TB = "52"
+B_2B = "5"
+B_3B = "3"
+B_HR = "0"
+B_SH = "5"
+B_SB = "1"
+B_BB = "27"
+B_HP = "6"
+B_RBI = "18"
+B_SO = "41"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Conn"
+name.given = "Chester"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "23"
+B_AB = "38"
+B_R = "4"
+B_H = "8"
+B_TB = "12"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "5"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Darrah"
+name.given = "Malcolm"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "55"
+B_AB = "116"
+B_R = "15"
+B_H = "24"
+B_TB = "26"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "36"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Wood"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "49"
+B_AB = "92"
+B_R = "21"
+B_H = "19"
+B_TB = "27"
+B_2B = "1"
+B_3B = "2"
+B_HR = "1"
+B_SH = "4"
+B_SB = "0"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "39"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Colombatto"
+name.given = "Peter James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "116"
+B_AB = "393"
+B_R = "51"
+B_H = "81"
+B_TB = "88"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "10"
+B_SB = "10"
+B_BB = "51"
+B_HP = "2"
+B_RBI = "29"
+B_SO = "58"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Schroeder"
+name.given = "Clyde"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "19"
+B_AB = "34"
+B_R = "3"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "6"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Elliott"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "35"
+B_AB = "64"
+B_R = "11"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "8"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Whatley"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "58"
+B_AB = "184"
+B_R = "21"
+B_H = "37"
+B_TB = "51"
+B_2B = "4"
+B_3B = "2"
+B_HR = "2"
+B_SH = "1"
+B_SB = "6"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "1"
+B_AVG = ".201"
+
+
+[[person]]
+name.last = "Rustic"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "16"
+B_AB = "20"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Green"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "28"
+B_AB = "56"
+B_R = "6"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "8"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "21"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Stumborg"
+name.given = "Ralph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "27"
+B_AB = "46"
+B_R = "3"
+B_H = "9"
+B_TB = "14"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "5"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Eager"
+name.given = "Joseph Tyler"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "12"
+B_AB = "46"
+B_R = "3"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Ashcraft"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "46"
+B_AB = "166"
+B_R = "18"
+B_H = "32"
+B_TB = "37"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "7"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "12"
+B_AVG = ".193"
+
+
+[[person]]
+name.last = "Scott"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "33"
+B_AB = "52"
+B_R = "10"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "15"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Selby"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "30"
+B_AB = "70"
+B_R = "12"
+B_H = "13"
+B_TB = "16"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "19"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Garner"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "12"
+B_AB = "43"
+B_R = "3"
+B_H = "8"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "4"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Sinclair"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "11"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Satterfield"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "14"
+B_AB = "56"
+B_R = "1"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "6"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Hutto"
+name.given = "Charlie"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "17"
+B_AB = "28"
+B_R = "3"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "1"
+B_HP = "2"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Gliatto"
+name.given = "Salvatore"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "47"
+B_AB = "73"
+B_R = "9"
+B_H = "13"
+B_TB = "20"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "17"
+B_AVG = ".178"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Lloyd"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "24"
+B_AB = "68"
+B_R = "7"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "8"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Lawson"
+name.given = "Elwood (Jake)"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "14"
+B_AB = "34"
+B_R = "2"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "9"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Kramer"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "11"
+B_AB = "17"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Wells"
+name.given = "Elmer"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "42"
+B_AB = "106"
+B_R = "6"
+B_H = "18"
+B_TB = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "7"
+B_HP = "3"
+B_RBI = "11"
+B_SO = "14"
+B_AVG = ".170"
+
+
+[[person]]
+name.last = "Witt"
+name.given = "Clarence"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "17"
+B_AB = "60"
+B_R = "5"
+B_H = "10"
+B_TB = "16"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "6"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Arnes"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+B_G = "10"
+B_AB = "18"
+B_R = "0"
+B_H = "3"
+B_TB = "6"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "10"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Coomes"
+name.given = "Rex"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "58"
+B_AB = "183"
+B_R = "13"
+B_H = "30"
+B_TB = "35"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "3"
+B_BB = "25"
+B_HP = "3"
+B_RBI = "7"
+B_SO = "39"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Bloomer"
+name.given = "Jay"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "28"
+B_AB = "67"
+B_R = "7"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "20"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Mistovich"
+name.given = "Mike"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "26"
+B_AB = "61"
+B_R = "6"
+B_H = "10"
+B_TB = "13"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "13"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Allen"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "14"
+B_AB = "43"
+B_R = "3"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "5"
+B_AVG = ".163"
+
+
+[[person]]
+name.last = "Alexander"
+name.given = "Ellis"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "25"
+B_AB = "62"
+B_R = "5"
+B_H = "10"
+B_TB = "18"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "16"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "19"
+B_AVG = ".161"
+
+
+[[person]]
+name.last = "Grisham"
+name.given = "Garry"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "14"
+B_AB = "31"
+B_R = "4"
+B_H = "5"
+B_TB = "8"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_AVG = ".161"
+
+
+[[person]]
+name.last = "Mosely"
+name.given = "J. R."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "32"
+B_R = "0"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "11"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Porter"
+name.given = "Travis"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "39"
+B_AB = "71"
+B_R = "7"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "24"
+B_AVG = ".155"
+
+
+[[person]]
+name.last = "Eaves"
+name.given = "Vallie"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "19"
+B_AB = "53"
+B_R = "4"
+B_H = "8"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "11"
+B_AVG = ".151"
+
+
+[[person]]
+name.last = "Roberts"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "21"
+B_AB = "40"
+B_R = "7"
+B_H = "6"
+B_TB = "11"
+B_2B = "0"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "14"
+B_AVG = ".150"
+
+
+[[person]]
+name.last = "Winfield"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "40"
+B_AB = "110"
+B_R = "7"
+B_H = "16"
+B_TB = "16"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "16"
+B_AVG = ".145"
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "Rachie"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "63"
+B_R = "4"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "29"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Jimmy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "17"
+B_AB = "21"
+B_R = "4"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "7"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Ross"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "30"
+B_AB = "85"
+B_R = "13"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "3"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "19"
+B_AVG = ".141"
+
+
+[[person]]
+name.last = "Clark"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "11"
+B_AB = "15"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "10"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Steen"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "17"
+B_AB = "23"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "9"
+B_AVG = ".130"
+
+
+[[person]]
+name.last = "George"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "10"
+B_AB = "8"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Carter"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "35"
+B_AB = "66"
+B_R = "6"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "14"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "20"
+B_AVG = ".121"
+
+
+[[person]]
+name.last = "Kuver"
+name.given = "Oscar"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+B_G = "13"
+B_AB = "9"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Stratton"
+name.given = "Monty"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "27"
+B_AB = "73"
+B_R = "0"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "0"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "6"
+B_AVG = ".110"
+
+
+[[person]]
+name.last = "Leedy"
+name.given = "Alvin"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+B_G = "42"
+B_AB = "94"
+B_R = "11"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "10"
+B_HP = "2"
+B_RBI = "3"
+B_SO = "25"
+B_AVG = ".106"
+
+
+[[person]]
+name.last = "Culp"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "35"
+B_AB = "81"
+B_R = "5"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "32"
+B_AVG = ".099"
+
+
+[[person]]
+name.last = "Brent"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "19"
+B_AB = "41"
+B_R = "5"
+B_H = "4"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "2"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "2"
+B_AVG = ".097"
+
+
+[[person]]
+name.last = "Sanchez"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+B_G = "15"
+B_AB = "42"
+B_R = "3"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "16"
+B_AVG = ".071"
+
+
+[[person]]
+name.last = "Chitwood"
+name.given = "Edgar"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+B_G = "17"
+B_AB = "32"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "15"
+B_AVG = ".063"
+
+
+[[person]]
+name.last = "Standefer"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "10"
+B_AB = "18"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".056"
+
+
+[[person]]
+name.last = "Hopkins"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+B_G = "20"
+B_AB = "38"
+B_R = "0"
+B_H = "1"
+B_TB = "2"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "21"
+B_AVG = ".026"
+
+
+[[person]]
+name.last = "White"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+B_G = "17"
+B_AB = "22"
+B_R = "3"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "10"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+B_G = "10"
+B_AB = "10"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Needham"
+name.given = "Troy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Reveille"
+name.given = "Nick"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dunbar"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McLaughlin"
+name.given = "Pat"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Teafatiller"
+name.given = "Tommy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brooks"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Christian"
+name.given = "J. C."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wallace"
+name.given = "Otis"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stinson"
+name.given = "J. B."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Shields"
+name.given = "Wayne"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kasparek"
+name.given = "Al"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bowman"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Whitehead"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Reid"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mason"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Vaught"
+name.given = "Johnny"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Noble"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brendel"
+name.given = "Al"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wilcox"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Patterson"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hodge"
+name.given = "Bill"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sutphen"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Carr"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Billings"
+name.given = "J."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Scott"
+name.given = "Marshall"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Chandler"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Osborne"
+name.given = "Glenn"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kushan"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Allen"
+name.given = "Wayne"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Karoe"
+name.given = "Joe"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McComb"
+name.given = "Floyd"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Simpson"
+name.given = "Ike"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ducos"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Griffin"
+name.given = "Clarence"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Douis"
+name.given = "Bob"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Baker"
+name.given = "Al"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Westbrook"
+name.given = "Vernon"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Janicek"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sharp"
+name.given = "Ed"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lester"
+name.given = "Joe"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Greer"
+name.given = "Ed"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Holemann"
+name.given = "Ted"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Rewin"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Galarity"
+name.given = "S."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McGee"
+name.given = "Alton"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Nelson"
+name.given = "Ed"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stevenson"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Leon"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Humphreys"
+name.given = "Cooksey"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stinnott"
+name.given = "Clyde"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stockdale"
+name.given = "Jimmy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hare"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Simmons"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Miller"
+name.given = "A."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wynn"
+name.given = "Marlin"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cantu"
+name.given = "Jimmy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ludwig"
+name.given = "Malcolm"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Watts"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Farmer"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Whitson"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Shoffner"
+name.given = "Danny"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Van"
+name.given = "Bernie"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schrum"
+name.given = "Archie"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Osborne"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Scott"
+name.given = "Ira"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hickson"
+name.given = "Bill"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Howard"
+name.given = "Neal"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tyler"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Briggs"
+name.given = "Billy"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jordan"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lussow"
+name.given = "Al"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Engle"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Githens"
+name.given = "Bill"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lenn"
+name.given = "Ed"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tobin"
+name.given = "Jim"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Thurman"
+name.given = "Barney"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Chamness"
+name.given = "Pete"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Abit"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Griffman"
+name.given = "C."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Jake"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Henderson"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Moss"
+name.given = "D. A."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Carroll"
+name.given = "Wayne"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Starnes"
+name.given = "Clovis"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Durham"
+name.given = "Joe"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Walloon"
+name.given = "Lester"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hammock"
+name.given = "Marv"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Langston"
+name.given = "Don"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stone"
+name.given = "Virgil"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Malish"
+name.given = "Barnell"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "Sidney"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gault"
+name.given = "Seibert"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Parson"
+name.given = "Steve"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Richards"
+name.given = "C. B."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stuckey"
+name.given = "J. L."
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Sam"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Storenski"
+name.given = "Eddie"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Joyce"
+name.given = "Hector"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Miles"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tilley"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mandjack"
+name.given = "Mickey"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hinson"
+name.given = "Rip"
+[[person.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lufkin"
+[person.playing.totals]

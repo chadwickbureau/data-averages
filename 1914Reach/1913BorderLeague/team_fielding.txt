@@ -1,0 +1,68 @@
+[[team]]
+name = "Wyandotte"
+[[team.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "36"
+F_PO = "951"
+F_A = "467"
+F_E = "79"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Ypsilanti"
+[[team.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "33"
+F_PO = "881"
+F_A = "354"
+F_E = "87"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Port Huron"
+[[team.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "34"
+F_PO = "863"
+F_A = "347"
+F_E = "89"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Windsor"
+[[team.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "34"
+F_PO = "697"
+F_A = "313"
+F_E = "96"
+F_PCT = ".913"
+
+
+[[team]]
+name = "Pontiac"
+[[team.playing]]
+season = "1913"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "31"
+F_PO = "730"
+F_A = "309"
+F_E = "106"
+F_PCT = ".907"

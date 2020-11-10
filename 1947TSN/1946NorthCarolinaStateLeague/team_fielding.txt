@@ -1,0 +1,134 @@
+[[team]]
+name = "Landis"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_DP = "71"
+F_TP = "0"
+F_PB = "12"
+F_PO = "2743"
+F_A = "1108"
+F_E = "158"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Hickory"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_DP = "93"
+F_TP = "0"
+F_PB = "29"
+F_PO = "2776"
+F_A = "1225"
+F_E = "205"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Concord"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_DP = "83"
+F_TP = "0"
+F_PB = "19"
+F_PO = "2807"
+F_A = "1242"
+F_E = "221"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_DP = "47"
+F_TP = "0"
+F_PB = "14"
+F_PO = "2667"
+F_A = "1086"
+F_E = "210"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Statesville"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_DP = "73"
+F_TP = "0"
+F_PB = "24"
+F_PO = "2734"
+F_A = "1185"
+F_E = "228"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_DP = "88"
+F_TP = "0"
+F_PB = "13"
+F_PO = "2869"
+F_A = "1195"
+F_E = "243"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Mooresville"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_DP = "70"
+F_TP = "0"
+F_PB = "18"
+F_PO = "2759"
+F_A = "1182"
+F_E = "249"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_DP = "49"
+F_TP = "0"
+F_PB = "31"
+F_PO = "2787"
+F_A = "1151"
+F_E = "295"
+F_PCT = ".930"

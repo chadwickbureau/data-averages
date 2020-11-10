@@ -1,0 +1,94 @@
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4096"
+B_R = "560"
+B_H = "1109"
+B_SH = "171"
+B_SB = "171"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4140"
+B_R = "524"
+B_H = "1110"
+B_SH = "215"
+B_SB = "138"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Lansing"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4123"
+B_R = "515"
+B_H = "1074"
+B_SH = "141"
+B_SB = "249"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4281"
+B_R = "566"
+B_H = "1091"
+B_SH = "134"
+B_SB = "214"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Adrian"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4106"
+B_R = "485"
+B_H = "1044"
+B_SH = "198"
+B_SB = "146"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1912"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4066"
+B_R = "484"
+B_H = "1003"
+B_SH = "180"
+B_SB = "154"
+B_AVG = ".247"

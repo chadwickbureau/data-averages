@@ -1,0 +1,76 @@
+[[team]]
+name = "Dothan"
+[[team.playing]]
+season = "1916"
+league.name = "Dixie League"
+phase = "regular"
+[team.playing.totals]
+R_W = "37"
+R_L = "23"
+R_PCT = ".617"
+R_RANK = "1"
+
+
+[[team]]
+name = "Eufaula"
+[[team.playing]]
+season = "1916"
+league.name = "Dixie League"
+phase = "regular"
+[team.playing.totals]
+R_W = "34"
+R_L = "25"
+R_PCT = ".576"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bainbridge"
+[[team.playing]]
+season = "1916"
+league.name = "Dixie League"
+phase = "regular"
+[team.playing.totals]
+R_W = "32"
+R_L = "29"
+R_PCT = ".525"
+R_RANK = "3"
+
+
+[[team]]
+name = "Moultrie"
+[[team.playing]]
+season = "1916"
+league.name = "Dixie League"
+phase = "regular"
+[team.playing.totals]
+R_W = "29"
+R_L = "29"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1916"
+league.name = "Dixie League"
+phase = "regular"
+[team.playing.totals]
+R_W = "20"
+R_L = "33"
+R_PCT = ".440"
+R_RANK = "5"
+
+
+[[team]]
+name = "Quitman"
+[[team.playing]]
+season = "1916"
+league.name = "Dixie League"
+phase = "regular"
+[team.playing.totals]
+R_W = "20"
+R_L = "40"
+R_PCT = ".333"
+R_RANK = "6"

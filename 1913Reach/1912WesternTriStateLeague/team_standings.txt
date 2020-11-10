@@ -1,0 +1,50 @@
+[[team]]
+name = "Walla Walla"
+[[team.playing]]
+season = "1912"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "37"
+R_PCT = ".622"
+R_RANK = "1"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1912"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "46"
+R_PCT = ".549"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pendleton"
+[[team.playing]]
+season = "1912"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "51"
+R_PCT = ".510"
+R_RANK = "3"
+
+
+[[team]]
+name = "La Grande"
+[[team.playing]]
+season = "1912"
+league.name = "Western Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "31"
+R_L = "68"
+R_PCT = ".313"
+R_RANK = "4"

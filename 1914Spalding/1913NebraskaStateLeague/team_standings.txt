@@ -1,0 +1,102 @@
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "45"
+R_PCT = ".598"
+R_RANK = "1"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "48"
+R_PCT = ".571"
+R_RANK = "2"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "55"
+R_PCT = ".509"
+R_RANK = "3"
+
+
+[[team]]
+name = "Fremont"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "56"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "58"
+R_PCT = ".482"
+R_RANK = "5"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "58"
+R_PCT = ".482"
+R_RANK = "6"
+
+
+[[team]]
+name = "Beatrice"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "60"
+R_PCT = ".464"
+R_RANK = "7"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1913"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "68"
+R_PCT = ".393"
+R_RANK = "8"

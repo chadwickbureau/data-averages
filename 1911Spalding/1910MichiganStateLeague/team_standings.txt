@@ -1,0 +1,50 @@
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "43"
+R_L = "42"
+R_PCT = ".558"
+R_RANK = "1"
+
+
+[[team]]
+name = "Traverse City"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "50"
+R_L = "45"
+R_PCT = ".526"
+R_RANK = "2"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "49"
+R_L = "47"
+R_PCT = ".510"
+R_RANK = "3"
+
+
+[[team]]
+name = "Holland"
+[[team.playing]]
+season = "1910"
+league.name = "Michigan State League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "39"
+R_L = "57"
+R_PCT = ".406"
+R_RANK = "4"

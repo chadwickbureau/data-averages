@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Riddle"
+name.given = "Charles (Chase)"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Albany"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wasiak"
+name.given = "Stanley"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Valdosta"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rufer"
+name.given = "Rudolf"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thomasville"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hamilton"
+name.given = "Leon"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thomasville"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wright"
+name.given = "Roger"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thomasville"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Weaver"
+name.given = "Earl"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fitzgerald"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Zientara"
+name.given = "Benjamin"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Moultrie/Brunswick"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Fandozzi"
+name.given = "Michael"
+[[person.managing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waycross"
+S_ORDER = "0"
+[person.managing.totals]

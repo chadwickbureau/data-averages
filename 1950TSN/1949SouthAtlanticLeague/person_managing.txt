@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Osborn"
+name.given = "Donald"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Macon"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Skaff"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Savannah"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bryant"
+name.given = "Claiborne"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Greenville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wicker"
+name.given = "Kemp"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Columbus"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Aragon"
+name.given = "Jack"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Jacksonville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Biggs"
+name.given = "Chas. Alton (Arky)"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Augusta"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Pruett"
+name.given = "James"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Augusta"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Crompton"
+name.given = "Herbert"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Fisher"
+name.given = "Albert"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Gerald"
+[[person.managing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Columbia"
+S_ORDER = "0"
+[person.managing.totals]

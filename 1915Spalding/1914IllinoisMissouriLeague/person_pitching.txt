@@ -1,0 +1,694 @@
+[[person]]
+name.last = "Baichley"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "20"
+P_IP = "143.1"
+P_AB = "502"
+P_H = "76"
+P_R = "33"
+P_HP = "9"
+P_BB = "42"
+P_SO = "174"
+P_WP = "4"
+P_W = "15"
+P_L = "2"
+P_PCT = ".882"
+
+
+[[person]]
+name.last = "Griffin"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "25"
+P_IP = "160.1"
+P_AB = "596"
+P_H = "127"
+P_R = "64"
+P_HP = "9"
+P_BB = "30"
+P_SO = "84"
+P_WP = "1"
+P_W = "12"
+P_L = "4"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Tadlock"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "25"
+P_IP = "164.2"
+P_AB = "611"
+P_H = "134"
+P_R = "77"
+P_HP = "13"
+P_BB = "50"
+P_SO = "92"
+P_WP = "5"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "16"
+P_IP = "130.1"
+P_AB = "407"
+P_H = "134"
+P_R = "60"
+P_HP = "1"
+P_BB = "15"
+P_SO = "69"
+P_WP = "0"
+P_W = "10"
+P_L = "5"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "25"
+P_IP = "193.2"
+P_AB = "740"
+P_H = "162"
+P_R = "60"
+P_HP = "6"
+P_BB = "31"
+P_SO = "87"
+P_WP = "4"
+P_W = "12"
+P_L = "7"
+P_PCT = ".632"
+
+
+[[person]]
+name.last = "Lyons"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "25"
+P_IP = "188"
+P_AB = "697"
+P_H = "173"
+P_R = "74"
+P_HP = "7"
+P_BB = "62"
+P_SO = "127"
+P_WP = "8"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Whitehouse"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "27"
+P_IP = "200.1"
+P_AB = "763"
+P_H = "170"
+P_R = "59"
+P_HP = "14"
+P_BB = "47"
+P_SO = "145"
+P_WP = "2"
+P_W = "13"
+P_L = "9"
+P_PCT = ".591"
+
+
+[[person]]
+name.last = "Whaley"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "15"
+P_IP = "101"
+P_AB = "379"
+P_H = "88"
+P_R = "50"
+P_HP = "7"
+P_BB = "24"
+P_SO = "48"
+P_WP = "0"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Broadwell"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "28"
+P_IP = "213"
+P_AB = "817"
+P_H = "186"
+P_R = "82"
+P_HP = "11"
+P_BB = "31"
+P_SO = "166"
+P_WP = "4"
+P_W = "14"
+P_L = "11"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "Carrow"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "28"
+P_IP = "218"
+P_AB = "843"
+P_H = "192"
+P_R = "108"
+P_HP = "20"
+P_BB = "67"
+P_SO = "123"
+P_WP = "8"
+P_W = "15"
+P_L = "12"
+P_PCT = ".556"
+
+
+[[person]]
+name.last = "Bierman"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "25"
+P_IP = "213.2"
+P_AB = "757"
+P_H = "153"
+P_R = "72"
+P_HP = "9"
+P_BB = "69"
+P_SO = "106"
+P_WP = "8"
+P_W = "13"
+P_L = "11"
+P_PCT = ".542"
+
+
+[[person]]
+name.last = "Hook"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "27"
+P_IP = "178.2"
+P_AB = "692"
+P_H = "181"
+P_R = "83"
+P_HP = "8"
+P_BB = "37"
+P_SO = "69"
+P_WP = "2"
+P_W = "11"
+P_L = "10"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Dark"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "15"
+P_IP = "126.2"
+P_AB = "452"
+P_H = "106"
+P_R = "45"
+P_HP = "7"
+P_BB = "24"
+P_SO = "73"
+P_WP = "2"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "22"
+P_IP = "174"
+P_AB = "629"
+P_H = "166"
+P_R = "71"
+P_HP = "8"
+P_BB = "41"
+P_SO = "51"
+P_WP = "2"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Remark"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "18"
+P_IP = "108"
+P_AB = "302"
+P_H = "96"
+P_R = "52"
+P_HP = "13"
+P_BB = "27"
+P_SO = "79"
+P_WP = "5"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "22"
+P_IP = "144"
+P_AB = "590"
+P_H = "141"
+P_R = "87"
+P_HP = "14"
+P_BB = "77"
+P_SO = "116"
+P_WP = "6"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+
+
+[[person]]
+name.last = "Somners"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "21"
+P_IP = "167.2"
+P_AB = "649"
+P_H = "154"
+P_R = "89"
+P_HP = "10"
+P_BB = "44"
+P_SO = "104"
+P_WP = "5"
+P_W = "4"
+P_L = "16"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Seers"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "3"
+P_IP = "20.1"
+P_AB = "80"
+P_H = "22"
+P_R = "12"
+P_HP = "2"
+P_BB = "6"
+P_SO = "10"
+P_WP = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Baxter"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "1"
+P_IP = "9"
+P_AB = "39"
+P_H = "13"
+P_R = "4"
+P_HP = "4"
+P_BB = "0"
+P_SO = "2"
+P_WP = "3"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Knight"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "1"
+P_IP = "9"
+P_AB = "35"
+P_H = "6"
+P_R = "6"
+P_HP = "0"
+P_BB = "3"
+P_SO = "10"
+P_WP = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Jaeger"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "1"
+P_IP = "8"
+P_AB = "37"
+P_H = "12"
+P_R = "7"
+P_HP = "1"
+P_BB = "1"
+P_SO = "3"
+P_WP = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Culver"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "5"
+P_IP = "48"
+P_AB = "170"
+P_H = "41"
+P_R = "22"
+P_HP = "4"
+P_BB = "9"
+P_SO = "21"
+P_WP = "2"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Curran"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "2"
+P_IP = "23"
+P_AB = "89"
+P_H = "22"
+P_R = "5"
+P_HP = "2"
+P_BB = "2"
+P_SO = "10"
+P_WP = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Schrenk"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "8"
+P_IP = "50.2"
+P_AB = "184"
+P_H = "43"
+P_R = "21"
+P_HP = "10"
+P_BB = "13"
+P_SO = "26"
+P_WP = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Underhill"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "3"
+P_IP = "27"
+P_AB = "99"
+P_H = "25"
+P_R = "16"
+P_HP = "2"
+P_BB = "13"
+P_SO = "16"
+P_WP = "2"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Ukey"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "8"
+P_IP = "45"
+P_AB = "173"
+P_H = "47"
+P_R = "26"
+P_HP = "9"
+P_BB = "21"
+P_SO = "33"
+P_WP = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "5"
+P_IP = "35.2"
+P_AB = "144"
+P_H = "35"
+P_R = "23"
+P_HP = "1"
+P_BB = "14"
+P_SO = "12"
+P_WP = "1"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Deihl"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "1"
+P_IP = "3"
+P_AB = "1"
+P_H = "0"
+P_R = "0"
+P_HP = "0"
+P_BB = "0"
+P_SO = "0"
+P_WP = "0"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Wilmeroth"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "1"
+P_IP = "9"
+P_AB = "41"
+P_H = "14"
+P_R = "7"
+P_HP = "2"
+P_BB = "2"
+P_SO = "7"
+P_WP = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1914"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "La Salle"
+[person.playing.totals]
+P_G = "2"
+P_IP = "19.2"
+P_AB = "12"
+P_H = "5"
+P_R = "2"
+P_HP = "1"
+P_BB = "2"
+P_SO = "1"
+P_WP = "0"
+P_W = "0"
+P_L = "0"

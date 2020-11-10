@@ -1,0 +1,98 @@
+[[team]]
+name = "Agua Prieta"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3255"
+B_R = "564"
+B_H = "869"
+B_TB = "1240"
+B_2B = "145"
+B_3B = "56"
+B_HR = "38"
+B_RBI = "427"
+B_SH = "33"
+B_SF = "45"
+B_BB = "303"
+B_HP = "42"
+B_SO = "497"
+B_SB = "67"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Caborca"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3095"
+B_R = "464"
+B_H = "787"
+B_TB = "1040"
+B_2B = "123"
+B_3B = "32"
+B_HR = "22"
+B_RBI = "393"
+B_SH = "58"
+B_SF = "25"
+B_BB = "270"
+B_HP = "56"
+B_SO = "486"
+B_SB = "94"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Cananea"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+B_G = "94"
+B_AB = "3115"
+B_R = "343"
+B_H = "768"
+B_TB = "1038"
+B_2B = "115"
+B_3B = "46"
+B_HR = "21"
+B_RBI = "300"
+B_SH = "19"
+B_SF = "18"
+B_BB = "213"
+B_HP = "41"
+B_SO = "401"
+B_SB = "85"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Empalme"
+[[team.playing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "3129"
+B_R = "355"
+B_H = "648"
+B_TB = "833"
+B_2B = "91"
+B_3B = "23"
+B_HR = "16"
+B_RBI = "297"
+B_SH = "45"
+B_SF = "21"
+B_BB = "243"
+B_HP = "36"
+B_SO = "532"
+B_SB = "147"
+B_AVG = ".207"

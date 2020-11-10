@@ -1,0 +1,1961 @@
+[[person]]
+name.last = "Gorman"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "10"
+P_CG = "9"
+P_W = "3"
+P_L = "5"
+P_T = "1"
+P_PCT = ".375"
+P_IP = "82"
+P_AB = "309"
+P_H = "65"
+P_R = "33"
+P_ER = "21"
+P_SH = "3"
+P_BB = "23"
+P_SO = "82"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "2.30"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Bowman"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "12"
+P_CG = "8"
+P_W = "6"
+P_L = "4"
+P_T = "0"
+P_PCT = ".600"
+P_IP = "97"
+P_AB = "375"
+P_H = "86"
+P_R = "35"
+P_ER = "25"
+P_SH = "1"
+P_BB = "21"
+P_SO = "68"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "2.32"
+P_BK = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Cooper"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "21"
+P_CG = "13"
+P_W = "10"
+P_L = "5"
+P_T = "2"
+P_PCT = ".667"
+P_IP = "140"
+P_AB = "512"
+P_H = "108"
+P_R = "55"
+P_ER = "48"
+P_SH = "2"
+P_BB = "65"
+P_SO = "90"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "3.09"
+P_BK = "1"
+P_SHO = "1"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Case"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "26"
+P_CG = "16"
+P_W = "10"
+P_L = "11"
+P_T = "1"
+P_PCT = ".476"
+P_IP = "188"
+P_AB = "762"
+P_H = "198"
+P_R = "97"
+P_ER = "65"
+P_SH = "9"
+P_BB = "48"
+P_SO = "114"
+P_HP = "6"
+P_WP = "4"
+P_ERA = "3.11"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Porterfield"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "14"
+P_CG = "11"
+P_W = "7"
+P_L = "5"
+P_T = "1"
+P_PCT = ".583"
+P_IP = "105"
+P_AB = "415"
+P_H = "87"
+P_R = "49"
+P_ER = "37"
+P_SH = "2"
+P_BB = "39"
+P_SO = "143"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.17"
+P_BK = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Wallace"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "26"
+P_CG = "13"
+P_W = "13"
+P_L = "4"
+P_T = "1"
+P_PCT = ".765"
+P_IP = "169"
+P_AB = "612"
+P_H = "131"
+P_R = "78"
+P_ER = "62"
+P_SH = "3"
+P_BB = "119"
+P_SO = "148"
+P_HP = "10"
+P_WP = "1"
+P_ERA = "3.30"
+P_BK = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Cohick"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "28"
+P_CG = "18"
+P_W = "16"
+P_L = "9"
+P_T = "0"
+P_PCT = ".640"
+P_IP = "199"
+P_AB = "822"
+P_H = "225"
+P_R = "99"
+P_ER = "74"
+P_SH = "7"
+P_BB = "52"
+P_SO = "145"
+P_HP = "7"
+P_WP = "7"
+P_ERA = "3.35"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Clapper"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "18"
+P_CG = "13"
+P_W = "6"
+P_L = "9"
+P_T = "0"
+P_PCT = ".400"
+P_IP = "130"
+P_AB = "493"
+P_H = "142"
+P_R = "76"
+P_ER = "52"
+P_SH = "5"
+P_BB = "47"
+P_SO = "104"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "3.60"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Livingstone"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "20"
+P_CG = "11"
+P_W = "8"
+P_L = "8"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "130"
+P_AB = "517"
+P_H = "121"
+P_R = "70"
+P_ER = "52"
+P_SH = "4"
+P_BB = "82"
+P_SO = "103"
+P_HP = "1"
+P_WP = "8"
+P_ERA = "3.60"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Roode"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "25"
+P_CG = "12"
+P_W = "14"
+P_L = "5"
+P_T = "2"
+P_PCT = ".737"
+P_IP = "154"
+P_AB = "596"
+P_H = "152"
+P_R = "78"
+P_ER = "62"
+P_SH = "5"
+P_BB = "70"
+P_SO = "88"
+P_HP = "6"
+P_WP = "9"
+P_ERA = "3.62"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Mount Airy"
+P_G = "21"
+[person.playing.totals]
+P_G = "26"
+P_CG = "11"
+P_W = "7"
+P_L = "10"
+P_T = "0"
+P_PCT = ".412"
+P_IP = "162"
+P_AB = "644"
+P_H = "172"
+P_R = "101"
+P_ER = "69"
+P_SH = "5"
+P_BB = "57"
+P_SO = "77"
+P_HP = "1"
+P_WP = "8"
+P_ERA = "3.83"
+P_BK = "3"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "James"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "13"
+P_CG = "1"
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_PCT = ".250"
+P_IP = "49"
+P_AB = "190"
+P_H = "50"
+P_R = "32"
+P_ER = "21"
+P_SH = "0"
+P_BB = "30"
+P_SO = "13"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "3.86"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Haynes"
+name.given = "R."
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "18"
+P_CG = "9"
+P_W = "12"
+P_L = "4"
+P_T = "0"
+P_PCT = ".750"
+P_IP = "136"
+P_AB = "522"
+P_H = "134"
+P_R = "68"
+P_ER = "59"
+P_SH = "3"
+P_BB = "59"
+P_SO = "60"
+P_HP = "8"
+P_WP = "1"
+P_ERA = "3.90"
+P_BK = "2"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Price"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "27"
+P_CG = "18"
+P_W = "16"
+P_L = "7"
+P_T = "1"
+P_PCT = ".696"
+P_IP = "182"
+P_AB = "719"
+P_H = "197"
+P_R = "102"
+P_ER = "81"
+P_SH = "5"
+P_BB = "73"
+P_SO = "136"
+P_HP = "10"
+P_WP = "7"
+P_ERA = "4.01"
+P_BK = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Southard"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "19"
+P_CG = "12"
+P_W = "8"
+P_L = "10"
+P_T = "0"
+P_PCT = ".444"
+P_IP = "133"
+P_AB = "527"
+P_H = "120"
+P_R = "77"
+P_ER = "60"
+P_SH = "3"
+P_BB = "56"
+P_SO = "112"
+P_HP = "6"
+P_WP = "7"
+P_ERA = "4.06"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Treece"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "30"
+P_CG = "16"
+P_W = "13"
+P_L = "9"
+P_T = "1"
+P_PCT = ".591"
+P_IP = "203"
+P_AB = "807"
+P_H = "217"
+P_R = "116"
+P_ER = "92"
+P_SH = "7"
+P_BB = "96"
+P_SO = "133"
+P_HP = "5"
+P_WP = "6"
+P_ERA = "4.08"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Dean"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "23"
+P_CG = "15"
+P_W = "12"
+P_L = "7"
+P_T = "0"
+P_PCT = ".632"
+P_IP = "155"
+P_AB = "654"
+P_H = "194"
+P_R = "103"
+P_ER = "76"
+P_SH = "7"
+P_BB = "42"
+P_SO = "69"
+P_HP = "6"
+P_WP = "2"
+P_ERA = "4.41"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Harrison"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "22"
+P_CG = "9"
+P_W = "7"
+P_L = "8"
+P_T = "0"
+P_PCT = ".467"
+P_IP = "132"
+P_AB = "534"
+P_H = "172"
+P_R = "120"
+P_ER = "65"
+P_SH = "5"
+P_BB = "60"
+P_SO = "66"
+P_HP = "2"
+P_WP = "6"
+P_ERA = "4.43"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kimp"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "19"
+P_CG = "7"
+P_W = "7"
+P_L = "6"
+P_T = "1"
+P_PCT = ".538"
+P_IP = "97"
+P_AB = "364"
+P_H = "107"
+P_R = "56"
+P_ER = "48"
+P_SH = "3"
+P_BB = "48"
+P_SO = "49"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "4.45"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Adkins"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "16"
+P_CG = "6"
+P_W = "4"
+P_L = "6"
+P_T = "0"
+P_PCT = ".400"
+P_IP = "85"
+P_AB = "343"
+P_H = "93"
+P_R = "53"
+P_ER = "49"
+P_SH = "3"
+P_BB = "44"
+P_SO = "52"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "5.19"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Grubbs"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "13"
+P_CG = "4"
+P_W = "3"
+P_L = "5"
+P_T = "0"
+P_PCT = ".375"
+P_IP = "70"
+P_AB = "268"
+P_H = "73"
+P_R = "57"
+P_ER = "45"
+P_SH = "1"
+P_BB = "52"
+P_SO = "42"
+P_HP = "5"
+P_WP = "4"
+P_ERA = "5.79"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Ciracello"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "11"
+P_CG = "5"
+P_W = "2"
+P_L = "6"
+P_T = "0"
+P_PCT = ".250"
+P_IP = "76"
+P_AB = "310"
+P_H = "88"
+P_R = "71"
+P_ER = "50"
+P_SH = "3"
+P_BB = "55"
+P_SO = "32"
+P_HP = "1"
+P_WP = "9"
+P_ERA = "5.92"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Gilley"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "9"
+P_CG = "3"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "48"
+P_AB = "209"
+P_H = "67"
+P_R = "39"
+P_ER = "32"
+P_SH = "2"
+P_BB = "17"
+P_SO = "20"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "6.00"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Dixon"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "14"
+P_CG = "6"
+P_W = "5"
+P_L = "2"
+P_T = "1"
+P_PCT = ".714"
+P_IP = "66"
+P_AB = "305"
+P_H = "88"
+P_R = "52"
+P_ER = "47"
+P_SH = "3"
+P_BB = "42"
+P_SO = "33"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "6.41"
+P_BK = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Wainback"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "11"
+P_CG = "6"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_PCT = ".429"
+P_IP = "61"
+P_AB = "258"
+P_H = "76"
+P_R = "47"
+P_ER = "44"
+P_SH = "5"
+P_BB = "31"
+P_SO = "23"
+P_HP = "3"
+P_WP = "0"
+P_ERA = "6.49"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Cockerham"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "18"
+P_CG = "5"
+P_W = "1"
+P_L = "6"
+P_T = "0"
+P_PCT = ".143"
+P_IP = "88"
+P_AB = "377"
+P_H = "118"
+P_R = "96"
+P_ER = "70"
+P_SH = "12"
+P_BB = "53"
+P_SO = "34"
+P_HP = "5"
+P_WP = "5"
+P_ERA = "7.16"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Husarik"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_T = "0"
+P_PCT = "1.000"
+P_IP = "13"
+P_H = "17"
+P_R = "10"
+P_BB = "6"
+P_SO = "5"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Underwood"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "1"
+P_CG = "1"
+P_W = "1"
+P_L = "0"
+P_T = "0"
+P_PCT = "1.000"
+P_IP = "8"
+P_H = "7"
+P_R = "3"
+P_BB = "3"
+P_SO = "4"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Depriest"
+name.given = "Fay"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "8"
+P_CG = "4"
+P_W = "3"
+P_L = "1"
+P_T = "0"
+P_PCT = ".750"
+P_IP = "42"
+P_H = "47"
+P_R = "18"
+P_BB = "16"
+P_SO = "21"
+P_HP = "0"
+P_WP = "5"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Haynes"
+name.given = "Sox"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "8"
+P_CG = "3"
+P_W = "3"
+P_L = "1"
+P_T = "0"
+P_PCT = ".750"
+P_IP = "34"
+P_H = "35"
+P_R = "25"
+P_BB = "19"
+P_SO = "13"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hegner"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "13"
+P_H = "15"
+P_R = "8"
+P_BB = "6"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Spurrier"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_T = "0"
+P_PCT = ".500"
+P_IP = "6"
+P_H = "7"
+P_R = "5"
+P_BB = "5"
+P_SO = "2"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Brinegar"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_PCT = ".400"
+P_IP = "19"
+P_H = "32"
+P_R = "34"
+P_BB = "14"
+P_SO = "19"
+P_HP = "0"
+P_WP = "1"
+P_BK = "2"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Stateme"
+name.given = "Douglas"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "3"
+P_CG = "2"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "20"
+P_H = "18"
+P_R = "12"
+P_BB = "13"
+P_SO = "28"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Keys"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_PCT = ".333"
+P_IP = "12"
+P_H = "12"
+P_R = "17"
+P_BB = "27"
+P_SO = "6"
+P_HP = "0"
+P_WP = "2"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Tickle"
+name.given = "Efird"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "0"
+P_L = "5"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "36"
+P_H = "54"
+P_R = "47"
+P_BB = "33"
+P_SO = "16"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Chinnis"
+name.given = "Warner"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "8"
+P_CG = "2"
+P_W = "0"
+P_L = "4"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "42"
+P_H = "57"
+P_R = "62"
+P_BB = "53"
+P_SO = "15"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Ogle"
+name.given = "James"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "4"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "20"
+P_H = "30"
+P_R = "29"
+P_BB = "25"
+P_SO = "23"
+P_HP = "3"
+P_WP = "0"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Phipps"
+name.given = "J. Rex"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "2"
+P_CG = "2"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "20"
+P_R = "12"
+P_BB = "7"
+P_SO = "3"
+P_HP = "2"
+P_WP = "1"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Phipps"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "15"
+P_R = "21"
+P_BB = "15"
+P_SO = "3"
+P_HP = "0"
+P_WP = "2"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Underwood"
+name.given = "Everett"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "27"
+P_H = "47"
+P_R = "39"
+P_BB = "17"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Humphrey"
+name.given = "Kyler"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "15"
+P_H = "19"
+P_R = "27"
+P_BB = "18"
+P_SO = "5"
+P_HP = "1"
+P_WP = "2"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Pryor"
+name.given = "J. Paul"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "15"
+P_H = "36"
+P_R = "41"
+P_BB = "25"
+P_SO = "6"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Wade"
+name.given = "W. M."
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "16"
+P_R = "17"
+P_BB = "18"
+P_SO = "8"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hundley"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+P_G = "4"
+[[person.playing.split]]
+team.name = "Radford"
+P_G = "1"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "10"
+P_H = "20"
+P_R = "26"
+P_BB = "21"
+P_SO = "11"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "1"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "9"
+P_H = "8"
+P_R = "7"
+P_BB = "8"
+P_SO = "8"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Barker"
+name.given = "Benjamin"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "9"
+P_H = "10"
+P_R = "12"
+P_BB = "7"
+P_SO = "5"
+P_HP = "2"
+P_WP = "1"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Lauffer"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "14"
+P_R = "9"
+P_BB = "3"
+P_SO = "0"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Stewart"
+name.given = "Wayne"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "1"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "11"
+P_R = "11"
+P_BB = "7"
+P_SO = "0"
+P_HP = "1"
+P_WP = "0"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "21"
+P_R = "14"
+P_BB = "5"
+P_SO = "3"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "20"
+P_R = "17"
+P_BB = "5"
+P_SO = "2"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Watts"
+name.given = "Billie"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "2"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "7"
+P_H = "15"
+P_R = "9"
+P_BB = "5"
+P_SO = "3"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Batchko"
+name.given = "Joseph"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "7"
+P_H = "9"
+P_R = "11"
+P_BB = "5"
+P_SO = "5"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Goad"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "7"
+P_H = "11"
+P_R = "18"
+P_BB = "8"
+P_SO = "7"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Krupin"
+name.given = "Donald"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "6"
+P_H = "16"
+P_R = "12"
+P_BB = "6"
+P_SO = "6"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Linville"
+name.given = "Rex"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "5"
+P_H = "11"
+P_R = "6"
+P_BB = "2"
+P_SO = "0"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hillard"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "2"
+P_H = "8"
+P_R = "6"
+P_BB = "2"
+P_SO = "0"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Guinther"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "2"
+P_H = "5"
+P_R = "8"
+P_BB = "4"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Helwig"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "1"
+P_H = "3"
+P_R = "4"
+P_BB = "1"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Dalton"
+name.given = "Guy"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_PCT = ".000"
+P_IP = "1"
+P_H = "2"
+P_R = "5"
+P_BB = "2"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Watson"
+name.given = "Avery"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "11"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Cummings"
+name.given = "Joseph"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "11"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Juergens"
+name.given = "Richard"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "7"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Elvin"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "7"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Brelich"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "6"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Casbier"
+name.given = "Noel"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "4"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Wayne"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lenoir"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Adams"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Searles"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kinder"
+name.given = "Neal"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "2.2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Darwin"
+name.given = "Rodney"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Airy"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Radford"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Galax"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_T = "0"
+P_IP = "0.1"
+P_BK = "0"
+P_SHO = "0"

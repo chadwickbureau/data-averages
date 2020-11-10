@@ -1,0 +1,58 @@
+[[team]]
+name = "Eugene"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "78639"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "63029"
+
+
+[[team]]
+name = "Wenatchee"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "59773"
+
+
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "56718"
+
+
+[[team]]
+name = "Tr-City"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "54761"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "47102"

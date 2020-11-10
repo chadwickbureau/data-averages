@@ -1,0 +1,134 @@
+[[team]]
+name = "Fargo-Moorhead"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "106"
+F_DP = "88"
+F_TP = "0"
+F_PB = "13"
+F_PO = "2794"
+F_A = "1234"
+F_E = "212"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_DP = "98"
+F_TP = "0"
+F_PB = "12"
+F_PO = "2918"
+F_A = "1271"
+F_E = "230"
+F_PCT = ".948"
+
+
+[[team]]
+name = "St. Cloud"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "105"
+F_DP = "69"
+F_TP = "0"
+F_PB = "12"
+F_PO = "2749"
+F_A = "1107"
+F_E = "210"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_DP = "84"
+F_TP = "2"
+F_PB = "9"
+F_PO = "2782"
+F_A = "1091"
+F_E = "254"
+F_PCT = ".938"
+
+
+[[team]]
+name = "Grand Forks"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "106"
+F_DP = "78"
+F_TP = "1"
+F_PB = "13"
+F_PO = "2729"
+F_A = "1182"
+F_E = "263"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_DP = "74"
+F_TP = "0"
+F_PB = "14"
+F_PO = "2776"
+F_A = "1255"
+F_E = "292"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_DP = "89"
+F_TP = "0"
+F_PB = "4"
+F_PO = "2903"
+F_A = "1150"
+F_E = "299"
+F_PCT = ".931"
+
+
+[[team]]
+name = "Sioux Falls"
+[[team.playing]]
+season = "1946"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_DP = "64"
+F_TP = "0"
+F_PB = "13"
+F_PO = "2824"
+F_A = "1154"
+F_E = "346"
+F_PCT = ".920"

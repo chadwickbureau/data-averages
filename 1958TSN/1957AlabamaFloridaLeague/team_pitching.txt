@@ -1,0 +1,148 @@
+[[team]]
+name = "Fort Walton Beach"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+P_G = "120"
+P_CG = "59"
+P_SHO = "9"
+P_IP = "1031"
+P_AB = "3909"
+P_H = "960"
+P_HR = "56"
+P_R = "522"
+P_ER = "411"
+P_SH = "86"
+P_BB = "447"
+P_SO = "725"
+P_HP = "34"
+P_WP = "42"
+P_BK = "1"
+P_ERA = "3.59"
+
+
+[[team]]
+name = "Panama City"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+P_G = "120"
+P_CG = "63"
+P_SHO = "10"
+P_IP = "1050"
+P_AB = "4004"
+P_H = "941"
+P_HR = "60"
+P_R = "581"
+P_ER = "422"
+P_SH = "88"
+P_BB = "514"
+P_SO = "675"
+P_HP = "44"
+P_WP = "44"
+P_BK = "2"
+P_ERA = "3.62"
+
+
+[[team]]
+name = "Graceville"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+P_G = "120"
+P_CG = "65"
+P_SHO = "5"
+P_IP = "1023"
+P_AB = "3925"
+P_H = "951"
+P_HR = "57"
+P_R = "598"
+P_ER = "433"
+P_SH = "83"
+P_BB = "598"
+P_SO = "841"
+P_HP = "34"
+P_WP = "68"
+P_BK = "0"
+P_ERA = "3.81"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+P_G = "120"
+P_CG = "56"
+P_SHO = "10"
+P_IP = "1032"
+P_AB = "3980"
+P_H = "963"
+P_HR = "56"
+P_R = "576"
+P_ER = "440"
+P_SH = "69"
+P_BB = "498"
+P_SO = "745"
+P_HP = "42"
+P_WP = "35"
+P_BK = "2"
+P_ERA = "3.84"
+
+
+[[team]]
+name = "Pensacola"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+P_G = "120"
+P_CG = "47"
+P_SHO = "5"
+P_IP = "1053"
+P_AB = "4166"
+P_H = "1099"
+P_HR = "56"
+P_R = "671"
+P_ER = "507"
+P_SH = "97"
+P_BB = "542"
+P_SO = "766"
+P_HP = "42"
+P_WP = "61"
+P_BK = "5"
+P_ERA = "4.33"
+
+
+[[team]]
+name = "Selma"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+P_G = "120"
+P_CG = "50"
+P_SHO = "8"
+P_IP = "1018"
+P_AB = "4002"
+P_H = "1027"
+P_HR = "62"
+P_R = "695"
+P_ER = "526"
+P_SH = "90"
+P_BB = "637"
+P_SO = "816"
+P_HP = "54"
+P_WP = "72"
+P_BK = "4"
+P_ERA = "4.65"

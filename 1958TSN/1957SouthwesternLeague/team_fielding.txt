@@ -1,0 +1,134 @@
+[[team]]
+name = "Ballinger"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "127"
+F_PB = "47"
+F_PO = "3237"
+F_A = "1274"
+F_E = "179"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Hobbs"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "149"
+F_PB = "27"
+F_PO = "3227"
+F_A = "1445"
+F_E = "201"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Carlsbad"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_DP = "86"
+F_PB = "11"
+F_PO = "3141"
+F_A = "1087"
+F_E = "203"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Clovis"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "48"
+F_DP = "32"
+F_PB = "9"
+F_PO = "1244"
+F_A = "461"
+F_E = "83"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Midland/Lamesa"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "130"
+F_PB = "10"
+F_PO = "3133"
+F_A = "1314"
+F_E = "217"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Pampa/San Angelo"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "75"
+F_DP = "76"
+F_PB = "13"
+F_PO = "1904"
+F_A = "782"
+F_E = "133"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "78"
+F_DP = "75"
+F_PB = "9"
+F_PO = "1985"
+F_A = "709"
+F_E = "151"
+F_PCT = ".947"
+F_TP = "0"
+
+
+[[team]]
+name = "Plainview"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "42"
+F_DP = "32"
+F_PB = "4"
+F_PO = "1084"
+F_A = "430"
+F_E = "102"
+F_PCT = ".937"
+F_TP = "0"

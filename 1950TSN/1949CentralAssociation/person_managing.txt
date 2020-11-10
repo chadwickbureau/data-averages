@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Brown"
+name.given = "Lloyd"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Burlington"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hargreaves"
+name.given = "Charles"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Keokuk"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hoffman"
+name.given = "Harold"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Kewanee"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rogers"
+name.given = "Stanley (Packy)"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cedar Rapids"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Matulis"
+name.given = "Adolph"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Clinton"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Blake"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Clinton"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dill"
+name.given = "Robert"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rockford"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lietz"
+name.given = "Fred"
+[[person.managing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rockford"
+S_ORDER = "2"
+[person.managing.totals]

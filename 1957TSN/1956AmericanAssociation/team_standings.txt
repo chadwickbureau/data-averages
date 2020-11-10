@@ -1,0 +1,186 @@
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "62"
+R_T = "0"
+R_PCT = ".597"
+R_RANK = "1"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "87"
+R_L = "67"
+R_T = "0"
+R_PCT = ".565"
+R_RANK = "2"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "82"
+R_L = "71"
+R_T = "0"
+R_PCT = ".536"
+R_RANK = "3"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "78"
+R_L = "75"
+R_T = "1"
+R_PCT = ".510"
+R_RANK = "4"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "78"
+R_T = "0"
+R_PCT = ".490"
+R_RANK = "5"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "79"
+R_T = "0"
+R_PCT = ".484"
+R_RANK = "6"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "88"
+R_T = "0"
+R_PCT = ".425"
+R_RANK = "7"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "93"
+R_T = "1"
+R_PCT = ".392"
+R_RANK = "8"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_RANK = "2"

@@ -1,0 +1,102 @@
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "34"
+R_L = "16"
+R_PCT = ".680"
+R_RANK = "1"
+
+
+[[team]]
+name = "Shamokin"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "31"
+R_L = "17"
+R_PCT = ".646"
+R_RANK = "2"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "30"
+R_L = "22"
+R_PCT = ".577"
+R_RANK = "3"
+
+
+[[team]]
+name = "Hazleton"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "28"
+R_L = "24"
+R_PCT = ".538"
+R_RANK = "4"
+
+
+[[team]]
+name = "Easton"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "26"
+R_L = "24"
+R_PCT = ".520"
+R_RANK = "5"
+
+
+[[team]]
+name = "Mount Carmel"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "22"
+R_L = "24"
+R_PCT = ".478"
+R_RANK = "6"
+
+
+[[team]]
+name = "Pottsville"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "17"
+R_L = "29"
+R_PCT = ".379"
+R_RANK = "7"
+
+
+[[team]]
+name = "Pittston"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "5"
+R_L = "37"
+R_PCT = ".119"
+R_RANK = "8"

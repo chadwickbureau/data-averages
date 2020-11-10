@@ -1,0 +1,134 @@
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "127"
+F_PB = "26"
+F_PO = "3241"
+F_A = "1299"
+F_E = "194"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "128"
+F_PB = "17"
+F_PO = "3237"
+F_A = "1478"
+F_E = "224"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Fargo-Moorhead"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "86"
+F_PB = "8"
+F_PO = "3321"
+F_A = "1483"
+F_E = "232"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "St. Cloud"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "108"
+F_PB = "9"
+F_PO = "3203"
+F_A = "1344"
+F_E = "223"
+F_PCT = ".953"
+F_TP = "2"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "151"
+F_PB = "11"
+F_PO = "3237"
+F_A = "1481"
+F_E = "249"
+F_PCT = ".950"
+F_TP = "2"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "102"
+F_PB = "18"
+F_PO = "3212"
+F_A = "1377"
+F_E = "262"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Sioux Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "129"
+F_PB = "7"
+F_PO = "3143"
+F_A = "1494"
+F_E = "270"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Grand Forks"
+[[team.playing]]
+season = "1949"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "125"
+F_PB = "23"
+F_PO = "3221"
+F_A = "1551"
+F_E = "283"
+F_PCT = ".944"
+F_TP = "0"

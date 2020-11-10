@@ -1,0 +1,76 @@
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "87"
+R_L = "41"
+R_PCT = ".680"
+R_RANK = "1"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "52"
+R_PCT = ".587"
+R_RANK = "2"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "67"
+R_PCT = ".485"
+R_RANK = "3"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "71"
+R_PCT = ".445"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "76"
+R_PCT = ".406"
+R_RANK = "5"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "78"
+R_PCT = ".400"
+R_RANK = "6"

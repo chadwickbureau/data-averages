@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Washburn"
+name.given = "George"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Houma"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Strohm"
+name.given = "Harry"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lafayette"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bruno"
+name.given = "Paul"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Hammond"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Coleman"
+name.given = "Merle"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Alexandria"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Phelan"
+name.given = "Arthur"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Alexandria"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Love"
+name.given = "Nat"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Abbeville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Theard"
+name.given = "Wilfred"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thibodaux"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ploger"
+name.given = "Weldon (Gus)"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Thibodaux"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gauthreaux"
+name.given = "Sidney"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "New Iberia"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "DiBartolo"
+name.given = "Anthony"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Baton Rouge"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Borom"
+name.given = "Edward"
+[[person.managing]]
+season = "1949"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Baton Rouge"
+S_ORDER = "2"
+[person.managing.totals]

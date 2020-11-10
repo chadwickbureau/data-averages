@@ -1,0 +1,174 @@
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "150"
+B_AB = "4779"
+B_R = "609"
+B_H = "1200"
+B_2B = "262"
+B_3B = "51"
+B_HR = "45"
+B_TB = "1789"
+B_SH = "227"
+B_SB = "160"
+B_BB = "292"
+B_SO = "484"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "146"
+B_AB = "4699"
+B_R = "431"
+B_H = "1255"
+B_2B = "190"
+B_3B = "44"
+B_HR = "16"
+B_TB = "1581"
+B_SH = "182"
+B_SB = "175"
+B_BB = "282"
+B_SO = "540"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "133"
+B_AB = "4216"
+B_R = "534"
+B_H = "1070"
+B_2B = "99"
+B_3B = "47"
+B_HR = "18"
+B_TB = "1317"
+B_SH = "175"
+B_SB = "189"
+B_BB = "327"
+B_SO = "561"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5081"
+B_R = "584"
+B_H = "1215"
+B_2B = "224"
+B_3B = "46"
+B_HR = "23"
+B_TB = "1640"
+B_SH = "134"
+B_SB = "265"
+B_BB = "528"
+B_SO = "647"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "145"
+B_AB = "4643"
+B_R = "472"
+B_H = "1126"
+B_2B = "175"
+B_3B = "56"
+B_HR = "29"
+B_TB = "1500"
+B_SH = "265"
+B_SB = "159"
+B_BB = "322"
+B_SO = "562"
+B_AVG = ".243"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4650"
+B_R = "600"
+B_H = "1124"
+B_2B = "177"
+B_3B = "58"
+B_HR = "20"
+B_TB = "1477"
+B_SH = "226"
+B_SB = "221"
+B_BB = "445"
+B_SO = "560"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4823"
+B_R = "428"
+B_H = "1152"
+B_2B = "104"
+B_3B = "45"
+B_HR = "35"
+B_TB = "1451"
+B_SH = "109"
+B_SB = "155"
+B_BB = "435"
+B_SO = "650"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1915"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "4773"
+B_R = "534"
+B_H = "910"
+B_2B = "220"
+B_3B = "59"
+B_HR = "23"
+B_TB = "1317"
+B_SH = "145"
+B_SB = "157"
+B_BB = "404"
+B_SO = "569"
+B_AVG = ".191"

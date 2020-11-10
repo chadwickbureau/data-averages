@@ -1,0 +1,151 @@
+[[team]]
+name = "Corning"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "95"
+F_PB = "28"
+F_PO = "3110"
+F_A = "1217"
+F_E = "180"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "63"
+F_DP = "38"
+F_PB = "12"
+F_PO = "1470"
+F_A = "586"
+F_E = "90"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "74"
+F_PB = "28"
+F_PO = "3074"
+F_A = "1219"
+F_E = "206"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "97"
+F_DP = "69"
+F_PB = "12"
+F_PO = "2434"
+F_A = "940"
+F_E = "190"
+F_PCT = ".947"
+F_TP = "2"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_DP = "106"
+F_PB = "31"
+F_PO = "2962"
+F_A = "1176"
+F_E = "242"
+F_PCT = ".945"
+F_TP = "1"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "80"
+F_PB = "31"
+F_PO = "2924"
+F_A = "1146"
+F_E = "239"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "75"
+F_PB = "19"
+F_PO = "3057"
+F_A = "1243"
+F_E = "255"
+F_PCT = ".944"
+F_TP = "0"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "112"
+F_PB = "26"
+F_PO = "3050"
+F_A = "1202"
+F_E = "259"
+F_PCT = ".943"
+F_TP = "1"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1957"
+league.name = "New York-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "20"
+F_DP = "11"
+F_PB = "10"
+F_PO = "501"
+F_A = "1179"
+F_E = "52"
+F_PCT = ".929"
+F_TP = "0"

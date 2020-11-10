@@ -1,0 +1,4371 @@
+[[person]]
+name.last = "Adams"
+name.given = "Raymond"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "58"
+B_AB = "230"
+B_R = "41"
+B_H = "65"
+B_TB = "86"
+B_2B = "8"
+B_3B = "2"
+B_HR = "3"
+B_SH = "0"
+B_SF = "4"
+B_SB = "12"
+B_CS = "1"
+B_BB = "21"
+B_HP = "4"
+B_RBI = "22"
+B_SO = "5"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Alderman"
+name.given = "Arlen"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "23"
+B_AB = "51"
+B_R = "3"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "32"
+B_AVG = ".020"
+
+
+[[person]]
+name.last = "Altomare"
+name.given = "John"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "16"
+B_AB = "27"
+B_R = "4"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "11"
+B_AVG = ".148"
+
+
+[[person]]
+name.last = "Anthony"
+name.given = "Photios"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "97"
+B_AB = "321"
+B_R = "68"
+B_H = "89"
+B_TB = "146"
+B_2B = "10"
+B_3B = "4"
+B_HR = "13"
+B_SH = "4"
+B_SF = "3"
+B_SB = "10"
+B_CS = "4"
+B_BB = "80"
+B_HP = "4"
+B_RBI = "69"
+B_SO = "76"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Bader"
+name.given = "Albert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "19"
+B_AB = "51"
+B_R = "3"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_CS = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "9"
+B_AVG = ".137"
+
+
+[[person]]
+name.last = "Balcom"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "109"
+B_AB = "386"
+B_R = "74"
+B_H = "106"
+B_TB = "162"
+B_2B = "14"
+B_3B = "0"
+B_HR = "14"
+B_SH = "4"
+B_SF = "4"
+B_SB = "1"
+B_CS = "3"
+B_BB = "76"
+B_HP = "2"
+B_RBI = "80"
+B_SO = "65"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Bianchini"
+name.given = "Raymond"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "46"
+B_AB = "151"
+B_R = "33"
+B_H = "45"
+B_TB = "60"
+B_2B = "9"
+B_3B = "0"
+B_HR = "2"
+B_SH = "3"
+B_SF = "4"
+B_SB = "11"
+B_CS = "2"
+B_BB = "37"
+B_HP = "3"
+B_RBI = "24"
+B_SO = "22"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Buckner"
+name.given = "Jerome"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "19"
+B_AB = "24"
+B_R = "1"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Burton"
+name.given = "James"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "18"
+B_AB = "30"
+B_R = "5"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "4"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Busboom"
+name.given = "Dean"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "10"
+B_AB = "31"
+B_R = "3"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".129"
+
+
+[[person]]
+name.last = "Carr"
+name.given = "William"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "43"
+B_AB = "178"
+B_R = "39"
+B_H = "47"
+B_TB = "90"
+B_2B = "7"
+B_3B = "3"
+B_HR = "10"
+B_SH = "0"
+B_SF = "2"
+B_SB = "5"
+B_CS = "0"
+B_BB = "17"
+B_HP = "3"
+B_RBI = "36"
+B_SO = "30"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Chavis"
+name.given = "Grady"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "87"
+B_AB = "311"
+B_R = "56"
+B_H = "84"
+B_TB = "109"
+B_2B = "10"
+B_3B = "3"
+B_HR = "3"
+B_SH = "3"
+B_SF = "5"
+B_SB = "21"
+B_CS = "3"
+B_BB = "46"
+B_HP = "2"
+B_RBI = "38"
+B_SO = "31"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Clifford"
+name.given = "Jerry"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "53"
+B_AB = "173"
+B_R = "34"
+B_H = "49"
+B_TB = "78"
+B_2B = "4"
+B_3B = "2"
+B_HR = "7"
+B_SH = "2"
+B_SF = "2"
+B_SB = "2"
+B_CS = "1"
+B_BB = "29"
+B_HP = "5"
+B_RBI = "31"
+B_SO = "42"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Cooley"
+name.given = "Jack"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "27"
+B_AB = "102"
+B_R = "17"
+B_H = "27"
+B_TB = "35"
+B_2B = "6"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SF = "3"
+B_SB = "0"
+B_CS = "0"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "10"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Cooper"
+name.given = "Charles"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "59"
+B_AB = "217"
+B_R = "40"
+B_H = "60"
+B_TB = "80"
+B_2B = "10"
+B_3B = "2"
+B_HR = "5"
+B_SH = "3"
+B_SF = "1"
+B_SB = "9"
+B_CS = "4"
+B_BB = "35"
+B_HP = "0"
+B_RBI = "34"
+B_SO = "40"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "David"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "105"
+B_AB = "415"
+B_R = "83"
+B_H = "117"
+B_TB = "155"
+B_2B = "15"
+B_3B = "7"
+B_HR = "3"
+B_SH = "14"
+B_SF = "5"
+B_SB = "17"
+B_CS = "6"
+B_BB = "55"
+B_HP = "5"
+B_RBI = "52"
+B_SO = "33"
+B_AVG = ".282"
+B_AVG_RANK = "10"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Jack"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "52"
+B_AB = "184"
+B_R = "43"
+B_H = "65"
+B_TB = "115"
+B_2B = "12"
+B_3B = "1"
+B_HR = "12"
+B_SH = "2"
+B_SF = "3"
+B_SB = "2"
+B_CS = "1"
+B_BB = "32"
+B_HP = "1"
+B_RBI = "37"
+B_SO = "42"
+B_AVG = ".353"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Leo"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "16"
+B_AB = "22"
+B_R = "3"
+B_H = "6"
+B_TB = "8"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "9"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Didier"
+name.given = "Gerald"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "54"
+B_AB = "208"
+B_R = "41"
+B_H = "68"
+B_TB = "86"
+B_2B = "10"
+B_3B = "4"
+B_HR = "0"
+B_SH = "6"
+B_SF = "4"
+B_SB = "7"
+B_CS = "4"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "13"
+B_AVG = ".327"
+
+
+[[person]]
+name.last = "DiMuzio"
+name.given = "Carl"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "36"
+B_AB = "62"
+B_R = "5"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "12"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "29"
+B_AVG = ".081"
+
+
+[[person]]
+name.last = "Dixon"
+name.given = "Walter"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "57"
+B_AB = "188"
+B_R = "54"
+B_H = "70"
+B_TB = "122"
+B_2B = "10"
+B_3B = "0"
+B_HR = "14"
+B_SH = "1"
+B_SF = "2"
+B_SB = "3"
+B_CS = "2"
+B_BB = "44"
+B_HP = "1"
+B_RBI = "53"
+B_SO = "13"
+B_AVG = ".372"
+
+
+[[person]]
+name.last = "Donaldson"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "36"
+B_AB = "73"
+B_R = "7"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "9"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "8"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Donnelly"
+name.given = "Edward"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "17"
+B_AB = "38"
+B_R = "2"
+B_H = "4"
+B_TB = "7"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "3"
+B_HP = "2"
+B_RBI = "3"
+B_SO = "17"
+B_AVG = ".105"
+
+
+[[person]]
+name.last = "Dossey"
+name.given = "William"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "59"
+B_AB = "192"
+B_R = "22"
+B_H = "54"
+B_TB = "79"
+B_2B = "10"
+B_3B = "0"
+B_HR = "5"
+B_SH = "1"
+B_SF = "0"
+B_SB = "3"
+B_CS = "3"
+B_BB = "38"
+B_HP = "0"
+B_RBI = "28"
+B_SO = "20"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Dworaczyk"
+name.given = "Anthony"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "71"
+B_AB = "216"
+B_R = "24"
+B_H = "37"
+B_TB = "57"
+B_2B = "8"
+B_3B = "0"
+B_HR = "4"
+B_SH = "1"
+B_SF = "0"
+B_SB = "3"
+B_CS = "0"
+B_BB = "56"
+B_HP = "2"
+B_RBI = "17"
+B_SO = "73"
+B_AVG = ".171"
+
+
+[[person]]
+name.last = "Dziadura"
+name.given = "Eugene"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "15"
+B_AB = "32"
+B_R = "16"
+B_H = "15"
+B_TB = "20"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_CS = "1"
+B_BB = "17"
+B_HP = "2"
+B_RBI = "4"
+B_SO = "8"
+B_AVG = ".469"
+
+
+[[person]]
+name.last = "Fahnestock"
+name.given = "Ronald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "18"
+B_AB = "39"
+B_R = "2"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "18"
+B_AVG = ".154"
+
+
+[[person]]
+name.last = "Fanizzi"
+name.given = "James"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "99"
+B_AB = "341"
+B_R = "63"
+B_H = "81"
+B_TB = "117"
+B_2B = "8"
+B_3B = "2"
+B_HR = "8"
+B_SH = "6"
+B_SF = "2"
+B_SB = "5"
+B_CS = "2"
+B_BB = "86"
+B_HP = "2"
+B_RBI = "36"
+B_SO = "72"
+B_AVG = ".238"
+
+
+[[person]]
+name.last = "Fitzgerald"
+name.given = "Thomas"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "22"
+B_AB = "43"
+B_R = "7"
+B_H = "14"
+B_TB = "19"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SF = "0"
+B_SB = "1"
+B_CS = "1"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "6"
+B_AVG = ".326"
+
+
+[[person]]
+name.last = "Fletcher"
+name.given = "Arthur"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "11"
+B_AB = "19"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "2"
+B_SB = "1"
+B_CS = "1"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "4"
+B_AVG = ".105"
+
+
+[[person]]
+name.last = "Fogleman"
+name.given = "Dock"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "30"
+B_AB = "97"
+B_R = "16"
+B_H = "20"
+B_TB = "28"
+B_2B = "2"
+B_3B = "0"
+B_HR = "2"
+B_SH = "1"
+B_SF = "0"
+B_SB = "3"
+B_CS = "1"
+B_BB = "29"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "22"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Frulio"
+name.given = "Anthony"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "23"
+B_AB = "77"
+B_R = "9"
+B_H = "19"
+B_TB = "26"
+B_2B = "4"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SF = "1"
+B_SB = "0"
+B_CS = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "12"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Fuller"
+name.given = "Jack"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "38"
+B_AB = "68"
+B_R = "11"
+B_H = "16"
+B_TB = "22"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SF = "2"
+B_SB = "1"
+B_CS = "0"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "15"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Gholson"
+name.given = "Carroll"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "10"
+B_AB = "38"
+B_R = "9"
+B_H = "13"
+B_TB = "28"
+B_2B = "4"
+B_3B = "1"
+B_HR = "3"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_CS = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "9"
+B_AVG = ".342"
+
+
+[[person]]
+name.last = "Gorrie"
+name.given = "David"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "110"
+B_AB = "408"
+B_R = "89"
+B_H = "118"
+B_TB = "180"
+B_2B = "18"
+B_3B = "7"
+B_HR = "10"
+B_SH = "7"
+B_SF = "2"
+B_SB = "12"
+B_CS = "5"
+B_BB = "103"
+B_HP = "2"
+B_RBI = "53"
+B_SO = "39"
+B_AVG = ".289"
+B_AVG_RANK = "5"
+
+
+[[person]]
+name.last = "Gorrondona"
+name.given = "Donald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "31"
+B_AB = "74"
+B_R = "5"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "17"
+B_AVG = ".122"
+
+
+[[person]]
+name.last = "Grover"
+name.given = "Darwyn"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "13"
+B_AB = "24"
+B_R = "4"
+B_H = "4"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "9"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Hartsoe"
+name.given = "Gus"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "32"
+B_AB = "33"
+B_R = "3"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "14"
+B_AVG = ".091"
+
+
+[[person]]
+name.last = "Herrscher"
+name.given = "Roger"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "96"
+B_AB = "344"
+B_R = "74"
+B_H = "93"
+B_TB = "148"
+B_2B = "20"
+B_3B = "4"
+B_HR = "9"
+B_SH = "4"
+B_SF = "4"
+B_SB = "4"
+B_CS = "3"
+B_BB = "61"
+B_HP = "3"
+B_RBI = "66"
+B_SO = "64"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Hickman"
+name.given = "George"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "16"
+B_AB = "22"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "15"
+B_AVG = ".091"
+
+
+[[person]]
+name.last = "Hicks"
+name.given = "James"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "14"
+B_AB = "31"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "18"
+B_AVG = ".097"
+
+
+[[person]]
+name.last = "Hinton"
+name.given = "W. Terry"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "14"
+B_AB = "45"
+B_R = "7"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "20"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Horn"
+name.given = "Claude"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "106"
+B_AB = "357"
+B_R = "86"
+B_H = "135"
+B_TB = "215"
+B_2B = "25"
+B_3B = "8"
+B_HR = "13"
+B_SH = "3"
+B_SF = "0"
+B_SB = "17"
+B_CS = "3"
+B_BB = "70"
+B_HP = "3"
+B_RBI = "67"
+B_SO = "78"
+B_AVG = ".349"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Hughes"
+name.given = "Marcus"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "24"
+B_AB = "25"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "11"
+B_AVG = ".120"
+
+
+[[person]]
+name.last = "Irby"
+name.given = "David"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "113"
+B_AB = "453"
+B_R = "98"
+B_H = "133"
+B_TB = "247"
+B_2B = "24"
+B_3B = "6"
+B_HR = "26"
+B_SH = "4"
+B_SF = "5"
+B_SB = "10"
+B_CS = "4"
+B_BB = "53"
+B_HP = "1"
+B_RBI = "89"
+B_SO = "82"
+B_AVG = ".294"
+B_AVG_RANK = "4"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "H. William"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "97"
+B_AB = "331"
+B_R = "42"
+B_H = "78"
+B_TB = "112"
+B_2B = "20"
+B_3B = "1"
+B_HR = "4"
+B_SH = "10"
+B_SF = "3"
+B_SB = "7"
+B_CS = "3"
+B_BB = "50"
+B_HP = "3"
+B_RBI = "58"
+B_SO = "48"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Jurecko"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "18"
+B_AB = "26"
+B_R = "5"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Kimball"
+name.given = "E. William"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "25"
+B_AB = "96"
+B_R = "10"
+B_H = "25"
+B_TB = "30"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "1"
+B_SB = "0"
+B_CS = "0"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "22"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Kirby"
+name.given = "T. Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "15"
+B_AB = "15"
+B_R = "5"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "1"
+B_CS = "1"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "7"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Kray"
+name.given = "Victor"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "56"
+B_AB = "191"
+B_R = "35"
+B_H = "52"
+B_TB = "67"
+B_2B = "13"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SF = "2"
+B_SB = "3"
+B_CS = "0"
+B_BB = "39"
+B_HP = "2"
+B_RBI = "27"
+B_SO = "24"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Krebsbach"
+name.given = "Thomas"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "14"
+B_AB = "39"
+B_R = "8"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Kurtz"
+name.given = "Gerald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "35"
+B_AB = "97"
+B_R = "9"
+B_H = "19"
+B_TB = "19"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "22"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Lambert"
+name.given = "F. Delon"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "48"
+B_AB = "152"
+B_R = "29"
+B_H = "38"
+B_TB = "53"
+B_2B = "6"
+B_3B = "0"
+B_HR = "3"
+B_SH = "0"
+B_SF = "3"
+B_SB = "4"
+B_CS = "1"
+B_BB = "24"
+B_HP = "0"
+B_RBI = "23"
+B_SO = "33"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "LaNasa"
+name.given = "Dominic"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "57"
+B_AB = "201"
+B_R = "37"
+B_H = "52"
+B_TB = "87"
+B_2B = "9"
+B_3B = "4"
+B_HR = "6"
+B_SH = "1"
+B_SF = "1"
+B_SB = "7"
+B_CS = "3"
+B_BB = "38"
+B_HP = "3"
+B_RBI = "26"
+B_SO = "35"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Larned"
+name.given = "Harold"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "27"
+B_AB = "53"
+B_R = "4"
+B_H = "4"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "2"
+B_SB = "0"
+B_CS = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "24"
+B_AVG = ".075"
+
+
+[[person]]
+name.last = "Lary"
+name.given = "R. Yale"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "24"
+B_AB = "79"
+B_R = "22"
+B_H = "28"
+B_TB = "46"
+B_2B = "4"
+B_3B = "1"
+B_HR = "4"
+B_SH = "3"
+B_SF = "1"
+B_SB = "2"
+B_CS = "1"
+B_BB = "13"
+B_HP = "4"
+B_RBI = "16"
+B_SO = "8"
+B_AVG = ".354"
+
+
+[[person]]
+name.last = "Lindsey"
+name.given = "C. B."
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "15"
+B_AB = "24"
+B_R = "4"
+B_H = "3"
+B_TB = "4"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "10"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Mackenzie"
+name.given = "H. Gordon"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "110"
+B_AB = "406"
+B_R = "88"
+B_H = "125"
+B_TB = "179"
+B_2B = "28"
+B_3B = "4"
+B_HR = "6"
+B_SH = "6"
+B_SF = "7"
+B_SB = "6"
+B_CS = "2"
+B_BB = "83"
+B_HP = "1"
+B_RBI = "63"
+B_SO = "46"
+B_AVG = ".308"
+B_AVG_RANK = "3"
+
+
+[[person]]
+name.last = "Makay"
+name.given = "Andrew"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "15"
+B_AB = "17"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "10"
+B_AVG = ".118"
+
+
+[[person]]
+name.last = "Mayer"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "90"
+B_AB = "306"
+B_R = "66"
+B_H = "87"
+B_TB = "150"
+B_2B = "19"
+B_3B = "1"
+B_HR = "14"
+B_SH = "3"
+B_SF = "4"
+B_SB = "3"
+B_CS = "4"
+B_BB = "77"
+B_HP = "1"
+B_RBI = "81"
+B_SO = "60"
+B_AVG = ".284"
+B_AVG_RANK = "9"
+
+
+[[person]]
+name.last = "McArdle"
+name.given = "Bernard"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "13"
+B_AB = "21"
+B_R = "4"
+B_H = "4"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "3"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "McCarthy"
+name.given = "Daniel"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "18"
+B_AB = "29"
+B_R = "4"
+B_H = "6"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "McClish"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "67"
+B_AB = "217"
+B_R = "33"
+B_H = "63"
+B_TB = "92"
+B_2B = "10"
+B_3B = "2"
+B_HR = "5"
+B_SH = "5"
+B_SF = "4"
+B_SB = "6"
+B_CS = "2"
+B_BB = "43"
+B_HP = "0"
+B_RBI = "44"
+B_SO = "23"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "McDowell"
+name.given = "Chester"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "56"
+B_AB = "175"
+B_R = "35"
+B_H = "45"
+B_TB = "51"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "6"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "47"
+B_HP = "3"
+B_RBI = "18"
+B_SO = "11"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "McElroy"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "111"
+B_AB = "410"
+B_R = "77"
+B_H = "141"
+B_TB = "193"
+B_2B = "14"
+B_3B = "4"
+B_HR = "10"
+B_SH = "3"
+B_SF = "7"
+B_SB = "12"
+B_CS = "4"
+B_BB = "64"
+B_HP = "0"
+B_RBI = "92"
+B_SO = "35"
+B_AVG = ".344"
+B_AVG_RANK = "2"
+
+
+[[person]]
+name.last = "McFarland"
+name.given = "Donald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "16"
+B_AB = "19"
+B_R = "0"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "McKee"
+name.given = "Rogers"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "54"
+B_AB = "190"
+B_R = "37"
+B_H = "56"
+B_TB = "85"
+B_2B = "7"
+B_3B = "2"
+B_HR = "6"
+B_SH = "1"
+B_SF = "2"
+B_SB = "6"
+B_CS = "1"
+B_BB = "42"
+B_HP = "1"
+B_RBI = "30"
+B_SO = "15"
+B_AVG = ".295"
+
+
+[[person]]
+name.last = "Mendoza"
+name.given = "Al"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "53"
+B_AB = "179"
+B_R = "20"
+B_H = "40"
+B_TB = "55"
+B_2B = "6"
+B_3B = "0"
+B_HR = "3"
+B_SH = "1"
+B_SF = "1"
+B_SB = "1"
+B_CS = "0"
+B_BB = "21"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "22"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Merklen"
+name.given = "H. Glen"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "45"
+B_AB = "172"
+B_R = "29"
+B_H = "50"
+B_TB = "68"
+B_2B = "5"
+B_3B = "2"
+B_HR = "3"
+B_SH = "0"
+B_SF = "1"
+B_SB = "1"
+B_CS = "6"
+B_BB = "22"
+B_HP = "0"
+B_RBI = "28"
+B_SO = "24"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Millet"
+name.given = "Morris"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "65"
+B_AB = "177"
+B_R = "30"
+B_H = "58"
+B_TB = "86"
+B_2B = "10"
+B_3B = "3"
+B_HR = "4"
+B_SH = "1"
+B_SF = "1"
+B_SB = "2"
+B_CS = "1"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "39"
+B_SO = "12"
+B_AVG = ".328"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "16"
+B_AB = "30"
+B_R = "0"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "9"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Morgan"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "57"
+B_AB = "200"
+B_R = "25"
+B_H = "47"
+B_TB = "63"
+B_2B = "5"
+B_3B = "4"
+B_HR = "1"
+B_SH = "1"
+B_SF = "1"
+B_SB = "1"
+B_CS = "1"
+B_BB = "37"
+B_HP = "1"
+B_RBI = "26"
+B_SO = "24"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Mudrock"
+name.given = "Philip"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "25"
+B_AB = "35"
+B_R = "6"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "15"
+B_HP = "2"
+B_RBI = "2"
+B_SO = "19"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Mueller"
+name.given = "Joseph"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "107"
+B_AB = "419"
+B_R = "85"
+B_H = "108"
+B_TB = "140"
+B_2B = "20"
+B_3B = "3"
+B_HR = "2"
+B_SH = "13"
+B_SF = "4"
+B_SB = "8"
+B_CS = "2"
+B_BB = "52"
+B_HP = "2"
+B_RBI = "32"
+B_SO = "75"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Nisewonger"
+name.given = "James"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "102"
+B_AB = "381"
+B_R = "75"
+B_H = "110"
+B_TB = "192"
+B_2B = "17"
+B_3B = "1"
+B_HR = "21"
+B_SH = "3"
+B_SF = "4"
+B_SB = "4"
+B_CS = "1"
+B_BB = "47"
+B_HP = "1"
+B_RBI = "70"
+B_SO = "71"
+B_AVG = ".289"
+B_AVG_RANK = "6"
+
+
+[[person]]
+name.last = "Pasquale"
+name.given = "Louis"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "14"
+B_AB = "38"
+B_R = "5"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "11"
+B_AVG = ".132"
+
+
+[[person]]
+name.last = "Paul"
+name.given = "Ronald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "108"
+B_AB = "342"
+B_R = "67"
+B_H = "73"
+B_TB = "117"
+B_2B = "14"
+B_3B = "0"
+B_HR = "10"
+B_SH = "6"
+B_SF = "9"
+B_SB = "7"
+B_CS = "3"
+B_BB = "72"
+B_HP = "2"
+B_RBI = "61"
+B_SO = "77"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Pearson"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "46"
+B_AB = "182"
+B_R = "23"
+B_H = "49"
+B_TB = "64"
+B_2B = "8"
+B_3B = "2"
+B_HR = "1"
+B_SH = "1"
+B_SF = "2"
+B_SB = "4"
+B_CS = "2"
+B_BB = "21"
+B_HP = "0"
+B_RBI = "27"
+B_SO = "17"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Pfister"
+name.given = "Daniel"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "35"
+B_AB = "71"
+B_R = "10"
+B_H = "17"
+B_TB = "20"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "11"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Pleis"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "27"
+B_AB = "37"
+B_R = "3"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "8"
+B_AVG = ".297"
+
+
+[[person]]
+name.last = "Prince"
+name.given = "Donald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "11"
+B_AB = "27"
+B_R = "3"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "11"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Quick"
+name.given = "Charles"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "23"
+B_AB = "82"
+B_R = "15"
+B_H = "21"
+B_TB = "27"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "3"
+B_CS = "1"
+B_BB = "15"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "10"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Raupp"
+name.given = "William"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "10"
+B_AB = "7"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Riesener"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "24"
+B_AB = "74"
+B_R = "14"
+B_H = "18"
+B_TB = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "17"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Riska"
+name.given = "Rudy"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "25"
+B_AB = "40"
+B_R = "4"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_CS = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Henry"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "96"
+B_AB = "366"
+B_R = "46"
+B_H = "86"
+B_TB = "143"
+B_2B = "24"
+B_3B = "0"
+B_HR = "11"
+B_SH = "3"
+B_SF = "0"
+B_SB = "3"
+B_CS = "0"
+B_BB = "32"
+B_HP = "9"
+B_RBI = "57"
+B_SO = "31"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Robison"
+name.given = "Ronald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "20"
+B_AB = "48"
+B_R = "9"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "6"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Rudenacker"
+name.given = "Peter"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "37"
+B_AB = "63"
+B_R = "8"
+B_H = "8"
+B_TB = "10"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "15"
+B_AVG = ".127"
+
+
+[[person]]
+name.last = "Sassone"
+name.given = "Edward"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "27"
+B_AB = "56"
+B_R = "5"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Scercy"
+name.given = "John"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "103"
+B_AB = "353"
+B_R = "66"
+B_H = "83"
+B_TB = "132"
+B_2B = "14"
+B_3B = "1"
+B_HR = "11"
+B_SH = "2"
+B_SF = "3"
+B_SB = "3"
+B_CS = "4"
+B_BB = "89"
+B_HP = "2"
+B_RBI = "58"
+B_SO = "103"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Schmidt"
+name.given = "William"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "58"
+B_AB = "217"
+B_R = "40"
+B_H = "78"
+B_TB = "98"
+B_2B = "14"
+B_3B = "3"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "3"
+B_CS = "0"
+B_BB = "31"
+B_HP = "0"
+B_RBI = "22"
+B_SO = "12"
+B_AVG = ".359"
+
+
+[[person]]
+name.last = "Semonik"
+name.given = "Mike"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "104"
+B_AB = "374"
+B_R = "53"
+B_H = "108"
+B_TB = "131"
+B_2B = "16"
+B_3B = "2"
+B_HR = "1"
+B_SH = "4"
+B_SF = "1"
+B_SB = "5"
+B_CS = "4"
+B_BB = "52"
+B_HP = "2"
+B_RBI = "30"
+B_SO = "35"
+B_AVG = ".289"
+B_AVG_RANK = "7"
+
+
+[[person]]
+name.last = "Silvera"
+name.given = "A. Albert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "104"
+B_AB = "370"
+B_R = "55"
+B_H = "106"
+B_TB = "131"
+B_2B = "17"
+B_3B = "1"
+B_HR = "2"
+B_SH = "5"
+B_SF = "7"
+B_SB = "6"
+B_CS = "1"
+B_BB = "39"
+B_HP = "6"
+B_RBI = "78"
+B_SO = "26"
+B_AVG = ".286"
+B_AVG_RANK = "8"
+
+
+[[person]]
+name.last = "Simpson"
+name.given = "Halbert"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "78"
+B_AB = "289"
+B_R = "36"
+B_H = "80"
+B_TB = "133"
+B_2B = "14"
+B_3B = "0"
+B_HR = "13"
+B_SH = "0"
+B_SF = "2"
+B_SB = "1"
+B_CS = "1"
+B_BB = "39"
+B_HP = "1"
+B_RBI = "70"
+B_SO = "21"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Bobby Lee"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "46"
+B_AB = "109"
+B_R = "11"
+B_H = "20"
+B_TB = "31"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "17"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "21"
+B_AVG = ".183"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Garry L."
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "57"
+B_AB = "219"
+B_R = "43"
+B_H = "56"
+B_TB = "89"
+B_2B = "9"
+B_3B = "0"
+B_HR = "8"
+B_SH = "3"
+B_SF = "3"
+B_SB = "3"
+B_CS = "0"
+B_BB = "29"
+B_HP = "2"
+B_RBI = "36"
+B_SO = "38"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Gary E."
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "50"
+B_AB = "153"
+B_R = "27"
+B_H = "48"
+B_TB = "60"
+B_2B = "7"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SF = "2"
+B_SB = "3"
+B_CS = "2"
+B_BB = "31"
+B_HP = "2"
+B_RBI = "31"
+B_SO = "24"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Jimmy"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "70"
+B_AB = "261"
+B_R = "42"
+B_H = "83"
+B_TB = "112"
+B_2B = "14"
+B_3B = "3"
+B_HR = "3"
+B_SH = "0"
+B_SF = "3"
+B_SB = "1"
+B_CS = "2"
+B_BB = "42"
+B_HP = "0"
+B_RBI = "52"
+B_SO = "7"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Spero"
+name.given = "Anthony"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "19"
+B_AB = "37"
+B_R = "6"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "12"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Stechmann"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "105"
+B_AB = "372"
+B_R = "51"
+B_H = "91"
+B_TB = "130"
+B_2B = "13"
+B_3B = "4"
+B_HR = "6"
+B_SH = "5"
+B_SF = "2"
+B_SB = "5"
+B_CS = "1"
+B_BB = "62"
+B_HP = "2"
+B_RBI = "46"
+B_SO = "73"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Stegall"
+name.given = "Fred"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "31"
+B_AB = "75"
+B_R = "10"
+B_H = "24"
+B_TB = "26"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_CS = "1"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "20"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "G. Guilford"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "12"
+B_AB = "42"
+B_R = "9"
+B_H = "9"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "12"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Thrash"
+name.given = "H. Wayne"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "65"
+B_AB = "225"
+B_R = "35"
+B_H = "55"
+B_TB = "75"
+B_2B = "5"
+B_3B = "0"
+B_HR = "5"
+B_SH = "1"
+B_SF = "0"
+B_SB = "4"
+B_CS = "1"
+B_BB = "27"
+B_HP = "0"
+B_RBI = "29"
+B_SO = "39"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Tompkins"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "54"
+B_AB = "110"
+B_R = "10"
+B_H = "24"
+B_TB = "38"
+B_2B = "8"
+B_3B = "0"
+B_HR = "2"
+B_SH = "6"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "22"
+B_SO = "34"
+B_AVG = ".218"
+
+
+[[person]]
+name.last = "Travers"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "100"
+B_AB = "405"
+B_R = "66"
+B_H = "113"
+B_TB = "158"
+B_2B = "23"
+B_3B = "2"
+B_HR = "6"
+B_SH = "8"
+B_SF = "2"
+B_SB = "4"
+B_CS = "2"
+B_BB = "46"
+B_HP = "0"
+B_RBI = "45"
+B_SO = "48"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Tucker"
+name.given = "Wayne"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "59"
+B_AB = "198"
+B_R = "37"
+B_H = "38"
+B_TB = "49"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SH = "5"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "50"
+B_HP = "3"
+B_RBI = "18"
+B_SO = "40"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Tursellino"
+name.given = "Donald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "16"
+B_AB = "60"
+B_R = "7"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_CS = "0"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "17"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Voegtlen"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "32"
+B_AB = "47"
+B_R = "6"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_AVG = ".170"
+
+
+[[person]]
+name.last = "Wallace"
+name.given = "Ronald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "10"
+B_AB = "13"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "10"
+B_AVG = ".077"
+
+
+[[person]]
+name.last = "Webrand"
+name.given = "Leon"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "27"
+B_AB = "65"
+B_R = "8"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "20"
+B_AVG = ".154"
+
+
+[[person]]
+name.last = "White"
+name.given = "Robert J."
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "70"
+B_AB = "231"
+B_R = "20"
+B_H = "59"
+B_TB = "78"
+B_2B = "6"
+B_3B = "2"
+B_HR = "3"
+B_SH = "3"
+B_SF = "2"
+B_SB = "0"
+B_CS = "1"
+B_BB = "32"
+B_HP = "1"
+B_RBI = "34"
+B_SO = "29"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Wiest"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "27"
+B_AB = "84"
+B_R = "10"
+B_H = "17"
+B_TB = "20"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "1"
+B_CS = "0"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "29"
+B_AVG = ".202"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Donald L."
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "83"
+B_AB = "314"
+B_R = "50"
+B_H = "94"
+B_TB = "157"
+B_2B = "21"
+B_3B = "3"
+B_HR = "12"
+B_SH = "3"
+B_SF = "1"
+B_SB = "3"
+B_CS = "2"
+B_BB = "33"
+B_HP = "1"
+B_RBI = "45"
+B_SO = "60"
+B_AVG = ".299"
+
+
+[[person]]
+name.last = "Winter"
+name.given = "Maurice"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "66"
+B_AB = "227"
+B_R = "43"
+B_H = "58"
+B_TB = "113"
+B_2B = "20"
+B_3B = "1"
+B_HR = "11"
+B_SH = "3"
+B_SF = "2"
+B_SB = "5"
+B_CS = "2"
+B_BB = "54"
+B_HP = "1"
+B_RBI = "42"
+B_SO = "56"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Zeiss"
+name.given = "Charles"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "16"
+B_AB = "27"
+B_R = "4"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "1"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "7"
+B_AVG = ".037"
+
+
+[[person]]
+name.last = "Zerda"
+name.given = "Vincent"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "10"
+B_AB = "14"
+B_R = "5"
+B_H = "7"
+B_TB = "13"
+B_2B = "0"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_CS = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "1"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Zimmerman"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "58"
+B_AB = "186"
+B_R = "52"
+B_H = "56"
+B_TB = "101"
+B_2B = "10"
+B_3B = "4"
+B_HR = "9"
+B_SH = "2"
+B_SF = "2"
+B_SB = "6"
+B_CS = "1"
+B_BB = "47"
+B_HP = "0"
+B_RBI = "47"
+B_SO = "30"
+B_AVG = ".301"
+
+
+[[person]]
+name.last = "Aiken"
+name.given = "Ronald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "8"
+B_AB = "11"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Cintron"
+name.given = "Joseph"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "2"
+B_AB = "7"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Evans"
+name.given = "Edward"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "4"
+B_AB = "4"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Farinholt"
+name.given = "H. Blair"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "7"
+B_AB = "10"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Hodges"
+name.given = "Bobby"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "9"
+B_AB = "12"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Laschen"
+name.given = "Terry"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "1"
+B_AB = "5"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Suplizio"
+name.given = "Sam"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "9"
+B_AB = "30"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Wilmore"
+name.given = "Donald"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Alexandria"
+[person.playing.totals]
+B_G = "4"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Amoedo"
+name.given = "Alfredo"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Bennett"
+name.given = "Bingham"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "5"
+B_AB = "5"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Bradberry"
+name.given = "J. D. Buck"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "4"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Burroughs"
+name.given = "Daniel"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "6"
+B_AB = "19"
+B_AVG = ".158"
+
+
+[[person]]
+name.last = "Carney"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "1"
+B_AB = "3"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Hoffpauir"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Kling"
+name.given = "Alonzo"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "5"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Laird"
+name.given = "Billy"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "4"
+B_AB = "4"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Meder"
+name.given = "Richard"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "2"
+B_AB = "6"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Mills"
+name.given = "Don"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "3"
+B_AB = "10"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "O'Neal"
+name.given = "Clarence"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "3"
+B_AB = "9"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Slencak"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "3"
+B_AB = "5"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Talavera"
+name.given = "Jorge"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "4"
+B_AB = "3"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Townley"
+name.given = "Don"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "7"
+B_AB = "10"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Vasquez"
+name.given = "Jesus"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+[person.playing.totals]
+B_G = "3"
+B_AB = "5"
+B_AVG = ".400"
+
+
+[[person]]
+name.last = "Wooldridge"
+name.given = "Roselle"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "2"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+B_G = "2"
+[person.playing.totals]
+B_G = "4"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Casey"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "3"
+B_AB = "3"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Janocha"
+name.given = "John"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Nonnenmacher"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Crowley"
+[person.playing.totals]
+B_G = "8"
+B_AB = "14"
+B_AVG = ".357"
+
+
+[[person]]
+name.last = "Pierce"
+name.given = "Jack"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lafayette"
+[person.playing.totals]
+B_G = "6"
+B_AB = "6"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Alsup"
+name.given = "Jerry"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Barras"
+name.given = "Richard"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "4"
+B_AB = "16"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Booth"
+name.given = "Bobby"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "5"
+B_AB = "16"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Bumgardner"
+name.given = "Blaine"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Capetillo"
+name.given = "Servando"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "4"
+B_AB = "13"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Cisternelli"
+name.given = "James"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "2"
+B_AB = "7"
+B_AVG = ".429"
+
+
+[[person]]
+name.last = "DeHondt"
+name.given = "Rene"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "4"
+B_AB = "3"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Houck"
+name.given = "Richard"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "3"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Harmon"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "1"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Lambert"
+name.given = "R. Gordon"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "6"
+B_AB = "8"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Lankford"
+name.given = "Charles"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "3"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Lopez"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Antonio"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Saad"
+name.given = "George"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "6"
+B_AB = "7"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Salinas"
+name.given = "Homero"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "7"
+B_AB = "22"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Don W."
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "7"
+B_AB = "21"
+B_AVG = ".095"
+
+
+[[person]]
+name.last = "Weeks"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Zabosky"
+name.given = "Gordon"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Chezik"
+name.given = "John"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lake Charles"
+B_G = "6"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "3"
+[person.playing.totals]
+B_G = "9"
+B_AB = "21"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Delaune"
+name.given = "Martin"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "4"
+B_AB = "10"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Folse"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "4"
+B_AB = "5"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Gales"
+name.given = "Bobby"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "1"
+B_AB = "3"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Grable"
+name.given = "Melvin"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "1"
+B_AB = "3"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Grover"
+name.given = "Edward"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "2"
+B_AB = "3"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Loveland"
+name.given = "James"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "7"
+B_AB = "23"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Lowe"
+name.given = "Lloyd"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "5"
+B_AB = "9"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Maddox"
+name.given = "Gene"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Martinolich"
+name.given = "Anthony"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "5"
+B_AB = "7"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Neath"
+name.given = "Robert"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "6"
+B_AB = "6"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Oncale"
+name.given = "Armand"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "4"
+B_AB = "9"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Re"
+name.given = "Charles"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "2"
+B_AB = "8"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Rector"
+name.given = "Charles"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thibodaux"
+[person.playing.totals]
+B_G = "3"
+B_AB = "9"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Rodrigue"
+name.given = "Harold"
+[[person.playing]]
+season = "1957"
+league.name = "Evangeline League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baton Rouge"
+B_G = "1"
+[[person.playing.split]]
+team.name = "Thibodaux"
+B_G = "6"
+[person.playing.totals]
+B_G = "7"
+B_AB = "2"
+B_AVG = ".000"

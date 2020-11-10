@@ -1,0 +1,102 @@
+[[team]]
+name = "Wenatchee"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "89"
+R_L = "54"
+R_PCT = ".622"
+R_RANK = "1"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "63"
+R_PCT = ".556"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bremerton"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "63"
+R_PCT = ".537"
+R_RANK = "3"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "67"
+R_PCT = ".531"
+R_RANK = "4"
+
+
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "69"
+R_PCT = ".507"
+R_RANK = "5"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "71"
+R_PCT = ".478"
+R_RANK = "6"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "78"
+R_PCT = ".409"
+R_RANK = "7"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "49"
+R_L = "91"
+R_PCT = ".350"
+R_RANK = "8"

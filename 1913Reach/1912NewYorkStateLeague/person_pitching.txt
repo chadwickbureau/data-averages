@@ -1,0 +1,893 @@
+[[person]]
+name.last = "Corey"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "18"
+P_AB = "386"
+P_H = "120"
+P_R = "75"
+P_HP = "2"
+P_BB = "22"
+P_SO = "32"
+P_WP = "4"
+P_BK = "0"
+P_AVG = ".311"
+
+
+[[person]]
+name.last = "Hannifin"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "32"
+P_AB = "808"
+P_H = "239"
+P_R = "118"
+P_HP = "8"
+P_BB = "54"
+P_SO = "76"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".295"
+
+
+[[person]]
+name.last = "Dexter"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "18"
+P_AB = "384"
+P_H = "111"
+P_R = "67"
+P_HP = "5"
+P_BB = "52"
+P_SO = "41"
+P_WP = "4"
+P_BK = "0"
+P_AVG = ".289"
+
+
+[[person]]
+name.last = "Burchell"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "26"
+P_AB = "631"
+P_H = "182"
+P_R = "102"
+P_HP = "10"
+P_BB = "58"
+P_SO = "95"
+P_WP = "5"
+P_BK = "1"
+P_AVG = ".288"
+
+
+[[person]]
+name.last = "Swift"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "23"
+P_AB = "659"
+P_H = "187"
+P_R = "51"
+P_HP = "8"
+P_BB = "24"
+P_SO = "87"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".283"
+
+
+[[person]]
+name.last = "Robertaille"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "30"
+P_AB = "931"
+P_H = "262"
+P_R = "111"
+P_HP = "3"
+P_BB = "33"
+P_SO = "68"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".281"
+
+
+[[person]]
+name.last = "Evans"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "17"
+P_AB = "368"
+P_H = "102"
+P_R = "44"
+P_HP = "1"
+P_BB = "42"
+P_SO = "34"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".277"
+
+
+[[person]]
+name.last = "Hancock"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "15"
+P_AB = "465"
+P_H = "127"
+P_R = "67"
+P_HP = "5"
+P_BB = "38"
+P_SO = "44"
+P_WP = "6"
+P_BK = "0"
+P_AVG = ".273"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "40"
+P_AB = "956"
+P_H = "260"
+P_R = "119"
+P_HP = "9"
+P_BB = "62"
+P_SO = "150"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".272"
+
+
+[[person]]
+name.last = "Bachman"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "19"
+P_AB = "514"
+P_H = "140"
+P_R = "71"
+P_HP = "5"
+P_BB = "30"
+P_SO = "35"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".272"
+
+
+[[person]]
+name.last = "Bailey"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "13"
+P_AB = "309"
+P_H = "84"
+P_R = "47"
+P_HP = "13"
+P_BB = "37"
+P_SO = "30"
+P_WP = "1"
+P_BK = "2"
+P_AVG = ".271"
+
+
+[[person]]
+name.last = "Harkins"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "31"
+P_AB = "885"
+P_H = "238"
+P_R = "142"
+P_HP = "14"
+P_BB = "95"
+P_SO = "70"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".268"
+
+
+[[person]]
+name.last = "Frock"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "17"
+P_AB = "528"
+P_H = "140"
+P_R = "56"
+P_HP = "2"
+P_BB = "21"
+P_SO = "51"
+P_WP = "0"
+P_BK = "0"
+P_AVG = ".265"
+
+
+[[person]]
+name.last = "Bradley"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "26"
+P_AB = "751"
+P_H = "199"
+P_R = "126"
+P_HP = "15"
+P_BB = "90"
+P_SO = "47"
+P_WP = "4"
+P_BK = "1"
+P_AVG = ".264"
+
+
+[[person]]
+name.last = "Hammersley"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "23"
+P_AB = "634"
+P_H = "167"
+P_R = "100"
+P_HP = "4"
+P_BB = "67"
+P_SO = "75"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".263"
+
+
+[[person]]
+name.last = "Stricklett"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "28"
+P_AB = "816"
+P_H = "213"
+P_R = "83"
+P_HP = "10"
+P_BB = "45"
+P_SO = "84"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".261"
+
+
+[[person]]
+name.last = "Malloy"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "30"
+P_AB = "802"
+P_H = "207"
+P_R = "94"
+P_HP = "17"
+P_BB = "97"
+P_SO = "89"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".258"
+
+
+[[person]]
+name.last = "Cadore"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "16"
+P_AB = "343"
+P_H = "88"
+P_R = "49"
+P_HP = "4"
+P_BB = "26"
+P_SO = "35"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".256"
+
+
+[[person]]
+name.last = "Sitton"
+name.given = "Phil"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "37"
+P_AB = "1019"
+P_H = "260"
+P_R = "142"
+P_HP = "6"
+P_BB = "69"
+P_SO = "121"
+P_WP = "5"
+P_BK = "2"
+P_AVG = ".255"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "27"
+P_AB = "659"
+P_H = "168"
+P_R = "93"
+P_HP = "16"
+P_BB = "56"
+P_SO = "38"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".254"
+
+
+[[person]]
+name.last = "McBride"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "20"
+P_AB = "556"
+P_H = "140"
+P_R = "77"
+P_HP = "6"
+P_BB = "40"
+P_SO = "56"
+P_WP = "0"
+P_BK = "0"
+P_AVG = ".252"
+
+
+[[person]]
+name.last = "McLeod"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "28"
+P_AB = "777"
+P_H = "195"
+P_R = "94"
+P_HP = "13"
+P_BB = "53"
+P_SO = "56"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".251"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "32"
+P_AB = "934"
+P_H = "235"
+P_R = "114"
+P_HP = "7"
+P_BB = "71"
+P_SO = "127"
+P_WP = "5"
+P_BK = "2"
+P_AVG = ".251"
+
+
+[[person]]
+name.last = "Pappalau"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "33"
+P_AB = "987"
+P_H = "247"
+P_R = "88"
+P_HP = "6"
+P_BB = "43"
+P_SO = "73"
+P_WP = "6"
+P_BK = "0"
+P_AVG = ".250"
+
+
+[[person]]
+name.last = "Gaiser"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "23"
+P_AB = "646"
+P_H = "160"
+P_R = "64"
+P_HP = "5"
+P_BB = "30"
+P_SO = "62"
+P_WP = "4"
+P_BK = "0"
+P_AVG = ".247"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "25"
+P_AB = "749"
+P_H = "185"
+P_R = "78"
+P_HP = "13"
+P_BB = "39"
+P_SO = "58"
+P_WP = "1"
+P_BK = "1"
+P_AVG = ".246"
+
+
+[[person]]
+name.last = "Harned"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "34"
+P_AB = "965"
+P_H = "235"
+P_R = "89"
+P_HP = "12"
+P_BB = "41"
+P_SO = "97"
+P_WP = "4"
+P_BK = "0"
+P_AVG = ".243"
+
+
+[[person]]
+name.last = "McCloskey"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "24"
+P_AB = "612"
+P_H = "149"
+P_R = "71"
+P_HP = "6"
+P_BB = "42"
+P_SO = "47"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".243"
+
+
+[[person]]
+name.last = "Dowd"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "27"
+P_AB = "857"
+P_H = "208"
+P_R = "74"
+P_HP = "8"
+P_BB = "51"
+P_SO = "81"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".242"
+
+
+[[person]]
+name.last = "Buck"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "38"
+P_AB = "1051"
+P_H = "253"
+P_R = "108"
+P_HP = "6"
+P_BB = "75"
+P_SO = "123"
+P_WP = "8"
+P_BK = "0"
+P_AVG = ".241"
+
+
+[[person]]
+name.last = "Teal"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "32"
+P_AB = "881"
+P_H = "211"
+P_R = "96"
+P_HP = "25"
+P_BB = "87"
+P_SO = "97"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".239"
+
+
+[[person]]
+name.last = "Wagner"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "28"
+P_AB = "841"
+P_H = "201"
+P_R = "91"
+P_HP = "9"
+P_BB = "46"
+P_SO = "84"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".239"
+
+
+[[person]]
+name.last = "Cottrell"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "35"
+P_AB = "934"
+P_H = "223"
+P_R = "85"
+P_HP = "9"
+P_BB = "89"
+P_SO = "149"
+P_WP = "5"
+P_BK = "1"
+P_AVG = ".238"
+
+
+[[person]]
+name.last = "Oberlin"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "28"
+P_AB = "877"
+P_H = "208"
+P_R = "103"
+P_HP = "10"
+P_BB = "71"
+P_SO = "111"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".237"
+
+
+[[person]]
+name.last = "Hock"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "36"
+P_AB = "975"
+P_H = "224"
+P_R = "92"
+P_HP = "14"
+P_BB = "84"
+P_SO = "138"
+P_WP = "6"
+P_BK = "0"
+P_AVG = ".229"
+
+
+[[person]]
+name.last = "Cathers"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "29"
+P_AB = "802"
+P_H = "184"
+P_R = "81"
+P_HP = "7"
+P_BB = "35"
+P_SO = "117"
+P_WP = "4"
+P_BK = "1"
+P_AVG = ".229"
+
+
+[[person]]
+name.last = "Dolan"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "16"
+P_AB = "480"
+P_H = "109"
+P_R = "46"
+P_HP = "3"
+P_BB = "29"
+P_SO = "56"
+P_WP = "1"
+P_BK = "1"
+P_AVG = ".227"
+
+
+[[person]]
+name.last = "McGinley"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "22"
+P_AB = "726"
+P_H = "165"
+P_R = "69"
+P_HP = "5"
+P_BB = "42"
+P_SO = "78"
+P_WP = "4"
+P_BK = "0"
+P_AVG = ".227"
+
+
+[[person]]
+name.last = "Nagle"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "16"
+P_AB = "491"
+P_H = "109"
+P_R = "35"
+P_HP = "5"
+P_BB = "24"
+P_SO = "80"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".222"
+
+
+[[person]]
+name.last = "Marten"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "21"
+P_AB = "509"
+P_H = "112"
+P_R = "55"
+P_HP = "3"
+P_BB = "50"
+P_SO = "81"
+P_WP = "6"
+P_BK = "0"
+P_AVG = ".220"
+
+
+[[person]]
+name.last = "Friel"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "26"
+P_AB = "717"
+P_H = "156"
+P_R = "70"
+P_HP = "11"
+P_BB = "51"
+P_SO = "96"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".217"
+
+
+[[person]]
+name.last = "Pierce"
+[[person.playing]]
+season = "1912"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "35"
+P_AB = "948"
+P_H = "186"
+P_R = "77"
+P_HP = "1"
+P_BB = "78"
+P_SO = "238"
+P_WP = "8"
+P_BK = "0"
+P_AVG = ".196"

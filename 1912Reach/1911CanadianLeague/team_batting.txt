@@ -1,0 +1,118 @@
+[[team]]
+name = "Berlin"
+[[team.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3737"
+B_R = "592"
+B_H = "1043"
+B_2B = "118"
+B_3B = "54"
+B_HR = "18"
+B_TB = "1323"
+B_SB = "172"
+B_SH = "169"
+B_AVG = ".276"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3802"
+B_R = "611"
+B_H = "1039"
+B_2B = "121"
+B_3B = "30"
+B_HR = "18"
+B_TB = "1274"
+B_SB = "210"
+B_SH = "187"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3664"
+B_R = "555"
+B_H = "973"
+B_2B = "131"
+B_3B = "48"
+B_HR = "11"
+B_TB = "1233"
+B_SB = "246"
+B_SH = "132"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3763"
+B_R = "569"
+B_H = "993"
+B_2B = "151"
+B_3B = "49"
+B_HR = "27"
+B_TB = "1323"
+B_SB = "198"
+B_SH = "124"
+B_AVG = ".254"
+
+
+[[team]]
+name = "St. Thomas"
+[[team.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "108"
+B_AB = "3477"
+B_R = "487"
+B_H = "881"
+B_2B = "111"
+B_3B = "41"
+B_HR = "17"
+B_TB = "1125"
+B_SB = "141"
+B_SH = "76"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Guelph"
+[[team.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "107"
+B_AB = "3396"
+B_R = "454"
+B_H = "834"
+B_2B = "117"
+B_3B = "31"
+B_HR = "27"
+B_TB = "1094"
+B_SB = "97"
+B_SH = "78"
+B_AVG = ".245"

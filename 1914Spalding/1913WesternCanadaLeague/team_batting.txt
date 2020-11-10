@@ -1,0 +1,112 @@
+[[team]]
+name = "Moose Jaw"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3396"
+B_R = "596"
+B_H = "967"
+B_2B = "150"
+B_3B = "57"
+B_HR = "29"
+B_TB = "1328"
+B_SH = "193"
+B_SB = "252"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Medicine Hat"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3249"
+B_R = "526"
+B_H = "870"
+B_2B = "140"
+B_3B = "63"
+B_HR = "23"
+B_TB = "1205"
+B_SH = "147"
+B_SB = "151"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3299"
+B_R = "473"
+B_H = "890"
+B_2B = "123"
+B_3B = "50"
+B_HR = "45"
+B_TB = "1248"
+B_SH = "110"
+B_SB = "125"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Saskatoon"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3463"
+B_R = "582"
+B_H = "948"
+B_2B = "132"
+B_3B = "43"
+B_HR = "16"
+B_TB = "1216"
+B_SH = "191"
+B_SB = "206"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2957"
+B_R = "438"
+B_H = "747"
+B_2B = "110"
+B_3B = "53"
+B_HR = "18"
+B_TB = "1018"
+B_SH = "142"
+B_SB = "145"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Regina"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2483"
+B_R = "286"
+B_H = "551"
+B_2B = "68"
+B_3B = "43"
+B_HR = "11"
+B_TB = "739"
+B_SH = "84"
+B_SB = "76"
+B_AVG = ".208"

@@ -1,0 +1,58 @@
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "85"
+F_PO = "2243"
+F_A = "1213"
+F_E = "223"
+F_PCT = ".939"
+F_DP = "68"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "90"
+F_PO = "2397"
+F_A = "1151"
+F_E = "240"
+F_PCT = ".937"
+F_DP = "59"
+
+
+[[team]]
+name = "Grays Harbor"
+[[team.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "88"
+F_PO = "2298"
+F_A = "1098"
+F_E = "229"
+F_PCT = ".937"
+F_DP = "48"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "87"
+F_PO = "2323"
+F_A = "1173"
+F_E = "269"
+F_PCT = ".929"
+F_DP = "48"

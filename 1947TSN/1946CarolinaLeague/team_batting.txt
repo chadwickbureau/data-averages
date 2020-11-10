@@ -1,0 +1,198 @@
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "5163"
+B_R = "1050"
+P_R = "965"
+B_H = "1573"
+B_TB = "2202"
+B_2B = "304"
+B_3B = "65"
+B_HR = "65"
+B_SH = "91"
+B_SB = "66"
+B_BB = "603"
+B_HP = "50"
+B_SO = "579"
+B_LOB = "1147"
+B_AVG = ".305"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4969"
+B_R = "923"
+P_R = "839"
+B_H = "1406"
+B_TB = "1952"
+B_2B = "262"
+B_3B = "58"
+B_HR = "56"
+B_SH = "92"
+B_SB = "165"
+B_BB = "662"
+B_HP = "43"
+B_SO = "575"
+B_LOB = "1089"
+B_AVG = ".283"
+
+
+[[team]]
+name = "Leaksville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4889"
+B_R = "840"
+P_R = "986"
+B_H = "1386"
+B_TB = "1917"
+B_2B = "263"
+B_3B = "41"
+B_HR = "62"
+B_SH = "78"
+B_SB = "117"
+B_BB = "484"
+B_HP = "45"
+B_SO = "677"
+B_LOB = "1009"
+B_AVG = ".283"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "5007"
+B_R = "935"
+P_R = "822"
+B_H = "1405"
+B_TB = "1983"
+B_2B = "231"
+B_3B = "73"
+B_HR = "67"
+B_SH = "124"
+B_SB = "105"
+B_BB = "683"
+B_HP = "33"
+B_SO = "733"
+B_LOB = "1172"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Martinsville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "5004"
+B_R = "867"
+P_R = "791"
+B_H = "1399"
+B_TB = "1923"
+B_2B = "233"
+B_3B = "48"
+B_HR = "65"
+B_SH = "101"
+B_SB = "178"
+B_BB = "561"
+B_HP = "40"
+B_SO = "754"
+B_LOB = "1112"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4882"
+B_R = "779"
+P_R = "769"
+B_H = "1359"
+B_TB = "1962"
+B_2B = "232"
+B_3B = "55"
+B_HR = "87"
+B_SH = "100"
+B_SB = "102"
+B_BB = "462"
+B_HP = "41"
+B_SO = "671"
+B_LOB = "1089"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4973"
+B_R = "754"
+P_R = "815"
+B_H = "1367"
+B_TB = "1970"
+B_2B = "280"
+B_3B = "46"
+B_HR = "77"
+B_SH = "58"
+B_SB = "78"
+B_BB = "620"
+B_HP = "30"
+B_SO = "724"
+B_LOB = "1092"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4970"
+B_R = "809"
+P_R = "970"
+B_H = "1355"
+B_TB = "1899"
+B_2B = "256"
+B_3B = "45"
+B_HR = "66"
+B_SH = "85"
+B_SB = "52"
+B_BB = "654"
+B_HP = "37"
+B_SO = "714"
+B_LOB = "1105"
+B_AVG = ".273"

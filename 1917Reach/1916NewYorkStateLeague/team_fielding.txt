@@ -1,0 +1,110 @@
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3471"
+F_A = "1668"
+F_E = "176"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3320"
+F_A = "1630"
+F_E = "207"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3514"
+F_A = "1589"
+F_E = "226"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3391"
+F_A = "1761"
+F_E = "232"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3308"
+F_A = "1629"
+F_E = "222"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3269"
+F_A = "1644"
+F_E = "234"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3248"
+F_A = "1495"
+F_E = "224"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3040"
+F_A = "1533"
+F_E = "235"
+F_PCT = ".951"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3681"
+F_A = "1552"
+F_E = "206"
+F_DP = "98"
+F_TP = "1"
+F_PB = "18"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3566"
+F_A = "1548"
+F_E = "209"
+F_DP = "99"
+F_TP = "0"
+F_PB = "25"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3555"
+F_A = "1566"
+F_E = "234"
+F_DP = "103"
+F_TP = "1"
+F_PB = "26"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Tyler"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3604"
+F_A = "1592"
+F_E = "259"
+F_DP = "115"
+F_TP = "2"
+F_PB = "25"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3648"
+F_A = "1583"
+F_E = "258"
+F_DP = "134"
+F_TP = "0"
+F_PB = "22"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3610"
+F_A = "1560"
+F_E = "278"
+F_DP = "106"
+F_TP = "0"
+F_PB = "10"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3579"
+F_A = "1514"
+F_E = "277"
+F_DP = "115"
+F_TP = "0"
+F_PB = "18"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Lufkin"
+[[team.playing]]
+season = "1946"
+league.name = "East Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3517"
+F_A = "1468"
+F_E = "297"
+F_DP = "113"
+F_TP = "1"
+F_PB = "27"
+F_PCT = ".944"

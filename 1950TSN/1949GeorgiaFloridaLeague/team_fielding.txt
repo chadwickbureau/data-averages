@@ -1,0 +1,134 @@
+[[team]]
+name = "Waycross"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "115"
+F_PB = "25"
+F_PO = "3623"
+F_A = "1339"
+F_E = "278"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Moultrie"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "121"
+F_PB = "20"
+F_PO = "3587"
+F_A = "1549"
+F_E = "288"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "117"
+F_PB = "36"
+F_PO = "3691"
+F_A = "1509"
+F_E = "293"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "92"
+F_PB = "33"
+F_PO = "3686"
+F_A = "1389"
+F_E = "316"
+F_TP = "0"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "110"
+F_PB = "42"
+F_PO = "3608"
+F_A = "1602"
+F_E = "340"
+F_TP = "1"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Americus"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "137"
+F_PB = "37"
+F_PO = "3595"
+F_A = "1528"
+F_E = "364"
+F_TP = "0"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Cordele"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "114"
+F_PB = "32"
+F_PO = "3611"
+F_A = "1508"
+F_E = "368"
+F_TP = "1"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Tallahassee"
+[[team.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "131"
+F_PB = "43"
+F_PO = "3557"
+F_A = "1595"
+F_E = "382"
+F_TP = "0"
+F_PCT = ".930"

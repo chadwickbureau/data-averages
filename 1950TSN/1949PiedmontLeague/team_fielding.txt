@@ -1,0 +1,100 @@
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "145"
+F_PB = "16"
+F_PO = "3613"
+F_A = "1458"
+F_E = "186"
+F_PCT = ".965"
+F_TP = "0"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "125"
+F_PB = "2"
+F_PO = "3614"
+F_A = "1467"
+F_E = "201"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "121"
+F_PB = "12"
+F_PO = "3631"
+F_A = "1416"
+F_E = "212"
+F_PCT = ".960"
+F_TP = "1"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "146"
+F_PB = "21"
+F_PO = "3632"
+F_A = "1602"
+F_E = "226"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "110"
+F_PB = "25"
+F_PO = "3577"
+F_A = "1567"
+F_E = "260"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "116"
+F_PB = "27"
+F_PO = "3584"
+F_A = "1482"
+F_E = "298"
+F_PCT = ".944"
+F_TP = "0"

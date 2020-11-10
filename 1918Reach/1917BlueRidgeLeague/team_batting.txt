@@ -1,0 +1,118 @@
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3011"
+B_R = "427"
+B_1B = "647"
+B_2B = "151"
+B_3B = "11"
+B_HR = "17"
+B_TB = "870"
+B_H = "846"
+B_SH = "159"
+B_SB = "169"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Martinsburg"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3041"
+B_R = "476"
+B_1B = "586"
+B_2B = "150"
+B_3B = "23"
+B_HR = "50"
+B_TB = "1155"
+B_H = "809"
+B_SH = "91"
+B_SB = "135"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Gettysburg"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2947"
+B_R = "415"
+B_1B = "576"
+B_2B = "121"
+B_3B = "21"
+B_HR = "28"
+B_TB = "993"
+B_H = "746"
+B_SH = "97"
+B_SB = "125"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Frederick"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2845"
+B_R = "328"
+B_1B = "536"
+B_2B = "136"
+B_3B = "18"
+B_HR = "20"
+B_TB = "942"
+B_H = "710"
+B_SH = "91"
+B_SB = "86"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Cumberland"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3173"
+B_R = "320"
+B_1B = "633"
+B_2B = "115"
+B_3B = "15"
+B_HR = "25"
+B_TB = "1008"
+B_H = "788"
+B_SH = "118"
+B_SB = "121"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Hanover"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2971"
+B_R = "332"
+B_1B = "561"
+B_2B = "112"
+B_3B = "11"
+B_HR = "18"
+B_TB = "890"
+B_H = "702"
+B_SH = "134"
+B_SB = "100"
+B_AVG = ".236"

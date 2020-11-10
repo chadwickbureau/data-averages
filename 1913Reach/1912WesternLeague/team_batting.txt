@@ -1,0 +1,174 @@
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "166"
+B_AB = "5685"
+B_R = "899"
+B_H = "1653"
+B_2B = "219"
+B_3B = "129"
+B_HR = "54"
+B_TB = "2292"
+B_SH = "258"
+B_BB = "476"
+B_SB = "259"
+B_SO = "855"
+B_AVG = ".291"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "165"
+B_AB = "5311"
+B_R = "782"
+B_H = "1524"
+B_2B = "276"
+B_3B = "73"
+B_HR = "45"
+B_TB = "2081"
+B_SH = "241"
+B_BB = "389"
+B_SB = "264"
+B_SO = "744"
+B_AVG = ".287"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "171"
+B_AB = "5718"
+B_R = "876"
+B_H = "1624"
+B_2B = "242"
+B_3B = "104"
+B_HR = "23"
+B_TB = "2143"
+B_SH = "245"
+B_BB = "57"
+B_SB = "255"
+B_SO = "857"
+B_AVG = ".284"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5647"
+B_R = "737"
+B_H = "1585"
+B_2B = "252"
+B_3B = "79"
+B_HR = "31"
+B_TB = "2088"
+B_SH = "245"
+B_BB = "465"
+B_SB = "277"
+B_SO = "793"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "167"
+B_AB = "5534"
+B_R = "736"
+B_H = "1501"
+B_2B = "246"
+B_3B = "62"
+B_HR = "28"
+B_TB = "1955"
+B_SH = "265"
+B_BB = "551"
+B_SB = "184"
+B_SO = "839"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5661"
+B_R = "662"
+B_H = "1419"
+B_2B = "241"
+B_3B = "65"
+B_HR = "36"
+B_TB = "1898"
+B_SH = "214"
+B_BB = "477"
+B_SB = "153"
+B_SO = "919"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "163"
+B_AB = "5522"
+B_R = "617"
+B_H = "1374"
+B_2B = "206"
+B_3B = "62"
+B_HR = "13"
+B_TB = "1743"
+B_SH = "205"
+B_BB = "365"
+B_SB = "164"
+B_SO = "815"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "164"
+B_AB = "5510"
+B_R = "739"
+B_H = "1491"
+B_2B = "241"
+B_3B = "50"
+B_HR = "37"
+B_TB = "1943"
+B_SH = "188"
+B_BB = "522"
+B_SB = "252"
+B_SO = "841"
+B_AVG = ".271"

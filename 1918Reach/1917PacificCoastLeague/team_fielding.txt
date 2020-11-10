@@ -1,0 +1,82 @@
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "210"
+F_PO = "5593"
+F_A = "2715"
+F_E = "300"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "205"
+F_PO = "5553"
+F_A = "2845"
+F_E = "318"
+F_PCT = ".964"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "214"
+F_PO = "5702"
+F_A = "2656"
+F_E = "326"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Salt Lake"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "203"
+F_PO = "5434"
+F_A = "2708"
+F_E = "333"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "214"
+F_PO = "5810"
+F_A = "2939"
+F_E = "398"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1917"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "212"
+F_PO = "5624"
+F_A = "2863"
+F_E = "413"
+F_PCT = ".954"

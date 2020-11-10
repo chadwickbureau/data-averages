@@ -1,0 +1,402 @@
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Northern"
+[team.playing.totals]
+R_W = "77"
+R_L = "51"
+R_T = "1"
+R_PCT = ".602"
+R_RANK = "1"
+
+
+[[team]]
+name = "San Luis Potosi"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Northern"
+[team.playing.totals]
+R_W = "64"
+R_L = "62"
+R_T = "0"
+R_PCT = ".508"
+R_RANK = "2"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Northern"
+[team.playing.totals]
+R_W = "62"
+R_L = "69"
+R_T = "0"
+R_PCT = ".473"
+R_RANK = "3"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Northern"
+[team.playing.totals]
+R_W = "59"
+R_L = "68"
+R_T = "0"
+R_PCT = ".465"
+R_RANK = "4"
+
+
+[[team]]
+name = "Union Laguna"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Northern"
+[team.playing.totals]
+R_W = "59"
+R_L = "69"
+R_T = "2"
+R_PCT = ".461"
+R_RANK = "5"
+
+
+[[team]]
+name = "Aguascalientes"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Northern"
+[team.playing.totals]
+R_W = "54"
+R_L = "72"
+R_T = "1"
+R_PCT = ".429"
+R_RANK = "6"
+
+
+[[team]]
+name = "Monclova"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Northern"
+[team.playing.totals]
+R_W = "47"
+R_L = "84"
+R_T = "1"
+R_PCT = ".359"
+R_RANK = "7"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Southern"
+[team.playing.totals]
+R_W = "82"
+R_L = "45"
+R_T = "2"
+R_PCT = ".646"
+R_RANK = "1"
+
+
+[[team]]
+name = "Jalisco"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Southern"
+[team.playing.totals]
+R_W = "75"
+R_L = "55"
+R_T = "0"
+R_PCT = ".577"
+R_RANK = "2"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Southern"
+[team.playing.totals]
+R_W = "72"
+R_L = "56"
+R_T = "1"
+R_PCT = ".563"
+R_RANK = "3"
+
+
+[[team]]
+name = "Yucatan"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Southern"
+[team.playing.totals]
+R_W = "70"
+R_L = "56"
+R_T = "1"
+R_PCT = ".556"
+R_RANK = "4"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Southern"
+[team.playing.totals]
+R_W = "68"
+R_L = "63"
+R_T = "1"
+R_PCT = ".519"
+R_RANK = "5"
+
+
+[[team]]
+name = "Campeche"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Southern"
+[team.playing.totals]
+R_W = "62"
+R_L = "65"
+R_T = "2"
+R_PCT = ".488"
+R_RANK = "6"
+
+
+[[team]]
+name = "Tabasco"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+division = "Southern"
+[team.playing.totals]
+R_W = "46"
+R_L = "82"
+R_T = "2"
+R_PCT = ".359"
+R_RANK = "7"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "San Luis Potosi"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "1"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 3"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Yucatan"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 3"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"
+
+
+[[team]]
+name = "Jalisco"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 4"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "quarterfinal"
+division = "Quarterfinal 4"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "Salitllo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Jalisco"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_PCT = ".000"
+R_RANK = "2"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"

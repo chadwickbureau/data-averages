@@ -1,0 +1,158 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3806"
+B_R = "462"
+B_H = "895"
+B_TB = "1146"
+B_AVG = ".235"
+B_2B = "128"
+B_3B = "51"
+B_HR = "6"
+B_SB = "154"
+B_SH = "140"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3773"
+B_R = "395"
+B_H = "859"
+B_TB = "1026"
+B_AVG = ".228"
+B_2B = "116"
+B_3B = "16"
+B_HR = "7"
+B_SB = "187"
+B_SH = "152"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3605"
+B_R = "346"
+B_H = "820"
+B_TB = "978"
+B_AVG = ".227"
+B_2B = "104"
+B_3B = "27"
+B_HR = "2"
+B_SB = "180"
+B_SH = "131"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3533"
+B_R = "363"
+B_H = "799"
+B_TB = "962"
+B_AVG = ".226"
+B_2B = "105"
+B_3B = "20"
+B_HR = "3"
+B_SB = "235"
+B_SH = "122"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3611"
+B_R = "404"
+B_H = "792"
+B_TB = "990"
+B_AVG = ".219"
+B_2B = "103"
+B_3B = "27"
+B_HR = "12"
+B_SB = "222"
+B_SH = "143"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3705"
+B_R = "352"
+B_H = "799"
+B_TB = "975"
+B_AVG = ".216"
+B_2B = "120"
+B_3B = "19"
+B_HR = "5"
+B_SB = "142"
+B_SH = "112"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3617"
+B_R = "373"
+B_H = "771"
+B_TB = "989"
+B_AVG = ".213"
+B_2B = "115"
+B_3B = "44"
+B_HR = "10"
+B_SB = "165"
+B_SH = "118"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1907"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3809"
+B_R = "314"
+B_H = "806"
+B_TB = "958"
+B_AVG = ".212"
+B_2B = "97"
+B_3B = "19"
+B_HR = "5"
+B_SB = "165"
+B_SH = "118"

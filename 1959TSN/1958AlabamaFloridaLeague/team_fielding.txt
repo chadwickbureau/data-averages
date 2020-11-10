@@ -1,0 +1,134 @@
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "109"
+F_PB = "31"
+F_PO = "3267"
+F_A = "1288"
+F_E = "238"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Fort Walton Beach"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "91"
+F_PB = "21"
+F_PO = "3199"
+F_A = "1209"
+F_E = "235"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Graceville"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "104"
+F_PB = "18"
+F_PO = "3144"
+F_A = "1093"
+F_E = "237"
+F_PCT = ".947"
+F_TP = "0"
+
+
+[[team]]
+name = "Pensacola"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "111"
+F_PB = "25"
+F_PO = "3181"
+F_A = "1303"
+F_E = "257"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Selma"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "102"
+F_PB = "15"
+F_PO = "3082"
+F_A = "1224"
+F_E = "247"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "117"
+F_PB = "18"
+F_PO = "3232"
+F_A = "1273"
+F_E = "276"
+F_PCT = ".942"
+F_TP = "0"
+
+
+[[team]]
+name = "Dothan"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "104"
+F_PB = "13"
+F_PO = "3266"
+F_A = "1238"
+F_E = "281"
+F_PCT = ".941"
+F_TP = "0"
+
+
+[[team]]
+name = "Panama City"
+[[team.playing]]
+season = "1958"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "74"
+F_PB = "18"
+F_PO = "3019"
+F_A = "1045"
+F_E = "300"
+F_PCT = ".931"
+F_TP = "1"

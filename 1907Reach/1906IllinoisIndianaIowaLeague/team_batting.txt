@@ -1,0 +1,94 @@
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3825"
+B_H = "950"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3871"
+B_H = "961"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3890"
+B_H = "958"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3882"
+B_H = "922"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3707"
+B_H = "875"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3863"
+B_H = "915"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3607"
+B_H = "774"
+B_AVG = ".212"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3821"
+B_H = "775"
+B_AVG = ".203"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Ridgway"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "79"
+B_AB = "2611"
+B_R = "359"
+B_H = "684"
+B_SH = "107"
+B_SB = "107"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Warren"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "58"
+B_AB = "1939"
+B_R = "253"
+B_H = "487"
+B_SH = "61"
+B_SB = "70"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "84"
+B_AB = "2799"
+B_R = "319"
+B_H = "699"
+B_SH = "75"
+B_SB = "62"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "66"
+B_AB = "2132"
+B_R = "235"
+B_H = "520"
+B_SH = "73"
+B_SB = "87"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "41"
+B_AB = "1318"
+B_R = "153"
+B_H = "315"
+B_SH = "55"
+B_SB = "30"
+B_AVG = ".239"
+
+
+[[team]]
+name = "St. Marys"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "79"
+B_AB = "2522"
+B_R = "291"
+B_H = "590"
+B_SH = "116"
+B_SB = "124"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "80"
+B_AB = "2627"
+B_R = "268"
+B_H = "612"
+B_SH = "84"
+B_SB = "79"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Johnsonburg"
+[[team.playing]]
+season = "1916"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_G = "73"
+B_AB = "2340"
+B_R = "248"
+B_H = "545"
+B_SH = "92"
+B_SB = "82"
+B_AVG = ".232"

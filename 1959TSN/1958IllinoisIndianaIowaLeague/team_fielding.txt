@@ -1,0 +1,100 @@
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "128"
+F_PB = "32"
+F_PO = "3355"
+F_A = "1405"
+F_E = "177"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "129"
+F_PB = "40"
+F_PO = "3371"
+F_A = "1399"
+F_E = "185"
+F_PCT = ".963"
+F_TP = "0"
+
+
+[[team]]
+name = "Green Bay"
+[[team.playing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "132"
+F_PB = "22"
+F_PO = "3341"
+F_A = "1282"
+F_E = "198"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Rochester/Winona"
+[[team.playing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "136"
+F_PB = "27"
+F_PO = "3406"
+F_A = "1401"
+F_E = "207"
+F_PCT = ".959"
+F_TP = "1"
+
+
+[[team]]
+name = "Fox Cities"
+[[team.playing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "102"
+F_PB = "21"
+F_PO = "3310"
+F_A = "1281"
+F_E = "204"
+F_PCT = ".957"
+F_TP = "1"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1958"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "108"
+F_PB = "28"
+F_PO = "3384"
+F_A = "1275"
+F_E = "222"
+F_PCT = ".955"
+F_TP = "0"

@@ -1,0 +1,88 @@
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4271"
+B_R = "689"
+B_H = "1404"
+B_SB = "165"
+B_SH = "128"
+B_AVG = ".329"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3853"
+B_R = "642"
+B_H = "1134"
+B_SB = "259"
+B_SH = "122"
+B_AVG = ".294"
+
+
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4184"
+B_R = "773"
+B_H = "1224"
+B_SB = "241"
+B_SH = "146"
+B_AVG = ".293"
+
+
+[[team]]
+name = "Maysville"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4045"
+B_R = "653"
+B_H = "1182"
+B_SB = "208"
+B_SH = "160"
+B_AVG = ".292"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3259"
+B_R = "474"
+B_H = "904"
+B_SB = "200"
+B_SH = "122"
+B_AVG = ".277"
+
+
+[[team]]
+name = "Mount Sterling"
+[[team.playing]]
+season = "1912"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3491"
+B_R = "375"
+B_H = "805"
+B_SB = "157"
+B_SH = "96"
+B_AVG = ".230"

@@ -1,0 +1,286 @@
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5098"
+B_R = "771"
+P_R = "664"
+B_H = "1487"
+B_TB = "2023"
+B_2B = "233"
+B_3B = "45"
+B_HR = "71"
+B_SH = "97"
+B_SB = "71"
+B_LOB = "1194"
+B_AVG = ".292"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5009"
+B_R = "756"
+P_R = "630"
+B_H = "1407"
+B_TB = "1912"
+B_2B = "234"
+B_3B = "56"
+B_HR = "53"
+B_SH = "91"
+B_SB = "61"
+B_LOB = "1179"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4898"
+B_R = "710"
+P_R = "715"
+B_H = "1354"
+B_TB = "1754"
+B_2B = "211"
+B_3B = "42"
+B_HR = "35"
+B_SH = "74"
+B_SB = "107"
+B_LOB = "1159"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4990"
+B_R = "716"
+P_R = "699"
+B_H = "1358"
+B_TB = "1847"
+B_2B = "229"
+B_3B = "61"
+B_HR = "46"
+B_SH = "78"
+B_SB = "105"
+B_LOB = "1152"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5087"
+B_R = "672"
+P_R = "787"
+B_H = "1380"
+B_TB = "1786"
+B_2B = "187"
+B_3B = "57"
+B_HR = "35"
+B_SH = "101"
+B_SB = "71"
+B_LOB = "1169"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5023"
+B_R = "790"
+P_R = "914"
+B_H = "1351"
+B_TB = "1882"
+B_2B = "232"
+B_3B = "28"
+B_HR = "81"
+B_SH = "63"
+B_SB = "122"
+B_LOB = "1175"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5050"
+B_R = "680"
+P_R = "753"
+B_H = "1352"
+B_TB = "1789"
+B_2B = "192"
+B_3B = "52"
+B_HR = "47"
+B_SH = "72"
+B_SB = "71"
+B_LOB = "1234"
+B_AVG = ".268"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "151"
+B_AB = "4879"
+B_R = "713"
+P_R = "646"
+B_H = "1302"
+B_TB = "1855"
+B_2B = "260"
+B_3B = "37"
+B_HR = "73"
+B_SH = "85"
+B_SB = "62"
+B_LOB = "1089"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "560"
+B_HP = "39"
+B_RBI = "699"
+B_SO = "483"
+B_GDP = "104"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "697"
+B_HP = "21"
+B_RBI = "682"
+B_SO = "753"
+B_GDP = "103"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "578"
+B_HP = "23"
+B_RBI = "667"
+B_SO = "553"
+B_GDP = "107"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "610"
+B_HP = "20"
+B_RBI = "652"
+B_SO = "518"
+B_GDP = "88"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "552"
+B_HP = "33"
+B_RBI = "652"
+B_SO = "598"
+B_GDP = "106"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "611"
+B_HP = "20"
+B_RBI = "637"
+B_SO = "650"
+B_GDP = "107"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "495"
+B_HP = "23"
+B_RBI = "622"
+B_SO = "574"
+B_GDP = "93"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "604"
+B_HP = "19"
+B_RBI = "619"
+B_SO = "554"
+B_GDP = "100"

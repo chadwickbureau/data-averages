@@ -1,0 +1,82 @@
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2887"
+F_A = "1083"
+F_E = "136"
+F_TC = "4106"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Frederick"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2384"
+F_A = "1008"
+F_E = "126"
+F_TC = "3518"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Hanover"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2183"
+F_A = "1324"
+F_E = "158"
+F_TC = "3665"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Cumberland"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2358"
+F_A = "1114"
+F_E = "165"
+F_TC = "3637"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Martinsburg"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2450"
+F_A = "1084"
+F_E = "177"
+F_TC = "3711"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Gettysburg"
+[[team.playing]]
+season = "1917"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2298"
+F_A = "1119"
+F_E = "170"
+F_TC = "3587"
+F_PCT = ".952"

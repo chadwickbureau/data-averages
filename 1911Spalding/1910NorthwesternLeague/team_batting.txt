@@ -1,0 +1,74 @@
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "163"
+B_AB = "5178"
+B_R = "664"
+B_H = "1198"
+B_2B = "156"
+B_3B = "84"
+B_HR = "25"
+B_SH = "221"
+B_SB = "217"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "164"
+B_AB = "5201"
+B_R = "592"
+B_H = "1148"
+B_2B = "129"
+B_3B = "58"
+B_HR = "27"
+B_SH = "237"
+B_SB = "202"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "159"
+B_AB = "5082"
+B_R = "510"
+B_H = "1097"
+B_2B = "169"
+B_3B = "54"
+B_HR = "34"
+B_SH = "206"
+B_SB = "267"
+B_AVG = ".216"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1910"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "162"
+B_AB = "5229"
+B_R = "519"
+B_H = "1119"
+B_2B = "158"
+B_3B = "36"
+B_HR = "26"
+B_SH = "142"
+B_SB = "181"
+B_AVG = ".214"

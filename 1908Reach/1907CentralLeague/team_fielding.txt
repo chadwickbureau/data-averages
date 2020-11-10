@@ -1,0 +1,110 @@
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_PO = "3484"
+F_A = "1799"
+F_E = "238"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3577"
+F_A = "1707"
+F_E = "243"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3636"
+F_A = "1698"
+F_E = "255"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3682"
+F_A = "1737"
+F_E = "267"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3740"
+F_A = "1870"
+F_E = "301"
+F_PCT = ".949"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_PO = "3784"
+F_A = "1996"
+F_E = "317"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3245"
+F_A = "1678"
+F_E = "283"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3460"
+F_A = "1723"
+F_E = "317"
+F_PCT = ".942"

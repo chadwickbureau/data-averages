@@ -1,0 +1,134 @@
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "143"
+F_TP = "0"
+F_PB = "28"
+F_PO = "3942"
+F_A = "1672"
+F_E = "176"
+F_PCT = ".970"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "150"
+F_TP = "0"
+F_PB = "37"
+F_PO = "4087"
+F_A = "1742"
+F_E = "184"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "126"
+F_TP = "0"
+F_PB = "36"
+F_PO = "3995"
+F_A = "1593"
+F_E = "176"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_DP = "141"
+F_TP = "0"
+F_PB = "26"
+F_PO = "3856"
+F_A = "1756"
+F_E = "184"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_DP = "145"
+F_TP = "0"
+F_PB = "17"
+F_PO = "3950"
+F_A = "1655"
+F_E = "190"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "122"
+F_TP = "0"
+F_PB = "13"
+F_PO = "4017"
+F_A = "1776"
+F_E = "206"
+F_PCT = ".966"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "139"
+F_TP = "0"
+F_PB = "20"
+F_PO = "4009"
+F_A = "1728"
+F_E = "223"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1946"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "135"
+F_TP = "0"
+F_PB = "12"
+F_PO = "3994"
+F_A = "1611"
+F_E = "258"
+F_PCT = ".956"

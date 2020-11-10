@@ -1,0 +1,82 @@
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3051"
+F_A = "1545"
+F_E = "235"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "2998"
+F_A = "1419"
+F_E = "240"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "2976"
+F_A = "1528"
+F_E = "246"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_PO = "3032"
+F_A = "1502"
+F_E = "249"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3014"
+F_A = "1486"
+F_E = "256"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3007"
+F_A = "1382"
+F_E = "274"
+F_PCT = ".941"

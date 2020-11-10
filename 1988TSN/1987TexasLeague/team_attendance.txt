@@ -1,0 +1,78 @@
+[[team]]
+name = "Arkansas"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "256365"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "180633"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "131248"
+
+
+[[team]]
+name = "Midland"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "137910"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "122277"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "233524"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "170932"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "150952"

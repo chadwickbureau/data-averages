@@ -1,0 +1,54 @@
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3296"
+F_A = "1482"
+F_E = "249"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "33809"
+F_A = "1546"
+F_E = "275"
+F_PCT = ".947"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3269"
+F_A = "1435"
+F_E = "358"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Watsonville"
+[[team.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3279"
+F_A = "1536"
+F_E = "371"
+F_PCT = ".928"

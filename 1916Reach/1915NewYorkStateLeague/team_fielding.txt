@@ -1,0 +1,102 @@
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3175"
+F_A = "1375"
+F_E = "173"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3313"
+F_A = "1614"
+F_E = "201"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3256"
+F_A = "1531"
+F_E = "202"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2411"
+F_A = "1481"
+F_E = "167"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3045"
+F_A = "1366"
+F_E = "207"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2911"
+F_A = "1470"
+F_E = "205"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Troy"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2732"
+F_A = "1414"
+F_E = "224"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3055"
+F_A = "1608"
+F_E = "262"
+F_PCT = ".947"

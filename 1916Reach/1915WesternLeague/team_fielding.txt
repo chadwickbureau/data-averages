@@ -1,0 +1,134 @@
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3723"
+F_A = "1790"
+F_E = "228"
+F_DP = "105"
+F_PB = "25"
+F_TP = "1"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3559"
+F_A = "1737"
+F_E = "246"
+F_DP = "93"
+F_PB = "16"
+F_TP = "0"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3682"
+F_A = "1611"
+F_E = "251"
+F_DP = "100"
+F_PB = "16"
+F_TP = "0"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3790"
+F_A = "1863"
+F_E = "262"
+F_DP = "103"
+F_PB = "18"
+F_TP = "0"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3668"
+F_A = "1766"
+F_E = "264"
+F_DP = "119"
+F_PB = "6"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3707"
+F_A = "1838"
+F_E = "269"
+F_DP = "112"
+F_PB = "20"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3579"
+F_A = "1812"
+F_E = "281"
+F_DP = "99"
+F_PB = "26"
+F_TP = "1"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1915"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3646"
+F_A = "1885"
+F_E = "288"
+F_DP = "103"
+F_PB = "23"
+F_TP = "3"
+F_PCT = ".950"

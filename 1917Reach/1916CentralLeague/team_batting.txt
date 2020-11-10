@@ -1,0 +1,126 @@
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4230"
+B_R = "562"
+B_H = "1145"
+B_SH = "152"
+B_SB = "219"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4334"
+B_R = "503"
+B_H = "1130"
+B_SH = "151"
+B_SB = "186"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4368"
+B_R = "400"
+B_H = "1119"
+B_SH = "188"
+B_SB = "157"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "133"
+B_AB = "4287"
+B_R = "488"
+B_H = "1088"
+B_SH = "151"
+B_SB = "124"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4332"
+B_R = "442"
+B_H = "1083"
+B_SH = "168"
+B_SB = "257"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4266"
+B_R = "449"
+B_H = "1054"
+B_SH = "190"
+B_SB = "197"
+B_AVG = ".247"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4286"
+B_R = "403"
+B_H = "1039"
+B_SH = "184"
+B_SB = "145"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "133"
+B_AB = "4184"
+B_R = "447"
+B_H = "1011"
+B_SH = "213"
+B_SB = "128"
+B_AVG = ".242"

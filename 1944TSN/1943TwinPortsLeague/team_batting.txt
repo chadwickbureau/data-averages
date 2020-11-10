@@ -1,0 +1,98 @@
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+B_G = "19"
+B_AB = "617"
+B_R = "136"
+P_R = "116"
+B_H = "174"
+B_2B = "23"
+B_3B = "8"
+B_HR = "0"
+B_TB = "213"
+B_RBI = "113"
+B_LOB = "177"
+B_SH = "9"
+B_BB = "126"
+B_SB = "36"
+B_SO = "131"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Duluth Heralds"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+B_G = "16"
+B_AB = "541"
+B_R = "99"
+P_R = "142"
+B_H = "151"
+B_2B = "22"
+B_3B = "5"
+B_HR = "1"
+B_TB = "186"
+B_RBI = "86"
+B_LOB = "143"
+B_SH = "16"
+B_BB = "69"
+B_SB = "18"
+B_SO = "92"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Duluth Marine Iron"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+B_G = "16"
+B_AB = "545"
+B_R = "102"
+P_R = "80"
+B_H = "143"
+B_2B = "24"
+B_3B = "6"
+B_HR = "0"
+B_TB = "179"
+B_RBI = "83"
+B_LOB = "118"
+B_SH = "10"
+B_BB = "67"
+B_SB = "21"
+B_SO = "107"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Duluth Dukes"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+B_G = "19"
+B_AB = "653"
+B_R = "127"
+P_R = "126"
+B_H = "167"
+B_2B = "25"
+B_3B = "13"
+B_HR = "2"
+B_TB = "224"
+B_RBI = "97"
+B_LOB = "166"
+B_SH = "7"
+B_BB = "97"
+B_SB = "45"
+B_SO = "121"
+B_AVG = ".255"

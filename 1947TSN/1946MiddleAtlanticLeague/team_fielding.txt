@@ -1,0 +1,88 @@
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3303"
+F_A = "1424"
+F_E = "190"
+F_DP = "82"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Butler"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3307"
+F_A = "1439"
+F_E = "265"
+F_DP = "89"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Johnstown"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3226"
+F_A = "1438"
+F_E = "271"
+F_DP = "99"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Niagara Falls"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3337"
+F_A = "1476"
+F_E = "315"
+F_DP = "91"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3295"
+F_A = "1465"
+F_E = "320"
+F_DP = "98"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Oil City"
+[[team.playing]]
+season = "1946"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3306"
+F_A = "1483"
+F_E = "382"
+F_DP = "81"
+F_PCT = ".927"

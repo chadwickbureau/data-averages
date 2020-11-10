@@ -1,0 +1,134 @@
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4346"
+B_R = "543"
+B_H = "1116"
+B_TB = "1486"
+B_SH = "172"
+B_SB = "201"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4276"
+B_R = "473"
+B_H = "1093"
+B_TB = "1507"
+B_SH = "102"
+B_SB = "158"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4457"
+B_R = "454"
+B_H = "1119"
+B_TB = "1458"
+B_SH = "178"
+B_SB = "125"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4315"
+B_R = "473"
+B_H = "1079"
+B_TB = "1390"
+B_SH = "203"
+B_SB = "152"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4550"
+B_R = "479"
+B_H = "1122"
+B_TB = "1450"
+B_SH = "182"
+B_SB = "132"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4309"
+B_R = "504"
+B_H = "1055"
+B_TB = "1354"
+B_SH = "162"
+B_SB = "216"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4337"
+B_R = "438"
+B_H = "1061"
+B_TB = "1347"
+B_SH = "194"
+B_SB = "189"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1911"
+league.name = "Indiana-Illinois-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4410"
+B_R = "475"
+B_H = "1078"
+B_TB = "1401"
+B_SH = "214"
+B_SB = "202"
+B_AVG = ".244"

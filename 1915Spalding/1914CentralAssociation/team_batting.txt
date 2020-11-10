@@ -1,0 +1,134 @@
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4191"
+B_R = "543"
+B_H = "1110"
+B_TB = "1494"
+B_SH = "259"
+B_SB = "144"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4315"
+B_R = "331"
+B_H = "1134"
+B_TB = "1593"
+B_SH = "98"
+B_SB = "226"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4037"
+B_R = "524"
+B_H = "989"
+B_TB = "1465"
+B_SH = "150"
+B_SB = "210"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Marshalltown"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4075"
+B_R = "491"
+B_H = "999"
+B_TB = "1311"
+B_SH = "183"
+B_SB = "132"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Galesburg"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4157"
+B_R = "514"
+B_H = "994"
+B_TB = "1360"
+B_SH = "129"
+B_SB = "176"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4214"
+B_R = "475"
+B_H = "1002"
+B_TB = "1375"
+B_SH = "107"
+B_SB = "183"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4265"
+B_R = "532"
+B_H = "1003"
+B_TB = "1407"
+B_SH = "82"
+B_SB = "156"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1914"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4029"
+B_R = "523"
+B_H = "895"
+B_TB = "1335"
+B_SH = "139"
+B_SB = "151"
+B_AVG = ".222"

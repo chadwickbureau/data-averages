@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Lyons"
+name.given = "Edward"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Billings"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lakeman"
+name.given = "Albert"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Idaho Falls"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Plumbo"
+name.given = "Vincent"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pocatello"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McKeon"
+name.given = "John (Jack)"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Missoula"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dapper"
+name.given = "Clifford"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salt Lake City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Thurlby"
+name.given = "Burdette"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Magic Valley"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dixon"
+name.given = "Walter"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Magic Valley"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McQuinn"
+name.given = "George"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Boise"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Banta"
+name.given = "Jack"
+[[person.managing]]
+season = "1957"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Great Falls"
+S_ORDER = "0"
+[person.managing.totals]

@@ -1,0 +1,110 @@
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "98"
+R_L = "56"
+R_T = "0"
+R_PCT = ".636"
+R_RANK = "1"
+
+
+[[team]]
+name = "Amarillo"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "97"
+R_L = "57"
+R_T = "0"
+R_PCT = ".630"
+R_RANK = "2"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "87"
+R_L = "64"
+R_T = "0"
+R_PCT = ".576"
+R_RANK = "3"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "82"
+R_T = "0"
+R_PCT = ".464"
+R_RANK = "4"
+
+
+[[team]]
+name = "Colorado Springs"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "86"
+R_T = "0"
+R_PCT = ".442"
+R_RANK = "5"
+
+
+[[team]]
+name = "Albuquerque"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "88"
+R_T = "0"
+R_PCT = ".429"
+R_RANK = "6"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "88"
+R_T = "1"
+R_PCT = ".429"
+R_RANK = "6"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1957"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "92"
+R_T = "1"
+R_PCT = ".395"
+R_RANK = "8"

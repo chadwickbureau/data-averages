@@ -1,0 +1,182 @@
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "74"
+B_AB = "2375"
+B_R = "299"
+P_R = "248"
+B_H = "634"
+B_TB = "810"
+B_2B = "93"
+B_3B = "22"
+B_HR = "13"
+B_SH = "102"
+B_SB = "72"
+B_BB = "256"
+B_SO = "181"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "77"
+B_AB = "2558"
+B_R = "314"
+P_R = "251"
+B_H = "660"
+B_TB = "878"
+B_2B = "83"
+B_3B = "54"
+B_HR = "9"
+B_SH = "110"
+B_SB = "79"
+B_BB = "203"
+B_SO = "194"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "73"
+B_AB = "2414"
+B_R = "314"
+P_R = "308"
+B_H = "604"
+B_TB = "815"
+B_2B = "92"
+B_3B = "37"
+B_HR = "15"
+B_SH = "103"
+B_SB = "137"
+B_BB = "270"
+B_SO = "241"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "77"
+B_AB = "2538"
+B_R = "267"
+P_R = "301"
+B_H = "626"
+B_TB = "819"
+B_2B = "93"
+B_3B = "32"
+B_HR = "12"
+B_SH = "72"
+B_SB = "60"
+B_BB = "185"
+B_SO = "295"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "78"
+B_AB = "2537"
+B_R = "307"
+P_R = "259"
+B_H = "621"
+B_TB = "770"
+B_2B = "78"
+B_3B = "25"
+B_HR = "7"
+B_SH = "120"
+B_SB = "85"
+B_BB = "284"
+B_SO = "247"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "75"
+B_AB = "2363"
+B_R = "270"
+P_R = "257"
+B_H = "578"
+B_TB = "714"
+B_2B = "62"
+B_3B = "25"
+B_HR = "8"
+B_SH = "96"
+B_SB = "60"
+B_BB = "225"
+B_SO = "231"
+B_AVG = ".245"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "78"
+B_AB = "2555"
+B_R = "304"
+P_R = "306"
+B_H = "617"
+B_TB = "810"
+B_2B = "82"
+B_3B = "30"
+B_HR = "17"
+B_SH = "100"
+B_SB = "84"
+B_BB = "246"
+B_SO = "256"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "78"
+B_AB = "2394"
+B_R = "205"
+P_R = "345"
+B_H = "530"
+B_TB = "637"
+B_2B = "46"
+B_3B = "20"
+B_HR = "7"
+B_SH = "83"
+B_SB = "50"
+B_BB = "212"
+B_SO = "214"
+B_AVG = ".221"

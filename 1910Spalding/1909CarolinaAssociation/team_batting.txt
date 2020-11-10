@@ -1,0 +1,88 @@
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3722"
+B_R = "439"
+B_H = "893"
+B_SH = "205"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3678"
+B_R = "377"
+B_H = "856"
+B_SH = "162"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3555"
+B_R = "405"
+B_H = "820"
+B_SH = "213"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3600"
+B_R = "382"
+B_H = "794"
+B_SH = "178"
+B_AVG = ".220"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3496"
+B_R = "339"
+B_H = "765"
+B_SH = "146"
+B_AVG = ".219"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3452"
+B_R = "352"
+B_H = "737"
+B_SH = "224"
+B_AVG = ".214"

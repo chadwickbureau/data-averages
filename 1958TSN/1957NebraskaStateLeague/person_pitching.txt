@@ -1,0 +1,2505 @@
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "15"
+P_GS = "1"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".571"
+P_IP = "43"
+P_H = "33"
+P_HR = "3"
+P_R = "28"
+P_ER = "22"
+P_BB = "34"
+P_SO = "43"
+P_HP = "0"
+P_WP = "6"
+P_ERA = "4.60"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Aparo"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "35"
+P_H = "32"
+P_HR = "1"
+P_R = "29"
+P_ER = "17"
+P_BB = "19"
+P_SO = "28"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "4.37"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barbee"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "14"
+P_GS = "9"
+P_CG = "5"
+P_SHO = "1"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "81"
+P_H = "67"
+P_HR = "8"
+P_R = "38"
+P_ER = "27"
+P_BB = "40"
+P_SO = "106"
+P_HP = "5"
+P_WP = "8"
+P_ERA = "3.00"
+P_BK = "1"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Belden"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "14"
+P_GS = "10"
+P_CG = "6"
+P_SHO = "1"
+P_W = "7"
+P_L = "2"
+P_PCT = ".778"
+P_IP = "73"
+P_H = "55"
+P_HR = "1"
+P_R = "43"
+P_ER = "36"
+P_BB = "60"
+P_SO = "94"
+P_HP = "8"
+P_WP = "6"
+P_ERA = "4.44"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Biles"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "10"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "41"
+P_H = "33"
+P_HR = "3"
+P_R = "20"
+P_ER = "15"
+P_BB = "36"
+P_SO = "62"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Botto"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "22"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "0"
+P_L = "10"
+P_PCT = ".000"
+P_IP = "64"
+P_H = "83"
+P_HR = "6"
+P_R = "65"
+P_ER = "48"
+P_BB = "42"
+P_SO = "43"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "6.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Corley"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "17"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "64"
+P_H = "72"
+P_HR = "4"
+P_R = "45"
+P_ER = "27"
+P_BB = "37"
+P_SO = "60"
+P_HP = "4"
+P_WP = "4"
+P_ERA = "3.80"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Coughtry"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "19"
+P_GS = "13"
+P_CG = "8"
+P_SHO = "0"
+P_W = "11"
+P_L = "1"
+P_PCT = ".917"
+P_IP = "112"
+P_H = "106"
+P_HR = "12"
+P_R = "65"
+P_ER = "45"
+P_BB = "36"
+P_SO = "73"
+P_HP = "17"
+P_WP = "3"
+P_ERA = "3.62"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cregan"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "13"
+P_GS = "10"
+P_CG = "6"
+P_SHO = "1"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "69"
+P_H = "41"
+P_HR = "1"
+P_R = "30"
+P_ER = "19"
+P_BB = "55"
+P_SO = "69"
+P_HP = "3"
+P_WP = "1"
+P_ERA = "2.48"
+P_BK = "0"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Cunningham"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "10"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "33"
+P_H = "32"
+P_HR = "1"
+P_R = "25"
+P_ER = "16"
+P_BB = "33"
+P_SO = "36"
+P_HP = "0"
+P_WP = "6"
+P_ERA = "4.36"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "18"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "39"
+P_H = "41"
+P_HR = "5"
+P_R = "39"
+P_ER = "26"
+P_BB = "28"
+P_SO = "31"
+P_HP = "4"
+P_WP = "2"
+P_ERA = "6.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dembia"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "36"
+P_H = "42"
+P_HR = "1"
+P_R = "32"
+P_ER = "22"
+P_BB = "19"
+P_SO = "28"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "5.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Erickson"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "8"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "56"
+P_H = "61"
+P_HR = "8"
+P_R = "37"
+P_ER = "28"
+P_BB = "21"
+P_SO = "42"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "4.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fergunson"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "15"
+P_GS = "11"
+P_CG = "8"
+P_SHO = "3"
+P_W = "9"
+P_L = "3"
+P_PCT = ".750"
+P_IP = "102"
+P_H = "91"
+P_HR = "1"
+P_R = "35"
+P_ER = "19"
+P_BB = "42"
+P_SO = "149"
+P_HP = "4"
+P_WP = "7"
+P_ERA = "1.68"
+P_BK = "0"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Fischer"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "22"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "73"
+P_H = "93"
+P_HR = "7"
+P_R = "62"
+P_ER = "42"
+P_BB = "37"
+P_SO = "38"
+P_HP = "4"
+P_WP = "0"
+P_ERA = "4.85"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fisher"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "21"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "62"
+P_H = "49"
+P_HR = "5"
+P_R = "32"
+P_ER = "24"
+P_BB = "34"
+P_SO = "57"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.48"
+P_BK = "0"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Fordham"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "14"
+P_GS = "13"
+P_CG = "7"
+P_SHO = "1"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "94"
+P_H = "89"
+P_HR = "8"
+P_R = "50"
+P_ER = "35"
+P_BB = "25"
+P_SO = "99"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "3.35"
+P_BK = "0"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Frioni"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "8"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "1"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "40"
+P_H = "37"
+P_HR = "4"
+P_R = "22"
+P_ER = "17"
+P_BB = "6"
+P_SO = "28"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.83"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ganes"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "7"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "43"
+P_H = "30"
+P_HR = "1"
+P_R = "27"
+P_ER = "19"
+P_BB = "31"
+P_SO = "41"
+P_HP = "7"
+P_WP = "4"
+P_ERA = "3.98"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gery"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "13"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "52"
+P_H = "61"
+P_HR = "3"
+P_R = "37"
+P_ER = "28"
+P_BB = "31"
+P_SO = "37"
+P_HP = "4"
+P_WP = "2"
+P_ERA = "4.85"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Grigsby"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "6"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "1"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "37"
+P_H = "41"
+P_HR = "3"
+P_R = "22"
+P_ER = "20"
+P_BB = "17"
+P_SO = "28"
+P_HP = "0"
+P_WP = "3"
+P_ERA = "4.86"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Groth"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "12"
+P_GS = "10"
+P_CG = "6"
+P_SHO = "1"
+P_W = "0"
+P_L = "3"
+P_PCT = ".750"
+P_IP = "88"
+P_H = "64"
+P_HR = "3"
+P_R = "36"
+P_ER = "20"
+P_BB = "39"
+P_SO = "98"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "2.05"
+P_BK = "1"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Golick"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "13"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "44"
+P_H = "54"
+P_HR = "5"
+P_R = "49"
+P_ER = "33"
+P_BB = "29"
+P_SO = "43"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "6.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hatchell"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "22"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "60"
+P_H = "62"
+P_HR = "5"
+P_R = "36"
+P_ER = "29"
+P_BB = "32"
+P_SO = "53"
+P_HP = "5"
+P_WP = "1"
+P_ERA = "4.35"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Herr"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "37"
+P_H = "28"
+P_HR = "1"
+P_R = "30"
+P_ER = "19"
+P_BB = "32"
+P_SO = "43"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "4.62"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Job"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "14"
+P_GS = "8"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "73"
+P_H = "69"
+P_HR = "5"
+P_R = "42"
+P_ER = "28"
+P_BB = "44"
+P_SO = "60"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "3.45"
+P_BK = "1"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Kaat"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "14"
+P_GS = "11"
+P_CG = "4"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "73"
+P_H = "65"
+P_HR = "5"
+P_R = "45"
+P_ER = "30"
+P_BB = "35"
+P_SO = "95"
+P_HP = "8"
+P_WP = "4"
+P_ERA = "3.70"
+P_BK = "0"
+
+
+[[person]]
+name.last = "King"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "17"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "1"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "72"
+P_H = "44"
+P_HR = "2"
+P_R = "34"
+P_ER = "19"
+P_BB = "64"
+P_SO = "124"
+P_HP = "1"
+P_WP = "9"
+P_ERA = "2.38"
+P_BK = "0"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Kucher"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "15"
+P_GS = "14"
+P_CG = "11"
+P_SHO = "1"
+P_W = "10"
+P_L = "3"
+P_PCT = ".769"
+P_IP = "110"
+P_H = "72"
+P_HR = "4"
+P_R = "47"
+P_ER = "38"
+P_BB = "52"
+P_SO = "140"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.11"
+P_BK = "2"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Kuczynski"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "14"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "31"
+P_H = "32"
+P_HR = "1"
+P_R = "20"
+P_ER = "15"
+P_BB = "18"
+P_SO = "36"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "4.35"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lindop"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "10"
+P_GS = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "40"
+P_H = "30"
+P_HR = "2"
+P_R = "28"
+P_ER = "17"
+P_BB = "46"
+P_SO = "52"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "3.83"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCoy"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "13"
+P_GS = "9"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "6"
+P_PCT = ".000"
+P_IP = "55"
+P_H = "70"
+P_HR = "8"
+P_R = "61"
+P_ER = "35"
+P_BB = "48"
+P_SO = "48"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "5.73"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mercer"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "14"
+P_GS = "10"
+P_CG = "3"
+P_SHO = "1"
+P_W = "1"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "68"
+P_H = "82"
+P_HR = "2"
+P_R = "62"
+P_ER = "45"
+P_BB = "44"
+P_SO = "80"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "5.96"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Moore"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "10"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "33"
+P_H = "34"
+P_HR = "1"
+P_R = "31"
+P_ER = "20"
+P_BB = "31"
+P_SO = "40"
+P_HP = "5"
+P_WP = "5"
+P_ERA = "5.45"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Newman"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "21"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "52"
+P_H = "63"
+P_HR = "7"
+P_R = "61"
+P_ER = "41"
+P_BB = "62"
+P_SO = "53"
+P_HP = "3"
+P_WP = "7"
+P_ERA = "7.10"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Osborne"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "18"
+P_GS = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "6"
+P_PCT = ".000"
+P_IP = "55"
+P_H = "66"
+P_HR = "4"
+P_R = "58"
+P_ER = "41"
+P_BB = "39"
+P_SO = "43"
+P_HP = "5"
+P_WP = "5"
+P_ERA = "6.71"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Palmisano"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "13"
+P_GS = "12"
+P_CG = "5"
+P_SHO = "0"
+P_W = "7"
+P_L = "3"
+P_PCT = ".700"
+P_IP = "76"
+P_H = "79"
+P_HR = "6"
+P_R = "49"
+P_ER = "30"
+P_BB = "47"
+P_SO = "87"
+P_HP = "6"
+P_WP = "9"
+P_ERA = "3.55"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Papstein"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "11"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "46"
+P_H = "50"
+P_HR = "2"
+P_R = "49"
+P_ER = "36"
+P_BB = "28"
+P_SO = "43"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "7.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Percivalle"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "16"
+P_GS = "2"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "54"
+P_H = "52"
+P_HR = "3"
+P_R = "38"
+P_ER = "28"
+P_BB = "38"
+P_SO = "68"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "4.67"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Phelon"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "8"
+P_GS = "3"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "42"
+P_H = "40"
+P_HR = "2"
+P_R = "19"
+P_ER = "18"
+P_BB = "23"
+P_SO = "38"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "3.86"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Poole"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "21"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "77"
+P_H = "90"
+P_HR = "10"
+P_R = "46"
+P_ER = "34"
+P_BB = "17"
+P_SO = "54"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.97"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Poupore"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "14"
+P_GS = "8"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "44"
+P_H = "39"
+P_HR = "0"
+P_R = "41"
+P_ER = "28"
+P_BB = "46"
+P_SO = "45"
+P_HP = "5"
+P_WP = "8"
+P_ERA = "5.73"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ramont"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "10"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "42"
+P_H = "43"
+P_HR = "5"
+P_R = "32"
+P_ER = "26"
+P_BB = "26"
+P_SO = "36"
+P_HP = "4"
+P_WP = "4"
+P_ERA = "5.57"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Scalzi"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "15"
+P_GS = "13"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "95"
+P_H = "87"
+P_HR = "6"
+P_R = "67"
+P_ER = "47"
+P_BB = "47"
+P_SO = "103"
+P_HP = "2"
+P_WP = "7"
+P_ERA = "4.45"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schatz"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "14"
+P_GS = "11"
+P_CG = "4"
+P_SHO = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "77"
+P_H = "61"
+P_HR = "0"
+P_R = "67"
+P_ER = "42"
+P_BB = "63"
+P_SO = "78"
+P_HP = "5"
+P_WP = "10"
+P_ERA = "4.91"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Schulz"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "10"
+P_GS = "10"
+P_CG = "7"
+P_SHO = "0"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "78"
+P_H = "64"
+P_HR = "5"
+P_R = "46"
+P_ER = "38"
+P_BB = "39"
+P_SO = "59"
+P_HP = "5"
+P_WP = "3"
+P_ERA = "4.38"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shell"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "10"
+P_GS = "8"
+P_CG = "4"
+P_SHO = "0"
+P_W = "7"
+P_L = "2"
+P_PCT = ".778"
+P_IP = "68"
+P_H = "55"
+P_HR = "2"
+P_R = "20"
+P_ER = "14"
+P_BB = "35"
+P_SO = "47"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "1.85"
+P_BK = "0"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Stricko"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "10"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "32"
+P_H = "25"
+P_HR = "0"
+P_R = "15"
+P_ER = "12"
+P_BB = "20"
+P_SO = "28"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.38"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Sublett"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "7"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "38"
+P_H = "39"
+P_HR = "5"
+P_R = "28"
+P_ER = "23"
+P_BB = "32"
+P_SO = "39"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "5.45"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "9"
+P_GS = "5"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "41"
+P_H = "46"
+P_HR = "5"
+P_R = "41"
+P_ER = "34"
+P_BB = "21"
+P_SO = "36"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "7.46"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Svenson"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "8"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "30"
+P_H = "36"
+P_HR = "1"
+P_R = "31"
+P_ER = "25"
+P_BB = "20"
+P_SO = "37"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "7.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wilcox"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "15"
+P_GS = "10"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "45"
+P_H = "43"
+P_HR = "2"
+P_R = "43"
+P_ER = "30"
+P_BB = "40"
+P_SO = "52"
+P_HP = "4"
+P_WP = "5"
+P_ERA = "6.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "17"
+P_GS = "11"
+P_CG = "5"
+P_SHO = "1"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "89"
+P_H = "73"
+P_HR = "4"
+P_R = "56"
+P_ER = "37"
+P_BB = "70"
+P_SO = "97"
+P_HP = "2"
+P_WP = "13"
+P_ERA = "3.74"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wise"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "16"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "39"
+P_H = "42"
+P_HR = "1"
+P_R = "23"
+P_ER = "16"
+P_BB = "16"
+P_SO = "40"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "3.69"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Witkowski"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "19"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "72"
+P_H = "63"
+P_HR = "4"
+P_R = "62"
+P_ER = "50"
+P_BB = "71"
+P_SO = "77"
+P_HP = "12"
+P_WP = "1"
+P_ERA = "6.25"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "10"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "37"
+P_H = "33"
+P_HR = "1"
+P_R = "25"
+P_ER = "16"
+P_BB = "25"
+P_SO = "39"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "3.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Floberg"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "7"
+P_W = "2"
+P_L = "1"
+
+
+[[person]]
+name.last = "Hayes"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+
+
+[[person]]
+name.last = "Johnson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "2"
+
+
+[[person]]
+name.last = "Wolcott"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Beerbower"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "2"
+
+
+[[person]]
+name.last = "Brannon"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Grant"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "1"
+
+
+[[person]]
+name.last = "Maas"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Preyar"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+
+
+[[person]]
+name.last = "Rodriguez"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "0"
+
+
+[[person]]
+name.last = "Tower"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Vogel"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Zaremba"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "0"
+
+
+[[person]]
+name.last = "Andrews"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Ashby"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "1"
+
+
+[[person]]
+name.last = "Basse"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "0"
+
+
+[[person]]
+name.last = "Baxter"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Bretsel"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Frencl"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Hoyt"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Kuodis"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Kuhel"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "McWilliams"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Tilley"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Auleta"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Bain"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Ballard"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Ballou"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Hackett"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "14"
+P_W = "1"
+P_L = "2"
+
+
+[[person]]
+name.last = "Howard"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Moursund"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "7"
+P_W = "2"
+P_L = "0"
+
+
+[[person]]
+name.last = "Schirmer"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Wiley"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "14"
+P_W = "1"
+P_L = "2"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Clift"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Day"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Ninas"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Peterson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Snowden"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Carlsen"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Jarvis"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "2"
+
+
+[[person]]
+name.last = "Kenney"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Knoll"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "10"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Roman"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "3"
+P_W = "2"
+P_L = "0"
+
+
+[[person]]
+name.last = "Rotari"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Haley"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+
+
+[[person]]
+name.last = "Rickerson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Stewart"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "2"
+
+
+[[person]]
+name.last = "Whited"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+
+
+[[person]]
+name.last = "Acosta"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "Barnett"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "12"
+P_W = "1"
+P_L = "3"
+
+
+[[person]]
+name.last = "Barnette"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "2"
+
+
+[[person]]
+name.last = "Emanuele"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "0"
+
+
+[[person]]
+name.last = "Ling"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "8"
+P_W = "2"
+P_L = "1"
+
+
+[[person]]
+name.last = "Schwertfeger"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+
+
+[[person]]
+name.last = "White"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"

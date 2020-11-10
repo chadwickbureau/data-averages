@@ -1,0 +1,58 @@
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "285301"
+
+
+[[team]]
+name = "Veracruz"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "205937"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "204423"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "203305"
+
+
+[[team]]
+name = "Puebla"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "194181"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "152776"

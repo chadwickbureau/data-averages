@@ -1,0 +1,3389 @@
+[[person]]
+name.last = "Sebastian"
+name.given = "Sherman"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "19"
+P_H = "23"
+P_R = "11"
+P_BB = "5"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Stephenson"
+name.given = "Alton"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "19"
+P_H = "31"
+P_R = "20"
+P_BB = "6"
+P_SO = "2"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Catapano"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "18"
+P_H = "18"
+P_R = "12"
+P_BB = "14"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Pryor"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "17"
+P_H = "18"
+P_R = "13"
+P_BB = "10"
+P_SO = "5"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "J."
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "13"
+P_H = "22"
+P_R = "16"
+P_BB = "8"
+P_SO = "7"
+P_HP = "5"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Ratteree"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "11"
+P_H = "4"
+P_R = "0"
+P_BB = "3"
+P_SO = "9"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Deim"
+name.given = "Arthur"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "5"
+P_H = "7"
+P_R = "6"
+P_BB = "3"
+P_SO = "1"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Peterson"
+name.given = "Lee"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "9"
+P_CG = "0"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+P_IP = "69"
+P_H = "53"
+P_R = "20"
+P_BB = "35"
+P_SO = "74"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Keane"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "29"
+P_CG = "22"
+P_W = "23"
+P_L = "4"
+P_PCT = ".852"
+P_IP = "229"
+P_H = "219"
+P_R = "102"
+P_BB = "75"
+P_SO = "104"
+P_HP = "12"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Andrews"
+name.given = "Nathan"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "13"
+P_CG = "12"
+P_W = "9"
+P_L = "2"
+P_PCT = ".818"
+P_IP = "98"
+P_H = "83"
+P_R = "32"
+P_BB = "27"
+P_SO = "90"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_T = "1"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Pugh"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "12"
+P_CG = "3"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "58"
+P_H = "89"
+P_R = "47"
+P_BB = "31"
+P_SO = "28"
+P_HP = "3"
+P_WP = "4"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Milton"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "10"
+P_CG = "2"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "43"
+P_H = "40"
+P_R = "25"
+P_BB = "15"
+P_SO = "11"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Butcher"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "20"
+P_H = "25"
+P_R = "28"
+P_BB = "13"
+P_SO = "14"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Fish"
+name.given = "Pate"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "4"
+[[person.playing.split]]
+team.name = "Wilmington"
+P_G = "2"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "18"
+P_H = "20"
+P_R = "21"
+P_BB = "14"
+P_SO = "12"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Auman"
+name.given = "Howard"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "33"
+P_CG = "28"
+P_W = "22"
+P_L = "8"
+P_PCT = ".733"
+P_IP = "256"
+P_H = "234"
+P_R = "115"
+P_BB = "81"
+P_SO = "167"
+P_HP = "9"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Mossor"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "34"
+P_CG = "21"
+P_W = "21"
+P_L = "8"
+P_PCT = ".724"
+P_IP = "239"
+P_H = "224"
+P_R = "120"
+P_BB = "109"
+P_SO = "166"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_T = "0"
+P_SHO = "4"
+
+
+[[person]]
+name.last = "Clinard"
+name.given = "Cloris"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "37"
+P_H = "41"
+P_R = "19"
+P_BB = "15"
+P_SO = "30"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Wilbourne"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "12"
+P_CG = "9"
+P_W = "7"
+P_L = "3"
+P_PCT = ".700"
+P_IP = "93"
+P_H = "71"
+P_R = "43"
+P_BB = "45"
+P_SO = "54"
+P_HP = "10"
+P_WP = "1"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Stone"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "30"
+P_CG = "15"
+P_W = "16"
+P_L = "8"
+P_PCT = ".667"
+P_IP = "188"
+P_H = "182"
+P_R = "109"
+P_BB = "80"
+P_SO = "184"
+P_HP = "10"
+P_WP = "9"
+P_BK = "0"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Salmon"
+name.given = "Homer"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "20"
+P_CG = "1"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "89"
+P_H = "95"
+P_R = "70"
+P_BB = "55"
+P_SO = "51"
+P_HP = "5"
+P_WP = "3"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "Marvin"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "30"
+P_H = "33"
+P_R = "17"
+P_BB = "15"
+P_SO = "19"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Parker"
+name.given = "Eugene"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "6"
+P_CG = "2"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "28"
+P_H = "20"
+P_R = "17"
+P_BB = "22"
+P_SO = "30"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Askew"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "3"
+P_CG = "3"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "27"
+P_H = "34"
+P_R = "11"
+P_BB = "4"
+P_SO = "11"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Holmes"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "24"
+P_H = "24"
+P_R = "19"
+P_BB = "16"
+P_SO = "5"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Hearn"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "24"
+P_CG = "14"
+P_W = "14"
+P_L = "9"
+P_PCT = ".609"
+P_IP = "165"
+P_H = "198"
+P_R = "122"
+P_BB = "77"
+P_SO = "88"
+P_HP = "4"
+P_WP = "5"
+P_BK = "2"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Bird"
+name.given = "Alton"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "40"
+P_CG = "11"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+P_IP = "187"
+P_H = "206"
+P_R = "124"
+P_BB = "85"
+P_SO = "70"
+P_HP = "3"
+P_WP = "7"
+P_BK = "0"
+P_T = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Stephenson"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "35"
+P_CG = "9"
+P_W = "12"
+P_L = "8"
+P_PCT = ".600"
+P_IP = "181"
+P_H = "227"
+P_R = "119"
+P_BB = "33"
+P_SO = "46"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Turowicz"
+name.given = "Nicolas"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "34"
+P_H = "38"
+P_R = "36"
+P_BB = "29"
+P_SO = "17"
+P_HP = "0"
+P_WP = "1"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Bomar"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "28"
+P_CG = "9"
+P_W = "11"
+P_L = "8"
+P_PCT = ".579"
+P_IP = "150"
+P_H = "213"
+P_R = "135"
+P_BB = "43"
+P_SO = "32"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Odom"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Sanford"
+P_G = "4"
+[person.playing.totals]
+P_G = "18"
+P_CG = "10"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "113"
+P_H = "122"
+P_R = "90"
+P_BB = "64"
+P_SO = "41"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "McBride"
+name.given = "Stanley"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "19"
+P_CG = "3"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "84"
+P_H = "110"
+P_R = "68"
+P_BB = "56"
+P_SO = "46"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_T = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Brooks"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "34"
+P_CG = "19"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_IP = "215"
+P_H = "202"
+P_R = "104"
+P_BB = "76"
+P_SO = "168"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Eonta"
+name.given = "Joe"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+P_G = "4"
+[[person.playing.split]]
+team.name = "Smithfield"
+P_G = "13"
+[person.playing.totals]
+P_G = "17"
+P_CG = "11"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "131"
+P_H = "120"
+P_R = "67"
+P_BB = "60"
+P_SO = "49"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Hardee"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "17"
+P_CG = "13"
+P_W = "9"
+P_L = "8"
+P_PCT = ".529"
+P_IP = "130"
+P_H = "149"
+P_R = "95"
+P_BB = "73"
+P_SO = "94"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "House"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "27"
+P_CG = "11"
+P_W = "11"
+P_L = "10"
+P_PCT = ".524"
+P_IP = "179"
+P_H = "198"
+P_R = "121"
+P_BB = "75"
+P_SO = "117"
+P_HP = "5"
+P_WP = "8"
+P_BK = "1"
+P_T = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Bortz"
+name.given = "George"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "31"
+P_CG = "21"
+P_W = "14"
+P_L = "14"
+P_PCT = ".500"
+P_IP = "237"
+P_H = "220"
+P_R = "116"
+P_BB = "108"
+P_SO = "193"
+P_HP = "5"
+P_WP = "21"
+P_BK = "1"
+P_T = "0"
+P_SHO = "4"
+
+
+[[person]]
+name.last = "Ingle"
+name.given = "Randolpy"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "9"
+[[person.playing.split]]
+team.name = "Wilmington"
+P_G = "7"
+[person.playing.totals]
+P_G = "16"
+P_CG = "2"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "83"
+P_H = "99"
+P_R = "81"
+P_BB = "91"
+P_SO = "71"
+P_HP = "3"
+P_WP = "6"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Trent"
+name.given = "Edgar"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+P_G = "15"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+P_G = "2"
+[person.playing.totals]
+P_G = "17"
+P_CG = "4"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "76"
+P_H = "86"
+P_R = "74"
+P_BB = "66"
+P_SO = "65"
+P_HP = "19"
+P_WP = "4"
+P_BK = "2"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Edens"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "7"
+P_CG = "5"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "50"
+P_H = "47"
+P_R = "27"
+P_BB = "24"
+P_SO = "46"
+P_HP = "1"
+P_WP = "3"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Vaughn"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "13"
+P_CG = "1"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "68"
+P_H = "84"
+P_R = "51"
+P_BB = "57"
+P_SO = "53"
+P_HP = "0"
+P_WP = "8"
+P_BK = "0"
+P_T = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Wisecup"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "3"
+[[person.playing.split]]
+team.name = "Clinton"
+P_G = "2"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "20"
+P_H = "37"
+P_R = "27"
+P_BB = "17"
+P_SO = "9"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Byrd"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "20"
+P_H = "31"
+P_R = "16"
+P_BB = "8"
+P_SO = "14"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Boos"
+name.given = "Minor"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "19"
+P_H = "28"
+P_R = "24"
+P_BB = "20"
+P_SO = "11"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Vaughn"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "19"
+P_H = "16"
+P_R = "17"
+P_BB = "14"
+P_SO = "6"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Mungo"
+name.given = "Van L."
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "18"
+P_H = "16"
+P_R = "10"
+P_BB = "3"
+P_SO = "25"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Shelton"
+name.given = "Baldwin"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "2"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "10"
+P_H = "6"
+P_R = "7"
+P_BB = "6"
+P_SO = "3"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Foster"
+name.given = "Arthur"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "27"
+P_CG = "5"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "132"
+P_H = "186"
+P_R = "109"
+P_BB = "33"
+P_SO = "54"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Turnage"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "19"
+P_CG = "5"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "113"
+P_H = "140"
+P_R = "100"
+P_BB = "52"
+P_SO = "34"
+P_HP = "11"
+P_WP = "5"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Stevens"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "10"
+P_CG = "6"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "59"
+P_H = "71"
+P_R = "50"
+P_BB = "37"
+P_SO = "18"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hornsby"
+name.given = "Leonard"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "10"
+P_CG = "4"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "48"
+P_H = "63"
+P_R = "40"
+P_BB = "31"
+P_SO = "19"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Quigley"
+name.given = "Albert"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "12"
+P_CG = "3"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "55"
+P_H = "50"
+P_R = "53"
+P_BB = "61"
+P_SO = "28"
+P_HP = "7"
+P_WP = "8"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Jenkins"
+name.given = "Thayer"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "21"
+P_CG = "4"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "103"
+P_H = "101"
+P_R = "72"
+P_BB = "80"
+P_SO = "45"
+P_HP = "7"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Green"
+name.given = "A."
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "20"
+P_CG = "6"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "111"
+P_H = "125"
+P_R = "81"
+P_BB = "55"
+P_SO = "42"
+P_HP = "3"
+P_WP = "3"
+P_BK = "1"
+P_T = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Olbert"
+name.given = "Zigmond"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "16"
+P_CG = "5"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "71"
+P_H = "91"
+P_R = "67"
+P_BB = "40"
+P_SO = "38"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hash"
+name.given = "Joseph"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "13"
+P_CG = "4"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "67"
+P_H = "77"
+P_R = "61"
+P_BB = "35"
+P_SO = "50"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "23"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+P_G = "9"
+[person.playing.totals]
+P_G = "32"
+P_CG = "5"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "138"
+P_H = "156"
+P_R = "120"
+P_BB = "109"
+P_SO = "80"
+P_HP = "6"
+P_WP = "7"
+P_BK = "0"
+P_T = "2"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Monterose"
+name.given = "Dominick"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+P_G = "19"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "3"
+[person.playing.totals]
+P_G = "22"
+P_CG = "2"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "103"
+P_H = "110"
+P_R = "94"
+P_BB = "87"
+P_SO = "52"
+P_HP = "2"
+P_WP = "4"
+P_BK = "1"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Gallo"
+name.given = "ernest"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "15"
+[[person.playing.split]]
+team.name = "Clinton"
+P_G = "6"
+[person.playing.totals]
+P_G = "21"
+P_CG = "5"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "100"
+P_H = "116"
+P_R = "96"
+P_BB = "69"
+P_SO = "55"
+P_HP = "10"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Craddock"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Sanford"
+P_G = "7"
+[person.playing.totals]
+P_G = "13"
+P_CG = "4"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "53"
+P_H = "70"
+P_R = "44"
+P_BB = "17"
+P_SO = "11"
+P_HP = "4"
+P_WP = "4"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Melvin"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "31"
+P_H = "43"
+P_R = "26"
+P_BB = "19"
+P_SO = "15"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Santomauro"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "35"
+P_H = "43"
+P_R = "36"
+P_BB = "12"
+P_SO = "13"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Holland"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+P_G = "4"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+P_G = "3"
+[person.playing.totals]
+P_G = "7"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "29"
+P_H = "41"
+P_R = "24"
+P_BB = "13"
+P_SO = "24"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Sellers"
+name.given = "Samuel"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "22"
+P_H = "21"
+P_R = "15"
+P_BB = "18"
+P_SO = "15"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Benton"
+name.given = "Clint"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "10"
+P_CG = "5"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "61"
+P_H = "90"
+P_R = "68"
+P_BB = "31"
+P_SO = "13"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Holt"
+name.given = "Buddy"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "12"
+P_CG = "4"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "58"
+P_H = "61"
+P_R = "49"
+P_BB = "38"
+P_SO = "36"
+P_HP = "6"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Cummings"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "9"
+P_CG = "2"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "51"
+P_H = "73"
+P_R = "51"
+P_BB = "10"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Pearce"
+name.given = "Jacob"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "37"
+P_H = "47"
+P_R = "20"
+P_BB = "8"
+P_SO = "17"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Lamb"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "18"
+P_CG = "4"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "89"
+P_H = "103"
+P_R = "92"
+P_BB = "52"
+P_SO = "45"
+P_HP = "8"
+P_WP = "1"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Ingram"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "8"
+P_CG = "4"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "47"
+P_H = "68"
+P_R = "53"
+P_BB = "33"
+P_SO = "19"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "A."
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "11"
+P_CG = "1"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "38"
+P_H = "44"
+P_R = "42"
+P_BB = "15"
+P_SO = "15"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Estes"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "18"
+P_CG = "1"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "53"
+P_H = "94"
+P_R = "71"
+P_BB = "36"
+P_SO = "19"
+P_HP = "6"
+P_WP = "5"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hergent"
+name.given = "Walter"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+P_G = "9"
+[[person.playing.split]]
+team.name = "Smithfield"
+P_G = "1"
+[person.playing.totals]
+P_G = "10"
+P_CG = "1"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "43"
+P_H = "46"
+P_R = "36"
+P_BB = "30"
+P_SO = "18"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Costler"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+P_G = "7"
+[[person.playing.split]]
+team.name = "Smithfield"
+P_G = "1"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "22"
+P_H = "36"
+P_R = "28"
+P_BB = "15"
+P_SO = "11"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Vinajeras"
+name.given = "Efrain"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "6"
+P_CG = "2"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "33"
+P_H = "41"
+P_R = "27"
+P_BB = "14"
+P_SO = "16"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Fortune"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "29"
+P_H = "31"
+P_R = "32"
+P_BB = "30"
+P_SO = "30"
+P_HP = "1"
+P_WP = "0"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Reardon"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "21"
+P_H = "25"
+P_R = "18"
+P_BB = "22"
+P_SO = "11"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Haidet"
+name.given = "Wilford"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+P_G = "3"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+P_G = "2"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "15"
+P_H = "16"
+P_R = "23"
+P_BB = "20"
+P_SO = "11"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Simmons"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "22"
+P_R = "16"
+P_BB = "6"
+P_SO = "4"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "E. F."
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "22"
+P_H = "23"
+P_R = "22"
+P_BB = "23"
+P_SO = "21"
+P_HP = "7"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Gay"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "26"
+P_R = "13"
+P_BB = "19"
+P_SO = "11"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Everette"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "14"
+P_R = "14"
+P_BB = "10"
+P_SO = "4"
+P_HP = "0"
+P_WP = "0"
+P_BK = "2"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Jacoby"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "20"
+P_R = "13"
+P_BB = "5"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Belcher"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "19"
+P_R = "15"
+P_BB = "4"
+P_SO = "5"
+P_HP = "0"
+P_WP = "1"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Holland"
+name.given = "Rufus"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "9"
+P_H = "17"
+P_R = "17"
+P_BB = "7"
+P_SO = "1"
+P_HP = "4"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Mullarky"
+name.given = "Armand"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "7"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "26"
+P_H = "42"
+P_R = "28"
+P_BB = "23"
+P_SO = "9"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hinton"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "23"
+P_R = "16"
+P_BB = "3"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Russell"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "13"
+P_H = "6"
+P_R = "7"
+P_BB = "12"
+P_SO = "8"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Pritchard"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "13"
+P_H = "25"
+P_R = "16"
+P_BB = "11"
+P_SO = "8"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Goodwin"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "21"
+P_R = "14"
+P_BB = "5"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Colclough"
+name.given = "J. C."
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "12"
+P_R = "12"
+P_BB = "14"
+P_SO = "5"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Lynch"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "14"
+P_R = "15"
+P_BB = "1"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Perry"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "7"
+P_H = "7"
+P_R = "12"
+P_BB = "16"
+P_SO = "5"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "6"
+P_H = "13"
+P_R = "9"
+P_BB = "5"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Burrows"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "5"
+P_H = "6"
+P_R = "5"
+P_BB = "7"
+P_SO = "0"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Barbee"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "5"
+P_H = "5"
+P_R = "6"
+P_BB = "4"
+P_SO = "3"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Dellinger"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "4"
+P_H = "7"
+P_R = "6"
+P_BB = "4"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Allen"
+name.given = "Oliver"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "4"
+P_H = "9"
+P_R = "13"
+P_BB = "8"
+P_SO = "4"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kavek"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "2"
+P_H = "1"
+P_R = "3"
+P_BB = "5"
+P_SO = "3"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Vorell"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "1"
+P_H = "1"
+P_R = "3"
+P_BB = "3"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "John"
+name.given = "Angelo"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "1"
+P_H = "7"
+P_R = "8"
+P_BB = "1"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Butler"
+name.given = "Lester"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "0"
+P_H = "0"
+P_R = "2"
+P_BB = "3"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Toenes"
+name.given = "James"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "13"
+
+
+[[person]]
+name.last = "Heath"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "10"
+
+
+[[person]]
+name.last = "Roebuck"
+name.given = "Garland"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "10"
+
+
+[[person]]
+name.last = "Lefler"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "9"
+
+
+[[person]]
+name.last = "Weeks"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "9"
+
+
+[[person]]
+name.last = "Aiken"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Brittain"
+name.given = "Augusta"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Steele"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Cropcho"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+P_G = "2"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "5"
+
+
+[[person]]
+name.last = "Grubbs"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "5"
+
+
+[[person]]
+name.last = "Chinnis"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Harrington"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Roberson"
+name.given = "Aaron"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Meador"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Benson"
+name.given = "Archie"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Northrop"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Stephens"
+name.given = "Otis"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "3"
+
+
+[[person]]
+name.last = "Lorenz"
+name.given = "Marvin"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "3"
+
+
+[[person]]
+name.last = "Pellegrino"
+name.given = "M."
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "3"
+
+
+[[person]]
+name.last = "Castleberry"
+name.given = "Hoyt"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "3"
+
+
+[[person]]
+name.last = "Gardner"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Hargrove"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilmington"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Varlotta"
+name.given = "Tony"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sanford"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Burgess"
+name.given = "Lewis"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Curry"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Hughes"
+name.given = "Edward"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Campau"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Daniels"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Angier-Fuquay"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Dykema"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dunn-Erwin"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Olsen"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Woodard"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Balla"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "0.2"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "0.1"
+
+
+[[person]]
+name.last = "Holster"
+[[person.playing]]
+season = "1946"
+league.name = "Tobacco State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Smithfield"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "0.1"

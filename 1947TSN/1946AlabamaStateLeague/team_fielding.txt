@@ -1,0 +1,100 @@
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1946"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "69"
+F_PB = "34"
+F_PO = "3239"
+F_A = "1357"
+F_E = "261"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Brewton"
+[[team.playing]]
+season = "1946"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "93"
+F_PB = "27"
+F_PO = "3175"
+F_A = "1405"
+F_E = "275"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Troy"
+[[team.playing]]
+season = "1946"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "87"
+F_PB = "15"
+F_PO = "3129"
+F_A = "1371"
+F_E = "272"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Ozark"
+[[team.playing]]
+season = "1946"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "89"
+F_PB = "14"
+F_PO = "3273"
+F_A = "1274"
+F_E = "279"
+F_PCT = ".942"
+F_TP = "1"
+
+
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1946"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "83"
+F_PB = "25"
+F_PO = "3226"
+F_A = "1207"
+F_E = "293"
+F_PCT = ".938"
+F_TP = "0"
+
+
+[[team]]
+name = "Dothan"
+[[team.playing]]
+season = "1946"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "72"
+F_PB = "27"
+F_PO = "3273"
+F_A = "1282"
+F_E = "318"
+F_PCT = ".935"
+F_TP = "0"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "127"
+F_TP = "0"
+F_PB = "20"
+F_PO = "3644"
+F_A = "1605"
+F_E = "252"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "89"
+F_TP = "1"
+F_PB = "55"
+F_PO = "3646"
+F_A = "1520"
+F_E = "276"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "126"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3615"
+F_A = "1698"
+F_E = "301"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "95"
+F_TP = "0"
+F_PB = "25"
+F_PO = "3617"
+F_A = "1616"
+F_E = "302"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "105"
+F_TP = "0"
+F_PB = "47"
+F_PO = "3688"
+F_A = "1581"
+F_E = "319"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "82"
+F_TP = "0"
+F_PB = "46"
+F_PO = "3593"
+F_A = "1477"
+F_E = "376"
+F_PCT = ".931"

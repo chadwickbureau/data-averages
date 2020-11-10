@@ -1,0 +1,158 @@
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4799"
+B_R = "625"
+B_H = "1216"
+B_2B = "192"
+B_3B = "40"
+B_HR = "27"
+B_EB = "353"
+B_SB = "215"
+B_SH = "210"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "4582"
+B_R = "519"
+B_H = "1098"
+B_2B = "147"
+B_3B = "27"
+B_HR = "10"
+B_EB = "231"
+B_SB = "356"
+B_SH = "241"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4669"
+B_R = "553"
+B_H = "1112"
+B_2B = "178"
+B_3B = "44"
+B_HR = "27"
+B_EB = "347"
+B_SB = "191"
+B_SH = "205"
+B_AVG = ".238"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4624"
+B_R = "551"
+B_H = "1082"
+B_2B = "156"
+B_3B = "37"
+B_HR = "46"
+B_EB = "368"
+B_SB = "257"
+B_SH = "188"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4519"
+B_R = "479"
+B_H = "1050"
+B_2B = "165"
+B_3B = "30"
+B_HR = "18"
+B_EB = "279"
+B_SB = "295"
+B_SH = "144"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4521"
+B_R = "579"
+B_H = "1049"
+B_2B = "188"
+B_3B = "27"
+B_HR = "19"
+B_EB = "299"
+B_SB = "303"
+B_SH = "183"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4608"
+B_R = "479"
+B_H = "1044"
+B_2B = "148"
+B_3B = "28"
+B_HR = "65"
+B_EB = "400"
+B_SB = "208"
+B_SH = "181"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4565"
+B_R = "500"
+B_H = "978"
+B_2B = "159"
+B_3B = "42"
+B_HR = "35"
+B_EB = "348"
+B_SB = "229"
+B_SH = "160"
+B_AVG = ".214"

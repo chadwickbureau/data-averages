@@ -1,0 +1,82 @@
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2782"
+F_A = "1264"
+F_E = "151"
+F_TC = "4197"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2879"
+F_A = "1288"
+F_E = "159"
+F_TC = "4326"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Morristown"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2632"
+F_A = "1221"
+F_E = "160"
+F_TC = "4013"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2694"
+F_A = "1237"
+F_E = "199"
+F_TC = "4130"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Middlesboro"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2535"
+F_A = "1214"
+F_E = "195"
+F_TC = "3944"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Rome"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2663"
+F_A = "1261"
+F_E = "255"
+F_TC = "4179"
+F_PCT = ".939"

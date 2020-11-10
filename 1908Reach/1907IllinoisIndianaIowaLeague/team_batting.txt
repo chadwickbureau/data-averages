@@ -1,0 +1,126 @@
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4305"
+B_R = "511"
+B_H = "1009"
+B_TB = "1267"
+B_SH = "142"
+B_SB = "229"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4283"
+B_R = "504"
+B_H = "986"
+B_TB = "1250"
+B_SH = "195"
+B_SB = "150"
+B_AVG = ".230"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4182"
+B_R = "480"
+B_H = "962"
+B_TB = "1212"
+B_SH = "196"
+B_SB = "239"
+B_AVG = ".230"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4240"
+B_R = "451"
+B_H = "958"
+B_TB = "1177"
+B_SH = "151"
+B_SB = "146"
+B_AVG = ".226"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4381"
+B_R = "479"
+B_H = "985"
+B_TB = "1259"
+B_SH = "154"
+B_SB = "164"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4283"
+B_R = "354"
+B_H = "925"
+B_TB = "1114"
+B_SH = "164"
+B_SB = "180"
+B_AVG = ".210"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4102"
+B_R = "344"
+B_H = "842"
+B_TB = "1018"
+B_SH = "131"
+B_SB = "145"
+B_AVG = ".205"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4067"
+B_R = "252"
+B_H = "764"
+B_TB = "868"
+B_SH = "117"
+B_SB = "110"
+B_AVG = ".188"

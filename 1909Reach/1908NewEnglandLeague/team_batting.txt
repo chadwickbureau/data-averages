@@ -1,0 +1,158 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4214"
+B_R = "527"
+B_H = "1042"
+B_TB = "291"
+B_AVG = ".243"
+B_2B = "157"
+B_3B = "43"
+B_HR = "8"
+B_SH = "205"
+B_SB = "178"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4042"
+B_R = "490"
+B_H = "974"
+B_TB = "245"
+B_AVG = ".241"
+B_2B = "164"
+B_3B = "37"
+B_HR = "11"
+B_SH = "209"
+B_SB = "212"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4181"
+B_R = "402"
+B_H = "964"
+B_TB = "1201"
+B_AVG = ".231"
+B_2B = "136"
+B_3B = "40"
+B_HR = "7"
+B_SH = "216"
+B_SB = "190"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3943"
+B_R = "411"
+B_H = "903"
+B_TB = "1158"
+B_AVG = ".229"
+B_2B = "109"
+B_3B = "47"
+B_HR = "17"
+B_SH = "208"
+B_SB = "191"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "3989"
+B_R = "420"
+B_H = "912"
+B_TB = "1161"
+B_AVG = ".229"
+B_2B = "143"
+B_3B = "38"
+B_HR = "10"
+B_SH = "165"
+B_SB = "181"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "3946"
+B_R = "425"
+B_H = "894"
+B_TB = "1128"
+B_AVG = ".227"
+B_2B = "139"
+B_3B = "37"
+B_HR = "7"
+B_SH = "205"
+B_SB = "277"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "3994"
+B_R = "475"
+B_H = "883"
+B_TB = "1175"
+B_AVG = ".221"
+B_2B = "141"
+B_3B = "44"
+B_HR = "21"
+B_SH = "186"
+B_SB = "254"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4118"
+B_R = "415"
+B_H = "907"
+B_TB = "1108"
+B_AVG = ".220"
+B_2B = "119"
+B_3B = "26"
+B_HR = "10"
+B_SH = "172"
+B_SB = "178"

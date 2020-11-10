@@ -1,0 +1,50 @@
+[[team]]
+name = "Newton"
+[[team.playing]]
+season = "1907"
+league.name = "Southern New Hampshire League"
+phase = "regular"
+[team.playing.totals]
+R_W = "9"
+R_L = "3"
+R_PCT = ".750"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fremont"
+[[team.playing]]
+season = "1907"
+league.name = "Southern New Hampshire League"
+phase = "regular"
+[team.playing.totals]
+R_W = "5"
+R_L = "6"
+R_PCT = ".455"
+R_RANK = "2"
+
+
+[[team]]
+name = "Epping"
+[[team.playing]]
+season = "1907"
+league.name = "Southern New Hampshire League"
+phase = "regular"
+[team.playing.totals]
+R_W = "5"
+R_L = "7"
+R_PCT = ".417"
+R_RANK = "3"
+
+
+[[team]]
+name = "Kingston"
+[[team.playing]]
+season = "1907"
+league.name = "Southern New Hampshire League"
+phase = "regular"
+[team.playing.totals]
+R_W = "4"
+R_L = "7"
+R_PCT = ".364"
+R_RANK = "4"

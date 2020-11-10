@@ -1,0 +1,102 @@
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "111"
+R_L = "54"
+R_PCT = ".673"
+R_RANK = "1"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "93"
+R_L = "72"
+R_PCT = ".564"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "75"
+R_PCT = ".551"
+R_RANK = "3"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "80"
+R_PCT = ".515"
+R_RANK = "4"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "80"
+R_PCT = ".515"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "81"
+R_PCT = ".509"
+R_RANK = "6"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "104"
+R_PCT = ".365"
+R_RANK = "7"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+R_W = "49"
+R_L = "113"
+R_PCT = ".302"
+R_RANK = "8"

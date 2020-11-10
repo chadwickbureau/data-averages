@@ -1,0 +1,228 @@
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4914"
+B_R = "842"
+B_H = "1401"
+B_2B = "257"
+B_3B = "87"
+B_HR = "26"
+B_SH = "213"
+B_ROE = "208"
+B_SB = "257"
+B_LOB = "955"
+B_BB = "434"
+B_SO = "623"
+B_AVG = ".285"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4817"
+B_R = "596"
+B_H = "1283"
+B_2B = "218"
+B_3B = "40"
+B_HR = "15"
+B_SH = "184"
+B_ROE = "158"
+B_SB = "296"
+B_LOB = "886"
+B_BB = "306"
+B_SO = "557"
+B_AVG = ".266"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "148"
+B_AB = "4664"
+B_R = "566"
+B_H = "1226"
+B_2B = "166"
+B_3B = "69"
+B_HR = "16"
+B_SH = "160"
+B_ROE = "168"
+B_SB = "269"
+B_LOB = "767"
+B_BB = "406"
+B_SO = "615"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Mount Clemens"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4726"
+B_R = "529"
+B_H = "1235"
+B_2B = "221"
+B_3B = "50"
+B_HR = "16"
+B_SH = "154"
+B_ROE = "163"
+B_SB = "157"
+B_LOB = "908"
+B_BB = "300"
+B_SO = "669"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "145"
+B_AB = "4623"
+B_R = "571"
+B_H = "1181"
+B_2B = "167"
+B_3B = "66"
+B_HR = "15"
+B_SH = "183"
+B_ROE = "146"
+B_SB = "212"
+B_LOB = "859"
+B_BB = "378"
+B_SO = "606"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4746"
+B_R = "558"
+B_H = "1176"
+B_2B = "181"
+B_3B = "60"
+B_HR = "37"
+B_SH = "178"
+B_ROE = "174"
+B_SB = "149"
+B_LOB = "928"
+B_BB = "444"
+B_SO = "792"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "148"
+B_AB = "4652"
+B_R = "522"
+B_H = "1142"
+B_2B = "183"
+B_3B = "70"
+B_HR = "22"
+B_SH = "168"
+B_ROE = "154"
+B_SB = "229"
+B_LOB = "805"
+B_BB = "346"
+B_SO = "615"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4708"
+B_R = "498"
+B_H = "1111"
+B_2B = "161"
+B_3B = "45"
+B_HR = "10"
+B_SH = "181"
+B_ROE = "90"
+B_SB = "202"
+B_LOB = "842"
+B_BB = "382"
+B_SO = "721"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Adrian"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "146"
+B_AB = "4681"
+B_R = "534"
+B_H = "1107"
+B_2B = "181"
+B_3B = "65"
+B_HR = "20"
+B_SH = "158"
+B_ROE = "146"
+B_SB = "170"
+B_LOB = "884"
+B_BB = "387"
+B_SO = "759"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1914"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4767"
+B_R = "551"
+B_H = "1171"
+B_2B = "178"
+B_3B = "52"
+B_HR = "10"
+B_SH = "151"
+B_ROE = "188"
+B_SB = "182"
+B_LOB = "894"
+B_BB = "457"
+B_SO = "738"
+B_AVG = ".225"

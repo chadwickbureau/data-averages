@@ -1,0 +1,152 @@
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "29"
+R_L = "10"
+R_PCT = ".741"
+R_RANK = "1"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "23"
+R_L = "17"
+R_PCT = ".575"
+R_RANK = "2"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "22"
+R_L = "18"
+R_PCT = ".550"
+R_RANK = "3"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "17"
+R_L = "23"
+R_PCT = ".425"
+R_RANK = "4"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "8"
+R_L = "19"
+R_PCT = ".296"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "7"
+R_L = "19"
+R_PCT = ".269"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "21"
+R_L = "10"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "18"
+R_L = "13"
+R_PCT = ".581"
+R_RANK = "2"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "10"
+R_L = "18"
+R_PCT = ".357"
+R_RANK = "3"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "10"
+R_L = "18"
+R_PCT = ".357"
+R_RANK = "4"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

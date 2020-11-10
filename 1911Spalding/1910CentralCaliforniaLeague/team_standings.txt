@@ -1,0 +1,180 @@
+[[team]]
+name = "Alameda"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "12"
+R_L = "6"
+R_PCT = ".666"
+R_RANK = "1"
+
+
+[[team]]
+name = "San Leandro"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "12"
+R_L = "7"
+R_PCT = ".632"
+R_RANK = "2"
+
+
+[[team]]
+name = "Berkeley"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "10"
+R_L = "7"
+R_PCT = ".588"
+R_RANK = "3"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "10"
+R_L = "7"
+R_PCT = ".588"
+R_RANK = "4"
+
+
+[[team]]
+name = "Elmhurst"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "6"
+R_L = "9"
+R_PCT = ".400"
+R_RANK = "5"
+
+
+[[team]]
+name = "Fruitvale"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "3"
+R_L = "9"
+R_PCT = ".250"
+R_RANK = "6"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "10"
+R_L = "3"
+R_PCT = ".728"
+R_RANK = "1"
+
+
+[[team]]
+name = "San Leandro"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "6"
+R_L = "3"
+R_PCT = ".666"
+R_RANK = "2"
+
+
+[[team]]
+name = "Berkeley"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "7"
+R_L = "4"
+R_PCT = ".636"
+R_RANK = "3"
+
+
+[[team]]
+name = "Alameda"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "6"
+R_L = "7"
+R_PCT = ".462"
+R_RANK = "4"
+
+
+[[team]]
+name = "Elmhurst"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "6"
+R_L = "7"
+R_PCT = ".462"
+R_RANK = "5"
+
+
+[[team]]
+name = "Fruitvale"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "4"
+R_L = "9"
+R_PCT = ".308"
+R_RANK = "6"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "2"
+R_PCT = ".000"
+R_RANK = "2"
+
+
+[[team]]
+name = "Alameda"
+[[team.playing]]
+season = "1910"
+league.name = "Central California League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"

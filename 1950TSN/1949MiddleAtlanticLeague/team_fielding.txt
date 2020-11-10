@@ -1,0 +1,126 @@
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "145"
+F_PO = "3575"
+F_A = "1571"
+F_E = "197"
+F_TP = "0"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "128"
+F_PO = "3595"
+F_A = "1546"
+F_E = "214"
+F_TP = "0"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Oil City"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "145"
+F_PO = "3395"
+F_A = "1328"
+F_E = "227"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Butler"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "136"
+F_PO = "3477"
+F_A = "1520"
+F_E = "248"
+F_TP = "1"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Uniontown"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "127"
+F_PO = "3495"
+F_A = "1516"
+F_E = "251"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Johnstown"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "164"
+F_PO = "3439"
+F_A = "1481"
+F_E = "249"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "92"
+F_PO = "3425"
+F_A = "1414"
+F_E = "250"
+F_TP = "0"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Vandergrift"
+[[team.playing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "127"
+F_PO = "3486"
+F_A = "1389"
+F_E = "294"
+F_TP = "1"
+F_PCT = ".943"

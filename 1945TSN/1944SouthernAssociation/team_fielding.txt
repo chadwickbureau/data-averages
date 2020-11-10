@@ -1,0 +1,134 @@
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "120"
+F_PB = "7"
+F_PO = "3486"
+F_A = "1569"
+F_E = "191"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "128"
+F_PB = "9"
+F_PO = "3592"
+F_A = "1436"
+F_E = "207"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "134"
+F_PB = "17"
+F_PO = "3548"
+F_A = "1547"
+F_E = "217"
+F_PCT = ".959"
+F_TP = "1"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "130"
+F_PB = "15"
+F_PO = "3710"
+F_A = "1634"
+F_E = "232"
+F_PCT = ".958"
+F_TP = "2"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "121"
+F_PB = "14"
+F_PO = "3486"
+F_A = "1502"
+F_E = "240"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "107"
+F_PB = "2"
+F_PO = "3371"
+F_A = "1560"
+F_E = "244"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "122"
+F_PB = "17"
+F_PO = "3517"
+F_A = "1615"
+F_E = "263"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1944"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "154"
+F_PB = "13"
+F_PO = "3469"
+F_A = "1576"
+F_E = "295"
+F_PCT = ".945"
+F_TP = "0"

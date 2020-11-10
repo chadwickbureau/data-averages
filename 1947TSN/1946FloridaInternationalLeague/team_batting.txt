@@ -1,0 +1,142 @@
+[[team]]
+name = "Tampa"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4463"
+B_R = "737"
+B_H = "1220"
+B_TB = "1561"
+B_2B = "167"
+B_3B = "60"
+B_HR = "18"
+B_SH = "88"
+B_SB = "144"
+B_BB = "561"
+B_HP = "26"
+B_RBI = "598"
+B_SO = "476"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Havana"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4435"
+B_R = "680"
+B_H = "1185"
+B_TB = "1541"
+B_2B = "144"
+B_3B = "82"
+B_HR = "16"
+B_SH = "108"
+B_SB = "132"
+B_BB = "454"
+B_HP = "32"
+B_RBI = "550"
+B_SO = "580"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Lakeland"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4375"
+B_R = "617"
+B_H = "1157"
+B_TB = "1487"
+B_2B = "164"
+B_3B = "65"
+B_HR = "12"
+B_SH = "64"
+B_SB = "108"
+B_BB = "459"
+B_HP = "30"
+B_RBI = "506"
+B_SO = "673"
+B_AVG = ".264"
+
+
+[[team]]
+name = "West Palm Beach"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4394"
+B_R = "539"
+B_H = "1137"
+B_TB = "1424"
+B_2B = "121"
+B_3B = "62"
+B_HR = "14"
+B_SH = "104"
+B_SB = "197"
+B_BB = "422"
+B_HP = "36"
+B_RBI = "457"
+B_SO = "523"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4498"
+B_R = "493"
+B_H = "1100"
+B_TB = "1338"
+B_2B = "152"
+B_3B = "25"
+B_HR = "12"
+B_SH = "80"
+B_SB = "119"
+B_BB = "476"
+B_HP = "32"
+B_RBI = "412"
+B_SO = "591"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Miami Beach"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4355"
+B_R = "566"
+B_H = "1061"
+B_TB = "1336"
+B_2B = "139"
+B_3B = "50"
+B_HR = "12"
+B_SH = "110"
+B_SB = "108"
+B_BB = "498"
+B_HP = "32"
+B_RBI = "441"
+B_SO = "588"
+B_AVG = ".244"

@@ -1,0 +1,319 @@
+[[person]]
+name.last = "Frink"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chehalis"
+[person.playing.totals]
+P_G = "15"
+P_W = "10"
+P_L = "1"
+P_PCT = ".909"
+P_AB = "446"
+P_R = "42"
+P_H = "71"
+P_2B = "8"
+P_3B = "6"
+P_HR = "1"
+P_AVG = ".159"
+P_HP = "5"
+P_BB = "23"
+P_SO = "105"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Berger"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+P_G = "12"
+P_W = "7"
+P_L = "2"
+P_PCT = ".777"
+P_AB = "292"
+P_R = "21"
+P_H = "39"
+P_2B = "10"
+P_3B = "2"
+P_HR = "2"
+P_AVG = ".134"
+P_HP = "9"
+P_BB = "24"
+P_SO = "83"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Callahan"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chehalis"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+P_G = "19"
+P_W = "13"
+P_L = "4"
+P_PCT = ".765"
+P_AB = "569"
+P_R = "62"
+P_H = "103"
+P_2B = "17"
+P_3B = "3"
+P_HR = "3"
+P_AVG = ".181"
+P_HP = "6"
+P_BB = "44"
+P_SO = "131"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Guynn"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+P_G = "13"
+P_W = "6"
+P_L = "3"
+P_PCT = ".666"
+P_AB = "380"
+P_R = "49"
+P_H = "72"
+P_2B = "12"
+P_3B = "2"
+P_HR = "8"
+P_AVG = ".189"
+P_HP = "2"
+P_BB = "20"
+P_SO = "52"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Coleman"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chehalis"
+[[person.playing.split]]
+team.name = "Raymond"
+[person.playing.totals]
+P_G = "19"
+P_W = "9"
+P_L = "6"
+P_PCT = ".600"
+P_AB = "575"
+P_R = "77"
+P_H = "97"
+P_2B = "17"
+P_3B = "10"
+P_HR = "4"
+P_AVG = ".169"
+P_HP = "5"
+P_BB = "37"
+P_SO = "92"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Archer"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chehalis"
+[person.playing.totals]
+P_G = "10"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_AB = "298"
+P_R = "37"
+P_H = "58"
+P_2B = "9"
+P_3B = "6"
+P_HR = "1"
+P_AVG = ".195"
+P_HP = "2"
+P_BB = "15"
+P_SO = "51"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Baker"
+name.given = "R."
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raymond"
+[person.playing.totals]
+P_G = "25"
+P_W = "13"
+P_L = "9"
+P_PCT = ".590"
+P_AB = "924"
+P_R = "121"
+P_H = "164"
+P_2B = "25"
+P_3B = "10"
+P_HR = "5"
+P_AVG = ".177"
+P_HP = "13"
+P_BB = "55"
+P_SO = "99"
+P_WP = "11"
+
+
+[[person]]
+name.last = "Krause"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+P_G = "18"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_AB = "591"
+P_R = "93"
+P_H = "123"
+P_2B = "29"
+P_3B = "7"
+P_HR = "2"
+P_AVG = ".208"
+P_HP = "15"
+P_BB = "42"
+P_SO = "103"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Fitchner"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chehalis"
+[person.playing.totals]
+P_G = "16"
+P_W = "8"
+P_L = "5"
+P_PCT = ".583"
+P_AB = "451"
+P_R = "65"
+P_H = "71"
+P_2B = "15"
+P_3B = "2"
+P_HR = "1"
+P_AVG = ".157"
+P_HP = "23"
+P_BB = "72"
+P_SO = "86"
+P_WP = "9"
+
+
+[[person]]
+name.last = "McGraw"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raymond"
+[[person.playing.split]]
+team.name = "Chehalis"
+[person.playing.totals]
+P_G = "10"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_AB = "324"
+P_R = "38"
+P_H = "59"
+P_2B = "8"
+P_3B = "3"
+P_HR = "1"
+P_AVG = ".182"
+P_HP = "4"
+P_BB = "20"
+P_SO = "50"
+P_WP = "0"
+
+
+[[person]]
+name.last = "Kane"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "South Bend"
+[[person.playing.split]]
+team.name = "Chehalis"
+[person.playing.totals]
+P_G = "17"
+P_W = "7"
+P_L = "8"
+P_PCT = ".466"
+P_AB = "551"
+P_R = "69"
+P_H = "125"
+P_2B = "20"
+P_3B = "5"
+P_HR = "4"
+P_AVG = ".226"
+P_HP = "6"
+P_BB = "22"
+P_SO = "63"
+P_WP = "9"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1911"
+league.name = "Washington State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "South Bend"
+[person.playing.totals]
+P_G = "15"
+P_W = "5"
+P_L = "8"
+P_PCT = ".384"
+P_AB = "456"
+P_R = "57"
+P_H = "87"
+P_2B = "18"
+P_3B = "2"
+P_HR = "2"
+P_AVG = ".191"
+P_HP = "7"
+P_BB = "37"
+P_SO = "100"
+P_WP = "2"

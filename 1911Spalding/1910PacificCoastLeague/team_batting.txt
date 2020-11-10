@@ -1,0 +1,82 @@
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "227"
+B_AB = "7370"
+B_R = "699"
+B_H = "1669"
+B_AVG = ".226"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "226"
+B_AB = "7207"
+B_R = "633"
+B_H = "1616"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "210"
+B_AB = "6648"
+B_R = "622"
+B_H = "1450"
+B_AVG = ".218"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "224"
+B_AB = "7116"
+B_R = "675"
+B_H = "1546"
+B_AVG = ".217"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "223"
+B_AB = "7124"
+B_R = "674"
+B_H = "1541"
+B_AVG = ".216"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1910"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "216"
+B_AB = "6799"
+B_R = "544"
+B_H = "1380"
+B_AVG = ".203"

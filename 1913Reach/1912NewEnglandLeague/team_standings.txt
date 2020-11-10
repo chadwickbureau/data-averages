@@ -1,0 +1,102 @@
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "47"
+R_PCT = ".618"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "50"
+R_PCT = ".600"
+R_RANK = "2"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "56"
+R_PCT = ".545"
+R_RANK = "3"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "62"
+R_PCT = ".504"
+R_RANK = "4"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "62"
+R_PCT = ".500"
+R_RANK = "5"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "67"
+R_PCT = ".460"
+R_RANK = "6"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "76"
+R_PCT = ".387"
+R_RANK = "7"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1912"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "74"
+R_PCT = ".383"
+R_RANK = "8"

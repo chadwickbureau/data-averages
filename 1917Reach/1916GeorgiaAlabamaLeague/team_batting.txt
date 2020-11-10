@@ -1,0 +1,100 @@
+[[team]]
+name = "Newnan"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2208"
+B_R = "338"
+B_H = "583"
+B_TB = "823"
+B_SH = "114"
+B_SB = "146"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Rome"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+B_G = "67"
+B_AB = "2211"
+B_R = "318"
+B_H = "584"
+B_TB = "775"
+B_SH = "85"
+B_SB = "139"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Griffin"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2210"
+B_R = "231"
+B_H = "527"
+B_TB = "682"
+B_SH = "88"
+B_SB = "73"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Talladega"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2218"
+B_R = "226"
+B_H = "509"
+B_TB = "668"
+B_SH = "84"
+B_SB = "83"
+B_AVG = ".229"
+
+
+[[team]]
+name = "Anniston"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+B_G = "66"
+B_AB = "2082"
+B_R = "209"
+B_H = "473"
+B_TB = "640"
+B_SH = "84"
+B_SB = "43"
+B_AVG = ".227"
+
+
+[[team]]
+name = "La Grange"
+[[team.playing]]
+season = "1916"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2271"
+B_R = "283"
+B_H = "512"
+B_TB = "684"
+B_SH = "86"
+B_SB = "120"
+B_AVG = ".225"

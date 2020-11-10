@@ -1,0 +1,134 @@
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "93"
+B_AB = "3067"
+B_R = "383"
+B_H = "785"
+B_TB = "1022"
+B_SH = "131"
+B_SB = "149"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Marshalltown"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "98"
+B_AB = "3183"
+B_R = "441"
+B_H = "808"
+B_TB = "1100"
+B_SH = "122"
+B_SB = "210"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Charles City"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "95"
+B_AB = "2896"
+B_R = "361"
+B_H = "718"
+B_TB = "906"
+B_SH = "140"
+B_SB = "117"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "73"
+B_AB = "2373"
+B_R = "308"
+B_H = "565"
+B_TB = "741"
+B_SH = "93"
+B_SB = "127"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Fort Dodge"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "94"
+B_AB = "3057"
+B_R = "333"
+B_H = "719"
+B_TB = "955"
+B_SH = "97"
+B_SB = "112"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "91"
+B_AB = "2965"
+B_R = "304"
+B_H = "647"
+B_TB = "831"
+B_SH = "122"
+B_SB = "135"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Mason City"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "93"
+B_AB = "2956"
+B_R = "292"
+B_H = "678"
+B_TB = "879"
+B_SH = "148"
+B_SB = "130"
+B_AVG = ".229"
+
+
+[[team]]
+name = "La Crosse"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "73"
+B_AB = "2270"
+B_R = "208"
+B_H = "495"
+B_TB = "645"
+B_SH = "76"
+B_SB = "68"
+B_AVG = ".218"

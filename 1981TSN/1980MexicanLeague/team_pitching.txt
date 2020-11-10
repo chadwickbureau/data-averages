@@ -1,0 +1,498 @@
+[[team]]
+name = "Puebla"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "90"
+P_CG = "47"
+P_SHO = "16"
+P_SV = "10"
+P_IP = "785"
+P_H = "732"
+P_R = "229"
+P_ER = "197"
+P_HR = "22"
+P_BB = "204"
+P_IBB = "10"
+P_HP = "19"
+P_SO = "328"
+P_WP = "16"
+P_BK = "0"
+P_ERA = "2.26"
+
+
+[[team]]
+name = "Yucatan"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "97"
+P_CG = "42"
+P_SHO = "19"
+P_SV = "8"
+P_IP = "853"
+P_H = "739"
+P_R = "297"
+P_ER = "232"
+P_HR = "28"
+P_BB = "212"
+P_IBB = "17"
+P_HP = "34"
+P_SO = "430"
+P_WP = "24"
+P_BK = "4"
+P_ERA = "2.45"
+
+
+[[team]]
+name = "Coatzacoalcos"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "94"
+P_CG = "43"
+P_SHO = "15"
+P_SV = "14"
+P_IP = "811"
+P_H = "763"
+P_R = "337"
+P_ER = "244"
+P_HR = "28"
+P_BB = "246"
+P_IBB = "18"
+P_HP = "35"
+P_SO = "491"
+P_WP = "25"
+P_BK = "1"
+P_ERA = "2.71"
+
+
+[[team]]
+name = "Aguila"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "95"
+P_CG = "44"
+P_SHO = "23"
+P_SV = "8"
+P_IP = "823"
+P_H = "788"
+P_R = "318"
+P_ER = "269"
+P_HR = "39"
+P_BB = "220"
+P_IBB = "30"
+P_HP = "28"
+P_SO = "440"
+P_WP = "27"
+P_BK = "3"
+P_ERA = "2.94"
+
+
+[[team]]
+name = "Campeche"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "89"
+P_CG = "27"
+P_SHO = "8"
+P_SV = "16"
+P_IP = "781"
+P_H = "762"
+P_R = "318"
+P_ER = "260"
+P_HR = "29"
+P_BB = "256"
+P_IBB = "29"
+P_HP = "17"
+P_SO = "343"
+P_WP = "31"
+P_BK = "3"
+P_ERA = "3.00"
+
+
+[[team]]
+name = "Tabasco"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "96"
+P_CG = "34"
+P_SHO = "10"
+P_SV = "12"
+P_IP = "842"
+P_H = "858"
+P_R = "368"
+P_ER = "298"
+P_HR = "32"
+P_BB = "244"
+P_IBB = "23"
+P_HP = "26"
+P_SO = "353"
+P_WP = "21"
+P_BK = "0"
+P_ERA = "3.19"
+
+
+[[team]]
+name = "Ciudad Juarez"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "94"
+P_CG = "36"
+P_SHO = "11"
+P_SV = "8"
+P_IP = "829"
+P_H = "818"
+P_R = "339"
+P_ER = "296"
+P_HR = "38"
+P_BB = "318"
+P_IBB = "20"
+P_HP = "35"
+P_SO = "515"
+P_WP = "32"
+P_BK = "3"
+P_ERA = "3.21"
+
+
+[[team]]
+name = "Reynosa"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "98"
+P_CG = "52"
+P_SHO = "11"
+P_SV = "7"
+P_IP = "860"
+P_H = "877"
+P_R = "362"
+P_ER = "311"
+P_HR = "33"
+P_BB = "294"
+P_IBB = "20"
+P_HP = "13"
+P_SO = "529"
+P_WP = "35"
+P_BK = "4"
+P_ERA = "3.25"
+
+
+[[team]]
+name = "Aguascalientes"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "94"
+P_CG = "44"
+P_SHO = "6"
+P_SV = "14"
+P_IP = "815"
+P_H = "835"
+P_R = "350"
+P_ER = "297"
+P_HR = "30"
+P_BB = "277"
+P_IBB = "21"
+P_HP = "25"
+P_SO = "428"
+P_WP = "46"
+P_BK = "1"
+P_ERA = "3.28"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "94"
+P_CG = "39"
+P_SHO = "9"
+P_SV = "7"
+P_IP = "836"
+P_H = "846"
+P_R = "366"
+P_ER = "314"
+P_HR = "28"
+P_BB = "286"
+P_IBB = "13"
+P_HP = "47"
+P_SO = "444"
+P_WP = "26"
+P_BK = "2"
+P_ERA = "3.38"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "93"
+P_CG = "56"
+P_SHO = "11"
+P_SV = "2"
+P_IP = "804"
+P_H = "878"
+P_R = "371"
+P_ER = "305"
+P_HR = "44"
+P_BB = "236"
+P_IBB = "28"
+P_HP = "17"
+P_SO = "351"
+P_WP = "30"
+P_BK = "3"
+P_ERA = "3.41"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "97"
+P_CG = "33"
+P_SHO = "8"
+P_SV = "19"
+P_IP = "847"
+P_H = "897"
+P_R = "383"
+P_ER = "329"
+P_HR = "44"
+P_BB = "285"
+P_IBB = "19"
+P_HP = "46"
+P_SO = "424"
+P_WP = "23"
+P_BK = "0"
+P_ERA = "3.50"
+
+
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "98"
+P_CG = "39"
+P_SHO = "8"
+P_SV = "11"
+P_IP = "854"
+P_H = "862"
+P_R = "402"
+P_ER = "341"
+P_HR = "46"
+P_BB = "344"
+P_IBB = "29"
+P_HP = "27"
+P_SO = "406"
+P_WP = "27"
+P_BK = "0"
+P_ERA = "3.59"
+
+
+[[team]]
+name = "Union Laguna"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "98"
+P_CG = "35"
+P_SHO = "4"
+P_SV = "9"
+P_IP = "828"
+P_H = "876"
+P_R = "420"
+P_ER = "339"
+P_HR = "49"
+P_BB = "359"
+P_IBB = "31"
+P_HP = "28"
+P_SO = "382"
+P_WP = "26"
+P_BK = "1"
+P_ERA = "3.68"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "93"
+P_CG = "20"
+P_SHO = "1"
+P_SV = "13"
+P_IP = "825"
+P_H = "928"
+P_R = "437"
+P_ER = "351"
+P_HR = "51"
+P_BB = "274"
+P_IBB = "38"
+P_HP = "30"
+P_SO = "376"
+P_WP = "38"
+P_BK = "1"
+P_ERA = "3.83"
+
+
+[[team]]
+name = "Monclova"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "96"
+P_CG = "30"
+P_SHO = "3"
+P_SV = "10"
+P_IP = "833"
+P_H = "969"
+P_R = "477"
+P_ER = "383"
+P_HR = "65"
+P_BB = "356"
+P_IBB = "42"
+P_HP = "45"
+P_SO = "390"
+P_WP = "25"
+P_BK = "2"
+P_ERA = "4.14"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "98"
+P_CG = "38"
+P_SHO = "7"
+P_SV = "3"
+P_IP = "835"
+P_H = "913"
+P_R = "428"
+P_ER = "387"
+P_HR = "38"
+P_BB = "304"
+P_IBB = "73"
+P_HP = "19"
+P_SO = "420"
+P_WP = "23"
+P_BK = "1"
+P_ERA = "4.17"
+
+
+[[team]]
+name = "Chihuahua"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "91"
+P_CG = "32"
+P_SHO = "6"
+P_SV = "8"
+P_IP = "795"
+P_H = "892"
+P_R = "458"
+P_ER = "384"
+P_HR = "46"
+P_BB = "409"
+P_IBB = "68"
+P_HP = "44"
+P_SO = "408"
+P_WP = "32"
+P_BK = "2"
+P_ERA = "4.35"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "96"
+P_CG = "22"
+P_SHO = "7"
+P_SV = "18"
+P_IP = "826"
+P_H = "944"
+P_R = "485"
+P_ER = "402"
+P_HR = "76"
+P_BB = "296"
+P_IBB = "11"
+P_HP = "17"
+P_SO = "361"
+P_WP = "27"
+P_BK = "2"
+P_ERA = "4.38"
+
+
+[[team]]
+name = "Toluca"
+[[team.playing]]
+season = "1980"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_G = "95"
+P_CG = "27"
+P_SHO = "3"
+P_SV = "5"
+P_IP = "811"
+P_H = "1018"
+P_R = "617"
+P_ER = "508"
+P_HR = "86"
+P_BB = "356"
+P_IBB = "17"
+P_HP = "41"
+P_SO = "407"
+P_WP = "37"
+P_BK = "1"
+P_ERA = "5.64"

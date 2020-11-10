@@ -1,0 +1,2630 @@
+[[person]]
+name.last = "Kane"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "194"
+B_R = "24"
+B_H = "66"
+B_TB = "83"
+B_SB = "11"
+B_AVG = ".340"
+
+
+[[person]]
+name.last = "Gooch"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "155"
+B_R = "27"
+B_H = "48"
+B_TB = "79"
+B_SB = "8"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Conway"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "391"
+B_R = "61"
+B_H = "121"
+B_TB = "170"
+B_SB = "12"
+B_AVG = ".309"
+
+
+[[person]]
+name.last = "Durgin"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "386"
+B_R = "52"
+B_H = "119"
+B_TB = "166"
+B_SB = "19"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Schreiber"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "438"
+B_R = "66"
+B_H = "133"
+B_TB = "178"
+B_SB = "20"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Sweatt"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "398"
+B_R = "42"
+B_H = "120"
+B_TB = "151"
+B_SB = "13"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "406"
+B_R = "43"
+B_H = "121"
+B_TB = "153"
+B_SB = "7"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Purcell"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "161"
+B_R = "15"
+B_H = "48"
+B_TB = "61"
+B_SB = "6"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Fewster"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "84"
+B_R = "12"
+B_H = "25"
+B_TB = "28"
+B_SB = "7"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Daley"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "368"
+B_R = "51"
+B_H = "109"
+B_TB = "142"
+B_SB = "15"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Gardella"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "367"
+B_R = "61"
+B_H = "108"
+B_TB = "131"
+B_SB = "25"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Goodridge"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "274"
+B_R = "27"
+B_H = "80"
+B_TB = "99"
+B_SB = "5"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "403"
+B_R = "49"
+B_H = "117"
+B_TB = "155"
+B_SB = "4"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Priest"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "414"
+B_R = "48"
+B_H = "120"
+B_TB = "141"
+B_SB = "30"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Bemis"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "180"
+B_R = "22"
+B_H = "52"
+B_TB = "63"
+B_SB = "8"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Leah"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "330"
+B_R = "52"
+B_H = "95"
+B_TB = "134"
+B_SB = "16"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "De Noville"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "415"
+B_R = "45"
+B_H = "119"
+B_TB = "153"
+B_SB = "8"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Hammond"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "301"
+B_R = "43"
+B_H = "86"
+B_TB = "110"
+B_SB = "25"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Maloney"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "433"
+B_R = "81"
+B_H = "123"
+B_TB = "152"
+B_SB = "16"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Grimes"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "222"
+B_R = "25"
+B_H = "63"
+B_TB = "82"
+B_SB = "13"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "106"
+B_R = "15"
+B_H = "30"
+B_TB = "40"
+B_SB = "2"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Keifer"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "117"
+B_R = "16"
+B_H = "33"
+B_TB = "39"
+B_SB = "0"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Corcoran"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "384"
+B_R = "50"
+B_H = "108"
+B_TB = "122"
+B_SB = "20"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Beatty"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "355"
+B_R = "36"
+B_H = "99"
+B_TB = "129"
+B_SB = "6"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Becker"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "383"
+B_R = "53"
+B_H = "107"
+B_TB = "137"
+B_SB = "24"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Shannon"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "363"
+B_R = "48"
+B_H = "101"
+B_TB = "143"
+B_SB = "18"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Gandy"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[[person.playing.split]]
+team.name = "Lawrence"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "155"
+B_R = "18"
+B_H = "43"
+B_TB = "55"
+B_SB = "4"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Gonzales"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "137"
+B_R = "23"
+B_H = "38"
+B_TB = "51"
+B_SB = "4"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Nutter"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "408"
+B_R = "60"
+B_H = "112"
+B_TB = "168"
+B_SB = "17"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Flynn"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "377"
+B_R = "46"
+B_H = "103"
+B_TB = "145"
+B_SB = "11"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "326"
+B_R = "40"
+B_H = "89"
+B_TB = "114"
+B_SB = "11"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Tamm"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "383"
+B_R = "40"
+B_H = "104"
+B_TB = "122"
+B_SB = "20"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Tyler"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "203"
+B_R = "19"
+B_H = "55"
+B_TB = "69"
+B_SB = "4"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Potteiger"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "405"
+B_R = "68"
+B_H = "109"
+B_TB = "154"
+B_SB = "10"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Dowd"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "323"
+B_R = "32"
+B_H = "87"
+B_TB = "102"
+B_SB = "8"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Stimpson"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "384"
+B_R = "54"
+B_H = "103"
+B_TB = "122"
+B_SB = "23"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Kritchell"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "71"
+B_R = "8"
+B_H = "19"
+B_TB = "19"
+B_SB = "2"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Fuller"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "45"
+B_R = "3"
+B_H = "12"
+B_TB = "16"
+B_SB = "0"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "398"
+B_R = "61"
+B_H = "106"
+B_TB = "123"
+B_SB = "16"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Lord"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "409"
+B_R = "58"
+B_H = "109"
+B_TB = "139"
+B_SB = "27"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Grimes"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "306"
+B_R = "35"
+B_H = "81"
+B_TB = "122"
+B_SB = "11"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Woodward"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "110"
+B_R = "6"
+B_H = "29"
+B_TB = "40"
+B_SB = "0"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Egan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "157"
+B_R = "20"
+B_H = "41"
+B_TB = "55"
+B_SB = "1"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Porter"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "107"
+B_R = "29"
+B_H = "28"
+B_TB = "37"
+B_SB = "12"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Jenkins"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "169"
+B_R = "20"
+B_H = "44"
+B_TB = "55"
+B_SB = "3"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "54"
+B_R = "5"
+B_H = "14"
+B_TB = "19"
+B_SB = "2"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Ball"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "303"
+B_R = "38"
+B_H = "78"
+B_TB = "97"
+B_SB = "24"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Herring"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "35"
+B_R = "3"
+B_H = "9"
+B_TB = "16"
+B_SB = "0"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Stephens"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "199"
+B_R = "16"
+B_H = "51"
+B_TB = "63"
+B_SB = "2"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Zinn"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "233"
+B_R = "33"
+B_H = "59"
+B_TB = "78"
+B_SB = "8"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Briggs"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "115"
+B_R = "13"
+B_H = "29"
+B_TB = "37"
+B_SB = "3"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Low"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "376"
+B_R = "52"
+B_H = "94"
+B_TB = "133"
+B_SB = "24"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "D."
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "128"
+B_R = "11"
+B_H = "32"
+B_TB = "47"
+B_SB = "7"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Gaston"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "269"
+B_R = "26"
+B_H = "67"
+B_TB = "89"
+B_SB = "8"
+B_AVG = ".249"
+
+
+[[person]]
+name.last = "Breen"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "234"
+B_R = "30"
+B_H = "50"
+B_TB = "58"
+B_SB = "11"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Burke"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "157"
+B_R = "24"
+B_H = "39"
+B_TB = "39"
+B_SB = "4"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Deininger"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[[person.playing.split]]
+team.name = "Portland"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "328"
+B_R = "35"
+B_H = "81"
+B_TB = "109"
+B_SB = "6"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Dowell"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "190"
+B_R = "20"
+B_H = "47"
+B_TB = "70"
+B_SB = "16"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Torphy"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "162"
+B_R = "19"
+B_H = "40"
+B_TB = "45"
+B_SB = "2"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "O'Connell"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "65"
+B_R = "7"
+B_H = "16"
+B_TB = "22"
+B_SB = "4"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Brackett"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "347"
+B_R = "43"
+B_H = "82"
+B_TB = "109"
+B_SB = "11"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "127"
+B_R = "10"
+B_H = "31"
+B_TB = "41"
+B_SB = "3"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Rico"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "104"
+B_R = "13"
+B_H = "25"
+B_TB = "34"
+B_SB = "2"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Lyons"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "21"
+B_R = "0"
+B_H = "5"
+B_TB = "5"
+B_SB = "0"
+B_AVG = ".238"
+
+
+[[person]]
+name.last = "Carroll"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "299"
+B_R = "28"
+B_H = "71"
+B_TB = "87"
+B_SB = "7"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "81"
+B_R = "5"
+B_H = "19"
+B_TB = "20"
+B_SB = "0"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Gross"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "374"
+B_R = "34"
+B_H = "87"
+B_TB = "102"
+B_SB = "5"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Hickey"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "69"
+B_R = "8"
+B_H = "16"
+B_TB = "19"
+B_SB = "5"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "342"
+B_R = "42"
+B_H = "79"
+B_TB = "106"
+B_SB = "4"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Downey"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "186"
+B_R = "16"
+B_H = "43"
+B_TB = "55"
+B_SB = "4"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Simmins"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "326"
+B_R = "41"
+B_H = "75"
+B_TB = "86"
+B_SB = "25"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Devine"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "287"
+B_R = "26"
+B_H = "66"
+B_TB = "85"
+B_SB = "8"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Roth"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "183"
+B_R = "12"
+B_H = "42"
+B_TB = "52"
+B_SB = "4"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Barrows"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "113"
+B_R = "10"
+B_H = "26"
+B_TB = "34"
+B_SB = "4"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Warner"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "61"
+B_R = "4"
+B_H = "14"
+B_TB = "18"
+B_SB = "0"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Mitterling"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "83"
+B_R = "10"
+B_H = "19"
+B_TB = "22"
+B_SB = "4"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Gonzales"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "281"
+B_R = "29"
+B_H = "64"
+B_TB = "82"
+B_SB = "9"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Fish"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "150"
+B_R = "13"
+B_H = "34"
+B_TB = "41"
+B_SB = "2"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Press"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "75"
+B_R = "8"
+B_H = "17"
+B_TB = "26"
+B_SB = "0"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Bradshaw"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "288"
+B_R = "29"
+B_H = "65"
+B_TB = "72"
+B_SB = "6"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "O'Donnell"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "84"
+B_R = "5"
+B_H = "19"
+B_TB = "24"
+B_SB = "2"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Riconda"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "311"
+B_R = "37"
+B_H = "70"
+B_TB = "94"
+B_SB = "15"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Fortune"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "49"
+B_R = "3"
+B_H = "11"
+B_TB = "11"
+B_SB = "1"
+B_AVG = ".224"
+
+
+[[person]]
+name.last = "Hinchman"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "417"
+B_R = "49"
+B_H = "93"
+B_TB = "99"
+B_SB = "16"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Weidel"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "153"
+B_R = "17"
+B_H = "34"
+B_TB = "43"
+B_SB = "13"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Canavan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "81"
+B_R = "12"
+B_H = "18"
+B_TB = "26"
+B_SB = "2"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "45"
+B_R = "3"
+B_H = "10"
+B_TB = "10"
+B_SB = "0"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Recihle"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "228"
+B_R = "25"
+B_H = "50"
+B_TB = "63"
+B_SB = "5"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Luyster"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "32"
+B_R = "8"
+B_H = "7"
+B_TB = "12"
+B_SB = "0"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Lindstrom"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "97"
+B_R = "8"
+B_H = "21"
+B_TB = "22"
+B_SB = "0"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Spaid"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "74"
+B_R = "5"
+B_H = "16"
+B_TB = "17"
+B_SB = "0"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Mowe"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "191"
+B_R = "29"
+B_H = "41"
+B_TB = "46"
+B_SB = "13"
+B_AVG = ".215"
+
+
+[[person]]
+name.last = "Flaherty"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "71"
+B_R = "6"
+B_H = "15"
+B_TB = "17"
+B_SB = "1"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Trout"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "278"
+B_R = "34"
+B_H = "58"
+B_TB = "63"
+B_SB = "10"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "184"
+B_R = "17"
+B_H = "38"
+B_TB = "44"
+B_SB = "3"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Gardinier"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "29"
+B_R = "5"
+B_H = "6"
+B_TB = "6"
+B_SB = "5"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Wilder"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "190"
+B_R = "20"
+B_H = "39"
+B_TB = "52"
+B_SB = "3"
+B_AVG = ".205"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "362"
+B_R = "42"
+B_H = "74"
+B_TB = "95"
+B_SB = "13"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Mahoney"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "162"
+B_R = "10"
+B_H = "33"
+B_TB = "40"
+B_SB = "4"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Dempsey"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "98"
+B_R = "8"
+B_H = "20"
+B_TB = "22"
+B_SB = "0"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Russell"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "219"
+B_R = "10"
+B_H = "44"
+B_TB = "53"
+B_SB = "0"
+B_AVG = ".201"
+
+
+[[person]]
+name.last = "Skiff"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "154"
+B_R = "0"
+B_H = "31"
+B_TB = "36"
+B_SB = "3"
+B_AVG = ".201"
+
+
+[[person]]
+name.last = "Hellfrich"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "240"
+B_R = "25"
+B_H = "48"
+B_TB = "63"
+B_SB = "5"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "75"
+B_R = "3"
+B_H = "15"
+B_TB = "17"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Schwartie"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "25"
+B_R = "5"
+B_H = "5"
+B_TB = "6"
+B_SB = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "227"
+B_R = "14"
+B_H = "44"
+B_TB = "50"
+B_SB = "4"
+B_AVG = ".194"
+
+
+[[person]]
+name.last = "Whelan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "265"
+B_R = "25"
+B_H = "51"
+B_TB = "73"
+B_SB = "5"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Kennedy"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "127"
+B_R = "12"
+B_H = "24"
+B_TB = "28"
+B_SB = "3"
+B_AVG = ".189"
+
+
+[[person]]
+name.last = "Dessau"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "16"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_SB = "0"
+B_AVG = ".187"
+
+
+[[person]]
+name.last = "Mangan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "43"
+B_R = "3"
+B_H = "8"
+B_TB = "9"
+B_SB = "0"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Bendenk"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "92"
+B_R = "6"
+B_H = "17"
+B_TB = "19"
+B_SB = "3"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "Donnelly"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "54"
+B_R = "4"
+B_H = "10"
+B_TB = "15"
+B_SB = "0"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "76"
+B_R = "6"
+B_H = "14"
+B_TB = "16"
+B_SB = "1"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Wood"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "38"
+B_R = "1"
+B_H = "7"
+B_TB = "7"
+B_SB = "0"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Dee"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "55"
+B_R = "5"
+B_H = "10"
+B_TB = "12"
+B_SB = "1"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Barron"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "61"
+B_R = "1"
+B_H = "11"
+B_TB = "11"
+B_SB = "0"
+B_AVG = ".180"
+
+
+[[person]]
+name.last = "McQuillan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "85"
+B_R = "5"
+B_H = "15"
+B_TB = "21"
+B_SB = "0"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Daughton"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "46"
+B_R = "6"
+B_H = "8"
+B_TB = "11"
+B_SB = "1"
+B_AVG = ".174"
+
+
+[[person]]
+name.last = "Plitt"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "87"
+B_R = "1"
+B_H = "15"
+B_TB = "15"
+B_SB = "0"
+B_AVG = ".172"
+
+
+[[person]]
+name.last = "Reigher"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "70"
+B_R = "6"
+B_H = "12"
+B_TB = "16"
+B_SB = "0"
+B_AVG = ".170"
+
+
+[[person]]
+name.last = "Russell"
+name.given = "O."
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "18"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_SB = "1"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Durning"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "67"
+B_R = "2"
+B_H = "11"
+B_TB = "12"
+B_SB = "1"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Mulrennan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "31"
+B_R = "2"
+B_H = "5"
+B_TB = "6"
+B_SB = "1"
+B_AVG = ".160"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "88"
+B_R = "4"
+B_H = "14"
+B_TB = "14"
+B_SB = "2"
+B_AVG = ".159"
+
+
+[[person]]
+name.last = "Naylor"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "69"
+B_R = "7"
+B_H = "11"
+B_TB = "11"
+B_SB = "0"
+B_AVG = ".159"
+
+
+[[person]]
+name.last = "Tencate"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "19"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_SB = "0"
+B_AVG = ".158"
+
+
+[[person]]
+name.last = "Lasche"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "89"
+B_R = "12"
+B_H = "14"
+B_TB = "22"
+B_SB = "3"
+B_AVG = ".157"
+
+
+[[person]]
+name.last = "Brannigan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "130"
+B_R = "15"
+B_H = "20"
+B_TB = "23"
+B_SB = "1"
+B_AVG = ".154"
+
+
+[[person]]
+name.last = "Gingras"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "60"
+B_R = "4"
+B_H = "9"
+B_TB = "14"
+B_SB = "0"
+B_AVG = ".150"
+
+
+[[person]]
+name.last = "House"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "60"
+B_R = "4"
+B_H = "9"
+B_TB = "14"
+B_SB = "0"
+B_AVG = ".150"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "21"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_SB = "0"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "71"
+B_R = "5"
+B_H = "10"
+B_TB = "14"
+B_SB = "7"
+B_AVG = ".141"
+
+
+[[person]]
+name.last = "Keegan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Worcester"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "93"
+B_R = "6"
+B_H = "13"
+B_TB = "15"
+B_SB = "4"
+B_AVG = ".139"
+
+
+[[person]]
+name.last = "Trautman"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "90"
+B_R = "4"
+B_H = "12"
+B_TB = "15"
+B_SB = "0"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Mayberry"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "68"
+B_R = "7"
+B_H = "9"
+B_TB = "10"
+B_SB = "0"
+B_AVG = ".132"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "69"
+B_R = "3"
+B_H = "9"
+B_TB = "11"
+B_SB = "1"
+B_AVG = ".130"
+
+
+[[person]]
+name.last = "McGraw"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "86"
+B_R = "8"
+B_H = "11"
+B_TB = "13"
+B_SB = "0"
+B_AVG = ".128"
+
+
+[[person]]
+name.last = "Gill"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "47"
+B_R = "3"
+B_H = "6"
+B_TB = "9"
+B_SB = "1"
+B_AVG = ".128"
+
+
+[[person]]
+name.last = "Head"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "63"
+B_R = "2"
+B_H = "8"
+B_TB = "8"
+B_SB = "0"
+B_AVG = ".127"
+
+
+[[person]]
+name.last = "Crum"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New London"
+[person.playing.totals]
+B_AB = "87"
+B_R = "4"
+B_H = "11"
+B_TB = "12"
+B_SB = "1"
+B_AVG = ".126"
+
+
+[[person]]
+name.last = "Carroll"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "25"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_SB = "0"
+B_AVG = ".120"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "25"
+B_R = "5"
+B_H = "3"
+B_TB = "0"
+B_SB = "0"
+B_AVG = ".120"
+
+
+[[person]]
+name.last = "Tuckey"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "35"
+B_R = "3"
+B_H = "4"
+B_TB = "5"
+B_SB = "0"
+B_AVG = ".114"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "44"
+B_R = "3"
+B_H = "5"
+B_TB = "5"
+B_SB = "1"
+B_AVG = ".113"
+
+
+[[person]]
+name.last = "Bradley"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "94"
+B_R = "5"
+B_H = "17"
+B_TB = "18"
+B_SB = "4"
+B_AVG = ".108"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Haven"
+[person.playing.totals]
+B_AB = "78"
+B_R = "5"
+B_H = "7"
+B_TB = "8"
+B_SB = "1"
+B_AVG = ".090"
+
+
+[[person]]
+name.last = "Gaw"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lawrence"
+[person.playing.totals]
+B_AB = "22"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_SB = "0"
+B_AVG = ".090"
+
+
+[[person]]
+name.last = "Keefe"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hartford"
+[person.playing.totals]
+B_AB = "64"
+B_R = "0"
+B_H = "4"
+B_TB = "4"
+B_SB = "0"
+B_AVG = ".063"
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[person.playing.totals]
+B_AB = "38"
+B_R = "3"
+B_H = "2"
+B_TB = "2"
+B_SB = "1"
+B_AVG = ".053"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+B_AB = "41"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_SB = "1"
+B_AVG = ".049"
+
+
+[[person]]
+name.last = "Banks"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bridgeport"
+[[person.playing.split]]
+team.name = "Worcester"
+[person.playing.totals]
+B_AB = "71"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_SB = "0"
+B_AVG = ".028"
+
+
+[[person]]
+name.last = "Moers"
+[[person.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+B_AB = "20"
+B_R = "2"
+B_H = "0"
+B_TB = "0"
+B_SB = "0"
+B_AVG = ".000"

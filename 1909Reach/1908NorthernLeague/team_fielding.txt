@@ -1,0 +1,54 @@
+[[team]]
+name = "Brandon"
+[[team.playing]]
+season = "1908"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "81"
+F_PO = "1935"
+F_A = "917"
+F_E = "149"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1908"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "80"
+F_PO = "1598"
+F_A = "918"
+F_E = "140"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1908"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "90"
+F_PO = "2049"
+F_A = "1108"
+F_E = "198"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Fargo"
+[[team.playing]]
+season = "1908"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "79"
+F_PO = "1853"
+F_A = "950"
+F_E = "237"
+F_PCT = ".922"

@@ -1,0 +1,112 @@
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "143"
+B_AB = "4580"
+B_R = "524"
+B_H = "1141"
+B_2B = "135"
+B_3B = "43"
+B_HR = "6"
+B_SH = "214"
+B_SB = "229"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4368"
+B_R = "514"
+B_H = "1048"
+B_2B = "140"
+B_3B = "46"
+B_HR = "10"
+B_SH = "218"
+B_SB = "274"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4345"
+B_R = "475"
+B_H = "993"
+B_2B = "135"
+B_3B = "63"
+B_HR = "15"
+B_SH = "258"
+B_SB = "256"
+B_AVG = ".230"
+
+
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4406"
+B_R = "425"
+B_H = "1003"
+B_2B = "127"
+B_3B = "28"
+B_HR = "10"
+B_SH = "189"
+B_SB = "228"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4552"
+B_R = "397"
+B_H = "1016"
+B_2B = "147"
+B_3B = "24"
+B_HR = "5"
+B_SH = "141"
+B_SB = "170"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4310"
+B_R = "394"
+B_H = "916"
+B_2B = "122"
+B_3B = "31"
+B_HR = "3"
+B_SH = "229"
+B_SB = "161"
+B_AVG = ".218"

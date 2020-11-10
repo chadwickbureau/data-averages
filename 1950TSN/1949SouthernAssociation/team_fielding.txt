@@ -1,0 +1,134 @@
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "160"
+F_PB = "8"
+F_PO = "3933"
+F_A = "1703"
+F_E = "178"
+F_PCT = ".969"
+F_TP = "0"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "153"
+F_PB = "7"
+F_PO = "3923"
+F_A = "1825"
+F_E = "194"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "144"
+F_PB = "19"
+F_PO = "3996"
+F_A = "1675"
+F_E = "198"
+F_PCT = ".966"
+F_TP = "0"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "137"
+F_PB = "11"
+F_PO = "3871"
+F_A = "1526"
+F_E = "191"
+F_PCT = ".966"
+F_TP = "0"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "198"
+F_PB = "7"
+F_PO = "3842"
+F_A = "1718"
+F_E = "198"
+F_PCT = ".966"
+F_TP = "0"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "165"
+F_PB = "9"
+F_PO = "3904"
+F_A = "1603"
+F_E = "202"
+F_PCT = ".965"
+F_TP = "1"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "132"
+F_PB = "20"
+F_PO = "3906"
+F_A = "1597"
+F_E = "207"
+F_PCT = ".964"
+F_TP = "1"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1949"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "137"
+F_PB = "13"
+F_PO = "3863"
+F_A = "1611"
+F_E = "233"
+F_PCT = ".957"
+F_TP = "0"

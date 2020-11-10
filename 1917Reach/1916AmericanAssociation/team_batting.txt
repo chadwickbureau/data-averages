@@ -1,0 +1,134 @@
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5521"
+B_R = "711"
+B_H = "1478"
+B_TB = "1943"
+B_SH = "220"
+B_SB = "158"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "170"
+B_AB = "5499"
+B_R = "744"
+B_H = "1459"
+B_TB = "1895"
+B_SH = "227"
+B_SB = "228"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "166"
+B_AB = "5588"
+B_R = "800"
+B_H = "1470"
+B_TB = "1920"
+B_SH = "160"
+B_SB = "148"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5376"
+B_R = "694"
+B_H = "1392"
+B_TB = "1904"
+B_SH = "237"
+B_SB = "157"
+B_AVG = ".259"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5471"
+B_R = "695"
+B_H = "1392"
+B_TB = "1861"
+B_SH = "195"
+B_SB = "184"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5545"
+B_R = "706"
+B_H = "1401"
+B_TB = "1876"
+B_SH = "178"
+B_SB = "190"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "163"
+B_AB = "5380"
+B_R = "630"
+B_H = "1329"
+B_TB = "1719"
+B_SH = "200"
+B_SB = "136"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1916"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "164"
+B_AB = "5254"
+B_R = "564"
+B_H = "1218"
+B_TB = "1635"
+B_SH = "183"
+B_SB = "207"
+B_AVG = ".232"

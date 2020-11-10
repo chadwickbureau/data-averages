@@ -1,0 +1,134 @@
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "149"
+F_PB = "12"
+F_PO = "3586"
+F_A = "1437"
+F_E = "177"
+F_TP = "0"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "167"
+F_PB = "10"
+F_PO = "3600"
+F_A = "1548"
+F_E = "198"
+F_TP = "0"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "114"
+F_PB = "27"
+F_PO = "3588"
+F_A = "1512"
+F_E = "207"
+F_TP = "0"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "140"
+F_PB = "28"
+F_PO = "3569"
+F_A = "1468"
+F_E = "202"
+F_TP = "0"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "132"
+F_PB = "18"
+F_PO = "3615"
+F_A = "1581"
+F_E = "216"
+F_TP = "0"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "128"
+F_PB = "9"
+F_PO = "3542"
+F_A = "1454"
+F_E = "226"
+F_TP = "0"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Williamsport"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "108"
+F_PB = "13"
+F_PO = "3520"
+F_A = "1417"
+F_E = "236"
+F_TP = "1"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "136"
+F_PB = "28"
+F_PO = "3532"
+F_A = "1464"
+F_E = "289"
+F_TP = "0"
+F_PCT = ".945"

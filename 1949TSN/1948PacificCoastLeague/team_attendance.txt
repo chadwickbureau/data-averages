@@ -1,0 +1,78 @@
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "606563"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "576372"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "552072"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "452448"
+
+
+[[team]]
+name = "San Diego"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "424200"
+
+
+[[team]]
+name = "Hollywood"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "416725"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "339758"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1948"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "293028"

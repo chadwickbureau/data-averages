@@ -1,0 +1,134 @@
+[[team]]
+name = "Klamath Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "85"
+F_PB = "31"
+F_PO = "3238"
+F_A = "1279"
+F_E = "294"
+F_TP = "0"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Santa Rosa"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "92"
+F_DP = "96"
+F_PB = "14"
+F_PO = "2431"
+F_A = "1012"
+F_E = "234"
+F_TP = "0"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Willows"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "117"
+F_PB = "37"
+F_PO = "3307"
+F_A = "1275"
+F_E = "312"
+F_TP = "0"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Pittsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "96"
+F_PB = "36"
+F_PO = "3383"
+F_A = "1331"
+F_E = "331"
+F_TP = "0"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Marysville"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "89"
+F_PB = "41"
+F_PO = "3255"
+F_A = "1283"
+F_E = "324"
+F_TP = "0"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Redding"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "102"
+F_PB = "22"
+F_PO = "3309"
+F_A = "1238"
+F_E = "333"
+F_TP = "0"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Vallejo"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "92"
+F_DP = "53"
+F_PB = "27"
+F_PO = "2390"
+F_A = "951"
+F_E = "255"
+F_TP = "0"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Medford"
+[[team.playing]]
+season = "1949"
+league.name = "Far West League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "60"
+F_PB = "40"
+F_PO = "3156"
+F_A = "1284"
+F_E = "367"
+F_TP = "0"
+F_PCT = ".924"

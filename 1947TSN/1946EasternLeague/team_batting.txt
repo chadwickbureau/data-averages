@@ -1,0 +1,198 @@
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4468"
+B_R = "789"
+P_R = "463"
+B_H = "1234"
+B_TB = "1705"
+B_2B = "184"
+B_3B = "79"
+B_HR = "43"
+B_SH = "111"
+B_SB = "85"
+B_BB = "628"
+B_HP = "24"
+B_RBI = "688"
+B_SO = "630"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4445"
+B_R = "612"
+P_R = "603"
+B_H = "1188"
+B_TB = "1586"
+B_2B = "205"
+B_3B = "53"
+B_HR = "29"
+B_SH = "124"
+B_SB = "96"
+B_BB = "517"
+B_HP = "35"
+B_RBI = "523"
+B_SO = "548"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4667"
+B_R = "680"
+P_R = "575"
+B_H = "1224"
+B_TB = "1654"
+B_2B = "195"
+B_3B = "65"
+B_HR = "35"
+B_SH = "66"
+B_SB = "94"
+B_BB = "602"
+B_HP = "22"
+B_RBI = "600"
+B_SO = "701"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Williamsport"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4580"
+B_R = "657"
+P_R = "758"
+B_H = "1170"
+B_TB = "1578"
+B_2B = "176"
+B_3B = "59"
+B_HR = "38"
+B_SH = "89"
+B_SB = "50"
+B_BB = "592"
+B_HP = "40"
+B_RBI = "585"
+B_SO = "624"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4320"
+B_R = "643"
+P_R = "594"
+B_H = "1078"
+B_TB = "1465"
+B_2B = "188"
+B_3B = "26"
+B_HR = "49"
+B_SH = "89"
+B_SB = "61"
+B_BB = "617"
+B_HP = "24"
+B_RBI = "547"
+B_SO = "674"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4499"
+B_R = "573"
+P_R = "692"
+B_H = "1114"
+B_TB = "1478"
+B_2B = "164"
+B_3B = "46"
+B_HR = "36"
+B_SH = "77"
+B_SB = "102"
+B_BB = "550"
+B_HP = "38"
+B_RBI = "477"
+B_SO = "763"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4351"
+B_R = "569"
+P_R = "640"
+B_H = "1063"
+B_TB = "1423"
+B_2B = "178"
+B_3B = "49"
+B_HR = "28"
+B_SH = "69"
+B_SB = "63"
+B_BB = "462"
+B_HP = "15"
+B_RBI = "501"
+B_SO = "620"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1946"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4422"
+B_R = "534"
+P_R = "732"
+B_H = "1070"
+B_TB = "1360"
+B_2B = "163"
+B_3B = "26"
+B_HR = "25"
+B_SH = "122"
+B_SB = "66"
+B_BB = "577"
+B_HP = "27"
+B_RBI = "454"
+B_SO = "727"
+B_AVG = ".242"

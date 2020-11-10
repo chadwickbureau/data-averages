@@ -1,0 +1,118 @@
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3586"
+F_A = "1667"
+F_E = "180"
+F_TC = "5433"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3566"
+F_A = "1799"
+F_E = "212"
+F_TC = "5577"
+F_PCT = ".962"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3710"
+F_A = "1804"
+F_E = "250"
+F_TC = "5764"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3536"
+F_A = "1798"
+F_E = "270"
+F_TC = "5604"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3727"
+F_A = "1745"
+F_E = "272"
+F_TC = "5744"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3476"
+F_A = "1775"
+F_E = "293"
+F_TC = "5544"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3712"
+F_A = "1779"
+F_E = "306"
+F_TC = "5797"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1910"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3571"
+F_A = "1691"
+F_E = "377"
+F_TC = "5639"
+F_PCT = ".933"

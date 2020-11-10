@@ -1,0 +1,102 @@
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3358"
+F_A = "1574"
+F_E = "263"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2977"
+F_A = "1411"
+F_E = "180"
+F_PCT = ".961"
+
+
+[[team]]
+name = "McKeesport"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3361"
+F_A = "1472"
+F_E = "234"
+F_PCT = ".954"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3145"
+F_A = "1558"
+F_E = "230"
+F_PCT = ".953"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3091"
+F_A = "1572"
+F_E = "234"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3314"
+F_A = "1542"
+F_E = "275"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2952"
+F_A = "1451"
+F_E = "252"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Steubenville"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3191"
+F_A = "1551"
+F_E = "276"
+F_PCT = ".945"

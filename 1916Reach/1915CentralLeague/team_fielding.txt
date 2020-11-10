@@ -1,0 +1,126 @@
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3294"
+F_A = "1568"
+F_E = "168"
+F_TC = "5030"
+F_DP = "79"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3342"
+F_A = "1561"
+F_E = "202"
+F_TC = "5105"
+F_DP = "67"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "3154"
+F_A = "1510"
+F_E = "192"
+F_TC = "4856"
+F_DP = "66"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3379"
+F_A = "1562"
+F_E = "218"
+F_TC = "5159"
+F_DP = "63"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3209"
+F_A = "1576"
+F_E = "225"
+F_TC = "5010"
+F_DP = "57"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3276"
+F_A = "1511"
+F_E = "227"
+F_TC = "5014"
+F_DP = "66"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3228"
+F_A = "1452"
+F_E = "226"
+F_TC = "4906"
+F_DP = "48"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3287"
+F_A = "1615"
+F_E = "247"
+F_TC = "5149"
+F_DP = "92"
+F_PCT = ".952"

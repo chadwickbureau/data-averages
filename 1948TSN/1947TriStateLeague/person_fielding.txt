@@ -1,0 +1,4064 @@
+[[person]]
+name.last = "Farrell"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "124"
+F_1B_PO = "977"
+F_1B_A = "81"
+F_1B_E = "12"
+F_1B_DP = "101"
+F_1B_PCT = ".989"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Brannan"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "38"
+F_1B_PO = "450"
+F_1B_A = "15"
+F_1B_E = "5"
+F_1B_DP = "35"
+F_1B_PCT = ".989"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "99"
+F_1B_PO = "854"
+F_1B_A = "42"
+F_1B_E = "14"
+F_1B_DP = "82"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Richards"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "81"
+F_1B_PO = "671"
+F_1B_A = "34"
+F_1B_E = "11"
+F_1B_DP = "46"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Gorman"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "47"
+F_1B_PO = "358"
+F_1B_A = "25"
+F_1B_E = "6"
+F_1B_DP = "30"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Kollar"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "140"
+F_1B_PO = "1214"
+F_1B_A = "68"
+F_1B_E = "22"
+F_1B_DP = "93"
+F_1B_PCT = ".983"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Glover"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "137"
+F_1B_PO = "1224"
+F_1B_A = "77"
+F_1B_E = "32"
+F_1B_DP = "97"
+F_1B_PCT = ".976"
+F_1B_TP = "2"
+
+
+[[person]]
+name.last = "Hickernell"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "134"
+F_1B_PO = "1207"
+F_1B_A = "49"
+F_1B_E = "31"
+F_1B_DP = "104"
+F_1B_PCT = ".976"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "17"
+F_1B_PO = "159"
+F_1B_A = "6"
+F_1B_E = "4"
+F_1B_DP = "12"
+F_1B_PCT = ".976"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Connell"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "114"
+F_1B_PO = "938"
+F_1B_A = "59"
+F_1B_E = "26"
+F_1B_DP = "82"
+F_1B_PCT = ".975"
+F_1B_TP = "3"
+
+
+[[person]]
+name.last = "Tryon"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "26"
+F_1B_PO = "267"
+F_1B_A = "7"
+F_1B_E = "7"
+F_1B_DP = "11"
+F_1B_PCT = ".975"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Freiburger"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "52"
+F_1B_PO = "451"
+F_1B_A = "30"
+F_1B_E = "15"
+F_1B_DP = "32"
+F_1B_PCT = ".970"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Urcho"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "13"
+F_1B_PO = "92"
+F_1B_A = "14"
+F_1B_E = "4"
+F_1B_DP = "11"
+F_1B_PCT = ".964"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Cooper"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "21"
+F_1B_PO = "177"
+F_1B_A = "6"
+F_1B_E = "8"
+F_1B_DP = "10"
+F_1B_PCT = ".958"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Hawkins"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "30"
+F_1B_PO = "230"
+F_1B_A = "11"
+F_1B_E = "12"
+F_1B_DP = "20"
+F_1B_PCT = ".953"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Danos"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "25"
+F_1B_PO = "91"
+F_1B_A = "10"
+F_1B_E = "6"
+F_1B_DP = "17"
+F_1B_PCT = ".944"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "71"
+F_2B_PO = "180"
+F_2B_A = "200"
+F_2B_E = "10"
+F_2B_DP = "36"
+F_2B_PCT = ".974"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Randall"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "24"
+F_2B_PO = "67"
+F_2B_A = "69"
+F_2B_E = "4"
+F_2B_DP = "16"
+F_2B_PCT = ".971"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Postolese"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "52"
+F_2B_PO = "163"
+F_2B_A = "167"
+F_2B_E = "12"
+F_2B_DP = "41"
+F_2B_PCT = ".965"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Oliver"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "19"
+F_2B_PO = "33"
+F_2B_A = "48"
+F_2B_E = "3"
+F_2B_DP = "7"
+F_2B_PCT = ".964"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Ermer"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "135"
+F_2B_PO = "336"
+F_2B_A = "417"
+F_2B_E = "29"
+F_2B_DP = "97"
+F_2B_PCT = ".963"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McBryde"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "85"
+F_2B_PO = "207"
+F_2B_A = "231"
+F_2B_E = "18"
+F_2B_DP = "48"
+F_2B_PCT = ".961"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Barocco"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "121"
+F_2B_PO = "326"
+F_2B_A = "344"
+F_2B_E = "29"
+F_2B_DP = "70"
+F_2B_PCT = ".959"
+F_2B_TP = "2"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "26"
+F_2B_PO = "70"
+F_2B_A = "69"
+F_2B_E = "6"
+F_2B_DP = "11"
+F_2B_PCT = ".959"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Granzig"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "63"
+F_2B_A = "76"
+F_2B_E = "6"
+F_2B_DP = "9"
+F_2B_PCT = ".959"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "26"
+F_2B_PO = "61"
+F_2B_A = "67"
+F_2B_E = "6"
+F_2B_DP = "9"
+F_2B_PCT = ".955"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Loman"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "121"
+F_2B_PO = "337"
+F_2B_A = "367"
+F_2B_E = "34"
+F_2B_DP = "79"
+F_2B_PCT = ".954"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Leonard"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "50"
+F_2B_A = "41"
+F_2B_E = "5"
+F_2B_DP = "2"
+F_2B_PCT = ".948"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Poole"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "43"
+F_2B_A = "41"
+F_2B_E = "5"
+F_2B_DP = "11"
+F_2B_PCT = ".944"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McDowell"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "31"
+F_2B_A = "32"
+F_2B_E = "4"
+F_2B_DP = "4"
+F_2B_PCT = ".940"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Witek"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "94"
+F_2B_PO = "284"
+F_2B_A = "275"
+F_2B_E = "36"
+F_2B_DP = "58"
+F_2B_PCT = ".939"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Williamson"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "110"
+F_2B_PO = "321"
+F_2B_A = "349"
+F_2B_E = "44"
+F_2B_DP = "57"
+F_2B_PCT = ".938"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "119"
+F_2B_PO = "307"
+F_2B_A = "334"
+F_2B_E = "45"
+F_2B_DP = "70"
+F_2B_PCT = ".934"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Danos"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "59"
+F_2B_A = "54"
+F_2B_E = "9"
+F_2B_DP = "11"
+F_2B_PCT = ".926"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Castillo"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "11"
+F_2B_PO = "16"
+F_2B_A = "12"
+F_2B_E = "6"
+F_2B_DP = "2"
+F_2B_PCT = ".824"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Witek"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "20"
+F_3B_PO = "28"
+F_3B_A = "49"
+F_3B_E = "3"
+F_3B_DP = "4"
+F_3B_PCT = ".963"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Carlson"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "93"
+F_3B_PO = "109"
+F_3B_A = "182"
+F_3B_E = "14"
+F_3B_DP = "8"
+F_3B_PCT = ".954"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Postolese"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "80"
+F_3B_PO = "65"
+F_3B_A = "180"
+F_3B_E = "12"
+F_3B_DP = "20"
+F_3B_PCT = ".953"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Cooper"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "7"
+F_3B_A = "13"
+F_3B_E = "1"
+F_3B_DP = "1"
+F_3B_PCT = ".952"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Williamson"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "27"
+F_3B_PO = "31"
+F_3B_A = "56"
+F_3B_E = "5"
+F_3B_DP = "5"
+F_3B_PCT = ".946"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Danos"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "15"
+F_3B_PO = "13"
+F_3B_A = "22"
+F_3B_E = "2"
+F_3B_DP = "0"
+F_3B_PCT = ".946"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Oliver"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "31"
+F_3B_PO = "34"
+F_3B_A = "49"
+F_3B_E = "5"
+F_3B_DP = "4"
+F_3B_PCT = ".943"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Richards"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "126"
+F_3B_PO = "164"
+F_3B_A = "240"
+F_3B_E = "26"
+F_3B_DP = "24"
+F_3B_PCT = ".940"
+F_3B_TP = "2"
+
+
+[[person]]
+name.last = "Macrinotis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "77"
+F_3B_PO = "95"
+F_3B_A = "126"
+F_3B_E = "14"
+F_3B_DP = "18"
+F_3B_PCT = ".940"
+F_3B_TP = "1"
+
+
+[[person]]
+name.last = "Beal"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "124"
+F_3B_PO = "119"
+F_3B_A = "227"
+F_3B_E = "25"
+F_3B_DP = "29"
+F_3B_PCT = ".933"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Urcho"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "94"
+F_3B_PO = "104"
+F_3B_A = "184"
+F_3B_E = "21"
+F_3B_DP = "21"
+F_3B_PCT = ".932"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Pizzi"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "8"
+F_3B_A = "18"
+F_3B_E = "2"
+F_3B_DP = "1"
+F_3B_PCT = ".929"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Motto"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "128"
+F_3B_PO = "133"
+F_3B_A = "264"
+F_3B_E = "38"
+F_3B_DP = "29"
+F_3B_PCT = ".913"
+F_3B_TP = "1"
+
+
+[[person]]
+name.last = "McBryde"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "54"
+F_3B_PO = "43"
+F_3B_A = "109"
+F_3B_E = "15"
+F_3B_DP = "10"
+F_3B_PCT = ".910"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Randall"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "38"
+F_3B_PO = "56"
+F_3B_A = "70"
+F_3B_E = "13"
+F_3B_DP = "5"
+F_3B_PCT = ".906"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Cross"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "114"
+F_3B_PO = "124"
+F_3B_A = "211"
+F_3B_E = "36"
+F_3B_DP = "18"
+F_3B_PCT = ".903"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Bernat"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "31"
+F_3B_PO = "26"
+F_3B_A = "50"
+F_3B_E = "10"
+F_3B_DP = "2"
+F_3B_PCT = ".884"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Castillo"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "10"
+F_3B_A = "19"
+F_3B_E = "5"
+F_3B_DP = "3"
+F_3B_PCT = ".853"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Carnevale"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "99"
+F_SS_PO = "201"
+F_SS_A = "443"
+F_SS_E = "35"
+F_SS_DP = "48"
+F_SS_PCT = ".948"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Gribble"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "96"
+F_SS_PO = "148"
+F_SS_A = "306"
+F_SS_E = "28"
+F_SS_DP = "38"
+F_SS_PCT = ".942"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "DeMars"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "110"
+F_SS_PO = "203"
+F_SS_A = "321"
+F_SS_E = "33"
+F_SS_DP = "57"
+F_SS_PCT = ".941"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Frye"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "22"
+F_SS_PO = "37"
+F_SS_A = "68"
+F_SS_E = "7"
+F_SS_DP = "16"
+F_SS_PCT = ".938"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Meyers"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "18"
+F_SS_A = "26"
+F_SS_E = "3"
+F_SS_DP = "3"
+F_SS_PCT = ".936"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Labda"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "19"
+F_SS_PO = "32"
+F_SS_A = "49"
+F_SS_E = "6"
+F_SS_DP = "9"
+F_SS_PCT = ".931"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "McDade"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "87"
+F_SS_PO = "166"
+F_SS_A = "266"
+F_SS_E = "33"
+F_SS_DP = "32"
+F_SS_PCT = ".929"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Adams"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "88"
+F_SS_PO = "172"
+F_SS_A = "252"
+F_SS_E = "33"
+F_SS_DP = "46"
+F_SS_PCT = ".928"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Cargill"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "51"
+F_SS_PO = "111"
+F_SS_A = "135"
+F_SS_E = "21"
+F_SS_DP = "29"
+F_SS_PCT = ".921"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Meeks"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "136"
+F_SS_PO = "245"
+F_SS_A = "354"
+F_SS_E = "52"
+F_SS_DP = "74"
+F_SS_PCT = ".920"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Gregory"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "118"
+F_SS_PO = "266"
+F_SS_A = "354"
+F_SS_E = "56"
+F_SS_DP = "78"
+F_SS_PCT = ".917"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Story"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "83"
+F_SS_PO = "151"
+F_SS_A = "255"
+F_SS_E = "38"
+F_SS_DP = "41"
+F_SS_PCT = ".914"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Hawkins"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "13"
+F_SS_PO = "29"
+F_SS_A = "33"
+F_SS_E = "6"
+F_SS_DP = "4"
+F_SS_PCT = ".912"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Urcho"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "22"
+F_SS_PO = "55"
+F_SS_A = "66"
+F_SS_E = "13"
+F_SS_DP = "16"
+F_SS_PCT = ".903"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Leonard"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "55"
+F_SS_PO = "99"
+F_SS_A = "153"
+F_SS_E = "33"
+F_SS_DP = "22"
+F_SS_PCT = ".884"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Klimczak"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "35"
+F_SS_PO = "58"
+F_SS_A = "85"
+F_SS_E = "19"
+F_SS_DP = "13"
+F_SS_PCT = ".883"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Macrinotis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "24"
+F_SS_PO = "48"
+F_SS_A = "61"
+F_SS_E = "15"
+F_SS_DP = "13"
+F_SS_PCT = ".879"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Stansky"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "21"
+F_SS_A = "36"
+F_SS_E = "8"
+F_SS_DP = "8"
+F_SS_PCT = ".877"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "43"
+F_OF_A = "4"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Moss"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "25"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Ponder"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "19"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "15"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cooper"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "10"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Freed"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "130"
+F_OF_PO = "239"
+F_OF_A = "14"
+F_OF_E = "2"
+F_OF_DP = "6"
+F_OF_PCT = ".992"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Barkley"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "24"
+F_OF_PO = "66"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".986"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bishop"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "53"
+F_OF_PO = "117"
+F_OF_A = "5"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".984"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Winstead"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "21"
+F_OF_PO = "41"
+F_OF_A = "6"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".979"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Russell"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "137"
+F_OF_PO = "291"
+F_OF_A = "17"
+F_OF_E = "7"
+F_OF_DP = "3"
+F_OF_PCT = ".978"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Simononis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "132"
+F_OF_PO = "338"
+F_OF_A = "15"
+F_OF_E = "9"
+F_OF_DP = "4"
+F_OF_PCT = ".975"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "34"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lavelle"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "96"
+F_OF_PO = "225"
+F_OF_A = "9"
+F_OF_E = "7"
+F_OF_DP = "2"
+F_OF_PCT = ".971"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Partee"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "67"
+F_OF_PO = "187"
+F_OF_A = "13"
+F_OF_E = "6"
+F_OF_DP = "3"
+F_OF_PCT = ".971"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "108"
+F_OF_PO = "269"
+F_OF_A = "13"
+F_OF_E = "9"
+F_OF_DP = "4"
+F_OF_PCT = ".969"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "29"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "32"
+F_OF_PO = "56"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "2"
+F_OF_PCT = ".967"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Netcher"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "139"
+F_OF_PO = "295"
+F_OF_A = "10"
+F_OF_E = "11"
+F_OF_DP = "1"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Patton"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "80"
+F_OF_PO = "134"
+F_OF_A = "5"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Stansky"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "42"
+F_OF_PO = "51"
+F_OF_A = "3"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Gamble"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "123"
+F_OF_PO = "312"
+F_OF_A = "13"
+F_OF_E = "13"
+F_OF_DP = "1"
+F_OF_PCT = ".962"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hoffman"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "61"
+F_OF_PO = "94"
+F_OF_A = "5"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".961"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brannan"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "23"
+F_OF_PO = "47"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".960"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Randall"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "46"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".959"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bernal"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "125"
+F_OF_PO = "296"
+F_OF_A = "20"
+F_OF_E = "14"
+F_OF_DP = "2"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pizzi"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "23"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rowe"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "134"
+F_OF_PO = "218"
+F_OF_A = "7"
+F_OF_E = "11"
+F_OF_DP = "1"
+F_OF_PCT = ".953"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Walther"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "137"
+F_OF_PO = "247"
+F_OF_A = "24"
+F_OF_E = "14"
+F_OF_DP = "2"
+F_OF_PCT = ".951"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Reside"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "99"
+F_OF_PO = "195"
+F_OF_A = "13"
+F_OF_E = "11"
+F_OF_DP = "1"
+F_OF_PCT = ".950"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sayles"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "126"
+F_OF_PO = "231"
+F_OF_A = "11"
+F_OF_E = "13"
+F_OF_DP = "1"
+F_OF_PCT = ".949"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Burgess"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "74"
+F_OF_PO = "115"
+F_OF_A = "15"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".949"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Graybill"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "83"
+F_OF_PO = "176"
+F_OF_A = "8"
+F_OF_E = "10"
+F_OF_DP = "0"
+F_OF_PCT = ".948"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "37"
+F_OF_PO = "67"
+F_OF_A = "3"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".946"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Moody"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "132"
+F_OF_PO = "196"
+F_OF_A = "13"
+F_OF_E = "12"
+F_OF_DP = "1"
+F_OF_PCT = ".946"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Poole"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "52"
+F_OF_PO = "84"
+F_OF_A = "3"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".946"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Zam"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "44"
+F_OF_PO = "99"
+F_OF_A = "5"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".945"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "108"
+F_OF_PO = "262"
+F_OF_A = "3"
+F_OF_E = "16"
+F_OF_DP = "0"
+F_OF_PCT = ".943"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "DiMasi"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "71"
+F_OF_A = "8"
+F_OF_E = "5"
+F_OF_DP = "2"
+F_OF_PCT = ".940"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lawing"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "80"
+F_OF_PO = "156"
+F_OF_A = "13"
+F_OF_E = "11"
+F_OF_DP = "0"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kubuski"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "30"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mincy"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "138"
+F_OF_PO = "226"
+F_OF_A = "16"
+F_OF_E = "16"
+F_OF_DP = "1"
+F_OF_PCT = ".938"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Milne"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "102"
+F_OF_PO = "280"
+F_OF_A = "9"
+F_OF_E = "22"
+F_OF_DP = "1"
+F_OF_PCT = ".929"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Danos"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "48"
+F_OF_PO = "75"
+F_OF_A = "6"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".920"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kinard"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "90"
+F_OF_PO = "133"
+F_OF_A = "14"
+F_OF_E = "14"
+F_OF_DP = "3"
+F_OF_PCT = ".913"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Dornbusch"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "28"
+F_OF_PO = "69"
+F_OF_A = "2"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".910"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Gayle"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "55"
+F_OF_A = "4"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".908"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Maxhimer"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "45"
+F_OF_A = "4"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".907"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Marsh"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "36"
+F_OF_PO = "86"
+F_OF_A = "1"
+F_OF_E = "9"
+F_OF_DP = "0"
+F_OF_PCT = ".906"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kousagan"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "36"
+F_OF_A = "2"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".905"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Shuford"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "37"
+F_OF_PO = "52"
+F_OF_A = "4"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".903"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Dill"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "24"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".903"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Macrinotis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "23"
+F_OF_A = "2"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".893"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Peeler"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "57"
+F_OF_A = "0"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".891"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Toth"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "21"
+F_OF_PO = "46"
+F_OF_A = "0"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".885"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bouknight"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "106"
+F_C_PO = "578"
+F_C_A = "84"
+F_C_E = "2"
+F_C_DP = "4"
+F_C_PB = "10"
+F_C_PCT = ".997"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Jackson"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "43"
+F_C_PO = "192"
+F_C_A = "15"
+F_C_E = "1"
+F_C_DP = "0"
+F_C_PB = "3"
+F_C_PCT = ".995"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "22"
+F_C_PO = "105"
+F_C_A = "11"
+F_C_E = "1"
+F_C_DP = "3"
+F_C_PB = "12"
+F_C_PCT = ".991"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Rocek"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "112"
+F_C_PO = "671"
+F_C_A = "73"
+F_C_E = "10"
+F_C_DP = "7"
+F_C_PB = "12"
+F_C_PCT = ".987"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Okrie"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "75"
+F_C_PO = "391"
+F_C_A = "53"
+F_C_E = "6"
+F_C_DP = "5"
+F_C_PB = "10"
+F_C_PCT = ".987"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Witt"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "13"
+F_C_PO = "62"
+F_C_A = "12"
+F_C_E = "1"
+F_C_DP = "1"
+F_C_PB = "4"
+F_C_PCT = ".987"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Estridge"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "62"
+F_C_A = "7"
+F_C_E = "1"
+F_C_DP = "2"
+F_C_PB = "1"
+F_C_PCT = ".986"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Madjeski"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "43"
+F_C_PO = "226"
+F_C_A = "31"
+F_C_E = "4"
+F_C_DP = "5"
+F_C_PB = "3"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "McCreight"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "22"
+F_C_PO = "125"
+F_C_A = "6"
+F_C_E = "2"
+F_C_DP = "2"
+F_C_PB = "3"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Mormino"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "42"
+F_C_PO = "160"
+F_C_A = "25"
+F_C_E = "3"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = ".984"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bolton"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "78"
+F_C_PO = "366"
+F_C_A = "31"
+F_C_E = "8"
+F_C_DP = "3"
+F_C_PB = "5"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Valdes"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "61"
+F_C_PO = "241"
+F_C_A = "45"
+F_C_E = "6"
+F_C_DP = "1"
+F_C_PB = "7"
+F_C_PCT = ".979"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Riggs"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "47"
+F_C_PO = "164"
+F_C_A = "19"
+F_C_E = "4"
+F_C_DP = "2"
+F_C_PB = "6"
+F_C_PCT = ".979"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Douglass"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "48"
+F_C_PO = "155"
+F_C_A = "21"
+F_C_E = "4"
+F_C_DP = "4"
+F_C_PB = "6"
+F_C_PCT = ".978"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Lombardi"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "105"
+F_C_PO = "550"
+F_C_A = "37"
+F_C_E = "14"
+F_C_DP = "1"
+F_C_PB = "6"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "McGarry"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "36"
+F_C_PO = "160"
+F_C_A = "14"
+F_C_E = "5"
+F_C_DP = "2"
+F_C_PB = "10"
+F_C_PCT = ".972"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Burgess"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "27"
+F_C_PO = "88"
+F_C_A = "16"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "1"
+F_C_PCT = ".972"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Kellar"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "104"
+F_C_PO = "443"
+F_C_A = "51"
+F_C_E = "15"
+F_C_DP = "4"
+F_C_PB = "9"
+F_C_PCT = ".971"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dourney"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "134"
+F_C_A = "22"
+F_C_E = "5"
+F_C_DP = "7"
+F_C_PB = "11"
+F_C_PCT = ".969"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Lynn"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "42"
+F_C_PO = "242"
+F_C_A = "27"
+F_C_E = "9"
+F_C_DP = "5"
+F_C_PB = "13"
+F_C_PCT = ".968"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Stansky"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "52"
+F_C_A = "5"
+F_C_E = "2"
+F_C_DP = "1"
+F_C_PB = "3"
+F_C_PCT = ".966"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Rowland"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "46"
+F_C_A = "4"
+F_C_E = "2"
+F_C_DP = "0"
+F_C_PB = "0"
+F_C_PCT = ".962"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hendrix"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "10"
+F_C_PO = "42"
+F_C_A = "3"
+F_C_E = "2"
+F_C_DP = "0"
+F_C_PB = "9"
+F_C_PCT = ".957"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Calaman"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "30"
+F_C_PO = "122"
+F_C_A = "26"
+F_C_E = "8"
+F_C_DP = "2"
+F_C_PB = "3"
+F_C_PCT = ".949"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Irwin"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "23"
+F_C_PO = "81"
+F_C_A = "17"
+F_C_E = "6"
+F_C_DP = "3"
+F_C_PB = "2"
+F_C_PCT = ".942"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Callan"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "4"
+F_P_A = "39"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hester"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "4"
+F_P_A = "24"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Aloma"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "4"
+F_P_A = "22"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "3"
+F_P_A = "21"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Herrington"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "7"
+F_P_A = "13"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Guiliani"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "4"
+F_P_A = "13"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gutierrez"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "15"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "2"
+F_P_A = "14"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Navratil"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "2"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dlugokecki"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Steinbach"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "2"
+F_P_A = "3"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "0"
+F_P_A = "3"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "12"
+F_P_A = "59"
+F_P_E = "1"
+F_P_DP = "4"
+F_P_PCT = ".986"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Plummer"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "7"
+F_P_A = "61"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".986"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rossi"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "12"
+F_P_A = "42"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".982"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kleckley"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "10"
+F_P_A = "40"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".980"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Peeler"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "4"
+F_P_A = "46"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".980"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Craft"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "49"
+F_P_PO = "7"
+F_P_A = "38"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".978"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ennis"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "8"
+F_P_A = "34"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".977"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Holland"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "5"
+F_P_A = "30"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".972"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bryant"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "6"
+F_P_A = "23"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".967"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Horton"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "10"
+F_P_A = "45"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".965"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Parkhurst"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "7"
+F_P_A = "46"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "2"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "MacFaden"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "3"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dixon"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "11"
+F_P_A = "37"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".960"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "14"
+F_P_A = "56"
+F_P_E = "3"
+F_P_DP = "4"
+F_P_PCT = ".959"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Patton"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "7"
+F_P_A = "40"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".959"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kubuski"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "12"
+F_P_A = "34"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".958"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dixon"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "12"
+F_P_A = "42"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".947"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Woodward"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "6"
+F_P_A = "26"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "James"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "6"
+F_P_A = "24"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".938"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Colone"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "9"
+F_P_A = "20"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".935"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pate"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "8"
+F_P_A = "20"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Soven"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "7"
+F_P_A = "42"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".925"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "DelMonte"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "3"
+F_P_A = "30"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Vartanian"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "7"
+F_P_A = "26"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Medlin"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "3"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Doherty"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "11"
+F_P_A = "20"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".912"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Atzrott"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "12"
+F_P_A = "19"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".912"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ogden"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "0"
+F_P_A = "17"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".895"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bankston"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "1"
+F_P_A = "16"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".895"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bartkowski"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "4"
+F_P_A = "21"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".893"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wilson"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "6"
+F_P_A = "19"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".893"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cudd"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "5"
+F_P_A = "18"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".885"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Copple"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "5"
+F_P_A = "25"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".882"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dwyer"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "17"
+F_P_A = "34"
+F_P_E = "7"
+F_P_DP = "3"
+F_P_PCT = ".879"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "4"
+F_P_A = "10"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Goforth"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "2"
+F_P_A = "17"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".864"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "F."
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "5"
+F_P_A = "24"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".853"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pearce"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "3"
+F_P_A = "13"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".842"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gardner"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "2"
+F_P_A = "17"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".826"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Scherzer"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fayetteville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "3"
+F_P_A = "11"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".824"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Scherer"
+description.throws = "L"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "6"
+F_P_A = "18"
+F_P_E = "6"
+F_P_DP = "1"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Intendola"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hamrick"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reidsville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "4"
+F_P_A = "10"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".778"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Calfee"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "1"
+F_P_A = "18"
+F_P_E = "6"
+F_P_DP = "0"
+F_P_PCT = ".760"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Glane"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "0"
+F_P_A = "9"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".750"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Graff"
+[[person.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "1"
+F_P_A = "1"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".667"
+F_P_TP = "0"

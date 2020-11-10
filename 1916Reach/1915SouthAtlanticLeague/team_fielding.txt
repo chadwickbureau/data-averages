@@ -1,0 +1,110 @@
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "94"
+F_PO = "2259"
+F_A = "925"
+F_E = "94"
+F_PCT = ".971"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "88"
+F_PO = "2131"
+F_A = "1143"
+F_E = "120"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "96"
+F_PO = "2415"
+F_A = "1146"
+F_E = "158"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "90"
+F_PO = "2397"
+F_A = "973"
+F_E = "151"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "88"
+F_PO = "2307"
+F_A = "982"
+F_E = "162"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "88"
+F_PO = "2453"
+F_A = "1365"
+F_E = "212"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "89"
+F_PO = "2208"
+F_A = "1051"
+F_E = "197"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "90"
+F_PO = "1760"
+F_A = "859"
+F_E = "166"
+F_PCT = ".940"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Landis"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "105"
+F_PB = "3"
+F_PO = "3208"
+F_A = "1369"
+F_E = "213"
+F_PCT = ".956"
+F_TP = "1"
+
+
+[[team]]
+name = "High Point-Thomasville"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "111"
+F_PB = "1"
+F_PO = "3161"
+F_A = "1331"
+F_E = "243"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Statesville"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "118"
+F_PB = "2"
+F_PO = "3160"
+F_A = "1404"
+F_E = "247"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Mooresville"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "102"
+F_PB = "0"
+F_PO = "3199"
+F_A = "1472"
+F_E = "257"
+F_PCT = ".948"
+F_TP = "0"
+
+
+[[team]]
+name = "Concord"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "123"
+F_PB = "6"
+F_PO = "3133"
+F_A = "1383"
+F_E = "253"
+F_PCT = ".947"
+F_TP = "1"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "121"
+F_PB = "9"
+F_PO = "3076"
+F_A = "1380"
+F_E = "266"
+F_PCT = ".944"
+F_TP = "0"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "77"
+F_PB = "8"
+F_PO = "3204"
+F_A = "1283"
+F_E = "280"
+F_PCT = ".941"
+F_TP = "2"
+
+
+[[team]]
+name = "Hickory"
+[[team.playing]]
+season = "1949"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "107"
+F_PB = "7"
+F_PO = "3114"
+F_A = "1485"
+F_E = "301"
+F_PCT = ".939"
+F_TP = "1"

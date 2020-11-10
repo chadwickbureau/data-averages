@@ -1,0 +1,3061 @@
+[[person]]
+name.last = "George"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "121"
+F_1B_PO = "1125"
+F_1B_A = "47"
+F_1B_E = "14"
+F_1B_DP = "102"
+F_1B_PCT = ".988"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "117"
+F_1B_PO = "956"
+F_1B_A = "44"
+F_1B_E = "14"
+F_1B_DP = "58"
+F_1B_PCT = ".986"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Larson"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "62"
+F_1B_PO = "534"
+F_1B_A = "30"
+F_1B_E = "11"
+F_1B_DP = "53"
+F_1B_PCT = ".981"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "58"
+F_1B_PO = "541"
+F_1B_A = "22"
+F_1B_E = "11"
+F_1B_DP = "31"
+F_1B_PCT = ".981"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Glover"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "21"
+F_1B_PO = "130"
+F_1B_A = "20"
+F_1B_E = "3"
+F_1B_DP = "18"
+F_1B_PCT = ".980"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Mick"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "77"
+F_1B_PO = "657"
+F_1B_A = "42"
+F_1B_E = "15"
+F_1B_DP = "38"
+F_1B_PCT = ".979"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Catalano"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "32"
+F_1B_PO = "313"
+F_1B_A = "10"
+F_1B_E = "8"
+F_1B_DP = "22"
+F_1B_PCT = ".976"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Edgar"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "20"
+F_1B_PO = "139"
+F_1B_A = "3"
+F_1B_E = "4"
+F_1B_DP = "13"
+F_1B_PCT = ".973"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Bekeza"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "48"
+F_1B_PO = "276"
+F_1B_A = "15"
+F_1B_E = "9"
+F_1B_DP = "52"
+F_1B_PCT = ".970"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Gibson"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "86"
+F_1B_PO = "739"
+F_1B_A = "37"
+F_1B_E = "34"
+F_1B_DP = "37"
+F_1B_PCT = ".958"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Hardcastle"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "37"
+F_1B_PO = "325"
+F_1B_A = "16"
+F_1B_E = "15"
+F_1B_DP = "10"
+F_1B_PCT = ".958"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Harmon"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "12"
+F_1B_PO = "114"
+F_1B_A = "6"
+F_1B_E = "6"
+F_1B_DP = "5"
+F_1B_PCT = ".952"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "O'Conner"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "20"
+F_2B_PO = "46"
+F_2B_A = "48"
+F_2B_E = "3"
+F_2B_DP = "8"
+F_2B_PCT = ".969"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Stanton"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "88"
+F_2B_PO = "247"
+F_2B_A = "243"
+F_2B_E = "18"
+F_2B_DP = "48"
+F_2B_PCT = ".965"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Della Betta"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "95"
+F_2B_PO = "244"
+F_2B_A = "263"
+F_2B_E = "21"
+F_2B_DP = "83"
+F_2B_PCT = ".960"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "97"
+F_2B_PO = "322"
+F_2B_A = "282"
+F_2B_E = "28"
+F_2B_DP = "48"
+F_2B_PCT = ".956"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Stalions"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "32"
+F_2B_PO = "105"
+F_2B_A = "114"
+F_2B_E = "10"
+F_2B_DP = "12"
+F_2B_PCT = ".956"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Poelker"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "54"
+F_2B_PO = "120"
+F_2B_A = "152"
+F_2B_E = "16"
+F_2B_DP = "21"
+F_2B_PCT = ".945"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Monteil"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "105"
+F_2B_PO = "253"
+F_2B_A = "325"
+F_2B_E = "36"
+F_2B_DP = "58"
+F_2B_PCT = ".941"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Matschat"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "10"
+F_2B_PO = "19"
+F_2B_A = "25"
+F_2B_E = "3"
+F_2B_DP = "4"
+F_2B_PCT = ".936"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Callo"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "27"
+F_2B_PO = "65"
+F_2B_A = "78"
+F_2B_E = "9"
+F_2B_DP = "10"
+F_2B_PCT = ".932"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Cruse"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "52"
+F_2B_A = "61"
+F_2B_E = "9"
+F_2B_DP = "5"
+F_2B_PCT = ".926"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "45"
+F_2B_A = "63"
+F_2B_E = "9"
+F_2B_DP = "9"
+F_2B_PCT = ".923"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Petkus"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "30"
+F_2B_A = "46"
+F_2B_E = "7"
+F_2B_DP = "1"
+F_2B_PCT = ".916"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Peterson"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "28"
+F_2B_PO = "58"
+F_2B_A = "60"
+F_2B_E = "11"
+F_2B_DP = "5"
+F_2B_PCT = ".915"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Keeling"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "21"
+F_2B_PO = "44"
+F_2B_A = "54"
+F_2B_E = "11"
+F_2B_DP = "4"
+F_2B_PCT = ".899"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Zeiser"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "38"
+F_2B_A = "44"
+F_2B_E = "10"
+F_2B_DP = "6"
+F_2B_PCT = ".891"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gatto"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "118"
+F_3B_PO = "154"
+F_3B_A = "256"
+F_3B_E = "22"
+F_3B_DP = "35"
+F_3B_PCT = ".950"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Tuggle"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "113"
+F_3B_PO = "139"
+F_3B_A = "249"
+F_3B_E = "30"
+F_3B_DP = "19"
+F_3B_PCT = ".928"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Herman"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "67"
+F_3B_PO = "76"
+F_3B_A = "146"
+F_3B_E = "18"
+F_3B_DP = "15"
+F_3B_PCT = ".922"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Spear"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "28"
+F_3B_PO = "41"
+F_3B_A = "57"
+F_3B_E = "9"
+F_3B_DP = "3"
+F_3B_PCT = ".916"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Comer"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "23"
+F_3B_A = "31"
+F_3B_E = "5"
+F_3B_DP = "3"
+F_3B_PCT = ".915"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Zeiser"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "33"
+F_3B_PO = "34"
+F_3B_A = "90"
+F_3B_E = "12"
+F_3B_DP = "4"
+F_3B_PCT = ".912"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Shreve"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "60"
+F_3B_PO = "71"
+F_3B_A = "141"
+F_3B_E = "21"
+F_3B_DP = "16"
+F_3B_PCT = ".910"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Hegan"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "16"
+F_3B_PO = "16"
+F_3B_A = "31"
+F_3B_E = "5"
+F_3B_DP = "3"
+F_3B_PCT = ".904"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Poelker"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "33"
+F_3B_PO = "38"
+F_3B_A = "64"
+F_3B_E = "14"
+F_3B_DP = "4"
+F_3B_PCT = ".879"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Popovich"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "23"
+F_3B_A = "28"
+F_3B_E = "7"
+F_3B_DP = "3"
+F_3B_PCT = ".879"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Oliver"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "119"
+F_3B_PO = "159"
+F_3B_A = "229"
+F_3B_E = "51"
+F_3B_DP = "6"
+F_3B_PCT = ".884"
+F_3B_TP = "1"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "47"
+F_3B_PO = "48"
+F_3B_A = "77"
+F_3B_E = "20"
+F_3B_DP = "4"
+F_3B_PCT = ".862"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Wagner"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "17"
+F_3B_PO = "18"
+F_3B_A = "30"
+F_3B_E = "10"
+F_3B_DP = "1"
+F_3B_PCT = ".828"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "95"
+F_SS_PO = "196"
+F_SS_A = "283"
+F_SS_E = "32"
+F_SS_DP = "67"
+F_SS_PCT = ".937"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Huff"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "58"
+F_SS_PO = "110"
+F_SS_A = "193"
+F_SS_E = "26"
+F_SS_DP = "32"
+F_SS_PCT = ".921"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Bridenbach"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "119"
+F_SS_PO = "198"
+F_SS_A = "343"
+F_SS_E = "47"
+F_SS_DP = "28"
+F_SS_PCT = ".920"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Asal"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "118"
+F_SS_PO = "246"
+F_SS_A = "335"
+F_SS_E = "53"
+F_SS_DP = "67"
+F_SS_PCT = ".916"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Stalions"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "63"
+F_SS_PO = "118"
+F_SS_A = "157"
+F_SS_E = "26"
+F_SS_DP = "21"
+F_SS_PCT = ".914"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Ittner"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "35"
+F_SS_PO = "50"
+F_SS_A = "89"
+F_SS_E = "13"
+F_SS_DP = "7"
+F_SS_PCT = ".914"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Poelker"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "15"
+F_SS_PO = "29"
+F_SS_A = "52"
+F_SS_E = "8"
+F_SS_DP = "4"
+F_SS_PCT = ".910"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Zeiser"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "16"
+F_SS_A = "22"
+F_SS_E = "4"
+F_SS_DP = "1"
+F_SS_PCT = ".905"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Queen"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "53"
+F_SS_PO = "98"
+F_SS_A = "146"
+F_SS_E = "26"
+F_SS_DP = "14"
+F_SS_PCT = ".904"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Sarie"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "26"
+F_SS_PO = "53"
+F_SS_A = "66"
+F_SS_E = "13"
+F_SS_DP = "12"
+F_SS_PCT = ".902"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Shreve"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "52"
+F_SS_PO = "104"
+F_SS_A = "140"
+F_SS_E = "28"
+F_SS_DP = "23"
+F_SS_PCT = ".897"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Piland"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "13"
+F_SS_PO = "13"
+F_SS_A = "44"
+F_SS_E = "9"
+F_SS_DP = "5"
+F_SS_PCT = ".864"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Popovich"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "45"
+F_SS_PO = "95"
+F_SS_A = "132"
+F_SS_E = "38"
+F_SS_DP = "15"
+F_SS_PCT = ".857"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Urban"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "29"
+F_OF_A = "3"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wishba"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "12"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wagner"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "103"
+F_OF_PO = "218"
+F_OF_A = "5"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".978"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Whorley"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "24"
+F_OF_PO = "38"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".976"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bleyer"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "54"
+F_OF_PO = "91"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".969"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Dunkovich"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "117"
+F_OF_PO = "316"
+F_OF_A = "17"
+F_OF_E = "12"
+F_OF_DP = "2"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Houseman"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "109"
+F_OF_PO = "204"
+F_OF_A = "17"
+F_OF_E = "8"
+F_OF_DP = "4"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kovalcik"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "111"
+F_OF_PO = "196"
+F_OF_A = "13"
+F_OF_E = "8"
+F_OF_DP = "3"
+F_OF_PCT = ".963"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Keeling"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "72"
+F_OF_PO = "118"
+F_OF_A = "6"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".961"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hornsby"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "71"
+F_OF_PO = "162"
+F_OF_A = "10"
+F_OF_E = "8"
+F_OF_DP = "1"
+F_OF_PCT = ".956"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cassidy"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "22"
+F_OF_PO = "20"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".955"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "111"
+F_OF_PO = "172"
+F_OF_A = "17"
+F_OF_E = "10"
+F_OF_DP = "1"
+F_OF_PCT = ".950"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Herman"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "22"
+F_OF_PO = "38"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".950"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Serefini"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "34"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".950"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Harmon"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "104"
+F_OF_PO = "169"
+F_OF_A = "15"
+F_OF_E = "11"
+F_OF_DP = "2"
+F_OF_PCT = ".944"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Popovich"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "42"
+F_OF_PO = "81"
+F_OF_A = "3"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".944"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "56"
+F_OF_PO = "108"
+F_OF_A = "4"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".941"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bekeza"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "29"
+F_OF_A = "3"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".941"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Joyner"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "121"
+F_OF_PO = "250"
+F_OF_A = "12"
+F_OF_E = "17"
+F_OF_DP = "1"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Martz"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "119"
+F_OF_PO = "202"
+F_OF_A = "10"
+F_OF_E = "14"
+F_OF_DP = "2"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "O."
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "99"
+F_OF_PO = "215"
+F_OF_A = "16"
+F_OF_E = "15"
+F_OF_DP = "4"
+F_OF_PCT = ".939"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hirsimaki"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "35"
+F_OF_PO = "40"
+F_OF_A = "3"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".935"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Peterson"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "27"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".935"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "76"
+F_OF_PO = "129"
+F_OF_A = "11"
+F_OF_E = "10"
+F_OF_DP = "2"
+F_OF_PCT = ".933"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Nelms"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "91"
+F_OF_PO = "127"
+F_OF_A = "8"
+F_OF_E = "10"
+F_OF_DP = "4"
+F_OF_PCT = ".931"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pearson"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "24"
+F_OF_PO = "23"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".926"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hrovatic"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "103"
+F_OF_PO = "219"
+F_OF_A = "16"
+F_OF_E = "21"
+F_OF_DP = "3"
+F_OF_PCT = ".918"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Weiland"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "21"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".917"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hale"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "121"
+F_OF_PO = "180"
+F_OF_A = "20"
+F_OF_E = "20"
+F_OF_DP = "1"
+F_OF_PCT = ".909"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Naples"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "49"
+F_OF_A = "1"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".893"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "A."
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "49"
+F_OF_PO = "42"
+F_OF_A = "5"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".887"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Arnold"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "49"
+F_OF_A = "1"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".877"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Raley"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "45"
+F_OF_A = "5"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".877"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Spear"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "13"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".867"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Moss"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "26"
+F_OF_A = "4"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".857"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wilkes"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "70"
+F_C_PO = "354"
+F_C_A = "49"
+F_C_E = "7"
+F_C_DP = "6"
+F_C_PB = "5"
+F_C_PCT = ".983"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dobrino"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "23"
+F_C_PO = "145"
+F_C_A = "7"
+F_C_E = "3"
+F_C_DP = "3"
+F_C_PB = "6"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Gatts"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "104"
+F_C_PO = "555"
+F_C_A = "67"
+F_C_E = "14"
+F_C_DP = "12"
+F_C_PB = "11"
+F_C_PCT = ".978"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Jesse"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "37"
+F_C_PO = "217"
+F_C_A = "34"
+F_C_E = "6"
+F_C_DP = "2"
+F_C_PB = "4"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Savick"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "19"
+F_C_PO = "115"
+F_C_A = "13"
+F_C_E = "3"
+F_C_DP = "2"
+F_C_PB = "3"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bekeza"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "176"
+F_C_A = "18"
+F_C_E = "5"
+F_C_DP = "2"
+F_C_PB = "4"
+F_C_PCT = ".975"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Anthony"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "89"
+F_C_PO = "516"
+F_C_A = "50"
+F_C_E = "16"
+F_C_DP = "6"
+F_C_PB = "5"
+F_C_PCT = ".973"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Spear"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "34"
+F_C_PO = "248"
+F_C_A = "21"
+F_C_E = "8"
+F_C_DP = "3"
+F_C_PB = "0"
+F_C_PCT = ".971"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "O'Connor"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "63"
+F_C_PO = "342"
+F_C_A = "56"
+F_C_E = "16"
+F_C_DP = "1"
+F_C_PB = "3"
+F_C_PCT = ".961"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Kearse"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "16"
+F_C_PO = "91"
+F_C_A = "7"
+F_C_E = "4"
+F_C_DP = "2"
+F_C_PB = "1"
+F_C_PCT = ".961"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Nelms"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "22"
+F_C_PO = "117"
+F_C_A = "23"
+F_C_E = "6"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".959"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Herron"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "82"
+F_C_PO = "383"
+F_C_A = "60"
+F_C_E = "20"
+F_C_DP = "7"
+F_C_PB = "12"
+F_C_PCT = ".957"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dickens"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "55"
+F_C_PO = "168"
+F_C_A = "45"
+F_C_E = "12"
+F_C_DP = "12"
+F_C_PB = "1"
+F_C_PCT = ".955"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "A."
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "65"
+F_C_PO = "335"
+F_C_A = "45"
+F_C_E = "22"
+F_C_DP = "4"
+F_C_PB = "3"
+F_C_PCT = ".945"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Tice"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "24"
+F_C_PO = "108"
+F_C_A = "13"
+F_C_E = "7"
+F_C_DP = "1"
+F_C_PB = "1"
+F_C_PCT = ".945"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Ackerman"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "2"
+F_P_A = "37"
+F_P_E = "0"
+F_P_DP = "5"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Victor"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "4"
+F_P_A = "22"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Goodwin"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[[person.playing.split]]
+team.name = "Belleville"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "5"
+F_P_A = "14"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Veal"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "0"
+F_P_A = "22"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bracken"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "6"
+F_P_A = "20"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tarver"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "7"
+F_P_A = "19"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wheeler"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "3"
+F_P_A = "13"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hoffmeister"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "6"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fowler"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "1"
+F_P_A = "5"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Edgar"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "10"
+F_P_A = "26"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".973"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Prucha"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "5"
+F_P_A = "62"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Patchett"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "6"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".969"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Birkeland"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "5"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".968"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Westhoff"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "3"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".965"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Radomski"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "2"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Deibler"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "2"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".960"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hill"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "3"
+F_P_A = "20"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".958"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Oste"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "3"
+F_P_A = "39"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Michalec"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "10"
+F_P_A = "51"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".953"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kleedorfer"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "3"
+F_P_A = "17"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kerr"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "9"
+F_P_A = "37"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".947"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Urban"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "7"
+F_P_A = "45"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".945"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Owen"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "0"
+F_P_A = "16"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Matitis"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "6"
+F_P_A = "39"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".938"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hawley"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "7"
+F_P_A = "38"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".938"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "7"
+F_P_A = "34"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".832"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Daily"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "12"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Reagan"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "3"
+F_P_A = "25"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".926"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bekeza"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "0"
+F_P_A = "12"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ecklund"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "5"
+F_P_A = "29"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".919"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Deem"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "8"
+F_P_A = "26"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".919"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Santulli"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "8"
+F_P_A = "26"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".919"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "H."
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "11"
+F_P_A = "45"
+F_P_E = "5"
+F_P_DP = "3"
+F_P_PCT = ".918"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Applegate"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "4"
+F_P_A = "18"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Miskell"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "4"
+F_P_A = "18"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".917"
+F_P_TP = "1"
+
+
+[[person]]
+name.last = "Gamble"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "2"
+F_P_A = "30"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".914"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Eaves"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "4"
+F_P_A = "36"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rudolph"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "7"
+F_P_A = "62"
+F_P_E = "7"
+F_P_DP = "2"
+F_P_PCT = ".908"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Leach"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "5"
+F_P_A = "24"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Loeser"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "7"
+F_P_A = "38"
+F_P_E = "5"
+F_P_DP = "3"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Marlow"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "5"
+F_P_A = "28"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".892"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Grove"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "2"
+F_P_A = "25"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".891"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fenchak"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "3"
+F_P_A = "13"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kelly"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paducah"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "7"
+F_P_A = "36"
+F_P_E = "6"
+F_P_DP = "0"
+F_P_PCT = ".878"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gisinger"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "2"
+F_P_A = "29"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".861"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cassidy"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "4"
+F_P_A = "35"
+F_P_E = "7"
+F_P_DP = "0"
+F_P_PCT = ".848"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fabris"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "9"
+F_P_A = "35"
+F_P_E = "8"
+F_P_DP = "5"
+F_P_PCT = ".846"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fiori"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "20"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".808"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Luebbers"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mattoon"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "0"
+F_P_A = "9"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".750"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gabler"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "3"
+F_P_A = "12"
+F_P_E = "5"
+F_P_DP = "1"
+F_P_PCT = ".750"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bloxam"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mount Vernon"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "1"
+F_P_A = "20"
+F_P_E = "8"
+F_P_DP = "0"
+F_P_PCT = ".724"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "O'Connor"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_POS = "UT"
+F_G = "11"
+F_PO = "22"
+F_A = "26"
+F_E = "6"
+F_DP = "4"
+F_PB = "0"
+F_PCT = ".889"
+F_TP = "0"
+
+
+[[person]]
+name.last = "Payne"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Frankfort"
+[person.playing.totals]
+F_POS = "UT"
+F_G = "10"
+F_PO = "22"
+F_A = "26"
+F_E = "7"
+F_DP = "6"
+F_PB = "0"
+F_PCT = ".873"
+F_TP = "0"
+
+
+[[person]]
+name.last = "Turley"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_POS = "UT"
+F_G = "10"
+F_PO = "0"
+F_A = "11"
+F_E = "3"
+F_DP = "1"
+F_PB = "0"
+F_PCT = ".786"
+F_TP = "0"
+
+
+[[person]]
+name.last = "Ittner"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Belleville"
+[person.playing.totals]
+F_POS = "UT"
+F_G = "14"
+F_PO = "13"
+F_A = "8"
+F_E = "6"
+F_DP = "1"
+F_PB = "0"
+F_PCT = ".778"
+F_TP = "0"
+
+
+[[person]]
+name.last = "Edgar"
+[[person.playing]]
+season = "1949"
+league.name = "Mississippi-Ohio Valley League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centralia"
+[person.playing.totals]
+F_POS = "UT"
+F_G = "13"
+F_PO = "7"
+F_A = "2"
+F_E = "3"
+F_DP = "0"
+F_PB = "0"
+F_PCT = ".750"
+F_TP = "0"

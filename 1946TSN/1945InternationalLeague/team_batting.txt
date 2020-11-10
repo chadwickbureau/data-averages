@@ -1,0 +1,190 @@
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5007"
+B_R = "861"
+B_H = "1443"
+B_TB = "2013"
+B_2B = "240"
+B_3B = "54"
+B_HR = "74"
+B_SH = "163"
+B_SB = "95"
+B_RBI = "766"
+B_BB = "686"
+B_SO = "505"
+B_HP = "33"
+B_AVG = ".288"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5118"
+B_R = "750"
+B_H = "1404"
+B_TB = "2090"
+B_2B = "259"
+B_3B = "44"
+B_HR = "113"
+B_SH = "58"
+B_SB = "47"
+B_RBI = "695"
+B_BB = "458"
+B_SO = "507"
+B_HP = "33"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4936"
+B_R = "772"
+B_H = "1327"
+B_TB = "1915"
+B_2B = "205"
+B_3B = "40"
+B_HR = "101"
+B_SH = "120"
+B_SB = "204"
+B_RBI = "670"
+B_BB = "605"
+B_SO = "510"
+B_HP = "31"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4953"
+B_R = "753"
+B_H = "1321"
+B_TB = "1758"
+B_2B = "195"
+B_3B = "49"
+B_HR = "48"
+B_SH = "75"
+B_SB = "157"
+B_RBI = "665"
+B_BB = "685"
+B_SO = "419"
+B_HP = "24"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4942"
+B_R = "870"
+B_H = "1317"
+B_TB = "2062"
+B_2B = "202"
+B_3B = "54"
+B_HR = "145"
+B_SH = "98"
+B_SB = "79"
+B_RBI = "793"
+B_BB = "774"
+B_SO = "541"
+B_HP = "28"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4916"
+B_R = "687"
+B_H = "1273"
+B_TB = "1637"
+B_2B = "168"
+B_3B = "59"
+B_HR = "26"
+B_SH = "104"
+B_SB = "120"
+B_RBI = "605"
+B_BB = "598"
+B_SO = "436"
+B_HP = "32"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4810"
+B_R = "771"
+B_H = "1243"
+B_TB = "1665"
+B_2B = "180"
+B_3B = "37"
+B_HR = "56"
+B_SH = "90"
+B_SB = "114"
+B_RBI = "666"
+B_BB = "779"
+B_SO = "423"
+B_HP = "43"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1945"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4853"
+B_R = "671"
+B_H = "1246"
+B_TB = "1718"
+B_2B = "175"
+B_3B = "51"
+B_HR = "65"
+B_SH = "102"
+B_SB = "68"
+B_RBI = "592"
+B_BB = "547"
+B_SO = "432"
+B_HP = "19"
+B_AVG = ".257"

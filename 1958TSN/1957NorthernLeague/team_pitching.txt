@@ -1,0 +1,198 @@
+[[team]]
+name = "Duluth-Superior"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "125"
+P_CG = "57"
+P_SHO = "17"
+P_IP = "1064"
+P_AB = "4096"
+P_H = "1037"
+P_HR = "43"
+P_R = "458"
+P_ER = "348"
+P_SH = "79"
+P_BB = "368"
+P_SO = "616"
+P_HP = "29"
+P_WP = "29"
+P_BK = "5"
+P_ERA = "2.94"
+
+
+[[team]]
+name = "Fargo-Moorhead"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "122"
+P_CG = "69"
+P_SHO = "10"
+P_IP = "1042"
+P_AB = "3950"
+P_H = "943"
+P_HR = "72"
+P_R = "474"
+P_ER = "382"
+P_SH = "87"
+P_BB = "428"
+P_SO = "717"
+P_HP = "21"
+P_WP = "47"
+P_BK = "6"
+P_ERA = "3.30"
+
+
+[[team]]
+name = "St. Cloud"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "123"
+P_CG = "51"
+P_SHO = "6"
+P_IP = "1071"
+P_AB = "4044"
+P_H = "993"
+P_HR = "65"
+P_R = "524"
+P_ER = "409"
+P_SH = "91"
+P_BB = "477"
+P_SO = "715"
+P_HP = "41"
+P_WP = "54"
+P_BK = "4"
+P_ERA = "3.44"
+
+
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "122"
+P_CG = "65"
+P_SHO = "9"
+P_IP = "1055"
+P_AB = "3882"
+P_H = "915"
+P_HR = "67"
+P_R = "486"
+P_ER = "409"
+P_SH = "102"
+P_BB = "529"
+P_SO = "732"
+P_HP = "39"
+P_WP = "40"
+P_BK = "6"
+P_ERA = "3.49"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "125"
+P_CG = "59"
+P_SHO = "12"
+P_IP = "1072"
+P_AB = "4082"
+P_H = "1016"
+P_HR = "67"
+P_R = "593"
+P_ER = "473"
+P_SH = "99"
+P_BB = "597"
+P_SO = "731"
+P_HP = "23"
+P_WP = "56"
+P_BK = "2"
+P_ERA = "3.97"
+
+
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "121"
+P_CG = "40"
+P_SHO = "8"
+P_IP = "1044"
+P_AB = "4014"
+P_H = "1052"
+P_HR = "83"
+P_R = "601"
+P_ER = "477"
+P_SH = "98"
+P_BB = "484"
+P_SO = "607"
+P_HP = "31"
+P_WP = "54"
+P_BK = "4"
+P_ERA = "4.11"
+
+
+[[team]]
+name = "Grand Forks"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "125"
+P_CG = "47"
+P_SHO = "4"
+P_IP = "1071"
+P_AB = "4134"
+P_H = "1124"
+P_HR = "66"
+P_R = "619"
+P_ER = "515"
+P_SH = "109"
+P_BB = "473"
+P_SO = "768"
+P_HP = "27"
+P_WP = "75"
+P_BK = "4"
+P_ERA = "4.33"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+P_G = "121"
+P_CG = "46"
+P_SHO = "4"
+P_IP = "1027"
+P_AB = "3963"
+P_H = "1064"
+P_HR = "88"
+P_R = "618"
+P_ER = "514"
+P_SH = "99"
+P_BB = "506"
+P_SO = "617"
+P_HP = "31"
+P_WP = "34"
+P_BK = "6"
+P_ERA = "4.50"

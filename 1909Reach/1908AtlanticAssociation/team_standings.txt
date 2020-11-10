@@ -1,0 +1,76 @@
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "8"
+R_L = "3"
+R_PCT = ".727"
+R_RANK = "1"
+
+
+[[team]]
+name = "Pawtucket"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "6"
+R_L = "3"
+R_PCT = ".667"
+R_RANK = "2"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "6"
+R_L = "3"
+R_PCT = ".667"
+R_RANK = "3"
+
+
+[[team]]
+name = "Newport"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "4"
+R_L = "4"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Attleboro"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "1"
+R_L = "11"
+R_PCT = ".083"
+R_RANK = "5"
+
+
+[[team]]
+name = "Woonsocket"
+[[team.playing]]
+season = "1908"
+league.name = "Atlantic Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "0"
+R_L = "1"
+R_PCT = ".000"
+R_RANK = "6"

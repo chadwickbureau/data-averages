@@ -1,0 +1,134 @@
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "175"
+F_PB = "13"
+F_PO = "3598"
+F_A = "1722"
+F_E = "196"
+F_TP = "0"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "129"
+F_PB = "15"
+F_PO = "3546"
+F_A = "1470"
+F_E = "191"
+F_TP = "0"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "110"
+F_PB = "18"
+F_PO = "3701"
+F_A = "1445"
+F_E = "228"
+F_TP = "0"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Sunbury"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "94"
+F_PB = "22"
+F_PO = "3618"
+F_A = "1516"
+F_E = "233"
+F_TP = "0"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "99"
+F_PB = "12"
+F_PO = "3471"
+F_A = "1377"
+F_E = "231"
+F_TP = "0"
+F_PCT = ".955"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "120"
+F_PB = "10"
+F_PO = "3585"
+F_A = "1643"
+F_E = "252"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "117"
+F_PB = "9"
+F_PO = "3537"
+F_A = "1514"
+F_E = "253"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1949"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "110"
+F_PB = "16"
+F_PO = "3583"
+F_A = "1706"
+F_E = "272"
+F_TP = "0"
+F_PCT = ".951"

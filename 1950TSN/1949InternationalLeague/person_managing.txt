@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Richards"
+name.given = "Paul"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Buffalo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Keane"
+name.given = "John"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rochester"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hopper"
+name.given = "Clay"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montreal"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Becker"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Jersey City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bissonette"
+name.given = "Delphia"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Toronto"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ens"
+name.given = "Jewel"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Syracuse"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "Alphonse (Tommy)"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Baltimore"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dunn"
+name.given = "Jack III"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Baltimore"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hassett"
+name.given = "John (Buddy)"
+[[person.managing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Newark"
+S_ORDER = "0"
+[person.managing.totals]

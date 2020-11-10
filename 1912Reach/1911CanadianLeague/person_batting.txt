@@ -1,0 +1,3003 @@
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "P"
+B_G = "10"
+B_AB = "27"
+B_R = "7"
+B_H = "12"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_TB = "18"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".444"
+
+
+[[person]]
+name.last = "Minnes"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "C"
+B_G = "20"
+B_AB = "67"
+B_R = "13"
+B_H = "27"
+B_2B = "8"
+B_3B = "0"
+B_HR = "0"
+B_TB = "35"
+B_SB = "2"
+B_SH = "1"
+B_AVG = ".403"
+
+
+[[person]]
+name.last = "Stewart"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "6"
+B_AB = "21"
+B_R = "5"
+B_H = "8"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_TB = "16"
+B_SB = "1"
+B_SH = "0"
+B_AVG = ".381"
+
+
+[[person]]
+name.last = "Bierbauer"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "1B"
+B_G = "75"
+B_AB = "275"
+B_R = "56"
+B_H = "101"
+B_2B = "9"
+B_3B = "3"
+B_HR = "2"
+B_TB = "120"
+B_SB = "16"
+B_SH = "22"
+B_AVG = ".367"
+
+
+[[person]]
+name.last = "Grieve"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "50"
+B_AB = "196"
+B_R = "30"
+B_H = "72"
+B_2B = "6"
+B_3B = "5"
+B_HR = "0"
+B_TB = "88"
+B_SB = "8"
+B_SH = "9"
+B_AVG = ".367"
+
+
+[[person]]
+name.last = "Barry"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "1B"
+B_G = "95"
+B_AB = "394"
+B_R = "67"
+B_H = "141"
+B_2B = "18"
+B_3B = "3"
+B_HR = "5"
+B_TB = "181"
+B_SB = "14"
+B_SH = "12"
+B_AVG = ".359"
+
+
+[[person]]
+name.last = "Duffy"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "33"
+B_AB = "113"
+B_R = "18"
+B_H = "40"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_TB = "47"
+B_SB = "11"
+B_SH = "10"
+B_AVG = ".354"
+
+
+[[person]]
+name.last = "Greene"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "13"
+B_AB = "43"
+B_R = "5"
+B_H = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "16"
+B_SB = "1"
+B_SH = "6"
+B_AVG = ".348"
+
+
+[[person]]
+name.last = "Cameron"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "103"
+B_AB = "393"
+B_R = "89"
+B_H = "134"
+B_2B = "10"
+B_3B = "3"
+B_HR = "4"
+B_TB = "161"
+B_SB = "48"
+B_SH = "30"
+B_AVG = ".341"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "79"
+B_AB = "237"
+B_R = "40"
+B_H = "79"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_TB = "88"
+B_SB = "22"
+B_SH = "9"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Killilea"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "91"
+B_AB = "359"
+B_R = "82"
+B_H = "119"
+B_2B = "14"
+B_3B = "7"
+B_HR = "3"
+B_TB = "146"
+B_SB = "28"
+B_SH = "19"
+B_AVG = ".332"
+
+
+[[person]]
+name.last = "Kyle"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "85"
+B_AB = "317"
+B_R = "86"
+B_H = "104"
+B_2B = "13"
+B_3B = "9"
+B_HR = "2"
+B_TB = "143"
+B_SB = "47"
+B_SH = "5"
+B_AVG = ".327"
+
+
+[[person]]
+name.last = "Turner"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "P"
+B_G = "32"
+B_AB = "101"
+B_R = "16"
+B_H = "33"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_TB = "40"
+B_SB = "1"
+B_SH = "4"
+B_AVG = ".326"
+
+
+[[person]]
+name.last = "Brant"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "106"
+B_AB = "405"
+B_R = "69"
+B_H = "130"
+B_2B = "13"
+B_3B = "3"
+B_HR = "0"
+B_TB = "149"
+B_SB = "25"
+B_SH = "14"
+B_AVG = ".321"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "P"
+B_G = "36"
+B_AB = "107"
+B_R = "16"
+B_H = "34"
+B_2B = "9"
+B_3B = "5"
+B_HR = "1"
+B_TB = "52"
+B_SB = "1"
+B_SH = "2"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Barton"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "C"
+B_G = "78"
+B_AB = "293"
+B_R = "37"
+B_H = "93"
+B_2B = "15"
+B_3B = "10"
+B_HR = "1"
+B_TB = "127"
+B_SB = "9"
+B_SH = "4"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Lane"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "1B"
+B_G = "93"
+B_AB = "335"
+B_R = "58"
+B_H = "105"
+B_2B = "7"
+B_3B = "9"
+B_HR = "4"
+B_TB = "139"
+B_SB = "6"
+B_SH = "16"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Swartzmyer"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "48"
+B_AB = "204"
+B_R = "35"
+B_H = "63"
+B_2B = "7"
+B_3B = "3"
+B_HR = "2"
+B_TB = "80"
+B_SB = "9"
+B_SH = "1"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Templin"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "109"
+B_AB = "427"
+B_R = "71"
+B_H = "131"
+B_2B = "19"
+B_3B = "1"
+B_HR = "2"
+B_TB = "157"
+B_SB = "20"
+B_SH = "22"
+B_AVG = ".306"
+
+
+[[person]]
+name.last = "Forgue"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "71"
+B_AB = "253"
+B_R = "34"
+B_H = "77"
+B_2B = "6"
+B_3B = "3"
+B_HR = "0"
+B_TB = "88"
+B_SB = "18"
+B_SH = "16"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Bullock"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "69"
+B_AB = "261"
+B_R = "31"
+B_H = "79"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_TB = "82"
+B_SB = "16"
+B_SH = "8"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Bramble"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "P"
+B_G = "61"
+B_AB = "179"
+B_R = "38"
+B_H = "54"
+B_2B = "10"
+B_3B = "9"
+B_HR = "1"
+B_TB = "86"
+B_SB = "6"
+B_SH = "2"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Pancratz"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "46"
+B_AB = "192"
+B_R = "49"
+B_H = "59"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_TB = "65"
+B_SB = "12"
+B_SH = "2"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Keenan"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "104"
+B_AB = "400"
+B_R = "69"
+B_H = "120"
+B_2B = "13"
+B_3B = "4"
+B_HR = "2"
+B_TB = "144"
+B_SB = "33"
+B_SH = "20"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "99"
+B_AB = "353"
+B_R = "61"
+B_H = "106"
+B_2B = "7"
+B_3B = "0"
+B_HR = "1"
+B_TB = "112"
+B_SB = "22"
+B_SH = "14"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Kolseth"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "P"
+B_G = "65"
+B_AB = "224"
+B_R = "29"
+B_H = "69"
+B_2B = "7"
+B_3B = "7"
+B_HR = "4"
+B_TB = "99"
+B_SB = "3"
+B_SH = "8"
+B_AVG = ".299"
+
+
+[[person]]
+name.last = "Deneau"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "1B"
+B_G = "103"
+B_AB = "391"
+B_R = "74"
+B_H = "116"
+B_2B = "19"
+B_3B = "7"
+B_HR = "6"
+B_TB = "167"
+B_SB = "19"
+B_SH = "25"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Richardson"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "1B"
+B_G = "52"
+B_AB = "198"
+B_R = "34"
+B_H = "59"
+B_2B = "8"
+B_3B = "1"
+B_HR = "4"
+B_TB = "81"
+B_SB = "3"
+B_SH = "5"
+B_AVG = ".297"
+
+
+[[person]]
+name.last = "Orcutt"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "109"
+B_AB = "411"
+B_R = "63"
+B_H = "121"
+B_2B = "17"
+B_3B = "5"
+B_HR = "4"
+B_TB = "154"
+B_SB = "24"
+B_SH = "20"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Hess"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "C"
+B_G = "28"
+B_AB = "99"
+B_R = "8"
+B_H = "29"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_TB = "34"
+B_SB = "0"
+B_SH = "3"
+B_AVG = ".293"
+
+
+[[person]]
+name.last = "Carey"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "29"
+B_AB = "120"
+B_R = "13"
+B_H = "33"
+B_2B = "8"
+B_3B = "1"
+B_HR = "0"
+B_TB = "48"
+B_SB = "3"
+B_SH = "4"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Kane"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "104"
+B_AB = "492"
+B_R = "68"
+B_H = "114"
+B_2B = "26"
+B_3B = "5"
+B_HR = "7"
+B_TB = "172"
+B_SB = "29"
+B_SH = "13"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Keating"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "P"
+B_G = "44"
+B_AB = "104"
+B_R = "20"
+B_H = "30"
+B_2B = "2"
+B_3B = "1"
+B_HR = "5"
+B_TB = "49"
+B_SB = "1"
+B_SH = "6"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "66"
+B_AB = "247"
+B_R = "38"
+B_H = "71"
+B_2B = "14"
+B_3B = "5"
+B_HR = "2"
+B_TB = "102"
+B_SB = "7"
+B_SH = "7"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Elliot"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "78"
+B_AB = "261"
+B_R = "29"
+B_H = "75"
+B_2B = "19"
+B_3B = "3"
+B_HR = "0"
+B_TB = "97"
+B_SB = "5"
+B_SH = "2"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "J."
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "20"
+B_AB = "73"
+B_R = "19"
+B_H = "21"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_TB = "26"
+B_SB = "5"
+B_SH = "2"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Weidel"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "P"
+B_G = "9"
+B_AB = "28"
+B_R = "2"
+B_H = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_TB = "8"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Hackbush"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "83"
+B_AB = "324"
+B_R = "52"
+B_H = "93"
+B_2B = "28"
+B_3B = "3"
+B_HR = "1"
+B_TB = "129"
+B_SB = "9"
+B_SH = "5"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Teed"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "P"
+B_G = "32"
+B_AB = "67"
+B_R = "5"
+B_H = "19"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_TB = "25"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".283"
+
+
+[[person]]
+name.last = "Brandow"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "63"
+B_AB = "225"
+B_R = "36"
+B_H = "66"
+B_2B = "10"
+B_3B = "1"
+B_HR = "1"
+B_TB = "80"
+B_SB = "7"
+B_SH = "8"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Courtney"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "64"
+B_AB = "217"
+B_R = "34"
+B_H = "63"
+B_2B = "9"
+B_3B = "8"
+B_HR = "4"
+B_TB = "99"
+B_SB = "13"
+B_SH = "20"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Quinn"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "P"
+B_G = "23"
+B_AB = "65"
+B_R = "9"
+B_H = "18"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_TB = "14"
+B_SB = "5"
+B_SH = "2"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Conlay"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "C"
+B_G = "83"
+B_AB = "289"
+B_R = "51"
+B_H = "79"
+B_2B = "6"
+B_3B = "3"
+B_HR = "2"
+B_TB = "96"
+B_SB = "17"
+B_SH = "13"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Harrison"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "21"
+B_AB = "78"
+B_R = "16"
+B_H = "21"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_TB = "25"
+B_SB = "3"
+B_SH = "4"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "M Whirter"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "C"
+B_G = "78"
+B_AB = "242"
+B_R = "31"
+B_H = "64"
+B_2B = "10"
+B_3B = "4"
+B_HR = "2"
+B_TB = "84"
+B_SB = "12"
+B_SH = "5"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "C"
+B_G = "88"
+B_AB = "322"
+B_R = "15"
+B_H = "86"
+B_2B = "16"
+B_3B = "2"
+B_HR = "0"
+B_TB = "101"
+B_SB = "11"
+B_SH = "12"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Lamond"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "C"
+B_G = "86"
+B_AB = "256"
+B_R = "46"
+B_H = "68"
+B_2B = "9"
+B_3B = "6"
+B_HR = "1"
+B_TB = "87"
+B_SB = "5"
+B_SH = "8"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Kopp"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "106"
+B_AB = "407"
+B_R = "55"
+B_H = "118"
+B_2B = "24"
+B_3B = "14"
+B_HR = "2"
+B_TB = "176"
+B_SB = "20"
+B_SH = "5"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Howick"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "P"
+B_G = "35"
+B_AB = "183"
+B_R = "13"
+B_H = "48"
+B_2B = "5"
+B_3B = "2"
+B_HR = "1"
+B_TB = "60"
+B_SB = "2"
+B_SH = "10"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "Phelan"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "28"
+B_AB = "96"
+B_R = "13"
+B_H = "25"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_TB = "25"
+B_SB = "1"
+B_SH = "6"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Isaacs"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "67"
+B_AB = "247"
+B_R = "28"
+B_H = "64"
+B_2B = "5"
+B_3B = "4"
+B_HR = "2"
+B_TB = "80"
+B_SB = "4"
+B_SH = "3"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Edmunds"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "18"
+B_AB = "53"
+B_R = "2"
+B_H = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_TB = "17"
+B_SB = "8"
+B_SH = "0"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Fleish"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "27"
+B_AB = "105"
+B_R = "10"
+B_H = "26"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_TB = "33"
+B_SB = "3"
+B_SH = "1"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Rose"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "P"
+B_G = "79"
+B_AB = "243"
+B_R = "31"
+B_H = "62"
+B_2B = "10"
+B_3B = "2"
+B_HR = "0"
+B_TB = "76"
+B_SB = "5"
+B_SH = "5"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Shea"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "33"
+B_AB = "110"
+B_R = "28"
+B_H = "28"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_TB = "34"
+B_SB = "7"
+B_SH = "4"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Nichols"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "111"
+B_AB = "393"
+B_R = "64"
+B_H = "99"
+B_2B = "20"
+B_3B = "5"
+B_HR = "1"
+B_TB = "132"
+B_SB = "13"
+B_SH = "14"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "P"
+B_G = "22"
+B_AB = "68"
+B_R = "5"
+B_H = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_TB = "20"
+B_SB = "0"
+B_SH = "3"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "38"
+B_AB = "128"
+B_R = "18"
+B_H = "32"
+B_2B = "5"
+B_3B = "0"
+B_HR = "2"
+B_TB = "43"
+B_SB = "1"
+B_SH = "4"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Gurney"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "1B"
+B_G = "77"
+B_AB = "312"
+B_R = "49"
+B_H = "78"
+B_2B = "9"
+B_3B = "2"
+B_HR = "2"
+B_TB = "100"
+B_SB = "15"
+B_SH = "2"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Barrett"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "54"
+B_AB = "189"
+B_R = "31"
+B_H = "46"
+B_2B = "7"
+B_3B = "7"
+B_HR = "1"
+B_TB = "69"
+B_SB = "11"
+B_SH = "8"
+B_AVG = ".249"
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "C."
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "68"
+B_AB = "237"
+B_R = "36"
+B_H = "59"
+B_2B = "3"
+B_3B = "3"
+B_HR = "0"
+B_TB = "67"
+B_SB = "10"
+B_SH = "16"
+B_AVG = ".249"
+
+
+[[person]]
+name.last = "Graney"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "92"
+B_AB = "355"
+B_R = "57"
+B_H = "88"
+B_2B = "9"
+B_3B = "4"
+B_HR = "1"
+B_TB = "100"
+B_SB = "11"
+B_SH = "10"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Groh"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "27"
+B_AB = "105"
+B_R = "22"
+B_H = "26"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_TB = "31"
+B_SB = "8"
+B_SH = "1"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Andrews"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "76"
+B_AB = "304"
+B_R = "40"
+B_H = "75"
+B_2B = "12"
+B_3B = "4"
+B_HR = "0"
+B_TB = "95"
+B_SB = "22"
+B_SH = "14"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Burill"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "106"
+B_AB = "415"
+B_R = "64"
+B_H = "102"
+B_2B = "10"
+B_3B = "5"
+B_HR = "1"
+B_TB = "122"
+B_SB = "13"
+B_SH = "10"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Cambria"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "102"
+B_AB = "327"
+B_R = "51"
+B_H = "80"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_TB = "95"
+B_SB = "12"
+B_SH = "10"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Peacock"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "C"
+B_G = "37"
+B_AB = "107"
+B_R = "9"
+B_H = "26"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_TB = "30"
+B_SB = "4"
+B_SH = "1"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Killingsworth"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "P"
+B_G = "23"
+B_AB = "66"
+B_R = "6"
+B_H = "16"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_TB = "19"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Kenney"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "1B"
+B_G = "107"
+B_AB = "406"
+B_R = "71"
+B_H = "98"
+B_2B = "11"
+B_3B = "5"
+B_HR = "2"
+B_TB = "124"
+B_SB = "30"
+B_SH = "27"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Dougherty"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "79"
+B_AB = "274"
+B_R = "51"
+B_H = "66"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_TB = "74"
+B_SB = "19"
+B_SH = "13"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Barberich"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "P"
+B_G = "35"
+B_AB = "100"
+B_R = "11"
+B_H = "24"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "25"
+B_SB = "3"
+B_SH = "4"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "72"
+B_AB = "276"
+B_R = "59"
+B_H = "66"
+B_2B = "10"
+B_3B = "2"
+B_HR = "0"
+B_TB = "78"
+B_SB = "10"
+B_SH = "12"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "69"
+B_AB = "257"
+B_R = "27"
+B_H = "69"
+B_2B = "6"
+B_3B = "2"
+B_HR = "1"
+B_TB = "71"
+B_SB = "13"
+B_SH = "6"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "McLaughlin"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "54"
+B_AB = "207"
+B_R = "20"
+B_H = "49"
+B_2B = "8"
+B_3B = "2"
+B_HR = "0"
+B_TB = "48"
+B_SB = "5"
+B_SH = "10"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Jerger"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "P"
+B_G = "13"
+B_AB = "38"
+B_R = "3"
+B_H = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "9"
+B_SB = "4"
+B_SH = "1"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Jeffries"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "81"
+B_AB = "297"
+B_R = "42"
+B_H = "69"
+B_2B = "4"
+B_3B = "1"
+B_HR = "1"
+B_TB = "80"
+B_SB = "12"
+B_SH = "3"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Welch"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "C"
+B_G = "40"
+B_AB = "134"
+B_R = "21"
+B_H = "31"
+B_2B = "2"
+B_3B = "3"
+B_HR = "0"
+B_TB = "38"
+B_SB = "3"
+B_SH = "3"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Hynes"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "P"
+B_G = "28"
+B_AB = "91"
+B_R = "6"
+B_H = "21"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_TB = "24"
+B_SB = "7"
+B_SH = "1"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Wagner"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "46"
+B_AB = "174"
+B_R = "31"
+B_H = "40"
+B_2B = "11"
+B_3B = "0"
+B_HR = "1"
+B_TB = "54"
+B_SB = "6"
+B_SH = "13"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Morgan"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "69"
+B_AB = "269"
+B_R = "27"
+B_H = "61"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_TB = "74"
+B_SB = "11"
+B_SH = "4"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Daum"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "19"
+B_AB = "76"
+B_R = "6"
+B_H = "17"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_TB = "21"
+B_SB = "4"
+B_SH = "3"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "27"
+B_AB = "112"
+B_R = "18"
+B_H = "25"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_TB = "28"
+B_SB = "7"
+B_SH = "9"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Orth"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "P"
+B_G = "44"
+B_AB = "132"
+B_R = "13"
+B_H = "29"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "29"
+B_SB = "3"
+B_SH = "0"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Reske"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "C"
+B_G = "79"
+B_AB = "198"
+B_R = "18"
+B_H = "43"
+B_2B = "11"
+B_3B = "1"
+B_HR = "0"
+B_TB = "48"
+B_SB = "5"
+B_SH = "3"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Chaput"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "P"
+B_G = "34"
+B_AB = "93"
+B_R = "10"
+B_H = "20"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_TB = "22"
+B_SB = "6"
+B_SH = "8"
+B_AVG = ".215"
+
+
+[[person]]
+name.last = "Maher"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "34"
+B_AB = "131"
+B_R = "14"
+B_H = "28"
+B_2B = "5"
+B_3B = "1"
+B_HR = "1"
+B_TB = "36"
+B_SB = "6"
+B_SH = "10"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Molyneaux"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "P"
+B_G = "16"
+B_AB = "48"
+B_R = "3"
+B_H = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "10"
+B_SB = "1"
+B_SH = "0"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Burke"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "34"
+B_AB = "140"
+B_R = "23"
+B_H = "29"
+B_2B = "7"
+B_3B = "0"
+B_HR = "0"
+B_TB = "36"
+B_SB = "4"
+B_SH = "6"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Hinton"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "C"
+B_G = "23"
+B_AB = "80"
+B_R = "7"
+B_H = "22"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_TB = "24"
+B_SB = "2"
+B_SH = "0"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Dinsmore"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "20"
+B_AB = "82"
+B_R = "10"
+B_H = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_TB = "20"
+B_SB = "4"
+B_SH = "1"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Mason"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "P"
+B_G = "31"
+B_AB = "97"
+B_R = "8"
+B_H = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_TB = "22"
+B_SB = "1"
+B_SH = "0"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Schuman"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "P"
+B_G = "16"
+B_AB = "49"
+B_R = "6"
+B_H = "10"
+B_2B = "1"
+B_3B = "1"
+B_HR = "2"
+B_TB = "19"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Rich"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "P"
+B_G = "21"
+B_AB = "68"
+B_R = "6"
+B_H = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_TB = "15"
+B_SB = "0"
+B_SH = "1"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "2B"
+B_G = "35"
+B_AB = "113"
+B_R = "13"
+B_H = "23"
+B_2B = "3"
+B_3B = "1"
+B_HR = "1"
+B_TB = "31"
+B_SB = "2"
+B_SH = "11"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Speer"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "C"
+B_G = "66"
+B_AB = "206"
+B_R = "23"
+B_H = "42"
+B_2B = "5"
+B_3B = "1"
+B_HR = "2"
+B_TB = "54"
+B_SB = "0"
+B_SH = "6"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Mueller"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "P"
+B_G = "29"
+B_AB = "65"
+B_R = "13"
+B_H = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "13"
+B_SB = "0"
+B_SH = "3"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Hadley"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "P"
+B_G = "18"
+B_AB = "47"
+B_R = "7"
+B_H = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "10"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".191"
+
+
+[[person]]
+name.last = "Silcox"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "P"
+B_G = "23"
+B_AB = "68"
+B_R = "7"
+B_H = "13"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_TB = "15"
+B_SB = "1"
+B_SH = "3"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "R."
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "3B"
+B_G = "10"
+B_AB = "38"
+B_R = "6"
+B_H = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_TB = "7"
+B_SB = "7"
+B_SH = "0"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Weilde"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "72"
+B_AB = "369"
+B_R = "43"
+B_H = "65"
+B_2B = "5"
+B_3B = "7"
+B_HR = "3"
+B_TB = "93"
+B_SB = "16"
+B_SH = "2"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Tasker"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "P"
+B_G = "30"
+B_AB = "91"
+B_R = "7"
+B_H = "16"
+B_2B = "2"
+B_3B = "2"
+B_HR = "1"
+B_TB = "24"
+B_SB = "1"
+B_SH = "3"
+B_AVG = ".175"
+
+
+[[person]]
+name.last = "Tracey"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+F_POS = "P"
+B_G = "18"
+B_AB = "52"
+B_R = "3"
+B_H = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "10"
+B_SB = "0"
+B_SH = "1"
+B_AVG = ".173"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+F_POS = "P"
+B_G = "12"
+B_AB = "34"
+B_R = "4"
+B_H = "5"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_TB = "0"
+B_SB = "10"
+B_SH = "0"
+B_AVG = ".145"
+
+
+[[person]]
+name.last = "Muir"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "P"
+B_G = "28"
+B_AB = "83"
+B_R = "8"
+B_H = "12"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_TB = "16"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".144"
+
+
+[[person]]
+name.last = "McGuire"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "SS"
+B_G = "17"
+B_AB = "66"
+B_R = "8"
+B_H = "10"
+B_2B = "0"
+B_3B = "1"
+B_HR = "1"
+B_TB = "15"
+B_SB = "2"
+B_SH = "1"
+B_AVG = ".136"
+
+
+[[person]]
+name.last = "Conley"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "P"
+B_G = "17"
+B_AB = "45"
+B_R = "2"
+B_H = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_TB = "5"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Sterling"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+F_POS = "P"
+B_G = "11"
+B_AB = "29"
+B_R = "3"
+B_H = "3"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_TB = "4"
+B_SB = "1"
+B_SH = "0"
+B_AVG = ".104"
+
+
+[[person]]
+name.last = "MacDonald"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+F_POS = "P"
+B_G = "11"
+B_AB = "32"
+B_R = "1"
+B_H = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_TB = "2"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".094"
+
+
+[[person]]
+name.last = "Campeau"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+F_POS = "P"
+B_G = "14"
+B_AB = "30"
+B_R = "1"
+B_H = "9"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_TB = "13"
+B_SB = "1"
+B_SH = "0"
+B_AVG = ".030"
+
+
+[[person]]
+name.last = "Pleasance"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+F_POS = "OF"
+B_G = "17"
+B_AB = "52"
+B_R = "2"
+B_H = "4"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_TB = "4"
+B_SB = "0"
+B_SH = "0"
+B_AVG = ".007"
+
+
+[[person]]
+name.last = "Haller"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Clauss"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Conlay"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Law"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Scheurn"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Alcock"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Burtlett"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Liable"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brese"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cross"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "MacDonald"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Rankin"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Clauss"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kenney"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Corkin"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dee"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Daunard"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Doane"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bignell"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Frenske"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Rapp"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hammill"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Connell"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Burton"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kehoe"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kostal"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Konald"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Liable"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Carr"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Heider"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lighty"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Winspier"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Nichols"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kussman"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Fryer"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hicks"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Laird"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Nagle"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lane"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hight"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Woodrull"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Shaw"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sheehan"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tankersley"
+[[person.playing]]
+season = "1911"
+league.name = "Canadian League"
+phase = "regular"
+[person.playing.totals]

@@ -1,0 +1,164 @@
+[[team]]
+name = "Mount Airy"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "58"
+R_T = "0"
+R_PCT = ".540"
+R_RANK = "1"
+
+
+[[team]]
+name = "Galax"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "61"
+R_T = "0"
+R_PCT = ".520"
+R_RANK = "2"
+
+
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "61"
+R_T = "1"
+R_PCT = ".516"
+R_RANK = "3"
+
+
+[[team]]
+name = "North Wilkesboro"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "62"
+R_T = "2"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Elkin"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "65"
+R_T = "2"
+R_PCT = ".488"
+R_RANK = "5"
+
+
+[[team]]
+name = "Radford"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "71"
+R_T = "1"
+R_PCT = ".437"
+R_RANK = "6"
+
+
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Mount Airy"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "North Wilkesboro"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Galax"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "North Wilkesboro"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1949"
+league.name = "Blue Ridge League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"

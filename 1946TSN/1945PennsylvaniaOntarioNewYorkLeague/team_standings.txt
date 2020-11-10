@@ -1,0 +1,186 @@
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "40"
+R_T = "0"
+R_PCT = ".677"
+R_RANK = "1"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "51"
+R_T = "0"
+R_PCT = ".595"
+R_RANK = "2"
+
+
+[[team]]
+name = "Lockport"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "52"
+R_T = "1"
+R_PCT = ".584"
+R_RANK = "3"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "55"
+R_T = "0"
+R_PCT = ".560"
+R_RANK = "4"
+
+
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "68"
+R_T = "0"
+R_PCT = ".456"
+R_RANK = "5"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "71"
+R_T = "0"
+R_PCT = ".437"
+R_RANK = "6"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "77"
+R_T = "1"
+R_PCT = ".374"
+R_RANK = "7"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "86"
+R_T = "0"
+R_PCT = ".317"
+R_RANK = "8"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "3"
+R_RANK = "2"
+
+
+[[team]]
+name = "Lockport"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "1"
+R_L = "3"
+R_RANK = "2"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lockport"
+[[team.playing]]
+season = "1945"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_RANK = "2"

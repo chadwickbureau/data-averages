@@ -1,0 +1,134 @@
+[[team]]
+name = "Ozark"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "88"
+F_PB = "7"
+F_PO = "1311"
+F_A = "1301"
+F_E = "230"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Brewton"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "77"
+F_PB = "8"
+F_PO = "3171"
+F_A = "1380"
+F_E = "239"
+F_TP = "0"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Enterprise"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "52"
+F_PB = "15"
+F_PO = "3278"
+F_A = "1275"
+F_E = "258"
+F_TP = "0"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "82"
+F_PB = "14"
+F_PO = "3177"
+F_A = "1264"
+F_E = "290"
+F_TP = "0"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Andalusia"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "51"
+F_PB = "7"
+F_PO = "3145"
+F_A = "1268"
+F_E = "295"
+F_TP = "0"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Dothan"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "70"
+F_PB = "12"
+F_PO = "3068"
+F_A = "1252"
+F_E = "294"
+F_TP = "0"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "79"
+F_PB = "8"
+F_PO = "3246"
+F_A = "1322"
+F_E = "335"
+F_TP = "0"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Troy"
+[[team.playing]]
+season = "1949"
+league.name = "Alabama State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "82"
+F_PB = "15"
+F_PO = "2973"
+F_A = "1454"
+F_E = "366"
+F_TP = "0"
+F_PCT = ".924"

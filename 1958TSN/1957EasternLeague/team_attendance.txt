@@ -1,0 +1,68 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "133140"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "95528"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "94492"
+
+
+[[team]]
+name = "Schenectady"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "59522"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "50959"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "37323"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "30737"

@@ -1,0 +1,118 @@
+[[team]]
+name = "Marshall"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "62"
+B_AB = "2015"
+B_R = "253"
+B_H = "486"
+B_2B = "99"
+B_3B = "15"
+B_HR = "13"
+B_SH = "62"
+B_SB = "86"
+R_T = "2"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Cleburne"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "61"
+B_AB = "2004"
+B_R = "287"
+B_H = "475"
+B_2B = "70"
+B_3B = "16"
+B_HR = "9"
+B_SH = "27"
+B_SB = "54"
+R_T = "0"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Tyler"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "62"
+B_AB = "2127"
+B_R = "286"
+B_H = "501"
+B_2B = "93"
+B_3B = "13"
+B_HR = "18"
+B_SH = "29"
+B_SB = "31"
+R_T = "1"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "59"
+B_AB = "2052"
+B_R = "281"
+B_H = "471"
+B_2B = "72"
+B_3B = "22"
+B_HR = "16"
+B_SH = "42"
+B_SB = "44"
+R_T = "2"
+B_AVG = ".229"
+
+
+[[team]]
+name = "Longview"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "60"
+B_AB = "2075"
+B_R = "296"
+B_H = "474"
+B_2B = "81"
+B_3B = "18"
+B_HR = "14"
+B_SH = "36"
+B_SB = "80"
+R_T = "2"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1912"
+league.name = "South Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "62"
+B_AB = "1973"
+B_R = "193"
+B_H = "420"
+B_2B = "72"
+B_3B = "24"
+B_HR = "10"
+B_SH = "52"
+B_SB = "62"
+R_T = "2"
+B_AVG = ".212"

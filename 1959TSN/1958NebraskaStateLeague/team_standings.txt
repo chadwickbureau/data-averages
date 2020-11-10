@@ -1,0 +1,110 @@
+[[team]]
+name = "North Platte"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "41"
+R_L = "22"
+R_T = "0"
+R_PCT = ".651"
+R_RANK = "1"
+
+
+[[team]]
+name = "McCook"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "23"
+R_T = "0"
+R_PCT = ".635"
+R_RANK = "2"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "30"
+R_T = "0"
+R_PCT = ".524"
+R_RANK = "3"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "30"
+R_T = "0"
+R_PCT = ".524"
+R_RANK = "3"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "30"
+R_L = "33"
+R_T = "0"
+R_PCT = ".476"
+R_RANK = "5"
+
+
+[[team]]
+name = "Holdrege"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "29"
+R_L = "34"
+R_T = "0"
+R_PCT = ".460"
+R_RANK = "6"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "24"
+R_L = "39"
+R_T = "0"
+R_PCT = ".381"
+R_RANK = "7"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "22"
+R_L = "41"
+R_T = "0"
+R_PCT = ".349"
+R_RANK = "8"

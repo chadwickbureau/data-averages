@@ -1,0 +1,94 @@
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4249"
+B_H = "1069"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Beatrice"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3786"
+B_H = "943"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3432"
+B_H = "845"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3518"
+B_H = "864"
+B_AVG = ".246"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3640"
+B_H = "885"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3400"
+B_H = "807"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3720"
+B_H = "849"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3355"
+B_H = "741"
+B_AVG = ".221"

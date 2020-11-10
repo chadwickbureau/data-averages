@@ -1,0 +1,142 @@
+[[team]]
+name = "Wellsville"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+B_G = "109"
+B_AB = "3694"
+B_R = "637"
+B_H = "998"
+B_TB = "1311"
+B_2B = "169"
+B_3B = "24"
+B_HR = "32"
+B_SH = "63"
+B_SB = "86"
+B_BB = "507"
+B_HP = "32"
+B_RBI = "506"
+B_SO = "654"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Jamestown"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3748"
+B_R = "677"
+B_H = "988"
+B_TB = "1353"
+B_2B = "162"
+B_3B = "67"
+B_HR = "23"
+B_SH = "72"
+B_SB = "54"
+B_BB = "528"
+B_HP = "37"
+B_RBI = "536"
+B_SO = "730"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Lockport"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3706"
+B_R = "640"
+B_H = "975"
+B_TB = "1347"
+B_2B = "182"
+B_3B = "41"
+B_HR = "36"
+B_SH = "76"
+B_SB = "62"
+B_BB = "517"
+B_HP = "33"
+B_RBI = "509"
+B_SO = "608"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Batavia"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3792"
+B_R = "651"
+B_H = "989"
+B_TB = "1279"
+B_2B = "164"
+B_3B = "24"
+B_HR = "26"
+B_SH = "69"
+B_SB = "104"
+B_BB = "595"
+B_HP = "47"
+B_RBI = "525"
+B_SO = "653"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Hornell"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3731"
+B_R = "593"
+B_H = "967"
+B_TB = "1311"
+B_2B = "171"
+B_3B = "31"
+B_HR = "37"
+B_SH = "85"
+B_SB = "89"
+B_BB = "423"
+B_HP = "38"
+B_RBI = "480"
+B_SO = "641"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1943"
+league.name = "Pennsylvania-Ontario-New York League"
+phase = "regular"
+[team.playing.totals]
+B_G = "109"
+B_AB = "3619"
+B_R = "504"
+B_H = "866"
+B_TB = "1124"
+B_2B = "136"
+B_3B = "28"
+B_HR = "22"
+B_SH = "81"
+B_SB = "52"
+B_BB = "466"
+B_HP = "20"
+B_RBI = "413"
+B_SO = "696"
+B_AVG = ".239"

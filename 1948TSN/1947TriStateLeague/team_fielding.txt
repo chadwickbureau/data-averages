@@ -1,0 +1,134 @@
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "132"
+F_TP = "0"
+F_PB = "11"
+F_PO = "3629"
+F_A = "1430"
+F_E = "205"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "117"
+F_TP = "0"
+F_PB = "15"
+F_PO = "3615"
+F_A = "1521"
+F_E = "214"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "103"
+F_TP = "1"
+F_PB = "15"
+F_PO = "3652"
+F_A = "1577"
+F_E = "222"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "114"
+F_TP = "3"
+F_PB = "16"
+F_PO = "3604"
+F_A = "1421"
+F_E = "239"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Rock Hill"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "102"
+F_TP = "0"
+F_PB = "23"
+F_PO = "3604"
+F_A = "1577"
+F_E = "250"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Fayetteville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "98"
+F_TP = "1"
+F_PB = "18"
+F_PO = "3573"
+F_A = "1490"
+F_E = "249"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "134"
+F_TP = "0"
+F_PB = "15"
+F_PO = "3659"
+F_A = "1481"
+F_E = "263"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Reidsville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "117"
+F_TP = "2"
+F_PB = "30"
+F_PO = "3459"
+F_A = "1614"
+F_E = "270"
+F_PCT = ".949"

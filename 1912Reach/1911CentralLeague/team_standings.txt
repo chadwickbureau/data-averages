@@ -1,0 +1,102 @@
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "88"
+R_L = "50"
+R_PCT = ".638"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "55"
+R_PCT = ".604"
+R_RANK = "2"
+
+
+[[team]]
+name = "Zanesville"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "58"
+R_PCT = ".561"
+R_RANK = "3"
+
+
+[[team]]
+name = "South Bend/Grand Rapids"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "60"
+R_PCT = ".559"
+R_RANK = "4"
+
+
+[[team]]
+name = "Evansville/South Bend"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "73"
+R_PCT = ".456"
+R_RANK = "5"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "71"
+R_PCT = ".441"
+R_RANK = "6"
+
+
+[[team]]
+name = "Grand Rapids/Newark"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "80"
+R_PCT = ".420"
+R_RANK = "7"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "49"
+R_L = "93"
+R_PCT = ".323"
+R_RANK = "8"

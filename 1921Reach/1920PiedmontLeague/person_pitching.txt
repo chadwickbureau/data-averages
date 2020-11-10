@@ -1,0 +1,1155 @@
+[[person]]
+name.last = "Harrison"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "6"
+P_IP = "32"
+P_AB = "120"
+P_H = "31"
+P_R = "13"
+P_ER = "9"
+P_SH = "8"
+P_HP = "1"
+P_BB = "5"
+P_SO = "4"
+P_WP = "2"
+P_W = "2"
+P_L = "0"
+P_T = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Mason"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "7"
+P_IP = "59"
+P_AB = "240"
+P_H = "53"
+P_R = "26"
+P_ER = "17"
+P_SH = "7"
+P_HP = "2"
+P_BB = "17"
+P_SO = "24"
+P_WP = "2"
+P_W = "6"
+P_L = "1"
+P_T = "0"
+P_PCT = ".857"
+
+
+[[person]]
+name.last = "Stitler"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "7"
+P_IP = "58"
+P_AB = "233"
+P_H = "54"
+P_R = "21"
+P_ER = "18"
+P_SH = "4"
+P_HP = "1"
+P_BB = "13"
+P_SO = "24"
+P_WP = "0"
+P_W = "5"
+P_L = "1"
+P_T = "0"
+P_PCT = ".833"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "F."
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "7"
+P_IP = "56"
+P_AB = "229"
+P_H = "61"
+P_R = "39"
+P_ER = "31"
+P_SH = "8"
+P_HP = "0"
+P_BB = "5"
+P_SO = "26"
+P_WP = "1"
+P_W = "3"
+P_L = "1"
+P_T = "0"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Friday"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "23"
+P_IP = "162"
+P_AB = "644"
+P_H = "145"
+P_R = "68"
+P_ER = "45"
+P_SH = "18"
+P_HP = "9"
+P_BB = "30"
+P_SO = "70"
+P_WP = "3"
+P_W = "12"
+P_L = "4"
+P_T = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "A."
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "27"
+P_IP = "213"
+P_AB = "860"
+P_H = "198"
+P_R = "84"
+P_ER = "50"
+P_SH = "31"
+P_HP = "6"
+P_BB = "28"
+P_SO = "100"
+P_WP = "1"
+P_W = "17"
+P_L = "7"
+P_T = "1"
+P_PCT = ".708"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "A."
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point"
+[person.playing.totals]
+P_G = "13"
+P_IP = "74"
+P_AB = "312"
+P_H = "65"
+P_R = "26"
+P_ER = "19"
+P_SH = "10"
+P_HP = "5"
+P_BB = "21"
+P_SO = "28"
+P_WP = "2"
+P_W = "7"
+P_L = "3"
+P_T = "0"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "26"
+P_IP = "183"
+P_AB = "805"
+P_H = "159"
+P_R = "97"
+P_ER = "53"
+P_SH = "22"
+P_HP = "20"
+P_BB = "91"
+P_SO = "138"
+P_WP = "20"
+P_W = "15"
+P_L = "7"
+P_T = "0"
+P_PCT = ".682"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "31"
+P_IP = "254"
+P_AB = "1006"
+P_H = "223"
+P_R = "88"
+P_ER = "54"
+P_SH = "25"
+P_HP = "7"
+P_BB = "92"
+P_SO = "102"
+P_WP = "0"
+P_W = "19"
+P_L = "9"
+P_T = "0"
+P_PCT = ".679"
+
+
+[[person]]
+name.last = "Sadler"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "36"
+P_IP = "255"
+P_AB = "1071"
+P_H = "234"
+P_R = "100"
+P_ER = "67"
+P_SH = "30"
+P_HP = "11"
+P_BB = "41"
+P_SO = "92"
+P_WP = "2"
+P_W = "19"
+P_L = "9"
+P_T = "0"
+P_PCT = ".679"
+
+
+[[person]]
+name.last = "Eldridge"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point"
+[person.playing.totals]
+P_G = "22"
+P_IP = "159"
+P_AB = "598"
+P_H = "122"
+P_R = "33"
+P_ER = "24"
+P_SH = "15"
+P_HP = "0"
+P_BB = "11"
+P_SO = "41"
+P_WP = "0"
+P_W = "13"
+P_L = "6"
+P_T = "0"
+P_PCT = ".674"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "32"
+P_IP = "252"
+P_AB = "1042"
+P_H = "231"
+P_R = "108"
+P_ER = "71"
+P_SH = "31"
+P_HP = "8"
+P_BB = "57"
+P_SO = "205"
+P_WP = "1"
+P_W = "18"
+P_L = "10"
+P_T = "0"
+P_PCT = ".643"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point"
+[person.playing.totals]
+P_G = "8"
+P_IP = "49"
+P_AB = "194"
+P_H = "50"
+P_R = "26"
+P_ER = "15"
+P_SH = "5"
+P_HP = "3"
+P_BB = "14"
+P_SO = "25"
+P_WP = "0"
+P_W = "5"
+P_L = "3"
+P_T = "0"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Atkinson"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "21"
+P_IP = "188"
+P_AB = "736"
+P_H = "144"
+P_R = "48"
+P_ER = "25"
+P_SH = "21"
+P_HP = "7"
+P_BB = "33"
+P_SO = "100"
+P_WP = "3"
+P_W = "13"
+P_L = "8"
+P_T = "0"
+P_PCT = ".619"
+
+
+[[person]]
+name.last = "Snyder"
+name.given = "H."
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point"
+[person.playing.totals]
+P_G = "21"
+P_IP = "143"
+P_AB = "540"
+P_H = "121"
+P_R = "65"
+P_ER = "43"
+P_SH = "31"
+P_HP = "5"
+P_BB = "48"
+P_SO = "51"
+P_WP = "1"
+P_W = "8"
+P_L = "5"
+P_T = "1"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Caviness"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "24"
+P_IP = "204"
+P_AB = "876"
+P_H = "202"
+P_R = "81"
+P_ER = "55"
+P_SH = "32"
+P_HP = "9"
+P_BB = "54"
+P_SO = "82"
+P_WP = "3"
+P_W = "14"
+P_L = "9"
+P_T = "0"
+P_PCT = ".609"
+
+
+[[person]]
+name.last = "Krepps"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "7"
+P_IP = "39"
+P_AB = "160"
+P_H = "35"
+P_R = "18"
+P_ER = "16"
+P_SH = "6"
+P_HP = "3"
+P_BB = "15"
+P_SO = "25"
+P_WP = "0"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Hughes"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "37"
+P_IP = "271"
+P_AB = "1074"
+P_H = "208"
+P_R = "87"
+P_ER = "53"
+P_SH = "26"
+P_HP = "14"
+P_BB = "59"
+P_SO = "177"
+P_WP = "2"
+P_W = "19"
+P_L = "13"
+P_T = "0"
+P_PCT = ".594"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "31"
+P_IP = "330"
+P_AB = "994"
+P_H = "196"
+P_R = "80"
+P_ER = "56"
+P_SH = "34"
+P_HP = "7"
+P_BB = "70"
+P_SO = "113"
+P_WP = "2"
+P_W = "18"
+P_L = "11"
+P_T = "0"
+P_PCT = ".593"
+
+
+[[person]]
+name.last = "Frechette"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "26"
+P_IP = "172"
+P_AB = "698"
+P_H = "151"
+P_R = "77"
+P_ER = "56"
+P_SH = "21"
+P_HP = "8"
+P_BB = "42"
+P_SO = "47"
+P_WP = "4"
+P_W = "12"
+P_L = "9"
+P_T = "0"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Fleischman"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "33"
+P_IP = "207"
+P_AB = "946"
+P_H = "183"
+P_R = "118"
+P_ER = "69"
+P_SH = "41"
+P_HP = "21"
+P_BB = "107"
+P_SO = "125"
+P_WP = "7"
+P_W = "14"
+P_L = "11"
+P_T = "0"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "Huttenstein"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "28"
+P_IP = "198"
+P_AB = "829"
+P_H = "187"
+P_R = "82"
+P_ER = "57"
+P_SH = "27"
+P_HP = "12"
+P_BB = "39"
+P_SO = "105"
+P_WP = "3"
+P_W = "12"
+P_L = "10"
+P_T = "0"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Edney"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "9"
+P_IP = "58"
+P_AB = "246"
+P_H = "50"
+P_R = "26"
+P_ER = "13"
+P_SH = "12"
+P_HP = "1"
+P_BB = "31"
+P_SO = "14"
+P_WP = "1"
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Henderson"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "11"
+P_IP = "76"
+P_AB = "325"
+P_H = "86"
+P_R = "48"
+P_ER = "37"
+P_SH = "14"
+P_HP = "7"
+P_BB = "17"
+P_SO = "28"
+P_WP = "0"
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Braxton"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "30"
+P_IP = "249"
+P_AB = "1028"
+P_H = "228"
+P_R = "98"
+P_ER = "66"
+P_SH = "45"
+P_HP = "5"
+P_BB = "41"
+P_SO = "120"
+P_WP = "3"
+P_W = "14"
+P_L = "14"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Brooks"
+name.given = "J."
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "30"
+P_IP = "218"
+P_AB = "897"
+P_H = "193"
+P_R = "89"
+P_ER = "59"
+P_SH = "19"
+P_HP = "9"
+P_BB = "60"
+P_SO = "60"
+P_WP = "5"
+P_W = "12"
+P_L = "12"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Bauer"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "29"
+P_IP = "208"
+P_AB = "888"
+P_H = "224"
+P_R = "114"
+P_ER = "91"
+P_SH = "26"
+P_HP = "7"
+P_BB = "54"
+P_SO = "83"
+P_WP = "1"
+P_W = "10"
+P_L = "12"
+P_T = "0"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Allen"
+name.given = "T."
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "20"
+P_IP = "198"
+P_AB = "602"
+P_H = "120"
+P_R = "84"
+P_ER = "51"
+P_SH = "30"
+P_HP = "17"
+P_BB = "38"
+P_SO = "77"
+P_WP = "2"
+P_W = "7"
+P_L = "9"
+P_T = "0"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Joyner"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "19"
+P_IP = "140"
+P_AB = "565"
+P_H = "134"
+P_R = "58"
+P_ER = "47"
+P_SH = "21"
+P_HP = "6"
+P_BB = "25"
+P_SO = "57"
+P_WP = "0"
+P_W = "7"
+P_L = "9"
+P_T = "0"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Richardson"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "10"
+P_IP = "60"
+P_AB = "251"
+P_H = "60"
+P_R = "36"
+P_ER = "17"
+P_SH = "13"
+P_HP = "2"
+P_BB = "14"
+P_SO = "11"
+P_WP = "0"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Culp"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "13"
+P_IP = "72"
+P_AB = "322"
+P_H = "65"
+P_R = "53"
+P_ER = "22"
+P_SH = "16"
+P_HP = "12"
+P_BB = "41"
+P_SO = "47"
+P_WP = "11"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Heimack"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "34"
+P_IP = "271"
+P_AB = "1071"
+P_H = "216"
+P_R = "87"
+P_ER = "55"
+P_SH = "22"
+P_HP = "7"
+P_BB = "48"
+P_SO = "188"
+P_WP = "3"
+P_W = "11"
+P_L = "18"
+P_T = "0"
+P_PCT = ".378"
+
+
+[[person]]
+name.last = "High"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_G = "30"
+P_IP = "217"
+P_AB = "765"
+P_H = "181"
+P_R = "108"
+P_ER = "67"
+P_SH = "34"
+P_HP = "6"
+P_BB = "59"
+P_SO = "99"
+P_WP = "10"
+P_W = "7"
+P_L = "12"
+P_T = "0"
+P_PCT = ".368"
+
+
+[[person]]
+name.last = "Macklin"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "10"
+P_IP = "46"
+P_AB = "197"
+P_H = "48"
+P_R = "32"
+P_ER = "25"
+P_SH = "6"
+P_HP = "2"
+P_BB = "8"
+P_SO = "21"
+P_WP = "0"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Yeager"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "High Point"
+[person.playing.totals]
+P_G = "7"
+P_IP = "41"
+P_AB = "170"
+P_H = "45"
+P_R = "32"
+P_ER = "18"
+P_SH = "4"
+P_HP = "0"
+P_BB = "10"
+P_SO = "14"
+P_WP = "2"
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "16"
+P_IP = "127"
+P_AB = "479"
+P_H = "114"
+P_R = "62"
+P_ER = "37"
+P_SH = "21"
+P_HP = "2"
+P_BB = "38"
+P_SO = "39"
+P_WP = "3"
+P_W = "3"
+P_L = "9"
+P_T = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Goeckel"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "18"
+P_IP = "118"
+P_AB = "496"
+P_H = "133"
+P_R = "70"
+P_ER = "50"
+P_SH = "24"
+P_HP = "4"
+P_BB = "20"
+P_SO = "42"
+P_WP = "0"
+P_W = "3"
+P_L = "9"
+P_T = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Brooks"
+name.given = "H."
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "12"
+P_IP = "77"
+P_AB = "368"
+P_H = "79"
+P_R = "52"
+P_ER = "32"
+P_SH = "20"
+P_HP = "5"
+P_BB = "38"
+P_SO = "22"
+P_WP = "2"
+P_W = "2"
+P_L = "7"
+P_T = "0"
+P_PCT = ".222"
+
+
+[[person]]
+name.last = "Meiser"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "6"
+P_IP = "49"
+P_AB = "207"
+P_H = "50"
+P_R = "32"
+P_ER = "22"
+P_SH = "5"
+P_HP = "0"
+P_BB = "9"
+P_SO = "14"
+P_WP = "1"
+P_W = "1"
+P_L = "4"
+P_T = "0"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Goode"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "8"
+P_IP = "49"
+P_AB = "239"
+P_H = "60"
+P_R = "40"
+P_ER = "19"
+P_SH = "7"
+P_HP = "7"
+P_BB = "17"
+P_SO = "23"
+P_WP = "2"
+P_W = "1"
+P_L = "6"
+P_T = "0"
+P_PCT = ".143"
+
+
+[[person]]
+name.last = "Stewart"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Danville"
+[person.playing.totals]
+P_G = "14"
+P_IP = "83"
+P_AB = "352"
+P_H = "78"
+P_R = "44"
+P_ER = "33"
+P_SH = "22"
+P_HP = "0"
+P_BB = "31"
+P_SO = "16"
+P_WP = "2"
+P_W = "1"
+P_L = "9"
+P_T = "0"
+P_PCT = ".100"
+
+
+[[person]]
+name.last = "Parrish"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "13"
+P_IP = "88"
+P_AB = "401"
+P_H = "85"
+P_R = "70"
+P_ER = "40"
+P_SH = "19"
+P_HP = "2"
+P_BB = "25"
+P_SO = "25"
+P_WP = "0"
+P_W = "1"
+P_L = "9"
+P_T = "0"
+P_PCT = ".100"
+
+
+[[person]]
+name.last = "Clayton"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "10"
+P_IP = "29"
+P_AB = "122"
+P_H = "31"
+P_R = "24"
+P_ER = "12"
+P_SH = "5"
+P_HP = "1"
+P_BB = "13"
+P_SO = "12"
+P_WP = "3"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Frazier"
+[[person.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_G = "6"
+P_IP = "32"
+P_AB = "146"
+P_H = "33"
+P_R = "19"
+P_ER = "10"
+P_SH = "5"
+P_HP = "2"
+P_BB = "18"
+P_SO = "16"
+P_WP = "0"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_PCT = ".000"

@@ -1,0 +1,1071 @@
+[[person]]
+name.last = "Cunningham"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "8"
+P_IP = "56.2"
+P_AB = "200"
+P_H = "44"
+P_R = "18"
+P_HP = "3"
+P_BB = "18"
+P_SO = "18"
+P_WP = "1"
+P_BK = "0"
+P_W = "5"
+P_L = "1"
+P_T = "0"
+P_PCT = ".833"
+
+
+[[person]]
+name.last = "Redding"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "30"
+P_IP = "239.2"
+P_AB = "848"
+P_H = "205"
+P_R = "59"
+P_HP = "12"
+P_BB = "44"
+P_SO = "114"
+P_WP = "2"
+P_BK = "0"
+P_W = "19"
+P_L = "6"
+P_T = "1"
+P_PCT = ".760"
+
+
+[[person]]
+name.last = "Fillingim"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "20"
+P_IP = "174"
+P_AB = "606"
+P_H = "128"
+P_R = "43"
+P_HP = "4"
+P_BB = "46"
+P_SO = "129"
+P_WP = "4"
+P_BK = "2"
+P_W = "14"
+P_L = "5"
+P_T = "1"
+P_PCT = ".737"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "13"
+P_IP = "79.2"
+P_AB = "312"
+P_H = "90"
+P_R = "44"
+P_HP = "3"
+P_BB = "15"
+P_SO = "27"
+P_WP = "1"
+P_BK = "0"
+P_W = "8"
+P_L = "3"
+P_T = "0"
+P_PCT = ".727"
+
+
+[[person]]
+name.last = "Spaid"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "22"
+P_IP = "181.2"
+P_AB = "635"
+P_H = "149"
+P_R = "55"
+P_HP = "13"
+P_BB = "50"
+P_SO = "110"
+P_WP = "1"
+P_BK = "0"
+P_W = "14"
+P_L = "7"
+P_T = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "5"
+P_IP = "26"
+P_AB = "98"
+P_H = "26"
+P_R = "10"
+P_HP = "2"
+P_BB = "6"
+P_SO = "8"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "1"
+P_T = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Smallwood"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "28"
+P_IP = "205"
+P_AB = "758"
+P_H = "211"
+P_R = "101"
+P_HP = "9"
+P_BB = "49"
+P_SO = "95"
+P_WP = "1"
+P_BK = "0"
+P_W = "8"
+P_L = "16"
+P_T = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "20"
+P_IP = "137.1"
+P_AB = "532"
+P_H = "134"
+P_R = "64"
+P_HP = "6"
+P_BB = "51"
+P_SO = "72"
+P_WP = "1"
+P_BK = "1"
+P_W = "11"
+P_L = "6"
+P_T = "0"
+P_PCT = ".647"
+
+
+[[person]]
+name.last = "Eldridge"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "25"
+P_IP = "206"
+P_AB = "753"
+P_H = "167"
+P_R = "61"
+P_HP = "4"
+P_BB = "28"
+P_SO = "79"
+P_WP = "3"
+P_BK = "1"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Hawkins"
+name.given = "J."
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "18"
+P_IP = "141.2"
+P_AB = "506"
+P_H = "110"
+P_R = "43"
+P_HP = "7"
+P_BB = "40"
+P_SO = "57"
+P_WP = "2"
+P_BK = "1"
+P_W = "9"
+P_L = "6"
+P_T = "0"
+P_PCT = ".606"
+
+
+[[person]]
+name.last = "May"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "26"
+P_IP = "196.1"
+P_AB = "772"
+P_H = "203"
+P_R = "104"
+P_HP = "17"
+P_BB = "57"
+P_SO = "110"
+P_WP = "2"
+P_BK = "1"
+P_W = "12"
+P_L = "8"
+P_T = "3"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "McManus"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "38"
+P_IP = "274.1"
+P_AB = "1013"
+P_H = "248"
+P_R = "93"
+P_HP = "6"
+P_BB = "40"
+P_SO = "99"
+P_WP = "1"
+P_BK = "0"
+P_W = "17"
+P_L = "12"
+P_T = "2"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Cates"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "23"
+P_IP = "182"
+P_AB = "632"
+P_H = "147"
+P_R = "66"
+P_HP = "19"
+P_BB = "70"
+P_SO = "56"
+P_WP = "8"
+P_BK = "1"
+P_W = "12"
+P_L = "9"
+P_T = "1"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "G."
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "35"
+P_IP = "262.1"
+P_AB = "1023"
+P_H = "273"
+P_R = "123"
+P_HP = "11"
+P_BB = "49"
+P_SO = "102"
+P_WP = "3"
+P_BK = "0"
+P_W = "16"
+P_L = "12"
+P_T = "2"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Voss"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "23"
+P_IP = "160"
+P_AB = "583"
+P_H = "134"
+P_R = "71"
+P_HP = "12"
+P_BB = "67"
+P_SO = "78"
+P_WP = "4"
+P_BK = "0"
+P_W = "12"
+P_L = "9"
+P_T = "1"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Watson"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "10"
+P_IP = "63"
+P_AB = "228"
+P_H = "59"
+P_R = "23"
+P_HP = "3"
+P_BB = "13"
+P_SO = "19"
+P_WP = "0"
+P_BK = "0"
+P_W = "4"
+P_L = "3"
+P_T = "0"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "South"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "27"
+P_IP = "164.2"
+P_AB = "620"
+P_H = "151"
+P_R = "63"
+P_HP = "11"
+P_BB = "52"
+P_SO = "57"
+P_WP = "4"
+P_BK = "0"
+P_W = "11"
+P_L = "10"
+P_T = "0"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Camnitz"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "28"
+P_IP = "230.2"
+P_AB = "854"
+P_H = "208"
+P_R = "89"
+P_HP = "7"
+P_BB = "77"
+P_SO = "106"
+P_WP = "2"
+P_BK = "0"
+P_W = "12"
+P_L = "11"
+P_T = "1"
+P_PCT = ".522"
+
+
+[[person]]
+name.last = "Alton"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "25"
+P_IP = "175.2"
+P_AB = "657"
+P_H = "141"
+P_R = "63"
+P_HP = "17"
+P_BB = "51"
+P_SO = "104"
+P_WP = "1"
+P_BK = "0"
+P_W = "10"
+P_L = "10"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Geary"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "8"
+P_IP = "45"
+P_AB = "169"
+P_H = "44"
+P_R = "20"
+P_HP = "2"
+P_BB = "13"
+P_SO = "28"
+P_WP = "0"
+P_BK = "0"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Lowry"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "7"
+P_IP = "21.2"
+P_AB = "76"
+P_H = "19"
+P_R = "12"
+P_HP = "2"
+P_BB = "13"
+P_SO = "7"
+P_WP = "1"
+P_BK = "0"
+P_W = "1"
+P_L = "1"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Mathieu"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "5"
+P_IP = "36.1"
+P_AB = "158"
+P_H = "41"
+P_R = "21"
+P_HP = "3"
+P_BB = "17"
+P_SO = "13"
+P_WP = "0"
+P_BK = "0"
+P_W = "2"
+P_L = "2"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Pearson"
+name.given = "O."
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "23"
+P_IP = "176.2"
+P_AB = "671"
+P_H = "170"
+P_R = "82"
+P_HP = "10"
+P_BB = "39"
+P_SO = "91"
+P_WP = "3"
+P_BK = "0"
+P_W = "10"
+P_L = "10"
+P_T = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Wiley"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "11"
+P_IP = "78.2"
+P_AB = "348"
+P_H = "98"
+P_R = "42"
+P_HP = "5"
+P_BB = "20"
+P_SO = "32"
+P_WP = "2"
+P_BK = "0"
+P_W = "5"
+P_L = "5"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Woolf"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "21"
+P_IP = "167.1"
+P_AB = "626"
+P_H = "162"
+P_R = "56"
+P_HP = "0"
+P_BB = "32"
+P_SO = "50"
+P_WP = "2"
+P_BK = "0"
+P_W = "9"
+P_L = "9"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Gardin"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "39"
+P_IP = "235"
+P_AB = "897"
+P_H = "212"
+P_R = "103"
+P_HP = "6"
+P_BB = "37"
+P_SO = "96"
+P_WP = "6"
+P_BK = "0"
+P_W = "12"
+P_L = "13"
+P_T = "2"
+P_PCT = ".480"
+
+
+[[person]]
+name.last = "Robertson"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "26"
+P_IP = "210.1"
+P_AB = "795"
+P_H = "204"
+P_R = "77"
+P_HP = "5"
+P_BB = "26"
+P_SO = "78"
+P_WP = "0"
+P_BK = "0"
+P_W = "10"
+P_L = "12"
+P_T = "1"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Wood"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "26"
+P_IP = "206.1"
+P_AB = "773"
+P_H = "189"
+P_R = "101"
+P_HP = "15"
+P_BB = "52"
+P_SO = "77"
+P_WP = "9"
+P_BK = "1"
+P_W = "10"
+P_L = "12"
+P_T = "0"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Foster"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "29"
+P_IP = "244.1"
+P_AB = "991"
+P_H = "275"
+P_R = "126"
+P_HP = "10"
+P_BB = "39"
+P_SO = "97"
+P_WP = "2"
+P_BK = "0"
+P_W = "12"
+P_L = "15"
+P_T = "1"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Pratt"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "10"
+P_IP = "83.2"
+P_AB = "297"
+P_H = "63"
+P_R = "26"
+P_HP = "0"
+P_BB = "21"
+P_SO = "29"
+P_WP = "0"
+P_BK = "0"
+P_W = "4"
+P_L = "5"
+P_T = "1"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Cheney"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+P_G = "18"
+P_IP = "150"
+P_AB = "555"
+P_H = "147"
+P_R = "65"
+P_HP = "4"
+P_BB = "25"
+P_SO = "63"
+P_WP = "5"
+P_BK = "0"
+P_W = "7"
+P_L = "0"
+P_T = "0"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "19"
+P_IP = "124.1"
+P_AB = "491"
+P_H = "118"
+P_R = "55"
+P_HP = "9"
+P_BB = "35"
+P_SO = "62"
+P_WP = "2"
+P_BK = "0"
+P_W = "7"
+P_L = "9"
+P_T = "1"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Winchell"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[[person.playing.split]]
+team.name = "Albany"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "18"
+P_IP = "115"
+P_AB = "435"
+P_H = "112"
+P_R = "51"
+P_HP = "3"
+P_BB = "38"
+P_SO = "48"
+P_WP = "2"
+P_BK = "0"
+P_W = "6"
+P_L = "8"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Roth"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "12"
+P_IP = "94.1"
+P_AB = "334"
+P_H = "85"
+P_R = "44"
+P_HP = "4"
+P_BB = "38"
+P_SO = "77"
+P_WP = "4"
+P_BK = "0"
+P_W = "4"
+P_L = "6"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Burmeister"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "26"
+P_IP = "228.1"
+P_AB = "824"
+P_H = "192"
+P_R = "104"
+P_HP = "17"
+P_BB = "85"
+P_SO = "83"
+P_WP = "6"
+P_BK = "0"
+P_W = "8"
+P_L = "13"
+P_T = "2"
+P_PCT = ".381"
+
+
+[[person]]
+name.last = "Causey"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "24"
+P_IP = "178"
+P_AB = "675"
+P_H = "172"
+P_R = "89"
+P_HP = "8"
+P_BB = "58"
+P_SO = "60"
+P_WP = "1"
+P_BK = "0"
+P_W = "7"
+P_L = "14"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Springman"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "14"
+P_IP = "97.2"
+P_AB = "361"
+P_H = "92"
+P_R = "49"
+P_HP = "3"
+P_BB = "26"
+P_SO = "40"
+P_WP = "1"
+P_BK = "1"
+P_W = "4"
+P_L = "8"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Hitchcock"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "10"
+P_IP = "76"
+P_AB = "284"
+P_H = "76"
+P_R = "41"
+P_HP = "4"
+P_BB = "25"
+P_SO = "44"
+P_WP = "5"
+P_BK = "0"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "22"
+P_IP = "155"
+P_AB = "558"
+P_H = "136"
+P_R = "77"
+P_HP = "10"
+P_BB = "48"
+P_SO = "82"
+P_WP = "5"
+P_BK = "0"
+P_W = "6"
+P_L = "14"
+P_T = "1"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "6"
+P_IP = "38.2"
+P_AB = "144"
+P_H = "32"
+P_R = "22"
+P_HP = "2"
+P_BB = "21"
+P_SO = "20"
+P_WP = "1"
+P_BK = "0"
+P_W = "1"
+P_L = "3"
+P_T = "1"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Shirley"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[[person.playing.split]]
+team.name = "Charleston"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "20"
+P_IP = "132.1"
+P_AB = "457"
+P_H = "126"
+P_R = "71"
+P_HP = "4"
+P_BB = "48"
+P_SO = "53"
+P_WP = "5"
+P_BK = "1"
+P_W = "3"
+P_L = "9"
+P_T = "2"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Harper"
+[[person.playing]]
+season = "1915"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Augusta"
+[person.playing.totals]
+P_G = "7"
+P_IP = "51.2"
+P_AB = "193"
+P_H = "62"
+P_R = "33"
+P_HP = "5"
+P_BB = "19"
+P_SO = "19"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "6"
+P_T = "0"
+P_PCT = ".143"

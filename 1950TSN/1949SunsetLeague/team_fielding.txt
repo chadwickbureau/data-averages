@@ -1,0 +1,134 @@
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "97"
+F_PB = "12"
+F_PO = "3219"
+F_A = "1217"
+F_E = "237"
+F_PCT = ".949"
+F_TP = "1"
+
+
+[[team]]
+name = "San Bernadino"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "104"
+F_PB = "30"
+F_PO = "3151"
+F_A = "1350"
+F_E = "249"
+F_PCT = ".948"
+F_TP = "0"
+
+
+[[team]]
+name = "Porterville"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "122"
+F_PB = "32"
+F_PO = "3211"
+F_A = "1318"
+F_E = "260"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "El Centro"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "101"
+F_PB = "28"
+F_PO = "3273"
+F_A = "1304"
+F_E = "281"
+F_PCT = ".942"
+F_TP = "0"
+
+
+[[team]]
+name = "Riverside"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "109"
+F_PB = "43"
+F_PO = "3217"
+F_A = "1305"
+F_E = "307"
+F_PCT = ".936"
+F_TP = "0"
+
+
+[[team]]
+name = "Las Vegas"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "95"
+F_PB = "17"
+F_PO = "3233"
+F_A = "1153"
+F_E = "311"
+F_PCT = ".934"
+F_TP = "0"
+
+
+[[team]]
+name = "Reno"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "91"
+F_PB = "49"
+F_PO = "3102"
+F_A = "1265"
+F_E = "330"
+F_PCT = ".930"
+F_TP = "0"
+
+
+[[team]]
+name = "Salinas/Tijuana"
+[[team.playing]]
+season = "1949"
+league.name = "Sunset League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_DP = "68"
+F_PB = "32"
+F_PO = "2863"
+F_A = "1069"
+F_E = "294"
+F_PCT = ".930"
+F_TP = "0"

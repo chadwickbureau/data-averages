@@ -1,0 +1,1342 @@
+[[person]]
+name.last = "Boldt"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "2"
+P_L = "0"
+P_T = "0"
+P_IP = "27.2"
+P_SH = "2"
+P_AB = "108"
+P_R = "6"
+P_H = "30"
+P_HP = "0"
+P_BB = "13"
+P_SO = "9"
+P_BK = "0"
+P_WP = "7"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Wilkinson"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+P_G = "9"
+P_CG = "9"
+P_W = "7"
+P_L = "1"
+P_T = "1"
+P_IP = "83"
+P_SH = "1"
+P_AB = "313"
+P_R = "28"
+P_H = "48"
+P_HP = "3"
+P_BB = "29"
+P_SO = "48"
+P_BK = "1"
+P_WP = "0"
+P_PCT = ".875"
+
+
+[[person]]
+name.last = "Heck"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+P_G = "31"
+P_CG = "24"
+P_W = "24"
+P_L = "6"
+P_T = "1"
+P_IP = "253"
+P_SH = "5"
+P_AB = "876"
+P_R = "57"
+P_H = "173"
+P_HP = "16"
+P_BB = "67"
+P_SO = "153"
+P_BK = "0"
+P_WP = "8"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Dolan"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "6"
+P_CG = "5"
+P_W = "4"
+P_L = "1"
+P_T = "0"
+P_IP = "52.2"
+P_SH = "0"
+P_AB = "204"
+P_R = "21"
+P_H = "44"
+P_HP = "2"
+P_BB = "12"
+P_SO = "23"
+P_BK = "0"
+P_WP = "3"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Renfer"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "33"
+P_CG = "22"
+P_W = "21"
+P_L = "6"
+P_T = "0"
+P_IP = "230"
+P_SH = "0"
+P_AB = "856"
+P_R = "84"
+P_H = "190"
+P_HP = "16"
+P_BB = "89"
+P_SO = "185"
+P_BK = "1"
+P_WP = "4"
+P_PCT = ".777"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "25"
+P_CG = "12"
+P_W = "13"
+P_L = "4"
+P_T = "0"
+P_IP = "137.2"
+P_SH = "1"
+P_AB = "530"
+P_R = "61"
+P_H = "120"
+P_HP = "3"
+P_BB = "29"
+P_SO = "81"
+P_BK = "0"
+P_WP = "2"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Rose"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "5"
+P_CG = "3"
+P_W = "2"
+P_L = "1"
+P_T = "0"
+P_IP = "37"
+P_SH = "0"
+P_AB = "142"
+P_R = "18"
+P_H = "43"
+P_HP = "1"
+P_BB = "5"
+P_SO = "15"
+P_BK = "0"
+P_WP = "1"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Dorbeck"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+P_G = "28"
+P_CG = "15"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_IP = "184.2"
+P_SH = "2"
+P_AB = "722"
+P_R = "86"
+P_H = "167"
+P_HP = "8"
+P_BB = "59"
+P_SO = "73"
+P_BK = "0"
+P_WP = "5"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Stark"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+P_G = "25"
+P_CG = "17"
+P_W = "13"
+P_L = "8"
+P_T = "0"
+P_IP = "176.1"
+P_SH = "1"
+P_AB = "685"
+P_R = "91"
+P_H = "174"
+P_HP = "7"
+P_BB = "53"
+P_SO = "104"
+P_BK = "0"
+P_WP = "13"
+P_PCT = ".619"
+
+
+[[person]]
+name.last = "Beebe"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+P_G = "14"
+P_CG = "11"
+P_W = "9"
+P_L = "4"
+P_T = "0"
+P_IP = "110.2"
+P_SH = "3"
+P_AB = "420"
+P_R = "50"
+P_H = "91"
+P_HP = "5"
+P_BB = "33"
+P_SO = "79"
+P_BK = "2"
+P_WP = "3"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Belding"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peterborough"
+[person.playing.totals]
+P_G = "25"
+P_CG = "12"
+P_W = "11"
+P_L = "7"
+P_T = "0"
+P_IP = "159.2"
+P_SH = "2"
+P_AB = "606"
+P_R = "92"
+P_H = "163"
+P_HP = "3"
+P_BB = "79"
+P_SO = "67"
+P_BK = "0"
+P_WP = "5"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Clement"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+P_G = "31"
+P_CG = "21"
+P_W = "15"
+P_L = "10"
+P_T = "0"
+P_IP = "215"
+P_SH = "3"
+P_AB = "846"
+P_R = "93"
+P_H = "184"
+P_HP = "6"
+P_BB = "56"
+P_SO = "119"
+P_BK = "1"
+P_WP = "4"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Bickers"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+P_G = "6"
+P_CG = "3"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_IP = "42"
+P_SH = "0"
+P_AB = "177"
+P_R = "32"
+P_H = "53"
+P_HP = "3"
+P_BB = "23"
+P_SO = "15"
+P_BK = "0"
+P_WP = "2"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Kubat"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "28"
+P_CG = "12"
+P_W = "11"
+P_L = "8"
+P_T = "1"
+P_IP = "169.2"
+P_SH = "3"
+P_AB = "647"
+P_R = "67"
+P_H = "159"
+P_HP = "12"
+P_BB = "41"
+P_SO = "75"
+P_BK = "0"
+P_WP = "4"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "Reilley"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[[person.playing.split]]
+team.name = "London"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "13"
+P_CG = "4"
+P_W = "4"
+P_L = "3"
+P_T = "0"
+P_IP = "71.1"
+P_SH = "1"
+P_AB = "297"
+P_R = "39"
+P_H = "81"
+P_HP = "7"
+P_BB = "21"
+P_SO = "29"
+P_BK = "1"
+P_WP = "2"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Garlow"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "30"
+P_CG = "17"
+P_W = "13"
+P_L = "10"
+P_T = "0"
+P_IP = "204"
+P_SH = "2"
+P_AB = "812"
+P_R = "99"
+P_H = "217"
+P_HP = "4"
+P_BB = "38"
+P_SO = "75"
+P_BK = "0"
+P_WP = "2"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+P_G = "29"
+P_CG = "19"
+P_W = "14"
+P_L = "11"
+P_T = "1"
+P_IP = "225.1"
+P_SH = "0"
+P_AB = "864"
+P_R = "116"
+P_H = "180"
+P_HP = "30"
+P_BB = "114"
+P_SO = "116"
+P_BK = "0"
+P_WP = "10"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "Kane"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "12"
+P_CG = "7"
+P_W = "5"
+P_L = "4"
+P_T = "0"
+P_IP = "85.2"
+P_SH = "0"
+P_AB = "307"
+P_R = "26"
+P_H = "74"
+P_HP = "2"
+P_BB = "27"
+P_SO = "43"
+P_BK = "0"
+P_WP = "0"
+P_PCT = ".555"
+
+
+[[person]]
+name.last = "Sterling"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peterborough"
+[person.playing.totals]
+P_G = "36"
+P_CG = "24"
+P_W = "17"
+P_L = "14"
+P_T = "0"
+P_IP = "250.1"
+P_SH = "0"
+P_AB = "921"
+P_R = "112"
+P_H = "205"
+P_HP = "10"
+P_BB = "93"
+P_SO = "113"
+P_BK = "0"
+P_WP = "3"
+P_PCT = ".548"
+
+
+[[person]]
+name.last = "Steiger"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+P_G = "13"
+P_CG = "7"
+P_W = "6"
+P_L = "5"
+P_T = "1"
+P_IP = "102"
+P_SH = "1"
+P_AB = "421"
+P_R = "60"
+P_H = "132"
+P_HP = "4"
+P_BB = "22"
+P_SO = "36"
+P_BK = "0"
+P_WP = "0"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Tracey"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peterborough"
+[person.playing.totals]
+P_G = "37"
+P_CG = "21"
+P_W = "15"
+P_L = "13"
+P_T = "0"
+P_IP = "247.2"
+P_SH = "2"
+P_AB = "966"
+P_R = "128"
+P_H = "262"
+P_HP = "4"
+P_BB = "35"
+P_SO = "114"
+P_BK = "0"
+P_WP = "2"
+P_PCT = ".536"
+
+
+[[person]]
+name.last = "Auld"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+P_G = "25"
+P_CG = "19"
+P_W = "10"
+P_L = "9"
+P_T = "0"
+P_IP = "191.1"
+P_SH = "3"
+P_AB = "705"
+P_R = "84"
+P_H = "175"
+P_HP = "17"
+P_BB = "48"
+P_SO = "121"
+P_BK = "0"
+P_WP = "5"
+P_PCT = ".526"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "28"
+P_CG = "14"
+P_W = "10"
+P_L = "9"
+P_T = "0"
+P_IP = "185.1"
+P_SH = "0"
+P_AB = "695"
+P_R = "100"
+P_H = "183"
+P_HP = "5"
+P_BB = "89"
+P_SO = "84"
+P_BK = "0"
+P_WP = "5"
+P_PCT = ".526"
+
+
+[[person]]
+name.last = "Nichols"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+P_G = "5"
+P_CG = "3"
+P_W = "2"
+P_L = "2"
+P_T = "0"
+P_IP = "39.2"
+P_SH = "0"
+P_AB = "179"
+P_R = "25"
+P_H = "36"
+P_HP = "6"
+P_BB = "29"
+P_SO = "13"
+P_BK = "0"
+P_WP = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Ostermeyer"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[person.playing.totals]
+P_G = "10"
+P_CG = "5"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_IP = "71"
+P_SH = "0"
+P_AB = "281"
+P_R = "40"
+P_H = "58"
+P_HP = "8"
+P_BB = "30"
+P_SO = "48"
+P_BK = "0"
+P_WP = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "2"
+P_L = "2"
+P_T = "0"
+P_IP = "38.2"
+P_SH = "0"
+P_AB = "143"
+P_R = "116"
+P_H = "180"
+P_HP = "30"
+P_BB = "114"
+P_SO = "116"
+P_BK = "0"
+P_WP = "10"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Coose"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+P_G = "19"
+P_CG = "9"
+P_W = "6"
+P_L = "6"
+P_T = "6"
+P_IP = "119.2"
+P_SH = "2"
+P_AB = "478"
+P_R = "87"
+P_H = "145"
+P_HP = "0"
+P_BB = "33"
+P_SO = "46"
+P_BK = "0"
+P_WP = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Deneau"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+P_G = "17"
+P_CG = "8"
+P_W = "5"
+P_L = "5"
+P_T = "0"
+P_IP = "105.1"
+P_SH = "0"
+P_AB = "412"
+P_R = "46"
+P_H = "93"
+P_HP = "10"
+P_BB = "36"
+P_SO = "40"
+P_BK = "0"
+P_WP = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "1"
+P_L = "1"
+P_T = "1"
+P_IP = "30.1"
+P_SH = "1"
+P_AB = "119"
+P_R = "18"
+P_H = "30"
+P_HP = "2"
+P_BB = "13"
+P_SO = "19"
+P_BK = "0"
+P_WP = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Creswell"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peterborough"
+[person.playing.totals]
+P_G = "16"
+P_CG = "9"
+P_W = "5"
+P_L = "5"
+P_T = "0"
+P_IP = "101"
+P_SH = "3"
+P_AB = "414"
+P_R = "53"
+P_H = "115"
+P_HP = "2"
+P_BB = "21"
+P_SO = "47"
+P_BK = "0"
+P_WP = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Crombey"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "5"
+P_CG = "4"
+P_W = "2"
+P_L = "2"
+P_T = "0"
+P_IP = "38.1"
+P_SH = "0"
+P_AB = "147"
+P_R = "30"
+P_H = "51"
+P_HP = "1"
+P_BB = "6"
+P_SO = "7"
+P_BK = "0"
+P_WP = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "16"
+P_CG = "6"
+P_W = "6"
+P_L = "6"
+P_T = "0"
+P_IP = "962"
+P_SH = "0"
+P_AB = "370"
+P_R = "49"
+P_H = "101"
+P_HP = "4"
+P_BB = "50"
+P_SO = "63"
+P_BK = "0"
+P_WP = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Doherty"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "17"
+P_CG = "7"
+P_W = "6"
+P_L = "6"
+P_T = "0"
+P_IP = "89.1"
+P_SH = "0"
+P_AB = "351"
+P_R = "50"
+P_H = "86"
+P_HP = "5"
+P_BB = "48"
+P_SO = "67"
+P_BK = "0"
+P_WP = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Howick"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[person.playing.totals]
+P_G = "27"
+P_CG = "23"
+P_W = "12"
+P_L = "13"
+P_T = "0"
+P_IP = "220"
+P_SH = "1"
+P_AB = "853"
+P_R = "94"
+P_H = "184"
+P_HP = "9"
+P_BB = "50"
+P_SO = "106"
+P_BK = "1"
+P_WP = "5"
+P_PCT = ".480"
+
+
+[[person]]
+name.last = "Donohue"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "24"
+P_CG = "18"
+P_W = "9"
+P_L = "10"
+P_T = "0"
+P_IP = "171"
+P_SH = "0"
+P_AB = "642"
+P_R = "81"
+P_H = "150"
+P_HP = "8"
+P_BB = "53"
+P_SO = "80"
+P_BK = "0"
+P_WP = "1"
+P_PCT = ".474"
+
+
+[[person]]
+name.last = "Fitzpatrick"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+P_G = "32"
+P_CG = "16"
+P_W = "10"
+P_L = "12"
+P_T = "0"
+P_IP = "225.1"
+P_SH = "0"
+P_AB = "874"
+P_R = "130"
+P_H = "231"
+P_HP = "6"
+P_BB = "67"
+P_SO = "97"
+P_BK = "0"
+P_WP = "3"
+P_PCT = ".454"
+
+
+[[person]]
+name.last = "Craput"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "London"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+P_G = "25"
+P_CG = "13"
+P_W = "9"
+P_L = "11"
+P_T = "0"
+P_IP = "1541"
+P_SH = "1"
+P_AB = "598"
+P_R = "96"
+P_H = "161"
+P_HP = "7"
+P_BB = "60"
+P_SO = "94"
+P_BK = "2"
+P_WP = "4"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Kirley"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Guelph"
+[person.playing.totals]
+P_G = "22"
+P_CG = "14"
+P_W = "8"
+P_L = "10"
+P_T = "0"
+P_IP = "143.1"
+P_SH = "0"
+P_AB = "509"
+P_R = "55"
+P_H = "101"
+P_HP = "4"
+P_BB = "47"
+P_SO = "79"
+P_BK = "0"
+P_WP = "1"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Schaefer"
+name.given = "W."
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+P_G = "30"
+P_CG = "19"
+P_W = "10"
+P_L = "13"
+P_T = "0"
+P_IP = "201"
+P_SH = "1"
+P_AB = "788"
+P_R = "99"
+P_H = "216"
+P_HP = "6"
+P_BB = "43"
+P_SO = "103"
+P_BK = "0"
+P_WP = "0"
+P_PCT = ".435"
+
+
+[[person]]
+name.last = "Schuyler"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+P_G = "23"
+P_CG = "13"
+P_W = "9"
+P_L = "12"
+P_T = "0"
+P_IP = "169"
+P_SH = "1"
+P_AB = "678"
+P_R = "97"
+P_H = "183"
+P_HP = "13"
+P_BB = "65"
+P_SO = "84"
+P_BK = "0"
+P_WP = "4"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Kehoe"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+P_G = "5"
+P_CG = "4"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_IP = "36.1"
+P_SH = "1"
+P_AB = "157"
+P_R = "39"
+P_H = "52"
+P_HP = "6"
+P_BB = "20"
+P_SO = "11"
+P_BK = "0"
+P_WP = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Lill"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ottawa"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+P_G = "35"
+P_CG = "13"
+P_W = "10"
+P_L = "17"
+P_T = "1"
+P_IP = "194.1"
+P_SH = "1"
+P_AB = "734"
+P_R = "130"
+P_H = "182"
+P_HP = "22"
+P_BB = "140"
+P_SO = "152"
+P_BK = "1"
+P_WP = "21"
+P_PCT = ".370"
+
+
+[[person]]
+name.last = "Bramble"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+P_G = "28"
+P_CG = "23"
+P_W = "9"
+P_L = "18"
+P_T = "0"
+P_IP = "214.1"
+P_SH = "0"
+P_AB = "827"
+P_R = "119"
+P_H = "217"
+P_HP = "17"
+P_BB = "70"
+P_SO = "121"
+P_BK = "0"
+P_WP = "5"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Clearmont"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+P_G = "36"
+P_CG = "15"
+P_W = "7"
+P_L = "17"
+P_T = "9"
+P_IP = "232"
+P_SH = "1"
+P_AB = "948"
+P_R = "155"
+P_H = "263"
+P_HP = "14"
+P_BB = "103"
+P_SO = "71"
+P_BK = "0"
+P_WP = "10"
+P_PCT = ".292"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+P_G = "10"
+P_CG = "2"
+P_W = "2"
+P_L = "5"
+P_T = "0"
+P_IP = "57"
+P_SH = "0"
+P_AB = "225"
+P_R = "36"
+P_H = "63"
+P_HP = "12"
+P_BB = "19"
+P_SO = "27"
+P_BK = "0"
+P_WP = "2"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Teed"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "10"
+P_CG = "4"
+P_W = "2"
+P_L = "5"
+P_T = "0"
+P_IP = "55"
+P_SH = "0"
+P_AB = "242"
+P_R = "68"
+P_H = "74"
+P_HP = "1"
+P_BB = "31"
+P_SO = "36"
+P_BK = "0"
+P_WP = "2"
+P_PCT = ".286"
+
+
+[[person]]
+name.last = "Gero"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brantford"
+[person.playing.totals]
+P_G = "31"
+P_CG = "18"
+P_W = "6"
+P_L = "19"
+P_T = "0"
+P_IP = "200.1"
+P_SH = "1"
+P_AB = "111"
+P_R = "108"
+P_H = "226"
+P_HP = "9"
+P_BB = "54"
+P_SO = "113"
+P_BK = "0"
+P_WP = "0"
+P_PCT = ".240"
+
+
+[[person]]
+name.last = "Bradshaw"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Berlin"
+[person.playing.totals]
+P_G = "28"
+P_CG = "22"
+P_W = "5"
+P_L = "18"
+P_T = "9"
+P_IP = "208"
+P_SH = "1"
+P_AB = "806"
+P_R = "138"
+P_H = "201"
+P_HP = "17"
+P_BB = "73"
+P_SO = "190"
+P_BK = "0"
+P_WP = "6"
+P_PCT = ".217"
+
+
+[[person]]
+name.last = "Brodie"
+[[person.playing]]
+season = "1913"
+league.name = "Canadian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Peterborough"
+[[person.playing.split]]
+team.name = "St. Thomas"
+[[person.playing.split]]
+team.name = "Hamilton"
+[person.playing.totals]
+P_G = "14"
+P_CG = "7"
+P_W = "2"
+P_L = "10"
+P_T = "0"
+P_IP = "99.2"
+P_SH = "0"
+P_AB = "375"
+P_R = "54"
+P_H = "93"
+P_HP = "2"
+P_BB = "32"
+P_SO = "50"
+P_BK = "2"
+P_WP = "2"
+P_PCT = ".120"

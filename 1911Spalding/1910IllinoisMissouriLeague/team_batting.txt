@@ -1,0 +1,130 @@
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3801"
+B_R = "436"
+B_H = "998"
+B_2B = "143"
+B_3B = "39"
+B_HR = "9"
+B_TB = "1236"
+B_SH = "195"
+B_SB = "161"
+B_SO = "445"
+B_BB = "196"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Macomb"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_G = "93"
+B_AB = "3197"
+B_R = "365"
+B_H = "802"
+B_2B = "95"
+B_3B = "37"
+B_HR = "7"
+B_TB = "992"
+B_SH = "103"
+B_SB = "94"
+B_SO = "379"
+B_BB = "156"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3646"
+B_R = "473"
+B_H = "903"
+B_2B = "158"
+B_3B = "36"
+B_HR = "12"
+B_TB = "1169"
+B_SH = "207"
+B_SB = "217"
+B_SO = "470"
+B_BB = "272"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Beardstown/Jacksonville"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_G = "83"
+B_AB = "2692"
+B_R = "325"
+B_H = "639"
+B_2B = "96"
+B_3B = "31"
+B_HR = "8"
+B_TB = "821"
+B_SH = "115"
+B_SB = "157"
+B_SO = "302"
+B_BB = "144"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3754"
+B_R = "392"
+B_H = "860"
+B_2B = "141"
+B_3B = "42"
+B_HR = "6"
+B_TB = "1103"
+B_SH = "143"
+B_SB = "175"
+B_SO = "518"
+B_BB = "238"
+B_AVG = ".229"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3777"
+B_R = "358"
+B_H = "816"
+B_2B = "117"
+B_3B = "49"
+B_HR = "3"
+B_TB = "1040"
+B_SH = "158"
+B_SB = "148"
+B_SO = "614"
+B_BB = "228"
+B_AVG = ".216"

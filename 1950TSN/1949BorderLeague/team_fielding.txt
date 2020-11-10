@@ -1,0 +1,100 @@
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "141"
+F_PB = "11"
+F_PO = "3320"
+F_A = "1532"
+F_E = "203"
+F_TP = "0"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Ottawa"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "119"
+F_PB = "8"
+F_PO = "3341"
+F_A = "1427"
+F_E = "230"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "95"
+F_PB = "10"
+F_PO = "3368"
+F_A = "1310"
+F_E = "229"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Watertown"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "106"
+F_PB = "28"
+F_PO = "3318"
+F_A = "1411"
+F_E = "242"
+F_TP = "1"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Ogdensburg"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "116"
+F_PB = "23"
+F_PO = "3380"
+F_A = "1460"
+F_E = "271"
+F_TP = "1"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Kingston"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "118"
+F_PB = "12"
+F_PO = "3270"
+F_A = "1517"
+F_E = "284"
+F_TP = "0"
+F_PCT = ".944"

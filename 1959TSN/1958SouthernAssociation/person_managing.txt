@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Ermer"
+name.given = "Calvin"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Birmingham"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McGaha"
+name.given = "F. Melvin"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mobile"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bates"
+name.given = "Hubert (Buddy)"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Atlanta"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Marion"
+name.given = "John (Red)"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Chattanooga"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Sisler"
+name.given = "Richard"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Nashville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Peden"
+name.given = "Leslie"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Little Rock"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Warren (Sheriff)"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Memphis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Silvera"
+name.given = "Charles"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "New Orleans"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Yochim"
+name.given = "Raymond"
+[[person.managing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "New Orleans"
+S_ORDER = "2"
+[person.managing.totals]

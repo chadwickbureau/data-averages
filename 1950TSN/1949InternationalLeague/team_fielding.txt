@@ -1,0 +1,134 @@
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "145"
+F_PB = "8"
+F_PO = "3957"
+F_A = "1640"
+F_E = "158"
+F_PCT = ".971"
+F_TP = "0"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "151"
+F_PB = "6"
+F_PO = "3817"
+F_A = "1605"
+F_E = "170"
+F_PCT = ".970"
+F_TP = "0"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "154"
+F_PB = "13"
+F_PO = "3959"
+F_A = "1570"
+F_E = "177"
+F_PCT = ".969"
+F_TP = "0"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "143"
+F_PB = "11"
+F_PO = "3953"
+F_A = "1629"
+F_E = "183"
+F_PCT = ".968"
+F_TP = "0"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "172"
+F_PB = "16"
+F_PO = "3880"
+F_A = "1679"
+F_E = "187"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "153"
+F_PB = "20"
+F_PO = "3881"
+F_A = "1580"
+F_E = "187"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "125"
+F_PB = "10"
+F_PO = "3843"
+F_A = "1513"
+F_E = "193"
+F_PCT = ".965"
+F_TP = "0"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1949"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "151"
+F_PB = "9"
+F_PO = "3838"
+F_A = "1576"
+F_E = "256"
+F_PCT = ".955"
+F_TP = "0"

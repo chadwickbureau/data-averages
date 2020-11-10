@@ -1,0 +1,54 @@
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Carolina League"
+phase = "regular/second"
+[team.playing.totals]
+R_G = "34"
+R_W = "22"
+R_L = "12"
+R_PCT = ".647"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wilson"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Carolina League"
+phase = "regular/second"
+[team.playing.totals]
+R_G = "31"
+R_W = "19"
+R_L = "12"
+R_PCT = ".613"
+R_RANK = "2"
+
+
+[[team]]
+name = "Goldsboro"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Carolina League"
+phase = "regular/second"
+[team.playing.totals]
+R_G = "34"
+R_W = "18"
+R_L = "16"
+R_PCT = ".529"
+R_RANK = "3"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern Carolina League"
+phase = "regular/second"
+[team.playing.totals]
+R_G = "35"
+R_W = "8"
+R_L = "27"
+R_PCT = ".229"
+R_RANK = "4"

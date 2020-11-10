@@ -1,0 +1,158 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3801"
+B_R = "624"
+B_H = "1046"
+B_TB = "1386"
+B_2B = "169"
+B_3B = "51"
+B_HR = "23"
+B_SH = "174"
+B_SB = "147"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3975"
+B_R = "567"
+B_H = "1069"
+B_TB = "1392"
+B_2B = "154"
+B_3B = "62"
+B_HR = "15"
+B_SH = "149"
+B_SB = "202"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4081"
+B_R = "549"
+B_H = "1087"
+B_TB = "1445"
+B_2B = "170"
+B_3B = "55"
+B_HR = "26"
+B_SH = "157"
+B_SB = "158"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3843"
+B_R = "597"
+B_H = "992"
+B_TB = "1368"
+B_2B = "182"
+B_3B = "34"
+B_HR = "42"
+B_SH = "141"
+B_SB = "258"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4074"
+B_R = "507"
+B_H = "1033"
+B_TB = "1260"
+B_2B = "136"
+B_3B = "49"
+B_HR = "31"
+B_SH = "135"
+B_SB = "132"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3739"
+B_R = "421"
+B_H = "923"
+B_TB = "1227"
+B_2B = "117"
+B_3B = "23"
+B_HR = "47"
+B_SH = "113"
+B_SB = "140"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4095"
+B_R = "392"
+B_H = "1002"
+B_TB = "1276"
+B_2B = "130"
+B_3B = "42"
+B_HR = "20"
+B_SH = "103"
+B_SB = "115"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1914"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3940"
+B_R = "485"
+B_H = "932"
+B_TB = "1232"
+B_2B = "122"
+B_3B = "59"
+B_HR = "20"
+B_SH = "167"
+B_SB = "146"
+B_AVG = ".237"

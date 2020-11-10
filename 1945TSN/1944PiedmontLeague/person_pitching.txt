@@ -1,0 +1,3010 @@
+[[person]]
+name.last = "Jiminez"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "23"
+P_CG = "13"
+P_W = "15"
+P_L = "5"
+P_PCT = ".750"
+P_IP = "155"
+P_AB = "600"
+P_H = "136"
+P_R = "45"
+P_ER = "26"
+P_SH = "6"
+P_BB = "25"
+P_SO = "111"
+P_HP = "3"
+P_WP = "7"
+P_ERA = "1.51"
+P_BK = "0"
+P_T = "0"
+P_SHO = "4"
+
+
+[[person]]
+name.last = "King"
+name.given = "C."
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "10"
+P_CG = "8"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "74"
+P_AB = "267"
+P_H = "53"
+P_R = "24"
+P_ER = "13"
+P_SH = "5"
+P_BB = "20"
+P_SO = "45"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "1.58"
+P_BK = "0"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Wright"
+name.given = "E."
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "14"
+P_CG = "11"
+P_W = "8"
+P_L = "3"
+P_PCT = ".727"
+P_IP = "96"
+P_AB = "368"
+P_H = "86"
+P_R = "31"
+P_ER = "18"
+P_SH = "7"
+P_BB = "24"
+P_SO = "69"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "1.69"
+P_BK = "0"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Evans"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "12"
+P_CG = "8"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "82"
+P_AB = "314"
+P_H = "75"
+P_R = "26"
+P_ER = "16"
+P_SH = "6"
+P_BB = "33"
+P_SO = "37"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "1.76"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Gettel"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "31"
+P_CG = "18"
+P_W = "17"
+P_L = "7"
+P_PCT = ".708"
+P_IP = "224"
+P_AB = "824"
+P_H = "177"
+P_R = "61"
+P_ER = "45"
+P_SH = "10"
+P_BB = "64"
+P_SO = "232"
+P_HP = "15"
+P_WP = "11"
+P_ERA = "1.81"
+P_BK = "2"
+P_T = "1"
+P_SHO = "5"
+
+
+[[person]]
+name.last = "Petrick"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "9"
+P_CG = "5"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "58"
+P_AB = "235"
+P_H = "59"
+P_R = "23"
+P_ER = "13"
+P_SH = "2"
+P_BB = "22"
+P_SO = "29"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "2.02"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Echols"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "31"
+P_CG = "21"
+P_W = "16"
+P_L = "10"
+P_PCT = ".615"
+P_IP = "224"
+P_AB = "851"
+P_H = "178"
+P_R = "98"
+P_ER = "51"
+P_SH = "11"
+P_BB = "88"
+P_SO = "166"
+P_HP = "7"
+P_WP = "2"
+P_ERA = "2.05"
+P_BK = "0"
+P_T = "0"
+P_SHO = "3"
+
+
+[[person]]
+name.last = "Braxton"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "20"
+P_CG = "7"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "86"
+P_AB = "325"
+P_H = "83"
+P_R = "25"
+P_ER = "20"
+P_SH = "10"
+P_BB = "15"
+P_SO = "42"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "2.09"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Koch"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "30"
+P_CG = "24"
+P_W = "17"
+P_L = "10"
+P_PCT = ".630"
+P_IP = "234"
+P_AB = "843"
+P_H = "173"
+P_R = "83"
+P_ER = "56"
+P_SH = "17"
+P_BB = "117"
+P_SO = "217"
+P_HP = "8"
+P_WP = "9"
+P_ERA = "2.15"
+P_BK = "1"
+P_T = "1"
+P_SHO = "3"
+
+
+[[person]]
+name.last = "Chapman"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "21"
+P_CG = "17"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "163"
+P_AB = "595"
+P_H = "127"
+P_R = "46"
+P_ER = "40"
+P_SH = "7"
+P_BB = "63"
+P_SO = "147"
+P_HP = "3"
+P_WP = "3"
+P_ERA = "2.21"
+P_BK = "0"
+P_T = "1"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Harris"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "21"
+P_CG = "13"
+P_W = "9"
+P_L = "6"
+P_PCT = ".600"
+P_IP = "142"
+P_AB = "546"
+P_H = "137"
+P_R = "45"
+P_ER = "35"
+P_SH = "9"
+P_BB = "40"
+P_SO = "71"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "2.22"
+P_BK = "0"
+P_T = "0"
+P_SHO = "4"
+
+
+[[person]]
+name.last = "Levy"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "27"
+P_CG = "18"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_IP = "210"
+P_AB = "819"
+P_H = "208"
+P_R = "83"
+P_ER = "53"
+P_SH = "9"
+P_BB = "47"
+P_SO = "146"
+P_HP = "5"
+P_WP = "4"
+P_ERA = "2.27"
+P_BK = "1"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "D."
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "29"
+P_CG = "15"
+P_W = "11"
+P_L = "10"
+P_PCT = ".524"
+P_IP = "181"
+P_AB = "671"
+P_H = "137"
+P_R = "85"
+P_ER = "48"
+P_SH = "12"
+P_BB = "105"
+P_SO = "113"
+P_HP = "10"
+P_WP = "7"
+P_ERA = "2.39"
+P_BK = "0"
+P_T = "1"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Neuberger"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "22"
+P_CG = "15"
+P_W = "8"
+P_L = "8"
+P_PCT = ".500"
+P_IP = "152"
+P_AB = "580"
+P_H = "136"
+P_R = "60"
+P_ER = "42"
+P_SH = "10"
+P_BB = "40"
+P_SO = "75"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "2.49"
+P_BK = "0"
+P_T = "1"
+P_SHO = "3"
+
+
+[[person]]
+name.last = "Sumey"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "26"
+P_CG = "10"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "138"
+P_AB = "522"
+P_H = "119"
+P_R = "66"
+P_ER = "39"
+P_SH = "9"
+P_BB = "67"
+P_SO = "85"
+P_HP = "2"
+P_WP = "19"
+P_ERA = "2.54"
+P_BK = "2"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kania"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "24"
+P_CG = "8"
+P_W = "7"
+P_L = "9"
+P_PCT = ".438"
+P_IP = "133"
+P_AB = "510"
+P_H = "125"
+P_R = "67"
+P_ER = "38"
+P_SH = "14"
+P_BB = "63"
+P_SO = "73"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "2.57"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Uniak"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "14"
+P_CG = "7"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "95"
+P_AB = "344"
+P_H = "68"
+P_R = "35"
+P_ER = "28"
+P_SH = "7"
+P_BB = "44"
+P_SO = "99"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "2.65"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Stoehr"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "9"
+P_CG = "2"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "51"
+P_AB = "188"
+P_H = "41"
+P_R = "27"
+P_ER = "15"
+P_SH = "5"
+P_BB = "37"
+P_SO = "21"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "2.65"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Glor"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "37"
+P_CG = "13"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "192"
+P_AB = "757"
+P_H = "196"
+P_R = "87"
+P_ER = "60"
+P_SH = "10"
+P_BB = "36"
+P_SO = "94"
+P_HP = "2"
+P_WP = "5"
+P_ERA = "2.81"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Pfennig"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "20"
+P_CG = "10"
+P_W = "9"
+P_L = "6"
+P_PCT = ".600"
+P_IP = "138"
+P_AB = "528"
+P_H = "131"
+P_R = "55"
+P_ER = "45"
+P_SH = "15"
+P_BB = "45"
+P_SO = "78"
+P_HP = "2"
+P_WP = "6"
+P_ERA = "2.93"
+P_BK = "2"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Frick"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "15"
+P_CG = "7"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "85"
+P_AB = "315"
+P_H = "69"
+P_R = "47"
+P_ER = "28"
+P_SH = "13"
+P_BB = "53"
+P_SO = "47"
+P_HP = "5"
+P_WP = "1"
+P_ERA = "2.96"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Goad"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "33"
+P_CG = "15"
+P_W = "12"
+P_L = "10"
+P_PCT = ".545"
+P_IP = "205"
+P_AB = "789"
+P_H = "206"
+P_R = "92"
+P_ER = "68"
+P_SH = "13"
+P_BB = "68"
+P_SO = "86"
+P_HP = "7"
+P_WP = "4"
+P_ERA = "2.99"
+P_BK = "5"
+P_T = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Land"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "8"
+P_CG = "3"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "51"
+P_AB = "206"
+P_H = "49"
+P_R = "28"
+P_ER = "17"
+P_SH = "5"
+P_BB = "16"
+P_SO = "12"
+P_HP = "3"
+P_WP = "0"
+P_ERA = "3.00"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "21"
+P_CG = "17"
+P_W = "14"
+P_L = "6"
+P_PCT = ".700"
+P_IP = "180"
+P_AB = "719"
+P_H = "194"
+P_R = "87"
+P_ER = "61"
+P_SH = "9"
+P_BB = "36"
+P_SO = "81"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "3.05"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Sangil"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "23"
+P_CG = "12"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "144"
+P_AB = "590"
+P_H = "166"
+P_R = "73"
+P_ER = "49"
+P_SH = "4"
+P_BB = "29"
+P_SO = "78"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "3.06"
+P_BK = "2"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+P_G = "9"
+[[person.playing.split]]
+team.name = "Portsmouth"
+P_G = "24"
+[person.playing.totals]
+P_G = "33"
+P_CG = "8"
+P_W = "9"
+P_L = "8"
+P_PCT = ".529"
+P_IP = "148"
+P_AB = "587"
+P_H = "147"
+P_R = "75"
+P_ER = "52"
+P_SH = "13"
+P_BB = "49"
+P_SO = "85"
+P_HP = "5"
+P_WP = "6"
+P_ERA = "3.16"
+P_BK = "2"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Newport News"
+P_G = "23"
+[person.playing.totals]
+P_G = "29"
+P_CG = "7"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "168"
+P_AB = "666"
+P_H = "176"
+P_R = "99"
+P_ER = "60"
+P_SH = "18"
+P_BB = "88"
+P_SO = "83"
+P_HP = "2"
+P_WP = "13"
+P_ERA = "3.21"
+P_BK = "0"
+P_T = "0"
+P_SHO = "3"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "20"
+P_CG = "4"
+P_W = "3"
+P_L = "7"
+P_PCT = ".300"
+P_IP = "89"
+P_AB = "327"
+P_H = "75"
+P_R = "49"
+P_ER = "33"
+P_SH = "5"
+P_BB = "26"
+P_SO = "54"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "3.34"
+P_BK = "2"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "16"
+P_CG = "8"
+P_W = "9"
+P_L = "3"
+P_PCT = ".750"
+P_IP = "105"
+P_AB = "409"
+P_H = "100"
+P_R = "53"
+P_ER = "40"
+P_SH = "2"
+P_BB = "42"
+P_SO = "34"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.43"
+P_BK = "3"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Houtz"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "37"
+P_CG = "9"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "178"
+P_AB = "683"
+P_H = "157"
+P_R = "103"
+P_ER = "68"
+P_SH = "21"
+P_BB = "109"
+P_SO = "162"
+P_HP = "10"
+P_WP = "9"
+P_ERA = "3.44"
+P_BK = "2"
+P_T = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Codde"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "36"
+P_CG = "11"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+P_IP = "176"
+P_AB = "713"
+P_H = "191"
+P_R = "92"
+P_ER = "68"
+P_SH = "21"
+P_BB = "49"
+P_SO = "61"
+P_HP = "6"
+P_WP = "4"
+P_ERA = "3.48"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "20"
+P_CG = "8"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "116"
+P_AB = "452"
+P_H = "112"
+P_R = "62"
+P_ER = "45"
+P_SH = "7"
+P_BB = "40"
+P_SO = "75"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "3.49"
+P_BK = "0"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Faszholz"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "14"
+P_CG = "4"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "71"
+P_AB = "281"
+P_H = "80"
+P_R = "42"
+P_ER = "28"
+P_SH = "8"
+P_BB = "38"
+P_SO = "24"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "3.55"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Weldon"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "8"
+P_CG = "4"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "52"
+P_AB = "204"
+P_H = "52"
+P_R = "25"
+P_ER = "21"
+P_SH = "2"
+P_BB = "13"
+P_SO = "11"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "3.63"
+P_BK = "1"
+P_T = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Newport News"
+P_G = "23"
+[person.playing.totals]
+P_G = "28"
+P_CG = "9"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+P_IP = "121"
+P_AB = "513"
+P_H = "147"
+P_R = "70"
+P_ER = "49"
+P_SH = "9"
+P_BB = "21"
+P_SO = "74"
+P_HP = "1"
+P_WP = "6"
+P_ERA = "3.64"
+P_BK = "0"
+P_T = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Nickerson"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "20"
+P_CG = "4"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "91"
+P_AB = "366"
+P_H = "91"
+P_R = "58"
+P_ER = "37"
+P_SH = "7"
+P_BB = "60"
+P_SO = "59"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "3.66"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Michaels"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "13"
+P_CG = "2"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "56"
+P_AB = "202"
+P_H = "49"
+P_R = "32"
+P_ER = "23"
+P_SH = "5"
+P_BB = "39"
+P_SO = "27"
+P_HP = "0"
+P_WP = "6"
+P_ERA = "3.70"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Studener"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "9"
+P_CG = "5"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "60"
+P_AB = "239"
+P_H = "53"
+P_R = "39"
+P_ER = "25"
+P_SH = "4"
+P_BB = "45"
+P_SO = "48"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "3.75"
+P_BK = "1"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Roxburgh"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "9"
+P_CG = "2"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "47"
+P_AB = "187"
+P_H = "43"
+P_R = "31"
+P_ER = "20"
+P_SH = "3"
+P_BB = "25"
+P_SO = "16"
+P_HP = "0"
+P_WP = "3"
+P_ERA = "3.83"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "DeRenzo"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "28"
+P_CG = "6"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "152"
+P_AB = "592"
+P_H = "159"
+P_R = "78"
+P_ER = "65"
+P_SH = "10"
+P_BB = "75"
+P_SO = "77"
+P_HP = "9"
+P_WP = "6"
+P_ERA = "3.85"
+P_BK = "0"
+P_T = "2"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Diaz"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "26"
+P_CG = "16"
+P_W = "9"
+P_L = "13"
+P_PCT = ".409"
+P_IP = "198"
+P_AB = "733"
+P_H = "180"
+P_R = "110"
+P_ER = "86"
+P_SH = "19"
+P_BB = "116"
+P_SO = "91"
+P_HP = "16"
+P_WP = "4"
+P_ERA = "3.91"
+P_BK = "3"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Palmer"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "20"
+P_CG = "9"
+P_W = "4"
+P_L = "11"
+P_PCT = ".267"
+P_IP = "108"
+P_AB = "429"
+P_H = "121"
+P_R = "60"
+P_ER = "47"
+P_SH = "8"
+P_BB = "43"
+P_SO = "49"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "3.92"
+P_BK = "2"
+P_T = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Collins"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "22"
+P_CG = "4"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "96"
+P_AB = "397"
+P_H = "113"
+P_R = "64"
+P_ER = "43"
+P_SH = "13"
+P_BB = "46"
+P_SO = "56"
+P_HP = "5"
+P_WP = "3"
+P_ERA = "4.03"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Ernst"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "13"
+P_CG = "2"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "50"
+P_AB = "198"
+P_H = "53"
+P_R = "32"
+P_ER = "23"
+P_SH = "8"
+P_BB = "22"
+P_SO = "28"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "4.14"
+P_BK = "0"
+P_T = "2"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Labine"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "12"
+P_CG = "3"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "56"
+P_AB = "222"
+P_H = "62"
+P_R = "35"
+P_ER = "26"
+P_SH = "7"
+P_BB = "28"
+P_SO = "29"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "4.18"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hopke"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "26"
+P_CG = "12"
+P_W = "6"
+P_L = "13"
+P_PCT = ".316"
+P_IP = "155"
+P_AB = "549"
+P_H = "115"
+P_R = "106"
+P_ER = "75"
+P_SH = "20"
+P_BB = "152"
+P_SO = "94"
+P_HP = "11"
+P_WP = "16"
+P_ERA = "4.35"
+P_BK = "1"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Alexander"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "7"
+P_CG = "1"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "45"
+P_AB = "167"
+P_H = "38"
+P_R = "33"
+P_ER = "22"
+P_SH = "6"
+P_BB = "36"
+P_SO = "34"
+P_HP = "3"
+P_WP = "3"
+P_ERA = "4.40"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Maher"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "40"
+P_CG = "9"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+P_IP = "176"
+P_AB = "706"
+P_H = "213"
+P_R = "117"
+P_ER = "91"
+P_SH = "19"
+P_BB = "62"
+P_SO = "53"
+P_HP = "8"
+P_WP = "2"
+P_ERA = "4.65"
+P_BK = "1"
+P_T = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Tanner"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "37"
+P_CG = "12"
+P_W = "7"
+P_L = "17"
+P_PCT = ".292"
+P_IP = "192"
+P_AB = "742"
+P_H = "189"
+P_R = "138"
+P_ER = "103"
+P_SH = "16"
+P_BB = "155"
+P_SO = "126"
+P_HP = "10"
+P_WP = "22"
+P_ERA = "4.83"
+P_BK = "1"
+P_T = "1"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Weldon"
+name.given = "C."
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "17"
+P_CG = "4"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "61"
+P_AB = "245"
+P_H = "71"
+P_R = "43"
+P_ER = "38"
+P_SH = "2"
+P_BB = "42"
+P_SO = "28"
+P_HP = "6"
+P_WP = "3"
+P_ERA = "5.61"
+P_BK = "0"
+P_T = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Flannagan"
+name.given = "Ray"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "8"
+P_H = "15"
+P_R = "8"
+P_BB = "2"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kwoka"
+name.given = "Raymond"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "18"
+P_H = "17"
+P_R = "11"
+P_BB = "14"
+P_SO = "9"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Enright"
+name.given = "Eugene"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+P_G = "3"
+[[person.playing.split]]
+team.name = "Newport News"
+P_G = "3"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "17"
+P_H = "19"
+P_R = "9"
+P_BB = "15"
+P_SO = "3"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Newell"
+name.given = "Paul"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "16"
+P_H = "16"
+P_R = "10"
+P_BB = "2"
+P_SO = "3"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Banta"
+name.given = "Jack"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "14"
+P_H = "16"
+P_R = "6"
+P_BB = "3"
+P_SO = "10"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Foxx"
+name.given = "James"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "2"
+P_CG = "1"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "11"
+P_H = "11"
+P_R = "5"
+P_BB = "3"
+P_SO = "9"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Driscoll"
+name.given = "Courtney"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "9"
+P_H = "6"
+P_R = "7"
+P_BB = "6"
+P_SO = "6"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Domenick"
+name.given = "Ralph"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "36"
+P_H = "46"
+P_R = "28"
+P_BB = "23"
+P_SO = "18"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Underwood"
+name.given = "Frank"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "31"
+P_H = "38"
+P_R = "19"
+P_BB = "13"
+P_SO = "10"
+P_HP = "4"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Albrecht"
+name.given = "George"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "28"
+P_H = "33"
+P_R = "20"
+P_BB = "14"
+P_SO = "8"
+P_HP = "2"
+P_WP = "2"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Angelino"
+name.given = "Michael"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "14"
+P_H = "16"
+P_R = "9"
+P_BB = "9"
+P_SO = "10"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Lark"
+name.given = "Jack"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "12"
+P_CG = "1"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "38"
+P_H = "53"
+P_R = "32"
+P_BB = "20"
+P_SO = "40"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Holden"
+name.given = "Daniel"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "6"
+P_CG = "2"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "40"
+P_H = "36"
+P_R = "18"
+P_BB = "22"
+P_SO = "12"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Curtis"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "29"
+P_H = "44"
+P_R = "18"
+P_BB = "7"
+P_SO = "7"
+P_HP = "1"
+P_WP = "0"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Colontino"
+name.given = "John"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "6"
+P_CG = "2"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "28"
+P_H = "28"
+P_R = "13"
+P_BB = "18"
+P_SO = "18"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Mills"
+name.given = "Arthur"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "38"
+P_H = "41"
+P_R = "24"
+P_BB = "20"
+P_SO = "14"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kearney"
+name.given = "Charles"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "14"
+P_H = "18"
+P_R = "14"
+P_BB = "9"
+P_SO = "9"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Beard"
+name.given = "Hope"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "10"
+P_H = "19"
+P_R = "19"
+P_BB = "13"
+P_SO = "7"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Pullen"
+name.given = "Paul"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "7"
+P_CG = "4"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "40"
+P_H = "56"
+P_R = "31"
+P_BB = "14"
+P_SO = "21"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Tennyson"
+name.given = "Roy"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "7"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "37"
+P_H = "42"
+P_R = "24"
+P_BB = "9"
+P_SO = "9"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Osgood"
+name.given = "Charles"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "26"
+P_H = "25"
+P_R = "11"
+P_BB = "16"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Smola"
+name.given = "Walter"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "23"
+P_H = "33"
+P_R = "20"
+P_BB = "12"
+P_SO = "9"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Howard"
+name.given = "Neil"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "43"
+P_H = "40"
+P_R = "32"
+P_BB = "37"
+P_SO = "18"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Crocker"
+name.given = "Claude"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "7"
+P_CG = "2"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "21"
+P_H = "22"
+P_R = "18"
+P_BB = "16"
+P_SO = "5"
+P_HP = "0"
+P_WP = "2"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Colclough"
+name.given = "John"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "11"
+P_CG = "1"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "41"
+P_H = "44"
+P_R = "34"
+P_BB = "23"
+P_SO = "14"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Bustle"
+name.given = "William"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "36"
+P_H = "38"
+P_R = "18"
+P_BB = "10"
+P_SO = "24"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Fisher"
+name.given = "Norman"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "20"
+P_H = "20"
+P_R = "15"
+P_BB = "20"
+P_SO = "14"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Carl"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "7"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "21"
+P_R = "17"
+P_BB = "3"
+P_SO = "11"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Frank"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "23"
+P_R = "20"
+P_BB = "18"
+P_SO = "5"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "James "
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "5"
+P_H = "5"
+P_R = "5"
+P_BB = "6"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Rutherford"
+name.given = "Wilbur"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "24"
+P_H = "29"
+P_R = "25"
+P_BB = "10"
+P_SO = "9"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+name.given = "John"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "21"
+P_H = "19"
+P_R = "15"
+P_BB = "13"
+P_SO = "14"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Adametz"
+name.given = "Steve"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "16"
+P_R = "13"
+P_BB = "14"
+P_SO = "13"
+P_HP = "8"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Norman"
+name.given = "Verne"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "19"
+P_R = "13"
+P_BB = "10"
+P_SO = "12"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Dzuroska"
+name.given = "Walter"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "7"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "22"
+P_R = "21"
+P_BB = "9"
+P_SO = "6"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Ewing"
+name.given = "Walter"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "16"
+P_R = "12"
+P_BB = "5"
+P_SO = "3"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Griffin"
+name.given = "Odell"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "12"
+P_R = "4"
+P_BB = "6"
+P_SO = "10"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Staley"
+name.given = "Thomas"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "2"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "12"
+P_R = "13"
+P_BB = "9"
+P_SO = "9"
+P_HP = "0"
+P_WP = "0"
+P_BK = "2"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "Wyman"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "9"
+P_H = "13"
+P_R = "12"
+P_BB = "8"
+P_SO = "4"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Caviness"
+name.given = "Robert"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "4"
+P_H = "8"
+P_R = "10"
+P_BB = "6"
+P_SO = "1"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Locallo"
+name.given = "Joe"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "3"
+P_H = "2"
+P_R = "4"
+P_BB = "4"
+P_SO = "3"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Parker"
+name.given = "James"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "2"
+P_H = "5"
+P_R = "6"
+P_BB = "6"
+P_SO = "1"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Dowdy"
+name.given = "Herman"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "1"
+P_H = "4"
+P_R = "6"
+P_BB = "2"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Parker"
+name.given = "Jesse"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "1"
+P_H = "4"
+P_R = "3"
+P_BB = "0"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Fernandez"
+name.given = "David"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "12"
+P_IP = "27"
+
+
+[[person]]
+name.last = "Dineen"
+name.given = "John"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "5"
+P_IP = "24"
+
+
+[[person]]
+name.last = "Juzek"
+name.given = "Gerald"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "6"
+P_IP = "16"
+
+
+[[person]]
+name.last = "Morgan"
+name.given = "Richard"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "3"
+P_IP = "12"
+
+
+[[person]]
+name.last = "Tobia"
+name.given = "Alfonse"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "4"
+P_IP = "8"
+
+
+[[person]]
+name.last = "Condit"
+name.given = "Clarence"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newport News"
+[person.playing.totals]
+P_G = "1"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Traylor"
+name.given = "R. Woodrow"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Richmond"
+P_G = "4"
+[person.playing.totals]
+P_G = "5"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Roberts"
+name.given = "David"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "3"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Libby"
+name.given = "Richard"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "2"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Edward"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "2"
+P_IP = "5"
+
+
+[[person]]
+name.last = "Petree"
+name.given = "Donald"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "2"
+P_IP = "4"
+
+
+[[person]]
+name.last = "McDonald"
+name.given = "Robert"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "1"
+P_IP = "3"
+
+
+[[person]]
+name.last = "Heckenberg"
+name.given = "Dean"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "1"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Burke"
+name.given = "Thomas"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Roanoke"
+[person.playing.totals]
+P_G = "2"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Hamer"
+name.given = "Everett"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "1"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Ferrell"
+name.given = "George"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "2"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Blackman"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Pinion"
+name.given = "Carl"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Trine"
+name.given = "William"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lynchburg"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Nalley"
+name.given = "Joseph"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Chuvola"
+name.given = "John"
+description.throws = "L"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "1"
+P_IP = "0.1"
+
+
+[[person]]
+name.last = "Anechiarico"
+name.given = "Edward"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+P_G = "1"
+P_IP = "0"
+
+
+[[person]]
+name.last = "Shaheen"
+name.given = "Louis"
+[[person.playing]]
+season = "1944"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Norfolk"
+[person.playing.totals]
+P_G = "1"
+P_IP = "0"

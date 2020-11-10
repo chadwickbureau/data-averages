@@ -1,0 +1,110 @@
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3411"
+F_A = "1747"
+F_E = "238"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3514"
+F_A = "1704"
+F_E = "253"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3430"
+F_A = "1799"
+F_E = "200"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3223"
+F_A = "1575"
+F_E = "275"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3396"
+F_A = "1652"
+F_E = "296"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "94"
+F_PO = "2433"
+F_A = "1280"
+F_E = "219"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "86"
+F_PO = "2191"
+F_A = "1110"
+F_E = "216"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1916"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3448"
+F_A = "1486"
+F_E = "330"
+F_PCT = ".937"

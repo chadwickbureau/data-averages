@@ -1,0 +1,110 @@
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "2589"
+F_A = "1293"
+F_E = "201"
+F_PCT = ".969"
+
+
+[[team]]
+name = "Ottawa"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "2515"
+F_A = "1233"
+F_E = "222"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Guelph"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "89"
+F_PO = "2304"
+F_A = "1052"
+F_E = "216"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Berlin"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "94"
+F_PO = "2401"
+F_A = "1252"
+F_E = "244"
+F_PCT = ".938"
+
+
+[[team]]
+name = "St. Thomas"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "100"
+F_PO = "2513"
+F_A = "1205"
+F_E = "256"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "2402"
+F_A = "1184"
+F_E = "259"
+F_PCT = ".932"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "95"
+F_PO = "2449"
+F_A = "1240"
+F_E = "280"
+F_PCT = ".925"
+
+
+[[team]]
+name = "Peterborough"
+[[team.playing]]
+season = "1912"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "1932"
+F_A = "1057"
+F_E = "255"
+F_PCT = ".921"

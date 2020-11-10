@@ -1,0 +1,102 @@
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "36"
+R_PCT = ".692"
+R_RANK = "1"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "42"
+R_PCT = ".625"
+R_RANK = "2"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "54"
+R_PCT = ".546"
+R_RANK = "3"
+
+
+[[team]]
+name = "Sharon"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "56"
+R_PCT = ".525"
+R_RANK = "4"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "60"
+R_PCT = ".492"
+R_RANK = "5"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "47"
+R_L = "70"
+R_PCT = ".402"
+R_RANK = "6"
+
+
+[[team]]
+name = "McKeesport"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "72"
+R_PCT = ".379"
+R_RANK = "7"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1908"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+R_W = "42"
+R_L = "79"
+R_PCT = ".347"
+R_RANK = "8"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "68"
+B_AB = "2194"
+B_R = "285"
+B_H = "587"
+B_TB = "806"
+B_SB = "81"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "68"
+B_AB = "2176"
+B_R = "304"
+B_H = "578"
+B_TB = "782"
+B_SB = "73"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "59"
+B_AB = "1919"
+B_R = "255"
+B_H = "498"
+B_TB = "625"
+B_SB = "103"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "55"
+B_AB = "1742"
+B_R = "256"
+B_H = "420"
+B_TB = "519"
+B_SB = "75"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "64"
+B_AB = "2194"
+B_R = "268"
+B_H = "521"
+B_TB = "703"
+B_SB = "66"
+B_AVG = ".237"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "55"
+B_AB = "1784"
+B_R = "193"
+B_H = "422"
+B_TB = "536"
+B_SB = "64"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "67"
+B_AB = "2085"
+B_R = "296"
+B_H = "491"
+B_TB = "608"
+B_SB = "114"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1918"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "51"
+B_AB = "1685"
+B_R = "171"
+B_H = "362"
+B_TB = "456"
+B_SB = "45"
+B_AVG = ".215"

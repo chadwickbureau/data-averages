@@ -1,0 +1,100 @@
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3862"
+B_R = "544"
+B_H = "1039"
+B_TB = "1434"
+B_SH = "175"
+B_SB = "151"
+B_AVG = ".269"
+
+
+[[team]]
+name = "High Point"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3866"
+B_R = "505"
+B_H = "1017"
+B_TB = "1346"
+B_SH = "170"
+B_SB = "100"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "4014"
+B_R = "547"
+B_H = "1056"
+B_TB = "1380"
+B_SH = "151"
+B_SB = "150"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "4063"
+B_R = "489"
+B_H = "1044"
+B_TB = "1361"
+B_SH = "153"
+B_SB = "120"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3784"
+B_R = "432"
+B_H = "963"
+B_TB = "1270"
+B_SH = "149"
+B_SB = "135"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3955"
+B_R = "516"
+B_H = "968"
+B_TB = "1312"
+B_SH = "148"
+B_SB = "153"
+B_AVG = ".245"

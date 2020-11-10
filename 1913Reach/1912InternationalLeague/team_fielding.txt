@@ -1,0 +1,126 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+F_PO = "4170"
+F_A = "2059"
+F_E = "257"
+F_TC = "6486"
+F_PB = "13"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4032"
+F_A = "2094"
+F_E = "267"
+F_TC = "6393"
+F_PB = "3"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "3948"
+F_A = "1989"
+F_E = "270"
+F_TC = "6207"
+F_PB = "10"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4051"
+F_A = "1879"
+F_E = "258"
+F_TC = "6138"
+F_PB = "23"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4057"
+F_A = "1831"
+F_E = "290"
+F_TC = "6188"
+F_PB = "13"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3868"
+F_A = "1963"
+F_E = "290"
+F_TC = "6121"
+F_PB = "13"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4058"
+F_A = "1959"
+F_E = "300"
+F_TC = "6317"
+F_PB = "27"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1912"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4097"
+F_A = "1923"
+F_E = "317"
+F_TC = "6337"
+F_PB = "17"
+F_PCT = ".950"

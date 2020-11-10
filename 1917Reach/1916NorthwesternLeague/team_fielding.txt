@@ -1,0 +1,82 @@
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3613"
+F_A = "1665"
+F_E = "219"
+F_DP = "92"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3352"
+F_A = "1729"
+F_E = "230"
+F_DP = "85"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3322"
+F_A = "1499"
+F_E = "233"
+F_DP = "84"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3307"
+F_A = "1641"
+F_E = "236"
+F_DP = "114"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3461"
+F_A = "1741"
+F_E = "262"
+F_DP = "128"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1916"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3363"
+F_A = "1653"
+F_E = "306"
+F_DP = "82"
+F_PCT = ".942"

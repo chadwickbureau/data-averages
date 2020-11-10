@@ -1,0 +1,1343 @@
+[[person]]
+name.last = "Hutchinson"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "86"
+F_1B_PO = "893"
+F_1B_A = "42"
+F_1B_E = "17"
+F_1B_PCT = ".982"
+
+
+[[person]]
+name.last = "Nehring"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "84"
+F_1B_PO = "834"
+F_1B_A = "48"
+F_1B_E = "19"
+F_1B_PCT = ".979"
+
+
+[[person]]
+name.last = "Baxter"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "84"
+F_1B_PO = "881"
+F_1B_A = "48"
+F_1B_E = "24"
+F_1B_PCT = ".975"
+
+
+[[person]]
+name.last = "Burnett"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "22"
+F_1B_PO = "220"
+F_1B_A = "11"
+F_1B_E = "11"
+F_1B_PCT = ".955"
+
+
+[[person]]
+name.last = "Rowan"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "69"
+F_1B_PO = "654"
+F_1B_A = "38"
+F_1B_E = "38"
+F_1B_PCT = ".948"
+
+
+[[person]]
+name.last = "Bare"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "68"
+F_2B_PO = "210"
+F_2B_A = "220"
+F_2B_E = "24"
+F_2B_PCT = ".947"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "72"
+F_2B_PO = "184"
+F_2B_A = "198"
+F_2B_E = "26"
+F_2B_PCT = ".936"
+
+
+[[person]]
+name.last = "Downie"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "89"
+F_2B_PO = "166"
+F_2B_A = "261"
+F_2B_E = "33"
+F_2B_PCT = ".928"
+
+
+[[person]]
+name.last = "Ferris"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "84"
+F_2B_PO = "216"
+F_2B_A = "244"
+F_2B_E = "40"
+F_2B_PCT = ".920"
+
+
+[[person]]
+name.last = "Hurley"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "38"
+F_2B_A = "43"
+F_2B_E = "7"
+F_2B_PCT = ".920"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "37"
+F_2B_A = "50"
+F_2B_E = "8"
+F_2B_PCT = ".916"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "56"
+F_3B_PO = "74"
+F_3B_A = "122"
+F_3B_E = "18"
+F_3B_PCT = ".916"
+
+
+[[person]]
+name.last = "McKune"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "35"
+F_3B_PO = "54"
+F_3B_A = "74"
+F_3B_E = "12"
+F_3B_PCT = ".914"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "49"
+F_3B_PO = "63"
+F_3B_A = "112"
+F_3B_E = "17"
+F_3B_PCT = ".911"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "30"
+F_3B_PO = "52"
+F_3B_A = "88"
+F_3B_E = "15"
+F_3B_PCT = ".903"
+
+
+[[person]]
+name.last = "Howlett"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "23"
+F_3B_PO = "44"
+F_3B_A = "56"
+F_3B_E = "11"
+F_3B_PCT = ".901"
+
+
+[[person]]
+name.last = "Altman"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "29"
+F_3B_PO = "39"
+F_3B_A = "61"
+F_3B_E = "13"
+F_3B_PCT = ".885"
+
+
+[[person]]
+name.last = "Mahon"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "32"
+F_3B_PO = "36"
+F_3B_A = "75"
+F_3B_E = "16"
+F_3B_PCT = ".874"
+
+
+[[person]]
+name.last = "Shaw"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "83"
+F_3B_PO = "100"
+F_3B_A = "184"
+F_3B_E = "48"
+F_3B_PCT = ".855"
+
+
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "13"
+F_SS_PO = "24"
+F_SS_A = "36"
+F_SS_E = "4"
+F_SS_PCT = ".937"
+
+
+[[person]]
+name.last = "McKune"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "42"
+F_SS_PO = "93"
+F_SS_A = "151"
+F_SS_E = "23"
+F_SS_PCT = ".914"
+
+
+[[person]]
+name.last = "Briseno"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "84"
+F_SS_PO = "183"
+F_SS_A = "310"
+F_SS_E = "47"
+F_SS_PCT = ".913"
+
+
+[[person]]
+name.last = "Bruyette"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "22"
+F_SS_PO = "62"
+F_SS_A = "60"
+F_SS_E = "13"
+F_SS_PCT = ".904"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "16"
+F_SS_PO = "34"
+F_SS_A = "40"
+F_SS_E = "8"
+F_SS_PCT = ".902"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "20"
+F_SS_PO = "37"
+F_SS_A = "58"
+F_SS_E = "13"
+F_SS_PCT = ".880"
+
+
+[[person]]
+name.last = "Westerberg"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "12"
+F_SS_PO = "19"
+F_SS_A = "27"
+F_SS_E = "7"
+F_SS_PCT = ".868"
+
+
+[[person]]
+name.last = "Sullivan"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "46"
+F_SS_PO = "94"
+F_SS_A = "91"
+F_SS_E = "29"
+F_SS_PCT = ".864"
+
+
+[[person]]
+name.last = "Burnett"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "55"
+F_SS_PO = "137"
+F_SS_A = "167"
+F_SS_E = "49"
+F_SS_PCT = ".861"
+
+
+[[person]]
+name.last = "Babbitt"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "22"
+F_SS_PO = "38"
+F_SS_A = "38"
+F_SS_E = "15"
+F_SS_PCT = ".835"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "23"
+F_OF_A = "6"
+F_OF_E = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Brinker"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "17"
+F_OF_A = "3"
+F_OF_E = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Burnett"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "13"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Hurley"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "37"
+F_OF_PO = "75"
+F_OF_A = "3"
+F_OF_E = "2"
+F_OF_PCT = ".975"
+
+
+[[person]]
+name.last = "Lynch"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "85"
+F_OF_PO = "170"
+F_OF_A = "13"
+F_OF_E = "5"
+F_OF_PCT = ".973"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "28"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_PCT = ".970"
+
+
+[[person]]
+name.last = "Clynes"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "90"
+F_OF_PO = "172"
+F_OF_A = "13"
+F_OF_E = "10"
+F_OF_PCT = ".949"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "32"
+F_OF_A = "5"
+F_OF_E = "2"
+F_OF_PCT = ".949"
+
+
+[[person]]
+name.last = "Swain"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "85"
+F_OF_PO = "206"
+F_OF_A = "22"
+F_OF_E = "14"
+F_OF_PCT = ".942"
+
+
+[[person]]
+name.last = "McIntyre"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "40"
+F_OF_A = "2"
+F_OF_E = "3"
+F_OF_PCT = ".933"
+
+
+[[person]]
+name.last = "Irby"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "80"
+F_OF_PO = "79"
+F_OF_A = "15"
+F_OF_E = "7"
+F_OF_PCT = ".930"
+
+
+[[person]]
+name.last = "Gimlin"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "21"
+F_OF_PO = "36"
+F_OF_A = "0"
+F_OF_E = "3"
+F_OF_PCT = ".923"
+
+
+[[person]]
+name.last = "Hoon"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "11"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_PCT = ".923"
+
+
+[[person]]
+name.last = "Bandelin"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "54"
+F_OF_A = "4"
+F_OF_E = "5"
+F_OF_PCT = ".921"
+
+
+[[person]]
+name.last = "Nagle"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "29"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_PCT = ".917"
+
+
+[[person]]
+name.last = "Adams"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "51"
+F_OF_PO = "80"
+F_OF_A = "6"
+F_OF_E = "8"
+F_OF_PCT = ".915"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "50"
+F_OF_PO = "51"
+F_OF_A = "14"
+F_OF_E = "6"
+F_OF_PCT = ".915"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "40"
+F_OF_A = "13"
+F_OF_E = "5"
+F_OF_PCT = ".914"
+
+
+[[person]]
+name.last = "Boettiger"
+name.given = "O."
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "66"
+F_OF_PO = "85"
+F_OF_A = "14"
+F_OF_E = "10"
+F_OF_PCT = ".908"
+
+
+[[person]]
+name.last = "Martinke"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "44"
+F_OF_PO = "66"
+F_OF_A = "11"
+F_OF_E = "8"
+F_OF_PCT = ".906"
+
+
+[[person]]
+name.last = "Herwig"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "45"
+F_OF_PO = "75"
+F_OF_A = "7"
+F_OF_E = "9"
+F_OF_PCT = ".901"
+
+
+[[person]]
+name.last = "Suess"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "35"
+F_OF_PO = "32"
+F_OF_A = "8"
+F_OF_E = "6"
+F_OF_PCT = ".870"
+
+
+[[person]]
+name.last = "Franklin"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "28"
+F_OF_A = "6"
+F_OF_E = "6"
+F_OF_PCT = ".850"
+
+
+[[person]]
+name.last = "Ward"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "11"
+F_OF_A = "1"
+F_OF_E = "3"
+F_OF_PCT = ".800"
+
+
+[[person]]
+name.last = "Goodwin"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "15"
+F_OF_A = "1"
+F_OF_E = "5"
+F_OF_PCT = ".762"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "20"
+F_OF_A = "2"
+F_OF_E = "7"
+F_OF_PCT = ".759"
+
+
+[[person]]
+name.last = "Franklin"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "5"
+F_P_A = "64"
+F_P_E = "1"
+F_P_PCT = ".986"
+
+
+[[person]]
+name.last = "Samuels"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "4"
+F_P_A = "26"
+F_P_E = "1"
+F_P_PCT = ".968"
+
+
+[[person]]
+name.last = "Butler"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "22"
+F_P_A = "76"
+F_P_E = "4"
+F_P_PCT = ".961"
+
+
+[[person]]
+name.last = "Rush"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "8"
+F_P_A = "74"
+F_P_E = "4"
+F_P_PCT = ".953"
+
+
+[[person]]
+name.last = "Brinker"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "5"
+F_P_A = "36"
+F_P_E = "2"
+F_P_PCT = ".953"
+
+
+[[person]]
+name.last = "Higginbotham"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "8"
+F_P_A = "77"
+F_P_E = "5"
+F_P_PCT = ".950"
+
+
+[[person]]
+name.last = "Doyle"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "10"
+F_P_A = "51"
+F_P_E = "4"
+F_P_PCT = ".938"
+
+
+[[person]]
+name.last = "Goodwin"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "17"
+F_P_A = "65"
+F_P_E = "6"
+F_P_PCT = ".932"
+
+
+[[person]]
+name.last = "Blexrud"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "5"
+F_P_A = "21"
+F_P_E = "2"
+F_P_PCT = ".929"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "7"
+F_P_A = "43"
+F_P_E = "4"
+F_P_PCT = ".926"
+
+
+[[person]]
+name.last = "Bandelin"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "9"
+F_P_A = "39"
+F_P_E = "4"
+F_P_PCT = ".923"
+
+
+[[person]]
+name.last = "Finnie"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "6"
+F_P_A = "51"
+F_P_E = "5"
+F_P_PCT = ".919"
+
+
+[[person]]
+name.last = "Toren"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "10"
+F_P_A = "50"
+F_P_E = "6"
+F_P_PCT = ".909"
+
+
+[[person]]
+name.last = "Hoon"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "7"
+F_P_A = "77"
+F_P_E = "12"
+F_P_PCT = ".875"
+
+
+[[person]]
+name.last = "Tonneson"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "15"
+F_P_A = "40"
+F_P_E = "9"
+F_P_PCT = ".859"
+
+
+[[person]]
+name.last = "Simons"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "3"
+F_P_A = "37"
+F_P_E = "8"
+F_P_PCT = ".833"
+
+
+[[person]]
+name.last = "Hurley"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "24"
+F_C_PO = "111"
+F_C_A = "22"
+F_C_E = "2"
+F_C_PB = "5"
+F_C_PCT = ".985"
+
+
+[[person]]
+name.last = "Shea"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "87"
+F_C_PO = "483"
+F_C_A = "113"
+F_C_E = "12"
+F_C_PB = "2"
+F_C_PCT = ".980"
+
+
+[[person]]
+name.last = "Stanley"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "31"
+F_C_PO = "176"
+F_C_A = "52"
+F_C_E = "5"
+F_C_PB = "4"
+F_C_PCT = ".978"
+
+
+[[person]]
+name.last = "Swindells"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "82"
+F_C_PO = "386"
+F_C_A = "98"
+F_C_E = "12"
+F_C_PB = "8"
+F_C_PCT = ".975"
+
+
+[[person]]
+name.last = "Boettiger"
+name.given = "R."
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grays Harbor"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "64"
+F_C_PO = "377"
+F_C_A = "81"
+F_C_E = "16"
+F_C_PB = "9"
+F_C_PCT = ".966"
+
+
+[[person]]
+name.last = "Suess"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "48"
+F_C_PO = "231"
+F_C_A = "59"
+F_C_E = "13"
+F_C_PB = "7"
+F_C_PCT = ".957"
+
+
+[[person]]
+name.last = "Altman"
+[[person.playing]]
+season = "1906"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "12"
+F_C_PO = "43"
+F_C_A = "8"
+F_C_E = "5"
+F_C_PB = "3"
+F_C_PCT = ".911"

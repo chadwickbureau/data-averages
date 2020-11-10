@@ -1,0 +1,74 @@
+[[team]]
+name = "Bassano"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2839"
+B_R = "549"
+B_H = "835"
+B_2B = "122"
+B_3B = "35"
+B_HR = "11"
+B_TB = "995"
+B_SH = "136"
+B_SB = "220"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3377"
+B_R = "639"
+B_H = "979"
+B_2B = "173"
+B_3B = "71"
+B_HR = "14"
+B_TB = "1285"
+B_SH = "126"
+B_SB = "169"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Red Deer"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3053"
+B_R = "602"
+B_H = "860"
+B_2B = "124"
+B_3B = "50"
+B_HR = "11"
+B_TB = "1064"
+B_SH = "136"
+B_SB = "228"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1912"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3401"
+B_R = "502"
+B_H = "891"
+B_2B = "119"
+B_3B = "56"
+B_HR = "16"
+B_TB = "1172"
+B_SH = "102"
+B_SB = "219"
+B_AVG = ".244"

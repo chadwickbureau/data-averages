@@ -1,0 +1,627 @@
+[[person]]
+name.last = "Seaton"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_G = "7"
+P_IP = "62"
+P_AB = "234"
+P_H = "61"
+P_R = "34"
+P_HP = "6"
+P_BB = "39"
+P_SO = "34"
+P_WP = "3"
+P_W = "5"
+P_L = "1"
+P_PCT = ".833"
+
+
+[[person]]
+name.last = "Concannon"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_G = "17"
+P_IP = "133"
+P_AB = "511"
+P_H = "83"
+P_R = "40"
+P_HP = "4"
+P_BB = "54"
+P_SO = "99"
+P_WP = "8"
+P_W = "13"
+P_L = "3"
+P_PCT = ".813"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_G = "19"
+P_IP = "140"
+P_AB = "526"
+P_H = "114"
+P_R = "60"
+P_HP = "6"
+P_BB = "46"
+P_SO = "49"
+P_WP = "0"
+P_W = "13"
+P_L = "5"
+P_PCT = ".722"
+
+
+[[person]]
+name.last = "Schneider"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_G = "28"
+P_IP = "227"
+P_AB = "853"
+P_H = "205"
+P_R = "100"
+P_HP = "12"
+P_BB = "53"
+P_SO = "151"
+P_WP = "4"
+P_W = "17"
+P_L = "7"
+P_PCT = ".708"
+
+
+[[person]]
+name.last = "Heinrichs"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_G = "25"
+P_IP = "203"
+P_AB = "793"
+P_H = "184"
+P_R = "111"
+P_HP = "18"
+P_BB = "55"
+P_SO = "128"
+P_WP = "5"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Frink"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_G = "37"
+P_IP = "278"
+P_AB = "1050"
+P_H = "257"
+P_R = "150"
+P_HP = "17"
+P_BB = "86"
+P_SO = "163"
+P_WP = "3"
+P_W = "21"
+P_L = "11"
+P_PCT = ".656"
+
+
+[[person]]
+name.last = "Northrup"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_G = "32"
+P_IP = "260"
+P_AB = "1045"
+P_H = "211"
+P_R = "122"
+P_HP = "16"
+P_BB = "114"
+P_SO = "187"
+P_WP = "6"
+P_W = "19"
+P_L = "10"
+P_PCT = ".655"
+
+
+[[person]]
+name.last = "Steele"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_G = "34"
+P_IP = "243"
+P_AB = "964"
+P_H = "199"
+P_R = "120"
+P_HP = "8"
+P_BB = "127"
+P_SO = "190"
+P_WP = "10"
+P_W = "17"
+P_L = "9"
+P_PCT = ".654"
+
+
+[[person]]
+name.last = "Gavin"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_G = "16"
+P_IP = "114"
+P_AB = "473"
+P_H = "92"
+P_R = "68"
+P_HP = "9"
+P_BB = "34"
+P_SO = "68"
+P_WP = "4"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+
+
+[[person]]
+name.last = "Manning"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[[person.playing.split]]
+team.name = "Regina"
+[person.playing.totals]
+P_G = "22"
+P_IP = "155"
+P_AB = "633"
+P_H = "188"
+P_R = "112"
+P_HP = "12"
+P_BB = "52"
+P_SO = "67"
+P_WP = "3"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Churchill"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_G = "31"
+P_IP = "235"
+P_AB = "870"
+P_H = "183"
+P_R = "105"
+P_HP = "19"
+P_BB = "86"
+P_SO = "143"
+P_WP = "7"
+P_W = "14"
+P_L = "10"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_G = "24"
+P_IP = "188"
+P_AB = "711"
+P_H = "144"
+P_R = "77"
+P_HP = "11"
+P_BB = "69"
+P_SO = "168"
+P_WP = "6"
+P_W = "12"
+P_L = "9"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Beer"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Regina"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_G = "30"
+P_IP = "234"
+P_AB = "896"
+P_H = "188"
+P_R = "103"
+P_HP = "6"
+P_BB = "45"
+P_SO = "166"
+P_WP = "8"
+P_W = "16"
+P_L = "12"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Clayton"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_G = "25"
+P_IP = "170"
+P_AB = "691"
+P_H = "162"
+P_R = "96"
+P_HP = "17"
+P_BB = "57"
+P_SO = "112"
+P_WP = "9"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Lind"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_G = "30"
+P_IP = "236"
+P_AB = "891"
+P_H = "245"
+P_R = "127"
+P_HP = "13"
+P_BB = "71"
+P_SO = "90"
+P_WP = "0"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_G = "33"
+P_IP = "249"
+P_AB = "909"
+P_H = "213"
+P_R = "112"
+P_HP = "12"
+P_BB = "79"
+P_SO = "126"
+P_WP = "5"
+P_W = "16"
+P_L = "14"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Gwynn"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_G = "9"
+P_IP = "57"
+P_AB = "223"
+P_H = "57"
+P_R = "33"
+P_HP = "1"
+P_BB = "15"
+P_SO = "28"
+P_WP = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_G = "20"
+P_IP = "155"
+P_AB = "621"
+P_H = "158"
+P_R = "78"
+P_HP = "5"
+P_BB = "33"
+P_SO = "66"
+P_WP = "3"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_G = "29"
+P_IP = "240"
+P_AB = "930"
+P_H = "250"
+P_R = "143"
+P_HP = "22"
+P_BB = "59"
+P_SO = "109"
+P_WP = "0"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Dickenson"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_G = "18"
+P_IP = "131"
+P_AB = "520"
+P_H = "148"
+P_R = "84"
+P_HP = "9"
+P_BB = "46"
+P_SO = "81"
+P_WP = "3"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Butteroff"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Regina"
+[person.playing.totals]
+P_G = "20"
+P_IP = "147"
+P_AB = "580"
+P_H = "151"
+P_R = "82"
+P_HP = "3"
+P_BB = "37"
+P_SO = "85"
+P_WP = "8"
+P_W = "6"
+P_L = "12"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Matz"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Regina"
+[person.playing.totals]
+P_G = "17"
+P_IP = "139"
+P_AB = "523"
+P_H = "132"
+P_R = "72"
+P_HP = "9"
+P_BB = "37"
+P_SO = "53"
+P_WP = "8"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Biersdorfer"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_G = "27"
+P_IP = "217"
+P_AB = "903"
+P_H = "251"
+P_R = "149"
+P_HP = "11"
+P_BB = "74"
+P_SO = "109"
+P_WP = "5"
+P_W = "8"
+P_L = "17"
+P_PCT = ".320"
+
+
+[[person]]
+name.last = "Reese"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_G = "22"
+P_IP = "157"
+P_AB = "625"
+P_H = "181"
+P_R = "106"
+P_HP = "5"
+P_BB = "36"
+P_SO = "57"
+P_WP = "2"
+P_W = "6"
+P_L = "14"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Rankin"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Regina"
+[person.playing.totals]
+P_G = "29"
+P_IP = "224"
+P_AB = "921"
+P_H = "234"
+P_R = "141"
+P_HP = "11"
+P_BB = "67"
+P_SO = "128"
+P_WP = "10"
+P_W = "7"
+P_L = "18"
+P_PCT = ".280"
+
+
+[[person]]
+name.last = "Dellar"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_G = "16"
+P_IP = "128"
+P_AB = "510"
+P_H = "154"
+P_R = "78"
+P_HP = "3"
+P_BB = "33"
+P_SO = "57"
+P_WP = "4"
+P_W = "4"
+P_L = "12"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Nichol"
+[[person.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Regina"
+[person.playing.totals]
+P_G = "10"
+P_IP = "76"
+P_AB = "305"
+P_H = "83"
+P_R = "49"
+P_HP = "2"
+P_BB = "25"
+P_SO = "38"
+P_WP = "3"
+P_W = "0"
+P_L = "9"
+P_PCT = ".000"

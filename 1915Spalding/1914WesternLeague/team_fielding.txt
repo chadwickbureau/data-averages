@@ -1,0 +1,126 @@
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "167"
+F_PO = "4485"
+F_A = "2249"
+F_E = "250"
+F_DP = "137"
+F_PB = "18"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "167"
+F_PO = "4428"
+F_A = "2104"
+F_E = "280"
+F_DP = "89"
+F_PB = "25"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "171"
+F_PO = "4521"
+F_A = "2037"
+F_E = "290"
+F_DP = "124"
+F_PB = "7"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "165"
+F_PO = "4378"
+F_A = "2004"
+F_E = "315"
+F_DP = "108"
+F_PB = "31"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "170"
+F_PO = "4523"
+F_A = "2223"
+F_E = "332"
+F_DP = "115"
+F_PB = "14"
+F_PCT = ".953"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "165"
+F_PO = "4331"
+F_A = "2046"
+F_E = "324"
+F_DP = "88"
+F_PB = "23"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "165"
+F_PO = "4421"
+F_A = "2034"
+F_E = "323"
+F_DP = "112"
+F_PB = "26"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1914"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "166"
+F_PO = "4351"
+F_A = "2296"
+F_E = "362"
+F_DP = "132"
+F_PB = "22"
+F_PCT = ".948"

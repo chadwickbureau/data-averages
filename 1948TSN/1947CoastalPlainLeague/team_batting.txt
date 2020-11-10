@@ -1,0 +1,158 @@
+[[team]]
+name = "Kinston"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4658"
+B_R = "711"
+B_H = "1313"
+B_2B = "207"
+B_3B = "41"
+B_HR = "48"
+B_SH = "71"
+B_SB = "105"
+B_RBI = "593"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Goldsboro"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4678"
+B_R = "726"
+B_H = "1304"
+B_2B = "185"
+B_3B = "40"
+B_HR = "23"
+B_SH = "136"
+B_SB = "164"
+B_RBI = "578"
+B_AVG = ".279"
+
+
+[[team]]
+name = "New Bern"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4656"
+B_R = "823"
+B_H = "1296"
+B_2B = "241"
+B_3B = "38"
+B_HR = "79"
+B_SH = "67"
+B_SB = "156"
+B_RBI = "705"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Wilson"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4744"
+B_R = "774"
+B_H = "1297"
+B_2B = "206"
+B_3B = "25"
+B_HR = "41"
+B_SH = "104"
+B_SB = "133"
+B_RBI = "645"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Roanoke Rapids"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4931"
+B_R = "725"
+B_H = "1339"
+B_2B = "206"
+B_3B = "42"
+B_HR = "52"
+B_SH = "40"
+B_SB = "55"
+B_RBI = "591"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Tarboro"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4910"
+B_R = "889"
+B_H = "1336"
+B_2B = "210"
+B_3B = "63"
+B_HR = "88"
+B_SH = "63"
+B_SB = "242"
+B_RBI = "695"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4728"
+B_R = "747"
+B_H = "1255"
+B_2B = "179"
+B_3B = "36"
+B_HR = "56"
+B_SH = "69"
+B_SB = "115"
+B_RBI = "633"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4822"
+B_R = "638"
+B_H = "1278"
+B_2B = "192"
+B_3B = "34"
+B_HR = "82"
+B_SH = "101"
+B_SB = "131"
+B_RBI = "538"
+B_AVG = ".265"

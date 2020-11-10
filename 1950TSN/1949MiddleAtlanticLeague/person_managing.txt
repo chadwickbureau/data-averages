@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Pavich"
+name.given = "Peter"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Erie"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Nichols"
+name.given = "Roy"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Johnstown"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Denning"
+name.given = "Otto"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Oil City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Morgan"
+name.given = "Edwin"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Youngstown"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Engle"
+name.given = "Robert"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Butler"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Beck"
+name.given = "Walter"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Butler"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Savino"
+name.given = "George"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Vandergrift"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Griffin"
+name.given = "Wes"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Uniontown"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mongiello"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Middle Atlantic League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "New Castle"
+S_ORDER = "0"
+[person.managing.totals]

@@ -1,0 +1,54 @@
+[[team]]
+name = "Fargo-Moorhead"
+[[team.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_PO = "2996"
+F_A = "1352"
+F_E = "193"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "56"
+F_PO = "3267"
+F_A = "1410"
+F_E = "227"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "57"
+F_PO = "2717"
+F_A = "1426"
+F_E = "212"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "55"
+F_PO = "2226"
+F_A = "1350"
+F_E = "230"
+F_PCT = ".940"

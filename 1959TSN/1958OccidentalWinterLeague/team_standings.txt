@@ -1,0 +1,50 @@
+[[team]]
+name = "Rapinos"
+[[team.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "28"
+R_L = "25"
+R_PCT = ".528"
+R_RANK = "1"
+
+
+[[team]]
+name = "Pastora"
+[[team.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "27"
+R_L = "26"
+R_PCT = ".509"
+R_RANK = "2"
+
+
+[[team]]
+name = "Gavilanes"
+[[team.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "26"
+R_L = "26"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Cabimas"
+[[team.playing]]
+season = "1958"
+league.name = "Occidental Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "21"
+R_L = "30"
+R_PCT = ".412"
+R_RANK = "4"

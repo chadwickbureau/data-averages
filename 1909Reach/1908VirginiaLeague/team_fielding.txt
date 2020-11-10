@@ -1,0 +1,88 @@
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3659"
+F_A = "1596"
+F_E = "196"
+F_TC = "5451"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3562"
+F_A = "1783"
+F_E = "215"
+F_TC = "5560"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3552"
+F_A = "1748"
+F_E = "236"
+F_TC = "5536"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3495"
+F_A = "1762"
+F_E = "250"
+F_TC = "5507"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3726"
+F_A = "1775"
+F_E = "268"
+F_TC = "5769"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1908"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3569"
+F_A = "1770"
+F_E = "274"
+F_TC = "5613"
+F_PCT = ".951"

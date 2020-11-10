@@ -1,0 +1,82 @@
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "80"
+F_PO = "2014"
+F_A = "1110"
+F_E = "143"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "70"
+F_PO = "1837"
+F_A = "929"
+F_E = "128"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "78"
+F_PO = "2037"
+F_A = "1032"
+F_E = "159"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "28"
+F_PO = "718"
+F_A = "337"
+F_E = "63"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "70"
+F_PO = "1812"
+F_A = "906"
+F_E = "172"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "28"
+F_PO = "729"
+F_A = "366"
+F_E = "72"
+F_PCT = ".938"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_DP = "120"
+F_PB = "9"
+F_PO = "3411"
+F_A = "1445"
+F_E = "156"
+F_PCT = ".968"
+F_TP = "0"
+
+
+[[team]]
+name = "Puebla"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_DP = "115"
+F_PB = "15"
+F_PO = "3431"
+F_A = "1392"
+F_E = "155"
+F_PCT = ".968"
+F_TP = "1"
+
+
+[[team]]
+name = "Veracruz"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "160"
+F_PB = "9"
+F_PO = "3505"
+F_A = "1479"
+F_E = "167"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_DP = "134"
+F_PB = "6"
+F_PO = "3697"
+F_A = "1434"
+F_E = "179"
+F_PCT = ".966"
+F_TP = "0"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_DP = "117"
+F_PB = "13"
+F_PO = "3332"
+F_A = "1299"
+F_E = "177"
+F_PCT = ".963"
+F_TP = "1"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1961"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "145"
+F_PB = "14"
+F_PO = "3419"
+F_A = "1471"
+F_E = "233"
+F_PCT = ".955"
+F_TP = "0"

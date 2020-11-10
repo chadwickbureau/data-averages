@@ -1,0 +1,58 @@
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "177354"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "140553"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "138968"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "124630"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "121177"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "101708"

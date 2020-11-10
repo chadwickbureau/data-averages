@@ -1,0 +1,76 @@
+[[team]]
+name = "Ottawa"
+[[team.playing]]
+season = "1915"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "39"
+R_PCT = ".649"
+R_RANK = "1"
+
+
+[[team]]
+name = "Guelph"
+[[team.playing]]
+season = "1915"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "51"
+R_PCT = ".537"
+R_RANK = "2"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1915"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "48"
+R_PCT = ".534"
+R_RANK = "3"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1915"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "55"
+R_PCT = ".485"
+R_RANK = "4"
+
+
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1915"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "58"
+R_PCT = ".463"
+R_RANK = "5"
+
+
+[[team]]
+name = "St. Thomas"
+[[team.playing]]
+season = "1915"
+league.name = "Canadian League"
+phase = "regular"
+[team.playing.totals]
+R_W = "38"
+R_L = "75"
+R_PCT = ".337"
+R_RANK = "6"

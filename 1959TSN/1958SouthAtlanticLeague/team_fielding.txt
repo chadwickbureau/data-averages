@@ -1,0 +1,100 @@
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "150"
+F_PB = "21"
+F_PO = "3772"
+F_A = "1588"
+F_E = "177"
+F_TP = "0"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "122"
+F_PB = "9"
+F_PO = "3664"
+F_A = "1449"
+F_E = "177"
+F_TP = "0"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "147"
+F_PB = "9"
+F_PO = "3700"
+F_A = "1481"
+F_E = "183"
+F_TP = "0"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "173"
+F_PB = "25"
+F_PO = "3659"
+F_A = "1649"
+F_E = "188"
+F_TP = "0"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "138"
+F_PB = "23"
+F_PO = "3669"
+F_A = "1514"
+F_E = "185"
+F_TP = "0"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1958"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "148"
+F_PB = "26"
+F_PO = "3644"
+F_A = "1422"
+F_E = "193"
+F_TP = "0"
+F_PCT = ".963"

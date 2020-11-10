@@ -1,0 +1,89 @@
+[[person]]
+name.last = "Souchock"
+name.given = "Stephen"
+[[person.managing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Binghamton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Carter"
+name.given = "Richard"
+[[person.managing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Schenectady"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "White"
+name.given = "Joyner (JoJo)"
+[[person.managing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Reading"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Popowski"
+name.given = "Edward"
+[[person.managing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Albany"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Calo"
+name.given = "Frank"
+[[person.managing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Allentown"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McCormick"
+name.given = "Myron (Mike)"
+[[person.managing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Springfield"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Murray"
+name.given = "Raymond"
+[[person.managing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Springfield"
+S_ORDER = "2"
+[person.managing.totals]

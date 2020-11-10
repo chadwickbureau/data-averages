@@ -1,0 +1,134 @@
+[[team]]
+name = "London"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3071"
+F_A = "1465"
+F_E = "168"
+F_TC = "4704"
+F_DP = "68"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "3182"
+F_A = "1636"
+F_E = "214"
+F_TC = "5032"
+F_DP = "72"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Brantford"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3104"
+F_A = "1617"
+F_E = "214"
+F_TC = "4935"
+F_DP = "85"
+F_PCT = ".957"
+F_TP = "0"
+
+
+[[team]]
+name = "Hamilton"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3189"
+F_A = "1523"
+F_E = "234"
+F_TC = "4946"
+F_DP = "75"
+F_PCT = ".953"
+F_TP = "1"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3034"
+F_A = "1486"
+F_E = "232"
+F_TC = "4752"
+F_DP = "64"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Port Huron-Sarnia"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3127"
+F_A = "1615"
+F_E = "248"
+F_TC = "4990"
+F_DP = "64"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3091"
+F_A = "1510"
+F_E = "241"
+F_TC = "4842"
+F_DP = "62"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Kitchener"
+[[team.playing]]
+season = "1921"
+league.name = "Michigan-Ontario League"
+phase = "regular"
+[team.playing.totals]
+F_G = "114"
+F_PO = "2935"
+F_A = "1411"
+F_E = "243"
+F_TC = "4589"
+F_DP = "77"
+F_PCT = ".947"
+F_TP = "0"

@@ -1,0 +1,126 @@
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4393"
+B_R = "654"
+B_H = "1288"
+B_SB = "249"
+B_SH = "191"
+B_AVG = ".293"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4306"
+B_R = "640"
+B_H = "1184"
+B_SB = "190"
+B_SH = "271"
+B_AVG = ".275"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3570"
+B_R = "511"
+B_H = "980"
+B_SB = "157"
+B_SH = "191"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4419"
+B_R = "523"
+B_H = "1151"
+B_SB = "238"
+B_SH = "204"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4185"
+B_R = "602"
+B_H = "1082"
+B_SB = "237"
+B_SH = "205"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4354"
+B_R = "516"
+B_H = "1070"
+B_SB = "154"
+B_SH = "193"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Steubenville"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3905"
+B_R = "465"
+B_H = "944"
+B_SB = "184"
+B_SH = "175"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Sharon"
+[[team.playing]]
+season = "1911"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4364"
+B_R = "472"
+B_H = "1043"
+B_SB = "168"
+B_SH = "178"
+B_AVG = ".239"

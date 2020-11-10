@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Jackson"
+name.given = "Travis"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Midland"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Halstead"
+name.given = "Earle"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Midland"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "White"
+name.given = "Ernest"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Midland"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Phipps"
+name.given = "Jodie"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Artesia"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kubski"
+name.given = "Albert"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Angelo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wallace"
+name.given = "V. Wayne"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Hobbs"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Plumbo"
+name.given = "Vincent"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Plainview"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "York"
+name.given = "Anthony"
+[[person.managing]]
+season = "1958"
+league.name = "Sophomore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Carlsbad"
+S_ORDER = "0"
+[person.managing.totals]

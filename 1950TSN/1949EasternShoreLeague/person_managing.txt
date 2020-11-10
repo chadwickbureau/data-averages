@@ -1,0 +1,89 @@
+[[person]]
+name.last = "Farmer"
+name.given = "Jack"
+[[person.managing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Easton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McQuillen"
+name.given = "Carl"
+[[person.managing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Federalsburg"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Corbett"
+name.given = "Eugene"
+[[person.managing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salisbury"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Sisler"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rehoboth Beach"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Watson"
+name.given = "John"
+[[person.managing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rehoboth Beach"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gaulin"
+name.given = "Paul"
+[[person.managing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Seaford"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Strachan"
+name.given = "Merle"
+[[person.managing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cambridge"
+S_ORDER = "0"
+[person.managing.totals]

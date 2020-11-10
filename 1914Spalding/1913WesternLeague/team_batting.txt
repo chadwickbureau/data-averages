@@ -1,0 +1,174 @@
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5655"
+B_R = "943"
+B_H = "1667"
+B_2B = "255"
+B_3B = "117"
+B_HR = "77"
+B_TB = "2387"
+B_SH = "239"
+B_SB = "221"
+B_BB = "505"
+B_SO = "768"
+B_AVG = ".295"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5653"
+B_R = "849"
+B_H = "1617"
+B_2B = "332"
+B_3B = "47"
+B_HR = "46"
+B_TB = "2181"
+B_SH = "163"
+B_SB = "196"
+B_BB = "585"
+B_SO = "807"
+B_AVG = ".286"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "166"
+B_AB = "5650"
+B_R = "809"
+B_H = "1536"
+B_2B = "264"
+B_3B = "80"
+B_HR = "40"
+B_TB = "2080"
+B_SH = "197"
+B_SB = "163"
+B_BB = "455"
+B_SO = "688"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "168"
+B_AB = "5572"
+B_R = "821"
+B_H = "1493"
+B_2B = "220"
+B_3B = "82"
+B_HR = "58"
+B_TB = "2051"
+B_SH = "213"
+B_SB = "176"
+B_BB = "624"
+B_SO = "727"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5536"
+B_R = "795"
+B_H = "1479"
+B_2B = "268"
+B_3B = "71"
+B_HR = "40"
+B_TB = "2009"
+B_SH = "173"
+B_SB = "187"
+B_BB = "533"
+B_SO = "734"
+B_AVG = ".267"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "169"
+B_AB = "5653"
+B_R = "808"
+B_H = "1505"
+B_2B = "227"
+B_3B = "121"
+B_HR = "33"
+B_TB = "2073"
+B_SH = "159"
+B_SB = "241"
+B_BB = "495"
+B_SO = "763"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "166"
+B_AB = "5587"
+B_R = "722"
+B_H = "1480"
+B_2B = "230"
+B_3B = "58"
+B_HR = "20"
+B_TB = "1886"
+B_SH = "161"
+B_SB = "190"
+B_BB = "479"
+B_SO = "601"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "166"
+B_AB = "5567"
+B_R = "769"
+B_H = "1459"
+B_2B = "256"
+B_3B = "83"
+B_HR = "28"
+B_TB = "1965"
+B_SH = "138"
+B_SB = "178"
+B_BB = "474"
+B_SO = "693"
+B_AVG = ".260"

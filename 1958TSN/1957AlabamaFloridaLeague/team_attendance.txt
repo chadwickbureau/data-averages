@@ -1,0 +1,58 @@
+[[team]]
+name = "Pensacola"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "43882"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "28298"
+
+
+[[team]]
+name = "Selma"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "24234"
+
+
+[[team]]
+name = "Graceville"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "23098"
+
+
+[[team]]
+name = "Panama City"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "21876"
+
+
+[[team]]
+name = "Fort Walton Beach"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "15557"

@@ -1,0 +1,174 @@
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4990"
+B_R = "763"
+B_H = "1409"
+B_2B = "136"
+B_3B = "137"
+B_HR = "36"
+B_TB = "1927"
+B_SH = "214"
+B_SB = "218"
+B_BB = "523"
+B_SO = "549"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "146"
+B_AB = "4820"
+B_R = "703"
+B_H = "1328"
+B_2B = "154"
+B_3B = "60"
+B_HR = "36"
+B_TB = "1710"
+B_SH = "146"
+B_SB = "246"
+B_BB = "543"
+B_SO = "571"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "5010"
+B_R = "796"
+B_H = "1340"
+B_2B = "194"
+B_3B = "69"
+B_HR = "20"
+B_TB = "1732"
+B_SH = "201"
+B_SB = "220"
+B_BB = "497"
+B_SO = "514"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5012"
+B_R = "627"
+B_H = "1333"
+B_2B = "166"
+B_3B = "88"
+B_HR = "23"
+B_TB = "1744"
+B_SH = "201"
+B_SB = "212"
+B_BB = "422"
+B_SO = "529"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "4923"
+B_R = "617"
+B_H = "1307"
+B_2B = "156"
+B_3B = "80"
+B_HR = "24"
+B_TB = "1695"
+B_SH = "145"
+B_SB = "190"
+B_BB = "393"
+B_SO = "698"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5077"
+B_R = "682"
+B_H = "1298"
+B_2B = "168"
+B_3B = "90"
+B_HR = "26"
+B_TB = "172"
+B_SH = "195"
+B_SB = "220"
+B_BB = "530"
+B_SO = "551"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5070"
+B_R = "570"
+B_H = "1264"
+B_2B = "174"
+B_3B = "85"
+B_HR = "30"
+B_TB = "1698"
+B_SH = "149"
+B_SB = "169"
+B_BB = "459"
+B_SO = "691"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1914"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5046"
+B_R = "595"
+B_H = "1231"
+B_2B = "141"
+B_3B = "70"
+B_HR = "35"
+B_TB = "1617"
+B_SH = "147"
+B_SB = "128"
+B_BB = "591"
+B_SO = "607"
+B_AVG = ".244"

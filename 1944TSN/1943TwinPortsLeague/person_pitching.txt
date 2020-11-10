@@ -1,0 +1,714 @@
+[[person]]
+name.last = "Muller"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_CG = "0"
+P_IP = "1"
+P_SO = "0"
+P_AB = "2"
+P_H = "0"
+P_HP = "0"
+P_BK = "0"
+P_BB = "3"
+P_WP = "1"
+P_R = "0"
+P_ER = "0"
+P_ERA = "0.00"
+
+
+[[person]]
+name.last = "Titus"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_CG = "0"
+P_IP = "1"
+P_SO = "0"
+P_AB = "0"
+P_H = "0"
+P_HP = "0"
+P_BK = "0"
+P_BB = "0"
+P_WP = "0"
+P_R = "0"
+P_ER = "0"
+P_ERA = "0.00"
+
+
+[[person]]
+name.last = "Anderson"
+name.given = "D."
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Dukes"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_CG = "0"
+P_IP = "7"
+P_SO = "6"
+P_AB = "24"
+P_H = "6"
+P_HP = "1"
+P_BK = "0"
+P_BB = "4"
+P_WP = "0"
+P_R = "2"
+P_ER = "1"
+P_ERA = "1.28"
+
+
+[[person]]
+name.last = "Rudolph"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_CG = "2"
+P_IP = "15"
+P_SO = "16"
+P_AB = "61"
+P_H = "11"
+P_HP = "0"
+P_BK = "0"
+P_BB = "2"
+P_WP = "0"
+P_R = "6"
+P_ER = "3"
+P_ERA = "1.80"
+
+
+[[person]]
+name.last = "Westergard"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "6"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_CG = "4"
+P_IP = "44"
+P_SO = "56"
+P_AB = "174"
+P_H = "41"
+P_HP = "2"
+P_BK = "0"
+P_BB = "17"
+P_WP = "0"
+P_R = "21"
+P_ER = "11"
+P_ERA = "2.25"
+
+
+[[person]]
+name.last = "Anderson"
+name.given = "Ed"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Marine Iron"
+[person.playing.totals]
+P_G = "7"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_CG = "5"
+P_IP = "52"
+P_SO = "51"
+P_AB = "210"
+P_H = "48"
+P_HP = "2"
+P_BK = "1"
+P_BB = "18"
+P_WP = "0"
+P_R = "24"
+P_ER = "16"
+P_ERA = "2.77"
+
+
+[[person]]
+name.last = "Ryan"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Dukes"
+[[person.playing.split]]
+team.name = "Duluth Marine Iron"
+[person.playing.totals]
+P_G = "5"
+P_W = "3"
+P_L = "0"
+P_PCT = "1.000"
+P_CG = "1"
+P_IP = "29"
+P_SO = "18"
+P_AB = "108"
+P_H = "30"
+P_HP = "1"
+P_BK = "2"
+P_BB = "10"
+P_WP = "1"
+P_R = "11"
+P_ER = "9"
+P_ERA = "2.79"
+
+
+[[person]]
+name.last = "Gettler"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Heralds"
+[person.playing.totals]
+P_G = "3"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_CG = "2"
+P_IP = "18"
+P_SO = "18"
+P_AB = "62"
+P_H = "9"
+P_HP = "0"
+P_BK = "0"
+P_BB = "11"
+P_WP = "1"
+P_R = "6"
+P_ER = "6"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Winquist"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Dukes"
+[person.playing.totals]
+P_G = "9"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_CG = "4"
+P_IP = "47"
+P_SO = "24"
+P_AB = "191"
+P_H = "54"
+P_HP = "2"
+P_BK = "0"
+P_BB = "32"
+P_WP = "0"
+P_R = "42"
+P_ER = "16"
+P_ERA = "3.06"
+
+
+[[person]]
+name.last = "Mason"
+name.given = "L."
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Dukes"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_CG = "2"
+P_IP = "24"
+P_SO = "21"
+P_AB = "97"
+P_H = "26"
+P_HP = "3"
+P_BK = "1"
+P_BB = "15"
+P_WP = "2"
+P_R = "18"
+P_ER = "9"
+P_ERA = "3.38"
+
+
+[[person]]
+name.last = "Munns"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Dukes"
+[person.playing.totals]
+P_G = "2"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_CG = "1"
+P_IP = "16"
+P_SO = "12"
+P_AB = "62"
+P_H = "14"
+P_HP = "1"
+P_BK = "0"
+P_BB = "3"
+P_WP = "0"
+P_R = "6"
+P_ER = "6"
+P_ERA = "3.38"
+
+
+[[person]]
+name.last = "Gamblin"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Marine Iron"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_CG = "1"
+P_IP = "18"
+P_SO = "9"
+P_AB = "71"
+P_H = "17"
+P_HP = "1"
+P_BK = "0"
+P_BB = "16"
+P_WP = "3"
+P_R = "10"
+P_ER = "8"
+P_ERA = "4.00"
+
+
+[[person]]
+name.last = "Bauers"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Marine Iron"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_CG = "0"
+P_IP = "9"
+P_SO = "8"
+P_AB = "34"
+P_H = "6"
+P_HP = "0"
+P_BK = "0"
+P_BB = "14"
+P_WP = "0"
+P_R = "6"
+P_ER = "4"
+P_ERA = "4.00"
+
+
+[[person]]
+name.last = "Dixon"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Dukes"
+[person.playing.totals]
+P_G = "7"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_CG = "3"
+P_IP = "46"
+P_SO = "18"
+P_AB = "196"
+P_H = "59"
+P_HP = "3"
+P_BK = "0"
+P_BB = "21"
+P_WP = "1"
+P_R = "37"
+P_ER = "22"
+P_ERA = "4.20"
+
+
+[[person]]
+name.last = "Connolly"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "9"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_CG = "4"
+P_IP = "47"
+P_SO = "30"
+P_AB = "198"
+P_H = "55"
+P_HP = "1"
+P_BK = "0"
+P_BB = "19"
+P_WP = "2"
+P_R = "34"
+P_ER = "23"
+P_ERA = "4.40"
+
+
+[[person]]
+name.last = "Stemig"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Marine Iron"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_CG = "0"
+P_IP = "3"
+P_SO = "2"
+P_AB = "14"
+P_H = "4"
+P_HP = "2"
+P_BK = "0"
+P_BB = "3"
+P_WP = "0"
+P_R = "3"
+P_ER = "2"
+P_ERA = "6.00"
+
+
+[[person]]
+name.last = "Lanaghan"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Marine Iron"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_CG = "0"
+P_IP = "3"
+P_SO = "1"
+P_AB = "16"
+P_H = "7"
+P_HP = "0"
+P_BK = "0"
+P_BB = "3"
+P_WP = "0"
+P_R = "4"
+P_ER = "2"
+P_ERA = "6.00"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Heralds"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_CG = "2"
+P_IP = "38"
+P_SO = "41"
+P_AB = "160"
+P_H = "47"
+P_HP = "1"
+P_BK = "1"
+P_BB = "46"
+P_WP = "10"
+P_R = "41"
+P_ER = "28"
+P_ERA = "6.63"
+
+
+[[person]]
+name.last = "Doig"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Heralds"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_CG = "3"
+P_IP = "23"
+P_SO = "21"
+P_AB = "96"
+P_H = "26"
+P_HP = "3"
+P_BK = "2"
+P_BB = "27"
+P_WP = "4"
+P_R = "31"
+P_ER = "17"
+P_ERA = "6.65"
+
+
+[[person]]
+name.last = "Wager"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Heralds"
+[person.playing.totals]
+P_G = "4"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_CG = "2"
+P_IP = "25"
+P_SO = "18"
+P_AB = "109"
+P_H = "29"
+P_HP = "1"
+P_BK = "2"
+P_BB = "29"
+P_WP = "7"
+P_R = "35"
+P_ER = "20"
+P_ERA = "7.20"
+
+
+[[person]]
+name.last = "Coleman"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Dukes"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_CG = "1"
+P_IP = "16"
+P_SO = "9"
+P_AB = "72"
+P_H = "26"
+P_HP = "0"
+P_BK = "0"
+P_BB = "13"
+P_WP = "1"
+P_R = "21"
+P_ER = "13"
+P_ERA = "7.31"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "George"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Marine Iron"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_CG = "2"
+P_IP = "34"
+P_SO = "40"
+P_AB = "130"
+P_H = "30"
+P_HP = "2"
+P_BK = "1"
+P_BB = "26"
+P_WP = "3"
+P_R = "31"
+P_ER = "28"
+P_ERA = "7.41"
+
+
+[[person]]
+name.last = "Nyquist"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Heralds"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_CG = "2"
+P_IP = "19"
+P_SO = "4"
+P_AB = "90"
+P_H = "30"
+P_HP = "3"
+P_BK = "1"
+P_BB = "9"
+P_WP = "1"
+P_R = "27"
+P_ER = "16"
+P_ERA = "7.58"
+
+
+[[person]]
+name.last = "Bushey"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth Heralds"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_CG = "0"
+P_IP = "17"
+P_SO = "11"
+P_AB = "74"
+P_H = "22"
+P_HP = "6"
+P_BK = "1"
+P_BB = "13"
+P_WP = "3"
+P_R = "19"
+P_ER = "15"
+P_ERA = "8.47"
+
+
+[[person]]
+name.last = "Anderson"
+name.given = "A."
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_CG = "1"
+P_IP = "11"
+P_SO = "9"
+P_AB = "57"
+P_H = "21"
+P_HP = "0"
+P_BK = "0"
+P_BB = "3"
+P_WP = "1"
+P_R = "18"
+P_ER = "12"
+P_ERA = "9.81"
+
+
+[[person]]
+name.last = "Zukosky"
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_CG = "1"
+P_IP = "9"
+P_SO = "7"
+P_AB = "48"
+P_H = "18"
+P_HP = "0"
+P_BK = "0"
+P_BB = "5"
+P_WP = "1"
+P_R = "11"
+P_ER = "10"
+P_ERA = "10.00"

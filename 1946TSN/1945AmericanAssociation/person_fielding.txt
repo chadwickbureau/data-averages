@@ -1,0 +1,4935 @@
+[[person]]
+name.last = "Tucker"
+name.given = "W."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "16"
+F_1B_PO = "120"
+F_1B_A = "16"
+F_1B_E = "0"
+F_1B_DP = "6"
+F_1B_PCT = "1.000"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "McLain"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "15"
+F_1B_PO = "119"
+F_1B_A = "9"
+F_1B_E = "0"
+F_1B_DP = "8"
+F_1B_PCT = "1.000"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Berge"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "77"
+F_1B_A = "6"
+F_1B_E = "0"
+F_1B_DP = "7"
+F_1B_PCT = "1.000"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Sturdy"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "93"
+F_1B_PO = "716"
+F_1B_A = "46"
+F_1B_E = "2"
+F_1B_DP = "70"
+F_1B_PCT = ".997"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "19"
+F_1B_PO = "156"
+F_1B_A = "9"
+F_1B_E = "1"
+F_1B_DP = "12"
+F_1B_PCT = ".994"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Shupe"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "73"
+F_1B_PO = "652"
+F_1B_A = "42"
+F_1B_E = "6"
+F_1B_DP = "54"
+F_1B_PCT = ".991"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Browne"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "145"
+F_1B_PO = "1235"
+F_1B_A = "64"
+F_1B_E = "15"
+F_1B_DP = "107"
+F_1B_PCT = ".989"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Denning"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "141"
+F_1B_PO = "1206"
+F_1B_A = "82"
+F_1B_E = "17"
+F_1B_DP = "124"
+F_1B_PCT = ".987"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Nowak"
+name.given = "W."
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "98"
+F_1B_PO = "807"
+F_1B_A = "60"
+F_1B_E = "11"
+F_1B_DP = "78"
+F_1B_PCT = ".987"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Schoendienst"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "114"
+F_1B_PO = "978"
+F_1B_A = "76"
+F_1B_E = "16"
+F_1B_DP = "89"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Mack"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "80"
+F_1B_PO = "676"
+F_1B_A = "63"
+F_1B_E = "11"
+F_1B_DP = "64"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Ignasiak"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "147"
+F_1B_PO = "1262"
+F_1B_A = "78"
+F_1B_E = "22"
+F_1B_DP = "105"
+F_1B_PCT = ".984"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Lafata"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "146"
+F_1B_PO = "1231"
+F_1B_A = "103"
+F_1B_E = "23"
+F_1B_DP = "121"
+F_1B_PCT = ".983"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Baron"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "38"
+F_1B_PO = "312"
+F_1B_A = "29"
+F_1B_E = "7"
+F_1B_DP = "28"
+F_1B_PCT = ".980"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Suytar"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "33"
+F_1B_PO = "247"
+F_1B_A = "14"
+F_1B_E = "6"
+F_1B_DP = "18"
+F_1B_PCT = ".978"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Gracey"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "11"
+F_1B_PO = "80"
+F_1B_A = "9"
+F_1B_E = "2"
+F_1B_DP = "11"
+F_1B_PCT = ".978"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Morgan"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "61"
+F_1B_A = "3"
+F_1B_E = "2"
+F_1B_DP = "5"
+F_1B_PCT = ".970"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Etchison"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "83"
+F_1B_A = "10"
+F_1B_E = "3"
+F_1B_DP = "9"
+F_1B_PCT = ".969"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Huston"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "21"
+F_2B_PO = "44"
+F_2B_A = "51"
+F_2B_E = "1"
+F_2B_DP = "9"
+F_2B_PCT = ".990"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Tucker"
+name.given = "W."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "36"
+F_2B_A = "35"
+F_2B_E = "1"
+F_2B_DP = "6"
+F_2B_PCT = ".986"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Boaz"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "38"
+F_2B_PO = "94"
+F_2B_A = "103"
+F_2B_E = "3"
+F_2B_DP = "17"
+F_2B_PCT = ".985"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gracey"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "56"
+F_2B_A = "60"
+F_2B_E = "2"
+F_2B_DP = "10"
+F_2B_PCT = ".983"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Berge"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "12"
+F_2B_PO = "21"
+F_2B_A = "27"
+F_2B_E = "1"
+F_2B_DP = "5"
+F_2B_PCT = ".980"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Geraghty"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "116"
+F_2B_PO = "310"
+F_2B_A = "305"
+F_2B_E = "13"
+F_2B_DP = "74"
+F_2B_PCT = ".979"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Serafini"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "57"
+F_2B_PO = "106"
+F_2B_A = "147"
+F_2B_E = "6"
+F_2B_DP = "24"
+F_2B_PCT = ".977"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Biggs"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "41"
+F_2B_PO = "115"
+F_2B_A = "136"
+F_2B_E = "6"
+F_2B_DP = "22"
+F_2B_PCT = ".977"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Wren"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "124"
+F_2B_PO = "329"
+F_2B_A = "375"
+F_2B_E = "20"
+F_2B_DP = "75"
+F_2B_PCT = ".972"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Danneker"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "141"
+F_2B_PO = "402"
+F_2B_A = "428"
+F_2B_E = "29"
+F_2B_DP = "100"
+F_2B_PCT = ".966"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "18"
+F_2B_PO = "49"
+F_2B_A = "61"
+F_2B_E = "4"
+F_2B_DP = "22"
+F_2B_PCT = ".965"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Vitter"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "95"
+F_2B_PO = "247"
+F_2B_A = "257"
+F_2B_E = "19"
+F_2B_DP = "60"
+F_2B_PCT = ".964"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "28"
+F_2B_PO = "83"
+F_2B_A = "75"
+F_2B_E = "6"
+F_2B_DP = "17"
+F_2B_PCT = ".963"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Rullo"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "116"
+F_2B_PO = "332"
+F_2B_A = "401"
+F_2B_E = "30"
+F_2B_DP = "89"
+F_2B_PCT = ".961"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Males"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "34"
+F_2B_A = "38"
+F_2B_E = "3"
+F_2B_DP = "1"
+F_2B_PCT = ".960"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "G."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "80"
+F_2B_PO = "232"
+F_2B_A = "215"
+F_2B_E = "19"
+F_2B_DP = "45"
+F_2B_PCT = ".959"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Koney"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "138"
+F_2B_PO = "371"
+F_2B_A = "389"
+F_2B_E = "34"
+F_2B_DP = "90"
+F_2B_PCT = ".957"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Bogard"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "42"
+F_2B_PO = "77"
+F_2B_A = "110"
+F_2B_E = "9"
+F_2B_DP = "23"
+F_2B_PCT = ".954"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Fletcher"
+name.given = "R."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "21"
+F_2B_A = "38"
+F_2B_E = "3"
+F_2B_DP = "1"
+F_2B_PCT = ".952"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Shemo"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "23"
+F_2B_PO = "63"
+F_2B_A = "49"
+F_2B_E = "6"
+F_2B_DP = "22"
+F_2B_PCT = ".949"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Sabol"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "35"
+F_2B_PO = "55"
+F_2B_A = "85"
+F_2B_E = "13"
+F_2B_DP = "15"
+F_2B_PCT = ".915"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Tucker"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "10"
+F_2B_PO = "12"
+F_2B_A = "20"
+F_2B_E = "4"
+F_2B_DP = "5"
+F_2B_PCT = ".889"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Scheiwe"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "23"
+F_2B_A = "33"
+F_2B_E = "8"
+F_2B_DP = "5"
+F_2B_PCT = ".875"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Blazo"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "8"
+F_3B_A = "10"
+F_3B_E = "0"
+F_3B_DP = "0"
+F_3B_PCT = "1.000"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Steiner"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "42"
+F_3B_PO = "37"
+F_3B_A = "90"
+F_3B_E = "3"
+F_3B_DP = "11"
+F_3B_PCT = ".977"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Wallen"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "51"
+F_3B_PO = "45"
+F_3B_A = "89"
+F_3B_E = "4"
+F_3B_DP = "9"
+F_3B_PCT = ".971"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "English"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "114"
+F_3B_PO = "118"
+F_3B_A = "256"
+F_3B_E = "12"
+F_3B_DP = "30"
+F_3B_PCT = ".969"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Lipscomb"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "10"
+F_3B_A = "15"
+F_3B_E = "1"
+F_3B_DP = "2"
+F_3B_PCT = ".962"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "84"
+F_3B_PO = "87"
+F_3B_A = "167"
+F_3B_E = "14"
+F_3B_DP = "15"
+F_3B_PCT = ".948"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Males"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "18"
+F_3B_PO = "20"
+F_3B_A = "35"
+F_3B_E = "3"
+F_3B_DP = "2"
+F_3B_PCT = ".948"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Nance"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "151"
+F_3B_PO = "135"
+F_3B_A = "257"
+F_3B_E = "22"
+F_3B_DP = "22"
+F_3B_PCT = ".947"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "LaForest"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "21"
+F_3B_PO = "22"
+F_3B_A = "50"
+F_3B_E = "4"
+F_3B_DP = "5"
+F_3B_PCT = ".947"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Huston"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "62"
+F_3B_PO = "63"
+F_3B_A = "108"
+F_3B_E = "11"
+F_3B_DP = "17"
+F_3B_PCT = ".940"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Berge"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "26"
+F_3B_PO = "29"
+F_3B_A = "34"
+F_3B_E = "4"
+F_3B_DP = "5"
+F_3B_PCT = ".940"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Ostrowski"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "134"
+F_3B_PO = "170"
+F_3B_A = "217"
+F_3B_E = "26"
+F_3B_DP = "22"
+F_3B_PCT = ".937"
+F_3B_TP = "1"
+
+
+[[person]]
+name.last = "Kimball"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "147"
+F_3B_PO = "133"
+F_3B_A = "293"
+F_3B_E = "31"
+F_3B_DP = "30"
+F_3B_PCT = ".932"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "26"
+F_3B_PO = "34"
+F_3B_A = "42"
+F_3B_E = "6"
+F_3B_DP = "8"
+F_3B_PCT = ".927"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Shofner"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "17"
+F_3B_PO = "22"
+F_3B_A = "29"
+F_3B_E = "4"
+F_3B_DP = "4"
+F_3B_PCT = ".927"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "B."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "20"
+F_3B_PO = "15"
+F_3B_A = "32"
+F_3B_E = "4"
+F_3B_DP = "6"
+F_3B_PCT = ".922"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Rhawn"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "19"
+F_3B_PO = "16"
+F_3B_A = "17"
+F_3B_E = "3"
+F_3B_DP = "3"
+F_3B_PCT = ".917"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Lancellotti"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "28"
+F_3B_PO = "25"
+F_3B_A = "50"
+F_3B_E = "7"
+F_3B_DP = "2"
+F_3B_PCT = ".915"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Picciuto"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "98"
+F_3B_PO = "89"
+F_3B_A = "188"
+F_3B_E = "28"
+F_3B_DP = "23"
+F_3B_PCT = ".908"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Serafini"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "22"
+F_3B_PO = "18"
+F_3B_A = "38"
+F_3B_E = "6"
+F_3B_DP = "3"
+F_3B_PCT = ".903"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Polly"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "79"
+F_3B_PO = "74"
+F_3B_A = "137"
+F_3B_E = "25"
+F_3B_DP = "10"
+F_3B_PCT = ".879"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Lanfersieck"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "32"
+F_3B_PO = "27"
+F_3B_A = "55"
+F_3B_E = "12"
+F_3B_DP = "5"
+F_3B_PCT = ".872"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Ruiz"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "18"
+F_3B_PO = "26"
+F_3B_A = "27"
+F_3B_E = "12"
+F_3B_DP = "5"
+F_3B_PCT = ".815"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Storenski"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "14"
+F_SS_A = "21"
+F_SS_E = "1"
+F_SS_DP = "2"
+F_SS_PCT = ".972"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Rhawn"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "24"
+F_SS_A = "24"
+F_SS_E = "2"
+F_SS_DP = "5"
+F_SS_PCT = ".960"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Price"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "40"
+F_SS_PO = "82"
+F_SS_A = "133"
+F_SS_E = "10"
+F_SS_DP = "19"
+F_SS_PCT = ".956"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Zak"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "104"
+F_SS_PO = "212"
+F_SS_A = "318"
+F_SS_E = "25"
+F_SS_DP = "51"
+F_SS_PCT = ".955"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Wilkie"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "25"
+F_SS_A = "27"
+F_SS_E = "3"
+F_SS_DP = "7"
+F_SS_PCT = ".945"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "65"
+F_SS_PO = "132"
+F_SS_A = "208"
+F_SS_E = "20"
+F_SS_DP = "33"
+F_SS_PCT = ".944"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Ostrowski"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "20"
+F_SS_A = "28"
+F_SS_E = "3"
+F_SS_DP = "6"
+F_SS_PCT = ".941"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Hart"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "38"
+F_SS_PO = "70"
+F_SS_A = "109"
+F_SS_E = "12"
+F_SS_DP = "23"
+F_SS_PCT = ".937"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Males"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "98"
+F_SS_PO = "192"
+F_SS_A = "278"
+F_SS_E = "33"
+F_SS_DP = "51"
+F_SS_PCT = ".934"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Kimble"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "107"
+F_SS_PO = "203"
+F_SS_A = "316"
+F_SS_E = "37"
+F_SS_DP = "61"
+F_SS_PCT = ".933"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Heltzel"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "141"
+F_SS_PO = "231"
+F_SS_A = "401"
+F_SS_E = "46"
+F_SS_DP = "70"
+F_SS_PCT = ".932"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Berge"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "38"
+F_SS_PO = "62"
+F_SS_A = "94"
+F_SS_E = "12"
+F_SS_DP = "16"
+F_SS_PCT = ".929"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Biggs"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "89"
+F_SS_PO = "192"
+F_SS_A = "267"
+F_SS_E = "37"
+F_SS_DP = "59"
+F_SS_PCT = ".925"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "80"
+F_SS_PO = "167"
+F_SS_A = "201"
+F_SS_E = "30"
+F_SS_DP = "41"
+F_SS_PCT = ".925"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Lehrman"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "43"
+F_SS_PO = "75"
+F_SS_A = "103"
+F_SS_E = "15"
+F_SS_DP = "11"
+F_SS_PCT = ".922"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "LaForest"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "21"
+F_SS_A = "37"
+F_SS_E = "5"
+F_SS_DP = "7"
+F_SS_PCT = ".921"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Shofner"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "128"
+F_SS_PO = "250"
+F_SS_A = "365"
+F_SS_E = "55"
+F_SS_DP = "70"
+F_SS_PCT = ".918"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Weingartner"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "27"
+F_SS_PO = "52"
+F_SS_A = "97"
+F_SS_E = "14"
+F_SS_DP = "24"
+F_SS_PCT = ".914"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Towns"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "60"
+F_SS_PO = "113"
+F_SS_A = "153"
+F_SS_E = "27"
+F_SS_DP = "40"
+F_SS_PCT = ".908"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Jackimchuk"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "22"
+F_SS_PO = "49"
+F_SS_A = "59"
+F_SS_E = "11"
+F_SS_DP = "13"
+F_SS_PCT = ".908"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Tucker"
+name.given = "W."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "31"
+F_SS_PO = "67"
+F_SS_A = "81"
+F_SS_E = "16"
+F_SS_DP = "14"
+F_SS_PCT = ".902"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "B."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "52"
+F_SS_PO = "94"
+F_SS_A = "120"
+F_SS_E = "26"
+F_SS_DP = "21"
+F_SS_PCT = ".982"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Kaney"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "17"
+F_SS_PO = "27"
+F_SS_A = "34"
+F_SS_E = "9"
+F_SS_DP = "5"
+F_SS_PCT = ".871"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Genovese"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "154"
+F_OF_PO = "310"
+F_OF_A = "11"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Platek"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "51"
+F_OF_PO = "100"
+F_OF_A = "5"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "B."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "23"
+F_OF_PO = "38"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "English"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "26"
+F_OF_PO = "35"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mallory"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "30"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Males"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "17"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bogard"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "15"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Powaski"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "9"
+F_OF_A = "3"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Barath"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "108"
+F_OF_PO = "168"
+F_OF_A = "9"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".994"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kreevich"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "71"
+F_OF_PO = "150"
+F_OF_A = "7"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".994"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Norman"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "49"
+F_OF_PO = "110"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".991"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bartosch"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "50"
+F_OF_PO = "78"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".988"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cicero"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "56"
+F_OF_PO = "135"
+F_OF_A = "10"
+F_OF_E = "2"
+F_OF_DP = "4"
+F_OF_PCT = ".986"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kobesky"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "46"
+F_OF_PO = "63"
+F_OF_A = "7"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".986"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Chapman"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "119"
+F_OF_PO = "194"
+F_OF_A = "9"
+F_OF_E = "3"
+F_OF_DP = "2"
+F_OF_PCT = ".985"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cooney"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "21"
+F_OF_PO = "58"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "2"
+F_OF_PCT = ".984"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Scheiwe"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "36"
+F_OF_PO = "56"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".983"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Flick"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "139"
+F_OF_PO = "265"
+F_OF_A = "5"
+F_OF_E = "5"
+F_OF_DP = "3"
+F_OF_PCT = ".982"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Deal"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "23"
+F_OF_PO = "40"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".978"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rebel"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "93"
+F_OF_PO = "158"
+F_OF_A = "10"
+F_OF_E = "4"
+F_OF_DP = "3"
+F_OF_PCT = ".977"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cotelle"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "52"
+F_OF_PO = "81"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".977"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "132"
+F_OF_PO = "263"
+F_OF_A = "18"
+F_OF_E = "7"
+F_OF_DP = "5"
+F_OF_PCT = ".976"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wentzel"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "154"
+F_OF_PO = "379"
+F_OF_A = "17"
+F_OF_E = "10"
+F_OF_DP = "4"
+F_OF_PCT = ".975"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Maulini"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "22"
+F_OF_PO = "38"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".975"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "88"
+F_OF_PO = "189"
+F_OF_A = "2"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".974"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Corona"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "90"
+F_OF_PO = "166"
+F_OF_A = "14"
+F_OF_E = "5"
+F_OF_DP = "3"
+F_OF_PCT = ".973"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Parks"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "133"
+F_OF_PO = "233"
+F_OF_A = "6"
+F_OF_E = "7"
+F_OF_DP = "2"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Nowak"
+name.given = "H."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "148"
+F_OF_PO = "340"
+F_OF_A = "24"
+F_OF_E = "11"
+F_OF_DP = "6"
+F_OF_PCT = ".971"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Musser"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "62"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".971"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Dill"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "127"
+F_OF_PO = "210"
+F_OF_A = "16"
+F_OF_E = "7"
+F_OF_DP = "3"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Filipowicz"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "48"
+F_OF_PO = "123"
+F_OF_A = "5"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McLain"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "122"
+F_OF_PO = "264"
+F_OF_A = "10"
+F_OF_E = "9"
+F_OF_DP = "1"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Reinhart"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "138"
+F_OF_PO = "220"
+F_OF_A = "24"
+F_OF_E = "8"
+F_OF_DP = "4"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Yaeger"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "91"
+F_OF_PO = "199"
+F_OF_A = "11"
+F_OF_E = "7"
+F_OF_DP = "5"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rider"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "30"
+F_OF_PO = "52"
+F_OF_A = "5"
+F_OF_E = "2"
+F_OF_DP = "3"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Devincenzi"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "101"
+F_OF_PO = "183"
+F_OF_A = "12"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lund"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "70"
+F_OF_PO = "103"
+F_OF_A = "4"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pike"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "25"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".963"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sabol"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "67"
+F_OF_A = "6"
+F_OF_E = "3"
+F_OF_DP = "2"
+F_OF_PCT = ".961"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Barna"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "129"
+F_OF_PO = "202"
+F_OF_A = "12"
+F_OF_E = "9"
+F_OF_DP = "4"
+F_OF_PCT = ".960"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Meyers"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "24"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".960"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hazen"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "100"
+F_OF_PO = "242"
+F_OF_A = "13"
+F_OF_E = "11"
+F_OF_DP = "2"
+F_OF_PCT = ".959"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Polly"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "46"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".959"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Marion"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "103"
+F_OF_PO = "175"
+F_OF_A = "9"
+F_OF_E = "8"
+F_OF_DP = "1"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Passero"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "42"
+F_OF_PO = "62"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".957"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "LaForest"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "42"
+F_OF_PO = "60"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".956"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Howerton"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "72"
+F_OF_PO = "107"
+F_OF_A = "9"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".951"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rosenthal"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "74"
+F_OF_PO = "184"
+F_OF_A = "3"
+F_OF_E = "10"
+F_OF_DP = "1"
+F_OF_PCT = ".949"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Okrie"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "77"
+F_OF_PO = "119"
+F_OF_A = "7"
+F_OF_E = "7"
+F_OF_DP = "3"
+F_OF_PCT = ".947"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Burgo"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "144"
+F_OF_PO = "239"
+F_OF_A = "11"
+F_OF_E = "16"
+F_OF_DP = "2"
+F_OF_PCT = ".940"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kresal"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "49"
+F_OF_PO = "85"
+F_OF_A = "0"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".934"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Morgan"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "57"
+F_OF_PO = "65"
+F_OF_A = "5"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".933"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Nowak"
+name.given = "W."
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "26"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".933"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Vitter"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "40"
+F_OF_A = "2"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".913"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "T."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "22"
+F_OF_PO = "25"
+F_OF_A = "1"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".897"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Boken"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "15"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".882"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lucier"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "13"
+F_P_A = "28"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "11"
+F_P_A = "24"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lindquist"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "5"
+F_P_A = "22"
+F_P_E = "0"
+F_P_DP = "3"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pyle"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "4"
+F_P_A = "21"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Strommen"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "3"
+F_P_A = "21"
+F_P_E = "0"
+F_P_DP = "3"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hearn"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "3"
+F_P_A = "20"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "5"
+F_P_A = "18"
+F_P_E = "0"
+F_P_DP = "3"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Orphal"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "12"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Wen."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "1"
+F_P_A = "18"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Camp"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "3"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rudolph"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "0"
+F_P_A = "14"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pavlick"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "3"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cunningham"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "4"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Marleau"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "0"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kaufman"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McGillen"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "3"
+F_P_A = "5"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Earley"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "2"
+F_P_A = "5"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Peterson"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "1"
+F_P_A = "6"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lowery"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "3"
+F_P_A = "3"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "Jack"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "1"
+F_P_A = "4"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Scheetz"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "12"
+F_P_A = "50"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".984"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Webb"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "11"
+F_P_A = "43"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".982"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Whitehead"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "3"
+F_P_A = "43"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".979"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jiminez"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "8"
+F_P_A = "37"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".978"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "9"
+F_P_A = "36"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".978"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fannin"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "15"
+F_P_A = "30"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".978"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Alberton"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "47"
+F_P_PO = "5"
+F_P_A = "30"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".972"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Weaver"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "45"
+F_P_PO = "4"
+F_P_A = "31"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".972"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tauscher"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "61"
+F_P_PO = "4"
+F_P_A = "31"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".972"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Abernathy"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "8"
+F_P_A = "26"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pepper"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "5"
+F_P_A = "26"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".969"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Widmar"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "7"
+F_P_A = "54"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".968"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Flowers"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "41"
+F_P_PO = "10"
+F_P_A = "51"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".968"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Simonds"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "6"
+F_P_A = "24"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".068"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Diehl"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "7"
+F_P_A = "23"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".968"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Brunswick"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "8"
+F_P_A = "49"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".966"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bahr"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "10"
+F_P_A = "46"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".966"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hendrickson"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "7"
+F_P_A = "20"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Callahan"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "8"
+F_P_A = "44"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".963"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sunkel"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "3"
+F_P_A = "23"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".963"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Singleton"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "4"
+F_P_A = "21"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Branca"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "3"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pringle"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "15"
+F_P_A = "34"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".961"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Swanson"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "7"
+F_P_A = "42"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".961"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tart"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "8"
+F_P_A = "16"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".960"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "John"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "3"
+F_P_A = "18"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Wm."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "6"
+F_P_A = "14"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Garver"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "9"
+F_P_A = "47"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".949"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Nitcholas"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "7"
+F_P_A = "48"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".948"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jeffcoat"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "16"
+F_P_A = "19"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".946"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Brock"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "2"
+F_P_A = "15"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".944"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lanahan"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "6"
+F_P_A = "43"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".942"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Martin (Mustaikis)"
+name.given = "A."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "7"
+F_P_A = "25"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sumey"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "41"
+F_P_PO = "7"
+F_P_A = "36"
+F_P_E = "3"
+F_P_DP = "4"
+F_P_PCT = ".935"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cecil"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "7"
+F_P_A = "35"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Chumley"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "3"
+F_P_A = "11"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lippold"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "5"
+F_P_A = "9"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lawson"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "2"
+F_P_A = "25"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".931"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Thompson"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "10"
+F_P_A = "28"
+F_P_E = "3"
+F_P_DP = "5"
+F_P_PCT = ".927"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "LaMacchia"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "4"
+F_P_A = "20"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rich"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Knierim"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "6"
+F_P_A = "29"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".921"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Speer"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "6"
+F_P_A = "39"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".918"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wallace"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "8"
+F_P_A = "36"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lopatka"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "7"
+F_P_A = "37"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Durheim"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "3"
+F_P_A = "18"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".913"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Root"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "4"
+F_P_A = "16"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mistele"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "5"
+F_P_A = "24"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mains"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "2"
+F_P_A = "16"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "R."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Smalling"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "0"
+F_P_A = "17"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".895"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kimberlin"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "4"
+F_P_A = "21"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".893"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kash"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "51"
+F_P_PO = "9"
+F_P_A = "32"
+F_P_E = "5"
+F_P_DP = "1"
+F_P_PCT = ".891"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kelly"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "3"
+F_P_A = "21"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mazar"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "10"
+F_P_A = "29"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".886"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Leon"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "3"
+F_P_A = "20"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".885"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cardoni"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "7"
+F_P_A = "23"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".882"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hutchinson"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "3"
+F_P_A = "12"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".882"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Acosta"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "9"
+F_P_A = "42"
+F_P_E = "7"
+F_P_DP = "4"
+F_P_PCT = ".879"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fletcher"
+name.given = "G."
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "4"
+F_P_A = "24"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Burkart"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "2"
+F_P_A = "11"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".867"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Vucovich"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "3"
+F_P_A = "9"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Marshall"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "13"
+F_P_A = "30"
+F_P_E = "9"
+F_P_DP = "1"
+F_P_PCT = ".827"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Patton"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Coffman"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "2"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".600"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Narron"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "78"
+F_C_PO = "355"
+F_C_A = "37"
+F_C_E = "3"
+F_C_DP = "3"
+F_C_PB = "7"
+F_C_PCT = ".992"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Crompton"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "49"
+F_C_PO = "184"
+F_C_A = "26"
+F_C_E = "2"
+F_C_DP = "2"
+F_C_PB = "5"
+F_C_PCT = ".991"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Crandall"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "57"
+F_C_PO = "272"
+F_C_A = "47"
+F_C_E = "4"
+F_C_DP = "3"
+F_C_PB = "7"
+F_C_PCT = ".988"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cardinal"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "21"
+F_C_PO = "72"
+F_C_A = "8"
+F_C_E = "1"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".988"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Lyon"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "73"
+F_C_PO = "320"
+F_C_A = "42"
+F_C_E = "6"
+F_C_DP = "4"
+F_C_PB = "14"
+F_C_PCT = ".984"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Detore"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "52"
+F_C_PO = "201"
+F_C_A = "34"
+F_C_E = "4"
+F_C_DP = "4"
+F_C_PB = "2"
+F_C_PCT = ".983"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Comyn"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "37"
+F_C_PO = "148"
+F_C_A = "21"
+F_C_E = "3"
+F_C_DP = "4"
+F_C_PB = "7"
+F_C_PCT = ".983"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Walters"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "127"
+F_C_A = "25"
+F_C_E = "3"
+F_C_DP = "4"
+F_C_PB = "4"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Missler"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toledo"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "31"
+F_C_PO = "90"
+F_C_A = "16"
+F_C_E = "2"
+F_C_DP = "4"
+F_C_PB = "5"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Crumling"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "12"
+F_C_PO = "43"
+F_C_A = "8"
+F_C_E = "1"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Savino"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "91"
+F_C_PO = "339"
+F_C_A = "57"
+F_C_E = "8"
+F_C_DP = "8"
+F_C_PB = "10"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "74"
+F_C_PO = "260"
+F_C_A = "28"
+F_C_E = "6"
+F_C_DP = "5"
+F_C_PB = "3"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Steinecke"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "53"
+F_C_PO = "229"
+F_C_A = "36"
+F_C_E = "6"
+F_C_DP = "3"
+F_C_PB = "5"
+F_C_PCT = ".978"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Brady"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "107"
+F_C_PO = "477"
+F_C_A = "104"
+F_C_E = "15"
+F_C_DP = "17"
+F_C_PB = "13"
+F_C_PCT = ".975"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Padden"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "24"
+F_C_PO = "102"
+F_C_A = "15"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".975"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Stephenson"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "120"
+F_C_PO = "602"
+F_C_A = "66"
+F_C_E = "18"
+F_C_DP = "6"
+F_C_PB = "12"
+F_C_PCT = ".974"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Danielson"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "38"
+F_C_PO = "125"
+F_C_A = "19"
+F_C_E = "4"
+F_C_DP = "2"
+F_C_PB = "4"
+F_C_PCT = ".973"
+F_C_TP = "1"
+
+
+[[person]]
+name.last = "Castro"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kansas City"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "31"
+F_C_PO = "130"
+F_C_A = "18"
+F_C_E = "5"
+F_C_DP = "2"
+F_C_PB = "5"
+F_C_PCT = ".967"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Pratt"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "16"
+F_C_PO = "76"
+F_C_A = "8"
+F_C_E = "3"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = ".966"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Blazo"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "69"
+F_C_PO = "225"
+F_C_A = "43"
+F_C_E = "10"
+F_C_DP = "10"
+F_C_PB = "6"
+F_C_PCT = ".964"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Millies"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "42"
+F_C_PO = "168"
+F_C_A = "26"
+F_C_E = "8"
+F_C_DP = "5"
+F_C_PB = "7"
+F_C_PCT = ".960"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Gracey"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "25"
+F_C_PO = "84"
+F_C_A = "13"
+F_C_E = "4"
+F_C_DP = "0"
+F_C_PB = "5"
+F_C_PCT = ".960"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Aragon"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "79"
+F_C_PO = "306"
+F_C_A = "48"
+F_C_E = "16"
+F_C_DP = "7"
+F_C_PB = "11"
+F_C_PCT = ".957"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Ulisney"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milwaukee"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "13"
+F_C_PO = "58"
+F_C_A = "6"
+F_C_E = "3"
+F_C_DP = "3"
+F_C_PB = "2"
+F_C_PCT = ".955"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bucha"
+[[person.playing]]
+season = "1945"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "107"
+F_C_PO = "481"
+F_C_A = "76"
+F_C_E = "28"
+F_C_DP = "12"
+F_C_PB = "12"
+F_C_PCT = ".942"
+F_C_TP = "0"

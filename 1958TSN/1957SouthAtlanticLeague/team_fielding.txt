@@ -1,0 +1,134 @@
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "145"
+F_PB = "17"
+F_PO = "3981"
+F_A = "1463"
+F_E = "185"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "129"
+F_PB = "17"
+F_PO = "3933"
+F_A = "1612"
+F_E = "201"
+F_PCT = ".965"
+F_TP = "1"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "118"
+F_PB = "26"
+F_PO = "3945"
+F_A = "1538"
+F_E = "201"
+F_PCT = ".965"
+F_TP = "0"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_DP = "157"
+F_PB = "24"
+F_PO = "4081"
+F_A = "1721"
+F_E = "220"
+F_PCT = ".963"
+F_TP = "0"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "121"
+F_PB = "11"
+F_PO = "4051"
+F_A = "1613"
+F_E = "215"
+F_PCT = ".963"
+F_TP = "0"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "121"
+F_PB = "15"
+F_PO = "3935"
+F_A = "1442"
+F_E = "214"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_DP = "139"
+F_PB = "22"
+F_PO = "4016"
+F_A = "1715"
+F_E = "226"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1957"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "176"
+F_PB = "13"
+F_PO = "4001"
+F_A = "1505"
+F_E = "231"
+F_PCT = ".960"
+F_TP = "0"

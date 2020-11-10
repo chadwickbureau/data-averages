@@ -1,0 +1,110 @@
+[[team]]
+name = "Red Wing"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3060"
+F_A = "1625"
+F_E = "222"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3323"
+F_A = "1793"
+F_E = "256"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3286"
+F_A = "1649"
+F_E = "183"
+F_PCT = ".964"
+
+
+[[team]]
+name = "La Crosse"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3329"
+F_A = "1610"
+F_E = "255"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Winona"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3339"
+F_A = "1594"
+F_E = "185"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3379"
+F_A = "1543"
+F_E = "252"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3345"
+F_A = "1561"
+F_E = "250"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1910"
+league.name = "Minnesota-Wisconsin League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3085"
+F_A = "1422"
+F_E = "243"
+F_PCT = ".949"

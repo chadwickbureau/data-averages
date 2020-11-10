@@ -1,0 +1,126 @@
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4689"
+B_R = "597"
+B_H = "1214"
+B_SB = "177"
+B_SH = "154"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4593"
+B_R = "546"
+B_H = "1159"
+B_SB = "243"
+B_SH = "190"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4734"
+B_R = "522"
+B_H = "1141"
+B_SB = "248"
+B_SH = "178"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4813"
+B_R = "536"
+B_H = "1153"
+B_SB = "162"
+B_SH = "111"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "145"
+B_AB = "4538"
+B_R = "552"
+B_H = "1046"
+B_SB = "237"
+B_SH = "156"
+B_AVG = ".230"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "145"
+B_AB = "4523"
+B_R = "425"
+B_H = "1013"
+B_SB = "141"
+B_SH = "112"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4583"
+B_R = "426"
+B_H = "1018"
+B_SB = "205"
+B_SH = "117"
+B_AVG = ".222"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1912"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4599"
+B_R = "410"
+B_H = "978"
+B_SB = "200"
+B_SH = "155"
+B_AVG = ".213"

@@ -1,0 +1,167 @@
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "41"
+R_L = "19"
+R_PCT = ".683"
+R_RANK = "1"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "38"
+R_L = "25"
+R_PCT = ".603"
+R_RANK = "2"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "31"
+R_L = "31"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "25"
+R_L = "34"
+R_PCT = ".424"
+R_RANK = "4"
+
+
+[[team]]
+name = "Hopewell"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "25"
+R_L = "37"
+R_PCT = ".400"
+R_RANK = "5"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "24"
+R_L = "38"
+R_PCT = ".387"
+R_RANK = "6"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "40"
+R_L = "14"
+R_PCT = ".741"
+R_RANK = "1"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "35"
+R_L = "19"
+R_PCT = ".648"
+R_RANK = "2"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "27"
+R_PCT = ".526"
+R_RANK = "3"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "30"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "9"
+R_L = "44"
+R_PCT = ".170"
+R_RANK = "5"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1916"
+league.name = "Virginia League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"

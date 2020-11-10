@@ -1,0 +1,118 @@
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4186"
+B_R = "528"
+B_H = "1118"
+B_TB = "1419"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4062"
+B_R = "533"
+B_H = "1050"
+B_TB = "1332"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4117"
+B_R = "367"
+B_H = "1060"
+B_TB = "1308"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3742"
+B_R = "492"
+B_H = "960"
+B_TB = "1224"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4471"
+B_R = "480"
+B_H = "1121"
+B_TB = "1441"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "133"
+B_AB = "4116"
+B_R = "512"
+B_H = "1030"
+B_TB = "1272"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4030"
+B_R = "450"
+B_H = "974"
+B_TB = "1229"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4237"
+B_R = "453"
+B_H = "1002"
+B_TB = "1213"
+B_AVG = ".236"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Zanesville"
+[[team.playing]]
+season = "1945"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "110"
+F_TP = "0"
+F_PB = "31"
+F_PO = "3362"
+F_A = "1503"
+F_E = "327"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1945"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "100"
+F_TP = "0"
+F_PB = "22"
+F_PO = "3445"
+F_A = "1460"
+F_E = "336"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1945"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "69"
+F_TP = "1"
+F_PB = "54"
+F_PO = "3398"
+F_A = "1427"
+F_E = "367"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Middletown"
+[[team.playing]]
+season = "1945"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "83"
+F_TP = "0"
+F_PB = "22"
+F_PO = "3375"
+F_A = "1371"
+F_E = "369"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1945"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "97"
+F_TP = "0"
+F_PB = "43"
+F_PO = "3276"
+F_A = "1451"
+F_E = "376"
+F_PCT = ".926"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1945"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "101"
+F_TP = "0"
+F_PB = "40"
+F_PO = "3399"
+F_A = "1600"
+F_E = "449"
+F_PCT = ".918"

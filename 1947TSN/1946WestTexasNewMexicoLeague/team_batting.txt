@@ -1,0 +1,198 @@
+[[team]]
+name = "Abilene"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4812"
+B_R = "1110"
+P_R = "659"
+B_H = "1492"
+B_TB = "2414"
+B_2B = "272"
+B_3B = "76"
+B_HR = "166"
+B_SH = "71"
+B_SB = "161"
+B_BB = "669"
+B_HP = "60"
+B_RBI = "936"
+B_SO = "741"
+B_AVG = ".310"
+
+
+[[team]]
+name = "Pampa"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4911"
+B_R = "1057"
+P_R = "763"
+B_H = "1517"
+B_TB = "2268"
+B_2B = "288"
+B_3B = "65"
+B_HR = "111"
+B_SH = "64"
+B_SB = "98"
+B_BB = "623"
+B_HP = "39"
+B_RBI = "861"
+B_SO = "624"
+B_AVG = ".309"
+
+
+[[team]]
+name = "Amarillo"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4858"
+B_R = "1120"
+P_R = "831"
+B_H = "1443"
+B_TB = "2334"
+B_2B = "278"
+B_3B = "38"
+B_HR = "179"
+B_SH = "66"
+B_SB = "96"
+B_BB = "705"
+B_HP = "55"
+B_RBI = "885"
+B_SO = "801"
+B_AVG = ".297"
+
+
+[[team]]
+name = "Borger"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "5049"
+B_R = "978"
+P_R = "1092"
+B_H = "1465"
+B_TB = "2226"
+B_2B = "294"
+B_3B = "52"
+B_HR = "121"
+B_SH = "37"
+B_SB = "81"
+B_BB = "627"
+B_HP = "39"
+B_RBI = "854"
+B_SO = "724"
+B_AVG = ".290"
+
+
+[[team]]
+name = "Lubbock"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4861"
+B_R = "895"
+P_R = "873"
+B_H = "1391"
+B_TB = "2024"
+B_2B = "247"
+B_3B = "67"
+B_HR = "84"
+B_SH = "61"
+B_SB = "123"
+B_BB = "587"
+B_HP = "40"
+B_RBI = "788"
+B_SO = "807"
+B_AVG = ".286"
+
+
+[[team]]
+name = "Albuquerque"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4807"
+B_R = "818"
+P_R = "992"
+B_H = "1347"
+B_TB = "1959"
+B_2B = "231"
+B_3B = "96"
+B_HR = "63"
+B_SH = "39"
+B_SB = "128"
+B_BB = "559"
+B_HP = "53"
+B_RBI = "671"
+B_SO = "798"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Clovis"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4714"
+B_R = "781"
+P_R = "1085"
+B_H = "1259"
+B_TB = "1862"
+B_2B = "244"
+B_3B = "52"
+B_HR = "85"
+B_SH = "54"
+B_SB = "119"
+B_BB = "653"
+B_HP = "41"
+B_RBI = "653"
+B_SO = "884"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Lamesa"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4816"
+B_R = "732"
+P_R = "1205"
+B_H = "1263"
+B_TB = "1811"
+B_2B = "217"
+B_3B = "47"
+B_HR = "79"
+B_SH = "48"
+B_SB = "70"
+B_BB = "471"
+B_HP = "43"
+B_RBI = "618"
+B_SO = "964"
+B_AVG = ".262"

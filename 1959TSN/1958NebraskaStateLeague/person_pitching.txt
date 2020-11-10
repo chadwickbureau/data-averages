@@ -1,0 +1,3026 @@
+[[person]]
+name.last = "Alexander"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "11"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "25"
+P_H = "31"
+P_HR = "0"
+P_R = "31"
+P_ER = "20"
+P_BB = "25"
+P_SO = "13"
+P_HP = "1"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "7.20"
+
+
+[[person]]
+name.last = "Andujar"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "9"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "21"
+P_H = "26"
+P_HR = "3"
+P_R = "20"
+P_ER = "14"
+P_BB = "9"
+P_SO = "17"
+P_HP = "2"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "6.00"
+
+
+[[person]]
+name.last = "Boos"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "15"
+P_GS = "3"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "44"
+P_H = "46"
+P_HR = "0"
+P_R = "30"
+P_ER = "23"
+P_BB = "31"
+P_SO = "37"
+P_HP = "4"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "4.70"
+
+
+[[person]]
+name.last = "Brunton"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "14"
+P_GS = "13"
+P_CG = "7"
+P_SHO = "3"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "86"
+P_H = "79"
+P_HR = "3"
+P_R = "32"
+P_ER = "27"
+P_BB = "42"
+P_SO = "56"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.83"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Carter"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "15"
+P_GS = "3"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "49"
+P_H = "39"
+P_HR = "0"
+P_R = "24"
+P_ER = "21"
+P_BB = "28"
+P_SO = "37"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.86"
+
+
+[[person]]
+name.last = "Cavanaugh"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "15"
+P_GS = "9"
+P_CG = "5"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "77"
+P_H = "60"
+P_HR = "2"
+P_R = "52"
+P_ER = "32"
+P_BB = "65"
+P_SO = "92"
+P_HP = "4"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "3.74"
+
+
+[[person]]
+name.last = "Cundari"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "20"
+P_GS = "11"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "79"
+P_H = "59"
+P_HR = "3"
+P_R = "54"
+P_ER = "44"
+P_BB = "66"
+P_SO = "60"
+P_HP = "2"
+P_WP = "11"
+P_BK = "1"
+P_ERA = "5.01"
+
+
+[[person]]
+name.last = "Curatolo"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "6"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "18"
+P_H = "21"
+P_HR = "1"
+P_R = "19"
+P_ER = "15"
+P_BB = "26"
+P_SO = "13"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "7.50"
+
+
+[[person]]
+name.last = "DelMargo"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "15"
+P_GS = "8"
+P_CG = "4"
+P_SHO = "2"
+P_W = "7"
+P_L = "3"
+P_PCT = ".700"
+P_IP = "76"
+P_H = "58"
+P_HR = "2"
+P_R = "34"
+P_ER = "19"
+P_BB = "29"
+P_SO = "65"
+P_HP = "2"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "2.25"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Doyle"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "15"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "45"
+P_H = "60"
+P_HR = "3"
+P_R = "37"
+P_ER = "23"
+P_BB = "28"
+P_SO = "37"
+P_HP = "2"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "4.60"
+
+
+[[person]]
+name.last = "Duren"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "12"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "50"
+P_H = "42"
+P_HR = "5"
+P_R = "25"
+P_ER = "22"
+P_BB = "26"
+P_SO = "35"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.96"
+
+
+[[person]]
+name.last = "Earls"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "8"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "32"
+P_H = "37"
+P_HR = "1"
+P_R = "28"
+P_ER = "21"
+P_BB = "16"
+P_SO = "23"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "5.91"
+
+
+[[person]]
+name.last = "Feick"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "13"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "36"
+P_H = "40"
+P_HR = "4"
+P_R = "33"
+P_ER = "27"
+P_BB = "31"
+P_SO = "49"
+P_HP = "7"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.75"
+
+
+[[person]]
+name.last = "Filipovic"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "4"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "18"
+P_H = "15"
+P_HR = "0"
+P_R = "19"
+P_ER = "11"
+P_BB = "17"
+P_SO = "8"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.50"
+
+
+[[person]]
+name.last = "Fischer"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "11"
+P_GS = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "6"
+P_PCT = ".000"
+P_IP = "34"
+P_H = "36"
+P_HR = "1"
+P_R = "42"
+P_ER = "36"
+P_BB = "56"
+P_SO = "29"
+P_HP = "8"
+P_WP = "14"
+P_BK = "2"
+P_ERA = "9.53"
+
+
+[[person]]
+name.last = "Fleming"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "8"
+P_GS = "7"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+P_IP = "60"
+P_H = "52"
+P_HR = "2"
+P_R = "28"
+P_ER = "20"
+P_BB = "23"
+P_SO = "65"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Foy"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "20"
+P_GS = "9"
+P_CG = "6"
+P_SHO = "2"
+P_W = "10"
+P_L = "1"
+P_PCT = ".909"
+P_IP = "98"
+P_H = "80"
+P_HR = "1"
+P_R = "48"
+P_ER = "30"
+P_BB = "52"
+P_SO = "78"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "2.76"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Fracaro"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "19"
+P_GS = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "67"
+P_H = "71"
+P_HR = "0"
+P_R = "55"
+P_ER = "38"
+P_BB = "47"
+P_SO = "46"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "5.10"
+
+
+[[person]]
+name.last = "Gansauer"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "14"
+P_GS = "14"
+P_CG = "9"
+P_SHO = "2"
+P_W = "10"
+P_L = "1"
+P_PCT = ".909"
+P_IP = "106"
+P_H = "64"
+P_HR = "5"
+P_R = "44"
+P_ER = "28"
+P_BB = "43"
+P_SO = "118"
+P_HP = "2"
+P_WP = "6"
+P_BK = "2"
+P_ERA = "2.38"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Geiser"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "12"
+P_GS = "7"
+P_CG = "4"
+P_SHO = "0"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+P_IP = "63"
+P_H = "50"
+P_HR = "1"
+P_R = "32"
+P_ER = "22"
+P_BB = "43"
+P_SO = "79"
+P_HP = "1"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "3.14"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Gordon"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "6"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "28"
+P_H = "28"
+P_HR = "2"
+P_R = "22"
+P_ER = "12"
+P_BB = "23"
+P_SO = "16"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.86"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "7"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "38"
+P_H = "38"
+P_HR = "2"
+P_R = "31"
+P_ER = "27"
+P_BB = "26"
+P_SO = "18"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "6.39"
+
+
+[[person]]
+name.last = "Greene"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "12"
+P_GS = "10"
+P_CG = "7"
+P_SHO = "1"
+P_W = "5"
+P_L = "7"
+P_PCT = ".417"
+P_IP = "76"
+P_H = "79"
+P_HR = "0"
+P_R = "45"
+P_ER = "30"
+P_BB = "29"
+P_SO = "59"
+P_HP = "4"
+P_WP = "2"
+P_BK = "1"
+P_ERA = "3.55"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Griffith"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "18"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "70"
+P_H = "62"
+P_HR = "6"
+P_R = "43"
+P_ER = "32"
+P_BB = "50"
+P_SO = "76"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.11"
+
+
+[[person]]
+name.last = "Hanes"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "9"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "33"
+P_H = "33"
+P_HR = "0"
+P_R = "28"
+P_ER = "23"
+P_BB = "41"
+P_SO = "46"
+P_HP = "0"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "6.27"
+
+
+[[person]]
+name.last = "Hansen"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "9"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "38"
+P_H = "41"
+P_HR = "2"
+P_R = "42"
+P_ER = "21"
+P_BB = "29"
+P_SO = "30"
+P_HP = "5"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.97"
+
+
+[[person]]
+name.last = "Haufman"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "11"
+P_GS = "7"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "53"
+P_H = "38"
+P_HR = "2"
+P_R = "29"
+P_ER = "20"
+P_BB = "50"
+P_SO = "35"
+P_HP = "1"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.40"
+
+
+[[person]]
+name.last = "Henderson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "13"
+P_GS = "9"
+P_CG = "4"
+P_SHO = "0"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "69"
+P_H = "51"
+P_HR = "1"
+P_R = "52"
+P_ER = "24"
+P_BB = "59"
+P_SO = "64"
+P_HP = "6"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.13"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Hoelzeman"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "11"
+P_GS = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "41"
+P_H = "27"
+P_HR = "1"
+P_R = "44"
+P_ER = "32"
+P_BB = "55"
+P_SO = "46"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "7.02"
+
+
+[[person]]
+name.last = "Holmes"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "11"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "17"
+P_H = "20"
+P_HR = "2"
+P_R = "12"
+P_ER = "7"
+P_BB = "17"
+P_SO = "21"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.71"
+
+
+[[person]]
+name.last = "Hooker"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "20"
+P_GS = "2"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "53"
+P_H = "58"
+P_HR = "8"
+P_R = "37"
+P_ER = "26"
+P_BB = "22"
+P_SO = "61"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.42"
+
+
+[[person]]
+name.last = "Hubbell"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "11"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "22"
+P_H = "18"
+P_HR = "2"
+P_R = "17"
+P_ER = "16"
+P_BB = "20"
+P_SO = "16"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "6.55"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "15"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "5"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "56"
+P_H = "47"
+P_HR = "2"
+P_R = "45"
+P_ER = "38"
+P_BB = "59"
+P_SO = "64"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "6.11"
+
+
+[[person]]
+name.last = "Keys"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "15"
+P_GS = "10"
+P_CG = "4"
+P_SHO = "2"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "66"
+P_H = "62"
+P_HR = "3"
+P_R = "41"
+P_ER = "30"
+P_BB = "36"
+P_SO = "46"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.09"
+
+
+[[person]]
+name.last = "Kraus"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "16"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "63"
+P_H = "55"
+P_HR = "5"
+P_R = "40"
+P_ER = "35"
+P_BB = "45"
+P_SO = "65"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.00"
+
+
+[[person]]
+name.last = "Lane"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "4"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "26"
+P_H = "27"
+P_HR = "1"
+P_R = "18"
+P_ER = "15"
+P_BB = "17"
+P_SO = "22"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.19"
+
+
+[[person]]
+name.last = "Langley"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "16"
+P_GS = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "53"
+P_H = "64"
+P_HR = "8"
+P_R = "52"
+P_ER = "37"
+P_BB = "28"
+P_SO = "33"
+P_HP = "4"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "6.28"
+
+
+[[person]]
+name.last = "Lopez"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "14"
+P_GS = "6"
+P_CG = "4"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "52"
+P_H = "40"
+P_HR = "1"
+P_R = "26"
+P_ER = "19"
+P_BB = "46"
+P_SO = "46"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.29"
+
+
+[[person]]
+name.last = "Macias"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "12"
+P_GS = "10"
+P_CG = "4"
+P_SHO = "1"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+P_IP = "55"
+P_H = "57"
+P_HR = "5"
+P_R = "40"
+P_ER = "22"
+P_BB = "32"
+P_SO = "45"
+P_HP = "1"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "3.60"
+
+
+[[person]]
+name.last = "MacPherson"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "19"
+P_GS = "14"
+P_CG = "3"
+P_SHO = "0"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "81"
+P_H = "111"
+P_HR = "9"
+P_R = "85"
+P_ER = "67"
+P_BB = "76"
+P_SO = "69"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "7.44"
+
+
+[[person]]
+name.last = "Mahoney"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "2"
+P_GS = "2"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "15"
+P_H = "16"
+P_HR = "3"
+P_R = "8"
+P_ER = "8"
+P_BB = "7"
+P_SO = "10"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.80"
+
+
+[[person]]
+name.last = "Major"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "15"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "35"
+P_H = "28"
+P_HR = "1"
+P_R = "30"
+P_ER = "19"
+P_BB = "30"
+P_SO = "47"
+P_HP = "3"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.89"
+
+
+[[person]]
+name.last = "McLaughlin"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "11"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "21"
+P_H = "20"
+P_HR = "0"
+P_R = "30"
+P_ER = "25"
+P_BB = "31"
+P_SO = "20"
+P_HP = "3"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "10.71"
+
+
+[[person]]
+name.last = "Mikkelsen"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "16"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "37"
+P_H = "38"
+P_HR = "3"
+P_R = "35"
+P_ER = "21"
+P_BB = "38"
+P_SO = "38"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "5.11"
+
+
+[[person]]
+name.last = "Mirer"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "17"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "58"
+P_H = "55"
+P_HR = "3"
+P_R = "40"
+P_ER = "29"
+P_BB = "48"
+P_SO = "60"
+P_HP = "1"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Modrell"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "7"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "20"
+P_H = "20"
+P_HR = "1"
+P_R = "18"
+P_ER = "13"
+P_BB = "7"
+P_SO = "15"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "5.85"
+
+
+[[person]]
+name.last = "Moeller"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "12"
+P_GS = "11"
+P_CG = "5"
+P_SHO = "1"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "79"
+P_H = "76"
+P_HR = "4"
+P_R = "42"
+P_ER = "26"
+P_BB = "42"
+P_SO = "83"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.96"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "14"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "41"
+P_H = "56"
+P_HR = "3"
+P_R = "40"
+P_ER = "30"
+P_BB = "27"
+P_SO = "37"
+P_HP = "0"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "6.59"
+
+
+[[person]]
+name.last = "Morrow"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "13"
+P_GS = "10"
+P_CG = "4"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "64"
+P_H = "56"
+P_HR = "1"
+P_R = "39"
+P_ER = "31"
+P_BB = "53"
+P_SO = "55"
+P_HP = "2"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "4.36"
+
+
+[[person]]
+name.last = "Mullis"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "19"
+P_GS = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "60"
+P_H = "64"
+P_HR = "2"
+P_R = "45"
+P_ER = "37"
+P_BB = "38"
+P_SO = "50"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "5.55"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "17"
+P_GS = "10"
+P_CG = "3"
+P_SHO = "1"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "67"
+P_H = "56"
+P_HR = "0"
+P_R = "39"
+P_ER = "24"
+P_BB = "62"
+P_SO = "77"
+P_HP = "1"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.22"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Nieberding"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "6"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "1"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "40"
+P_H = "34"
+P_HR = "3"
+P_R = "24"
+P_ER = "19"
+P_BB = "16"
+P_SO = "29"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.28"
+
+
+[[person]]
+name.last = "Norley"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "6"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "26"
+P_H = "20"
+P_HR = "1"
+P_R = "11"
+P_ER = "6"
+P_BB = "22"
+P_SO = "29"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "2.08"
+
+
+[[person]]
+name.last = "Nyquist"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "18"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "43"
+P_H = "56"
+P_HR = "5"
+P_R = "41"
+P_ER = "26"
+P_BB = "24"
+P_SO = "22"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "5.44"
+
+
+[[person]]
+name.last = "Oliva"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "14"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "54"
+P_H = "58"
+P_HR = "8"
+P_R = "39"
+P_ER = "33"
+P_BB = "30"
+P_SO = "51"
+P_HP = "2"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "5.50"
+
+
+[[person]]
+name.last = "Papierski"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "11"
+P_GS = "11"
+P_CG = "3"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "61"
+P_H = "59"
+P_HR = "2"
+P_R = "42"
+P_ER = "31"
+P_BB = "57"
+P_SO = "55"
+P_HP = "8"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.57"
+
+
+[[person]]
+name.last = "Pelaez"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "11"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "16"
+P_H = "17"
+P_HR = "4"
+P_R = "14"
+P_ER = "10"
+P_BB = "9"
+P_SO = "13"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "5.63"
+
+
+[[person]]
+name.last = "Reidell"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "50"
+P_H = "46"
+P_HR = "7"
+P_R = "37"
+P_ER = "34"
+P_BB = "32"
+P_SO = "47"
+P_HP = "5"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "6.12"
+
+
+[[person]]
+name.last = "Robey"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "17"
+P_GS = "7"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "50"
+P_H = "47"
+P_HR = "5"
+P_R = "33"
+P_ER = "26"
+P_BB = "50"
+P_SO = "46"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.68"
+
+
+[[person]]
+name.last = "Ross"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "18"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "61"
+P_H = "59"
+P_HR = "4"
+P_R = "37"
+P_ER = "20"
+P_BB = "35"
+P_SO = "63"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.95"
+
+
+[[person]]
+name.last = "Sanchez"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "8"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "48"
+P_H = "54"
+P_HR = "2"
+P_R = "34"
+P_ER = "26"
+P_BB = "24"
+P_SO = "52"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.88"
+
+
+[[person]]
+name.last = "Schlender"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "11"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "24"
+P_H = "32"
+P_HR = "1"
+P_R = "25"
+P_ER = "15"
+P_BB = "13"
+P_SO = "17"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.63"
+
+
+[[person]]
+name.last = "Shanahan"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "9"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "27"
+P_H = "37"
+P_HR = "2"
+P_R = "25"
+P_ER = "21"
+P_BB = "23"
+P_SO = "9"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "7.00"
+
+
+[[person]]
+name.last = "Simmons"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "52"
+P_H = "53"
+P_HR = "5"
+P_R = "42"
+P_ER = "28"
+P_BB = "34"
+P_SO = "51"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.85"
+
+
+[[person]]
+name.last = "Simmons"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "7"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "38"
+P_H = "46"
+P_HR = "1"
+P_R = "37"
+P_ER = "21"
+P_BB = "32"
+P_SO = "33"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.97"
+
+
+[[person]]
+name.last = "Slusser"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "17"
+P_GS = "12"
+P_CG = "7"
+P_SHO = "1"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+P_IP = "102"
+P_H = "113"
+P_HR = "4"
+P_R = "63"
+P_ER = "44"
+P_BB = "40"
+P_SO = "83"
+P_HP = "5"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "3.88"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "12"
+P_GS = "10"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "75"
+P_H = "64"
+P_HR = "5"
+P_R = "48"
+P_ER = "30"
+P_BB = "35"
+P_SO = "70"
+P_HP = "4"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.60"
+
+
+[[person]]
+name.last = "Soviero"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "13"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "48"
+P_H = "41"
+P_HR = "1"
+P_R = "30"
+P_ER = "16"
+P_BB = "34"
+P_SO = "41"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Spanswick"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "14"
+P_GS = "11"
+P_CG = "8"
+P_SHO = "2"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "92"
+P_H = "48"
+P_HR = "4"
+P_R = "40"
+P_ER = "32"
+P_BB = "63"
+P_SO = "142"
+P_HP = "7"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.13"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Sperling"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "10"
+P_GS = "7"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "28"
+P_H = "27"
+P_HR = "0"
+P_R = "30"
+P_ER = "24"
+P_BB = "39"
+P_SO = "30"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "7.71"
+
+
+[[person]]
+name.last = "Stearns"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "4"
+P_GS = "3"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "21"
+P_H = "33"
+P_HR = "3"
+P_R = "24"
+P_ER = "18"
+P_BB = "13"
+P_SO = "23"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "7.71"
+
+
+[[person]]
+name.last = "Stoviak"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "9"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "18"
+P_H = "19"
+P_HR = "0"
+P_R = "13"
+P_ER = "9"
+P_BB = "4"
+P_SO = "12"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Surdy"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "8"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "20"
+P_H = "33"
+P_HR = "6"
+P_R = "28"
+P_ER = "27"
+P_BB = "13"
+P_SO = "15"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "12.15"
+
+
+[[person]]
+name.last = "Talbott"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "4"
+P_GS = "4"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "29"
+P_H = "24"
+P_HR = "2"
+P_R = "13"
+P_ER = "9"
+P_BB = "15"
+P_SO = "24"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.79"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "11"
+P_GS = "9"
+P_CG = "7"
+P_SHO = "0"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "71"
+P_H = "52"
+P_HR = "0"
+P_R = "40"
+P_ER = "29"
+P_BB = "46"
+P_SO = "83"
+P_HP = "1"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.68"
+
+
+[[person]]
+name.last = "Valdes"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "24"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "48"
+P_H = "49"
+P_HR = "7"
+P_R = "27"
+P_ER = "22"
+P_BB = "22"
+P_SO = "51"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "4.13"
+
+
+[[person]]
+name.last = "Waddell"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "9"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "36"
+P_H = "21"
+P_HR = "2"
+P_R = "15"
+P_ER = "10"
+P_BB = "23"
+P_SO = "27"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "2.50"
+
+
+[[person]]
+name.last = "Wagner"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "10"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "32"
+P_H = "38"
+P_HR = "2"
+P_R = "24"
+P_ER = "17"
+P_BB = "21"
+P_SO = "23"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.78"
+
+
+[[person]]
+name.last = "Wasylczak"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "8"
+P_GS = "0"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "15"
+P_HR = "1"
+P_R = "10"
+P_ER = "10"
+P_BB = "15"
+P_SO = "15"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.74"
+
+
+[[person]]
+name.last = "Wheeler"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "15"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "1"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "39"
+P_H = "37"
+P_HR = "3"
+P_R = "31"
+P_ER = "16"
+P_BB = "29"
+P_SO = "41"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.69"
+
+
+[[person]]
+name.last = "White"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "8"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "38"
+P_H = "24"
+P_HR = "1"
+P_R = "23"
+P_ER = "14"
+P_BB = "43"
+P_SO = "49"
+P_HP = "5"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.32"
+
+
+[[person]]
+name.last = "Wilderman"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "16"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "48"
+P_H = "52"
+P_HR = "2"
+P_R = "30"
+P_ER = "26"
+P_BB = "23"
+P_SO = "37"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.88"
+
+
+[[person]]
+name.last = "Zegel"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "11"
+P_GS = "2"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "16"
+P_H = "10"
+P_HR = "0"
+P_R = "19"
+P_ER = "14"
+P_BB = "30"
+P_SO = "23"
+P_HP = "2"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "7.88"
+
+
+[[person]]
+name.last = "Hadfield"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hill"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Tupper"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Vostry"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Zentz"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Island"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Crillo"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cummings"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Grudzien"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Howard"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pubanz"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shuppy"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hastings"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Coville"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DuBois"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Martinson"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Holdrege"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Averette"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "2"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barker"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dorsey"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Riusech"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sanders"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Scheuerman"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Snow"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kearney"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dowdy"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fletcher"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pigue"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Plosky"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Atkinson"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "12"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carroll"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mendez"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Venturi"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "McCook"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carr"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "North Platte"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cooper"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gann"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gaskill"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Henderson"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Stoleson"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trinrud"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wetzel"
+[[person.playing]]
+season = "1958"
+league.name = "Nebraska State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"

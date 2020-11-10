@@ -1,0 +1,134 @@
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "119"
+F_PB = "16"
+F_PO = "3377"
+F_A = "1411"
+F_E = "206"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "124"
+F_PB = "18"
+F_PO = "3296"
+F_A = "1403"
+F_E = "221"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Pocatello"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "120"
+F_PB = "18"
+F_PO = "3275"
+F_A = "1342"
+F_E = "239"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Twin Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "113"
+F_PB = "16"
+F_PO = "3306"
+F_A = "1246"
+F_E = "238"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Billings"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "117"
+F_PB = "29"
+F_PO = "3300"
+F_A = "1300"
+F_E = "245"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Ogden"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "86"
+F_PB = "31"
+F_PO = "3228"
+F_A = "1322"
+F_E = "258"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Boise"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "107"
+F_PB = "22"
+F_PO = "3198"
+F_A = "1316"
+F_E = "275"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Idaho Falls"
+[[team.playing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "101"
+F_PB = "18"
+F_PO = "3220"
+F_A = "1456"
+F_E = "339"
+F_PCT = ".932"
+F_TP = "0"

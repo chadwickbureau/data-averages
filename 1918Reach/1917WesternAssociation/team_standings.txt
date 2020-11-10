@@ -1,0 +1,102 @@
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "95"
+R_L = "57"
+R_PCT = ".625"
+R_RANK = "1"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "89"
+R_L = "69"
+R_PCT = ".564"
+R_RANK = "2"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "72"
+R_PCT = ".527"
+R_RANK = "3"
+
+
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "75"
+R_PCT = ".513"
+R_RANK = "4"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "82"
+R_PCT = ".484"
+R_RANK = "5"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "80"
+R_PCT = ".474"
+R_RANK = "6"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "84"
+R_PCT = ".447"
+R_RANK = "7"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1917"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "98"
+R_PCT = ".363"
+R_RANK = "8"

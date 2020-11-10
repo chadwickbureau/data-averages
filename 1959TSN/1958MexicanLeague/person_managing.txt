@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Ramos"
+name.given = "Jose (Cheo)"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Nuevo Laredo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gomez"
+name.given = "P. Preston"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexico City Reds"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Molinero"
+name.given = "Luis"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexico City Reds"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Oscar"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Yucatan"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Alvarez"
+name.given = "Guillermo (Willie)"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Yucatan"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Otero"
+name.given = "Regino"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Monterrey"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Garza Gomez"
+name.given = "Raymundo"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Monterrey"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Genovese"
+name.given = "George"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexico City Tigers"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Valenzuela"
+name.given = "Jesus"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Poza Rica"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bache"
+name.given = "Jose (Pepe)"
+[[person.managing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Poza Rica"
+S_ORDER = "2"
+[person.managing.totals]

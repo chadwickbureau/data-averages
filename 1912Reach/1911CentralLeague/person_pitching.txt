@@ -1,0 +1,975 @@
+[[person]]
+name.last = "Alberts"
+name.given = "C."
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Wayne"
+[person.playing.totals]
+P_G = "27"
+P_IP = "193"
+P_AB = "739"
+P_H = "164"
+P_R = "72"
+P_SO = "84"
+P_BB = "68"
+P_HP = "4"
+P_WP = "6"
+P_W = "16"
+P_L = "4"
+P_PCT = ".800"
+
+
+[[person]]
+name.last = "Compton"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dayton"
+[person.playing.totals]
+P_G = "31"
+P_IP = "247"
+P_AB = "908"
+P_H = "207"
+P_R = "64"
+P_SO = "140"
+P_BB = "43"
+P_HP = "4"
+P_WP = "0"
+P_W = "22"
+P_L = "6"
+P_PCT = ".786"
+
+
+[[person]]
+name.last = "Pfeffer"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Wayne"
+[person.playing.totals]
+P_G = "23"
+P_IP = "180"
+P_AB = "681"
+P_H = "154"
+P_R = "72"
+P_SO = "108"
+P_BB = "52"
+P_HP = "10"
+P_WP = "4"
+P_W = "16"
+P_L = "5"
+P_PCT = ".762"
+
+
+[[person]]
+name.last = "Harden"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Wayne"
+[person.playing.totals]
+P_G = "37"
+P_IP = "270"
+P_AB = "1095"
+P_H = "237"
+P_R = "112"
+P_SO = "172"
+P_BB = "94"
+P_HP = "8"
+P_WP = "6"
+P_W = "22"
+P_L = "8"
+P_PCT = ".733"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Zanesville"
+[person.playing.totals]
+P_G = "21"
+P_IP = "129"
+P_AB = "511"
+P_H = "124"
+P_R = "65"
+P_SO = "64"
+P_BB = "62"
+P_HP = "9"
+P_WP = "7"
+P_W = "11"
+P_L = "4"
+P_PCT = ".733"
+
+
+[[person]]
+name.last = "Summers"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dayton"
+[person.playing.totals]
+P_G = "37"
+P_IP = "233"
+P_AB = "868"
+P_H = "183"
+P_R = "92"
+P_SO = "124"
+P_BB = "61"
+P_HP = "14"
+P_WP = "2"
+P_W = "21"
+P_L = "8"
+P_PCT = ".724"
+
+
+[[person]]
+name.last = "Essick"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "South Bend [I]"
+[[person.playing.split]]
+team.name = "Grand Rapids [II]"
+[person.playing.totals]
+P_G = "25"
+P_IP = "203"
+P_AB = "753"
+P_H = "163"
+P_R = "59"
+P_SO = "129"
+P_BB = "42"
+P_HP = "4"
+P_WP = "4"
+P_W = "16"
+P_L = "7"
+P_PCT = ".699"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Rapids [II]"
+[[person.playing.split]]
+team.name = "South Bend [I]"
+[person.playing.totals]
+P_G = "27"
+P_IP = "109"
+P_AB = "742"
+P_H = "171"
+P_R = "80"
+P_SO = "68"
+P_BB = "80"
+P_HP = "15"
+P_WP = "5"
+P_W = "13"
+P_L = "6"
+P_PCT = ".674"
+
+
+[[person]]
+name.last = "Stremmel"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Zanesville"
+[person.playing.totals]
+P_G = "40"
+P_IP = "249"
+P_AB = "910"
+P_H = "196"
+P_R = "79"
+P_SO = "98"
+P_BB = "63"
+P_HP = "8"
+P_WP = "4"
+P_W = "18"
+P_L = "9"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Gwinn"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Terre Haute"
+[person.playing.totals]
+P_G = "14"
+P_IP = "89"
+P_AB = "340"
+P_H = "95"
+P_R = "44"
+P_SO = "30"
+P_BB = "30"
+P_HP = "1"
+P_WP = "4"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Queisser"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Terre Haute"
+[person.playing.totals]
+P_G = "9"
+P_IP = "44"
+P_AB = "175"
+P_H = "39"
+P_R = "28"
+P_SO = "18"
+P_BB = "27"
+P_HP = "3"
+P_WP = "5"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Winchell"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dayton"
+[person.playing.totals]
+P_G = "33"
+P_IP = "238"
+P_AB = "851"
+P_H = "186"
+P_R = "108"
+P_SO = "145"
+P_BB = "95"
+P_HP = "17"
+P_WP = "8"
+P_W = "14"
+P_L = "10"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "South Bend [I]"
+[[person.playing.split]]
+team.name = "Grand Rapids [II]"
+[person.playing.totals]
+P_G = "27"
+P_IP = "282"
+P_AB = "859"
+P_H = "126"
+P_R = "86"
+P_SO = "85"
+P_BB = "49"
+P_HP = "5"
+P_WP = "3"
+P_W = "15"
+P_L = "11"
+P_PCT = ".577"
+
+
+[[person]]
+name.last = "Hanley"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Zanesville"
+[person.playing.totals]
+P_G = "23"
+P_IP = "125"
+P_AB = "478"
+P_H = "121"
+P_R = "54"
+P_SO = "69"
+P_BB = "29"
+P_HP = "3"
+P_WP = "6"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Goldrick"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Rapids [I]"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "37"
+P_IP = "256"
+P_AB = "1051"
+P_H = "157"
+P_R = "152"
+P_SO = "90"
+P_BB = "101"
+P_HP = "11"
+P_WP = "4"
+P_W = "18"
+P_L = "14"
+P_PCT = ".563"
+
+
+[[person]]
+name.last = "Otey"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dayton"
+[person.playing.totals]
+P_G = "17"
+P_IP = "126"
+P_AB = "474"
+P_H = "111"
+P_R = "50"
+P_SO = "67"
+P_BB = "26"
+P_HP = "3"
+P_WP = "2"
+P_W = "8"
+P_L = "8"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Wacker"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dayton"
+[[person.playing.split]]
+team.name = "Fort Wayne"
+[person.playing.totals]
+P_G = "26"
+P_IP = "203"
+P_AB = "809"
+P_H = "210"
+P_R = "103"
+P_SO = "99"
+P_BB = "67"
+P_HP = "15"
+P_WP = "5"
+P_W = "13"
+P_L = "13"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Zanesville"
+[person.playing.totals]
+P_G = "37"
+P_IP = "256"
+P_AB = "1004"
+P_H = "262"
+P_R = "131"
+P_SO = "137"
+P_BB = "98"
+P_HP = "8"
+P_WP = "6"
+P_W = "17"
+P_L = "17"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "South Bend [I]"
+[[person.playing.split]]
+team.name = "Grand Rapids [II]"
+[person.playing.totals]
+P_G = "34"
+P_IP = "255"
+P_AB = "945"
+P_H = "218"
+P_R = "91"
+P_SO = "75"
+P_BB = "61"
+P_HP = "2"
+P_WP = "2"
+P_W = "15"
+P_L = "15"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Asher"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dayton"
+[[person.playing.split]]
+team.name = "Grand Rapids [II]"
+[person.playing.totals]
+P_G = "20"
+P_IP = "151"
+P_AB = "571"
+P_H = "140"
+P_R = "73"
+P_SO = "70"
+P_BB = "48"
+P_HP = "12"
+P_WP = "2"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Withers"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Evansville"
+[[person.playing.split]]
+team.name = "South Bend [II]"
+[person.playing.totals]
+P_G = "35"
+P_IP = "246"
+P_AB = "947"
+P_H = "215"
+P_R = "104"
+P_SO = "94"
+P_BB = "58"
+P_HP = "15"
+P_WP = "5"
+P_W = "14"
+P_L = "14"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Sterzer"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Evansville"
+[[person.playing.split]]
+team.name = "South Bend [II]"
+[person.playing.totals]
+P_G = "37"
+P_IP = "249"
+P_AB = "924"
+P_H = "197"
+P_R = "96"
+P_SO = "162"
+P_BB = "65"
+P_HP = "15"
+P_WP = "10"
+P_W = "14"
+P_L = "14"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Cantwell"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Evansville"
+[[person.playing.split]]
+team.name = "South Bend [II]"
+[person.playing.totals]
+P_G = "30"
+P_IP = "232"
+P_AB = "916"
+P_H = "220"
+P_R = "99"
+P_SO = "103"
+P_BB = "55"
+P_HP = "12"
+P_WP = "3"
+P_W = "14"
+P_L = "14"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hale"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Rapids [I]"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "37"
+P_IP = "235"
+P_AB = "951"
+P_H = "234"
+P_R = "117"
+P_SO = "108"
+P_BB = "70"
+P_HP = "9"
+P_WP = "8"
+P_W = "14"
+P_L = "14"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Alberts"
+name.given = "F."
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Terre Haute"
+[person.playing.totals]
+P_G = "34"
+P_IP = "233"
+P_AB = "906"
+P_H = "253"
+P_R = "119"
+P_SO = "94"
+P_BB = "73"
+P_HP = "10"
+P_WP = "5"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wheeling"
+[person.playing.totals]
+P_G = "23"
+P_IP = "187"
+P_AB = "710"
+P_H = "162"
+P_R = "75"
+P_SO = "88"
+P_BB = "65"
+P_HP = "7"
+P_WP = "4"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+
+
+[[person]]
+name.last = "Valliere"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Wayne"
+[person.playing.totals]
+P_G = "24"
+P_IP = "174"
+P_AB = "689"
+P_H = "171"
+P_R = "76"
+P_SO = "71"
+P_BB = "44"
+P_HP = "19"
+P_WP = "1"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+
+
+[[person]]
+name.last = "Doak"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wheeling"
+[person.playing.totals]
+P_G = "36"
+P_IP = "283"
+P_AB = "1052"
+P_H = "275"
+P_R = "139"
+P_SO = "130"
+P_BB = "78"
+P_HP = "18"
+P_WP = "3"
+P_W = "15"
+P_L = "17"
+P_PCT = ".469"
+
+
+[[person]]
+name.last = "Werder"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort Wayne"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "19"
+P_IP = "105"
+P_AB = "412"
+P_H = "106"
+P_R = "127"
+P_SO = "101"
+P_BB = "74"
+P_HP = "11"
+P_WP = "4"
+P_W = "13"
+P_L = "15"
+P_PCT = ".464"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Zanesville"
+[person.playing.totals]
+P_G = "43"
+P_IP = "301"
+P_AB = "1157"
+P_H = "300"
+P_R = "69"
+P_SO = "56"
+P_BB = "59"
+P_HP = "5"
+P_WP = "2"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+
+
+[[person]]
+name.last = "Beatty"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wheeling"
+[person.playing.totals]
+P_G = "34"
+P_IP = "220"
+P_AB = "856"
+P_H = "228"
+P_R = "128"
+P_SO = "118"
+P_BB = "58"
+P_HP = "13"
+P_WP = "5"
+P_W = "15"
+P_L = "18"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Bemis"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Rapids [I]"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "22"
+P_IP = "160"
+P_AB = "621"
+P_H = "161"
+P_R = "90"
+P_SO = "56"
+P_BB = "50"
+P_HP = "4"
+P_WP = "2"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Terre Haute"
+[person.playing.totals]
+P_G = "20"
+P_IP = "123"
+P_AB = "487"
+P_H = "127"
+P_R = "71"
+P_SO = "39"
+P_BB = "37"
+P_HP = "6"
+P_WP = "2"
+P_W = "7"
+P_L = "9"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Fromholtz"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dayton"
+[person.playing.totals]
+P_G = "12"
+P_IP = "74"
+P_AB = "260"
+P_H = "56"
+P_R = "27"
+P_SO = "42"
+P_BB = "23"
+P_HP = "3"
+P_WP = "2"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Lindsay"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "South Bend [I]"
+[[person.playing.split]]
+team.name = "Grand Rapids [II]"
+[person.playing.totals]
+P_G = "37"
+P_IP = "256"
+P_AB = "1023"
+P_H = "232"
+P_R = "138"
+P_SO = "108"
+P_BB = "71"
+P_HP = "17"
+P_WP = "4"
+P_W = "13"
+P_L = "18"
+P_PCT = ".419"
+
+
+[[person]]
+name.last = "Markham"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Evansville"
+[[person.playing.split]]
+team.name = "South Bend [II]"
+[person.playing.totals]
+P_G = "35"
+P_IP = "218"
+P_AB = "863"
+P_H = "220"
+P_R = "128"
+P_SO = "77"
+P_BB = "67"
+P_HP = "10"
+P_WP = "2"
+P_W = "11"
+P_L = "16"
+P_PCT = ".407"
+
+
+[[person]]
+name.last = "Hardy"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wheeling"
+[person.playing.totals]
+P_G = "34"
+P_IP = "236"
+P_AB = "917"
+P_H = "265"
+P_R = "142"
+P_SO = "80"
+P_BB = "73"
+P_HP = "12"
+P_WP = "1"
+P_W = "9"
+P_L = "15"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Grand Rapids [I]"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "27"
+P_IP = "223"
+P_AB = "838"
+P_H = "200"
+P_R = "85"
+P_SO = "77"
+P_BB = "60"
+P_HP = "7"
+P_WP = "5"
+P_W = "8"
+P_L = "15"
+P_PCT = ".348"
+
+
+[[person]]
+name.last = "Gilbert"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "24"
+P_IP = "134"
+P_AB = "564"
+P_H = "123"
+P_R = "74"
+P_SO = "84"
+P_BB = "54"
+P_HP = "3"
+P_WP = "4"
+P_W = "5"
+P_L = "11"
+P_PCT = ".267"
+
+
+[[person]]
+name.last = "Pattison"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Terre Haute"
+[person.playing.totals]
+P_G = "18"
+P_IP = "140"
+P_AB = "508"
+P_H = "113"
+P_R = "59"
+P_SO = "54"
+P_BB = "71"
+P_HP = "4"
+P_WP = "11"
+P_W = "5"
+P_L = "11"
+P_PCT = ".267"
+
+
+[[person]]
+name.last = "Billiard"
+[[person.playing]]
+season = "1911"
+league.name = "Central League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Terre Haute"
+[person.playing.totals]
+P_G = "26"
+P_IP = "165"
+P_AB = "697"
+P_H = "190"
+P_R = "115"
+P_SO = "113"
+P_BB = "80"
+P_HP = "16"
+P_WP = "16"
+P_W = "6"
+P_L = "17"
+P_PCT = ".261"

@@ -1,0 +1,82 @@
+[[team]]
+name = "Moose Jaw"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2626"
+F_A = "1078"
+F_E = "201"
+F_DP = "36"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Medicine Hat"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2573"
+F_A = "1172"
+F_E = "207"
+F_DP = "61"
+F_PCT = ".928"
+
+
+[[team]]
+name = "Saskatoon"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2570"
+F_A = "1289"
+F_E = "244"
+F_DP = "54"
+F_PCT = ".926"
+
+
+[[team]]
+name = "Regina"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2180"
+F_A = "986"
+F_E = "226"
+F_DP = "68"
+F_PCT = ".925"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2631"
+F_A = "1276"
+F_E = "222"
+F_DP = "60"
+F_PCT = ".904"
+
+
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1913"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2267"
+F_A = "1159"
+F_E = "200"
+F_DP = "39"
+F_PCT = ".922"

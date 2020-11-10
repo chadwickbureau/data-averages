@@ -1,0 +1,108 @@
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4314"
+B_R = "628"
+B_H = "1197"
+B_2B = "198"
+B_3B = "57"
+B_HR = "53"
+B_TB = "1668"
+B_SH = "237"
+B_SB = "150"
+B_BB = "427"
+B_SO = "588"
+B_AVG = ".277"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4510"
+B_R = "646"
+B_H = "1198"
+B_2B = "208"
+B_3B = "58"
+B_HR = "39"
+B_TB = "1639"
+B_SH = "171"
+B_SB = "176"
+B_BB = "386"
+B_SO = "502"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4425"
+B_R = "535"
+B_H = "1175"
+B_2B = "172"
+B_3B = "67"
+B_HR = "22"
+B_TB = "1547"
+B_SH = "231"
+B_SB = "102"
+B_BB = "340"
+B_SO = "527"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4339"
+B_R = "515"
+B_H = "1091"
+B_2B = "197"
+B_3B = "37"
+B_HR = "37"
+B_TB = "1473"
+B_SH = "164"
+B_SB = "130"
+B_BB = "384"
+B_SO = "639"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4492"
+B_R = "504"
+B_H = "1118"
+B_2B = "152"
+B_3B = "52"
+B_HR = "24"
+B_TB = "1446"
+B_SH = "153"
+B_SB = "166"
+B_BB = "373"
+B_SO = "600"
+B_AVG = ".249"

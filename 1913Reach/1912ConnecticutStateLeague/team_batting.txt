@@ -1,0 +1,166 @@
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3882"
+B_R = "497"
+B_H = "1000"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3887"
+B_R = "486"
+B_H = "968"
+B_AVG = ".250"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3984"
+B_R = "498"
+B_H = "984"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3838"
+B_R = "404"
+B_H = "905"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4050"
+B_R = "410"
+B_H = "941"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "3926"
+B_R = "472"
+B_H = "904"
+B_AVG = ".230"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_SB = "215"
+B_SH = "204"
+B_2B = "157"
+B_3B = "59"
+B_HR = "27"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_SB = "186"
+B_SH = "150"
+B_2B = "149"
+B_3B = "35"
+B_HR = "14"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_SB = "178"
+B_SH = "181"
+B_2B = "144"
+B_3B = "28"
+B_HR = "35"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_SB = "189"
+B_SH = "118"
+B_2B = "140"
+B_3B = "36"
+B_HR = "22"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_SB = "150"
+B_SH = "154"
+B_2B = "160"
+B_3B = "44"
+B_HR = "28"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_SB = "147"
+B_SH = "156"
+B_2B = "155"
+B_3B = "74"
+B_HR = "26"

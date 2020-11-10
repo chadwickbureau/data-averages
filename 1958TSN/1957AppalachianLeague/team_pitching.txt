@@ -1,0 +1,148 @@
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+P_G = "73"
+P_CG = "26"
+P_SHO = "4"
+P_IP = "615"
+P_AB = "2342"
+P_H = "557"
+P_HR = "33"
+P_R = "386"
+P_ER = "289"
+P_SH = "47"
+P_BB = "428"
+P_SO = "702"
+P_HP = "28"
+P_WP = "45"
+P_BK = "5"
+P_ERA = "4.23"
+
+
+[[team]]
+name = "Bluefield"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+P_G = "73"
+P_CG = "22"
+P_SHO = "3"
+P_IP = "618"
+P_AB = "2375"
+P_H = "560"
+P_HR = "30"
+P_R = "410"
+P_ER = "314"
+P_SH = "41"
+P_BB = "426"
+P_SO = "714"
+P_HP = "14"
+P_WP = "54"
+P_BK = "6"
+P_ERA = "4.57"
+
+
+[[team]]
+name = "Pulaski"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+P_G = "72"
+P_CG = "20"
+P_SHO = "3"
+P_IP = "595"
+P_AB = "2326"
+P_H = "626"
+P_HR = "26"
+P_R = "462"
+P_ER = "348"
+P_SH = "50"
+P_BB = "482"
+P_SO = "536"
+P_HP = "37"
+P_WP = "59"
+P_BK = "1"
+P_ERA = "5.26"
+
+
+[[team]]
+name = "Wytheville"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+P_G = "72"
+P_CG = "27"
+P_SHO = "3"
+P_IP = "595"
+P_AB = "2313"
+P_H = "600"
+P_HR = "34"
+P_R = "506"
+P_ER = "387"
+P_SH = "47"
+P_BB = "441"
+P_SO = "558"
+P_HP = "33"
+P_WP = "61"
+P_BK = "6"
+P_ERA = "5.85"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+P_G = "71"
+P_CG = "15"
+P_SHO = "2"
+P_IP = "581"
+P_AB = "2322"
+P_H = "601"
+P_HR = "37"
+P_R = "526"
+P_ER = "390"
+P_SH = "51"
+P_BB = "550"
+P_SO = "699"
+P_HP = "28"
+P_WP = "68"
+P_BK = "6"
+P_ERA = "6.04"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+P_G = "71"
+P_CG = "16"
+P_SHO = "0"
+P_IP = "588"
+P_AB = "2426"
+P_H = "662"
+P_HR = "39"
+P_R = "605"
+P_ER = "406"
+P_SH = "47"
+P_BB = "502"
+P_SO = "557"
+P_HP = "23"
+P_WP = "90"
+P_BK = "5"
+P_ERA = "6.21"

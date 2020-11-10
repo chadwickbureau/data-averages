@@ -1,0 +1,76 @@
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2121"
+F_A = "1120"
+F_E = "144"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Kankakee"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2480"
+F_A = "1109"
+F_E = "174"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Streator"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2036"
+F_A = "1082"
+F_E = "235"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1259"
+F_A = "538"
+F_E = "125"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Champaign"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2492"
+F_A = "1156"
+F_E = "211"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1184"
+F_A = "587"
+F_E = "91"
+F_PCT = ".867"

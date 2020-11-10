@@ -1,0 +1,134 @@
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "102"
+F_TP = "0"
+F_PB = "21"
+F_PO = "3404"
+F_A = "1383"
+F_E = "232"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Leavenworth"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "102"
+F_TP = "0"
+F_PB = "22"
+F_PO = "3508"
+F_A = "1612"
+F_E = "250"
+F_PCT = ".953"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "102"
+F_TP = "0"
+F_PB = "52"
+F_PO = "3489"
+F_A = "1611"
+F_E = "257"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "101"
+F_TP = "0"
+F_PB = "21"
+F_PO = "3594"
+F_A = "1424"
+F_E = "264"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_DP = "101"
+F_TP = "0"
+F_PB = "30"
+F_PO = "3440"
+F_A = "1301"
+F_E = "259"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "104"
+F_TP = "0"
+F_PB = "19"
+F_PO = "3526"
+F_A = "1521"
+F_E = "288"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_DP = "112"
+F_TP = "1"
+F_PB = "24"
+F_PO = "3519"
+F_A = "1563"
+F_E = "303"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Salina"
+[[team.playing]]
+season = "1946"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "127"
+F_TP = "1"
+F_PB = "28"
+F_PO = "3348"
+F_A = "1547"
+F_E = "308"
+F_PCT = ".941"

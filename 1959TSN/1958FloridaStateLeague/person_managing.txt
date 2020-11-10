@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Hamilton"
+name.given = "Thomas"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "St. Petersburg"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "H. Ray"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Daytona Beach"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Vander Meer"
+name.given = "John"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Palatka"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gassaway"
+name.given = "Charles"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tampa"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "O'Dea"
+name.given = "Paul"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cocoa"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Grant"
+name.given = "Charles"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Orlando"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Braziel"
+name.given = "Dennis (Ty)"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Orlando"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Leftridge"
+name.given = "Walter (Buddy)"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Gainesville"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dulaney"
+name.given = "Ralph (Red)"
+[[person.managing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Gainesville"
+S_ORDER = "2"
+[person.managing.totals]

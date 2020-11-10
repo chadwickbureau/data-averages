@@ -1,0 +1,110 @@
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4176"
+F_A = "1911"
+F_E = "256"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4099"
+F_A = "2071"
+F_E = "272"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4093"
+F_A = "1976"
+F_E = "273"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4230"
+F_A = "2135"
+F_E = "296"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4163"
+F_A = "2211"
+F_E = "293"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4027"
+F_A = "1903"
+F_E = "270"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "159"
+F_PO = "4302"
+F_A = "2010"
+F_E = "296"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4147"
+F_A = "1860"
+F_E = "310"
+F_PCT = ".951"

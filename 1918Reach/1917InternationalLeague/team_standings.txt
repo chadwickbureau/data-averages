@@ -1,0 +1,102 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "93"
+R_L = "61"
+R_PCT = ".604"
+R_RANK = "1"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "89"
+R_L = "61"
+R_PCT = ".596"
+R_RANK = "2"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "88"
+R_L = "61"
+R_PCT = ".591"
+R_RANK = "3"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "86"
+R_L = "68"
+R_PCT = ".558"
+R_RANK = "4"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "82"
+R_PCT = ".468"
+R_RANK = "5"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "84"
+R_PCT = ".444"
+R_RANK = "6"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "94"
+R_PCT = ".373"
+R_RANK = "7"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1917"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "94"
+R_PCT = ".361"
+R_RANK = "8"

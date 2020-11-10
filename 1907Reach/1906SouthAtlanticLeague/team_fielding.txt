@@ -1,0 +1,76 @@
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1906"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2759"
+F_A = "1392"
+F_E = "151"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1906"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3115"
+F_A = "1322"
+F_E = "178"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1906"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3138"
+F_A = "1497"
+F_E = "201"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1906"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2757"
+F_A = "1096"
+F_E = "169"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1906"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3450"
+F_A = "1464"
+F_E = "221"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1906"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2862"
+F_A = "1468"
+F_E = "259"
+F_PCT = ".944"

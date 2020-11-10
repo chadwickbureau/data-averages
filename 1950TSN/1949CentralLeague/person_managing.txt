@@ -1,0 +1,76 @@
+[[person]]
+name.last = "Melillo"
+name.given = "Oscar"
+[[person.managing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dayton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Tighe"
+name.given = "Jack"
+[[person.managing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Flint"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Knight"
+name.given = "Jack"
+[[person.managing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Grand Rapids"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Beggs"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ruffing"
+name.given = "Charles (Red)"
+[[person.managing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Muskegon"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Finley"
+name.given = "Robert"
+[[person.managing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Saginaw"
+S_ORDER = "0"
+[person.managing.totals]

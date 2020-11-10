@@ -1,0 +1,76 @@
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1910"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2887"
+F_A = "1341"
+F_E = "229"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1910"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2992"
+F_A = "1345"
+F_E = "239"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1910"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2951"
+F_A = "1455"
+F_E = "248"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1910"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2917"
+F_A = "1496"
+F_E = "267"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1910"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2921"
+F_A = "1365"
+F_E = "262"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1910"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2909"
+F_A = "1402"
+F_E = "336"
+F_PCT = ".928"

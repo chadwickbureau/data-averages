@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Robles"
+name.given = "Jesus"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Aguascalientes"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Soto"
+name.given = "Ciro"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Celaya"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Moreno"
+name.given = "Nazario"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Celaya"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hernandez"
+name.given = "Felipe"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Leon"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Arroyo"
+name.given = "Manuel"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Leon"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Santana"
+name.given = "Domingo"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Luis Potosi"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bello"
+name.given = "Gustavo"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Guanajuato"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Graham"
+name.given = "Walter"
+[[person.managing]]
+season = "1961"
+league.name = "Mexican Center League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salamanca"
+S_ORDER = "0"
+[person.managing.totals]

@@ -1,0 +1,150 @@
+[[team]]
+name = "Pawtucket"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3069"
+F_A = "1362"
+F_E = "155"
+F_TC = "4586"
+F_DP = "100"
+F_TP = "0"
+F_LOB = "876"
+F_PB = "16"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "3143"
+F_A = "1333"
+F_E = "165"
+F_TC = "4641"
+F_DP = "102"
+F_TP = "0"
+F_LOB = "904"
+F_PB = "11"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Nashua"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3102"
+F_A = "1243"
+F_E = "174"
+F_TC = "4519"
+F_DP = "100"
+F_TP = "0"
+F_LOB = "908"
+F_PB = "11"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "2999"
+F_A = "1304"
+F_E = "184"
+F_TC = "4487"
+F_DP = "98"
+F_TP = "1"
+F_LOB = "902"
+F_PB = "16"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3050"
+F_A = "1461"
+F_E = "196"
+F_TC = "4707"
+F_DP = "128"
+F_TP = "0"
+F_LOB = "833"
+F_PB = "15"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3114"
+F_A = "1346"
+F_E = "231"
+F_TC = "4691"
+F_DP = "111"
+F_TP = "0"
+F_LOB = "919"
+F_PB = "12"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3123"
+F_A = "1481"
+F_E = "256"
+F_TC = "4860"
+F_DP = "102"
+F_TP = "1"
+F_LOB = "840"
+F_PB = "11"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3024"
+F_A = "1233"
+F_E = "278"
+F_TC = "4535"
+F_DP = "88"
+F_TP = "0"
+F_LOB = "829"
+F_PB = "21"
+F_PCT = ".939"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "188"
+F_PO = "4896"
+F_A = "2221"
+F_E = "226"
+F_DP = "164"
+F_PB = "17"
+F_PCT = ".969"
+F_TP = "0"
+
+
+[[team]]
+name = "Hollywood"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "183"
+F_PO = "4720"
+F_A = "2078"
+F_E = "215"
+F_DP = "155"
+F_PB = "23"
+F_PCT = ".969"
+F_TP = "0"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "184"
+F_PO = "4667"
+F_A = "1970"
+F_E = "209"
+F_DP = "152"
+F_PB = "13"
+F_PCT = ".969"
+F_TP = "1"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "185"
+F_PO = "4818"
+F_A = "2067"
+F_E = "245"
+F_DP = "125"
+F_PB = "19"
+F_PCT = ".966"
+F_TP = "0"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "183"
+F_PO = "4676"
+F_A = "1993"
+F_E = "232"
+F_DP = "120"
+F_PB = "18"
+F_PCT = ".966"
+F_TP = "0"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "183"
+F_PO = "4735"
+F_A = "2215"
+F_E = "261"
+F_DP = "170"
+F_PB = "13"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "186"
+F_PO = "4801"
+F_A = "1999"
+F_E = "262"
+F_DP = "133"
+F_PB = "16"
+F_PCT = ".963"
+F_TP = "0"
+
+
+[[team]]
+name = "San Diego"
+[[team.playing]]
+season = "1946"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "186"
+F_PO = "4820"
+F_A = "2105"
+F_E = "281"
+F_DP = "186"
+F_PB = "12"
+F_PCT = ".961"
+F_TP = "1"

@@ -1,0 +1,82 @@
+[[team]]
+name = "Uniontown"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2647"
+F_A = "1062"
+F_E = "139"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Charleroi"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "2517"
+F_A = "1244"
+F_E = "145"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Fairmont"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "2756"
+F_A = "1192"
+F_E = "168"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Clarksburg"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3049"
+F_A = "1326"
+F_E = "204"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Connellsville"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2622"
+F_A = "1382"
+F_E = "245"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Grafton"
+[[team.playing]]
+season = "1908"
+league.name = "Pennsylvania-West Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "1752"
+F_A = "1033"
+F_E = "184"
+F_PCT = ".938"

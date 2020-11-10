@@ -1,0 +1,106 @@
+[[team]]
+name = "Hobbs"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "52"
+R_T = "0"
+R_PCT = ".584"
+R_RANK = "1"
+
+
+[[team]]
+name = "Ballinger"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "56"
+R_T = "0"
+R_PCT = ".552"
+R_RANK = "2"
+
+
+[[team]]
+name = "Carlsbad"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "54"
+R_T = "0"
+R_PCT = ".546"
+R_RANK = "3"
+
+
+[[team]]
+name = "Midland/Lamesa"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "79"
+R_T = "0"
+R_PCT = ".363"
+R_RANK = "4"
+
+
+[[team]]
+name = "Clovis"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "36"
+R_L = "12"
+R_T = "0"
+R_PCT = ".750"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "45"
+R_T = "0"
+R_PCT = ".423"
+
+
+[[team]]
+name = "Pampa/San Angelo"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "32"
+R_L = "44"
+R_T = "0"
+R_PCT = ".421"
+
+
+[[team]]
+name = "Plainview"
+[[team.playing]]
+season = "1957"
+league.name = "Southwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "16"
+R_L = "27"
+R_T = "0"
+R_PCT = ".372"

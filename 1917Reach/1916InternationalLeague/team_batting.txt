@@ -1,0 +1,190 @@
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "66"
+R_T = "0"
+B_AB = "4731"
+B_R = "695"
+B_H = "1329"
+B_TB = "1756"
+B_2B = "183"
+B_3B = "62"
+B_HR = "40"
+B_SH = "151"
+B_SB = "152"
+B_BB = "492"
+B_SO = "467"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "82"
+R_L = "58"
+R_T = "1"
+B_AB = "4747"
+B_R = "693"
+B_H = "1331"
+B_TB = "1710"
+B_2B = "194"
+B_3B = "61"
+B_HR = "21"
+B_SH = "254"
+B_SB = "135"
+B_BB = "455"
+B_SO = "557"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "64"
+R_T = "2"
+B_AB = "4911"
+B_R = "811"
+B_H = "1366"
+B_TB = "1817"
+B_2B = "194"
+B_3B = "58"
+B_HR = "47"
+B_SH = "165"
+B_SB = "193"
+B_BB = "639"
+B_SO = "531"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "62"
+R_T = "1"
+B_AB = "4592"
+B_R = "621"
+B_H = "1225"
+B_TB = "1628"
+B_2B = "165"
+B_3B = "86"
+B_HR = "22"
+B_SH = "154"
+B_SB = "158"
+B_BB = "409"
+B_SO = "458"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "78"
+R_T = "4"
+B_AB = "4773"
+B_R = "629"
+B_H = "1284"
+B_TB = "1621"
+B_2B = "173"
+B_3B = "61"
+B_HR = "14"
+B_SH = "156"
+B_SB = "183"
+B_BB = "451"
+B_SO = "573"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "75"
+R_T = "2"
+B_AB = "4585"
+B_R = "591"
+B_H = "1201"
+B_TB = "1561"
+B_2B = "161"
+B_3B = "71"
+B_HR = "19"
+B_SH = "168"
+B_SB = "137"
+B_BB = "494"
+B_SO = "537"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "66"
+R_T = "4"
+B_AB = "4696"
+B_R = "550"
+B_H = "1226"
+B_TB = "1488"
+B_2B = "172"
+B_3B = "36"
+B_HR = "9"
+B_SH = "189"
+B_SB = "189"
+B_BB = "465"
+B_SO = "479"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "87"
+R_T = "0"
+B_AB = "4602"
+B_R = "475"
+B_H = "1141"
+B_TB = "1399"
+B_2B = "147"
+B_3B = "33"
+B_HR = "15"
+B_SH = "130"
+B_SB = "141"
+B_BB = "406"
+B_SO = "516"
+B_AVG = ".248"

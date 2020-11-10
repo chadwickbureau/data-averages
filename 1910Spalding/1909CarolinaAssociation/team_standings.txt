@@ -1,0 +1,76 @@
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "44"
+R_PCT = ".596"
+R_RANK = "1"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "48"
+R_PCT = ".568"
+R_RANK = "2"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "51"
+R_PCT = ".545"
+R_RANK = "3"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "52"
+R_PCT = ".509"
+R_RANK = "4"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "63"
+R_PCT = ".422"
+R_RANK = "5"
+
+
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1909"
+league.name = "Carolina Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "71"
+R_PCT = ".360"
+R_RANK = "6"

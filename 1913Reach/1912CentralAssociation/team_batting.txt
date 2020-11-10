@@ -1,0 +1,134 @@
+[[team]]
+name = "Ottumwa"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4303"
+B_R = "628"
+B_H = "1190"
+B_TB = "1645"
+B_SH = "150"
+B_SB = "213"
+B_AVG = ".277"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4170"
+B_R = "653"
+B_H = "1130"
+B_TB = "1613"
+B_SH = "183"
+B_SB = "278"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Galesburg"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4288"
+B_R = "614"
+B_H = "1137"
+B_TB = "1588"
+B_SH = "122"
+B_SB = "212"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4338"
+B_R = "600"
+B_H = "1144"
+B_TB = "1555"
+B_SH = "170"
+B_SB = "258"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4143"
+B_R = "546"
+B_H = "1065"
+B_TB = "1544"
+B_SH = "148"
+B_SB = "217"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Monmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4282"
+B_R = "555"
+B_H = "1097"
+B_TB = "1523"
+B_SH = "138"
+B_SB = "233"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4047"
+B_R = "468"
+B_H = "979"
+B_TB = "1319"
+B_SH = "152"
+B_SB = "154"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4119"
+B_R = "419"
+B_H = "954"
+B_TB = "1267"
+B_SH = "134"
+B_SB = "171"
+B_AVG = ".232"

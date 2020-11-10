@@ -1,0 +1,100 @@
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1946"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "114"
+F_TP = "1"
+F_PB = "13"
+F_PO = "3379"
+F_A = "1482"
+F_E = "273"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Modesto"
+[[team.playing]]
+season = "1946"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "92"
+F_TP = "0"
+F_PB = "39"
+F_PO = "3316"
+F_A = "1561"
+F_E = "289"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1946"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "84"
+F_TP = "0"
+F_PB = "46"
+F_PO = "3352"
+F_A = "1397"
+F_E = "328"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1946"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "104"
+F_TP = "0"
+F_PB = "28"
+F_PO = "3346"
+F_A = "1523"
+F_E = "353"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Santa Barbara"
+[[team.playing]]
+season = "1946"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "101"
+F_TP = "0"
+F_PB = "44"
+F_PO = "3374"
+F_A = "1410"
+F_E = "379"
+F_PCT = ".927"
+
+
+[[team]]
+name = "Visalia"
+[[team.playing]]
+season = "1946"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "73"
+F_TP = "0"
+F_PB = "29"
+F_PO = "3269"
+F_A = "1426"
+F_E = "383"
+F_PCT = ".925"

@@ -1,0 +1,192 @@
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "88"
+R_L = "51"
+R_T = "1"
+R_PCT = ".633"
+R_RANK = "1"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "55"
+R_T = "1"
+R_PCT = ".604"
+R_RANK = "2"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "67"
+R_T = "0"
+R_PCT = ".521"
+R_RANK = "3"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "68"
+R_T = "0"
+R_PCT = ".514"
+R_RANK = "4"
+
+
+[[team]]
+name = "Rock Hill"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "71"
+R_T = "0"
+R_PCT = ".489"
+R_RANK = "5"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "74"
+R_T = "0"
+R_PCT = ".468"
+R_RANK = "6"
+
+
+[[team]]
+name = "Fayetteville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "78"
+R_T = "0"
+R_PCT = ".439"
+R_RANK = "7"
+
+
+[[team]]
+name = "Reidsville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "92"
+R_T = "0"
+R_PCT = ".328"
+R_RANK = "8"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Spartanburg"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Anderson"
+[[team.playing]]
+season = "1947"
+league.name = "Tri-State League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"

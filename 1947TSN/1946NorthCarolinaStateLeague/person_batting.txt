@@ -1,0 +1,6778 @@
+[[person]]
+name.last = "Wilson"
+name.given = "Halley"
+description.bats = "S"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "39"
+B_AB = "64"
+B_R = "9"
+B_H = "26"
+B_TB = "35"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "9"
+B_HP = "4"
+B_RBI = "11"
+B_SO = "6"
+B_AVG = ".406"
+
+
+[[person]]
+name.last = "Hidalgo"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "20"
+B_AB = "55"
+B_R = "5"
+B_H = "20"
+B_TB = "22"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "3"
+B_AVG = ".364"
+
+
+[[person]]
+name.last = "Fiala"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "97"
+B_AB = "375"
+B_R = "77"
+B_H = "132"
+B_TB = "172"
+B_2B = "20"
+B_3B = "4"
+B_HR = "4"
+B_SH = "8"
+B_SB = "33"
+B_BB = "25"
+B_HP = "1"
+B_RBI = "44"
+B_SO = "18"
+B_AVG = ".352"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Lewis"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "103"
+B_AB = "401"
+B_R = "99"
+B_H = "140"
+B_TB = "201"
+B_2B = "27"
+B_3B = "8"
+B_HR = "6"
+B_SH = "4"
+B_SB = "67"
+B_BB = "46"
+B_HP = "4"
+B_RBI = "81"
+B_SO = "39"
+B_AVG = ".349"
+
+
+[[person]]
+name.last = "Small"
+name.given = "Herman"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "99"
+B_AB = "388"
+B_R = "100"
+B_H = "135"
+B_TB = "240"
+B_2B = "31"
+B_3B = "10"
+B_HR = "18"
+B_SH = "4"
+B_SB = "8"
+B_BB = "50"
+B_HP = "2"
+B_RBI = "69"
+B_SO = "47"
+B_AVG = ".348"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "93"
+B_AB = "367"
+B_R = "73"
+B_H = "122"
+B_TB = "179"
+B_2B = "28"
+B_3B = "7"
+B_HR = "5"
+B_SH = "4"
+B_SB = "22"
+B_BB = "28"
+B_HP = "3"
+B_RBI = "63"
+B_SO = "52"
+B_AVG = ".332"
+
+
+[[person]]
+name.last = "Stultz"
+name.given = "Sambo"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "29"
+B_AB = "101"
+B_R = "13"
+B_H = "33"
+B_TB = "43"
+B_2B = "3"
+B_3B = "2"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "2"
+B_RBI = "13"
+B_SO = "16"
+B_AVG = ".327"
+
+
+[[person]]
+name.last = "Bradshaw"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "102"
+B_AB = "350"
+B_R = "35"
+B_H = "114"
+B_TB = "151"
+B_2B = "17"
+B_3B = "4"
+B_HR = "4"
+B_SH = "2"
+B_SB = "1"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "57"
+B_SO = "46"
+B_AVG = ".326"
+
+
+[[person]]
+name.last = "Richardson"
+name.given = "H."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "34"
+B_AB = "123"
+B_R = "21"
+B_H = "40"
+B_TB = "48"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "10"
+B_HP = "2"
+B_RBI = "8"
+B_SO = "21"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Stirewalt"
+name.given = "Felix"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+B_G = "57"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "38"
+[person.playing.totals]
+B_G = "95"
+B_AB = "361"
+B_R = "69"
+B_H = "117"
+B_TB = "144"
+B_2B = "9"
+B_3B = "9"
+B_HR = "0"
+B_SH = "7"
+B_SB = "22"
+B_BB = "40"
+B_HP = "2"
+B_RBI = "63"
+B_SO = "17"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "Milner"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "101"
+B_AB = "409"
+B_R = "61"
+B_H = "132"
+B_TB = "166"
+B_2B = "22"
+B_3B = "3"
+B_HR = "2"
+B_SH = "5"
+B_SB = "8"
+B_BB = "16"
+B_HP = "7"
+B_RBI = "35"
+B_SO = "9"
+B_AVG = ".323"
+
+
+[[person]]
+name.last = "Bamberger"
+name.given = "Harold"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "84"
+B_AB = "316"
+B_R = "64"
+B_H = "101"
+B_TB = "151"
+B_2B = "15"
+B_3B = "7"
+B_HR = "7"
+B_SH = "0"
+B_SB = "19"
+B_BB = "42"
+B_HP = "3"
+B_RBI = "51"
+B_SO = "65"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Morrow"
+name.given = "Ross"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "91"
+B_AB = "354"
+B_R = "53"
+B_H = "113"
+B_TB = "178"
+B_2B = "20"
+B_3B = "3"
+B_HR = "13"
+B_SH = "3"
+B_SB = "2"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "78"
+B_SO = "27"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Cardinale"
+name.given = "Philip"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "103"
+B_AB = "363"
+B_R = "62"
+B_H = "114"
+B_TB = "156"
+B_2B = "12"
+B_3B = "9"
+B_HR = "4"
+B_SH = "3"
+B_SB = "21"
+B_BB = "63"
+B_HP = "3"
+B_RBI = "71"
+B_SO = "47"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "87"
+B_AB = "309"
+B_R = "48"
+B_H = "97"
+B_TB = "110"
+B_2B = "7"
+B_3B = "0"
+B_HR = "2"
+B_SH = "7"
+B_SB = "11"
+B_BB = "35"
+B_HP = "4"
+B_RBI = "54"
+B_SO = "18"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Huffstetler"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "86"
+B_AB = "303"
+B_R = "44"
+B_H = "95"
+B_TB = "130"
+B_2B = "17"
+B_3B = "6"
+B_HR = "2"
+B_SH = "3"
+B_SB = "5"
+B_BB = "24"
+B_HP = "1"
+B_RBI = "47"
+B_SO = "26"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Limmer"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "40"
+B_AB = "150"
+B_R = "16"
+B_H = "47"
+B_TB = "70"
+B_2B = "9"
+B_3B = "1"
+B_HR = "4"
+B_SH = "0"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "25"
+B_SO = "15"
+B_AVG = ".313"
+
+
+[[person]]
+name.last = "Jackson"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "82"
+B_AB = "276"
+B_R = "37"
+B_H = "86"
+B_TB = "106"
+B_2B = "14"
+B_3B = "3"
+B_HR = "0"
+B_SH = "7"
+B_SB = "8"
+B_BB = "35"
+B_HP = "3"
+B_RBI = "47"
+B_SO = "35"
+B_AVG = ".312"
+
+
+[[person]]
+name.last = "Herman"
+name.given = "Sam"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "63"
+B_AB = "235"
+B_R = "41"
+B_H = "73"
+B_TB = "111"
+B_2B = "14"
+B_3B = "6"
+B_HR = "4"
+B_SH = "3"
+B_SB = "2"
+B_BB = "19"
+B_HP = "1"
+B_RBI = "29"
+B_SO = "47"
+B_AVG = ".311"
+
+
+[[person]]
+name.last = "Allen"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "58"
+B_AB = "195"
+B_R = "51"
+B_H = "60"
+B_TB = "67"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "5"
+B_SB = "20"
+B_BB = "66"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "29"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Zebro"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "47"
+B_AB = "159"
+B_R = "26"
+B_H = "49"
+B_TB = "65"
+B_2B = "10"
+B_3B = "0"
+B_HR = "2"
+B_SH = "3"
+B_SB = "3"
+B_BB = "30"
+B_HP = "1"
+B_RBI = "22"
+B_SO = "24"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Trew"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "75"
+B_AB = "259"
+B_R = "48"
+B_H = "79"
+B_TB = "109"
+B_2B = "13"
+B_3B = "4"
+B_HR = "3"
+B_SH = "4"
+B_SB = "9"
+B_BB = "55"
+B_HP = "6"
+B_RBI = "37"
+B_SO = "46"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "McCall"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "17"
+B_AB = "23"
+B_R = "3"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "2"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Poe"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "10"
+B_AB = "33"
+B_R = "2"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Mauney"
+name.given = "Willard"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "96"
+B_AB = "355"
+B_R = "78"
+B_H = "107"
+B_TB = "148"
+B_2B = "14"
+B_3B = "6"
+B_HR = "5"
+B_SH = "9"
+B_SB = "44"
+B_BB = "26"
+B_HP = "8"
+B_RBI = "33"
+B_SO = "29"
+B_AVG = ".301"
+
+
+[[person]]
+name.last = "Deal"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "70"
+B_AB = "267"
+B_R = "40"
+B_H = "80"
+B_TB = "100"
+B_2B = "10"
+B_3B = "2"
+B_HR = "2"
+B_SH = "4"
+B_SB = "2"
+B_BB = "25"
+B_HP = "1"
+B_RBI = "32"
+B_SO = "37"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Bell"
+name.given = "Samuel"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "100"
+B_AB = "335"
+B_R = "64"
+B_H = "100"
+B_TB = "139"
+B_2B = "17"
+B_3B = "8"
+B_HR = "2"
+B_SH = "15"
+B_SB = "4"
+B_BB = "65"
+B_HP = "4"
+B_RBI = "43"
+B_SO = "17"
+B_AVG = ".299"
+
+
+[[person]]
+name.last = "Jordan"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "34"
+B_AB = "134"
+B_R = "18"
+B_H = "40"
+B_TB = "60"
+B_2B = "9"
+B_3B = "4"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "20"
+B_SO = "11"
+B_AVG = ".299"
+
+
+[[person]]
+name.last = "Templeton"
+name.given = "Archie"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "24"
+B_AB = "47"
+B_R = "8"
+B_H = "14"
+B_TB = "21"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "7"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Lawing"
+name.given = "Cecil"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "101"
+B_AB = "369"
+B_R = "66"
+B_H = "109"
+B_TB = "160"
+B_2B = "21"
+B_3B = "9"
+B_HR = "4"
+B_SH = "6"
+B_SB = "18"
+B_BB = "45"
+B_HP = "20"
+B_RBI = "47"
+B_SO = "55"
+B_AVG = ".295"
+
+
+[[person]]
+name.last = "Pollio"
+name.given = "Martin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+B_G = "47"
+[[person.playing.split]]
+team.name = "Mooresville"
+B_G = "27"
+[person.playing.totals]
+B_G = "74"
+B_AB = "238"
+B_R = "39"
+B_H = "70"
+B_TB = "117"
+B_2B = "17"
+B_3B = "6"
+B_HR = "6"
+B_SH = "7"
+B_SB = "2"
+B_BB = "35"
+B_HP = "3"
+B_RBI = "43"
+B_SO = "59"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Hatley"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "10"
+B_AB = "17"
+B_R = "2"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Wood"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "75"
+B_AB = "298"
+B_R = "40"
+B_H = "87"
+B_TB = "127"
+B_2B = "16"
+B_3B = "9"
+B_HR = "2"
+B_SH = "2"
+B_SB = "3"
+B_BB = "19"
+B_HP = "2"
+B_RBI = "36"
+B_SO = "32"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Winstead"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "36"
+B_AB = "120"
+B_R = "14"
+B_H = "35"
+B_TB = "38"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "8"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Walczak"
+name.given = "Edwin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "94"
+B_AB = "352"
+B_R = "55"
+B_H = "102"
+B_TB = "149"
+B_2B = "21"
+B_3B = "4"
+B_HR = "6"
+B_SH = "2"
+B_SB = "2"
+B_BB = "37"
+B_HP = "3"
+B_RBI = "64"
+B_SO = "43"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Watts"
+name.given = "Herman"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "44"
+B_AB = "138"
+B_R = "17"
+B_H = "40"
+B_TB = "50"
+B_2B = "7"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "3"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "20"
+B_SO = "6"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Messimer"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "13"
+B_AB = "42"
+B_R = "2"
+B_H = "12"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "2"
+B_RBI = "3"
+B_SO = "16"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Trexler"
+name.given = "Homer"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "84"
+[[person.playing.split]]
+team.name = "Salisbury"
+B_G = "17"
+[person.playing.totals]
+B_G = "101"
+B_AB = "383"
+B_R = "49"
+B_H = "109"
+B_TB = "150"
+B_2B = "15"
+B_3B = "13"
+B_HR = "0"
+B_SH = "5"
+B_SB = "14"
+B_BB = "35"
+B_HP = "2"
+B_RBI = "47"
+B_SO = "25"
+B_AVG = ".285"
+
+
+[[person]]
+name.last = "Jamin"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "92"
+B_AB = "336"
+B_R = "45"
+B_H = "94"
+B_TB = "138"
+B_2B = "13"
+B_3B = "11"
+B_HR = "3"
+B_SH = "2"
+B_SB = "8"
+B_BB = "46"
+B_HP = "3"
+B_RBI = "57"
+B_SO = "34"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Osgood"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "25"
+B_R = "6"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "12"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "Wray"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "104"
+B_AB = "387"
+B_R = "82"
+B_H = "108"
+B_TB = "161"
+B_2B = "16"
+B_3B = "2"
+B_HR = "11"
+B_SH = "9"
+B_SB = "8"
+B_BB = "64"
+B_HP = "2"
+B_RBI = "55"
+B_SO = "61"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Costa"
+name.given = "Alvin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "52"
+B_AB = "181"
+B_R = "23"
+B_H = "50"
+B_TB = "65"
+B_2B = "4"
+B_3B = "4"
+B_HR = "1"
+B_SH = "5"
+B_SB = "2"
+B_BB = "24"
+B_HP = "2"
+B_RBI = "16"
+B_SO = "36"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Campbell"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "92"
+B_AB = "334"
+B_R = "41"
+B_H = "92"
+B_TB = "138"
+B_2B = "24"
+B_3B = "2"
+B_HR = "6"
+B_SH = "0"
+B_SB = "12"
+B_BB = "16"
+B_HP = "5"
+B_RBI = "47"
+B_SO = "66"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Crow"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "47"
+B_AB = "153"
+B_R = "16"
+B_H = "42"
+B_TB = "56"
+B_2B = "6"
+B_3B = "1"
+B_HR = "2"
+B_SH = "2"
+B_SB = "4"
+B_BB = "4"
+B_HP = "2"
+B_RBI = "19"
+B_SO = "15"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Frye"
+name.given = "Dean"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "107"
+B_AB = "427"
+B_R = "86"
+B_H = "117"
+B_TB = "142"
+B_2B = "20"
+B_3B = "1"
+B_HR = "1"
+B_SH = "14"
+B_SB = "44"
+B_BB = "52"
+B_HP = "9"
+B_RBI = "42"
+B_SO = "19"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Adkins"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "25"
+B_AB = "84"
+B_R = "11"
+B_H = "23"
+B_TB = "24"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "4"
+B_BB = "6"
+B_HP = "3"
+B_RBI = "7"
+B_SO = "25"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Clarke"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "43"
+[[person.playing.split]]
+team.name = "Concord"
+B_G = "27"
+[person.playing.totals]
+B_G = "70"
+B_AB = "227"
+B_R = "30"
+B_H = "62"
+B_TB = "81"
+B_2B = "11"
+B_3B = "4"
+B_HR = "0"
+B_SH = "2"
+B_SB = "4"
+B_BB = "40"
+B_HP = "1"
+B_RBI = "35"
+B_SO = "16"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Hathcock"
+name.given = "Claude"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "65"
+B_AB = "254"
+B_R = "33"
+B_H = "69"
+B_TB = "90"
+B_2B = "6"
+B_3B = "6"
+B_HR = "1"
+B_SH = "2"
+B_SB = "9"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "23"
+B_SO = "21"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Wright"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "107"
+B_AB = "397"
+B_R = "62"
+B_H = "107"
+B_TB = "149"
+B_2B = "17"
+B_3B = "11"
+B_HR = "1"
+B_SH = "7"
+B_SB = "17"
+B_BB = "51"
+B_HP = "3"
+B_RBI = "45"
+B_SO = "51"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Cargill"
+name.given = "Marvin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "42"
+B_AB = "145"
+B_R = "25"
+B_H = "39"
+B_TB = "46"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "8"
+B_BB = "22"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "28"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Lather"
+name.given = "Lavern"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "102"
+B_AB = "385"
+B_R = "55"
+B_H = "103"
+B_TB = "138"
+B_2B = "17"
+B_3B = "6"
+B_HR = "2"
+B_SH = "2"
+B_SB = "6"
+B_BB = "40"
+B_HP = "4"
+B_RBI = "46"
+B_SO = "51"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Yellen"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "59"
+B_AB = "187"
+B_R = "25"
+B_H = "50"
+B_TB = "85"
+B_2B = "11"
+B_3B = "6"
+B_HR = "4"
+B_SH = "5"
+B_SB = "2"
+B_BB = "23"
+B_HP = "2"
+B_RBI = "26"
+B_SO = "21"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Cooksey"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "19"
+B_AB = "60"
+B_R = "8"
+B_H = "16"
+B_TB = "27"
+B_2B = "2"
+B_3B = "3"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "7"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Gray"
+name.given = "Aaron"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "13"
+B_AB = "45"
+B_R = "3"
+B_H = "12"
+B_TB = "17"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "12"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Bartalini"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "102"
+B_AB = "347"
+B_R = "85"
+B_H = "92"
+B_TB = "102"
+B_2B = "6"
+B_3B = "2"
+B_HR = "0"
+B_SH = "23"
+B_SB = "29"
+B_BB = "83"
+B_HP = "1"
+B_RBI = "28"
+B_SO = "57"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Cox"
+name.given = "Homer"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "62"
+[[person.playing.split]]
+team.name = "Mooresville"
+B_G = "9"
+[person.playing.totals]
+B_G = "71"
+B_AB = "230"
+B_R = "36"
+B_H = "61"
+B_TB = "93"
+B_2B = "13"
+B_3B = "2"
+B_HR = "5"
+B_SH = "1"
+B_SB = "7"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "37"
+B_SO = "31"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Krueger"
+name.given = "Stu"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+B_G = "3"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "25"
+[person.playing.totals]
+B_G = "28"
+B_AB = "83"
+B_R = "12"
+B_H = "22"
+B_TB = "27"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "21"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "McGimsey"
+name.given = "Boger"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "100"
+B_AB = "326"
+B_R = "57"
+B_H = "86"
+B_TB = "124"
+B_2B = "13"
+B_3B = "8"
+B_HR = "3"
+B_SH = "3"
+B_SB = "11"
+B_BB = "40"
+B_HP = "6"
+B_RBI = "38"
+B_SO = "28"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Dunn"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "48"
+B_AB = "161"
+B_R = "29"
+B_H = "42"
+B_TB = "53"
+B_2B = "9"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "6"
+B_BB = "34"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "29"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Howard"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "108"
+B_AB = "405"
+B_R = "62"
+B_H = "105"
+B_TB = "162"
+B_2B = "13"
+B_3B = "7"
+B_HR = "10"
+B_SH = "7"
+B_SB = "10"
+B_BB = "52"
+B_HP = "0"
+B_RBI = "86"
+B_SO = "63"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Knight"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "51"
+B_AB = "179"
+B_R = "30"
+B_H = "46"
+B_TB = "64"
+B_2B = "7"
+B_3B = "4"
+B_HR = "1"
+B_SH = "6"
+B_SB = "1"
+B_BB = "36"
+B_HP = "1"
+B_RBI = "31"
+B_SO = "28"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Lakos"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "29"
+B_AB = "70"
+B_R = "11"
+B_H = "18"
+B_TB = "23"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "15"
+B_SO = "17"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Glover"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "88"
+B_AB = "313"
+B_R = "34"
+B_H = "80"
+B_TB = "88"
+B_2B = "6"
+B_3B = "1"
+B_HR = "0"
+B_SH = "14"
+B_SB = "4"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "45"
+B_SO = "35"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Jacobs"
+name.given = "Forrest"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "68"
+B_AB = "266"
+B_R = "35"
+B_H = "68"
+B_TB = "81"
+B_2B = "10"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "3"
+B_BB = "21"
+B_HP = "8"
+B_RBI = "15"
+B_SO = "27"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Earey"
+name.given = "Pat"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "31"
+B_AB = "82"
+B_R = "7"
+B_H = "21"
+B_TB = "32"
+B_2B = "3"
+B_3B = "4"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "16"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Lindsay"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "16"
+B_AB = "47"
+B_R = "6"
+B_H = "12"
+B_TB = "17"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "6"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Gowan"
+name.given = "Reid"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "54"
+B_AB = "114"
+B_R = "8"
+B_H = "29"
+B_TB = "36"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "12"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Presh"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "47"
+B_AB = "123"
+B_R = "16"
+B_H = "31"
+B_TB = "36"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "22"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Richards"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "100"
+B_AB = "370"
+B_R = "54"
+B_H = "93"
+B_TB = "133"
+B_2B = "12"
+B_3B = "2"
+B_HR = "8"
+B_SH = "2"
+B_SB = "5"
+B_BB = "33"
+B_HP = "2"
+B_RBI = "59"
+B_SO = "80"
+B_AVG = ".251"
+
+
+[[person]]
+name.last = "Kirke"
+name.given = "Judson"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "23"
+B_AB = "64"
+B_R = "7"
+B_H = "16"
+B_TB = "20"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "6"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Stewart"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "10"
+B_AB = "36"
+B_R = "10"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "5"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Howell"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "28"
+B_R = "7"
+B_H = "7"
+B_TB = "9"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Skeen"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "91"
+B_AB = "346"
+B_R = "59"
+B_H = "86"
+B_TB = "107"
+B_2B = "15"
+B_3B = "3"
+B_HR = "0"
+B_SH = "5"
+B_SB = "10"
+B_BB = "51"
+B_HP = "5"
+B_RBI = "26"
+B_SO = "61"
+B_AVG = ".249"
+
+
+[[person]]
+name.last = "Sichko"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "90"
+B_AB = "319"
+B_R = "51"
+B_H = "79"
+B_TB = "115"
+B_2B = "11"
+B_3B = "8"
+B_HR = "3"
+B_SH = "1"
+B_SB = "15"
+B_BB = "32"
+B_HP = "5"
+B_RBI = "28"
+B_SO = "36"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Okrie"
+name.given = "Leonard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "77"
+B_AB = "270"
+B_R = "32"
+B_H = "67"
+B_TB = "93"
+B_2B = "11"
+B_3B = "6"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "29"
+B_HP = "3"
+B_RBI = "22"
+B_SO = "35"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Dry"
+name.given = "Melvin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "26"
+B_AB = "97"
+B_R = "10"
+B_H = "24"
+B_TB = "28"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "14"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Bubian"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "28"
+B_AB = "90"
+B_R = "15"
+B_H = "22"
+B_TB = "29"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "19"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "32"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Ralph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "37"
+B_R = "8"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "3"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "8"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Etie"
+name.given = "Alba"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "73"
+B_AB = "269"
+B_R = "48"
+B_H = "65"
+B_TB = "81"
+B_2B = "9"
+B_3B = "2"
+B_HR = "1"
+B_SH = "4"
+B_SB = "5"
+B_BB = "46"
+B_HP = "2"
+B_RBI = "19"
+B_SO = "36"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Harrigan"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "94"
+B_AB = "336"
+B_R = "54"
+B_H = "81"
+B_TB = "143"
+B_2B = "17"
+B_3B = "3"
+B_HR = "13"
+B_SH = "0"
+B_SB = "10"
+B_BB = "46"
+B_HP = "3"
+B_RBI = "56"
+B_SO = "58"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Richard"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "68"
+[[person.playing.split]]
+team.name = "Mooresville"
+B_G = "3"
+[person.playing.totals]
+B_G = "71"
+B_AB = "237"
+B_R = "29"
+B_H = "57"
+B_TB = "67"
+B_2B = "5"
+B_3B = "1"
+B_HR = "1"
+B_SH = "4"
+B_SB = "7"
+B_BB = "39"
+B_HP = "1"
+B_RBI = "24"
+B_SO = "48"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Broome"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "72"
+B_AB = "228"
+B_R = "38"
+B_H = "55"
+B_TB = "65"
+B_2B = "6"
+B_3B = "2"
+B_HR = "0"
+B_SH = "7"
+B_SB = "5"
+B_BB = "35"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "36"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Heath"
+name.given = "Fletcher"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "31"
+B_AB = "112"
+B_R = "19"
+B_H = "27"
+B_TB = "43"
+B_2B = "4"
+B_3B = "0"
+B_HR = "4"
+B_SH = "1"
+B_SB = "4"
+B_BB = "10"
+B_HP = "2"
+B_RBI = "23"
+B_SO = "18"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Honeycutt"
+name.given = "Shade"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "15"
+B_AB = "50"
+B_R = "6"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "5"
+B_HP = "2"
+B_RBI = "5"
+B_SO = "9"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Walters"
+name.given = "Harold"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "14"
+B_AB = "46"
+B_R = "7"
+B_H = "11"
+B_TB = "14"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "3"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Reese"
+name.given = "Max"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "49"
+B_AB = "168"
+B_R = "17"
+B_H = "40"
+B_TB = "55"
+B_2B = "7"
+B_3B = "4"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "28"
+B_SO = "20"
+B_AVG = ".238"
+
+
+[[person]]
+name.last = "Dornburg"
+name.given = "Mervin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "118"
+B_R = "12"
+B_H = "28"
+B_TB = "44"
+B_2B = "5"
+B_3B = "4"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "20"
+B_SO = "18"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Askew"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "16"
+B_AB = "59"
+B_R = "8"
+B_H = "14"
+B_TB = "18"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "17"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Colombo"
+name.given = "Vincent"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "20"
+B_AB = "59"
+B_R = "6"
+B_H = "14"
+B_TB = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "14"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "14"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Ellington"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "17"
+B_AB = "51"
+B_R = "16"
+B_H = "12"
+B_TB = "15"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "8"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Musten"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "112"
+B_AB = "434"
+B_R = "58"
+B_H = "101"
+B_TB = "143"
+B_2B = "16"
+B_3B = "7"
+B_HR = "4"
+B_SH = "7"
+B_SB = "10"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "64"
+B_SO = "55"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Hamrick"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "23"
+B_AB = "56"
+B_R = "2"
+B_H = "13"
+B_TB = "23"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "2"
+B_RBI = "10"
+B_SO = "19"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Blythe"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "56"
+B_R = "9"
+B_H = "13"
+B_TB = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "6"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Beck"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "100"
+B_AB = "398"
+B_R = "54"
+B_H = "92"
+B_TB = "119"
+B_2B = "8"
+B_3B = "8"
+B_HR = "1"
+B_SH = "6"
+B_SB = "6"
+B_BB = "29"
+B_HP = "2"
+B_RBI = "27"
+B_SO = "77"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "37"
+B_AB = "65"
+B_R = "8"
+B_H = "15"
+B_TB = "21"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "20"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Comes"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "15"
+B_AB = "52"
+B_R = "6"
+B_H = "12"
+B_TB = "16"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "5"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Stachecz"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "69"
+B_AB = "209"
+B_R = "41"
+B_H = "48"
+B_TB = "56"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "28"
+B_BB = "32"
+B_HP = "3"
+B_RBI = "8"
+B_SO = "47"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Lane"
+name.given = "Wilmer"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "46"
+B_AB = "152"
+B_R = "19"
+B_H = "35"
+B_TB = "46"
+B_2B = "9"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "12"
+B_HP = "3"
+B_RBI = "17"
+B_SO = "18"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Stahley"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "98"
+B_AB = "359"
+B_R = "50"
+B_H = "82"
+B_TB = "123"
+B_2B = "23"
+B_3B = "6"
+B_HR = "2"
+B_SH = "7"
+B_SB = "10"
+B_BB = "44"
+B_HP = "2"
+B_RBI = "46"
+B_SO = "56"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Pepio"
+name.given = "Nicholas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+B_G = "77"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "25"
+[person.playing.totals]
+B_G = "102"
+B_AB = "351"
+B_R = "45"
+B_H = "80"
+B_TB = "100"
+B_2B = "12"
+B_3B = "4"
+B_HR = "0"
+B_SH = "6"
+B_SB = "6"
+B_BB = "58"
+B_HP = "2"
+B_RBI = "28"
+B_SO = "70"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "James"
+name.given = "Lacy"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "31"
+B_AB = "92"
+B_R = "13"
+B_H = "21"
+B_TB = "25"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SB = "0"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "29"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Stoll"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "50"
+B_AB = "119"
+B_R = "14"
+B_H = "27"
+B_TB = "36"
+B_2B = "4"
+B_3B = "1"
+B_HR = "1"
+B_SH = "8"
+B_SB = "3"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "28"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Bradshaw"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "20"
+B_AB = "66"
+B_R = "7"
+B_H = "15"
+B_TB = "21"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "11"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Leonard"
+name.given = "Fred"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "12"
+B_AB = "44"
+B_R = "4"
+B_H = "10"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "1"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "5"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Ciacchi"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "15"
+B_AB = "44"
+B_R = "2"
+B_H = "10"
+B_TB = "13"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "12"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Giansanti"
+name.given = "Ralph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "49"
+B_AB = "160"
+B_R = "27"
+B_H = "36"
+B_TB = "43"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "6"
+B_BB = "34"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "24"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Holt"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "85"
+B_AB = "274"
+B_R = "35"
+B_H = "61"
+B_TB = "76"
+B_2B = "7"
+B_3B = "4"
+B_HR = "0"
+B_SH = "8"
+B_SB = "7"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "21"
+B_SO = "62"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Fortine"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "64"
+B_AB = "233"
+B_R = "36"
+B_H = "52"
+B_TB = "69"
+B_2B = "2"
+B_3B = "3"
+B_HR = "3"
+B_SH = "0"
+B_SB = "4"
+B_BB = "32"
+B_HP = "4"
+B_RBI = "22"
+B_SO = "64"
+B_AVG = ".223"
+
+
+[[person]]
+name.last = "Kadzis"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "20"
+B_AB = "63"
+B_R = "7"
+B_H = "14"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_BB = "13"
+B_HP = "4"
+B_RBI = "5"
+B_SO = "21"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Bolduc"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "19"
+B_AB = "74"
+B_R = "9"
+B_H = "16"
+B_TB = "16"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "12"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "14"
+B_AB = "37"
+B_R = "7"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "4"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Rhodes"
+name.given = "Herbert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "55"
+B_AB = "177"
+B_R = "12"
+B_H = "38"
+B_TB = "56"
+B_2B = "4"
+B_3B = "1"
+B_HR = "4"
+B_SH = "0"
+B_SB = "5"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "61"
+B_AVG = ".215"
+
+
+[[person]]
+name.last = "Vartanian"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "35"
+B_AB = "103"
+B_R = "12"
+B_H = "22"
+B_TB = "32"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_SH = "4"
+B_SB = "2"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "17"
+B_SO = "12"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Pearl"
+name.given = "Russell"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "18"
+B_AB = "61"
+B_R = "9"
+B_H = "13"
+B_TB = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "5"
+B_HP = "2"
+B_RBI = "1"
+B_SO = "19"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Mauney"
+name.given = "Marvin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "10"
+B_AB = "33"
+B_R = "8"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "7"
+B_AVG = ".212"
+
+
+[[person]]
+name.last = "Hard"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "14"
+B_AB = "33"
+B_R = "4"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "8"
+B_AVG = ".212"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "17"
+B_AB = "29"
+B_R = "3"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "12"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Barnes"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "86"
+B_AB = "316"
+B_R = "42"
+B_H = "65"
+B_TB = "82"
+B_2B = "6"
+B_3B = "4"
+B_HR = "1"
+B_SH = "6"
+B_SB = "14"
+B_BB = "36"
+B_HP = "8"
+B_RBI = "34"
+B_SO = "53"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Mize"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "10"
+B_AB = "34"
+B_R = "2"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "12"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "DiOrio"
+name.given = "Larry"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "43"
+B_AB = "132"
+B_R = "30"
+B_H = "27"
+B_TB = "42"
+B_2B = "5"
+B_3B = "2"
+B_HR = "2"
+B_SH = "4"
+B_SB = "2"
+B_BB = "45"
+B_HP = "1"
+B_RBI = "24"
+B_SO = "46"
+B_AVG = ".205"
+
+
+[[person]]
+name.last = "McWilliams"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "94"
+B_AB = "279"
+B_R = "30"
+B_H = "57"
+B_TB = "71"
+B_2B = "12"
+B_3B = "1"
+B_HR = "0"
+B_SH = "6"
+B_SB = "4"
+B_BB = "55"
+B_HP = "5"
+B_RBI = "23"
+B_SO = "15"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Hughes"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "22"
+B_AB = "69"
+B_R = "8"
+B_H = "14"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "12"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Hartlein"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "53"
+B_AB = "208"
+B_R = "18"
+B_H = "42"
+B_TB = "66"
+B_2B = "8"
+B_3B = "5"
+B_HR = "2"
+B_SH = "1"
+B_SB = "1"
+B_BB = "10"
+B_HP = "4"
+B_RBI = "25"
+B_SO = "51"
+B_AVG = ".202"
+
+
+[[person]]
+name.last = "Wilhelm"
+name.given = "Hoyt"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "42"
+B_AB = "104"
+B_R = "13"
+B_H = "21"
+B_TB = "26"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "18"
+B_AVG = ".202"
+
+
+[[person]]
+name.last = "Nelson"
+name.given = "Willard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "27"
+B_AB = "50"
+B_R = "5"
+B_H = "10"
+B_TB = "16"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "10"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Burris"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "74"
+B_AB = "227"
+B_R = "33"
+B_H = "45"
+B_TB = "67"
+B_2B = "12"
+B_3B = "2"
+B_HR = "2"
+B_SH = "1"
+B_SB = "2"
+B_BB = "32"
+B_HP = "2"
+B_RBI = "24"
+B_SO = "25"
+B_AVG = ".198"
+
+
+[[person]]
+name.last = "Haynes"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "56"
+B_R = "7"
+B_H = "11"
+B_TB = "16"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "5"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "23"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Tate"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "19"
+B_AB = "46"
+B_R = "4"
+B_H = "9"
+B_TB = "11"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "16"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Haliburton"
+name.given = "Wm."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "36"
+B_R = "6"
+B_H = "7"
+B_TB = "9"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "3"
+B_AVG = ".194"
+
+
+[[person]]
+name.last = "Baxter"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "20"
+B_AB = "57"
+B_R = "6"
+B_H = "11"
+B_TB = "23"
+B_2B = "3"
+B_3B = "3"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "21"
+B_AVG = ".193"
+
+
+[[person]]
+name.last = "Buckner"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "33"
+B_AB = "78"
+B_R = "5"
+B_H = "15"
+B_TB = "17"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "13"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Feduniak"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "40"
+B_AB = "112"
+B_R = "11"
+B_H = "21"
+B_TB = "32"
+B_2B = "0"
+B_3B = "1"
+B_HR = "3"
+B_SH = "1"
+B_SB = "0"
+B_BB = "14"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "32"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Pope"
+name.given = "Jesse"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+B_G = "28"
+[[person.playing.split]]
+team.name = "Mooresville"
+B_G = "16"
+[person.playing.totals]
+B_G = "44"
+B_AB = "140"
+B_R = "19"
+B_H = "26"
+B_TB = "32"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "7"
+B_SB = "2"
+B_BB = "21"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "18"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Jolley"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "12"
+B_AB = "27"
+B_R = "5"
+B_H = "5"
+B_TB = "10"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "3"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "Kunkle"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "92"
+B_AB = "283"
+B_R = "17"
+B_H = "52"
+B_TB = "63"
+B_2B = "9"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "39"
+B_HP = "0"
+B_RBI = "21"
+B_SO = "72"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Allen"
+name.given = "H."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "33"
+B_AB = "103"
+B_R = "10"
+B_H = "19"
+B_TB = "23"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "12"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "25"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Opperman"
+name.given = "Douglas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "38"
+B_AB = "103"
+B_R = "9"
+B_H = "19"
+B_TB = "27"
+B_2B = "2"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "3"
+B_BB = "4"
+B_HP = "2"
+B_RBI = "12"
+B_SO = "31"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "William M."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "60"
+B_R = "2"
+B_H = "11"
+B_TB = "17"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "15"
+B_AVG = ".183"
+
+
+[[person]]
+name.last = "Younts"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "25"
+B_AB = "77"
+B_R = "8"
+B_H = "14"
+B_TB = "21"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "2"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "14"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Maus"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "26"
+B_AB = "56"
+B_R = "3"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "5"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Catalano"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "12"
+B_AB = "45"
+B_R = "1"
+B_H = "8"
+B_TB = "10"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "9"
+B_AVG = ".178"
+
+
+[[person]]
+name.last = "McDonald"
+name.given = "Merrill"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "102"
+B_R = "16"
+B_H = "18"
+B_TB = "25"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "22"
+B_HP = "2"
+B_RBI = "15"
+B_SO = "20"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "VanBommel"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "31"
+B_AB = "97"
+B_R = "14"
+B_H = "17"
+B_TB = "29"
+B_2B = "5"
+B_3B = "2"
+B_HR = "1"
+B_SH = "1"
+B_SB = "2"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "10"
+B_AVG = ".175"
+
+
+[[person]]
+name.last = "Cozart"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "7"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "4"
+[person.playing.totals]
+B_G = "11"
+B_AB = "23"
+B_R = "3"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "7"
+B_AVG = ".174"
+
+
+[[person]]
+name.last = "Ballerini"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "26"
+B_AB = "89"
+B_R = "14"
+B_H = "15"
+B_TB = "15"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "18"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "18"
+B_AVG = ".169"
+
+
+[[person]]
+name.last = "Hargrove"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "23"
+B_AB = "54"
+B_R = "4"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "18"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Lische"
+name.given = "Russell"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "17"
+B_AB = "48"
+B_R = "5"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Frisina"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "13"
+B_AB = "42"
+B_R = "5"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "7"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Heffner"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+B_G = "1"
+[[person.playing.split]]
+team.name = "Hickory"
+B_G = "20"
+[person.playing.totals]
+B_G = "21"
+B_AB = "67"
+B_R = "5"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "20"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Shipley"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "18"
+B_AB = "43"
+B_R = "1"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "15"
+B_AVG = ".163"
+
+
+[[person]]
+name.last = "Patterson"
+name.given = "Lindsay"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "20"
+B_AB = "68"
+B_R = "4"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "26"
+B_AVG = ".162"
+
+
+[[person]]
+name.last = "Bareford"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "31"
+B_R = "4"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "12"
+B_AVG = ".161"
+
+
+[[person]]
+name.last = "Furr"
+name.given = "Ellis"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "19"
+[[person.playing.split]]
+team.name = "Concord"
+B_G = "1"
+[person.playing.totals]
+B_G = "20"
+B_AB = "45"
+B_R = "2"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "10"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Sylvester"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "14"
+B_AB = "32"
+B_R = "6"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Garmon"
+name.given = "Brice"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "24"
+B_AB = "78"
+B_R = "8"
+B_H = "12"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "7"
+B_SB = "4"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "22"
+B_AVG = ".154"
+
+
+[[person]]
+name.last = "Lucas"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "18"
+B_AB = "59"
+B_R = "8"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "10"
+B_HP = "2"
+B_RBI = "2"
+B_SO = "18"
+B_AVG = ".153"
+
+
+[[person]]
+name.last = "Harrington"
+name.given = "Lane"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "54"
+B_AB = "138"
+B_R = "11"
+B_H = "21"
+B_TB = "27"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "4"
+B_SB = "4"
+B_BB = "25"
+B_HP = "3"
+B_RBI = "8"
+B_SO = "45"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Tomlinson"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "18"
+B_AB = "33"
+B_R = "2"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "15"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Fain"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "20"
+B_AB = "47"
+B_R = "5"
+B_H = "7"
+B_TB = "10"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "2"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "18"
+B_AVG = ".149"
+
+
+[[person]]
+name.last = "Dixon"
+name.given = "Ralph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "27"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_AVG = ".148"
+
+
+[[person]]
+name.last = "Hockinger"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "23"
+B_AB = "48"
+B_R = "2"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "17"
+B_AVG = ".146"
+
+
+[[person]]
+name.last = "Hatley"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "21"
+B_AB = "42"
+B_R = "5"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "18"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Ennis"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "23"
+B_AB = "71"
+B_R = "10"
+B_H = "10"
+B_TB = "17"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "21"
+B_AVG = ".141"
+
+
+[[person]]
+name.last = "Weisman"
+name.given = "Bernard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "24"
+B_AB = "64"
+B_R = "5"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "14"
+B_AVG = ".141"
+
+
+[[person]]
+name.last = "Amato"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "12"
+B_AB = "43"
+B_R = "6"
+B_H = "6"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "4"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "12"
+B_AVG = ".140"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "Lee"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "10"
+B_AB = "29"
+B_R = "7"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "10"
+B_AVG = ".138"
+
+
+[[person]]
+name.last = "Kessler"
+name.given = "Samuel"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "27"
+B_AB = "82"
+B_R = "6"
+B_H = "11"
+B_TB = "14"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "14"
+B_AVG = ".134"
+
+
+[[person]]
+name.last = "Kalkowski"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "29"
+B_AB = "63"
+B_R = "5"
+B_H = "8"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "16"
+B_AVG = ".127"
+
+
+[[person]]
+name.last = "Munsinger"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "22"
+B_AB = "40"
+B_R = "5"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "17"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Northrup"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "8"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Burns"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "17"
+B_AB = "33"
+B_R = "2"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".121"
+
+
+[[person]]
+name.last = "Ferebee"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+B_G = "5"
+[[person.playing.split]]
+team.name = "Concord"
+B_G = "5"
+[person.playing.totals]
+B_G = "10"
+B_AB = "18"
+B_R = "3"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "8"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Livingston"
+name.given = "Glenn"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "30"
+B_AB = "73"
+B_R = "7"
+B_H = "8"
+B_TB = "14"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "27"
+B_AVG = ".110"
+
+
+[[person]]
+name.last = "Kuta"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "14"
+B_AB = "28"
+B_R = "2"
+B_H = "3"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "14"
+B_AVG = ".107"
+
+
+[[person]]
+name.last = "Aldridge"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+B_G = "22"
+B_AB = "66"
+B_R = "3"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "25"
+B_AVG = ".106"
+
+
+[[person]]
+name.last = "Stiles"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "18"
+B_AB = "50"
+B_R = "5"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "26"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Castanon"
+name.given = "Peter"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "10"
+B_AB = "40"
+B_R = "5"
+B_H = "4"
+B_TB = "6"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "2"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Ciarcello"
+name.given = "Mark"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+B_G = "13"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "2"
+[person.playing.totals]
+B_G = "15"
+B_AB = "21"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "11"
+B_AVG = ".095"
+
+
+[[person]]
+name.last = "Haven"
+name.given = "Garrett"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "14"
+B_AB = "33"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "16"
+B_AVG = ".091"
+
+
+[[person]]
+name.last = "Clark"
+name.given = "Cecil"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "12"
+B_AB = "22"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "17"
+B_AVG = ".091"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Dean"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+B_G = "16"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "7"
+[person.playing.totals]
+B_G = "23"
+B_AB = "58"
+B_R = "2"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "40"
+B_AVG = ".086"
+
+
+[[person]]
+name.last = "McArdle"
+name.given = "Alfred"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "25"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "5"
+[person.playing.totals]
+B_G = "30"
+B_AB = "58"
+B_R = "4"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "24"
+B_AVG = ".086"
+
+
+[[person]]
+name.last = "Stigall"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "12"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".083"
+
+
+[[person]]
+name.last = "Torrence"
+name.given = "E. M."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+B_G = "15"
+B_AB = "28"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "16"
+B_AVG = ".071"
+
+
+[[person]]
+name.last = "Gapinski"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+B_G = "22"
+B_AB = "32"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "11"
+B_AVG = ".063"
+
+
+[[person]]
+name.last = "Salerno"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+B_G = "26"
+B_AB = "34"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "26"
+B_AVG = ".059"
+
+
+[[person]]
+name.last = "Kennerly"
+name.given = "Emmett"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+B_G = "10"
+B_AB = "35"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "4"
+B_AVG = ".057"
+
+
+[[person]]
+name.last = "Hiller"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "12"
+B_AB = "18"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "9"
+B_AVG = ".056"
+
+
+[[person]]
+name.last = "McCree"
+name.given = "Plaskie"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "25"
+B_R = "1"
+B_H = "1"
+B_TB = "2"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_AVG = ".040"
+
+
+[[person]]
+name.last = "Kish"
+name.given = "Elmer"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "24"
+B_AB = "60"
+B_R = "3"
+B_H = "2"
+B_TB = "3"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "28"
+B_AVG = ".033"
+
+
+[[person]]
+name.last = "Schwartz"
+name.given = "Albert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+B_G = "21"
+[[person.playing.split]]
+team.name = "Lexington"
+B_G = "1"
+[person.playing.totals]
+B_G = "22"
+B_AB = "46"
+B_R = "5"
+B_H = "1"
+B_TB = "2"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "22"
+B_AVG = ".022"
+
+
+[[person]]
+name.last = "Quinlan"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+B_G = "12"
+B_AB = "19"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "6"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Blackwell"
+name.given = "J. B."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sealy"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Holt"
+name.given = "Carlton"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Minyard"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Medlock"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stone"
+name.given = "Boyce"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Swanner"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cleveland"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "George"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Milito"
+name.given = "Camillo"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Arendt"
+name.given = "Reid"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Evans"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dixon"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lawing"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Miglio"
+name.given = "Nicholas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hash"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Addy"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bambo"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Berno"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Haidet"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cooper"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jaynes"
+name.given = "Bennett"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "Ernest"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Heath"
+name.given = "Fletcher"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Readling"
+name.given = "Wm. N."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jones"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McGinnis"
+name.given = "J. V."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dark"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "D'Amico"
+name.given = "Alfred"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Whitt"
+name.given = "Cleo"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Solomon"
+name.given = "Lewis"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ellison"
+name.given = "Bobby"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lemly"
+name.given = "Oscar"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bovender"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Richardson"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Rhodes"
+name.given = "Herbert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Miller"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Windsor"
+name.given = "Daryl"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hritz"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Christgan"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dunn"
+name.given = "Leroy"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cooke"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bullock"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cline"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lockman"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hardigan"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Russell"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Pratt"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Peiffer"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brittain"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Deal"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Holt"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Karp"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hathcock"
+name.given = "W."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Daugherty"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Varlotta"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lentz"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hobbs"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Donaldson"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Fox"
+name.given = "Wilford"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dingler"
+name.given = "Wm."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Belcher"
+name.given = "Neil"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Grubbs"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Roland"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Combs"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Haynes"
+name.given = "Sox"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Haas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Jesse"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dyson"
+name.given = "R. C."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Simpson"
+name.given = "Archie"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Corl"
+name.given = "Allen"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Matsinger"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Medlin"
+name.given = "Neal"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Milnon"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Pastor"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Arneberg"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Monterose"
+name.given = "Dominick"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Weinbach"
+name.given = "Sidney"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Trate"
+name.given = "Karl"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bailey"
+name.given = "Clarence"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dickens"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Branham"
+name.given = "Ballard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Knipple"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bennett"
+name.given = "Craig"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Krueger"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hacker"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Whitley"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Barbolla"
+name.given = "Roland"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bonk"
+name.given = "Leonard"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Regula"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Champion"
+name.given = "Martin"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Yole"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Keating"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Reed"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Adams"
+name.given = "Bruce"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Robitsky"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bumgarner"
+name.given = "Lander"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brown"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Pace"
+name.given = "Lloyd"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kapinus"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Imbra"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Guerin"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brendel"
+name.given = "Winston"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gerber"
+name.given = "Wayne"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Witowski"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Carey"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Howig"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Colarelli"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stokes"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ernst"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gates"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mitchell"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gaither"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bryant"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Loren"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Baker"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Macelli"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Antonetz"
+name.given = "Rudolph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Knights"
+name.given = "Ross"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Warfield"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]

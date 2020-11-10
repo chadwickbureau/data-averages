@@ -1,0 +1,82 @@
+[[team]]
+name = "Ashevillle"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3865"
+B_R = "492"
+B_H = "989"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3832"
+B_R = "475"
+B_H = "962"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3720"
+B_R = "484"
+B_H = "921"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3733"
+B_R = "539"
+B_H = "924"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3745"
+B_R = "403"
+B_H = "892"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1913"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "3567"
+B_R = "373"
+B_H = "831"
+B_AVG = ".233"

@@ -1,0 +1,76 @@
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3474"
+F_A = "1585"
+F_E = "296"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3356"
+F_A = "1601"
+F_E = "304"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3332"
+F_A = "1604"
+F_E = "312"
+F_PCT = ".940"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3328"
+F_A = "1590"
+F_E = "336"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3378"
+F_A = "1569"
+F_E = "355"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Joplin/Henryetta"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3331"
+F_A = "1618"
+F_E = "388"
+F_PCT = ".927"

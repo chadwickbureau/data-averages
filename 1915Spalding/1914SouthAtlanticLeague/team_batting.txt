@@ -1,0 +1,126 @@
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4283"
+B_R = "522"
+B_H = "1178"
+B_SH = "176"
+B_SB = "233"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4168"
+B_R = "488"
+B_H = "1101"
+B_SH = "213"
+B_SB = "168"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4015"
+B_R = "451"
+B_H = "1058"
+B_SH = "177"
+B_SB = "187"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3990"
+B_R = "465"
+B_H = "1042"
+B_SH = "170"
+B_SB = "172"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4024"
+B_R = "436"
+B_H = "1003"
+B_SH = "198"
+B_SB = "217"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4135"
+B_R = "437"
+B_H = "1016"
+B_SH = "169"
+B_SB = "195"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3964"
+B_R = "418"
+B_H = "964"
+B_SH = "156"
+B_SB = "193"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4110"
+B_R = "394"
+B_H = "992"
+B_SH = "162"
+B_SB = "173"
+B_AVG = ".241"

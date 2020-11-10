@@ -1,0 +1,102 @@
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3609"
+F_A = "1715"
+F_E = "238"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3792"
+F_A = "1809"
+F_E = "254"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3160"
+F_A = "1796"
+F_E = "238"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3621"
+F_A = "1835"
+F_E = "272"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Webb City"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3514"
+F_A = "1836"
+F_E = "267"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3553"
+F_A = "1586"
+F_E = "266"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Enid"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3361"
+F_A = "1815"
+F_E = "284"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1908"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3582"
+F_A = "1628"
+F_E = "350"
+F_PCT = ".937"

@@ -1,0 +1,3165 @@
+[[person]]
+name.last = "Weygandt"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "33"
+F_1B_PO = "252"
+F_1B_A = "9"
+F_1B_E = "1"
+F_1B_DP = "31"
+F_1B_PCT = ".996"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Milley"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "59"
+F_1B_PO = "505"
+F_1B_A = "30"
+F_1B_E = "3"
+F_1B_DP = "50"
+F_1B_PCT = ".994"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Ferrara"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "44"
+F_1B_PO = "325"
+F_1B_A = "22"
+F_1B_E = "3"
+F_1B_DP = "34"
+F_1B_PCT = ".991"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Melton"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "14"
+F_1B_PO = "118"
+F_1B_A = "10"
+F_1B_E = "2"
+F_1B_DP = "20"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Pedretti"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "130"
+F_1B_PO = "1052"
+F_1B_A = "72"
+F_1B_E = "18"
+F_1B_DP = "121"
+F_1B_PCT = ".984"
+F_1B_TP = "2"
+
+
+[[person]]
+name.last = "Holland"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "19"
+F_1B_PO = "147"
+F_1B_A = "13"
+F_1B_E = "3"
+F_1B_DP = "17"
+F_1B_PCT = ".982"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Nixon"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "25"
+F_1B_PO = "182"
+F_1B_A = "22"
+F_1B_E = "4"
+F_1B_DP = "25"
+F_1B_PCT = ".981"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Leja"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "135"
+F_1B_PO = "1126"
+F_1B_A = "99"
+F_1B_E = "25"
+F_1B_DP = "141"
+F_1B_PCT = ".980"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Daskalakis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "136"
+F_1B_PO = "1050"
+F_1B_A = "88"
+F_1B_E = "24"
+F_1B_DP = "106"
+F_1B_PCT = ".979"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Mattinson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "44"
+F_1B_PO = "316"
+F_1B_A = "19"
+F_1B_E = "9"
+F_1B_DP = "32"
+F_1B_PCT = ".974"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Frickle"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "37"
+F_1B_PO = "286"
+F_1B_A = "12"
+F_1B_E = "8"
+F_1B_DP = "21"
+F_1B_PCT = ".974"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Kneuper"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "138"
+F_1B_PO = "990"
+F_1B_A = "57"
+F_1B_E = "29"
+F_1B_DP = "84"
+F_1B_PCT = ".973"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Narleski"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "105"
+F_2B_PO = "276"
+F_2B_A = "274"
+F_2B_E = "13"
+F_2B_DP = "76"
+F_2B_PCT = ".977"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Charnofsky"
+name.given = "H."
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "18"
+F_2B_PO = "39"
+F_2B_A = "46"
+F_2B_E = "2"
+F_2B_DP = "12"
+F_2B_PCT = ".977"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Deakin"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "107"
+F_2B_PO = "239"
+F_2B_A = "259"
+F_2B_E = "13"
+F_2B_DP = "79"
+F_2B_PCT = ".975"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Kuhn"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "21"
+F_2B_PO = "57"
+F_2B_A = "59"
+F_2B_E = "4"
+F_2B_DP = "13"
+F_2B_PCT = ".967"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Farrick"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "104"
+F_2B_PO = "230"
+F_2B_A = "241"
+F_2B_E = "18"
+F_2B_DP = "89"
+F_2B_PCT = ".963"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Jankowski"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "37"
+F_2B_A = "39"
+F_2B_E = "3"
+F_2B_DP = "14"
+F_2B_PCT = ".962"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Pagan"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "129"
+F_2B_PO = "332"
+F_2B_A = "299"
+F_2B_E = "28"
+F_2B_DP = "82"
+F_2B_PCT = ".958"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Hunacek"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "83"
+F_2B_PO = "178"
+F_2B_A = "186"
+F_2B_E = "16"
+F_2B_DP = "54"
+F_2B_PCT = ".958"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Hobson"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "69"
+F_2B_PO = "152"
+F_2B_A = "154"
+F_2B_E = "15"
+F_2B_DP = "29"
+F_2B_PCT = ".953"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Valdez"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "28"
+F_2B_A = "25"
+F_2B_E = "3"
+F_2B_DP = "7"
+F_2B_PCT = ".946"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Osborn"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "25"
+F_2B_PO = "45"
+F_2B_A = "35"
+F_2B_E = "5"
+F_2B_DP = "14"
+F_2B_PCT = ".941"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Hopkins"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "55"
+F_2B_PO = "111"
+F_2B_A = "124"
+F_2B_E = "15"
+F_2B_DP = "27"
+F_2B_PCT = ".940"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Claycomb"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "29"
+F_2B_PO = "78"
+F_2B_A = "47"
+F_2B_E = "8"
+F_2B_DP = "20"
+F_2B_PCT = ".940"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McDevitt"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "29"
+F_2B_PO = "69"
+F_2B_A = "57"
+F_2B_E = "10"
+F_2B_DP = "17"
+F_2B_PCT = ".926"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Charnofsky"
+name.given = "S"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "21"
+F_2B_PO = "44"
+F_2B_A = "55"
+F_2B_E = "8"
+F_2B_DP = "15"
+F_2B_PCT = ".925"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Kirby"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "36"
+F_2B_A = "21"
+F_2B_E = "5"
+F_2B_DP = "7"
+F_2B_PCT = ".919"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gianelli"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "17"
+F_2B_PO = "23"
+F_2B_A = "20"
+F_2B_E = "6"
+F_2B_DP = "5"
+F_2B_PCT = ".878"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Farrell"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "30"
+F_3B_PO = "39"
+F_3B_A = "49"
+F_3B_E = "3"
+F_3B_DP = "3"
+F_3B_PCT = ".967"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Jankowski"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "56"
+F_3B_PO = "59"
+F_3B_A = "91"
+F_3B_E = "6"
+F_3B_DP = "13"
+F_3B_PCT = ".962"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Sarna"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "132"
+F_3B_PO = "128"
+F_3B_A = "268"
+F_3B_E = "25"
+F_3B_DP = "19"
+F_3B_PCT = ".941"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Wilcox"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "39"
+F_3B_PO = "30"
+F_3B_A = "81"
+F_3B_E = "7"
+F_3B_DP = "13"
+F_3B_PCT = ".941"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Dennis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "32"
+F_3B_PO = "33"
+F_3B_A = "66"
+F_3B_E = "7"
+F_3B_DP = "7"
+F_3B_PCT = ".934"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Hubacek"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "16"
+F_3B_PO = "22"
+F_3B_A = "34"
+F_3B_E = "4"
+F_3B_DP = "7"
+F_3B_PCT = ".933"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Durkin"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "43"
+F_3B_PO = "41"
+F_3B_A = "65"
+F_3B_E = "11"
+F_3B_DP = "14"
+F_3B_PCT = ".906"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Deakin"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "9"
+F_3B_A = "19"
+F_3B_E = "3"
+F_3B_DP = "0"
+F_3B_PCT = ".903"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Conde"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "130"
+F_3B_PO = "131"
+F_3B_A = "290"
+F_3B_E = "17"
+F_3B_DP = "43"
+F_3B_PCT = ".961"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "115"
+F_3B_PO = "128"
+F_3B_A = "246"
+F_3B_E = "20"
+F_3B_DP = "31"
+F_3B_PCT = ".949"
+F_3B_TP = "1"
+
+
+[[person]]
+name.last = "Hardaway"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "131"
+F_3B_PO = "125"
+F_3B_A = "240"
+F_3B_E = "40"
+F_3B_DP = "36"
+F_3B_PCT = ".901"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Claycomb"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "17"
+F_3B_A = "19"
+F_3B_E = "4"
+F_3B_DP = "3"
+F_3B_PCT = ".900"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Melton"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "24"
+F_3B_PO = "12"
+F_3B_A = "49"
+F_3B_E = "9"
+F_3B_DP = "8"
+F_3B_PCT = ".871"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Osborn"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "19"
+F_3B_PO = "12"
+F_3B_A = "25"
+F_3B_E = "6"
+F_3B_DP = "2"
+F_3B_PCT = ".860"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Turk"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "11"
+F_3B_PO = "10"
+F_3B_A = "19"
+F_3B_E = "5"
+F_3B_DP = "3"
+F_3B_PCT = ".853"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Boyer"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "91"
+F_SS_PO = "191"
+F_SS_A = "249"
+F_SS_E = "21"
+F_SS_DP = "61"
+F_SS_PCT = ".954"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Charnofsky"
+name.given = "S."
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "10"
+F_SS_A = "29"
+F_SS_E = "2"
+F_SS_DP = "10"
+F_SS_PCT = ".951"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Waytula"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "141"
+F_SS_PO = "260"
+F_SS_A = "479"
+F_SS_E = "39"
+F_SS_DP = "96"
+F_SS_PCT = ".950"
+F_SS_TP = "2"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "101"
+F_SS_PO = "154"
+F_SS_A = "285"
+F_SS_E = "27"
+F_SS_DP = "63"
+F_SS_PCT = ".942"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Charnofsky"
+name.given = "H."
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "48"
+F_SS_PO = "102"
+F_SS_A = "146"
+F_SS_E = "16"
+F_SS_DP = "41"
+F_SS_PCT = ".939"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "DeSilva"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "36"
+F_SS_PO = "74"
+F_SS_A = "98"
+F_SS_E = "12"
+F_SS_DP = "15"
+F_SS_PCT = ".935"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Herstek"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "133"
+F_SS_PO = "248"
+F_SS_A = "372"
+F_SS_E = "47"
+F_SS_DP = "71"
+F_SS_PCT = ".930"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Pallazzini"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "86"
+F_SS_PO = "152"
+F_SS_A = "208"
+F_SS_E = "27"
+F_SS_DP = "37"
+F_SS_PCT = ".930"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Farrell"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "40"
+F_SS_PO = "75"
+F_SS_A = "114"
+F_SS_E = "17"
+F_SS_DP = "23"
+F_SS_PCT = ".917"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Carlson"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "36"
+F_SS_PO = "44"
+F_SS_A = "81"
+F_SS_E = "13"
+F_SS_DP = "12"
+F_SS_PCT = ".906"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Dennis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "95"
+F_SS_PO = "168"
+F_SS_A = "251"
+F_SS_E = "46"
+F_SS_DP = "48"
+F_SS_PCT = ".901"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Gianelli"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "15"
+F_SS_PO = "7"
+F_SS_A = "21"
+F_SS_E = "5"
+F_SS_DP = "1"
+F_SS_PCT = ".848"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Windle"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "55"
+F_OF_PO = "94"
+F_OF_A = "4"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Fidler"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "26"
+F_OF_PO = "48"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "27"
+F_OF_PO = "35"
+F_OF_A = "5"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "24"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Amorena"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "21"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Tolleson"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "16"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bohlender"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "15"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Tobin"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "13"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rucker"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "47"
+F_OF_PO = "95"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "2"
+F_OF_PCT = ".980"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Osburn"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "48"
+F_OF_PO = "92"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".988"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McCarthy"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "98"
+F_OF_PO = "224"
+F_OF_A = "6"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".979"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mann"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "114"
+F_OF_PO = "256"
+F_OF_A = "12"
+F_OF_E = "6"
+F_OF_DP = "3"
+F_OF_PCT = ".978"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "136"
+F_OF_PO = "253"
+F_OF_A = "13"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".978"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "June"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "87"
+F_OF_PO = "145"
+F_OF_A = "8"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".975"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Morgan"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "136"
+F_OF_PO = "180"
+F_OF_A = "10"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".974"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Carpenter"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "123"
+F_OF_PO = "248"
+F_OF_A = "7"
+F_OF_E = "7"
+F_OF_DP = "2"
+F_OF_PCT = ".973"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Kirby"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "88"
+F_OF_PO = "214"
+F_OF_A = "5"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".973"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rellick"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "117"
+F_OF_PO = "200"
+F_OF_A = "14"
+F_OF_E = "6"
+F_OF_DP = "3"
+F_OF_PCT = ".973"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Essegian"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "80"
+F_OF_PO = "201"
+F_OF_A = "4"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "111"
+F_OF_PO = "205"
+F_OF_A = "18"
+F_OF_E = "7"
+F_OF_DP = "5"
+F_OF_PCT = ".970"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "101"
+F_OF_PO = "238"
+F_OF_A = "12"
+F_OF_E = "8"
+F_OF_DP = "4"
+F_OF_PCT = ".969"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Prescott"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "55"
+F_OF_PO = "120"
+F_OF_A = "5"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".969"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mattinson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "57"
+F_OF_PO = "88"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "4"
+F_OF_PCT = ".969"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Dillard"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "51"
+F_OF_PO = "86"
+F_OF_A = "3"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".967"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Alou"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "85"
+F_OF_PO = "213"
+F_OF_A = "17"
+F_OF_E = "8"
+F_OF_DP = "4"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bennetsch"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "133"
+F_OF_PO = "192"
+F_OF_A = "9"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sinton"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "97"
+F_OF_PO = "132"
+F_OF_A = "9"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Melton"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "61"
+F_OF_PO = "97"
+F_OF_A = "9"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Camacho"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "23"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".960"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Clinton"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "129"
+F_OF_PO = "209"
+F_OF_A = "15"
+F_OF_E = "10"
+F_OF_DP = "2"
+F_OF_PCT = ".957"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Moran"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "64"
+F_OF_PO = "98"
+F_OF_A = "8"
+F_OF_E = "5"
+F_OF_DP = "3"
+F_OF_PCT = ".955"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pollitt"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "63"
+F_OF_A = "1"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".955"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Green"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "20"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".952"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "91"
+F_OF_PO = "123"
+F_OF_A = "9"
+F_OF_E = "7"
+F_OF_DP = "3"
+F_OF_PCT = ".950"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Garivaltis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "40"
+F_OF_PO = "74"
+F_OF_A = "0"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".949"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "41"
+F_OF_PO = "86"
+F_OF_A = "5"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".948"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Elder"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "126"
+F_OF_PO = "254"
+F_OF_A = "9"
+F_OF_E = "15"
+F_OF_DP = "2"
+F_OF_PCT = ".946"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hutzler"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "23"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wrye"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "9"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cook"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "35"
+F_OF_A = "1"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".900"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McDonald"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "34"
+F_OF_PO = "43"
+F_OF_A = "4"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".879"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Niarhos"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "69"
+F_C_PO = "415"
+F_C_A = "44"
+F_C_E = "3"
+F_C_DP = "3"
+F_C_PB = "7"
+F_C_PCT = ".994"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Barber"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "53"
+F_C_PO = "368"
+F_C_A = "20"
+F_C_E = "3"
+F_C_DP = "6"
+F_C_PB = "4"
+F_C_PCT = ".992"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "North"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "109"
+F_C_PO = "680"
+F_C_A = "48"
+F_C_E = "7"
+F_C_DP = "15"
+F_C_PB = "5"
+F_C_PCT = ".990"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "DePopolo"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "84"
+F_C_PO = "495"
+F_C_A = "49"
+F_C_E = "6"
+F_C_DP = "8"
+F_C_PB = "14"
+F_C_PCT = ".989"
+F_C_TP = "2"
+
+
+[[person]]
+name.last = "Biskup"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "90"
+F_C_PO = "514"
+F_C_A = "47"
+F_C_E = "7"
+F_C_DP = "14"
+F_C_PB = "11"
+F_C_PCT = ".988"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Calo"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "66"
+F_C_PO = "359"
+F_C_A = "25"
+F_C_E = "5"
+F_C_DP = "7"
+F_C_PB = "3"
+F_C_PCT = ".987"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Tolleson"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "100"
+F_C_PO = "594"
+F_C_A = "63"
+F_C_E = "11"
+F_C_DP = "5"
+F_C_PB = "12"
+F_C_PCT = ".984"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Ryba"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "85"
+F_C_PO = "592"
+F_C_A = "41"
+F_C_E = "10"
+F_C_DP = "8"
+F_C_PB = "8"
+F_C_PCT = ".984"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "18"
+F_C_PO = "100"
+F_C_A = "11"
+F_C_E = "2"
+F_C_DP = "1"
+F_C_PB = "1"
+F_C_PCT = ".982"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Kozuch"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "27"
+F_C_PO = "117"
+F_C_A = "14"
+F_C_E = "3"
+F_C_DP = "7"
+F_C_PB = "3"
+F_C_PCT = ".978"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Harvey"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "110"
+F_C_PO = "654"
+F_C_A = "85"
+F_C_E = "22"
+F_C_DP = "14"
+F_C_PB = "24"
+F_C_PCT = ".971"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Windle"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "41"
+F_C_PO = "221"
+F_C_A = "19"
+F_C_E = "8"
+F_C_DP = "5"
+F_C_PB = "7"
+F_C_PCT = ".968"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Theis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "57"
+F_C_PO = "307"
+F_C_A = "36"
+F_C_E = "12"
+F_C_DP = "17"
+F_C_PB = "3"
+F_C_PCT = ".966"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Slack"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "41"
+F_P_PO = "17"
+F_P_A = "26"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Isaac"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "4"
+F_P_A = "26"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dresen"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "5"
+F_P_A = "24"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dodeward"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "4"
+F_P_A = "14"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Clarke"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "17"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gebhard"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "3"
+F_P_A = "12"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Drapcho"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "4"
+F_P_A = "11"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lastres"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "5"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bryant"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "0"
+F_P_A = "13"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hagen"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "4"
+F_P_A = "8"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kendig"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "2"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bassetti"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bolinda"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "0"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Stone"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "3"
+F_P_A = "3"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bronstad"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "18"
+F_P_A = "52"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".986"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Aitken"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "10"
+F_P_A = "36"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".979"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Andersen"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "11"
+F_P_A = "35"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".979"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Spencer"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "47"
+F_P_PO = "8"
+F_P_A = "36"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".978"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wilson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "5"
+F_P_A = "30"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".972"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lewright"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "10"
+F_P_A = "24"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gaskin"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "4"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".967"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rotblatt"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "5"
+F_P_A = "23"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".966"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dick"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "8"
+F_P_A = "45"
+F_P_E = "2"
+F_P_DP = "5"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "8"
+F_P_A = "18"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".963"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Vincent"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "4"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".963"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Matty"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "5"
+F_P_A = "18"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".958"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Erickson"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "16"
+F_P_A = "26"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wall"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "0"
+F_P_A = "21"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".955"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bowers"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "48"
+F_P_PO = "8"
+F_P_A = "12"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Singleton"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "4"
+F_P_A = "16"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wegerek"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "9"
+F_P_A = "28"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".949"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Briggs"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "44"
+F_P_PO = "5"
+F_P_A = "13"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".947"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mainini"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "62"
+F_P_PO = "6"
+F_P_A = "11"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".944"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Shipley"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "2"
+F_P_A = "30"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kolakowski"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "7"
+F_P_A = "19"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Peete"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "6"
+F_P_A = "32"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".927"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Navarro"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "45"
+F_P_PO = "6"
+F_P_A = "19"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".926"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Adubato"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "7"
+F_P_A = "18"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".926"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Grasso"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "14"
+F_P_A = "23"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".925"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Aylward"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "39"
+F_P_PO = "6"
+F_P_A = "27"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Golden"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "8"
+F_P_A = "21"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Blyzka"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Springfield"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Frederick"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "8"
+F_P_A = "18"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".897"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Albanese"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "11"
+F_P_A = "29"
+F_P_E = "5"
+F_P_DP = "3"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ross"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "3"
+F_P_A = "17"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".870"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Anderson"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Schenectady"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "5"
+F_P_A = "21"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".867"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Birkofer"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "2"
+F_P_A = "16"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Utley"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "6"
+F_P_A = "6"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mathias"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "3"
+F_P_A = "20"
+F_P_E = "4"
+F_P_DP = "2"
+F_P_PCT = ".852"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hawkins"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "5"
+F_P_A = "29"
+F_P_E = "6"
+F_P_DP = "1"
+F_P_PCT = ".850"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davolio"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "5"
+F_P_A = "21"
+F_P_E = "5"
+F_P_DP = "4"
+F_P_PCT = ".839"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Craumer"
+description.throws = "L"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "1"
+F_P_A = "11"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".800"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dietrich"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "0"
+F_P_A = "3"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".750"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Allentown"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "0"
+F_P_A = "1"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".500"
+F_P_TP = "0"

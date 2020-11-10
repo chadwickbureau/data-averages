@@ -1,0 +1,757 @@
+[[person]]
+name.last = "Patterson"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+P_IP = "235"
+P_AB = "935"
+P_H = "199"
+P_R = "79"
+P_SO = "137"
+P_BB = "26"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "21"
+P_L = "5"
+P_PCT = ".808"
+
+
+[[person]]
+name.last = "Stephenson"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Boniface"
+[person.playing.totals]
+P_IP = "258"
+P_AB = "1017"
+P_H = "203"
+P_R = "99"
+P_SO = "172"
+P_BB = "54"
+P_HP = "9"
+P_WP = "8"
+P_BK = "0"
+P_W = "19"
+P_L = "7"
+P_PCT = ".731"
+
+
+[[person]]
+name.last = "Boardman"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Boniface"
+[person.playing.totals]
+P_IP = "251"
+P_AB = "1001"
+P_H = "193"
+P_R = "80"
+P_SO = "240"
+P_BB = "81"
+P_HP = "7"
+P_WP = "6"
+P_BK = "0"
+P_W = "19"
+P_L = "9"
+P_PCT = ".679"
+
+
+[[person]]
+name.last = "Dumont"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+P_IP = "279"
+P_AB = "1040"
+P_H = "183"
+P_R = "83"
+P_SO = "227"
+P_BB = "83"
+P_HP = "14"
+P_WP = "10"
+P_BK = "0"
+P_W = "20"
+P_L = "10"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Lorenzen"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort William"
+[person.playing.totals]
+P_IP = "185"
+P_AB = "773"
+P_H = "146"
+P_R = "87"
+P_SO = "113"
+P_BB = "81"
+P_HP = "15"
+P_WP = "2"
+P_BK = "0"
+P_W = "14"
+P_L = "7"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Benton"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_IP = "215"
+P_AB = "878"
+P_H = "163"
+P_R = "84"
+P_SO = "175"
+P_BB = "63"
+P_HP = "10"
+P_WP = "8"
+P_BK = "0"
+P_W = "15"
+P_L = "8"
+P_PCT = ".652"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+P_IP = "288"
+P_AB = "1169"
+P_H = "264"
+P_R = "124"
+P_SO = "189"
+P_BB = "91"
+P_HP = "12"
+P_WP = "4"
+P_BK = "0"
+P_W = "22"
+P_L = "13"
+P_PCT = ".629"
+
+
+[[person]]
+name.last = "Penfold"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort William"
+[person.playing.totals]
+P_IP = "76"
+P_AB = "316"
+P_H = "57"
+P_R = "26"
+P_SO = "59"
+P_BB = "24"
+P_HP = "5"
+P_WP = "3"
+P_BK = "0"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Schorr"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_IP = "104"
+P_AB = "445"
+P_H = "113"
+P_R = "52"
+P_SO = "69"
+P_BB = "28"
+P_HP = "6"
+P_WP = "2"
+P_BK = "0"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Virginia"
+[person.playing.totals]
+P_IP = "279"
+P_AB = "1109"
+P_H = "251"
+P_R = "105"
+P_SO = "186"
+P_BB = "62"
+P_HP = "12"
+P_WP = "4"
+P_BK = "1"
+P_W = "19"
+P_L = "13"
+P_PCT = ".594"
+
+
+[[person]]
+name.last = "Morse"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_IP = "236"
+P_AB = "1008"
+P_H = "210"
+P_R = "110"
+P_SO = "130"
+P_BB = "81"
+P_HP = "12"
+P_WP = "2"
+P_BK = "0"
+P_W = "17"
+P_L = "12"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Culver"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_IP = "244"
+P_AB = "1022"
+P_H = "238"
+P_R = "129"
+P_SO = "159"
+P_BB = "94"
+P_HP = "11"
+P_WP = "13"
+P_BK = "0"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Huggins"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort William"
+[person.playing.totals]
+P_IP = "180"
+P_AB = "748"
+P_H = "151"
+P_R = "83"
+P_SO = "113"
+P_BB = "71"
+P_HP = "8"
+P_WP = "3"
+P_BK = "1"
+P_W = "9"
+P_L = "8"
+P_PCT = ".529"
+
+
+[[person]]
+name.last = "Sorenson"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Virginia"
+[person.playing.totals]
+P_IP = "252"
+P_AB = "1106"
+P_H = "220"
+P_R = "141"
+P_SO = "163"
+P_BB = "116"
+P_HP = "28"
+P_WP = "10"
+P_BK = "2"
+P_W = "14"
+P_L = "13"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Fait"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_IP = "312"
+P_AB = "525"
+P_H = "124"
+P_R = "68"
+P_SO = "77"
+P_BB = "55"
+P_HP = "8"
+P_WP = "9"
+P_BK = "0"
+P_W = "8"
+P_L = "8"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Rhoades"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Boniface"
+[person.playing.totals]
+P_IP = "94"
+P_AB = "390"
+P_H = "79"
+P_R = "47"
+P_SO = "43"
+P_BB = "36"
+P_HP = "3"
+P_WP = "2"
+P_BK = "1"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Gruno"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Boniface"
+[person.playing.totals]
+P_IP = "34"
+P_AB = "142"
+P_H = "33"
+P_R = "20"
+P_SO = "18"
+P_BB = "18"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Sheffield"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Boniface"
+[person.playing.totals]
+P_IP = "57"
+P_AB = "220"
+P_H = "43"
+P_R = "18"
+P_SO = "15"
+P_BB = "14"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Jackson"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_IP = "135"
+P_AB = "554"
+P_H = "128"
+P_R = "57"
+P_SO = "74"
+P_BB = "41"
+P_HP = "3"
+P_WP = "3"
+P_BK = "0"
+P_W = "8"
+P_L = "8"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Noble"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort William"
+[person.playing.totals]
+P_IP = "219"
+P_AB = "963"
+P_H = "187"
+P_R = "107"
+P_SO = "209"
+P_BB = "114"
+P_HP = "11"
+P_WP = "13"
+P_BK = "1"
+P_W = "13"
+P_L = "14"
+P_PCT = ".481"
+
+
+[[person]]
+name.last = "Gervais"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_IP = "209"
+P_AB = "841"
+P_H = "173"
+P_R = "81"
+P_SO = "156"
+P_BB = "54"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Boniface"
+[person.playing.totals]
+P_IP = "130"
+P_AB = "545"
+P_H = "134"
+P_R = "62"
+P_SO = "62"
+P_BB = "24"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+
+
+[[person]]
+name.last = "Griffin"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Boniface"
+[person.playing.totals]
+P_IP = "167"
+P_AB = "689"
+P_H = "160"
+P_R = "71"
+P_SO = "87"
+P_BB = "55"
+P_HP = "10"
+P_WP = "6"
+P_BK = "0"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Hewitt"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fort William"
+[person.playing.totals]
+P_IP = "244"
+P_AB = "1071"
+P_H = "224"
+P_R = "148"
+P_SO = "175"
+P_BB = "135"
+P_HP = "28"
+P_WP = "13"
+P_BK = "1"
+P_W = "10"
+P_L = "14"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Boley"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_IP = "212"
+P_AB = "914"
+P_H = "226"
+P_R = "128"
+P_SO = "96"
+P_BB = "57"
+P_HP = "8"
+P_WP = "2"
+P_BK = "0"
+P_W = "10"
+P_L = "15"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+P_IP = "100"
+P_AB = "436"
+P_H = "111"
+P_R = "61"
+P_SO = "49"
+P_BB = "31"
+P_HP = "4"
+P_WP = "1"
+P_BK = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Faeth"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Virginia"
+[person.playing.totals]
+P_IP = "245"
+P_AB = "1047"
+P_H = "226"
+P_R = "129"
+P_SO = "164"
+P_BB = "115"
+P_HP = "3"
+P_WP = "9"
+P_BK = "0"
+P_W = "10"
+P_L = "15"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_IP = "47"
+P_AB = "208"
+P_H = "54"
+P_R = "29"
+P_SO = "21"
+P_BB = "16"
+P_HP = "4"
+P_WP = "0"
+P_BK = "3"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Ellis"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+P_IP = "43"
+P_AB = "202"
+P_H = "66"
+P_R = "44"
+P_SO = "30"
+P_BB = "15"
+P_HP = "4"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Hawkins"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Virginia"
+[person.playing.totals]
+P_IP = "223"
+P_AB = "986"
+P_H = "260"
+P_R = "148"
+P_SO = "116"
+P_BB = "87"
+P_HP = "5"
+P_WP = "12"
+P_BK = "0"
+P_W = "10"
+P_L = "17"
+P_PCT = ".370"
+
+
+[[person]]
+name.last = "Posten"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+P_IP = "180"
+P_AB = "792"
+P_H = "170"
+P_R = "110"
+P_SO = "115"
+P_BB = "75"
+P_HP = "14"
+P_WP = "10"
+P_BK = "0"
+P_W = "7"
+P_L = "13"
+P_PCT = ".350"
+
+
+[[person]]
+name.last = "Blum"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_IP = "213"
+P_AB = "869"
+P_H = "197"
+P_R = "109"
+P_SO = "143"
+P_BB = "65"
+P_HP = "10"
+P_WP = "2"
+P_BK = "1"
+P_W = "8"
+P_L = "15"
+P_PCT = ".348"
+
+
+[[person]]
+name.last = "Shirley"
+[[person.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_IP = "151"
+P_AB = "622"
+P_H = "117"
+P_R = "71"
+P_SO = "90"
+P_BB = "73"
+P_HP = "6"
+P_WP = "6"
+P_BK = "0"
+P_W = "6"
+P_L = "12"
+P_PCT = ".333"

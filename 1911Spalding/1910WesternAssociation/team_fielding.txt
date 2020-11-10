@@ -1,0 +1,76 @@
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2886"
+F_A = "1291"
+F_E = "140"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Enid"
+[[team.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3253"
+F_A = "1467"
+F_E = "171"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Bartlesville"
+[[team.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2785"
+F_A = "1035"
+F_E = "146"
+F_PCT = ".963"
+
+
+[[team]]
+name = "El Reno"
+[[team.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2783"
+F_A = "936"
+F_E = "151"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Guthrie"
+[[team.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2996"
+F_A = "1284"
+F_E = "171"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Sapulpa"
+[[team.playing]]
+season = "1910"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2831"
+F_A = "112"
+F_E = "164"
+F_PCT = ".960"

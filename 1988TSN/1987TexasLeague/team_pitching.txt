@@ -1,0 +1,198 @@
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "2.85"
+P_G = "135"
+P_CG = "11"
+P_SHO = "15"
+P_SV = "43"
+P_IP = "1179"
+P_H = "1062"
+P_R = "462"
+P_ER = "374"
+P_HR = "53"
+P_HP = "58"
+P_BB = "470"
+P_IBB = "32"
+P_SO = "946"
+P_WP = "62"
+P_BK = "18"
+
+
+[[team]]
+name = "Arkansas"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.61"
+P_G = "135"
+P_CG = "17"
+P_SHO = "9"
+P_SV = "39"
+P_IP = "1162.1"
+P_H = "1145"
+P_R = "566"
+P_ER = "466"
+P_HR = "88"
+P_HP = "32"
+P_BB = "454"
+P_IBB = "48"
+P_SO = "877"
+P_WP = "55"
+P_BK = "10"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.83"
+P_G = "136"
+P_CG = "12"
+P_SHO = "6"
+P_SV = "38"
+P_IP = "1182"
+P_H = "1250"
+P_R = "608"
+P_ER = "503"
+P_HR = "81"
+P_HP = "46"
+P_BB = "432"
+P_IBB = "41"
+P_SO = "771"
+P_WP = "61"
+P_BK = "15"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.58"
+P_G = "134"
+P_CG = "20"
+P_SHO = "6"
+P_SV = "30"
+P_IP = "1174"
+P_H = "1251"
+P_R = "681"
+P_ER = "597"
+P_HR = "156"
+P_HP = "25"
+P_BB = "518"
+P_IBB = "33"
+P_SO = "890"
+P_WP = "70"
+P_BK = "24"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.75"
+P_G = "136"
+P_CG = "14"
+P_SHO = "7"
+P_SV = "23"
+P_IP = "1207.2"
+P_H = "1366"
+P_R = "735"
+P_ER = "638"
+P_HR = "136"
+P_HP = "33"
+P_BB = "484"
+P_IBB = "46"
+P_SO = "871"
+P_WP = "76"
+P_BK = "10"
+
+
+[[team]]
+name = "Midland"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.88"
+P_G = "136"
+P_CG = "12"
+P_SHO = "9"
+P_SV = "42"
+P_IP = "1205.1"
+P_H = "1448"
+P_R = "782"
+P_ER = "654"
+P_HR = "138"
+P_HP = "37"
+P_BB = "507"
+P_IBB = "37"
+P_SO = "861"
+P_WP = "86"
+P_BK = "9"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.90"
+P_G = "136"
+P_CG = "11"
+P_SHO = "4"
+P_SV = "34"
+P_IP = "1176"
+P_H = "1300"
+P_R = "727"
+P_ER = "640"
+P_HR = "118"
+P_HP = "46"
+P_BB = "457"
+P_IBB = "45"
+P_SO = "782"
+P_WP = "95"
+P_BK = "11"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "5.45"
+P_G = "134"
+P_CG = "11"
+P_SHO = "3"
+P_SV = "35"
+P_IP = "1185"
+P_H = "1478"
+P_R = "813"
+P_ER = "717"
+P_HR = "144"
+P_HP = "38"
+P_BB = "471"
+P_IBB = "34"
+P_SO = "821"
+P_WP = "75"
+P_BK = "13"

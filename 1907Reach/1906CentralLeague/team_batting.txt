@@ -1,0 +1,166 @@
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4911"
+B_R = "594"
+B_H = "1166"
+B_2B = "181"
+B_3B = "65"
+B_HR = "40"
+B_TB = "1597"
+B_BB = "344"
+B_SH = "202"
+B_SB = "292"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "4730"
+B_R = "537"
+B_H = "1117"
+B_2B = "165"
+B_3B = "61"
+B_HR = "18"
+B_TB = "1458"
+B_BB = "400"
+B_SH = "144"
+B_SB = "251"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4983"
+B_R = "599"
+B_H = "1186"
+B_2B = "148"
+B_3B = "91"
+B_HR = "18"
+B_TB = "1570"
+B_BB = "433"
+B_SH = "199"
+B_SB = "242"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4930"
+B_R = "518"
+B_H = "1141"
+B_2B = "172"
+B_3B = "78"
+B_HR = "23"
+B_TB = "1538"
+B_BB = "247"
+B_SH = "225"
+B_SB = "212"
+B_AVG = ".231"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4901"
+B_R = "578"
+B_H = "1129"
+B_2B = "152"
+B_3B = "61"
+B_HR = "12"
+B_TB = "1439"
+B_BB = "372"
+B_SH = "322"
+B_SB = "262"
+B_AVG = ".230"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4996"
+B_R = "534"
+B_H = "1136"
+B_2B = "132"
+B_3B = "63"
+B_HR = "17"
+B_TB = "1445"
+B_BB = "317"
+B_SH = "197"
+B_SB = "200"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4786"
+B_R = "501"
+B_H = "1063"
+B_2B = "164"
+B_3B = "59"
+B_HR = "22"
+B_TB = "1411"
+B_BB = "232"
+B_SH = "151"
+B_SB = "264"
+B_AVG = ".222"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1906"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4914"
+B_R = "418"
+B_H = "991"
+B_2B = "124"
+B_3B = "53"
+B_HR = "8"
+B_TB = "1245"
+B_BB = "406"
+B_SH = "158"
+B_SB = "225"
+B_AVG = ".202"

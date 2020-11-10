@@ -1,0 +1,82 @@
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "52"
+R_T = "1"
+R_PCT = ".567"
+R_RANK = "1"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "54"
+R_T = "0"
+R_PCT = ".550"
+R_RANK = "2"
+
+
+[[team]]
+name = "Nogales"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "59"
+R_T = "2"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Chihuahua"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "62"
+R_T = "2"
+R_PCT = ".475"
+R_RANK = "4"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "64"
+R_T = "0"
+R_PCT = ".462"
+R_RANK = "5"
+
+
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1958"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "66"
+R_T = "1"
+R_PCT = ".445"
+R_RANK = "6"

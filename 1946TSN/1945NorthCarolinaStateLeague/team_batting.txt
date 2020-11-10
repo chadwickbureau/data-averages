@@ -1,0 +1,190 @@
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "4091"
+B_R = "696"
+B_H = "1192"
+B_TB = "1568"
+B_2B = "198"
+B_3B = "62"
+B_HR = "18"
+B_SH = "61"
+B_BB = "542"
+B_HP = "37"
+B_RBI = "553"
+B_SB = "85"
+B_SO = "594"
+B_AVG = ".291"
+
+
+[[team]]
+name = "Hickory"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "4092"
+B_R = "821"
+B_H = "1152"
+B_TB = "1543"
+B_2B = "137"
+B_3B = "76"
+B_HR = "34"
+B_SH = "72"
+B_BB = "562"
+B_HP = "32"
+B_RBI = "671"
+B_SB = "121"
+B_SO = "624"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Landis"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3880"
+B_R = "689"
+B_H = "1073"
+B_TB = "1409"
+B_2B = "165"
+B_3B = "54"
+B_HR = "21"
+B_SH = "73"
+B_BB = "559"
+B_HP = "31"
+B_RBI = "577"
+B_SB = "125"
+B_SO = "612"
+B_AVG = ".277"
+
+
+[[team]]
+name = "Statesville"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3855"
+B_R = "638"
+B_H = "1025"
+B_TB = "1369"
+B_2B = "149"
+B_3B = "67"
+B_HR = "23"
+B_SH = "53"
+B_BB = "398"
+B_HP = "38"
+B_RBI = "527"
+B_SB = "110"
+B_SO = "626"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Mooresville"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "112"
+B_AB = "3671"
+B_R = "512"
+B_H = "884"
+B_TB = "1114"
+B_2B = "115"
+B_3B = "26"
+B_HR = "21"
+B_SH = "59"
+B_BB = "469"
+B_HP = "38"
+B_RBI = "387"
+B_SB = "88"
+B_SO = "637"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "115"
+B_AB = "3806"
+B_R = "568"
+B_H = "892"
+B_TB = "1188"
+B_2B = "146"
+B_3B = "39"
+B_HR = "24"
+B_SH = "53"
+B_BB = "488"
+B_HP = "29"
+B_RBI = "448"
+B_SB = "191"
+B_SO = "731"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3633"
+B_R = "510"
+B_H = "849"
+B_TB = "1149"
+B_2B = "136"
+B_3B = "49"
+B_HR = "22"
+B_SH = "38"
+B_BB = "474"
+B_HP = "41"
+B_RBI = "419"
+B_SB = "122"
+B_SO = "838"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Concord"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "114"
+B_AB = "3679"
+B_R = "526"
+B_H = "827"
+B_TB = "1059"
+B_2B = "128"
+B_3B = "34"
+B_HR = "12"
+B_SH = "52"
+B_BB = "509"
+B_HP = "57"
+B_RBI = "386"
+B_SB = "80"
+B_SO = "786"
+B_AVG = ".225"

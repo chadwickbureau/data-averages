@@ -1,0 +1,158 @@
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "114"
+B_AB = "3684"
+B_R = "426"
+B_H = "946"
+B_TB = "1237"
+B_SH = "153"
+B_SB = "102"
+B_2B = "130"
+B_3B = "52"
+B_HR = "19"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "3861"
+B_R = "562"
+B_H = "980"
+B_TB = "1294"
+B_SH = "153"
+B_SB = "225"
+B_2B = "162"
+B_3B = "52"
+B_HR = "16"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3627"
+B_R = "406"
+B_H = "851"
+B_TB = "1135"
+B_SH = "142"
+B_SB = "123"
+B_2B = "160"
+B_3B = "17"
+B_HR = "30"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3704"
+B_R = "360"
+B_H = "830"
+B_TB = "1058"
+B_SH = "145"
+B_SB = "97"
+B_2B = "115"
+B_3B = "43"
+B_HR = "9"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3711"
+B_R = "396"
+B_H = "827"
+B_TB = "984"
+B_SH = "108"
+B_SB = "259"
+B_2B = "92"
+B_3B = "22"
+B_HR = "7"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3663"
+B_R = "449"
+B_H = "898"
+B_TB = "1047"
+B_SH = "143"
+B_SB = "147"
+B_2B = "165"
+B_3B = "28"
+B_HR = "6"
+B_AVG = ".221"
+
+
+[[team]]
+name = "Fitchburg"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3579"
+B_R = "356"
+B_H = "785"
+B_TB = "991"
+B_SH = "131"
+B_SB = "107"
+B_2B = "125"
+B_3B = "36"
+B_HR = "3"
+B_AVG = ".219"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1915"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "3506"
+B_R = "383"
+B_H = "764"
+B_TB = "1001"
+B_SH = "157"
+B_SB = "148"
+B_2B = "89"
+B_3B = "56"
+B_HR = "12"
+B_AVG = ".213"

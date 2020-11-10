@@ -1,0 +1,76 @@
+[[team]]
+name = "Henderson"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3200"
+F_A = "1607"
+F_E = "248"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Paducah"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3281"
+F_A = "1492"
+F_E = "262"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Owensboro"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3211"
+F_A = "1428"
+F_E = "291"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Cairo"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3265"
+F_A = "1467"
+F_E = "304"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1457"
+F_A = "676"
+F_E = "151"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1914"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1635"
+F_A = "745"
+F_E = "194"
+F_PCT = ".925"

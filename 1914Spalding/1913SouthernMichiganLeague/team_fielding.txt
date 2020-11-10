@@ -1,0 +1,118 @@
+[[team]]
+name = "Adrian"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "61"
+F_PO = "3333"
+F_A = "1545"
+F_E = "183"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "76"
+F_PO = "3242"
+F_A = "1583"
+F_E = "226"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "78"
+F_PO = "3424"
+F_A = "1672"
+F_E = "238"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "75"
+F_PO = "3279"
+F_A = "1614"
+F_E = "237"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "54"
+F_PO = "3163"
+F_A = "1491"
+F_E = "235"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Lansing"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "74"
+F_PO = "3275"
+F_A = "1647"
+F_E = "260"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "48"
+F_PO = "3315"
+F_A = "1540"
+F_E = "275"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "86"
+F_PO = "3279"
+F_A = "1516"
+F_E = "285"
+F_PCT = ".945"

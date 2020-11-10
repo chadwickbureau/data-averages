@@ -1,0 +1,102 @@
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3400"
+F_A = "1556"
+F_E = "240"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Northampton"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3338"
+F_A = "1581"
+F_E = "315"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3336"
+F_A = "1608"
+F_E = "314"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3286"
+F_A = "1662"
+F_E = "339"
+F_PCT = ".936"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3250"
+F_A = "1549"
+F_E = "336"
+F_PCT = ".934"
+
+
+[[team]]
+name = "New Britain"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3198"
+F_A = "1545"
+F_E = "341"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3248"
+F_A = "1603"
+F_E = "356"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1909"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3362"
+F_A = "1483"
+F_E = "365"
+F_PCT = ".930"

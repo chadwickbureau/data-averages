@@ -1,0 +1,4636 @@
+[[person]]
+name.last = "Malloy"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "10"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "56"
+P_AB = "206"
+P_H = "52"
+P_R = "21"
+P_ER = "14"
+P_BB = "23"
+P_SO = "27"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "2.25"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "L."
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "11"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "49"
+P_AB = "190"
+P_H = "55"
+P_R = "20"
+P_ER = "13"
+P_BB = "15"
+P_SO = "17"
+P_HP = "0"
+P_WP = "1"
+P_ERA = "2.39"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Lopat"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "32"
+P_W = "19"
+P_L = "10"
+P_PCT = ".655"
+P_IP = "245"
+P_AB = "939"
+P_H = "258"
+P_R = "103"
+P_ER = "83"
+P_BB = "62"
+P_SO = "96"
+P_HP = "5"
+P_WP = "8"
+P_ERA = "3.05"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "35"
+P_W = "11"
+P_L = "13"
+P_PCT = ".458"
+P_IP = "198"
+P_AB = "746"
+P_H = "198"
+P_R = "84"
+P_ER = "67"
+P_BB = "71"
+P_SO = "56"
+P_HP = "2"
+P_WP = "5"
+P_ERA = "3.05"
+P_BK = "1"
+P_T = "1"
+
+
+[[person]]
+name.last = "Baker"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "27"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "162"
+P_AB = "652"
+P_H = "191"
+P_R = "79"
+P_ER = "55"
+P_BB = "50"
+P_SO = "39"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "3.06"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "12"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "82"
+P_AB = "328"
+P_H = "91"
+P_R = "37"
+P_ER = "28"
+P_BB = "21"
+P_SO = "30"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "3.07"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Ayers"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "28"
+P_W = "15"
+P_L = "8"
+P_PCT = ".652"
+P_IP = "174"
+P_AB = "666"
+P_H = "166"
+P_R = "73"
+P_ER = "60"
+P_BB = "67"
+P_SO = "79"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "3.10"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "West"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "35"
+P_W = "8"
+P_L = "16"
+P_PCT = ".333"
+P_IP = "197"
+P_AB = "761"
+P_H = "197"
+P_R = "91"
+P_ER = "69"
+P_BB = "67"
+P_SO = "134"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "3.15"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Danna"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "40"
+P_W = "22"
+P_L = "7"
+P_PCT = ".759"
+P_IP = "228"
+P_AB = "912"
+P_H = "243"
+P_R = "104"
+P_ER = "80"
+P_BB = "86"
+P_SO = "43"
+P_HP = "0"
+P_WP = "4"
+P_ERA = "3.16"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+P_G = "4"
+[[person.playing.split]]
+team.name = "New Orleans"
+P_G = "41"
+[person.playing.totals]
+P_G = "45"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+P_IP = "171"
+P_AB = "655"
+P_H = "155"
+P_R = "74"
+P_ER = "61"
+P_BB = "84"
+P_SO = "66"
+P_HP = "6"
+P_WP = "4"
+P_ERA = "3.21"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "33"
+P_W = "16"
+P_L = "12"
+P_PCT = ".571"
+P_IP = "201"
+P_AB = "767"
+P_H = "185"
+P_R = "89"
+P_ER = "72"
+P_BB = "92"
+P_SO = "125"
+P_HP = "4"
+P_WP = "4"
+P_ERA = "3.22"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Veverka"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "26"
+P_W = "12"
+P_L = "9"
+P_PCT = ".571"
+P_IP = "162"
+P_AB = "647"
+P_H = "174"
+P_R = "76"
+P_ER = "58"
+P_BB = "34"
+P_SO = "51"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "3.22"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Papish"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "34"
+P_W = "13"
+P_L = "8"
+P_PCT = ".619"
+P_IP = "209"
+P_AB = "801"
+P_H = "202"
+P_R = "94"
+P_ER = "79"
+P_BB = "89"
+P_SO = "80"
+P_HP = "4"
+P_WP = "6"
+P_ERA = "3.40"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Alderson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "42"
+P_W = "13"
+P_L = "7"
+P_PCT = ".650"
+P_IP = "177"
+P_AB = "676"
+P_H = "172"
+P_R = "82"
+P_ER = "69"
+P_BB = "63"
+P_SO = "92"
+P_HP = "3"
+P_WP = "7"
+P_ERA = "3.41"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Pate"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "14"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+P_IP = "66"
+P_AB = "240"
+P_H = "62"
+P_R = "27"
+P_ER = "25"
+P_BB = "27"
+P_SO = "27"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "3.41"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Drefs"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "22"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "126"
+P_AB = "503"
+P_H = "139"
+P_R = "65"
+P_ER = "48"
+P_BB = "32"
+P_SO = "63"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "3.43"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Bartholomew"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "30"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "78"
+P_AB = "282"
+P_H = "67"
+P_R = "40"
+P_ER = "30"
+P_BB = "41"
+P_SO = "31"
+P_HP = "5"
+P_WP = "9"
+P_ERA = "3.46"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Stewart"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "33"
+P_W = "18"
+P_L = "5"
+P_PCT = ".783"
+P_IP = "228"
+P_AB = "919"
+P_H = "273"
+P_R = "109"
+P_ER = "88"
+P_BB = "87"
+P_SO = "81"
+P_HP = "2"
+P_WP = "4"
+P_ERA = "3.47"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Lapihuska"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "10"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "60"
+P_AB = "235"
+P_H = "68"
+P_R = "33"
+P_ER = "24"
+P_BB = "25"
+P_SO = "34"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "3.60"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Torres"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "37"
+P_W = "19"
+P_L = "11"
+P_PCT = ".633"
+P_IP = "239"
+P_AB = "941"
+P_H = "270"
+P_R = "123"
+P_ER = "96"
+P_BB = "71"
+P_SO = "77"
+P_HP = "3"
+P_WP = "6"
+P_ERA = "3.62"
+P_BK = "1"
+P_T = "1"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "28"
+P_W = "10"
+P_L = "6"
+P_PCT = ".625"
+P_IP = "150"
+P_AB = "537"
+P_H = "123"
+P_R = "80"
+P_ER = "61"
+P_BB = "96"
+P_SO = "59"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "3.66"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Hudlin"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "13"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "97"
+P_AB = "391"
+P_H = "122"
+P_R = "47"
+P_ER = "43"
+P_BB = "16"
+P_SO = "38"
+P_HP = "1"
+P_WP = "1"
+P_ERA = "3.99"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Stone"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "17"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "92"
+P_AB = "377"
+P_H = "109"
+P_R = "46"
+P_ER = "41"
+P_BB = "27"
+P_SO = "45"
+P_HP = "4"
+P_WP = "1"
+P_ERA = "4.01"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "26"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "100"
+P_AB = "393"
+P_H = "115"
+P_R = "58"
+P_ER = "45"
+P_BB = "46"
+P_SO = "36"
+P_HP = "0"
+P_WP = "2"
+P_ERA = "4.05"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Sanner"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "30"
+P_W = "10"
+P_L = "14"
+P_PCT = ".417"
+P_IP = "162"
+P_AB = "640"
+P_H = "185"
+P_R = "94"
+P_ER = "73"
+P_BB = "81"
+P_SO = "62"
+P_HP = "6"
+P_WP = "5"
+P_ERA = "4.06"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Vosheski"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "21"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "51"
+P_AB = "185"
+P_H = "44"
+P_R = "28"
+P_ER = "23"
+P_BB = "28"
+P_SO = "15"
+P_HP = "1"
+P_WP = "7"
+P_ERA = "4.06"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Mooty"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "14"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "104"
+P_AB = "437"
+P_H = "138"
+P_R = "59"
+P_ER = "47"
+P_BB = "29"
+P_SO = "64"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "4.07"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Gardner"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "35"
+P_W = "16"
+P_L = "9"
+P_PCT = ".640"
+P_IP = "215"
+P_AB = "869"
+P_H = "247"
+P_R = "108"
+P_ER = "98"
+P_BB = "74"
+P_SO = "96"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "4.10"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Signer"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "32"
+P_W = "16"
+P_L = "7"
+P_PCT = ".696"
+P_IP = "187"
+P_AB = "771"
+P_H = "238"
+P_R = "96"
+P_ER = "86"
+P_BB = "52"
+P_SO = "68"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "4.14"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Schuessler"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "14"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "71"
+P_AB = "274"
+P_H = "84"
+P_R = "39"
+P_ER = "33"
+P_BB = "20"
+P_SO = "23"
+P_HP = "1"
+P_WP = "3"
+P_ERA = "4.18"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Todd"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "33"
+P_W = "7"
+P_L = "12"
+P_PCT = ".368"
+P_IP = "146"
+P_AB = "606"
+P_H = "203"
+P_R = "88"
+P_ER = "68"
+P_BB = "39"
+P_SO = "36"
+P_HP = "0"
+P_WP = "3"
+P_ERA = "4.19"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Rambert"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "20"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "129"
+P_AB = "524"
+P_H = "155"
+P_R = "82"
+P_ER = "60"
+P_BB = "37"
+P_SO = "51"
+P_HP = "6"
+P_WP = "4"
+P_ERA = "4.19"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Kerksieck"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "19"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "107"
+P_AB = "425"
+P_H = "114"
+P_R = "58"
+P_ER = "50"
+P_BB = "35"
+P_SO = "47"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "4.21"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Greer"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "30"
+P_W = "12"
+P_L = "13"
+P_PCT = ".480"
+P_IP = "179"
+P_AB = "698"
+P_H = "208"
+P_R = "102"
+P_ER = "84"
+P_BB = "39"
+P_SO = "49"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "4.22"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "37"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "204"
+P_AB = "802"
+P_H = "208"
+P_R = "118"
+P_ER = "97"
+P_BB = "126"
+P_SO = "107"
+P_HP = "5"
+P_WP = "7"
+P_ERA = "4.28"
+P_BK = "0"
+P_T = "2"
+
+
+[[person]]
+name.last = "Horn"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "33"
+P_W = "10"
+P_L = "10"
+P_PCT = ".500"
+P_IP = "180"
+P_AB = "707"
+P_H = "192"
+P_R = "103"
+P_ER = "87"
+P_BB = "80"
+P_SO = "59"
+P_HP = "3"
+P_WP = "8"
+P_ERA = "4.35"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Cathey"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "22"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "144"
+P_AB = "570"
+P_H = "158"
+P_R = "86"
+P_ER = "71"
+P_BB = "68"
+P_SO = "67"
+P_HP = "3"
+P_WP = "4"
+P_ERA = "4.44"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "28"
+P_W = "12"
+P_L = "9"
+P_PCT = ".571"
+P_IP = "175"
+P_AB = "723"
+P_H = "213"
+P_R = "101"
+P_ER = "88"
+P_BB = "48"
+P_SO = "48"
+P_HP = "2"
+P_WP = "5"
+P_ERA = "4.53"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Surratt"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "22"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "113"
+P_AB = "454"
+P_H = "136"
+P_R = "77"
+P_ER = "57"
+P_BB = "62"
+P_SO = "27"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "4.54"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "32"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "151"
+P_AB = "612"
+P_H = "175"
+P_R = "93"
+P_ER = "77"
+P_BB = "39"
+P_SO = "41"
+P_HP = "2"
+P_WP = "3"
+P_ERA = "4.59"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "25"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "115"
+P_AB = "454"
+P_H = "133"
+P_R = "66"
+P_ER = "59"
+P_BB = "60"
+P_SO = "20"
+P_HP = "3"
+P_WP = "3"
+P_ERA = "4.62"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "26"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "96"
+P_AB = "372"
+P_H = "94"
+P_R = "63"
+P_ER = "50"
+P_BB = "61"
+P_SO = "34"
+P_HP = "4"
+P_WP = "5"
+P_ERA = "4.69"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Cozart"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "30"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "151"
+P_AB = "624"
+P_H = "185"
+P_R = "102"
+P_ER = "79"
+P_BB = "53"
+P_SO = "43"
+P_HP = "5"
+P_WP = "4"
+P_ERA = "4.71"
+P_BK = "2"
+P_T = "1"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+P_G = "4"
+[[person.playing.split]]
+team.name = "Montgomery"
+P_G = "27"
+[person.playing.totals]
+P_G = "31"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "116"
+P_AB = "480"
+P_H = "154"
+P_R = "80"
+P_ER = "61"
+P_BB = "29"
+P_SO = "33"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "4.73"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Moran"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "35"
+P_W = "10"
+P_L = "12"
+P_PCT = ".455"
+P_IP = "195"
+P_AB = "799"
+P_H = "244"
+P_R = "123"
+P_ER = "103"
+P_BB = "65"
+P_SO = "62"
+P_HP = "5"
+P_WP = "2"
+P_ERA = "4.75"
+P_BK = "4"
+P_T = "0"
+
+
+[[person]]
+name.last = "Gassaway"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "11"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "51"
+P_AB = "207"
+P_H = "65"
+P_R = "33"
+P_ER = "27"
+P_BB = "27"
+P_SO = "24"
+P_HP = "1"
+P_WP = "4"
+P_ERA = "4.76"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Fox"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "42"
+P_W = "14"
+P_L = "17"
+P_PCT = ".452"
+P_IP = "205"
+P_AB = "809"
+P_H = "238"
+P_R = "133"
+P_ER = "110"
+P_BB = "94"
+P_SO = "75"
+P_HP = "5"
+P_WP = "4"
+P_ERA = "4.83"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "W."
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "35"
+P_W = "5"
+P_L = "13"
+P_PCT = ".278"
+P_IP = "148"
+P_AB = "572"
+P_H = "156"
+P_R = "93"
+P_ER = "80"
+P_BB = "62"
+P_SO = "92"
+P_HP = "4"
+P_WP = "4"
+P_ERA = "4.86"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Coffman"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "33"
+P_W = "11"
+P_L = "15"
+P_PCT = ".423"
+P_IP = "192"
+P_AB = "844"
+P_H = "285"
+P_R = "137"
+P_ER = "104"
+P_BB = "25"
+P_SO = "42"
+P_HP = "1"
+P_WP = "2"
+P_ERA = "4.87"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Cronic"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "18"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "75"
+P_AB = "296"
+P_H = "79"
+P_R = "47"
+P_ER = "41"
+P_BB = "41"
+P_SO = "28"
+P_HP = "4"
+P_WP = "0"
+P_ERA = "4.92"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "McClure"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "13"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "76"
+P_AB = "321"
+P_H = "95"
+P_R = "55"
+P_ER = "43"
+P_BB = "13"
+P_SO = "36"
+P_HP = "2"
+P_WP = "0"
+P_ERA = "5.09"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Adkins"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "11"
+P_W = "1"
+P_L = "9"
+P_PCT = ".100"
+P_IP = "69"
+P_AB = "266"
+P_H = "72"
+P_R = "44"
+P_ER = "39"
+P_BB = "35"
+P_SO = "39"
+P_HP = "2"
+P_WP = "9"
+P_ERA = "5.09"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Kelley"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "28"
+P_W = "6"
+P_L = "1"
+P_PCT = ".353"
+P_IP = "137"
+P_AB = "560"
+P_H = "179"
+P_R = "97"
+P_ER = "78"
+P_BB = "52"
+P_SO = "50"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "5.12"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Carpenter"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "8"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "53"
+P_AB = "208"
+P_H = "55"
+P_R = "38"
+P_ER = "31"
+P_BB = "18"
+P_SO = "18"
+P_HP = "4"
+P_WP = "1"
+P_ERA = "5.26"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Sahlin"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "13"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "55"
+P_AB = "207"
+P_H = "56"
+P_R = "40"
+P_ER = "33"
+P_BB = "46"
+P_SO = "20"
+P_HP = "4"
+P_WP = "3"
+P_ERA = "5.40"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Winfield"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "42"
+P_W = "3"
+P_L = "7"
+P_PCT = ".300"
+P_IP = "79"
+P_AB = "325"
+P_H = "106"
+P_R = "59"
+P_ER = "48"
+P_BB = "40"
+P_SO = "27"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "5.47"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "O'Neil"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "28"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "67"
+P_AB = "262"
+P_H = "74"
+P_R = "53"
+P_ER = "42"
+P_BB = "56"
+P_SO = "12"
+P_HP = "3"
+P_WP = "2"
+P_ERA = "5.64"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Warchol"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "36"
+P_W = "9"
+P_L = "17"
+P_PCT = ".346"
+P_IP = "204"
+P_AB = "862"
+P_H = "270"
+P_R = "159"
+P_ER = "128"
+P_BB = "88"
+P_SO = "37"
+P_HP = "11"
+P_WP = "5"
+P_ERA = "5.65"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Lindsey"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+P_G = "19"
+[[person.playing.split]]
+team.name = "Knoxville"
+P_G = "9"
+[person.playing.totals]
+P_G = "28"
+P_W = "8"
+P_L = "12"
+P_PCT = ".400"
+P_IP = "145"
+P_AB = "608"
+P_H = "191"
+P_R = "100"
+P_ER = "92"
+P_BB = "54"
+P_SO = "54"
+P_HP = "1"
+P_WP = "6"
+P_ERA = "5.71"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Hawley"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "15"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "61"
+P_AB = "245"
+P_H = "77"
+P_R = "50"
+P_ER = "41"
+P_BB = "43"
+P_SO = "21"
+P_HP = "0"
+P_WP = "5"
+P_ERA = "6.05"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Mosley"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "13"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "46"
+P_AB = "190"
+P_H = "53"
+P_R = "34"
+P_ER = "31"
+P_BB = "18"
+P_SO = "8"
+P_HP = "4"
+P_WP = "0"
+P_ERA = "6.07"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Orphal"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "13"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "62"
+P_AB = "239"
+P_H = "66"
+P_R = "49"
+P_ER = "42"
+P_BB = "63"
+P_SO = "35"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "6.10"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Ogden"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "35"
+P_W = "1"
+P_L = "6"
+P_PCT = ".143"
+P_IP = "95"
+P_AB = "415"
+P_H = "137"
+P_R = "88"
+P_ER = "68"
+P_BB = "53"
+P_SO = "23"
+P_HP = "5"
+P_WP = "3"
+P_ERA = "6.44"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Perrin"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+P_G = "17"
+[[person.playing.split]]
+team.name = "Atlanta"
+P_G = "8"
+[person.playing.totals]
+P_G = "25"
+P_W = "4"
+P_L = "9"
+P_PCT = ".308"
+P_IP = "105"
+P_AB = "435"
+P_H = "145"
+P_R = "85"
+P_ER = "76"
+P_BB = "54"
+P_SO = "40"
+P_HP = "5"
+P_WP = "7"
+P_ERA = "6.51"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Wells"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "18"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "65"
+P_AB = "262"
+P_H = "89"
+P_R = "50"
+P_ER = "47"
+P_BB = "51"
+P_SO = "22"
+P_HP = "3"
+P_WP = "11"
+P_ERA = "6.51"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Cortes"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "25"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "100"
+P_AB = "414"
+P_H = "131"
+P_R = "86"
+P_ER = "75"
+P_BB = "87"
+P_SO = "45"
+P_HP = "5"
+P_WP = "9"
+P_ERA = "6.75"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Garner"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "15"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "65"
+P_AB = "260"
+P_H = "78"
+P_R = "60"
+P_ER = "49"
+P_BB = "56"
+P_SO = "18"
+P_HP = "5"
+P_WP = "0"
+P_ERA = "6.78"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "McCall"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "20"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "63"
+P_AB = "260"
+P_H = "81"
+P_R = "70"
+P_ER = "63"
+P_BB = "62"
+P_SO = "50"
+P_HP = "5"
+P_WP = "3"
+P_ERA = "9.00"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Webb"
+name.given = "William"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "15"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "32"
+P_H = "33"
+P_R = "12"
+P_ER = "7"
+P_BB = "10"
+P_SO = "9"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Lively"
+name.given = "Everett"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "3"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "26"
+P_H = "27"
+P_R = "9"
+P_ER = "9"
+P_BB = "4"
+P_SO = "15"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Washburn"
+name.given = "George"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "14"
+P_H = "13"
+P_R = "5"
+P_ER = "5"
+P_BB = "11"
+P_SO = "7"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Fausett"
+name.given = "Robert"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "16"
+P_H = "17"
+P_R = "10"
+P_ER = "5"
+P_BB = "9"
+P_SO = "4"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Garrett"
+name.given = "Glen"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "4"
+P_H = "8"
+P_R = "7"
+P_ER = "5"
+P_BB = "3"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Matthewson"
+name.given = "Dale"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "7"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "43"
+P_H = "38"
+P_R = "17"
+P_ER = "16"
+P_BB = "19"
+P_SO = "26"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Parks"
+name.given = "Woodford"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "7"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "32"
+P_H = "37"
+P_R = "20"
+P_ER = "19"
+P_BB = "3"
+P_SO = "8"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Collins"
+name.given = "Wayne"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "8"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "43"
+P_H = "48"
+P_R = "27"
+P_ER = "22"
+P_BB = "29"
+P_SO = "9"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Bush (Wojciechowski)"
+name.given = "Stanley"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Memphis"
+P_G = "4"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "29"
+P_H = "35"
+P_R = "26"
+P_ER = "12"
+P_BB = "16"
+P_SO = "12"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Eaves"
+name.given = "Vallie"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "20"
+P_H = "16"
+P_R = "3"
+P_ER = "3"
+P_BB = "10"
+P_SO = "16"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Thomason"
+name.given = "William"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "16"
+P_H = "18"
+P_R = "10"
+P_ER = "8"
+P_BB = "8"
+P_SO = "3"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Cain"
+name.given = "Merritt P."
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "11"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "43"
+P_H = "50"
+P_R = "38"
+P_ER = "24"
+P_BB = "22"
+P_SO = "10"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Doyle"
+name.given = "Carl"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "17"
+P_H = "31"
+P_R = "24"
+P_ER = "21"
+P_BB = "11"
+P_SO = "0"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_T = "1"
+
+
+[[person]]
+name.last = "Duncan"
+name.given = "John"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "19"
+P_H = "38"
+P_R = "25"
+P_ER = "23"
+P_BB = "5"
+P_SO = "2"
+P_HP = "0"
+P_WP = "0"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Stromme"
+name.given = "Floyd"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "15"
+P_R = "13"
+P_ER = "11"
+P_BB = "4"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Mauney"
+name.given = "Richard"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "16"
+P_H = "20"
+P_R = "6"
+P_ER = "4"
+P_BB = "2"
+P_SO = "8"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Barbary"
+name.given = "D. Odell"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "20"
+P_R = "7"
+P_ER = "7"
+P_BB = "2"
+P_SO = "2"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Spragins"
+name.given = "Homer"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "16"
+P_R = "13"
+P_ER = "8"
+P_BB = "2"
+P_SO = "6"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Thorn"
+name.given = "Doss Eugene"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "9"
+P_H = "11"
+P_R = "11"
+P_ER = "11"
+P_BB = "9"
+P_SO = "2"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Cronin"
+name.given = "Michael F."
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "8"
+P_H = "12"
+P_R = "5"
+P_ER = "5"
+P_BB = "4"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Thaxton"
+name.given = "Ned W."
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "6"
+P_H = "11"
+P_R = "7"
+P_ER = "7"
+P_BB = "5"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Bunnell"
+name.given = "John E."
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "6"
+P_H = "16"
+P_R = "12"
+P_ER = "12"
+P_BB = "3"
+P_SO = "3"
+P_HP = "0"
+P_WP = "1"
+P_BK = "1"
+P_T = "0"
+
+
+[[person]]
+name.last = "Mote"
+name.given = "Eugene"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "3"
+P_H = "6"
+P_R = "7"
+P_ER = "5"
+P_BB = "3"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Chitwood"
+name.given = "Edgar"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "0"
+P_IP = "20"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Henry"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_IP = "16"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Schultze"
+name.given = "Waldemar"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_IP = "12"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Coker"
+name.given = "D. J."
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_IP = "11"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Hughes"
+name.given = "Harry"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_IP = "9"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "White"
+name.given = "Bruce"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "9"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Usher"
+name.given = "Robert R."
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_IP = "8"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Lyle"
+name.given = "Robert"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "5"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Modica"
+name.given = "Peter"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "4"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Mills"
+name.given = "August"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "4"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Padgett"
+name.given = "Elbert"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "3"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Monteagudo"
+name.given = "Rene"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_IP = "3"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Etheridge"
+name.given = "George"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "2"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Finley"
+name.given = "Robert"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "2"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Platt"
+name.given = "Mizell"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Travis"
+name.given = "John"
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Langley"
+name.given = "J. D."
+description.throws = "L"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Luster"
+name.given = "Roy"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+P_T = "0"
+
+
+[[person]]
+name.last = "Torres"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "26"
+P_TO = "3"
+P_GF = "9"
+P_TO_REL = "2"
+P_CG = "23"
+
+
+[[person]]
+name.last = "Lopat"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "3"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "2"
+P_GS = "28"
+P_TO = "6"
+P_GF = "4"
+P_TO_REL = "0"
+P_CG = "22"
+
+
+[[person]]
+name.last = "Stewart"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "28"
+P_TO = "9"
+P_GF = "4"
+P_TO_REL = "1"
+P_CG = "19"
+
+
+[[person]]
+name.last = "Moran"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "2"
+P_GS = "23"
+P_TO = "6"
+P_GF = "10"
+P_TO_REL = "2"
+P_CG = "17"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "3"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "1"
+P_G_3H = "1"
+P_G_4H = "1"
+P_GS = "24"
+P_TO = "7"
+P_GF = "7"
+P_TO_REL = "2"
+P_CG = "17"
+
+
+[[person]]
+name.last = "Danna"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "3"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "2"
+P_G_4H = "0"
+P_GS = "30"
+P_TO = "13"
+P_GF = "9"
+P_TO_REL = "1"
+P_CG = "17"
+
+
+[[person]]
+name.last = "Papish"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "2"
+P_G_3H = "1"
+P_G_4H = "2"
+P_GS = "24"
+P_TO = "8"
+P_GF = "6"
+P_TO_REL = "4"
+P_CG = "16"
+
+
+[[person]]
+name.last = "Veverka"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "4"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "2"
+P_G_4H = "2"
+P_GS = "21"
+P_TO = "6"
+P_GF = "3"
+P_TO_REL = "2"
+P_CG = "15"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "24"
+P_TO = "9"
+P_GF = "2"
+P_TO_REL = "2"
+P_CG = "15"
+
+
+[[person]]
+name.last = "Ayers"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "1"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "18"
+P_TO = "4"
+P_GF = "9"
+P_TO_REL = "1"
+P_CG = "14"
+
+
+[[person]]
+name.last = "Cathey"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "20"
+P_TO = "6"
+P_GF = "1"
+P_TO_REL = "1"
+P_CG = "14"
+
+
+[[person]]
+name.last = "Greer"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "3"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "1"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "23"
+P_TO = "9"
+P_GF = "7"
+P_TO_REL = "0"
+P_CG = "14"
+
+
+[[person]]
+name.last = "Signer"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "24"
+P_TO = "10"
+P_GF = "4"
+P_TO_REL = "4"
+P_CG = "14"
+
+
+[[person]]
+name.last = "Gardner"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "1"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "26"
+P_TO = "12"
+P_GF = "8"
+P_TO_REL = "1"
+P_CG = "14"
+
+
+[[person]]
+name.last = "Rambert"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "16"
+P_TO = "4"
+P_GF = "4"
+P_TO_REL = "0"
+P_CG = "12"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "2"
+P_GS = "20"
+P_TO = "8"
+P_GF = "11"
+P_TO_REL = "4"
+P_CG = "12"
+
+
+[[person]]
+name.last = "West"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "29"
+P_TO = "17"
+P_GF = "4"
+P_TO_REL = "2"
+P_CG = "12"
+
+
+[[person]]
+name.last = "Coffman"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "29"
+P_TO = "17"
+P_GF = "2"
+P_TO_REL = "2"
+P_CG = "12"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "22"
+P_TO = "11"
+P_GF = "3"
+P_TO_REL = "2"
+P_CG = "11"
+
+
+[[person]]
+name.last = "Fox"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "4"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "2"
+P_G_4H = "0"
+P_GS = "23"
+P_TO = "12"
+P_GF = "16"
+P_TO_REL = "3"
+P_CG = "11"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "1"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "29"
+P_TO = "18"
+P_GF = "8"
+P_TO_REL = "0"
+P_CG = "11"
+
+
+[[person]]
+name.last = "Mooty"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "14"
+P_TO = "4"
+P_GF = "0"
+P_TO_REL = "0"
+P_CG = "10"
+
+
+[[person]]
+name.last = "Lindsey"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "2"
+P_GS = "17"
+P_TO = "7"
+P_GF = "11"
+P_TO_REL = "0"
+P_CG = "10"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "3"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "2"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "19"
+P_TO = "9"
+P_GF = "8"
+P_TO_REL = "5"
+P_CG = "10"
+
+
+[[person]]
+name.last = "Cozart"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "21"
+P_TO = "11"
+P_GF = "3"
+P_TO_REL = "6"
+P_CG = "10"
+
+
+[[person]]
+name.last = "Warchol"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "3"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "30"
+P_TO = "20"
+P_GF = "6"
+P_TO_REL = "0"
+P_CG = "10"
+
+
+[[person]]
+name.last = "Kerksieck"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "1"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "1"
+P_GS = "13"
+P_TO = "4"
+P_GF = "5"
+P_TO_REL = "1"
+P_CG = "9"
+
+
+[[person]]
+name.last = "Kelley"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "16"
+P_TO = "7"
+P_GF = "11"
+P_TO_REL = "1"
+P_CG = "9"
+
+
+[[person]]
+name.last = "Alderson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "2"
+P_SHO = "3"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "2"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "18"
+P_TO = "9"
+P_GF = "21"
+P_TO_REL = "3"
+P_CG = "9"
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "11"
+P_TO = "3"
+P_GF = "1"
+P_TO_REL = "0"
+P_CG = "8"
+
+
+[[person]]
+name.last = "Todd"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "17"
+P_TO = "9"
+P_GF = "11"
+P_TO_REL = "5"
+P_CG = "8"
+
+
+[[person]]
+name.last = "Sanner"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "25"
+P_TO = "17"
+P_GF = "5"
+P_TO_REL = "0"
+P_CG = "8"
+
+
+[[person]]
+name.last = "Horn"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "25"
+P_TO = "17"
+P_GF = "6"
+P_TO_REL = "2"
+P_CG = "8"
+
+
+[[person]]
+name.last = "Lapihuska"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "8"
+P_TO = "1"
+P_GF = "2"
+P_TO_REL = "0"
+P_CG = "7"
+
+
+[[person]]
+name.last = "McClure"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "10"
+P_TO = "3"
+P_GF = "2"
+P_TO_REL = "1"
+P_CG = "7"
+
+
+[[person]]
+name.last = "Drefs"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "1"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "17"
+P_TO = "10"
+P_GF = "3"
+P_TO_REL = "2"
+P_CG = "7"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "7"
+P_TO = "1"
+P_GF = "14"
+P_TO_REL = "10"
+P_CG = "6"
+
+
+[[person]]
+name.last = "Carpenter"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "8"
+P_TO = "2"
+P_GF = "0"
+P_TO_REL = "0"
+P_CG = "6"
+
+
+[[person]]
+name.last = "Pate"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "1"
+P_G_2H = "1"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "8"
+P_TO = "2"
+P_GF = "4"
+P_TO_REL = "2"
+P_CG = "6"
+
+
+[[person]]
+name.last = "Adkins"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "9"
+P_TO = "3"
+P_GF = "1"
+P_TO_REL = "1"
+P_CG = "6"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "1"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "11"
+P_TO = "5"
+P_GF = "8"
+P_TO_REL = "6"
+P_CG = "6"
+
+
+[[person]]
+name.last = "Hudlin"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "12"
+P_TO = "6"
+P_GF = "1"
+P_TO_REL = "0"
+P_CG = "6"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "3"
+P_G_0H = "1"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "1"
+P_GS = "24"
+P_TO = "18"
+P_GF = "3"
+P_TO_REL = "1"
+P_CG = "6"
+
+
+[[person]]
+name.last = "Malloy"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "1"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "7"
+P_TO = "2"
+P_GF = "3"
+P_TO_REL = "0"
+P_CG = "5"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "W."
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "12"
+P_TO = "7"
+P_GF = "16"
+P_TO_REL = "7"
+P_CG = "5"
+
+
+[[person]]
+name.last = "Perrin"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "13"
+P_TO = "8"
+P_GF = "4"
+P_TO_REL = "8"
+P_CG = "5"
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "1"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "2"
+P_GS = "14"
+P_TO = "9"
+P_GF = "9"
+P_TO_REL = "3"
+P_CG = "5"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "2"
+P_G_0H = "0"
+P_G_1H = "1"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "2"
+P_GS = "14"
+P_TO = "9"
+P_GF = "14"
+P_TO_REL = "17"
+P_CG = "5"
+
+
+[[person]]
+name.last = "Surratt"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "1"
+P_GS = "18"
+P_TO = "13"
+P_GF = "2"
+P_TO_REL = "2"
+P_CG = "5"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "L."
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "1"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "7"
+P_TO = "3"
+P_GF = "4"
+P_TO_REL = "0"
+P_CG = "4"
+
+
+[[person]]
+name.last = "Hawley"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "8"
+P_TO = "4"
+P_GF = "5"
+P_TO_REL = "2"
+P_CG = "4"
+
+
+[[person]]
+name.last = "Garner"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "2"
+P_G_4H = "0"
+P_GS = "10"
+P_TO = "6"
+P_GF = "3"
+P_TO_REL = "2"
+P_CG = "4"
+
+
+[[person]]
+name.last = "Stone"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "12"
+P_TO = "8"
+P_GF = "2"
+P_TO_REL = "3"
+P_CG = "4"
+
+
+[[person]]
+name.last = "Parks"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "4"
+P_TO = "1"
+P_GF = "2"
+P_TO_REL = "1"
+P_CG = "3"
+
+
+[[person]]
+name.last = "Matthewson"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "1"
+P_GS = "5"
+P_TO = "2"
+P_GF = "2"
+P_TO_REL = "0"
+P_CG = "3"
+
+
+[[person]]
+name.last = "Cain"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "6"
+P_TO = "3"
+P_GF = "4"
+P_TO_REL = "1"
+P_CG = "3"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "7"
+P_TO = "4"
+P_GF = "1"
+P_TO_REL = "0"
+P_CG = "3"
+
+
+[[person]]
+name.last = "Gassaway"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "7"
+P_TO = "4"
+P_GF = "1"
+P_TO_REL = "3"
+P_CG = "3"
+
+
+[[person]]
+name.last = "Orphal"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "11"
+P_TO = "8"
+P_GF = "0"
+P_TO_REL = "2"
+P_CG = "3"
+
+
+[[person]]
+name.last = "Vosheski"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "3"
+P_TO = "1"
+P_GF = "14"
+P_TO_REL = "4"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Eaves"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "1"
+P_G_4H = "0"
+P_GS = "3"
+P_TO = "1"
+P_GF = "0"
+P_TO_REL = "0"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Lively"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "3"
+P_TO = "1"
+P_GF = "0"
+P_TO_REL = "0"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Murray"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "4"
+P_TO = "2"
+P_GF = "14"
+P_TO_REL = "8"
+P_CG = "2"
+
+
+[[person]]
+name.last = "McCall"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "5"
+P_TO = "3"
+P_GF = "7"
+P_TO_REL = "8"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Sahlin"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "7"
+P_TO = "5"
+P_GF = "2"
+P_TO_REL = "4"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Mosley"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "7"
+P_TO = "5"
+P_GF = "4"
+P_TO_REL = "2"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Schuessler"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "9"
+P_TO = "7"
+P_GF = "4"
+P_TO_REL = "1"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Cortes"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "15"
+P_TO = "13"
+P_GF = "4"
+P_TO_REL = "6"
+P_CG = "2"
+
+
+[[person]]
+name.last = "Washburn"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "1"
+P_TO = "0"
+P_GF = "1"
+P_TO_REL = "3"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Mauney"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "1"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "1"
+P_TO = "0"
+P_GF = "1"
+P_TO_REL = "0"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Cronin"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "1"
+P_TO = "0"
+P_GF = "1"
+P_TO_REL = "0"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Duncan"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "1"
+P_TO = "0"
+P_GF = "3"
+P_TO_REL = "1"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Thorn"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "1"
+P_TO = "0"
+P_GF = "1"
+P_TO_REL = "2"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Barbary"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "1"
+P_TO = "0"
+P_GF = "2"
+P_TO_REL = "1"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Fausett"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "1"
+P_TO = "0"
+P_GF = "2"
+P_TO_REL = "1"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Bush (Wojciechowski)"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "3"
+P_TO = "2"
+P_GF = "4"
+P_TO_REL = "3"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Thomason"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "1"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "4"
+P_TO = "3"
+P_GF = "1"
+P_TO_REL = "0"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Ogden"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "5"
+P_TO = "4"
+P_GF = "19"
+P_TO_REL = "11"
+P_CG = "1"
+
+
+[[person]]
+name.last = "Cronic"
+[[person.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G_EI = "0"
+P_SHO = "0"
+P_G_0H = "0"
+P_G_1H = "0"
+P_G_2H = "0"
+P_G_3H = "0"
+P_G_4H = "0"
+P_GS = "6"
+P_TO = "5"
+P_GF = "10"
+P_TO_REL = "2"
+P_CG = "1"

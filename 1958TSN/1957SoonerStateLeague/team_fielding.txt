@@ -1,0 +1,134 @@
+[[team]]
+name = "Lawton"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "96"
+F_PB = "19"
+F_PO = "3088"
+F_A = "1214"
+F_E = "215"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "96"
+F_PB = "24"
+F_PO = "3150"
+F_A = "1204"
+F_E = "233"
+F_PCT = ".949"
+F_TP = "0"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "88"
+F_PB = "34"
+F_PO = "3106"
+F_A = "1181"
+F_E = "240"
+F_PCT = ".947"
+F_TP = "1"
+
+
+[[team]]
+name = "Seminole"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "86"
+F_PB = "21"
+F_PO = "3118"
+F_A = "1238"
+F_E = "253"
+F_PCT = ".945"
+F_TP = "1"
+
+
+[[team]]
+name = "Shawnee"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "77"
+F_PB = "7"
+F_PO = "3187"
+F_A = "1181"
+F_E = "254"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "81"
+F_PB = "33"
+F_PO = "3154"
+F_A = "1282"
+F_E = "258"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "97"
+F_PB = "18"
+F_PO = "3040"
+F_A = "1117"
+F_E = "244"
+F_PCT = ".944"
+F_TP = "1"
+
+
+[[team]]
+name = "Ponca City"
+[[team.playing]]
+season = "1957"
+league.name = "Sooner State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "108"
+F_PB = "36"
+F_PO = "3135"
+F_A = "1178"
+F_E = "299"
+F_PCT = ".935"
+F_TP = "1"

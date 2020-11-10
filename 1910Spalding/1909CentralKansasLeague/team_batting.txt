@@ -1,0 +1,118 @@
+[[team]]
+name = "Ellsworth"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2100"
+B_R = "250"
+B_H = "422"
+B_SB = "195"
+B_SH = "122"
+B_AVG = ".201"
+
+
+[[team]]
+name = "Salina"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2099"
+B_R = "263"
+B_H = "405"
+B_SB = "132"
+B_SH = "71"
+B_AVG = ".193"
+
+
+[[team]]
+name = "Abilene"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2013"
+B_R = "277"
+B_H = "504"
+B_SB = "139"
+B_SH = "63"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2107"
+B_R = "268"
+B_H = "446"
+B_SB = "180"
+B_SH = "95"
+B_AVG = ".212"
+
+
+[[team]]
+name = "Junction City"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "1723"
+B_R = "235"
+B_H = "418"
+B_SB = "99"
+B_SH = "91"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Beloit"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2041"
+B_R = "221"
+B_H = "421"
+B_SB = "203"
+B_SH = "91"
+B_AVG = ".206"
+
+
+[[team]]
+name = "Clay Center"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2079"
+B_R = "218"
+B_H = "457"
+B_SB = "106"
+B_SH = "72"
+B_AVG = ".220"
+
+
+[[team]]
+name = "Manhattan"
+[[team.playing]]
+season = "1909"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "1884"
+B_R = "184"
+B_H = "395"
+B_SB = "89"
+B_SH = "50"
+B_AVG = ".210"

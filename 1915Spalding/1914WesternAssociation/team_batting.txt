@@ -1,0 +1,118 @@
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4303"
+B_R = "613"
+B_H = "1146"
+B_2B = "191"
+B_3B = "31"
+B_HR = "75"
+B_EB = "478"
+B_SB = "203"
+B_SH = "227"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4264"
+B_R = "699"
+B_H = "1125"
+B_2B = "189"
+B_3B = "21"
+B_HR = "84"
+B_EB = "483"
+B_SB = "287"
+B_SH = "121"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Joplin/Henryetta"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4411"
+B_R = "565"
+B_H = "1131"
+B_2B = "174"
+B_3B = "39"
+B_HR = "61"
+B_EB = "435"
+B_SB = "173"
+B_SH = "133"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4247"
+B_R = "607"
+B_H = "1057"
+B_2B = "168"
+B_3B = "22"
+B_HR = "59"
+B_EB = "389"
+B_SB = "271"
+B_SH = "139"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4138"
+B_R = "514"
+B_H = "982"
+B_2B = "161"
+B_3B = "12"
+B_HR = "16"
+B_EB = "233"
+B_SB = "296"
+B_SH = "138"
+B_AVG = ".237"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1914"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4103"
+B_R = "272"
+B_H = "941"
+B_2B = "172"
+B_3B = "17"
+B_HR = "44"
+B_EB = "338"
+B_SB = "213"
+B_SH = "172"
+B_AVG = ".229"

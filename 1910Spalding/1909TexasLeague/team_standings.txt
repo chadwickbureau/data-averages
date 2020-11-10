@@ -1,0 +1,102 @@
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "86"
+R_L = "57"
+R_PCT = ".601"
+R_RANK = "1"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "56"
+R_PCT = ".556"
+R_RANK = "2"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "63"
+R_PCT = ".547"
+R_RANK = "3"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "64"
+R_PCT = ".540"
+R_RANK = "4"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "68"
+R_PCT = ".518"
+R_RANK = "5"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "71"
+R_PCT = ".507"
+R_RANK = "6"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "89"
+R_PCT = ".373"
+R_RANK = "7"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1909"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "91"
+R_PCT = ".359"
+R_RANK = "8"

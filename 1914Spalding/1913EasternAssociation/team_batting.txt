@@ -1,0 +1,230 @@
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4416"
+B_R = "651"
+B_H = "1203"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4363"
+B_R = "561"
+B_H = "1130"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Pittsfield"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4475"
+B_R = "496"
+B_H = "1112"
+B_AVG = ".248"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4474"
+B_R = "513"
+B_H = "1091"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4454"
+B_R = "477"
+B_H = "1070"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4366"
+B_R = "484"
+B_H = "1041"
+B_AVG = ".238"
+
+
+[[team]]
+name = "New London"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4304"
+B_R = "416"
+B_H = "1011"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Meriden"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4607"
+B_R = "400"
+B_H = "1068"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "269"
+B_SH = "170"
+B_2B = "203"
+B_3B = "81"
+B_HR = "12"
+B_EB = "401"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "192"
+B_SH = "204"
+B_2B = "187"
+B_3B = "75"
+B_HR = "24"
+B_EB = "409"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "207"
+B_SH = "175"
+B_2B = "181"
+B_3B = "52"
+B_HR = "23"
+B_EB = "354"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "230"
+B_SH = "168"
+B_2B = "165"
+B_3B = "39"
+B_HR = "10"
+B_EB = "273"
+
+
+[[team]]
+name = "New London"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "154"
+B_SH = "151"
+B_2B = "150"
+B_3B = "44"
+B_HR = "9"
+B_EB = "265"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "208"
+B_SH = "205"
+B_2B = "188"
+B_3B = "40"
+B_HR = "11"
+B_EB = "301"
+
+
+[[team]]
+name = "Pittsfield"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "261"
+B_SH = "161"
+B_2B = "190"
+B_3B = "42"
+B_HR = "7"
+B_EB = "295"
+
+
+[[team]]
+name = "Meriden"
+[[team.playing]]
+season = "1913"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+B_SB = "90"
+B_SH = "132"
+B_2B = "163"
+B_3B = "32"
+B_HR = "24"
+B_EB = "300"

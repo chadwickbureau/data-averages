@@ -1,0 +1,642 @@
+[[person]]
+name.last = "Schrieber"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[person.playing.totals]
+P_G = "8"
+P_IP = "51"
+P_AB = "218"
+P_H = "53"
+P_R = "39"
+P_HP = "8"
+P_BB = "16"
+P_SO = "27"
+P_WP = "2"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Akers"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Canton"
+[person.playing.totals]
+P_G = "15"
+P_IP = "101.1"
+P_AB = "356"
+P_H = "79"
+P_R = "56"
+P_HP = "8"
+P_BB = "31"
+P_SO = "39"
+P_WP = "0"
+P_W = "5"
+P_L = "4"
+P_PCT = ".555"
+
+
+[[person]]
+name.last = "Marshall"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "12"
+P_IP = "98.1"
+P_AB = "416"
+P_H = "100"
+P_R = "49"
+P_HP = "5"
+P_BB = "24"
+P_SO = "50"
+P_WP = "0"
+P_W = "3"
+P_L = "7"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[person.playing.totals]
+P_G = "18"
+P_IP = "115.1"
+P_AB = "431"
+P_H = "95"
+P_R = "56"
+P_HP = "9"
+P_BB = "29"
+P_SO = "68"
+P_WP = "1"
+P_W = "4"
+P_L = "9"
+P_PCT = ".306"
+
+
+[[person]]
+name.last = "Hill"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "10"
+P_IP = "63"
+P_AB = "235"
+P_H = "74"
+P_R = "35"
+P_HP = "6"
+P_BB = "20"
+P_SO = "26"
+P_WP = "1"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Morgridge"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "24"
+P_IP = "189.2"
+P_AB = "727"
+P_H = "185"
+P_R = "79"
+P_HP = "18"
+P_BB = "56"
+P_SO = "55"
+P_WP = "2"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Gill"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "29"
+P_IP = "191.1"
+P_AB = "684"
+P_H = "180"
+P_R = "88"
+P_HP = "8"
+P_BB = "41"
+P_SO = "74"
+P_WP = "2"
+P_W = "9"
+P_L = "10"
+P_PCT = ".473"
+
+
+[[person]]
+name.last = "Tipple"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "32"
+P_IP = "240.2"
+P_AB = "893"
+P_H = "184"
+P_R = "88"
+P_HP = "12"
+P_BB = "95"
+P_SO = "162"
+P_WP = "5"
+P_W = "13"
+P_L = "13"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hammond"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Streator"
+[person.playing.totals]
+P_G = "11"
+P_IP = "78"
+P_AB = "280"
+P_H = "66"
+P_R = "36"
+P_HP = "3"
+P_BB = "24"
+P_SO = "35"
+P_WP = "1"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Bluejacket"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pekin"
+[person.playing.totals]
+P_G = "35"
+P_IP = "271.1"
+P_AB = "1021"
+P_H = "215"
+P_R = "74"
+P_HP = "11"
+P_BB = "40"
+P_SO = "171"
+P_WP = "6"
+P_W = "19"
+P_L = "13"
+P_PCT = ".593"
+
+
+[[person]]
+name.last = "Boone"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pekin"
+[person.playing.totals]
+P_G = "10"
+P_IP = "59.2"
+P_AB = "251"
+P_H = "66"
+P_R = "38"
+P_HP = "2"
+P_BB = "18"
+P_SO = "38"
+P_WP = "1"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Petitt"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pekin"
+[person.playing.totals]
+P_G = "35"
+P_IP = "252.1"
+P_AB = "956"
+P_H = "227"
+P_R = "110"
+P_HP = "15"
+P_BB = "51"
+P_SO = "150"
+P_WP = "2"
+P_W = "13"
+P_L = "18"
+P_PCT = ".419"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pekin"
+[person.playing.totals]
+P_G = "26"
+P_IP = "205.1"
+P_AB = "788"
+P_H = "185"
+P_R = "89"
+P_HP = "16"
+P_BB = "72"
+P_SO = "109"
+P_WP = "6"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Grogan"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Pekin"
+[person.playing.totals]
+P_G = "28"
+P_IP = "201"
+P_AB = "748"
+P_H = "163"
+P_R = "72"
+P_HP = "7"
+P_BB = "49"
+P_SO = "143"
+P_WP = "4"
+P_W = "13"
+P_L = "10"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Belding"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "27"
+P_IP = "201.1"
+P_AB = "739"
+P_H = "160"
+P_R = "72"
+P_HP = "8"
+P_BB = "62"
+P_SO = "97"
+P_WP = "3"
+P_W = "13"
+P_L = "11"
+P_PCT = ".542"
+
+
+[[person]]
+name.last = "Vaught"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "39"
+P_IP = "322.1"
+P_AB = "1108"
+P_H = "249"
+P_R = "97"
+P_HP = "17"
+P_BB = "72"
+P_SO = "161"
+P_WP = "5"
+P_W = "22"
+P_L = "10"
+P_PCT = ".687"
+
+
+[[person]]
+name.last = "Kaiser"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "24"
+P_IP = "205.1"
+P_AB = "772"
+P_H = "192"
+P_R = "81"
+P_HP = "13"
+P_BB = "69"
+P_SO = "112"
+P_WP = "7"
+P_W = "14"
+P_L = "11"
+P_PCT = ".560"
+
+
+[[person]]
+name.last = "Hill"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lincoln"
+[person.playing.totals]
+P_G = "25"
+P_IP = "185.2"
+P_AB = "702"
+P_H = "147"
+P_R = "68"
+P_HP = "7"
+P_BB = "69"
+P_SO = "83"
+P_WP = "7"
+P_W = "15"
+P_L = "7"
+P_PCT = ".681"
+
+
+[[person]]
+name.last = "Taddock"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "26"
+P_IP = "232.2"
+P_AB = "786"
+P_H = "183"
+P_R = "107"
+P_HP = "7"
+P_BB = "61"
+P_SO = "118"
+P_WP = "4"
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Witte"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "36"
+P_IP = "274.1"
+P_AB = "1034"
+P_H = "254"
+P_R = "131"
+P_HP = "11"
+P_BB = "89"
+P_SO = "211"
+P_WP = "12"
+P_W = "10"
+P_L = "19"
+P_PCT = ".345"
+
+
+[[person]]
+name.last = "Entrick"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Champaign"
+[person.playing.totals]
+P_G = "15"
+P_IP = "107.1"
+P_AB = "407"
+P_H = "82"
+P_R = "37"
+P_HP = "4"
+P_BB = "19"
+P_SO = "79"
+P_WP = "2"
+P_W = "11"
+P_L = "3"
+P_PCT = ".846"
+
+
+[[person]]
+name.last = "George"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Canton"
+[person.playing.totals]
+P_G = "34"
+P_IP = "226.1"
+P_AB = "972"
+P_H = "322"
+P_R = "114"
+P_HP = "9"
+P_BB = "33"
+P_SO = "92"
+P_WP = "2"
+P_W = "17"
+P_L = "13"
+P_PCT = ".506"
+
+
+[[person]]
+name.last = "Dart"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Canton"
+[person.playing.totals]
+P_G = "28"
+P_IP = "218.1"
+P_AB = "880"
+P_H = "187"
+P_R = "96"
+P_HP = "14"
+P_BB = "68"
+P_SO = "139"
+P_WP = "1"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Tuttle"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Canton"
+[person.playing.totals]
+P_G = "34"
+P_IP = "253.1"
+P_AB = "1091"
+P_H = "234"
+P_R = "97"
+P_HP = "14"
+P_BB = "45"
+P_SO = "143"
+P_WP = "3"
+P_W = "17"
+P_L = "14"
+P_PCT = ".548"
+
+
+[[person]]
+name.last = "Ruth"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[person.playing.totals]
+P_G = "15"
+P_IP = "105"
+P_AB = "378"
+P_H = "73"
+P_R = "40"
+P_HP = "5"
+P_BB = "35"
+P_SO = "53"
+P_WP = "1"
+P_W = "8"
+P_L = "5"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[person.playing.totals]
+P_G = "32"
+P_IP = "275.2"
+P_AB = "706"
+P_H = "199"
+P_R = "88"
+P_HP = "11"
+P_BB = "41"
+P_SO = "140"
+P_WP = "3"
+P_W = "12"
+P_L = "12"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Jacobs"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[person.playing.totals]
+P_G = "36"
+P_IP = "265"
+P_AB = "961"
+P_H = "243"
+P_R = "125"
+P_HP = "23"
+P_BB = "83"
+P_SO = "149"
+P_WP = "5"
+P_W = "14"
+P_L = "19"
+P_PCT = ".424"
+
+
+[[person]]
+name.last = "Warden"
+[[person.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kankakee"
+[person.playing.totals]
+P_G = "21"
+P_IP = "161.2"
+P_AB = "582"
+P_H = "122"
+P_R = "46"
+P_HP = "4"
+P_BB = "38"
+P_SO = "70"
+P_WP = "1"
+P_W = "12"
+P_L = "5"
+P_PCT = ".706"

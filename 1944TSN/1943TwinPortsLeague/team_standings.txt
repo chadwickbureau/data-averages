@@ -1,0 +1,50 @@
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+R_W = "11"
+R_L = "7"
+R_PCT = ".611"
+R_RANK = "1"
+
+
+[[team]]
+name = "Duluth Marine Iron"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+R_W = "9"
+R_L = "7"
+R_PCT = ".562"
+R_RANK = "2"
+
+
+[[team]]
+name = "Duluth Dukes"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+R_W = "9"
+R_L = "10"
+R_PCT = ".474"
+R_RANK = "3"
+
+
+[[team]]
+name = "Duluth Heralds"
+[[team.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+phase = "regular"
+[team.playing.totals]
+R_W = "5"
+R_L = "10"
+R_PCT = ".333"
+R_RANK = "4"

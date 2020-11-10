@@ -1,0 +1,196 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4155"
+B_R = "583"
+B_H = "1143"
+B_TB = "1552"
+B_2B = "192"
+B_3B = "65"
+B_HR = "29"
+B_SH = "195"
+B_BB = "299"
+B_SB = "180"
+B_SO = "377"
+B_AVG = ".275"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4038"
+B_R = "504"
+B_H = "1095"
+B_TB = "1433"
+B_2B = "175"
+B_3B = "59"
+B_HR = "15"
+B_SH = "164"
+B_BB = "301"
+B_SB = "156"
+B_SO = "401"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4264"
+B_R = "547"
+B_H = "1134"
+B_TB = "1435"
+B_2B = "159"
+B_3B = "41"
+B_HR = "20"
+B_SH = "171"
+B_BB = "379"
+B_SB = "220"
+B_SO = "470"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3665"
+B_R = "379"
+B_H = "929"
+B_TB = "1238"
+B_2B = "144"
+B_3B = "51"
+B_HR = "21"
+B_SH = "140"
+B_BB = "353"
+B_SB = "149"
+B_SO = "447"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3788"
+B_R = "458"
+B_H = "950"
+B_TB = "1254"
+B_2B = "127"
+B_3B = "48"
+B_HR = "27"
+B_SH = "159"
+B_BB = "355"
+B_SB = "117"
+B_SO = "405"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "59"
+B_AB = "1853"
+B_R = "230"
+B_H = "466"
+B_TB = "648"
+B_2B = "84"
+B_3B = "34"
+B_HR = "10"
+B_SH = "83"
+B_BB = "171"
+B_SB = "79"
+B_SO = "186"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "117"
+B_AB = "3722"
+B_R = "395"
+B_H = "934"
+B_TB = "1194"
+B_2B = "106"
+B_3B = "50"
+B_HR = "18"
+B_SH = "177"
+B_BB = "342"
+B_SB = "219"
+B_SO = "430"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3893"
+B_R = "391"
+B_H = "933"
+B_TB = "1253"
+B_2B = "166"
+B_3B = "35"
+B_HR = "28"
+B_SH = "144"
+B_BB = "286"
+B_SB = "123"
+B_SO = "535"
+B_AVG = ".238"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1917"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "63"
+B_AB = "2074"
+B_R = "234"
+B_H = "485"
+B_TB = "638"
+B_2B = "79"
+B_3B = "19"
+B_HR = "12"
+B_SH = "101"
+B_BB = "188"
+B_SB = "75"
+B_SO = "260"
+B_AVG = ".234"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Amarillo"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "159"
+F_PB = "12"
+F_PO = "3841"
+F_A = "1628"
+F_E = "196"
+F_TP = "0"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "124"
+F_PB = "28"
+F_PO = "3663"
+F_A = "1543"
+F_E = "191"
+F_TP = "0"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Albuquerque"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "154"
+F_PB = "19"
+F_PO = "3808"
+F_A = "1686"
+F_E = "214"
+F_TP = "0"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Colorado Springs"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_DP = "135"
+F_PB = "18"
+F_PO = "3816"
+F_A = "1554"
+F_E = "229"
+F_TP = "0"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_DP = "123"
+F_PB = "22"
+F_PO = "3781"
+F_A = "1522"
+F_E = "236"
+F_TP = "0"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "135"
+F_PB = "19"
+F_PO = "3888"
+F_A = "1674"
+F_E = "248"
+F_TP = "0"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_DP = "140"
+F_PB = "45"
+F_PO = "3791"
+F_A = "1496"
+F_E = "247"
+F_TP = "0"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1958"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_DP = "132"
+F_PB = "24"
+F_PO = "3797"
+F_A = "1764"
+F_E = "262"
+F_TP = "1"
+F_PCT = ".955"

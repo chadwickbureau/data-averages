@@ -1,0 +1,102 @@
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "48"
+R_PCT = ".625"
+R_RANK = "1"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "63"
+R_PCT = ".533"
+R_RANK = "2"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "65"
+R_PCT = ".526"
+R_RANK = "3"
+
+
+[[team]]
+name = "Troy"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "64"
+R_PCT = ".511"
+R_RANK = "4"
+
+
+[[team]]
+name = "Amsterdam-Johnstown-Gloversville"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "68"
+R_PCT = ".493"
+R_RANK = "5"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "70"
+R_PCT = ".453"
+R_RANK = "6"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "73"
+R_PCT = ".451"
+R_RANK = "7"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1906"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "76"
+R_PCT = ".406"
+R_RANK = "8"

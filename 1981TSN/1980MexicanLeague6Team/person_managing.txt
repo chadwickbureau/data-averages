@@ -1,0 +1,76 @@
+[[person]]
+name.last = "Guerrero"
+name.given = "Jose"
+[[person.managing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ciudad Juarez"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cerda"
+name.given = "Benjamin"
+[[person.managing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Coatzacoalcos"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Garza"
+name.given = "Fernando Remes"
+[[person.managing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mexico City Tigers"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Llenas"
+name.given = "Winston"
+[[person.managing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Reynosa"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Luque"
+name.given = "Gregorio"
+[[person.managing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Saltillo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Diaz"
+name.given = "Jesus"
+[[person.managing]]
+season = "1980"
+league.name = "Mexican League (6 team season)"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Union Laguna"
+S_ORDER = "0"
+[person.managing.totals]

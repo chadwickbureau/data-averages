@@ -1,0 +1,134 @@
+[[team]]
+name = "Moultrie"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "83"
+F_TP = "0"
+F_PB = "21"
+F_PO = "3201"
+F_A = "1336"
+F_E = "249"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Waycross"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "80"
+F_TP = "0"
+F_PB = "9"
+F_PO = "3308"
+F_A = "1401"
+F_E = "273"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Americus"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "94"
+F_TP = "0"
+F_PB = "17"
+F_PO = "3305"
+F_A = "1425"
+F_E = "280"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "107"
+F_TP = "0"
+F_PB = "17"
+F_PO = "3216"
+F_A = "1384"
+F_E = "287"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "80"
+F_TP = "0"
+F_PB = "18"
+F_PO = "3328"
+F_A = "1355"
+F_E = "351"
+F_PCT = ".930"
+
+
+[[team]]
+name = "Tallahassee"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "71"
+F_TP = "0"
+F_PB = "20"
+F_PO = "3223"
+F_A = "1391"
+F_E = "348"
+F_PCT = ".930"
+
+
+[[team]]
+name = "Cordele"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "102"
+F_TP = "1"
+F_PB = "9"
+F_PO = "3269"
+F_A = "1421"
+F_E = "378"
+F_PCT = ".925"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "99"
+F_TP = "0"
+F_PB = "26"
+F_PO = "3253"
+F_A = "1416"
+F_E = "385"
+F_PCT = ".924"

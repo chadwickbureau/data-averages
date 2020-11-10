@@ -1,0 +1,128 @@
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "42"
+R_L = "20"
+R_PCT = ".678"
+R_RANK = "1"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "43"
+R_L = "22"
+R_PCT = ".662"
+R_RANK = "2"
+
+
+[[team]]
+name = "Cleburne"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "38"
+R_L = "34"
+R_PCT = ".613"
+R_RANK = "3"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "30"
+R_L = "31"
+R_PCT = ".492"
+R_RANK = "4"
+
+
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "48"
+R_PCT = ".317"
+R_RANK = "5"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "15"
+R_L = "48"
+R_PCT = ".238"
+R_RANK = "6"
+
+
+[[team]]
+name = "Cleburne"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "39"
+R_L = "25"
+R_PCT = ".603"
+R_RANK = "1"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "36"
+R_L = "27"
+R_PCT = ".571"
+R_RANK = "2"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "36"
+R_L = "28"
+R_PCT = ".563"
+R_RANK = "3"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1906"
+league.name = "Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "17"
+R_L = "48"
+R_PCT = ".262"
+R_RANK = "4"

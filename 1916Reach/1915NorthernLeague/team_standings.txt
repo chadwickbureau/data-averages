@@ -1,0 +1,104 @@
+[[team]]
+name = "Fargo-Moorhead"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "49"
+R_T = "0"
+R_PCT = ".602"
+R_RANK = "1"
+
+
+[[team]]
+name = "St. Boniface"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "55"
+R_T = "6"
+R_PCT = ".526"
+R_RANK = "2"
+
+
+[[team]]
+name = "Fort William"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "58"
+R_T = "8"
+R_PCT = ".513"
+R_RANK = "3"
+
+
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "62"
+R_T = "4"
+R_PCT = ".492"
+R_RANK = "4"
+
+
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "61"
+R_T = "9"
+R_PCT = ".487"
+R_RANK = "5"
+
+
+[[team]]
+name = "Virginia"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "69"
+R_T = "2"
+R_PCT = ".434"
+R_RANK = "6"
+
+
+[[team]]
+name = "Grand Forks"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "21"
+R_L = "28"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "20"
+R_L = "26"

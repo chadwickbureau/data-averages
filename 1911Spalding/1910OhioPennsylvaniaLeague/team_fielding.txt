@@ -1,0 +1,358 @@
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3261"
+F_A = "1686"
+F_E = "196"
+F_TC = "5143"
+F_PCT = ".962"
+
+
+[[team]]
+name = "McKeesport"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3312"
+F_A = "1641"
+F_E = "220"
+F_TC = "5173"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3383"
+F_A = "1561"
+F_E = "220"
+F_TC = "5164"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3287"
+F_A = "1499"
+F_E = "238"
+F_TC = "5024"
+F_PCT = ".953"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3289"
+F_A = "1499"
+F_E = "250"
+F_TC = "5038"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3324"
+F_A = "1487"
+F_E = "253"
+F_TC = "5064"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3157"
+F_A = "1514"
+F_E = "244"
+F_TC = "4915"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3312"
+F_A = "1632"
+F_E = "262"
+F_TC = "5206"
+F_PCT = ".949"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "1"
+
+
+[[team]]
+name = "McKeesport"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "0"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "0"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "0"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "0"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "0"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "0"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "2"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "84"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "71"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "64"
+
+
+[[team]]
+name = "McKeesport"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "63"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "58"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "55"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "52"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "47"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "12"
+
+
+[[team]]
+name = "New Castle"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "15"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "17"
+
+
+[[team]]
+name = "East Liverpool"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "19"
+
+
+[[team]]
+name = "McKeesport"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "21"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "25"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "30"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1910"
+league.name = "Ohio-Pennsylvania League"
+phase = "regular"
+[team.playing.totals]
+F_PB = "35"

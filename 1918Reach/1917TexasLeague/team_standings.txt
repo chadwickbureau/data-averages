@@ -1,0 +1,100 @@
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "96"
+R_L = "64"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "90"
+R_L = "72"
+R_PCT = ".555"
+R_RANK = "2"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "84"
+R_L = "73"
+R_PCT = ".536"
+R_RANK = "3"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "88"
+R_PCT = ".466"
+R_RANK = "4"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "89"
+R_PCT = ".460"
+R_RANK = "5"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "89"
+R_PCT = ".454"
+R_RANK = "6"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "19"
+R_L = "23"
+R_PCT = ".452"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "11"
+R_L = "29"
+R_PCT = ".275"

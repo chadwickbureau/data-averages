@@ -1,0 +1,2226 @@
+[[person]]
+name.last = "Morse"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "6"
+P_IP = "20.1"
+P_AB = "60"
+P_H = "12"
+P_R = "10"
+P_SO = "8"
+P_BB = "24"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "0"
+P_T = "0"
+P_TO = "1"
+P_GF = "6"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Aitchison"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "29"
+P_IP = "237"
+P_AB = "870"
+P_H = "195"
+P_R = "65"
+P_SO = "88"
+P_BB = "69"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_W = "21"
+P_L = "5"
+P_T = "0"
+P_TO = "2"
+P_GF = "3"
+P_PCT = ".808"
+
+
+[[person]]
+name.last = "Enzmann"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "19"
+P_IP = "131.1"
+P_AB = "478"
+P_H = "99"
+P_R = "33"
+P_SO = "55"
+P_BB = "46"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "11"
+P_L = "4"
+P_T = "0"
+P_TO = "6"
+P_GF = "3"
+P_PCT = ".733"
+
+
+[[person]]
+name.last = "Wilhelm"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+P_G = "44"
+P_IP = "256"
+P_AB = "977"
+P_H = "247"
+P_R = "99"
+P_SO = "118"
+P_BB = "86"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_W = "18"
+P_L = "7"
+P_T = "0"
+P_TO = "2"
+P_GF = "20"
+P_PCT = ".720"
+
+
+[[person]]
+name.last = "Roth"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "39"
+P_IP = "258"
+P_AB = "1010"
+P_H = "277"
+P_R = "122"
+P_SO = "155"
+P_BB = "78"
+P_HP = "7"
+P_WP = "6"
+P_BK = "0"
+P_W = "22"
+P_L = "9"
+P_T = "0"
+P_TO = "14"
+P_GF = "3"
+P_PCT = ".710"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "36"
+P_IP = "261.2"
+P_AB = "883"
+P_H = "266"
+P_R = "100"
+P_SO = "62"
+P_BB = "49"
+P_HP = "10"
+P_WP = "0"
+P_BK = "0"
+P_W = "22"
+P_L = "9"
+P_T = "0"
+P_TO = "8"
+P_GF = "2"
+P_PCT = ".710"
+
+
+[[person]]
+name.last = "Hoff"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+P_G = "27"
+P_IP = "132.1"
+P_AB = "498"
+P_H = "128"
+P_R = "67"
+P_SO = "98"
+P_BB = "43"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_W = "7"
+P_L = "3"
+P_T = "0"
+P_TO = "6"
+P_GF = "12"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Barger"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "31"
+P_IP = "247.2"
+P_AB = "928"
+P_H = "197"
+P_R = "83"
+P_SO = "80"
+P_BB = "72"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_W = "17"
+P_L = "9"
+P_T = "1"
+P_TO = "5"
+P_GF = "3"
+P_PCT = ".654"
+
+
+[[person]]
+name.last = "Holmes"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "37"
+P_IP = "230.1"
+P_AB = "842"
+P_H = "208"
+P_R = "106"
+P_SO = "74"
+P_BB = "106"
+P_HP = "8"
+P_WP = "8"
+P_BK = "0"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_TO = "8"
+P_GF = "12"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Keefe"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+P_G = "35"
+P_IP = "273"
+P_AB = "1014"
+P_H = "262"
+P_R = "94"
+P_SO = "99"
+P_BB = "78"
+P_HP = "7"
+P_WP = "2"
+P_BK = "0"
+P_W = "21"
+P_L = "12"
+P_T = "1"
+P_TO = "4"
+P_GF = "0"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Cottrell"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "32"
+P_IP = "183.1"
+P_AB = "680"
+P_H = "160"
+P_R = "78"
+P_SO = "105"
+P_BB = "86"
+P_HP = "7"
+P_WP = "7"
+P_BK = "0"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_TO = "6"
+P_GF = "8"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Fullenweider"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "35"
+P_IP = "261.1"
+P_AB = "943"
+P_H = "212"
+P_R = "80"
+P_SO = "99"
+P_BB = "76"
+P_HP = "8"
+P_WP = "3"
+P_BK = "0"
+P_W = "20"
+P_L = "12"
+P_T = "0"
+P_TO = "6"
+P_GF = "1"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Main"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "27"
+P_IP = "186.2"
+P_AB = "646"
+P_H = "134"
+P_R = "73"
+P_SO = "92"
+P_BB = "101"
+P_HP = "11"
+P_WP = "9"
+P_BK = "1"
+P_W = "15"
+P_L = "9"
+P_T = "0"
+P_TO = "6"
+P_GF = "3"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "McTigue"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "14"
+P_IP = "64.1"
+P_AB = "148"
+P_H = "59"
+P_R = "37"
+P_SO = "29"
+P_BB = "34"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_W = "8"
+P_L = "5"
+P_T = "0"
+P_TO = "2"
+P_GF = "2"
+P_PCT = ".615"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "9"
+P_IP = "41.1"
+P_AB = "195"
+P_H = "49"
+P_R = "25"
+P_SO = "20"
+P_BB = "20"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_TO = "1"
+P_GF = "4"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Quinn"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+P_G = "38"
+P_IP = "267.2"
+P_AB = "1066"
+P_H = "261"
+P_R = "111"
+P_SO = "153"
+P_BB = "62"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_W = "19"
+P_L = "13"
+P_T = "0"
+P_TO = "1"
+P_GF = "9"
+P_PCT = ".594"
+
+
+[[person]]
+name.last = "Jamison"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "32"
+P_IP = "204.1"
+P_AB = "774"
+P_H = "212"
+P_R = "87"
+P_SO = "62"
+P_BB = "91"
+P_HP = "19"
+P_WP = "2"
+P_BK = "1"
+P_W = "14"
+P_L = "10"
+P_T = "0"
+P_TO = "9"
+P_GF = "5"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Mason"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "31"
+P_IP = "233.2"
+P_AB = "807"
+P_H = "189"
+P_R = "77"
+P_SO = "79"
+P_BB = "59"
+P_HP = "4"
+P_WP = "1"
+P_BK = "2"
+P_W = "12"
+P_L = "9"
+P_T = "0"
+P_TO = "10"
+P_GF = "6"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Morrissette"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "16"
+P_IP = "78.1"
+P_AB = "298"
+P_H = "83"
+P_R = "48"
+P_SO = "24"
+P_BB = "30"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_W = "4"
+P_L = "3"
+P_T = "0"
+P_TO = "4"
+P_GF = "9"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Russell"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "11"
+P_IP = "60"
+P_AB = "221"
+P_H = "53"
+P_R = "35"
+P_SO = "35"
+P_BB = "32"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_W = "4"
+P_L = "3"
+P_T = "0"
+P_TO = "4"
+P_GF = "4"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "51"
+P_IP = "353.2"
+P_AB = "1268"
+P_H = "301"
+P_R = "139"
+P_SO = "177"
+P_BB = "84"
+P_HP = "5"
+P_WP = "7"
+P_BK = "1"
+P_W = "21"
+P_L = "16"
+P_T = "0"
+P_TO = "6"
+P_GF = "13"
+P_PCT = ".568"
+
+
+[[person]]
+name.last = "Lush"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "36"
+P_IP = "255.1"
+P_AB = "870"
+P_H = "296"
+P_R = "121"
+P_SO = "92"
+P_BB = "67"
+P_HP = "8"
+P_WP = "8"
+P_BK = "0"
+P_W = "17"
+P_L = "13"
+P_T = "0"
+P_TO = "9"
+P_GF = "4"
+P_PCT = ".567"
+
+
+[[person]]
+name.last = "Dale"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "37"
+P_IP = "192.1"
+P_AB = "692"
+P_H = "172"
+P_R = "89"
+P_SO = "87"
+P_BB = "83"
+P_HP = "14"
+P_WP = "4"
+P_BK = "0"
+P_W = "13"
+P_L = "10"
+P_T = "2"
+P_TO = "2"
+P_GF = "13"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+P_G = "29"
+P_IP = "168.2"
+P_AB = "748"
+P_H = "196"
+P_R = "99"
+P_SO = "83"
+P_BB = "85"
+P_HP = "7"
+P_WP = "8"
+P_BK = "0"
+P_W = "13"
+P_L = "10"
+P_T = "0"
+P_TO = "10"
+P_GF = "2"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Bailey"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "43"
+P_IP = "307.1"
+P_AB = "1099"
+P_H = "233"
+P_R = "118"
+P_SO = "188"
+P_BB = "157"
+P_HP = "19"
+P_WP = "7"
+P_BK = "1"
+P_W = "19"
+P_L = "15"
+P_T = "1"
+P_TO = "0"
+P_GF = "5"
+P_PCT = ".559"
+
+
+[[person]]
+name.last = "McGraner"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "34"
+P_IP = "236"
+P_AB = "870"
+P_H = "231"
+P_R = "94"
+P_SO = "112"
+P_BB = "88"
+P_HP = "13"
+P_WP = "6"
+P_BK = "0"
+P_W = "16"
+P_L = "13"
+P_T = "0"
+P_TO = "13"
+P_GF = "2"
+P_PCT = ".552"
+
+
+[[person]]
+name.last = "Hughes"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+P_G = "32"
+P_IP = "239.1"
+P_AB = "863"
+P_H = "222"
+P_R = "104"
+P_SO = "146"
+P_BB = "74"
+P_HP = "5"
+P_WP = "6"
+P_BK = "0"
+P_W = "15"
+P_L = "13"
+P_T = "0"
+P_TO = "5"
+P_GF = "3"
+P_PCT = ".536"
+
+
+[[person]]
+name.last = "Danforth"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "53"
+P_IP = "304"
+P_AB = "1151"
+P_H = "288"
+P_R = "146"
+P_SO = "150"
+P_BB = "96"
+P_HP = "7"
+P_WP = "4"
+P_BK = "0"
+P_W = "16"
+P_L = "14"
+P_T = "1"
+P_TO = "12"
+P_GF = "13"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Sline"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "18"
+P_IP = "125.2"
+P_AB = "458"
+P_H = "120"
+P_R = "72"
+P_SO = "29"
+P_BB = "55"
+P_HP = "10"
+P_WP = "3"
+P_BK = "0"
+P_W = "8"
+P_L = "7"
+P_T = "0"
+P_TO = "6"
+P_GF = "2"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "McHale"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "28"
+P_IP = "165"
+P_AB = "590"
+P_H = "144"
+P_R = "97"
+P_SO = "70"
+P_BB = "40"
+P_HP = "4"
+P_WP = "4"
+P_BK = "0"
+P_W = "10"
+P_L = "9"
+P_T = "0"
+P_TO = "4"
+P_GF = "7"
+P_PCT = ".526"
+
+
+[[person]]
+name.last = "Lafitte"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "38"
+P_IP = "242.1"
+P_AB = "935"
+P_H = "371"
+P_R = "121"
+P_SO = "89"
+P_BB = "103"
+P_HP = "11"
+P_WP = "11"
+P_BK = "0"
+P_W = "15"
+P_L = "15"
+P_T = "1"
+P_TO = "9"
+P_GF = "3"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hearne"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "34"
+P_IP = "222.1"
+P_AB = "830"
+P_H = "214"
+P_R = "90"
+P_SO = "97"
+P_BB = "41"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_W = "11"
+P_L = "11"
+P_T = "0"
+P_TO = "8"
+P_GF = "10"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "C."
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "32"
+P_IP = "228.1"
+P_AB = "886"
+P_H = "248"
+P_R = "102"
+P_SO = "80"
+P_BB = "94"
+P_HP = "6"
+P_WP = "6"
+P_BK = "0"
+P_W = "13"
+P_L = "13"
+P_T = "0"
+P_TO = "5"
+P_GF = "8"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Carlo"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "11"
+P_IP = "59"
+P_AB = "210"
+P_H = "52"
+P_R = "26"
+P_SO = "13"
+P_BB = "22"
+P_HP = "1"
+P_WP = "1"
+P_BK = "1"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_TO = "3"
+P_GF = "3"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Matteson"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "11"
+P_IP = "43"
+P_AB = "162"
+P_H = "47"
+P_R = "23"
+P_SO = "19"
+P_BB = "21"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "1"
+P_T = "1"
+P_TO = "1"
+P_GF = "9"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Kent"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "10"
+P_IP = "61.2"
+P_AB = "241"
+P_H = "72"
+P_R = "31"
+P_SO = "17"
+P_BB = "27"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_W = "4"
+P_L = "4"
+P_T = "0"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Resigl"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "38"
+P_IP = "256.2"
+P_AB = "923"
+P_H = "244"
+P_R = "119"
+P_SO = "103"
+P_BB = "76"
+P_HP = "12"
+P_WP = "6"
+P_BK = "2"
+P_W = "14"
+P_L = "15"
+P_T = "0"
+P_TO = "9"
+P_GF = "9"
+P_PCT = ".483"
+
+
+[[person]]
+name.last = "Maxwell"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "29"
+P_IP = "222"
+P_AB = "811"
+P_H = "211"
+P_R = "81"
+P_SO = "78"
+P_BB = "72"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_W = "13"
+P_L = "14"
+P_T = "0"
+P_TO = "4"
+P_GF = "1"
+P_PCT = ".481"
+
+
+[[person]]
+name.last = "Doescher"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "31"
+P_IP = "213.1"
+P_AB = "775"
+P_H = "217"
+P_R = "106"
+P_SO = "68"
+P_BB = "86"
+P_HP = "8"
+P_WP = "1"
+P_BK = "0"
+P_W = "11"
+P_L = "12"
+P_T = "0"
+P_TO = "11"
+P_GF = "3"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "31"
+P_IP = "203.1"
+P_AB = "726"
+P_H = "199"
+P_R = "83"
+P_SO = "70"
+P_BB = "42"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_W = "10"
+P_L = "11"
+P_T = "0"
+P_TO = "7"
+P_GF = "5"
+P_PCT = ".476"
+
+
+[[person]]
+name.last = "Mattern"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "35"
+P_IP = "221"
+P_AB = "877"
+P_H = "243"
+P_R = "101"
+P_SO = "86"
+P_BB = "62"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_W = "12"
+P_L = "14"
+P_T = "2"
+P_TO = "10"
+P_GF = "3"
+P_PCT = ".462"
+
+
+[[person]]
+name.last = "Shawkey"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "26"
+P_IP = "189.1"
+P_AB = "663"
+P_H = "167"
+P_R = "82"
+P_SO = "132"
+P_BB = "58"
+P_HP = "5"
+P_WP = "6"
+P_BK = "0"
+P_W = "9"
+P_L = "11"
+P_T = "1"
+P_TO = "2"
+P_GF = "4"
+P_PCT = ".450"
+
+
+[[person]]
+name.last = "Thompson"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "35"
+P_IP = "205"
+P_AB = "769"
+P_H = "205"
+P_R = "76"
+P_SO = "62"
+P_BB = "43"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_W = "8"
+P_L = "10"
+P_T = "0"
+P_TO = "8"
+P_GF = "11"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Frill"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "32"
+P_IP = "214.1"
+P_AB = "818"
+P_H = "233"
+P_R = "112"
+P_SO = "85"
+P_BB = "65"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_W = "12"
+P_L = "15"
+P_T = "1"
+P_TO = "10"
+P_GF = "5"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "17"
+P_IP = "100.1"
+P_AB = "398"
+P_H = "116"
+P_R = "52"
+P_SO = "31"
+P_BB = "31"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_W = "4"
+P_L = "5"
+P_T = "0"
+P_TO = "1"
+P_GF = "7"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Beebe"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "29"
+P_IP = "188.2"
+P_AB = "593"
+P_H = "203"
+P_R = "101"
+P_SO = "81"
+P_BB = "70"
+P_HP = "8"
+P_WP = "3"
+P_BK = "1"
+P_W = "11"
+P_L = "14"
+P_T = "0"
+P_TO = "9"
+P_GF = "1"
+P_PCT = ".440"
+
+
+[[person]]
+name.last = "Gaw"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "29"
+P_IP = "173.1"
+P_AB = "633"
+P_H = "174"
+P_R = "82"
+P_SO = "71"
+P_BB = "62"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_W = "8"
+P_L = "11"
+P_T = "0"
+P_TO = "4"
+P_GF = "12"
+P_PCT = ".421"
+
+
+[[person]]
+name.last = "Manser"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "19"
+P_IP = "94.2"
+P_AB = "380"
+P_H = "119"
+P_R = "74"
+P_SO = "23"
+P_BB = "28"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_W = "5"
+P_L = "7"
+P_T = "0"
+P_TO = "6"
+P_GF = "5"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Schacht"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "23"
+P_IP = "114.2"
+P_AB = "719"
+P_H = "99"
+P_R = "50"
+P_SO = "38"
+P_BB = "41"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_W = "4"
+P_L = "6"
+P_T = "0"
+P_TO = "5"
+P_GF = "11"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Donnelly"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "7"
+P_IP = "30.2"
+P_AB = "113"
+P_H = "32"
+P_R = "15"
+P_SO = "15"
+P_BB = "17"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_TO = "4"
+P_GF = "1"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "5"
+P_IP = "39"
+P_AB = "136"
+P_H = "29"
+P_R = "18"
+P_SO = "24"
+P_BB = "18"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_TO = "3"
+P_GF = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "32"
+P_IP = "208"
+P_AB = "764"
+P_H = "215"
+P_R = "105"
+P_SO = "199"
+P_BB = "96"
+P_HP = "8"
+P_WP = "15"
+P_BK = "0"
+P_W = "10"
+P_L = "16"
+P_T = "0"
+P_TO = "9"
+P_GF = "4"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Taff"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "19"
+P_IP = "108.1"
+P_AB = "423"
+P_H = "132"
+P_R = "75"
+P_SO = "50"
+P_BB = "52"
+P_HP = "12"
+P_WP = "4"
+P_BK = "0"
+P_W = "6"
+P_L = "10"
+P_T = "1"
+P_TO = "6"
+P_GF = "4"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Goulait"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "12"
+P_IP = "60.1"
+P_AB = "236"
+P_H = "66"
+P_R = "29"
+P_SO = "43"
+P_BB = "37"
+P_HP = "4"
+P_WP = "4"
+P_BK = "0"
+P_W = "3"
+P_L = "5"
+P_T = "0"
+P_TO = "4"
+P_GF = "3"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Zamloch"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "11"
+P_IP = "68.1"
+P_AB = "289"
+P_H = "71"
+P_R = "36"
+P_SO = "23"
+P_BB = "31"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_W = "3"
+P_L = "5"
+P_T = "0"
+P_TO = "3"
+P_GF = "3"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Brandom"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "51"
+P_IP = "227.2"
+P_AB = "841"
+P_H = "232"
+P_R = "117"
+P_SO = "107"
+P_BB = "60"
+P_HP = "6"
+P_WP = "5"
+P_BK = "0"
+P_W = "8"
+P_L = "16"
+P_T = "0"
+P_TO = "5"
+P_GF = "18"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Moran"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "17"
+P_IP = "78"
+P_AB = "296"
+P_H = "75"
+P_R = "32"
+P_SO = "37"
+P_BB = "23"
+P_HP = "8"
+P_WP = "4"
+P_BK = "0"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_TO = "3"
+P_GF = "9"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Wheatley"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Providence"
+[person.playing.totals]
+P_G = "13"
+P_IP = "81.2"
+P_AB = "305"
+P_H = "91"
+P_R = "48"
+P_SO = "20"
+P_BB = "35"
+P_HP = "8"
+P_WP = "2"
+P_BK = "0"
+P_W = "3"
+P_L = "6"
+P_T = "0"
+P_TO = "6"
+P_GF = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+P_G = "9"
+P_IP = "38.1"
+P_AB = "158"
+P_H = "50"
+P_R = "33"
+P_SO = "16"
+P_BB = "14"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_TO = "3"
+P_GF = "8"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Cadore"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "8"
+P_IP = "48.2"
+P_AB = "135"
+P_H = "26"
+P_R = "13"
+P_SO = "10"
+P_BB = "16"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_TO = "1"
+P_GF = "5"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Viebahn"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "8"
+P_IP = "32"
+P_AB = "108"
+P_H = "23"
+P_R = "9"
+P_SO = "13"
+P_BB = "14"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_TO = "2"
+P_GF = "4"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "6"
+P_IP = "22"
+P_AB = "77"
+P_H = "15"
+P_R = "15"
+P_SO = "12"
+P_BB = "18"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Brandt"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "16"
+P_IP = "78.2"
+P_AB = "277"
+P_H = "66"
+P_R = "44"
+P_SO = "58"
+P_BB = "47"
+P_HP = "0"
+P_WP = "5"
+P_BK = "2"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_TO = "7"
+P_GF = "5"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Coakley"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "16"
+P_IP = "94.1"
+P_AB = "368"
+P_H = "105"
+P_R = "72"
+P_SO = "41"
+P_BB = "32"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_W = "3"
+P_L = "8"
+P_T = "0"
+P_TO = "4"
+P_GF = "5"
+P_PCT = ".274"
+
+
+[[person]]
+name.last = "Verbout"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "9"
+P_IP = "74.1"
+P_AB = "237"
+P_H = "58"
+P_R = "44"
+P_SO = "20"
+P_BB = "23"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_W = "1"
+P_L = "6"
+P_T = "0"
+P_TO = "2"
+P_GF = "2"
+P_PCT = ".143"
+
+
+[[person]]
+name.last = "Cooney"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+P_G = "10"
+P_IP = "36.1"
+P_AB = "148"
+P_H = "53"
+P_R = "38"
+P_SO = "8"
+P_BB = "25"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "6"
+P_T = "0"
+P_TO = "6"
+P_GF = "3"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Herbert"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "8"
+P_IP = "32.2"
+P_AB = "127"
+P_H = "37"
+P_R = "21"
+P_SO = "9"
+P_BB = "6"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_TO = "2"
+P_GF = "6"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Burke"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+P_G = "6"
+P_IP = "23"
+P_AB = "99"
+P_H = "31"
+P_R = "25"
+P_SO = "7"
+P_BB = "12"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_TO = "1"
+P_GF = "4"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Gervais"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+P_G = "5"
+P_IP = "24.1"
+P_AB = "100"
+P_H = "34"
+P_R = "22"
+P_SO = "6"
+P_BB = "17"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_TO = "2"
+P_GF = "2"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Schwab"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+P_G = "5"
+P_IP = "22"
+P_AB = "75"
+P_H = "23"
+P_R = "10"
+P_SO = "6"
+P_BB = "11"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "1"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Gaskell"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+P_G = "5"
+P_IP = "19.1"
+P_AB = "69"
+P_H = "19"
+P_R = "8"
+P_SO = "8"
+P_BB = "7"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Jensen"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bentley"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Yates"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "North"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sweet"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Klepfer"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Upham"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Almeida"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Vickers"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Demmitt"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Averatt"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kirley"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tompkins"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Rudolph"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Galm"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Pape"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jarman"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Tuero"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Caporel"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McCleary"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Davidson"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Betts"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Banker"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Britton"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mullin"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Orth"
+[[person.playing]]
+season = "1913"
+league.name = "International League"
+phase = "regular"
+[person.playing.totals]

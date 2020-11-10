@@ -1,0 +1,100 @@
+[[person]]
+name.last = "Prout"
+name.given = "Bill"
+[[person.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carta Vieja"
+[person.playing.totals]
+P_IP = "67"
+P_SO = "16"
+P_W = "5"
+P_L = "3"
+P_ERA = "2.14"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Humberto"
+[[person.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marlboro"
+[person.playing.totals]
+P_IP = "104"
+P_SO = "31"
+P_W = "6"
+P_L = "4"
+P_ERA = "2.68"
+
+
+[[person]]
+name.last = "Luebke"
+name.given = "Dick"
+[[person.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Azucareros"
+[person.playing.totals]
+P_IP = "89"
+P_SO = "30"
+P_W = "10"
+P_L = "1"
+P_ERA = "3.03"
+
+
+[[person]]
+name.last = "Black"
+name.given = "Bud"
+[[person.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Azucareros"
+[person.playing.totals]
+P_IP = "80"
+P_SO = "28"
+P_W = "4"
+P_L = "3"
+P_ERA = "3.15"
+
+
+[[person]]
+name.last = "Maranda"
+name.given = "Georges"
+[[person.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cerveza Balboa"
+[person.playing.totals]
+P_IP = "95"
+P_SO = "35"
+P_W = "6"
+P_L = "4"
+P_ERA = "3.31"
+
+
+[[person]]
+name.last = "Umbricht"
+name.given = "Jim"
+[[person.playing]]
+season = "1958"
+league.name = "Panama Winter League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Carta Vieja"
+[person.playing.totals]
+P_IP = "93"
+P_SO = "35"
+P_W = "5"
+P_L = "7"
+P_ERA = "3.40"

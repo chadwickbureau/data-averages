@@ -1,0 +1,621 @@
+[[person]]
+name.last = "Kaufman"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "87"
+P_AB = "330"
+P_H = "72"
+P_R = "30"
+P_HP = "5"
+P_BB = "20"
+P_SO = "44"
+P_WP = "3"
+P_DEC = "10"
+P_W = "9"
+P_L = "1"
+P_PCT = ".900"
+
+
+[[person]]
+name.last = "Ledbetter"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "311"
+P_AB = "1143"
+P_H = "245"
+P_R = "109"
+P_HP = "10"
+P_BB = "77"
+P_SO = "179"
+P_WP = "7"
+P_DEC = "38"
+P_W = "26"
+P_L = "12"
+P_PCT = ".684"
+
+
+[[person]]
+name.last = "Thrailkill"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "129"
+P_AB = "472"
+P_H = "107"
+P_R = "60"
+P_HP = "3"
+P_BB = "49"
+P_SO = "74"
+P_WP = "5"
+P_DEC = "15"
+P_W = "10"
+P_L = "5"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "56"
+P_AB = "222"
+P_H = "60"
+P_R = "28"
+P_HP = "2"
+P_BB = "9"
+P_SO = "12"
+P_WP = "0"
+P_DEC = "6"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "372"
+P_AB = "1436"
+P_H = "259"
+P_R = "134"
+P_HP = "31"
+P_BB = "199"
+P_SO = "317"
+P_WP = "17"
+P_DEC = "43"
+P_W = "28"
+P_L = "15"
+P_PCT = ".651"
+
+
+[[person]]
+name.last = "Fesperman"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "172"
+P_AB = "641"
+P_H = "152"
+P_R = "65"
+P_HP = "5"
+P_BB = "32"
+P_SO = "68"
+P_WP = "5"
+P_DEC = "19"
+P_W = "12"
+P_L = "7"
+P_PCT = ".632"
+
+
+[[person]]
+name.last = "Drohan"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "72"
+P_AB = "280"
+P_H = "77"
+P_R = "46"
+P_HP = "0"
+P_BB = "24"
+P_SO = "33"
+P_WP = "0"
+P_DEC = "8"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "175"
+P_AB = "700"
+P_H = "168"
+P_R = "74"
+P_HP = "7"
+P_BB = "45"
+P_SO = "92"
+P_WP = "8"
+P_DEC = "21"
+P_W = "13"
+P_L = "8"
+P_PCT = ".619"
+
+
+[[person]]
+name.last = "Meadows"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "285"
+P_AB = "1027"
+P_H = "202"
+P_R = "77"
+P_HP = "11"
+P_BB = "87"
+P_SO = "195"
+P_WP = "10"
+P_DEC = "31"
+P_W = "19"
+P_L = "12"
+P_PCT = ".613"
+
+
+[[person]]
+name.last = "Forbes"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "129"
+P_AB = "477"
+P_H = "99"
+P_R = "56"
+P_HP = "7"
+P_BB = "57"
+P_SO = "77"
+P_WP = "5"
+P_DEC = "18"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Freye"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "208"
+P_AB = "767"
+P_H = "178"
+P_R = "84"
+P_HP = "9"
+P_BB = "74"
+P_SO = "111"
+P_WP = "7"
+P_DEC = "19"
+P_W = "11"
+P_L = "8"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "McManus"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Durham"
+[person.playing.totals]
+P_IP = "357"
+P_AB = "1296"
+P_H = "306"
+P_R = "120"
+P_HP = "19"
+P_BB = "64"
+P_SO = "149"
+P_WP = "2"
+P_DEC = "41"
+P_W = "23"
+P_L = "18"
+P_PCT = ".561"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_IP = "319"
+P_AB = "1213"
+P_H = "310"
+P_R = "152"
+P_HP = "17"
+P_BB = "90"
+P_SO = "144"
+P_WP = "10"
+P_DEC = "38"
+P_W = "19"
+P_L = "19"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Harper"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_IP = "279"
+P_AB = "1032"
+P_H = "258"
+P_R = "129"
+P_HP = "21"
+P_BB = "113"
+P_SO = "132"
+P_WP = "9"
+P_DEC = "30"
+P_W = "15"
+P_L = "15"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Schwartje"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_IP = "231"
+P_AB = "843"
+P_H = "205"
+P_R = "90"
+P_HP = "7"
+P_BB = "50"
+P_SO = "107"
+P_WP = "3"
+P_DEC = "26"
+P_W = "13"
+P_L = "13"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Meador"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "178"
+P_AB = "702"
+P_H = "172"
+P_R = "87"
+P_HP = "5"
+P_BB = "55"
+P_SO = "77"
+P_WP = "7"
+P_DEC = "20"
+P_W = "10"
+P_L = "10"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Fortune"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "113"
+P_AB = "414"
+P_H = "91"
+P_R = "59"
+P_HP = "10"
+P_BB = "45"
+P_SO = "56"
+P_WP = "4"
+P_DEC = "10"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "High"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "82"
+P_AB = "333"
+P_H = "82"
+P_R = "41"
+P_HP = "9"
+P_BB = "43"
+P_SO = "54"
+P_WP = "2"
+P_DEC = "8"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Yon"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_IP = "209"
+P_AB = "788"
+P_H = "195"
+P_R = "94"
+P_HP = "10"
+P_BB = "72"
+P_SO = "144"
+P_WP = "5"
+P_DEC = "21"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+
+
+[[person]]
+name.last = "Morrissette"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Raleigh"
+[person.playing.totals]
+P_IP = "224"
+P_AB = "805"
+P_H = "160"
+P_R = "86"
+P_HP = "20"
+P_BB = "74"
+P_SO = "104"
+P_WP = "6"
+P_DEC = "26"
+P_W = "12"
+P_L = "14"
+P_PCT = ".462"
+
+
+[[person]]
+name.last = "Ostermeyer"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "276"
+P_AB = "1064"
+P_H = "251"
+P_R = "133"
+P_HP = "14"
+P_BB = "85"
+P_SO = "178"
+P_WP = "9"
+P_DEC = "35"
+P_W = "16"
+P_L = "19"
+P_PCT = ".457"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "125"
+P_AB = "473"
+P_H = "106"
+P_R = "46"
+P_HP = "5"
+P_BB = "43"
+P_SO = "56"
+P_WP = "8"
+P_DEC = "11"
+P_W = "5"
+P_L = "6"
+P_PCT = ".454"
+
+
+[[person]]
+name.last = "Watson"
+name.given = "H."
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "230"
+P_AB = "862"
+P_H = "203"
+P_R = "99"
+P_HP = "10"
+P_BB = "45"
+P_SO = "91"
+P_WP = "3"
+P_DEC = "25"
+P_W = "10"
+P_L = "15"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Goane"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_IP = "138"
+P_AB = "525"
+P_H = "136"
+P_R = "66"
+P_HP = "2"
+P_BB = "37"
+P_SO = "68"
+P_WP = "5"
+P_DEC = "16"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Gingras"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_IP = "222"
+P_AB = "848"
+P_H = "191"
+P_R = "113"
+P_HP = "19"
+P_BB = "112"
+P_SO = "122"
+P_WP = "9"
+P_DEC = "22"
+P_W = "8"
+P_L = "14"
+P_PCT = ".364"
+
+
+[[person]]
+name.last = "Ferris"
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_IP = "206"
+P_AB = "794"
+P_H = "198"
+P_R = "72"
+P_HP = "4"
+P_BB = "38"
+P_SO = "84"
+P_WP = "3"
+P_DEC = "25"
+P_W = "9"
+P_L = "16"
+P_PCT = ".360"
+
+
+[[person]]
+name.last = "Boyle"
+name.given = "P."
+[[person.playing]]
+season = "1914"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_IP = "185"
+P_AB = "702"
+P_H = "188"
+P_R = "94"
+P_HP = "6"
+P_BB = "39"
+P_SO = "52"
+P_WP = "4"
+P_DEC = "21"
+P_W = "7"
+P_L = "14"
+P_PCT = ".333"

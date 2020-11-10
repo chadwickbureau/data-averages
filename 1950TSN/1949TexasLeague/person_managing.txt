@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Bragan"
+name.given = "Robert"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fort Worth"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Vincent"
+name.given = "Al"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tulsa"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Vosmick"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Oklahoma City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Parker"
+name.given = "Francis (Salty)"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Shreveport"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Adair"
+name.given = "James"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dallas"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Goff"
+name.given = "Robert"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Dallas"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mancuso"
+name.given = "August (Gus)"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Antonio"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilber"
+name.given = "Delbert"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Houston"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Autry"
+name.given = "Martin (Chick)"
+[[person.managing]]
+season = "1949"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Beaumont"
+S_ORDER = "0"
+[person.managing.totals]

@@ -1,0 +1,76 @@
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2134"
+F_A = "966"
+F_E = "161"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Great Falls"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1990"
+F_A = "838"
+F_E = "150"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1949"
+F_A = "967"
+F_E = "169"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1934"
+F_A = "1046"
+F_E = "201"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1635"
+F_A = "860"
+F_E = "171"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1917"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "1902"
+F_A = "882"
+F_E = "212"
+F_PCT = ".929"

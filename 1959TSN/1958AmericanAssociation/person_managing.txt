@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Norman"
+name.given = "Willis (Bill)"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Adair"
+name.given = "Marion (Bill)"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Charleston"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Geraghty"
+name.given = "Benjamin"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wichita"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mauch"
+name.given = "Eugene"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Minneapolis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cohen"
+name.given = "Andrew"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Denver"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Keane"
+name.given = "John"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Omaha"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cooper"
+name.given = "W. Walker"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Indianapolis"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Macon"
+name.given = "Max"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "St. Paul"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilber"
+name.given = "Delbert"
+[[person.managing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Louisville"
+S_ORDER = "0"
+[person.managing.totals]

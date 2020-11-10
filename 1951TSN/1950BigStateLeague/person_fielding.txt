@@ -1,0 +1,4256 @@
+[[person]]
+name.last = "Finney"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "51"
+F_1B_PO = "441"
+F_1B_A = "10"
+F_1B_E = "2"
+F_1B_DP = "51"
+F_1B_PCT = ".996"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Archie"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "81"
+F_1B_PO = "696"
+F_1B_A = "45"
+F_1B_E = "4"
+F_1B_DP = "64"
+F_1B_PCT = ".995"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Suytar"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "86"
+F_1B_PO = "691"
+F_1B_A = "39"
+F_1B_E = "6"
+F_1B_DP = "55"
+F_1B_PCT = ".992"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Sunblad"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "50"
+F_1B_PO = "433"
+F_1B_A = "23"
+F_1B_E = "4"
+F_1B_DP = "27"
+F_1B_PCT = ".991"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Goldstein"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "142"
+F_1B_PO = "1161"
+F_1B_A = "80"
+F_1B_E = "13"
+F_1B_DP = "108"
+F_1B_PCT = ".990"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Moyer"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "90"
+F_1B_PO = "786"
+F_1B_A = "64"
+F_1B_E = "9"
+F_1B_DP = "75"
+F_1B_PCT = ".990"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "DuBois"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "42"
+F_1B_PO = "389"
+F_1B_A = "20"
+F_1B_E = "4"
+F_1B_DP = "41"
+F_1B_PCT = ".990"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Schroeder"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "100"
+F_1B_PO = "834"
+F_1B_A = "53"
+F_1B_E = "10"
+F_1B_DP = "72"
+F_1B_PCT = ".989"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Riney"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "64"
+F_1B_PO = "576"
+F_1B_A = "24"
+F_1B_E = "7"
+F_1B_DP = "35"
+F_1B_PCT = ".988"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "65"
+F_1B_PO = "552"
+F_1B_A = "23"
+F_1B_E = "9"
+F_1B_DP = "50"
+F_1B_PCT = ".985"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Belford"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "57"
+F_1B_PO = "532"
+F_1B_A = "32"
+F_1B_E = "9"
+F_1B_DP = "44"
+F_1B_PCT = ".984"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "McClung"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "16"
+F_1B_PO = "115"
+F_1B_A = "7"
+F_1B_E = "2"
+F_1B_DP = "12"
+F_1B_PCT = ".984"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Vangelas"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "130"
+F_1B_PO = "1152"
+F_1B_A = "40"
+F_1B_E = "20"
+F_1B_DP = "152"
+F_1B_PCT = ".983"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Sarver"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "74"
+F_1B_PO = "601"
+F_1B_A = "39"
+F_1B_E = "11"
+F_1B_DP = "55"
+F_1B_PCT = ".983"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "Demski"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "41"
+F_1B_PO = "371"
+F_1B_A = "23"
+F_1B_E = "8"
+F_1B_DP = "35"
+F_1B_PCT = ".980"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Dossey"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "11"
+F_1B_PO = "78"
+F_1B_A = "7"
+F_1B_E = "2"
+F_1B_DP = "4"
+F_1B_PCT = ".977"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "McCarty"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "20"
+F_1B_PO = "173"
+F_1B_A = "11"
+F_1B_E = "5"
+F_1B_DP = "19"
+F_1B_PCT = ".974"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Salata"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "13"
+F_1B_PO = "110"
+F_1B_A = "4"
+F_1B_E = "3"
+F_1B_DP = "14"
+F_1B_PCT = ".974"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Carswell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "66"
+F_1B_A = "5"
+F_1B_E = "2"
+F_1B_DP = "5"
+F_1B_PCT = ".973"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Stafford"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "13"
+F_1B_PO = "105"
+F_1B_A = "6"
+F_1B_E = "4"
+F_1B_DP = "7"
+F_1B_PCT = ".965"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "126"
+F_2B_PO = "328"
+F_2B_A = "322"
+F_2B_E = "16"
+F_2B_DP = "66"
+F_2B_PCT = ".976"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Sopko"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "133"
+F_2B_PO = "372"
+F_2B_A = "420"
+F_2B_E = "21"
+F_2B_DP = "124"
+F_2B_PCT = ".974"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Donaldson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "144"
+F_2B_PO = "343"
+F_2B_A = "385"
+F_2B_E = "21"
+F_2B_DP = "95"
+F_2B_PCT = ".972"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Fitzgerald"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "73"
+F_2B_PO = "200"
+F_2B_A = "211"
+F_2B_E = "12"
+F_2B_DP = "45"
+F_2B_PCT = ".972"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "60"
+F_2B_PO = "174"
+F_2B_A = "133"
+F_2B_E = "10"
+F_2B_DP = "31"
+F_2B_PCT = ".968"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Womack"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "42"
+F_2B_PO = "113"
+F_2B_A = "102"
+F_2B_E = "7"
+F_2B_DP = "32"
+F_2B_PCT = ".968"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Kaires"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "96"
+F_2B_PO = "248"
+F_2B_A = "263"
+F_2B_E = "19"
+F_2B_DP = "66"
+F_2B_PCT = ".964"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "69"
+F_2B_PO = "180"
+F_2B_A = "180"
+F_2B_E = "14"
+F_2B_DP = "34"
+F_2B_PCT = ".963"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Attyd"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "51"
+F_2B_A = "47"
+F_2B_E = "4"
+F_2B_DP = "13"
+F_2B_PCT = ".961"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "34"
+F_2B_A = "38"
+F_2B_E = "3"
+F_2B_DP = "10"
+F_2B_PCT = ".960"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "O'Rourke"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "73"
+F_2B_PO = "168"
+F_2B_A = "169"
+F_2B_E = "15"
+F_2B_DP = "46"
+F_2B_PCT = ".957"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "O."
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "25"
+F_2B_PO = "66"
+F_2B_A = "63"
+F_2B_E = "6"
+F_2B_DP = "19"
+F_2B_PCT = ".956"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Wooster"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "121"
+F_2B_PO = "310"
+F_2B_A = "343"
+F_2B_E = "41"
+F_2B_DP = "96"
+F_2B_PCT = ".941"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Main"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "29"
+F_2B_PO = "82"
+F_2B_A = "85"
+F_2B_E = "11"
+F_2B_DP = "17"
+F_2B_PCT = ".938"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Colombatto"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "27"
+F_2B_PO = "83"
+F_2B_A = "63"
+F_2B_E = "10"
+F_2B_DP = "12"
+F_2B_PCT = ".936"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Samela"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "26"
+F_2B_PO = "71"
+F_2B_A = "59"
+F_2B_E = "10"
+F_2B_DP = "17"
+F_2B_PCT = ".929"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "20"
+F_2B_A = "32"
+F_2B_E = "4"
+F_2B_DP = "3"
+F_2B_PCT = ".929"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "77"
+F_2B_PO = "161"
+F_2B_A = "190"
+F_2B_E = "50"
+F_2B_DP = "73"
+F_2B_PCT = ".875"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "16"
+F_3B_PO = "14"
+F_3B_A = "28"
+F_3B_E = "2"
+F_3B_DP = "2"
+F_3B_PCT = ".955"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Halter"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "13"
+F_3B_A = "29"
+F_3B_E = "2"
+F_3B_DP = "1"
+F_3B_PCT = ".955"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Kaires"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "28"
+F_3B_PO = "31"
+F_3B_A = "47"
+F_3B_E = "4"
+F_3B_DP = "4"
+F_3B_PCT = ".951"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Haines"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "59"
+F_3B_PO = "53"
+F_3B_A = "106"
+F_3B_E = "9"
+F_3B_DP = "16"
+F_3B_PCT = ".946"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "McClung"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "124"
+F_3B_PO = "140"
+F_3B_A = "248"
+F_3B_E = "24"
+F_3B_DP = "28"
+F_3B_PCT = ".943"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Konyar"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "25"
+F_3B_PO = "25"
+F_3B_A = "54"
+F_3B_E = "6"
+F_3B_DP = "7"
+F_3B_PCT = ".929"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "132"
+F_3B_PO = "149"
+F_3B_A = "285"
+F_3B_E = "35"
+F_3B_DP = "29"
+F_3B_PCT = ".925"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "O."
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "100"
+F_3B_PO = "106"
+F_3B_A = "213"
+F_3B_E = "26"
+F_3B_DP = "21"
+F_3B_PCT = ".925"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Fitzgerald"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "66"
+F_3B_PO = "59"
+F_3B_A = "121"
+F_3B_E = "15"
+F_3B_DP = "13"
+F_3B_PCT = ".923"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Bevan"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "48"
+F_3B_PO = "46"
+F_3B_A = "92"
+F_3B_E = "12"
+F_3B_DP = "7"
+F_3B_PCT = ".920"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Attyd"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "117"
+F_3B_PO = "150"
+F_3B_A = "252"
+F_3B_E = "37"
+F_3B_DP = "23"
+F_3B_PCT = ".916"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Suarez"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "142"
+F_3B_PO = "139"
+F_3B_A = "309"
+F_3B_E = "42"
+F_3B_DP = "26"
+F_3B_PCT = ".914"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Barlow"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "7"
+F_3B_A = "25"
+F_3B_E = "3"
+F_3B_DP = "3"
+F_3B_PCT = ".914"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "22"
+F_3B_PO = "28"
+F_3B_A = "44"
+F_3B_E = "7"
+F_3B_DP = "4"
+F_3B_PCT = ".911"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Hyatt"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "132"
+F_3B_PO = "132"
+F_3B_A = "222"
+F_3B_E = "37"
+F_3B_DP = "30"
+F_3B_PCT = ".905"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "O'Rourke"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "29"
+F_3B_PO = "31"
+F_3B_A = "45"
+F_3B_E = "8"
+F_3B_DP = "2"
+F_3B_PCT = ".905"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Carswell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "76"
+F_3B_PO = "80"
+F_3B_A = "147"
+F_3B_E = "27"
+F_3B_DP = "11"
+F_3B_PCT = ".894"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "17"
+F_3B_PO = "18"
+F_3B_A = "27"
+F_3B_E = "7"
+F_3B_DP = "1"
+F_3B_PCT = ".865"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Gilchrist"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "95"
+F_SS_PO = "112"
+F_SS_A = "281"
+F_SS_E = "21"
+F_SS_DP = "44"
+F_SS_PCT = ".949"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Schaeffer"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "143"
+F_SS_PO = "334"
+F_SS_A = "467"
+F_SS_E = "46"
+F_SS_DP = "98"
+F_SS_PCT = ".946"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Santomauro"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "69"
+F_SS_PO = "118"
+F_SS_A = "207"
+F_SS_E = "19"
+F_SS_DP = "45"
+F_SS_PCT = ".945"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Blanco"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "18"
+F_SS_A = "31"
+F_SS_E = "3"
+F_SS_DP = "4"
+F_SS_PCT = ".942"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "67"
+F_SS_PO = "141"
+F_SS_A = "241"
+F_SS_E = "26"
+F_SS_DP = "45"
+F_SS_PCT = ".936"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Carlson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "148"
+F_SS_PO = "250"
+F_SS_A = "509"
+F_SS_E = "53"
+F_SS_DP = "123"
+F_SS_PCT = ".935"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Runnels"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "144"
+F_SS_PO = "226"
+F_SS_A = "447"
+F_SS_E = "48"
+F_SS_DP = "75"
+F_SS_PCT = ".933"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "84"
+F_SS_PO = "179"
+F_SS_A = "234"
+F_SS_E = "32"
+F_SS_DP = "40"
+F_SS_PCT = ".928"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "68"
+F_SS_PO = "107"
+F_SS_A = "175"
+F_SS_E = "22"
+F_SS_DP = "29"
+F_SS_PCT = ".928"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Reyes"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "77"
+F_SS_PO = "113"
+F_SS_A = "235"
+F_SS_E = "29"
+F_SS_DP = "31"
+F_SS_PCT = ".923"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "91"
+F_SS_PO = "152"
+F_SS_A = "215"
+F_SS_E = "35"
+F_SS_DP = "32"
+F_SS_PCT = ".913"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Castillo"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "59"
+F_SS_PO = "112"
+F_SS_A = "143"
+F_SS_E = "26"
+F_SS_DP = "26"
+F_SS_PCT = ".907"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Halter"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "41"
+F_SS_PO = "65"
+F_SS_A = "102"
+F_SS_E = "20"
+F_SS_DP = "19"
+F_SS_PCT = ".893"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Samela"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "51"
+F_SS_PO = "81"
+F_SS_A = "151"
+F_SS_E = "36"
+F_SS_DP = "39"
+F_SS_PCT = ".866"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Samela"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "57"
+F_OF_PO = "88"
+F_OF_A = "3"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Carswell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "39"
+F_OF_PO = "49"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Matthews"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "29"
+F_OF_A = "4"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Gorgal"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "21"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rahmes"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "51"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Salvatierra"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "69"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".986"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "131"
+F_OF_PO = "234"
+F_OF_A = "25"
+F_OF_E = "4"
+F_OF_DP = "5"
+F_OF_PCT = ".985"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Corona"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "79"
+F_OF_PO = "198"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "2"
+F_OF_PCT = ".985"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "121"
+F_OF_PO = "270"
+F_OF_A = "10"
+F_OF_E = "5"
+F_OF_DP = "2"
+F_OF_PCT = ".982"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Santomauro"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "52"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".981"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Scherting"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "26"
+F_OF_PO = "43"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".979"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Stafford"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "131"
+F_OF_PO = "287"
+F_OF_A = "10"
+F_OF_E = "7"
+F_OF_DP = "2"
+F_OF_PCT = ".977"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bradsher"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "145"
+F_OF_PO = "419"
+F_OF_A = "17"
+F_OF_E = "11"
+F_OF_DP = "1"
+F_OF_PCT = ".975"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wadsworth"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "76"
+F_OF_PO = "112"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".975"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Szekely"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "142"
+F_OF_PO = "328"
+F_OF_A = "3"
+F_OF_E = "9"
+F_OF_DP = "0"
+F_OF_PCT = ".974"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Vucelich"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "126"
+F_OF_PO = "300"
+F_OF_A = "1"
+F_OF_E = "8"
+F_OF_DP = "0"
+F_OF_PCT = ".974"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "70"
+F_OF_A = "5"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".974"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Stokes"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "140"
+F_OF_PO = "259"
+F_OF_A = "16"
+F_OF_E = "8"
+F_OF_DP = "4"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cyr"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "93"
+F_OF_A = "10"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "90"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".969"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "23"
+F_OF_PO = "60"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".969"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Moyer"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "57"
+F_OF_PO = "87"
+F_OF_A = "4"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "90"
+F_OF_PO = "159"
+F_OF_A = "10"
+F_OF_E = "6"
+F_OF_DP = "0"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hresko"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "75"
+F_OF_PO = "110"
+F_OF_A = "5"
+F_OF_E = "4"
+F_OF_DP = "1"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Riney"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "52"
+F_OF_PO = "79"
+F_OF_A = "7"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".966"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Paszek"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "60"
+F_OF_PO = "130"
+F_OF_A = "8"
+F_OF_E = "5"
+F_OF_DP = "2"
+F_OF_PCT = ".965"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Seltzer"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "131"
+F_OF_PO = "336"
+F_OF_A = "11"
+F_OF_E = "13"
+F_OF_DP = "6"
+F_OF_PCT = ".964"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sanders"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "52"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".963"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Powis"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "61"
+F_OF_PO = "138"
+F_OF_A = "8"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".961"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McCarty"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "120"
+F_OF_PO = "211"
+F_OF_A = "17"
+F_OF_E = "10"
+F_OF_DP = "2"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lawrence"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "42"
+F_OF_PO = "61"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "1"
+F_OF_PCT = ".957"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "22"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".957"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "McClain"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "140"
+F_OF_PO = "337"
+F_OF_A = "9"
+F_OF_E = "16"
+F_OF_DP = "3"
+F_OF_PCT = ".956"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "130"
+F_OF_PO = "264"
+F_OF_A = "19"
+F_OF_E = "13"
+F_OF_DP = "2"
+F_OF_PCT = ".956"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Basso"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "141"
+F_OF_PO = "359"
+F_OF_A = "13"
+F_OF_E = "18"
+F_OF_DP = "2"
+F_OF_PCT = ".954"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "141"
+F_OF_PO = "221"
+F_OF_A = "20"
+F_OF_E = "12"
+F_OF_DP = "5"
+F_OF_PCT = ".953"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mink"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "41"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".953"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sanner"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "126"
+F_OF_PO = "208"
+F_OF_A = "12"
+F_OF_E = "11"
+F_OF_DP = "2"
+F_OF_PCT = ".952"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hinchberger"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "37"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".951"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Pugatch"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "95"
+F_OF_PO = "222"
+F_OF_A = "18"
+F_OF_E = "13"
+F_OF_DP = "1"
+F_OF_PCT = ".949"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "56"
+F_OF_PO = "120"
+F_OF_A = "6"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".947"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "17"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".944"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sinton"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "21"
+F_OF_PO = "48"
+F_OF_A = "1"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".942"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Dial"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "26"
+F_OF_A = "4"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".938"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Baas"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "114"
+F_OF_PO = "236"
+F_OF_A = "11"
+F_OF_E = "17"
+F_OF_DP = "2"
+F_OF_PCT = ".936"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Trench"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "11"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".933"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Halter"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "62"
+F_OF_PO = "129"
+F_OF_A = "7"
+F_OF_E = "10"
+F_OF_DP = "0"
+F_OF_PCT = ".932"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "93"
+F_OF_PO = "169"
+F_OF_A = "4"
+F_OF_E = "13"
+F_OF_DP = "0"
+F_OF_PCT = ".930"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Alotta"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "40"
+F_OF_PO = "58"
+F_OF_A = "2"
+F_OF_E = "5"
+F_OF_DP = "1"
+F_OF_PCT = ".923"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Ramos"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "13"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".867"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bremer"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "24"
+F_OF_A = "1"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".862"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Neal"
+name.given = "R."
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "7"
+F_OF_A = "0"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".636"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Wilkie"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "34"
+F_C_A = "3"
+F_C_E = "0"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Trench"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "108"
+F_C_PO = "518"
+F_C_A = "47"
+F_C_E = "4"
+F_C_DP = "5"
+F_C_PB = "5"
+F_C_PCT = ".993"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "57"
+F_C_PO = "197"
+F_C_A = "14"
+F_C_E = "2"
+F_C_DP = "1"
+F_C_PB = "6"
+F_C_PCT = ".991"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Mitchell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "54"
+F_C_PO = "284"
+F_C_A = "21"
+F_C_E = "3"
+F_C_DP = "5"
+F_C_PB = "1"
+F_C_PCT = ".990"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Stingley"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "22"
+F_C_PO = "74"
+F_C_A = "6"
+F_C_E = "1"
+F_C_DP = "2"
+F_C_PB = "3"
+F_C_PCT = ".988"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Kennedy"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "134"
+F_C_PO = "667"
+F_C_A = "78"
+F_C_E = "11"
+F_C_DP = "9"
+F_C_PB = "16"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Matthews"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "69"
+F_C_PO = "352"
+F_C_A = "30"
+F_C_E = "6"
+F_C_DP = "4"
+F_C_PB = "8"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dossey"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "48"
+F_C_PO = "241"
+F_C_A = "19"
+F_C_E = "4"
+F_C_DP = "2"
+F_C_PB = "2"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "King"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "12"
+F_C_PO = "62"
+F_C_A = "5"
+F_C_E = "1"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dunnack"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "47"
+F_C_PO = "220"
+F_C_A = "22"
+F_C_E = "4"
+F_C_DP = "5"
+F_C_PB = "4"
+F_C_PCT = ".984"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Sanders"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "94"
+F_C_PO = "406"
+F_C_A = "59"
+F_C_E = "9"
+F_C_DP = "3"
+F_C_PB = "19"
+F_C_PCT = ".981"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Isringhaus"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "112"
+F_C_PO = "712"
+F_C_A = "51"
+F_C_E = "16"
+F_C_DP = "9"
+F_C_PB = "14"
+F_C_PCT = ".979"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "35"
+F_C_PO = "122"
+F_C_A = "12"
+F_C_E = "3"
+F_C_DP = "2"
+F_C_PB = "5"
+F_C_PCT = ".978"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hancken"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "43"
+F_C_PO = "203"
+F_C_A = "30"
+F_C_E = "6"
+F_C_DP = "8"
+F_C_PB = "2"
+F_C_PCT = ".975"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Pearson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "26"
+F_C_PO = "145"
+F_C_A = "9"
+F_C_E = "4"
+F_C_DP = "0"
+F_C_PB = "4"
+F_C_PCT = ".975"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Neal"
+name.given = "R."
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "85"
+F_C_PO = "365"
+F_C_A = "30"
+F_C_E = "11"
+F_C_DP = "6"
+F_C_PB = "24"
+F_C_PCT = ".973"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Mantaras"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "131"
+F_C_A = "15"
+F_C_E = "4"
+F_C_DP = "1"
+F_C_PB = "11"
+F_C_PCT = ".973"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cowser"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "108"
+F_C_PO = "504"
+F_C_A = "64"
+F_C_E = "17"
+F_C_DP = "5"
+F_C_PB = "14"
+F_C_PCT = ".971"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cardinale"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "58"
+F_C_A = "8"
+F_C_E = "2"
+F_C_DP = "0"
+F_C_PB = "3"
+F_C_PCT = ".971"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Neidson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "43"
+F_C_PO = "198"
+F_C_A = "28"
+F_C_E = "9"
+F_C_DP = "6"
+F_C_PB = "4"
+F_C_PCT = ".962"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "34"
+F_C_PO = "138"
+F_C_A = "24"
+F_C_E = "7"
+F_C_DP = "4"
+F_C_PB = "7"
+F_C_PCT = ".959"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Bernal"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "62"
+F_C_A = "7"
+F_C_E = "3"
+F_C_DP = "2"
+F_C_PB = "7"
+F_C_PCT = ".958"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Lofland"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "13"
+F_C_PO = "24"
+F_C_A = "4"
+F_C_E = "2"
+F_C_DP = "1"
+F_C_PB = "4"
+F_C_PCT = ".933"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Finks"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "11"
+F_C_PO = "28"
+F_C_A = "1"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".906"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Perkins"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "11"
+F_C_PO = "11"
+F_C_A = "1"
+F_C_E = "3"
+F_C_DP = "0"
+F_C_PB = "4"
+F_C_PCT = ".800"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hair"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "11"
+F_P_A = "33"
+F_P_E = "0"
+F_P_DP = "3"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Herr"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "4"
+F_P_A = "38"
+F_P_E = "0"
+F_P_DP = "4"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Rivas"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "3"
+F_P_A = "34"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Leonard"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "9"
+F_P_A = "28"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Albrecht"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "8"
+F_P_A = "17"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McDowell"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "10"
+F_P_A = "8"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Willis"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "4"
+F_P_A = "14"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hisey"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "6"
+F_P_A = "11"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Breeding"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "0"
+F_P_A = "11"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Melton"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "3"
+F_P_A = "8"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "0"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Stelmack"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cole"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "0"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Terry"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "0"
+F_P_A = "5"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ramos"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "44"
+F_P_PO = "11"
+F_P_A = "59"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".986"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Phipps"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "10"
+F_P_A = "39"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".980"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mink"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "16"
+F_P_A = "31"
+F_P_E = "1"
+F_P_DP = "6"
+F_P_PCT = ".979"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Dial"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "11"
+F_P_A = "29"
+F_P_E = "1"
+F_P_DP = "4"
+F_P_PCT = ".976"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Machado"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "19"
+F_P_A = "60"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".975"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "7"
+F_P_A = "29"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".973"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Friend"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "3"
+F_P_A = "33"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".973"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kennon"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "5"
+F_P_A = "64"
+F_P_E = "2"
+F_P_DP = "7"
+F_P_PCT = ".972"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Peterson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "6"
+F_P_A = "27"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Clary"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "5"
+F_P_A = "27"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".970"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Monahan"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "5"
+F_P_A = "25"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".968"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Tassin"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "10"
+F_P_A = "48"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".967"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Spyker"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "8"
+F_P_A = "17"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gleason"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "7"
+F_P_A = "18"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Iott"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "5"
+F_P_A = "20"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".962"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Budny"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "11"
+F_P_A = "36"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".959"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Leon"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "47"
+F_P_PO = "9"
+F_P_A = "37"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".958"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ferullo"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "8"
+F_P_A = "37"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".957"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "May"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "6"
+F_P_A = "16"
+F_P_E = "1"
+F_P_DP = "3"
+F_P_PCT = ".957"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Morton"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "6"
+F_P_A = "32"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".950"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Altizer"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "6"
+F_P_A = "32"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".950"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bumgarner"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "45"
+F_P_PO = "7"
+F_P_A = "29"
+F_P_E = "2"
+F_P_DP = "4"
+F_P_PCT = ".947"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ramsey"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "2"
+F_P_A = "34"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".947"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Pullig"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "5"
+F_P_A = "31"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".947"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "2"
+F_P_A = "15"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".944"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Higgins"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "0"
+F_P_A = "17"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".944"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Stryska"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "11"
+F_P_A = "39"
+F_P_E = "3"
+F_P_DP = "5"
+F_P_PCT = ".943"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "5"
+F_P_A = "28"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".943"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Venable"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "43"
+F_P_PO = "14"
+F_P_A = "33"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".940"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bussman"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "9"
+F_P_A = "37"
+F_P_E = "3"
+F_P_DP = "6"
+F_P_PCT = ".939"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Henry"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "2"
+F_P_A = "28"
+F_P_E = "2"
+F_P_DP = "2"
+F_P_PCT = ".938"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Goff"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "11"
+F_P_A = "32"
+F_P_E = "3"
+F_P_DP = "4"
+F_P_PCT = ".935"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "E."
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "7"
+F_P_A = "22"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".935"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bunch"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "5"
+F_P_A = "36"
+F_P_E = "3"
+F_P_DP = "4"
+F_P_PCT = ".932"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cain"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[[person.playing.split]]
+team.name = "Gainesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "1"
+F_P_A = "12"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Guerra"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "3"
+F_P_A = "9"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ferandez"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "10"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Elliott"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "0"
+F_P_A = "12"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wyberanec"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "3"
+F_P_A = "32"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".921"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Swanson"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "12"
+F_P_A = "43"
+F_P_E = "5"
+F_P_DP = "1"
+F_P_PCT = ".917"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Freels"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "3"
+F_P_A = "29"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".914"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Seabaugh"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "3"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Clay"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "1"
+F_P_A = "9"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Holleman"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "9"
+F_P_A = "20"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".906"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Gann"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "4"
+F_P_A = "15"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".905"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "McLaughlin"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "1"
+F_P_A = "8"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Martinez"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "3"
+F_P_A = "6"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".900"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Neal"
+name.given = "E."
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita Falls"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "7"
+F_P_A = "53"
+F_P_E = "7"
+F_P_DP = "1"
+F_P_PCT = ".896"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Nicholas"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "15"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".895"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Santulli"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "11"
+F_P_A = "22"
+F_P_E = "4"
+F_P_DP = "5"
+F_P_PCT = ".892"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bower"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "1"
+F_P_A = "6"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Austin"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "6"
+F_P_A = "18"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Daugherty"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Texarkana"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "2"
+F_P_A = "10"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".857"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Matthews"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "0"
+F_P_A = "27"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".844"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Mayor"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "2"
+F_P_A = "18"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".833"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Woolford"
+description.throws = "L"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "4"
+F_P_A = "16"
+F_P_E = "4"
+F_P_DP = "4"
+F_P_PCT = ".833"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Reid"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Gainesville"
+[[person.playing.split]]
+team.name = "Temple"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "0"
+F_P_A = "14"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".824"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Drilling"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waco"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "3"
+F_P_A = "15"
+F_P_E = "6"
+F_P_DP = "2"
+F_P_PCT = ".750"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Perez"
+[[person.playing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherman-Denison"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "6"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".727"
+F_P_TP = "0"

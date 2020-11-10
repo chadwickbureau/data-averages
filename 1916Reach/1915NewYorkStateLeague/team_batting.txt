@@ -1,0 +1,126 @@
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3744"
+B_R = "536"
+B_H = "1055"
+B_TB = "1336"
+B_SO = "348"
+B_BB = "378"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3873"
+B_R = "596"
+B_H = "1089"
+B_TB = "1509"
+B_SO = "405"
+B_BB = "371"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4053"
+B_R = "603"
+B_H = "1135"
+B_TB = "1536"
+B_SO = "421"
+B_BB = "377"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3914"
+B_R = "534"
+B_H = "1081"
+B_TB = "1368"
+B_SO = "366"
+B_BB = "294"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3737"
+B_R = "457"
+B_H = "984"
+B_TB = "1242"
+B_SO = "359"
+B_BB = "210"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3673"
+B_R = "429"
+B_H = "905"
+B_TB = "1151"
+B_SO = "481"
+B_BB = "288"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4004"
+B_R = "373"
+B_H = "961"
+B_TB = "1176"
+B_SO = "507"
+B_BB = "251"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Troy"
+[[team.playing]]
+season = "1915"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3669"
+B_R = "344"
+B_H = "848"
+B_TB = "1039"
+B_SO = "440"
+B_BB = "337"
+B_AVG = ".231"

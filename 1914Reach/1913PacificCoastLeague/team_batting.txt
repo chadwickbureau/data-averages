@@ -1,0 +1,112 @@
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1913"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "199"
+B_AB = "6649"
+B_R = "757"
+B_H = "1838"
+B_SB = "280"
+B_HR = "27"
+B_3B = "67"
+B_2B = "285"
+B_SH = "234"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1913"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "202"
+B_AB = "6498"
+B_R = "789"
+B_H = "1694"
+B_SB = "348"
+B_HR = "47"
+B_3B = "77"
+B_2B = "262"
+B_SH = "274"
+B_AVG = ".261"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1913"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "207"
+B_AB = "6603"
+B_R = "734"
+B_H = "1694"
+B_SB = "413"
+B_HR = "28"
+B_3B = "44"
+B_2B = "223"
+B_SH = "269"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Venice"
+[[team.playing]]
+season = "1913"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "212"
+B_AB = "6809"
+B_R = "805"
+B_H = "1741"
+B_SB = "245"
+B_HR = "44"
+B_3B = "97"
+B_2B = "311"
+B_SH = "213"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1913"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "210"
+B_AB = "6878"
+B_R = "811"
+B_H = "1746"
+B_SB = "406"
+B_HR = "46"
+B_3B = "93"
+B_2B = "217"
+B_SH = "249"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1913"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+B_G = "214"
+B_AB = "7002"
+B_R = "730"
+B_H = "1684"
+B_SB = "279"
+B_HR = "41"
+B_3B = "63"
+B_2B = "220"
+B_SH = "223"
+B_AVG = ".241"

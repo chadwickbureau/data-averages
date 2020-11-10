@@ -1,0 +1,2360 @@
+[[person]]
+name.last = "Acosta"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "16"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "60"
+P_H = "76"
+P_HR = "1"
+P_R = "36"
+P_ER = "30"
+P_BB = "34"
+P_SO = "41"
+P_HP = "5"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Aldridge"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "41"
+P_GS = "19"
+P_CG = "12"
+P_SHO = "0"
+P_W = "5"
+P_L = "13"
+P_PCT = ".278"
+P_IP = "190"
+P_H = "174"
+P_HR = "15"
+P_R = "104"
+P_ER = "79"
+P_BB = "104"
+P_SO = "127"
+P_HP = "4"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "3.74"
+
+
+[[person]]
+name.last = "Augustoni"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "21"
+P_GS = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "63"
+P_H = "65"
+P_HR = "4"
+P_R = "47"
+P_ER = "39"
+P_BB = "59"
+P_SO = "65"
+P_HP = "3"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "5.57"
+
+
+[[person]]
+name.last = "Bailey"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "29"
+P_GS = "17"
+P_CG = "9"
+P_SHO = "0"
+P_W = "6"
+P_L = "12"
+P_PCT = ".333"
+P_IP = "133"
+P_H = "140"
+P_HR = "5"
+P_R = "94"
+P_ER = "64"
+P_BB = "73"
+P_SO = "88"
+P_HP = "3"
+P_WP = "16"
+P_BK = "0"
+P_ERA = "4.33"
+
+
+[[person]]
+name.last = "Beene"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "10"
+P_GS = "9"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "56"
+P_H = "57"
+P_HR = "4"
+P_R = "31"
+P_ER = "26"
+P_BB = "23"
+P_SO = "38"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.18"
+
+
+[[person]]
+name.last = "Brem"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "28"
+P_GS = "25"
+P_CG = "18"
+P_SHO = "2"
+P_W = "15"
+P_L = "9"
+P_PCT = ".625"
+P_IP = "196"
+P_H = "209"
+P_HR = "7"
+P_R = "81"
+P_ER = "66"
+P_BB = "40"
+P_SO = "105"
+P_HP = "3"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "3.03"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "19"
+P_GS = "15"
+P_CG = "12"
+P_SHO = "2"
+P_W = "7"
+P_L = "6"
+P_PCT = ".538"
+P_IP = "107"
+P_H = "106"
+P_HR = "6"
+P_R = "74"
+P_ER = "59"
+P_BB = "91"
+P_SO = "97"
+P_HP = "1"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "4.96"
+
+
+[[person]]
+name.last = "Cleboski"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "48"
+P_GS = "16"
+P_CG = "8"
+P_SHO = "2"
+P_W = "17"
+P_L = "10"
+P_PCT = ".630"
+P_IP = "188"
+P_H = "199"
+P_HR = "13"
+P_R = "90"
+P_ER = "71"
+P_BB = "34"
+P_SO = "98"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "3.40"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Davidson"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "16"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "66"
+P_H = "76"
+P_HR = "6"
+P_R = "45"
+P_ER = "29"
+P_BB = "31"
+P_SO = "39"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "3.95"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "G."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "8"
+P_GS = "8"
+P_CG = "5"
+P_SHO = "1"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+P_IP = "63"
+P_H = "43"
+P_HR = "2"
+P_R = "20"
+P_ER = "17"
+P_BB = "33"
+P_SO = "51"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "2.43"
+
+
+[[person]]
+name.last = "Dobrino"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "25"
+P_GS = "22"
+P_CG = "14"
+P_SHO = "0"
+P_W = "10"
+P_L = "13"
+P_PCT = ".435"
+P_IP = "164"
+P_H = "197"
+P_HR = "15"
+P_R = "120"
+P_ER = "88"
+P_BB = "77"
+P_SO = "111"
+P_HP = "4"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "4.83"
+
+
+[[person]]
+name.last = "Domenichelli"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "19"
+P_GS = "12"
+P_CG = "6"
+P_SHO = "0"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "98"
+P_H = "80"
+P_HR = "6"
+P_R = "46"
+P_ER = "37"
+P_BB = "41"
+P_SO = "69"
+P_HP = "3"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.40"
+
+
+[[person]]
+name.last = "Donnelly"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "44"
+P_GS = "21"
+P_CG = "8"
+P_SHO = "2"
+P_W = "14"
+P_L = "11"
+P_PCT = ".560"
+P_IP = "183"
+P_H = "166"
+P_HR = "12"
+P_R = "84"
+P_ER = "66"
+P_BB = "59"
+P_SO = "139"
+P_HP = "5"
+P_WP = "8"
+P_BK = "1"
+P_ERA = "3.25"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Drotar"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "34"
+P_GS = "6"
+P_CG = "4"
+P_SHO = "1"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "129"
+P_H = "105"
+P_HR = "8"
+P_R = "59"
+P_ER = "46"
+P_BB = "70"
+P_SO = "93"
+P_HP = "11"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "3.21"
+
+
+[[person]]
+name.last = "Drummond"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "12"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "2"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "38"
+P_H = "37"
+P_HR = "4"
+P_R = "30"
+P_ER = "24"
+P_BB = "35"
+P_SO = "41"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "5.68"
+
+
+[[person]]
+name.last = "Els"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "12"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "42"
+P_H = "50"
+P_HR = "0"
+P_R = "36"
+P_ER = "31"
+P_BB = "32"
+P_SO = "41"
+P_HP = "2"
+P_WP = "1"
+P_BK = "1"
+P_ERA = "6.64"
+
+
+[[person]]
+name.last = "Fahnestock"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "29"
+P_GS = "20"
+P_CG = "8"
+P_SHO = "1"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "158"
+P_H = "180"
+P_HR = "7"
+P_R = "77"
+P_ER = "61"
+P_BB = "62"
+P_SO = "73"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.47"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Flynn"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "8"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "46"
+P_H = "72"
+P_HR = "1"
+P_R = "50"
+P_ER = "35"
+P_BB = "28"
+P_SO = "22"
+P_HP = "2"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "6.85"
+
+
+[[person]]
+name.last = "Greenlaw"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "22"
+P_GS = "19"
+P_CG = "7"
+P_SHO = "1"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_IP = "118"
+P_H = "118"
+P_HR = "8"
+P_R = "85"
+P_ER = "64"
+P_BB = "89"
+P_SO = "80"
+P_HP = "1"
+P_WP = "15"
+P_BK = "0"
+P_ERA = "4.88"
+
+
+[[person]]
+name.last = "Hanson"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "33"
+P_GS = "18"
+P_CG = "11"
+P_SHO = "2"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "161"
+P_H = "174"
+P_HR = "19"
+P_R = "99"
+P_ER = "81"
+P_BB = "76"
+P_SO = "89"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "4.53"
+
+
+[[person]]
+name.last = "Hickman"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "21"
+P_GS = "13"
+P_CG = "4"
+P_SHO = "2"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "84"
+P_H = "80"
+P_HR = "3"
+P_R = "42"
+P_ER = "37"
+P_BB = "44"
+P_SO = "63"
+P_HP = "1"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "3.96"
+
+
+[[person]]
+name.last = "Hodges"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "34"
+P_GS = "28"
+P_CG = "18"
+P_SHO = "4"
+P_W = "15"
+P_L = "13"
+P_PCT = ".536"
+P_IP = "224"
+P_H = "220"
+P_HR = "20"
+P_R = "93"
+P_ER = "78"
+P_BB = "72"
+P_SO = "134"
+P_HP = "3"
+P_WP = "11"
+P_BK = "1"
+P_ERA = "3.13"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Hurst"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "20"
+P_GS = "11"
+P_CG = "6"
+P_SHO = "0"
+P_W = "4"
+P_L = "7"
+P_PCT = ".364"
+P_IP = "90"
+P_H = "112"
+P_HR = "7"
+P_R = "62"
+P_ER = "45"
+P_BB = "40"
+P_SO = "65"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Hyde"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "26"
+P_GS = "19"
+P_CG = "10"
+P_SHO = "0"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+P_IP = "146"
+P_H = "172"
+P_HR = "17"
+P_R = "102"
+P_ER = "87"
+P_BB = "76"
+P_SO = "110"
+P_HP = "6"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "5.36"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "D."
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "11"
+P_GS = "11"
+P_CG = "5"
+P_SHO = "1"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "77"
+P_H = "58"
+P_HR = "4"
+P_R = "40"
+P_ER = "31"
+P_BB = "69"
+P_SO = "49"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.62"
+
+
+[[person]]
+name.last = "Kambour"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "40"
+P_GS = "26"
+P_CG = "10"
+P_SHO = "2"
+P_W = "14"
+P_L = "9"
+P_PCT = ".609"
+P_IP = "197"
+P_H = "210"
+P_HR = "12"
+P_R = "106"
+P_ER = "86"
+P_BB = "65"
+P_SO = "183"
+P_HP = "2"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.93"
+
+
+[[person]]
+name.last = "Kelly"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "19"
+P_GS = "17"
+P_CG = "4"
+P_SHO = "1"
+P_W = "8"
+P_L = "3"
+P_PCT = ".727"
+P_IP = "92"
+P_H = "94"
+P_HR = "2"
+P_R = "55"
+P_ER = "48"
+P_BB = "83"
+P_SO = "95"
+P_HP = "3"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "4.70"
+
+
+[[person]]
+name.last = "Kindsfather"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "35"
+P_GS = "28"
+P_CG = "21"
+P_SHO = "0"
+P_W = "15"
+P_L = "12"
+P_PCT = ".556"
+P_IP = "216"
+P_H = "239"
+P_HR = "10"
+P_R = "112"
+P_ER = "84"
+P_BB = "56"
+P_SO = "139"
+P_HP = "2"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "3.50"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Kipper"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "36"
+P_GS = "34"
+P_CG = "32"
+P_SHO = "2"
+P_W = "23"
+P_L = "11"
+P_PCT = ".676"
+P_IP = "282"
+P_H = "269"
+P_HR = "18"
+P_R = "130"
+P_ER = "85"
+P_BB = "74"
+P_SO = "193"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.71"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Krause"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "16"
+P_GS = "4"
+P_CG = "4"
+P_SHO = "0"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+P_IP = "56"
+P_H = "54"
+P_HR = "2"
+P_R = "29"
+P_ER = "25"
+P_BB = "26"
+P_SO = "35"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.02"
+
+
+[[person]]
+name.last = "Kropniewnicki"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "22"
+P_GS = "18"
+P_CG = "12"
+P_SHO = "2"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "134"
+P_H = "100"
+P_HR = "2"
+P_R = "50"
+P_ER = "42"
+P_BB = "78"
+P_SO = "138"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "2.82"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Mallory"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "22"
+P_GS = "8"
+P_CG = "3"
+P_SHO = "0"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "93"
+P_H = "95"
+P_HR = "6"
+P_R = "64"
+P_ER = "51"
+P_BB = "58"
+P_SO = "50"
+P_HP = "8"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "4.94"
+
+
+[[person]]
+name.last = "Mecham"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "22"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "82"
+P_H = "81"
+P_HR = "4"
+P_R = "52"
+P_ER = "42"
+P_BB = "51"
+P_SO = "60"
+P_HP = "3"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "4.61"
+
+
+[[person]]
+name.last = "Mousund"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "27"
+P_GS = "24"
+P_CG = "15"
+P_SHO = "1"
+P_W = "15"
+P_L = "8"
+P_PCT = ".652"
+P_IP = "188"
+P_H = "187"
+P_HR = "15"
+P_R = "90"
+P_ER = "72"
+P_BB = "79"
+P_SO = "165"
+P_HP = "2"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.45"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Myers"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "14"
+P_GS = "12"
+P_CG = "8"
+P_SHO = "1"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "100"
+P_H = "91"
+P_HR = "7"
+P_R = "38"
+P_ER = "35"
+P_BB = "18"
+P_SO = "85"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "3.15"
+
+
+[[person]]
+name.last = "Newburg"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "35"
+P_GS = "24"
+P_CG = "8"
+P_SHO = "3"
+P_W = "10"
+P_L = "12"
+P_PCT = ".455"
+P_IP = "170"
+P_H = "156"
+P_HR = "9"
+P_R = "93"
+P_ER = "78"
+P_BB = "125"
+P_SO = "144"
+P_HP = "6"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.13"
+
+
+[[person]]
+name.last = "Norris"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "30"
+P_GS = "23"
+P_CG = "11"
+P_SHO = "0"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_IP = "164"
+P_H = "168"
+P_HR = "16"
+P_R = "95"
+P_ER = "80"
+P_BB = "81"
+P_SO = "149"
+P_HP = "5"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "4.39"
+
+
+[[person]]
+name.last = "Osteen"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "22"
+P_GS = "17"
+P_CG = "15"
+P_SHO = "1"
+P_W = "14"
+P_L = "4"
+P_PCT = ".778"
+P_IP = "151"
+P_H = "145"
+P_HR = "6"
+P_R = "61"
+P_ER = "51"
+P_BB = "67"
+P_SO = "174"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.04"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Owen"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "10"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "43"
+P_H = "55"
+P_HR = "2"
+P_R = "33"
+P_ER = "31"
+P_BB = "15"
+P_SO = "20"
+P_HP = "0"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "6.49"
+
+
+[[person]]
+name.last = "Reniff"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "10"
+P_GS = "7"
+P_CG = "4"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "47"
+P_H = "42"
+P_HR = "3"
+P_R = "24"
+P_ER = "19"
+P_BB = "31"
+P_SO = "50"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.64"
+
+
+[[person]]
+name.last = "Richards"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "30"
+P_GS = "13"
+P_CG = "4"
+P_SHO = "2"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_IP = "124"
+P_H = "120"
+P_HR = "9"
+P_R = "73"
+P_ER = "54"
+P_BB = "82"
+P_SO = "97"
+P_HP = "4"
+P_WP = "14"
+P_BK = "0"
+P_ERA = "3.92"
+
+
+[[person]]
+name.last = "Roberts"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "41"
+P_H = "46"
+P_HR = "2"
+P_R = "28"
+P_ER = "24"
+P_BB = "15"
+P_SO = "23"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "5.27"
+
+
+[[person]]
+name.last = "Robertson"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "14"
+P_GS = "11"
+P_CG = "4"
+P_SHO = "0"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "76"
+P_H = "83"
+P_HR = "5"
+P_R = "43"
+P_ER = "30"
+P_BB = "31"
+P_SO = "27"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.55"
+
+
+[[person]]
+name.last = "Roy"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "20"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "54"
+P_H = "70"
+P_HR = "4"
+P_R = "46"
+P_ER = "42"
+P_BB = "33"
+P_SO = "32"
+P_HP = "2"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "7.00"
+
+
+[[person]]
+name.last = "Sadler"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "32"
+P_GS = "27"
+P_CG = "18"
+P_SHO = "2"
+P_W = "17"
+P_L = "8"
+P_PCT = ".680"
+P_IP = "205"
+P_H = "199"
+P_HR = "20"
+P_R = "106"
+P_ER = "89"
+P_BB = "71"
+P_SO = "167"
+P_HP = "3"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.91"
+
+
+[[person]]
+name.last = "Schaefer"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "18"
+P_GS = "12"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "111"
+P_H = "117"
+P_HR = "15"
+P_R = "68"
+P_ER = "59"
+P_BB = "48"
+P_SO = "52"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "4.78"
+
+
+[[person]]
+name.last = "Skaugstad"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "11"
+P_GS = "8"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "42"
+P_H = "42"
+P_HR = "0"
+P_R = "51"
+P_ER = "37"
+P_BB = "67"
+P_SO = "33"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "7.93"
+
+
+[[person]]
+name.last = "Stanton"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "15"
+P_GS = "4"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "48"
+P_H = "55"
+P_HR = "1"
+P_R = "30"
+P_ER = "21"
+P_BB = "16"
+P_SO = "20"
+P_HP = "1"
+P_WP = "0"
+P_BK = "1"
+P_ERA = "3.94"
+
+
+[[person]]
+name.last = "Trbovich"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "11"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "53"
+P_H = "70"
+P_HR = "7"
+P_R = "45"
+P_ER = "35"
+P_BB = "18"
+P_SO = "30"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.94"
+
+
+[[person]]
+name.last = "Vega"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "15"
+P_GS = "1"
+P_CG = "0"
+P_SHO = "0"
+P_W = "3"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "34"
+P_H = "28"
+P_HR = "2"
+P_R = "21"
+P_ER = "16"
+P_BB = "19"
+P_SO = "26"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.24"
+
+
+[[person]]
+name.last = "Vogelgesang"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "31"
+P_GS = "22"
+P_CG = "7"
+P_SHO = "0"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "160"
+P_H = "170"
+P_HR = "14"
+P_R = "126"
+P_ER = "97"
+P_BB = "92"
+P_SO = "76"
+P_HP = "10"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "5.46"
+
+
+[[person]]
+name.last = "Wales"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "26"
+P_GS = "17"
+P_CG = "7"
+P_SHO = "2"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "104"
+P_H = "96"
+P_HR = "6"
+P_R = "66"
+P_ER = "49"
+P_BB = "49"
+P_SO = "61"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.24"
+
+
+[[person]]
+name.last = "Watson"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "5"
+P_SHO = "1"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "53"
+P_H = "53"
+P_HR = "2"
+P_R = "22"
+P_ER = "17"
+P_BB = "36"
+P_SO = "47"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.89"
+
+
+[[person]]
+name.last = "White"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "33"
+P_GS = "17"
+P_CG = "9"
+P_SHO = "0"
+P_W = "7"
+P_L = "14"
+P_PCT = ".333"
+P_IP = "166"
+P_H = "189"
+P_HR = "15"
+P_R = "97"
+P_ER = "67"
+P_BB = "74"
+P_SO = "102"
+P_HP = "5"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "3.63"
+
+
+[[person]]
+name.last = "Yankus"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+P_G = "1"
+[[person.playing.split]]
+team.name = "Salem"
+P_G = "18"
+[person.playing.totals]
+P_G = "19"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "61"
+P_H = "67"
+P_HR = "2"
+P_R = "51"
+P_ER = "38"
+P_BB = "45"
+P_SO = "52"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "5.61"
+
+
+[[person]]
+name.last = "Elmore"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Holden"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hopkins"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Job"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Keller"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Quillin"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schirmer"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Schneider"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Eugene"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Alderman"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gleason"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hallgren"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Linnell"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lewiston"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Aiken"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+P_G = "2"
+[[person.playing.split]]
+team.name = "Salem"
+P_G = "2"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Carmichael"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "8"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Larned"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Marquez"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McKinney"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Parker"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Temple"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salem"
+[person.playing.totals]
+P_G = "7"
+P_W = "2"
+P_L = "4"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cammel"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hathaway"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Koski"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kunert"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lindburg"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McClure"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Miro"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Piver"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rupert"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shinnick"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wade"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "H."
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tri-City"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Michal"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Valdes"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wenatchee"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barton"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Clift"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "12"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Colombo"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Doering"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Drake"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Franks"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ganus"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "F."
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kittle"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Oldham"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "4"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Orestad"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Overin"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Payne"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1958"
+league.name = "Northwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Yakima"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"

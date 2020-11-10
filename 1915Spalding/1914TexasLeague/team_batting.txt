@@ -1,0 +1,174 @@
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "150"
+B_AB = "4658"
+B_R = "643"
+B_H = "1219"
+B_2B = "174"
+B_3B = "52"
+B_HR = "51"
+B_SH = "162"
+B_SB = "228"
+B_BB = "462"
+B_SO = "610"
+B_TB = "1590"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "157"
+B_AB = "5027"
+B_R = "735"
+B_H = "1275"
+B_2B = "204"
+B_3B = "54"
+B_HR = "49"
+B_SH = "225"
+B_SB = "317"
+B_BB = "502"
+B_SO = "763"
+B_TB = "1734"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4972"
+B_R = "550"
+B_H = "1256"
+B_2B = "188"
+B_3B = "38"
+B_HR = "12"
+B_SH = "222"
+B_SB = "242"
+B_BB = "474"
+B_SO = "693"
+B_TB = "1556"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "158"
+B_AB = "5019"
+B_R = "657"
+B_H = "1265"
+B_2B = "136"
+B_3B = "59"
+B_HR = "24"
+B_SH = "255"
+B_SB = "316"
+B_BB = "497"
+B_SO = "651"
+B_TB = "1591"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5041"
+B_R = "595"
+B_H = "1254"
+B_2B = "182"
+B_3B = "48"
+B_HR = "37"
+B_SH = "145"
+B_SB = "180"
+B_BB = "379"
+B_SO = "554"
+B_TB = "1643"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "157"
+B_AB = "4762"
+B_R = "589"
+B_H = "1123"
+B_2B = "134"
+B_3B = "50"
+B_HR = "6"
+B_SH = "271"
+B_SB = "240"
+B_BB = "555"
+B_SO = "643"
+B_TB = "1375"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4725"
+B_R = "447"
+B_H = "1107"
+B_2B = "62"
+B_3B = "28"
+B_HR = "19"
+B_SH = "117"
+B_SB = "154"
+B_BB = "384"
+B_SO = "738"
+B_TB = "1282"
+B_AVG = ".236"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1914"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "152"
+B_AB = "4941"
+B_R = "490"
+B_H = "1006"
+B_2B = "165"
+B_3B = "50"
+B_HR = "14"
+B_SH = "139"
+B_SB = "204"
+B_BB = "472"
+B_SO = "577"
+B_TB = "1215"
+B_AVG = ".205"

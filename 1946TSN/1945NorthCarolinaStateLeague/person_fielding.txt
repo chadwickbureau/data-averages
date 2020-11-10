@@ -1,0 +1,4058 @@
+[[person]]
+name.last = "Cheek"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "40"
+F_1B_PO = "358"
+F_1B_A = "14"
+F_1B_E = "0"
+F_1B_DP = "15"
+F_1B_PCT = "1.000"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Lehman"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "30"
+F_1B_PO = "247"
+F_1B_A = "15"
+F_1B_E = "1"
+F_1B_DP = "12"
+F_1B_PCT = ".996"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Hopkins"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "66"
+F_1B_PO = "532"
+F_1B_A = "19"
+F_1B_E = "6"
+F_1B_DP = "26"
+F_1B_PCT = ".989"
+F_1B_TP = "1"
+
+
+[[person]]
+name.last = "DeFrank"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "85"
+F_1B_A = "2"
+F_1B_E = "1"
+F_1B_DP = "6"
+F_1B_PCT = ".989"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Boyd"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "87"
+F_1B_PO = "645"
+F_1B_A = "49"
+F_1B_E = "12"
+F_1B_DP = "37"
+F_1B_PCT = ".983"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Lasorda"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "35"
+F_1B_PO = "297"
+F_1B_A = "11"
+F_1B_E = "7"
+F_1B_DP = "15"
+F_1B_PCT = ".978"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Koester"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+F_G = "5"
+[[person.playing.split]]
+team.name = "Concord"
+F_G = "14"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "19"
+F_1B_PO = "149"
+F_1B_A = "8"
+F_1B_E = "4"
+F_1B_DP = "13"
+F_1B_PCT = ".975"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Maiden"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+F_G = "8"
+[[person.playing.split]]
+team.name = "Landis"
+F_G = "3"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "11"
+F_1B_PO = "72"
+F_1B_A = "4"
+F_1B_E = "2"
+F_1B_DP = "7"
+F_1B_PCT = ".974"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Kunkle"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "94"
+F_1B_PO = "844"
+F_1B_A = "31"
+F_1B_E = "24"
+F_1B_DP = "22"
+F_1B_PCT = ".973"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Turner"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "26"
+F_1B_PO = "224"
+F_1B_A = "11"
+F_1B_E = "7"
+F_1B_DP = "17"
+F_1B_PCT = ".971"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Boles"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "34"
+F_1B_PO = "233"
+F_1B_A = "12"
+F_1B_E = "8"
+F_1B_DP = "18"
+F_1B_PCT = ".968"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Cahill"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "49"
+F_1B_PO = "425"
+F_1B_A = "23"
+F_1B_E = "16"
+F_1B_DP = "31"
+F_1B_PCT = ".966"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Schold"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "15"
+F_1B_PO = "137"
+F_1B_A = "4"
+F_1B_E = "5"
+F_1B_DP = "8"
+F_1B_PCT = ".966"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Stauffer"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "67"
+F_1B_PO = "630"
+F_1B_A = "32"
+F_1B_E = "24"
+F_1B_DP = "55"
+F_1B_PCT = ".965"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Linhart"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "16"
+F_1B_PO = "134"
+F_1B_A = "3"
+F_1B_E = "5"
+F_1B_DP = "8"
+F_1B_PCT = ".965"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "62"
+F_1B_A = "4"
+F_1B_E = "3"
+F_1B_DP = "3"
+F_1B_PCT = ".957"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Giebel"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "38"
+F_1B_PO = "315"
+F_1B_A = "12"
+F_1B_E = "17"
+F_1B_DP = "17"
+F_1B_PCT = ".951"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Cortese"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "17"
+F_1B_PO = "138"
+F_1B_A = "14"
+F_1B_E = "9"
+F_1B_DP = "4"
+F_1B_PCT = ".944"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Little"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "15"
+F_1B_PO = "87"
+F_1B_A = "3"
+F_1B_E = "8"
+F_1B_DP = "10"
+F_1B_PCT = ".918"
+F_1B_TP = "0"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "35"
+F_2B_PO = "88"
+F_2B_A = "95"
+F_2B_E = "3"
+F_2B_DP = "25"
+F_2B_PCT = ".984"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Poteat"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "11"
+F_2B_PO = "24"
+F_2B_A = "26"
+F_2B_E = "2"
+F_2B_DP = "5"
+F_2B_PCT = ".962"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Spencer"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "64"
+F_2B_PO = "167"
+F_2B_A = "182"
+F_2B_E = "17"
+F_2B_DP = "23"
+F_2B_PCT = ".954"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Holt"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "29"
+F_2B_PO = "65"
+F_2B_A = "77"
+F_2B_E = "8"
+F_2B_DP = "11"
+F_2B_PCT = ".947"
+F_2B_TP = "1"
+
+
+[[person]]
+name.last = "Greifzu"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "41"
+F_2B_PO = "92"
+F_2B_A = "107"
+F_2B_E = "12"
+F_2B_DP = "23"
+F_2B_PCT = ".943"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "19"
+F_2B_PO = "56"
+F_2B_A = "44"
+F_2B_E = "6"
+F_2B_DP = "10"
+F_2B_PCT = ".943"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Lehman"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "17"
+F_2B_PO = "32"
+F_2B_A = "45"
+F_2B_E = "5"
+F_2B_DP = "10"
+F_2B_PCT = ".939"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Labanara"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "57"
+F_2B_PO = "127"
+F_2B_A = "142"
+F_2B_E = "20"
+F_2B_DP = "23"
+F_2B_PCT = ".931"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Montefusco"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "17"
+F_2B_PO = "32"
+F_2B_A = "34"
+F_2B_E = "5"
+F_2B_DP = "5"
+F_2B_PCT = ".930"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Gandolfi"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+F_G = "8"
+[[person.playing.split]]
+team.name = "Mooresville"
+F_G = "12"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "20"
+F_2B_PO = "53"
+F_2B_A = "48"
+F_2B_E = "8"
+F_2B_DP = "9"
+F_2B_PCT = ".927"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Sarracin"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "53"
+F_2B_PO = "135"
+F_2B_A = "117"
+F_2B_E = "21"
+F_2B_DP = "17"
+F_2B_PCT = ".923"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Lienesch"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "76"
+F_2B_PO = "188"
+F_2B_A = "199"
+F_2B_E = "36"
+F_2B_DP = "41"
+F_2B_PCT = ".915"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Daugherty"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "37"
+F_2B_A = "49"
+F_2B_E = "8"
+F_2B_DP = "6"
+F_2B_PCT = ".915"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "20"
+F_2B_PO = "53"
+F_2B_A = "61"
+F_2B_E = "11"
+F_2B_DP = "7"
+F_2B_PCT = ".912"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Forbes"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "72"
+F_2B_PO = "160"
+F_2B_A = "173"
+F_2B_E = "34"
+F_2B_DP = "39"
+F_2B_PCT = ".907"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Trexler"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "46"
+F_2B_PO = "105"
+F_2B_A = "92"
+F_2B_E = "21"
+F_2B_DP = "16"
+F_2B_PCT = ".904"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "35"
+F_2B_A = "38"
+F_2B_E = "9"
+F_2B_DP = "3"
+F_2B_PCT = ".890"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Pope"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "19"
+F_2B_PO = "29"
+F_2B_A = "42"
+F_2B_E = "9"
+F_2B_DP = "6"
+F_2B_PCT = ".887"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Malseed"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "39"
+F_2B_A = "30"
+F_2B_E = "9"
+F_2B_DP = "6"
+F_2B_PCT = ".885"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Heafner"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "14"
+F_2B_PO = "22"
+F_2B_A = "31"
+F_2B_E = "7"
+F_2B_DP = "1"
+F_2B_PCT = ".883"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "McDonald"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "22"
+F_2B_PO = "47"
+F_2B_A = "63"
+F_2B_E = "16"
+F_2B_DP = "6"
+F_2B_PCT = ".873"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Addison"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "15"
+F_2B_PO = "45"
+F_2B_A = "35"
+F_2B_E = "13"
+F_2B_DP = "4"
+F_2B_PCT = ".860"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Neagle"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "13"
+F_2B_PO = "22"
+F_2B_A = "31"
+F_2B_E = "9"
+F_2B_DP = "4"
+F_2B_PCT = ".855"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Shanklin"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "24"
+F_2B_PO = "46"
+F_2B_A = "44"
+F_2B_E = "16"
+F_2B_DP = "8"
+F_2B_PCT = ".849"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Scheuermann"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "11"
+F_2B_PO = "26"
+F_2B_A = "19"
+F_2B_E = "8"
+F_2B_DP = "1"
+F_2B_PCT = ".849"
+F_2B_TP = "0"
+
+
+[[person]]
+name.last = "Eikenberg"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "29"
+F_3B_PO = "24"
+F_3B_A = "42"
+F_3B_E = "3"
+F_3B_DP = "5"
+F_3B_PCT = ".957"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Marehand"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "33"
+F_3B_PO = "41"
+F_3B_A = "40"
+F_3B_E = "5"
+F_3B_DP = "2"
+F_3B_PCT = ".942"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Marchesano"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "79"
+F_3B_PO = "89"
+F_3B_A = "141"
+F_3B_E = "16"
+F_3B_DP = "12"
+F_3B_PCT = ".935"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Morgan"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "20"
+F_3B_PO = "34"
+F_3B_A = "38"
+F_3B_E = "5"
+F_3B_DP = "1"
+F_3B_PCT = ".935"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Bartalini"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "67"
+F_3B_PO = "94"
+F_3B_A = "147"
+F_3B_E = "17"
+F_3B_DP = "13"
+F_3B_PCT = ".934"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Pope"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "70"
+F_3B_PO = "93"
+F_3B_A = "122"
+F_3B_E = "17"
+F_3B_DP = "8"
+F_3B_PCT = ".927"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Neagle"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "11"
+F_3B_A = "22"
+F_3B_E = "3"
+F_3B_DP = "0"
+F_3B_PCT = ".917"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Stirewalt"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "42"
+F_3B_PO = "34"
+F_3B_A = "66"
+F_3B_E = "12"
+F_3B_DP = "4"
+F_3B_PCT = ".893"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Verderbar"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "93"
+F_3B_PO = "100"
+F_3B_A = "185"
+F_3B_E = "37"
+F_3B_DP = "11"
+F_3B_PCT = ".885"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Cross"
+name.given = "L."
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "17"
+F_3B_PO = "16"
+F_3B_A = "29"
+F_3B_E = "6"
+F_3B_DP = "3"
+F_3B_PCT = ".882"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Williamson"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "26"
+F_3B_PO = "38"
+F_3B_A = "43"
+F_3B_E = "11"
+F_3B_DP = "3"
+F_3B_PCT = ".880"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "O'Connell"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "26"
+F_3B_PO = "34"
+F_3B_A = "47"
+F_3B_E = "11"
+F_3B_DP = "2"
+F_3B_PCT = ".880"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Schleider"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "27"
+F_3B_PO = "37"
+F_3B_A = "56"
+F_3B_E = "13"
+F_3B_DP = "6"
+F_3B_PCT = ".877"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Montefusco"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "13"
+F_3B_PO = "15"
+F_3B_A = "41"
+F_3B_E = "8"
+F_3B_DP = "5"
+F_3B_PCT = ".875"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Scheuermann"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "10"
+F_3B_A = "11"
+F_3B_E = "3"
+F_3B_DP = "0"
+F_3B_PCT = ".875"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Gandolfi"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "15"
+F_3B_PO = "16"
+F_3B_A = "18"
+F_3B_E = "5"
+F_3B_DP = "2"
+F_3B_PCT = ".872"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Myer"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "38"
+F_3B_PO = "42"
+F_3B_A = "74"
+F_3B_E = "18"
+F_3B_DP = "7"
+F_3B_PCT = ".866"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Delich"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "10"
+F_3B_A = "14"
+F_3B_E = "4"
+F_3B_DP = "4"
+F_3B_PCT = ".857"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "40"
+F_3B_PO = "49"
+F_3B_A = "55"
+F_3B_E = "20"
+F_3B_DP = "7"
+F_3B_PCT = ".839"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Calcano"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+F_G = "5"
+[[person.playing.split]]
+team.name = "Mooresville"
+F_G = "7"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "12"
+F_3B_PO = "9"
+F_3B_A = "16"
+F_3B_E = "5"
+F_3B_DP = "1"
+F_3B_PCT = ".833"
+F_3B_TP = "0"
+
+
+[[person]]
+name.last = "Schuessler"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "18"
+F_SS_PO = "32"
+F_SS_A = "38"
+F_SS_E = "3"
+F_SS_DP = "3"
+F_SS_PCT = ".959"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Clodfelter"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "13"
+F_SS_A = "23"
+F_SS_E = "2"
+F_SS_DP = "2"
+F_SS_PCT = ".947"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "76"
+F_SS_PO = "129"
+F_SS_A = "222"
+F_SS_E = "21"
+F_SS_DP = "30"
+F_SS_PCT = ".944"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Lienesch"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "20"
+F_SS_A = "26"
+F_SS_E = "3"
+F_SS_DP = "5"
+F_SS_PCT = ".939"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Watts"
+name.given = "M."
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "18"
+F_SS_PO = "29"
+F_SS_A = "46"
+F_SS_E = "5"
+F_SS_DP = "9"
+F_SS_PCT = ".938"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Luberto"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "51"
+F_SS_PO = "91"
+F_SS_A = "146"
+F_SS_E = "20"
+F_SS_DP = "24"
+F_SS_PCT = ".922"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Neagle"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "16"
+F_SS_PO = "26"
+F_SS_A = "34"
+F_SS_E = "6"
+F_SS_DP = "4"
+F_SS_PCT = ".909"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Rickard"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "35"
+F_SS_PO = "51"
+F_SS_A = "95"
+F_SS_E = "15"
+F_SS_DP = "15"
+F_SS_PCT = ".907"
+F_SS_TP = "1"
+
+
+[[person]]
+name.last = "Daugherty"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "26"
+F_SS_PO = "59"
+F_SS_A = "76"
+F_SS_E = "14"
+F_SS_DP = "9"
+F_SS_PCT = ".906"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Lyle"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "14"
+F_SS_A = "24"
+F_SS_E = "4"
+F_SS_DP = "2"
+F_SS_PCT = ".905"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Arevalo"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "95"
+F_SS_PO = "206"
+F_SS_A = "238"
+F_SS_E = "47"
+F_SS_DP = "38"
+F_SS_PCT = ".904"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Holt"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "64"
+F_SS_PO = "118"
+F_SS_A = "169"
+F_SS_E = "31"
+F_SS_DP = "27"
+F_SS_PCT = ".903"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Peppio"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+F_G = "21"
+[[person.playing.split]]
+team.name = "Landis"
+F_G = "2"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "67"
+F_SS_PO = "105"
+F_SS_A = "165"
+F_SS_E = "36"
+F_SS_DP = "24"
+F_SS_PCT = ".882"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Eikenberg"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "23"
+F_SS_PO = "37"
+F_SS_A = "57"
+F_SS_E = "14"
+F_SS_DP = "8"
+F_SS_PCT = ".870"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Trexler"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "58"
+F_SS_PO = "90"
+F_SS_A = "143"
+F_SS_E = "35"
+F_SS_DP = "15"
+F_SS_PCT = ".869"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Callahan"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "24"
+F_SS_PO = "41"
+F_SS_A = "70"
+F_SS_E = "17"
+F_SS_DP = "8"
+F_SS_PCT = ".867"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Forbes"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "20"
+F_SS_A = "32"
+F_SS_E = "8"
+F_SS_DP = "3"
+F_SS_PCT = ".867"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Bernier"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "31"
+F_SS_PO = "50"
+F_SS_A = "56"
+F_SS_E = "17"
+F_SS_DP = "6"
+F_SS_PCT = ".862"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Chiappini"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+F_G = "10"
+[[person.playing.split]]
+team.name = "Salisbury"
+F_G = "15"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "25"
+F_SS_PO = "36"
+F_SS_A = "52"
+F_SS_E = "14"
+F_SS_DP = "2"
+F_SS_PCT = ".861"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Zimmerman"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "31"
+F_SS_PO = "43"
+F_SS_A = "86"
+F_SS_E = "22"
+F_SS_DP = "9"
+F_SS_PCT = ".854"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Morgan"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "11"
+F_SS_PO = "21"
+F_SS_A = "33"
+F_SS_E = "11"
+F_SS_DP = "7"
+F_SS_PCT = ".831"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Carrick"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+F_G = "14"
+[[person.playing.split]]
+team.name = "Lexington"
+F_G = "5"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "19"
+F_SS_PO = "26"
+F_SS_A = "40"
+F_SS_E = "14"
+F_SS_DP = "4"
+F_SS_PCT = ".825"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "27"
+F_SS_PO = "39"
+F_SS_A = "68"
+F_SS_E = "23"
+F_SS_DP = "5"
+F_SS_PCT = ".823"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Strollo"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "10"
+F_SS_PO = "8"
+F_SS_A = "17"
+F_SS_E = "8"
+F_SS_DP = "0"
+F_SS_PCT = ".758"
+F_SS_TP = "0"
+
+
+[[person]]
+name.last = "Little"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "43"
+F_OF_PO = "66"
+F_OF_A = "6"
+F_OF_E = "0"
+F_OF_DP = "2"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rhodes"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "22"
+F_OF_A = "2"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Greifzu"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "17"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "1"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Krueger"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "23"
+F_OF_PO = "15"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Bertini"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "15"
+F_OF_A = "0"
+F_OF_E = "0"
+F_OF_DP = "0"
+F_OF_PCT = "1.000"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Dixon"
+name.given = "R."
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "50"
+F_OF_PO = "70"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".973"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Walther"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "31"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".972"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Mullinax"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "64"
+F_OF_PO = "87"
+F_OF_A = "5"
+F_OF_E = "3"
+F_OF_DP = "2"
+F_OF_PCT = ".968"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Campbell"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "34"
+F_OF_PO = "50"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".963"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Curley"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "23"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".962"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "20"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "1"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Hayden"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "17"
+F_OF_PO = "21"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".958"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Messenger"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+F_G = "52"
+[[person.playing.split]]
+team.name = "Statesville"
+F_G = "23"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "75"
+F_OF_PO = "110"
+F_OF_A = "12"
+F_OF_E = "6"
+F_OF_DP = "4"
+F_OF_PCT = ".953"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Alotta"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "71"
+F_OF_PO = "73"
+F_OF_A = "7"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".952"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Barnes"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "31"
+F_OF_PO = "33"
+F_OF_A = "6"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".951"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Halford"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "18"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".950"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Carrier"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "33"
+F_OF_PO = "33"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "1"
+F_OF_PCT = ".946"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Silvanic"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "88"
+F_OF_PO = "102"
+F_OF_A = "12"
+F_OF_E = "7"
+F_OF_DP = "2"
+F_OF_PCT = ".942"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "92"
+F_OF_PO = "167"
+F_OF_A = "5"
+F_OF_E = "11"
+F_OF_DP = "3"
+F_OF_PCT = ".940"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Beck"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "107"
+F_OF_PO = "231"
+F_OF_A = "13"
+F_OF_E = "16"
+F_OF_DP = "3"
+F_OF_PCT = ".938"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "86"
+F_OF_PO = "162"
+F_OF_A = "13"
+F_OF_E = "12"
+F_OF_DP = "0"
+F_OF_PCT = ".936"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Coleman"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "72"
+F_OF_PO = "107"
+F_OF_A = "9"
+F_OF_E = "8"
+F_OF_DP = "0"
+F_OF_PCT = ".935"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sides"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "69"
+F_OF_PO = "67"
+F_OF_A = "5"
+F_OF_E = "5"
+F_OF_DP = "3"
+F_OF_PCT = ".935"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Proctor"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "54"
+F_OF_PO = "81"
+F_OF_A = "4"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".934"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Fetherston"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "90"
+F_OF_PO = "170"
+F_OF_A = "8"
+F_OF_E = "13"
+F_OF_DP = "0"
+F_OF_PCT = ".932"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Leonard"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "95"
+F_OF_PO = "90"
+F_OF_A = "6"
+F_OF_E = "7"
+F_OF_DP = "1"
+F_OF_PCT = ".932"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "DeFrank"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "28"
+F_OF_PO = "41"
+F_OF_A = "0"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".932"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Rush"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "69"
+F_OF_PO = "143"
+F_OF_A = "6"
+F_OF_E = "12"
+F_OF_DP = "2"
+F_OF_PCT = ".925"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Noah"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "36"
+F_OF_PO = "51"
+F_OF_A = "2"
+F_OF_E = "6"
+F_OF_DP = "1"
+F_OF_PCT = ".898"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Piscuskas"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "44"
+F_OF_PO = "76"
+F_OF_A = "2"
+F_OF_E = "9"
+F_OF_DP = "0"
+F_OF_PCT = ".897"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lesigonich"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "96"
+F_OF_PO = "131"
+F_OF_A = "7"
+F_OF_E = "17"
+F_OF_DP = "0"
+F_OF_PCT = ".890"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Chetta"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "24"
+F_OF_PO = "39"
+F_OF_A = "1"
+F_OF_E = "5"
+F_OF_DP = "0"
+F_OF_PCT = ".889"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Howig"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "36"
+F_OF_PO = "66"
+F_OF_A = "3"
+F_OF_E = "9"
+F_OF_DP = "1"
+F_OF_PCT = ".885"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Gayle"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "49"
+F_OF_PO = "104"
+F_OF_A = "10"
+F_OF_E = "15"
+F_OF_DP = "3"
+F_OF_PCT = ".884"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Poteat"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "15"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".882"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Watts"
+name.given = "J."
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "21"
+F_OF_PO = "13"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".882"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Locallo"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "4"
+F_OF_A = "3"
+F_OF_E = "1"
+F_OF_DP = "0"
+F_OF_PCT = ".875"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Lennon"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "10"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".846"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cox"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "59"
+F_OF_PO = "58"
+F_OF_A = "2"
+F_OF_E = "12"
+F_OF_DP = "1"
+F_OF_PCT = ".833"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Teeter"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "10"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".833"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Sterfursky"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "19"
+F_OF_A = "0"
+F_OF_E = "4"
+F_OF_DP = "0"
+F_OF_PCT = ".826"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Phelps"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "22"
+F_OF_PO = "30"
+F_OF_A = "2"
+F_OF_E = "7"
+F_OF_DP = "0"
+F_OF_PCT = ".821"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Stanley"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "8"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_DP = "0"
+F_OF_PCT = ".800"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Marchbank"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "11"
+F_OF_A = "0"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".786"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Cramer"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "19"
+F_OF_PO = "7"
+F_OF_A = "1"
+F_OF_E = "3"
+F_OF_DP = "0"
+F_OF_PCT = ".727"
+F_OF_TP = "0"
+
+
+[[person]]
+name.last = "Morrison"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "13"
+F_C_PO = "72"
+F_C_A = "5"
+F_C_E = "0"
+F_C_DP = "2"
+F_C_PB = "1"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Stanley"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "11"
+F_C_PO = "64"
+F_C_A = "2"
+F_C_E = "0"
+F_C_DP = "0"
+F_C_PB = "2"
+F_C_PCT = "1.000"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Watts"
+name.given = "H."
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "77"
+F_C_PO = "448"
+F_C_A = "36"
+F_C_E = "4"
+F_C_DP = "6"
+F_C_PB = "9"
+F_C_PCT = ".992"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Furr"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "14"
+F_C_PO = "91"
+F_C_A = "6"
+F_C_E = "1"
+F_C_DP = "5"
+F_C_PB = "1"
+F_C_PCT = ".990"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Cox"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "120"
+F_C_A = "19"
+F_C_E = "2"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".986"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Clodfelter"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "55"
+F_C_PO = "345"
+F_C_A = "39"
+F_C_E = "6"
+F_C_DP = "3"
+F_C_PB = "1"
+F_C_PCT = ".985"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "McWilliams"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "80"
+F_C_PO = "493"
+F_C_A = "81"
+F_C_E = "12"
+F_C_DP = "7"
+F_C_PB = "11"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Mullin"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "74"
+F_C_PO = "499"
+F_C_A = "36"
+F_C_E = "11"
+F_C_DP = "2"
+F_C_PB = "15"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Parks"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "39"
+F_C_PO = "187"
+F_C_A = "14"
+F_C_E = "4"
+F_C_DP = "1"
+F_C_PB = "8"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Knisely"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "25"
+F_C_PO = "183"
+F_C_A = "15"
+F_C_E = "4"
+F_C_DP = "2"
+F_C_PB = "4"
+F_C_PCT = ".980"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "P."
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "42"
+F_C_PO = "238"
+F_C_A = "20"
+F_C_E = "6"
+F_C_DP = "1"
+F_C_PB = "12"
+F_C_PCT = ".977"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Maus"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "42"
+F_C_PO = "262"
+F_C_A = "32"
+F_C_E = "8"
+F_C_DP = "6"
+F_C_PB = "5"
+F_C_PCT = ".974"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Turner"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "33"
+F_C_PO = "209"
+F_C_A = "18"
+F_C_E = "6"
+F_C_DP = "4"
+F_C_PB = "6"
+F_C_PCT = ".974"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Perrone"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "75"
+F_C_PO = "465"
+F_C_A = "51"
+F_C_E = "15"
+F_C_DP = "3"
+F_C_PB = "15"
+F_C_PCT = ".972"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Krueger"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "158"
+F_C_A = "15"
+F_C_E = "5"
+F_C_DP = "4"
+F_C_PB = "8"
+F_C_PCT = ".972"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Hearnsberger"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "17"
+F_C_PO = "135"
+F_C_A = "7"
+F_C_E = "5"
+F_C_DP = "0"
+F_C_PB = "9"
+F_C_PCT = ".966"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Miles"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "53"
+F_C_PO = "351"
+F_C_A = "22"
+F_C_E = "14"
+F_C_DP = "3"
+F_C_PB = "16"
+F_C_PCT = ".964"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Gallagher"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "13"
+F_C_PO = "62"
+F_C_A = "13"
+F_C_E = "3"
+F_C_DP = "1"
+F_C_PB = "2"
+F_C_PCT = ".962"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "19"
+F_C_PO = "89"
+F_C_A = "9"
+F_C_E = "4"
+F_C_DP = "0"
+F_C_PB = "4"
+F_C_PCT = ".961"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dorsett"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "18"
+F_C_PO = "86"
+F_C_A = "10"
+F_C_E = "4"
+F_C_DP = "0"
+F_C_PB = "1"
+F_C_PCT = ".960"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Deal"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "19"
+F_C_PO = "99"
+F_C_A = "9"
+F_C_E = "6"
+F_C_DP = "1"
+F_C_PB = "0"
+F_C_PCT = ".947"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Radner"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "35"
+F_C_PO = "209"
+F_C_A = "27"
+F_C_E = "14"
+F_C_DP = "3"
+F_C_PB = "7"
+F_C_PCT = ".944"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Dilling"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "23"
+F_C_PO = "93"
+F_C_A = "12"
+F_C_E = "8"
+F_C_DP = "1"
+F_C_PB = "7"
+F_C_PCT = ".929"
+F_C_TP = "0"
+
+
+[[person]]
+name.last = "Calloway"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "5"
+F_P_A = "30"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Garlock"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "5"
+F_P_A = "26"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "3"
+F_P_A = "24"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Belz"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "7"
+F_P_A = "18"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Heller"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "7"
+F_P_A = "16"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "6"
+F_P_A = "16"
+F_P_E = "0"
+F_P_DP = "2"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Thursby"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "3"
+F_P_A = "15"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Nees"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "5"
+F_P_A = "16"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cooper"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "4"
+F_P_A = "9"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Wilkinson"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "3"
+F_P_A = "10"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Costello"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "3"
+F_P_A = "6"
+F_P_E = "0"
+F_P_DP = "1"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "7"
+F_P_E = "0"
+F_P_DP = "0"
+F_P_PCT = "1.000"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Goss"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "23"
+F_P_A = "50"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".986"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Donahue"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "6"
+F_P_A = "29"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".972"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Little"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "10"
+F_P_A = "23"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".971"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bournot"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "7"
+F_P_A = "22"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".967"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Haines"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "22"
+F_P_PO = "3"
+F_P_A = "24"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".964"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Proctor"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "0"
+F_P_A = "26"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".963"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ross"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "2"
+F_P_A = "18"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".952"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Sangil"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "2"
+F_P_A = "17"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".950"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hidalgo"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "6"
+F_P_A = "49"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".948"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cozart"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "6"
+F_P_A = "29"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".946"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Thompson"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "8"
+F_P_A = "44"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".945"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "4"
+F_P_A = "12"
+F_P_E = "1"
+F_P_DP = "2"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Peiffer"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "1"
+F_P_A = "13"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".941"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Burke"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "12"
+F_P_A = "27"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".936"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Phelps"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "2"
+F_P_A = "21"
+F_P_E = "2"
+F_P_DP = "3"
+F_P_PCT = ".935"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Doherty"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "3"
+F_P_A = "11"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".933"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lasorda"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "7"
+F_P_A = "32"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "6"
+F_P_A = "33"
+F_P_E = "3"
+F_P_DP = "3"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ostrowski"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "2"
+F_P_A = "11"
+F_P_E = "1"
+F_P_DP = "1"
+F_P_PCT = ".929"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Blackwell"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Landis"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "5"
+F_P_A = "31"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Bernier"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "4"
+F_P_A = "20"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "6"
+F_P_A = "18"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".923"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Miller"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "10"
+F_P_A = "43"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".914"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Knight"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+F_G = "9"
+[[person.playing.split]]
+team.name = "Lexington"
+F_G = "11"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "8"
+F_P_A = "24"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".914"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Deshaies"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Mooresville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "23"
+F_P_PO = "4"
+F_P_A = "16"
+F_P_E = "2"
+F_P_DP = "0"
+F_P_PCT = ".909"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Kaiser"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "1"
+F_P_A = "18"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".905"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Moring"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "3"
+F_P_A = "23"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".897"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Aldridge"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "25"
+F_P_PO = "2"
+F_P_A = "24"
+F_P_E = "3"
+F_P_DP = "2"
+F_P_PCT = ".897"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Cramer"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "10"
+F_P_A = "40"
+F_P_E = "6"
+F_P_DP = "0"
+F_P_PCT = ".893"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Ciarcello"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+F_G = "11"
+[[person.playing.split]]
+team.name = "Salisbury"
+F_G = "15"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "7"
+F_P_A = "18"
+F_P_E = "3"
+F_P_DP = "0"
+F_P_PCT = ".893"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Blinn"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "17"
+F_P_PO = "9"
+F_P_A = "31"
+F_P_E = "5"
+F_P_DP = "0"
+F_P_PCT = ".889"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Lash"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "3"
+F_P_A = "27"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".882"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Fasano"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "3"
+F_P_A = "12"
+F_P_E = "2"
+F_P_DP = "1"
+F_P_PCT = ".882"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hamme"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "0"
+F_P_A = "7"
+F_P_E = "1"
+F_P_DP = "0"
+F_P_PCT = ".875"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Quig"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "2"
+F_P_A = "25"
+F_P_E = "4"
+F_P_DP = "0"
+F_P_PCT = ".871"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Makosky"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hickory"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "9"
+F_P_A = "19"
+F_P_E = "3"
+F_P_DP = "1"
+F_P_PCT = ".871"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Quinlan"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "33"
+F_P_PO = "2"
+F_P_A = "29"
+F_P_E = "5"
+F_P_DP = "2"
+F_P_PCT = ".861"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Schwartz"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+F_G = "15"
+[[person.playing.split]]
+team.name = "Landis"
+F_G = "11"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "26"
+F_P_PO = "6"
+F_P_A = "30"
+F_P_E = "7"
+F_P_DP = "2"
+F_P_PCT = ".837"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Hacker"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Statesville"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "30"
+F_P_PO = "3"
+F_P_A = "25"
+F_P_E = "6"
+F_P_DP = "0"
+F_P_PCT = ".824"
+F_P_TP = "0"
+
+
+[[person]]
+name.last = "Honas"
+[[person.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Concord"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "20"
+F_P_PO = "0"
+F_P_A = "9"
+F_P_E = "4"
+F_P_DP = "1"
+F_P_PCT = ".692"
+F_P_TP = "0"

@@ -1,0 +1,174 @@
+[[team]]
+name = "Sioux City/St. Joseph"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "146"
+B_AB = "4839"
+B_R = "654"
+B_H = "1314"
+B_TB = "1712"
+B_2B = "215"
+B_3B = "60"
+B_HR = "21"
+B_SH = "190"
+B_SB = "175"
+B_BB = "415"
+B_SO = "545"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "148"
+B_AB = "4789"
+B_R = "664"
+B_H = "1257"
+B_TB = "1678"
+B_2B = "208"
+B_3B = "66"
+B_HR = "27"
+B_SH = "260"
+B_SB = "177"
+B_BB = "380"
+B_SO = "602"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "149"
+B_AB = "5041"
+B_R = "667"
+B_H = "1313"
+B_TB = "1746"
+B_2B = "197"
+B_3B = "73"
+B_HR = "30"
+B_SH = "117"
+B_SB = "164"
+B_BB = "382"
+B_SO = "629"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "146"
+B_AB = "4770"
+B_R = "631"
+B_H = "1216"
+B_TB = "1541"
+B_2B = "169"
+B_3B = "42"
+B_HR = "24"
+B_SH = "237"
+B_SB = "195"
+B_BB = "426"
+B_SO = "486"
+B_AVG = ".255"
+
+
+[[team]]
+name = "St. Joseph/Hutchinson"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4832"
+B_R = "519"
+B_H = "1222"
+B_TB = "1578"
+B_2B = "191"
+B_3B = "45"
+B_HR = "25"
+B_SH = "169"
+B_SB = "166"
+B_BB = "421"
+B_SO = "657"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4864"
+B_R = "683"
+B_H = "1217"
+B_TB = "1600"
+B_2B = "185"
+B_3B = "69"
+B_HR = "20"
+B_SH = "175"
+B_SB = "171"
+B_BB = "446"
+B_SO = "555"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "148"
+B_AB = "4918"
+B_R = "597"
+B_H = "1230"
+B_TB = "1608"
+B_2B = "213"
+B_3B = "45"
+B_HR = "25"
+B_SH = "162"
+B_SB = "91"
+B_BB = "446"
+B_SO = "739"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1917"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_G = "147"
+B_AB = "4727"
+B_R = "624"
+B_H = "1139"
+B_TB = "1467"
+B_2B = "182"
+B_3B = "43"
+B_HR = "20"
+B_SH = "216"
+B_SB = "195"
+B_BB = "531"
+B_SO = "567"
+B_AVG = ".241"

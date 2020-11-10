@@ -1,0 +1,76 @@
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "41"
+R_PCT = ".650"
+R_RANK = "1"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "51"
+R_PCT = ".568"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "55"
+R_PCT = ".526"
+R_RANK = "3"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "58"
+R_PCT = ".496"
+R_RANK = "4"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "70"
+R_PCT = ".417"
+R_RANK = "5"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "39"
+R_L = "75"
+R_PCT = ".342"
+R_RANK = "6"

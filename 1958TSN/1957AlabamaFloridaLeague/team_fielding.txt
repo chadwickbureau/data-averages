@@ -1,0 +1,100 @@
+[[team]]
+name = "Fort Walton Beach"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "81"
+F_PB = "17"
+F_PO = "3092"
+F_A = "1203"
+F_E = "217"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Panama City"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "77"
+F_PB = "29"
+F_PO = "3151"
+F_A = "1198"
+F_E = "244"
+F_PCT = ".947"
+F_TP = "0"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "99"
+F_PB = "23"
+F_PO = "3096"
+F_A = "1158"
+F_E = "243"
+F_PCT = ".946"
+F_TP = "0"
+
+
+[[team]]
+name = "Graceville"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "85"
+F_PB = "23"
+F_PO = "3068"
+F_A = "1076"
+F_E = "245"
+F_PCT = ".944"
+F_TP = "0"
+
+
+[[team]]
+name = "Selma"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "77"
+F_PB = "29"
+F_PO = "3055"
+F_A = "1114"
+F_E = "245"
+F_PCT = ".944"
+F_TP = "1"
+
+
+[[team]]
+name = "Pensacola"
+[[team.playing]]
+season = "1957"
+league.name = "Alabama-Florida League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "101"
+F_PB = "26"
+F_PO = "3158"
+F_A = "1219"
+F_E = "279"
+F_PCT = ".940"
+F_TP = "0"

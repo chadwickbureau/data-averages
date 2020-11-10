@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Walker"
+name.given = "Fred (Dixie)"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Toronto"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cavarretta"
+name.given = "Phillip"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Buffalo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lopat"
+name.given = "Edmond"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Richmond"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Osborn"
+name.given = "Donald"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Miami"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Deal"
+name.given = "Ellis (Cot)"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rochester"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Reyes"
+name.given = "Napoleon"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Havana"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Oceak"
+name.given = "Frank"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Columbus"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mulleavy"
+name.given = "Gregory"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montreal"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Campanis"
+name.given = "Alexander"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montreal"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ronning"
+name.given = "Albert"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montreal"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Holmes"
+name.given = "Thomas"
+[[person.managing]]
+season = "1957"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montreal"
+S_ORDER = "4"
+[person.managing.totals]

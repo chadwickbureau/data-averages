@@ -1,0 +1,100 @@
+[[team]]
+name = "Eugene"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "111"
+F_PB = "25"
+F_PO = "3304"
+F_A = "1353"
+F_E = "176"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "125"
+F_PB = "13"
+F_PO = "3308"
+F_A = "1282"
+F_E = "184"
+F_PCT = ".961"
+F_TP = "0"
+
+
+[[team]]
+name = "Wenatchee"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "105"
+F_PB = "12"
+F_PO = "3313"
+F_A = "1240"
+F_E = "186"
+F_PCT = ".961"
+F_TP = "0"
+
+
+[[team]]
+name = "Lewiston"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "128"
+F_PB = "26"
+F_PO = "3283"
+F_A = "1363"
+F_E = "203"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "95"
+F_PB = "16"
+F_PO = "3355"
+F_A = "1364"
+F_E = "218"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "Tri-City"
+[[team.playing]]
+season = "1957"
+league.name = "Northwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "118"
+F_PB = "31"
+F_PO = "3356"
+F_A = "1330"
+F_E = "225"
+F_PCT = ".954"
+F_TP = "1"

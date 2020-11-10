@@ -1,0 +1,102 @@
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "41"
+R_PCT = ".613"
+R_RANK = "1"
+
+
+[[team]]
+name = "Punxsutawney"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "45"
+R_PCT = ".541"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "53"
+R_PCT = ".535"
+R_RANK = "3"
+
+
+[[team]]
+name = "DuBois"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "52"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Kane"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "58"
+R_PCT = ".496"
+R_RANK = "5"
+
+
+[[team]]
+name = "Patton"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "57"
+R_PCT = ".480"
+R_RANK = "6"
+
+
+[[team]]
+name = "Olean"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "61"
+R_PCT = ".450"
+R_RANK = "7"
+
+
+[[team]]
+name = "Oil City"
+[[team.playing]]
+season = "1906"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "70"
+R_PCT = ".385"
+R_RANK = "8"

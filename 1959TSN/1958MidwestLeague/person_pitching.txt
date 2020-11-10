@@ -1,0 +1,3197 @@
+[[person]]
+name.last = "Adams"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "30"
+P_GS = "21"
+P_CG = "18"
+P_SHO = "2"
+P_W = "16"
+P_L = "8"
+P_PCT = ".667"
+P_IP = "189"
+P_H = "196"
+P_HR = "16"
+P_R = "90"
+P_ER = "73"
+P_BB = "74"
+P_SO = "145"
+P_HP = "10"
+P_WP = "15"
+P_BK = "2"
+P_ERA = "3.48"
+
+
+[[person]]
+name.last = "Alston"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "27"
+P_GS = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "98"
+P_H = "100"
+P_HR = "9"
+P_R = "67"
+P_ER = "50"
+P_BB = "59"
+P_SO = "53"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.59"
+
+
+[[person]]
+name.last = "Amershek"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "8"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "1"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "38"
+P_H = "39"
+P_HR = "8"
+P_R = "20"
+P_ER = "18"
+P_BB = "12"
+P_SO = "43"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "4.26"
+
+
+[[person]]
+name.last = "Angel"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "16"
+P_GS = "14"
+P_CG = "10"
+P_SHO = "3"
+P_W = "9"
+P_L = "3"
+P_PCT = ".750"
+P_IP = "112"
+P_H = "98"
+P_HR = "5"
+P_R = "41"
+P_ER = "28"
+P_BB = "50"
+P_SO = "136"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "2.25"
+
+
+[[person]]
+name.last = "Arruda"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "28"
+P_GS = "23"
+P_CG = "17"
+P_SHO = "7"
+P_W = "16"
+P_L = "9"
+P_PCT = ".640"
+P_IP = "186"
+P_H = "115"
+P_HR = "2"
+P_R = "66"
+P_ER = "52"
+P_BB = "125"
+P_SO = "209"
+P_HP = "18"
+P_WP = "15"
+P_BK = "0"
+P_ERA = "2.52"
+P_ERA_RANK = "4"
+
+
+[[person]]
+name.last = "Bandi"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "11"
+P_GS = "3"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "39"
+P_H = "42"
+P_HR = "3"
+P_R = "31"
+P_ER = "19"
+P_BB = "20"
+P_SO = "28"
+P_HP = "2"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "4.38"
+
+
+[[person]]
+name.last = "Bartek"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "27"
+P_GS = "20"
+P_CG = "8"
+P_SHO = "1"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_IP = "150"
+P_H = "153"
+P_HR = "20"
+P_R = "99"
+P_ER = "74"
+P_BB = "77"
+P_SO = "122"
+P_HP = "7"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "4.44"
+
+
+[[person]]
+name.last = "Birsa"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "23"
+P_GS = "12"
+P_CG = "3"
+P_SHO = "0"
+P_W = "3"
+P_L = "7"
+P_PCT = ".300"
+P_IP = "99"
+P_H = "94"
+P_HR = "11"
+P_R = "71"
+P_ER = "56"
+P_BB = "70"
+P_SO = "108"
+P_HP = "5"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "5.09"
+
+
+[[person]]
+name.last = "Bracey"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "37"
+P_GS = "10"
+P_CG = "4"
+P_SHO = "1"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+P_IP = "116"
+P_H = "129"
+P_HR = "9"
+P_R = "65"
+P_ER = "50"
+P_BB = "40"
+P_SO = "73"
+P_HP = "3"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.88"
+
+
+[[person]]
+name.last = "Brady"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "10"
+P_GS = "6"
+P_CG = "0"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "37"
+P_H = "47"
+P_HR = "3"
+P_R = "32"
+P_ER = "27"
+P_BB = "24"
+P_SO = "22"
+P_HP = "1"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "6.57"
+
+
+[[person]]
+name.last = "Branch"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "27"
+P_GS = "20"
+P_CG = "12"
+P_SHO = "2"
+P_W = "12"
+P_L = "9"
+P_PCT = ".571"
+P_IP = "167"
+P_H = "122"
+P_HR = "9"
+P_R = "66"
+P_ER = "50"
+P_BB = "102"
+P_SO = "213"
+P_HP = "0"
+P_WP = "21"
+P_BK = "0"
+P_ERA = "2.69"
+P_ERA_RANK = "6"
+
+
+[[person]]
+name.last = "Branscom"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "33"
+P_H = "31"
+P_HR = "1"
+P_R = "23"
+P_ER = "17"
+P_BB = "31"
+P_SO = "33"
+P_HP = "1"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "4.64"
+
+
+[[person]]
+name.last = "Breeden"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "26"
+P_GS = "22"
+P_CG = "19"
+P_SHO = "3"
+P_W = "17"
+P_L = "5"
+P_PCT = ".773"
+P_IP = "181"
+P_H = "141"
+P_HR = "6"
+P_R = "59"
+P_ER = "42"
+P_BB = "56"
+P_SO = "159"
+P_HP = "1"
+P_WP = "5"
+P_BK = "1"
+P_ERA = "2.09"
+P_ERA_RANK = "2"
+
+
+[[person]]
+name.last = "Butterfield"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "23"
+P_GS = "18"
+P_CG = "13"
+P_SHO = "2"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "146"
+P_H = "120"
+P_HR = "17"
+P_R = "53"
+P_ER = "46"
+P_BB = "50"
+P_SO = "101"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "2.84"
+P_ERA_RANK = "7"
+
+
+[[person]]
+name.last = "Butters"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "19"
+P_GS = "15"
+P_CG = "8"
+P_SHO = "2"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "113"
+P_H = "78"
+P_HR = "6"
+P_R = "55"
+P_ER = "33"
+P_BB = "67"
+P_SO = "110"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "2.63"
+
+
+[[person]]
+name.last = "Carpenter"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "30"
+P_GS = "20"
+P_CG = "13"
+P_SHO = "1"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_IP = "169"
+P_H = "159"
+P_HR = "17"
+P_R = "102"
+P_ER = "75"
+P_BB = "87"
+P_SO = "154"
+P_HP = "7"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "3.99"
+
+
+[[person]]
+name.last = "Chierichella"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "29"
+P_GS = "18"
+P_CG = "11"
+P_SHO = "3"
+P_W = "10"
+P_L = "6"
+P_PCT = ".625"
+P_IP = "149"
+P_H = "117"
+P_HR = "15"
+P_R = "72"
+P_ER = "54"
+P_BB = "97"
+P_SO = "126"
+P_HP = "5"
+P_WP = "16"
+P_BK = "1"
+P_ERA = "3.26"
+P_ERA_RANK = "9"
+
+
+[[person]]
+name.last = "Coughtry"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "26"
+P_GS = "20"
+P_CG = "11"
+P_SHO = "1"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+P_IP = "157"
+P_H = "139"
+P_HR = "11"
+P_R = "63"
+P_ER = "50"
+P_BB = "57"
+P_SO = "100"
+P_HP = "10"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.87"
+P_ERA_RANK = "8"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "11"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "36"
+P_H = "33"
+P_HR = "1"
+P_R = "23"
+P_ER = "17"
+P_BB = "34"
+P_SO = "31"
+P_HP = "6"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.25"
+
+
+[[person]]
+name.last = "DeGraff"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "40"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "98"
+P_H = "111"
+P_HR = "4"
+P_R = "60"
+P_ER = "43"
+P_BB = "35"
+P_SO = "63"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "3.95"
+
+
+[[person]]
+name.last = "DeGross"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "33"
+P_GS = "11"
+P_CG = "5"
+P_SHO = "1"
+P_W = "4"
+P_L = "10"
+P_PCT = ".286"
+P_IP = "117"
+P_H = "115"
+P_HR = "9"
+P_R = "89"
+P_ER = "71"
+P_BB = "99"
+P_SO = "93"
+P_HP = "11"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "5.46"
+
+
+[[person]]
+name.last = "Dikeman"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "19"
+P_GS = "15"
+P_CG = "8"
+P_SHO = "3"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+P_IP = "111"
+P_H = "91"
+P_HR = "6"
+P_R = "66"
+P_ER = "38"
+P_BB = "74"
+P_SO = "113"
+P_HP = "8"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "3.08"
+
+
+[[person]]
+name.last = "Doud"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "30"
+P_GS = "16"
+P_CG = "5"
+P_SHO = "0"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_IP = "139"
+P_H = "167"
+P_HR = "16"
+P_R = "99"
+P_ER = "77"
+P_BB = "50"
+P_SO = "61"
+P_HP = "0"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "4.99"
+
+
+[[person]]
+name.last = "Dwyer"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "11"
+P_GS = "10"
+P_CG = "7"
+P_SHO = "2"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "63"
+P_H = "57"
+P_HR = "4"
+P_R = "31"
+P_ER = "19"
+P_BB = "30"
+P_SO = "66"
+P_HP = "0"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "2.71"
+
+
+[[person]]
+name.last = "Elmore"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "8"
+P_GS = "5"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "33"
+P_H = "36"
+P_HR = "2"
+P_R = "24"
+P_ER = "13"
+P_BB = "15"
+P_SO = "25"
+P_HP = "0"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "3.55"
+
+
+[[person]]
+name.last = "Falkenhagen"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "32"
+P_GS = "17"
+P_CG = "10"
+P_SHO = "2"
+P_W = "9"
+P_L = "13"
+P_PCT = ".409"
+P_IP = "164"
+P_H = "155"
+P_HR = "7"
+P_R = "92"
+P_ER = "66"
+P_BB = "80"
+P_SO = "116"
+P_HP = "7"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "3.62"
+
+
+[[person]]
+name.last = "Fields"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "10"
+P_GS = "8"
+P_CG = "2"
+P_SHO = "1"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "41"
+P_H = "47"
+P_HR = "4"
+P_R = "45"
+P_ER = "42"
+P_BB = "29"
+P_SO = "35"
+P_HP = "6"
+P_WP = "1"
+P_BK = "0"
+P_ERA = "9.22"
+
+
+[[person]]
+name.last = "Fordham"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "15"
+P_GS = "7"
+P_CG = "2"
+P_SHO = "0"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "69"
+P_H = "79"
+P_HR = "5"
+P_R = "53"
+P_ER = "40"
+P_BB = "33"
+P_SO = "40"
+P_HP = "4"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "5.22"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "37"
+P_GS = "29"
+P_CG = "9"
+P_SHO = "0"
+P_W = "12"
+P_L = "16"
+P_PCT = ".429"
+P_IP = "190"
+P_H = "153"
+P_HR = "9"
+P_R = "136"
+P_ER = "96"
+P_BB = "156"
+P_SO = "225"
+P_HP = "19"
+P_WP = "32"
+P_BK = "0"
+P_ERA = "4.55"
+
+
+[[person]]
+name.last = "Hayden"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "9"
+P_GS = "4"
+P_CG = "1"
+P_SHO = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "33"
+P_H = "26"
+P_HR = "1"
+P_R = "18"
+P_ER = "13"
+P_BB = "19"
+P_SO = "22"
+P_HP = "3"
+P_WP = "0"
+P_BK = "0"
+P_ERA = "3.55"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "29"
+P_GS = "13"
+P_CG = "4"
+P_SHO = "0"
+P_W = "7"
+P_L = "8"
+P_PCT = ".467"
+P_IP = "105"
+P_H = "92"
+P_HR = "5"
+P_R = "70"
+P_ER = "59"
+P_BB = "93"
+P_SO = "100"
+P_HP = "12"
+P_WP = "14"
+P_BK = "0"
+P_ERA = "5.06"
+
+
+[[person]]
+name.last = "Hodgdon"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "21"
+P_GS = "11"
+P_CG = "6"
+P_SHO = "0"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "112"
+P_H = "99"
+P_HR = "4"
+P_R = "66"
+P_ER = "47"
+P_BB = "65"
+P_SO = "111"
+P_HP = "5"
+P_WP = "4"
+P_BK = "0"
+P_ERA = "3.78"
+
+
+[[person]]
+name.last = "Irons"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "19"
+P_GS = "3"
+P_CG = "1"
+P_SHO = "0"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "47"
+P_H = "66"
+P_HR = "5"
+P_R = "39"
+P_ER = "30"
+P_BB = "39"
+P_SO = "36"
+P_HP = "1"
+P_WP = "9"
+P_BK = "0"
+P_ERA = "5.74"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "6"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "36"
+P_H = "35"
+P_HR = "4"
+P_R = "27"
+P_ER = "20"
+P_BB = "26"
+P_SO = "37"
+P_HP = "4"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "5.00"
+
+
+[[person]]
+name.last = "Kimbrell"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "8"
+P_GS = "6"
+P_CG = "3"
+P_SHO = "0"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "46"
+P_H = "38"
+P_HR = "3"
+P_R = "24"
+P_ER = "16"
+P_BB = "24"
+P_SO = "38"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.13"
+
+
+[[person]]
+name.last = "Kolstad"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "32"
+P_GS = "23"
+P_CG = "14"
+P_SHO = "1"
+P_W = "16"
+P_L = "7"
+P_PCT = ".696"
+P_IP = "198"
+P_H = "126"
+P_HR = "9"
+P_R = "67"
+P_ER = "52"
+P_BB = "95"
+P_SO = "250"
+P_HP = "14"
+P_WP = "22"
+P_BK = "1"
+P_ERA = "2.36"
+P_ERA_RANK = "3"
+
+
+[[person]]
+name.last = "Kunert"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "19"
+P_GS = "18"
+P_CG = "10"
+P_SHO = "1"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "134"
+P_H = "104"
+P_HR = "10"
+P_R = "61"
+P_ER = "38"
+P_BB = "60"
+P_SO = "146"
+P_HP = "7"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "2.55"
+P_ERA_RANK = "5"
+
+
+[[person]]
+name.last = "Lizondro"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "28"
+P_GS = "15"
+P_CG = "9"
+P_SHO = "1"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "137"
+P_H = "155"
+P_HR = "17"
+P_R = "87"
+P_ER = "54"
+P_BB = "29"
+P_SO = "94"
+P_HP = "6"
+P_WP = "7"
+P_BK = "1"
+P_ERA = "3.55"
+
+
+[[person]]
+name.last = "Lovelace"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "24"
+P_GS = "8"
+P_CG = "4"
+P_SHO = "2"
+P_W = "5"
+P_L = "4"
+P_PCT = ".556"
+P_IP = "84"
+P_H = "79"
+P_HR = "1"
+P_R = "47"
+P_ER = "32"
+P_BB = "51"
+P_SO = "63"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.43"
+
+
+[[person]]
+name.last = "Malpass"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "35"
+P_GS = "29"
+P_CG = "13"
+P_SHO = "3"
+P_W = "15"
+P_L = "11"
+P_PCT = ".577"
+P_IP = "195"
+P_H = "189"
+P_HR = "16"
+P_R = "116"
+P_ER = "96"
+P_BB = "120"
+P_SO = "128"
+P_HP = "10"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "4.43"
+
+
+[[person]]
+name.last = "Marichal"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "35"
+P_GS = "28"
+P_CG = "24"
+P_SHO = "3"
+P_W = "21"
+P_L = "8"
+P_PCT = ".724"
+P_IP = "245"
+P_H = "200"
+P_HR = "11"
+P_R = "69"
+P_ER = "51"
+P_BB = "50"
+P_SO = "246"
+P_HP = "2"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "1.87"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "27"
+P_GS = "21"
+P_CG = "12"
+P_SHO = "0"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "160"
+P_H = "164"
+P_HR = "11"
+P_R = "106"
+P_ER = "81"
+P_BB = "88"
+P_SO = "121"
+P_HP = "14"
+P_WP = "13"
+P_BK = "1"
+P_ERA = "4.56"
+
+
+[[person]]
+name.last = "Mullins"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "7"
+P_GS = "4"
+P_CG = "0"
+P_SHO = "0"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "32"
+P_H = "33"
+P_HR = "8"
+P_R = "21"
+P_ER = "16"
+P_BB = "27"
+P_SO = "22"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Palmisano"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "33"
+P_GS = "23"
+P_CG = "12"
+P_SHO = "0"
+P_W = "11"
+P_L = "11"
+P_PCT = ".500"
+P_IP = "176"
+P_H = "151"
+P_HR = "14"
+P_R = "119"
+P_ER = "79"
+P_BB = "141"
+P_SO = "186"
+P_HP = "9"
+P_WP = "13"
+P_BK = "0"
+P_ERA = "4.04"
+
+
+[[person]]
+name.last = "Pearce"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "24"
+P_GS = "22"
+P_CG = "9"
+P_SHO = "0"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_IP = "144"
+P_H = "140"
+P_HR = "12"
+P_R = "91"
+P_ER = "77"
+P_BB = "94"
+P_SO = "126"
+P_HP = "9"
+P_WP = "5"
+P_BK = "2"
+P_ERA = "4.81"
+
+
+[[person]]
+name.last = "Peterson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "24"
+P_GS = "15"
+P_CG = "5"
+P_SHO = "0"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "114"
+P_H = "134"
+P_HR = "13"
+P_R = "89"
+P_ER = "68"
+P_BB = "55"
+P_SO = "69"
+P_HP = "3"
+P_WP = "6"
+P_BK = "0"
+P_ERA = "5.37"
+
+
+[[person]]
+name.last = "Pitcher"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "35"
+P_GS = "13"
+P_CG = "1"
+P_SHO = "0"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+P_IP = "117"
+P_H = "138"
+P_HR = "8"
+P_R = "110"
+P_ER = "85"
+P_BB = "95"
+P_SO = "95"
+P_HP = "10"
+P_WP = "18"
+P_BK = "1"
+P_ERA = "6.54"
+
+
+[[person]]
+name.last = "Plaza"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "32"
+P_GS = "18"
+P_CG = "8"
+P_SHO = "0"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_IP = "160"
+P_H = "126"
+P_HR = "12"
+P_R = "90"
+P_ER = "60"
+P_BB = "123"
+P_SO = "78"
+P_HP = "7"
+P_WP = "14"
+P_BK = "2"
+P_ERA = "3.38"
+P_ERA_RANK = "10"
+
+
+[[person]]
+name.last = "Ponte"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "15"
+P_GS = "11"
+P_CG = "7"
+P_SHO = "1"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "90"
+P_H = "75"
+P_HR = "0"
+P_R = "35"
+P_ER = "22"
+P_BB = "34"
+P_SO = "53"
+P_HP = "9"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "2.20"
+
+
+[[person]]
+name.last = "Prince"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "24"
+P_GS = "15"
+P_CG = "4"
+P_SHO = "2"
+P_W = "11"
+P_L = "6"
+P_PCT = ".647"
+P_IP = "115"
+P_H = "104"
+P_HR = "8"
+P_R = "69"
+P_ER = "48"
+P_BB = "69"
+P_SO = "76"
+P_HP = "9"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "3.76"
+
+
+[[person]]
+name.last = "Ramnes"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "15"
+P_GS = "14"
+P_CG = "12"
+P_SHO = "2"
+P_W = "11"
+P_L = "3"
+P_PCT = ".786"
+P_IP = "118"
+P_H = "92"
+P_HR = "8"
+P_R = "44"
+P_ER = "38"
+P_BB = "49"
+P_SO = "105"
+P_HP = "5"
+P_WP = "4"
+P_BK = "1"
+P_ERA = "2.90"
+
+
+[[person]]
+name.last = "Riley"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "28"
+P_GS = "9"
+P_CG = "5"
+P_SHO = "0"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "118"
+P_H = "105"
+P_HR = "9"
+P_R = "59"
+P_ER = "44"
+P_BB = "46"
+P_SO = "76"
+P_HP = "3"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "3.36"
+
+
+[[person]]
+name.last = "Rose"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "28"
+P_GS = "8"
+P_CG = "5"
+P_SHO = "0"
+P_W = "6"
+P_L = "2"
+P_PCT = ".750"
+P_IP = "100"
+P_H = "110"
+P_HR = "11"
+P_R = "77"
+P_ER = "58"
+P_BB = "47"
+P_SO = "53"
+P_HP = "4"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "5.22"
+
+
+[[person]]
+name.last = "Sala"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "14"
+P_GS = "11"
+P_CG = "7"
+P_SHO = "1"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "90"
+P_H = "85"
+P_HR = "5"
+P_R = "41"
+P_ER = "35"
+P_BB = "60"
+P_SO = "65"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_ERA = "3.50"
+
+
+[[person]]
+name.last = "Schulz"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "28"
+P_GS = "15"
+P_CG = "7"
+P_SHO = "0"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "127"
+P_H = "147"
+P_HR = "15"
+P_R = "97"
+P_ER = "73"
+P_BB = "64"
+P_SO = "82"
+P_HP = "10"
+P_WP = "10"
+P_BK = "0"
+P_ERA = "5.17"
+
+
+[[person]]
+name.last = "Schwall"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "20"
+P_GS = "17"
+P_CG = "6"
+P_SHO = "0"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+P_IP = "98"
+P_H = "108"
+P_HR = "2"
+P_R = "71"
+P_ER = "51"
+P_BB = "70"
+P_SO = "106"
+P_HP = "4"
+P_WP = "6"
+P_BK = "1"
+P_ERA = "4.68"
+
+
+[[person]]
+name.last = "Sherrill"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "48"
+P_GS = "22"
+P_CG = "8"
+P_SHO = "2"
+P_W = "10"
+P_L = "12"
+P_PCT = ".455"
+P_IP = "197"
+P_H = "171"
+P_HR = "13"
+P_R = "120"
+P_ER = "92"
+P_BB = "147"
+P_SO = "164"
+P_HP = "6"
+P_WP = "20"
+P_BK = "1"
+P_ERA = "4.20"
+
+
+[[person]]
+name.last = "Shuppy"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "13"
+P_GS = "11"
+P_CG = "5"
+P_SHO = "0"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "74"
+P_H = "69"
+P_HR = "2"
+P_R = "42"
+P_ER = "30"
+P_BB = "51"
+P_SO = "63"
+P_HP = "4"
+P_WP = "11"
+P_BK = "0"
+P_ERA = "3.65"
+
+
+[[person]]
+name.last = "Skousen"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "20"
+P_GS = "12"
+P_CG = "8"
+P_SHO = "2"
+P_W = "7"
+P_L = "7"
+P_PCT = ".500"
+P_IP = "100"
+P_H = "89"
+P_HR = "5"
+P_R = "49"
+P_ER = "32"
+P_BB = "42"
+P_SO = "55"
+P_HP = "4"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.88"
+
+
+[[person]]
+name.last = "Stearns"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "9"
+P_GS = "6"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "48"
+P_H = "66"
+P_HR = "3"
+P_R = "55"
+P_ER = "43"
+P_BB = "31"
+P_SO = "42"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "8.06"
+
+
+[[person]]
+name.last = "Tejada"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "16"
+P_GS = "10"
+P_CG = "3"
+P_SHO = "1"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "63"
+P_H = "55"
+P_HR = "0"
+P_R = "35"
+P_ER = "17"
+P_BB = "34"
+P_SO = "62"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_ERA = "2.43"
+
+
+[[person]]
+name.last = "Trollinger"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "17"
+P_GS = "5"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "44"
+P_H = "52"
+P_HR = "6"
+P_R = "39"
+P_ER = "32"
+P_BB = "41"
+P_SO = "54"
+P_HP = "1"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "6.55"
+
+
+[[person]]
+name.last = "VanderLaan"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "17"
+P_GS = "9"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "78"
+P_H = "81"
+P_HR = "8"
+P_R = "50"
+P_ER = "37"
+P_BB = "25"
+P_SO = "50"
+P_HP = "1"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.27"
+
+
+[[person]]
+name.last = "Vingle"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "27"
+P_GS = "24"
+P_CG = "8"
+P_SHO = "1"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "141"
+P_H = "120"
+P_HR = "9"
+P_R = "90"
+P_ER = "69"
+P_BB = "144"
+P_SO = "148"
+P_HP = "4"
+P_WP = "16"
+P_BK = "0"
+P_ERA = "4.40"
+
+
+[[person]]
+name.last = "Vogel"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "12"
+P_GS = "1"
+P_CG = "1"
+P_SHO = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "40"
+P_H = "41"
+P_HR = "5"
+P_R = "26"
+P_ER = "22"
+P_BB = "24"
+P_SO = "26"
+P_HP = "2"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "4.95"
+
+
+[[person]]
+name.last = "Ward"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "11"
+P_GS = "6"
+P_CG = "2"
+P_SHO = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "51"
+P_H = "49"
+P_HR = "3"
+P_R = "31"
+P_ER = "23"
+P_BB = "49"
+P_SO = "31"
+P_HP = "5"
+P_WP = "5"
+P_BK = "0"
+P_ERA = "4.06"
+
+
+[[person]]
+name.last = "Weiss"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "14"
+P_GS = "5"
+P_CG = "0"
+P_SHO = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "51"
+P_H = "58"
+P_HR = "4"
+P_R = "40"
+P_ER = "35"
+P_BB = "41"
+P_SO = "31"
+P_HP = "3"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "6.18"
+
+
+[[person]]
+name.last = "Weller"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "24"
+P_GS = "13"
+P_CG = "7"
+P_SHO = "0"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "96"
+P_H = "75"
+P_HR = "1"
+P_R = "45"
+P_ER = "31"
+P_BB = "82"
+P_SO = "80"
+P_HP = "2"
+P_WP = "8"
+P_BK = "0"
+P_ERA = "2.91"
+
+
+[[person]]
+name.last = "Wittmer"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "17"
+P_GS = "9"
+P_CG = "2"
+P_SHO = "0"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "66"
+P_H = "73"
+P_HR = "11"
+P_R = "39"
+P_ER = "34"
+P_BB = "33"
+P_SO = "57"
+P_HP = "5"
+P_WP = "3"
+P_BK = "1"
+P_ERA = "4.64"
+
+
+[[person]]
+name.last = "Wooden"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "32"
+P_GS = "2"
+P_CG = "1"
+P_SHO = "0"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "88"
+P_H = "65"
+P_HR = "4"
+P_R = "28"
+P_ER = "18"
+P_BB = "20"
+P_SO = "68"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_ERA = "1.84"
+
+
+[[person]]
+name.last = "Collins"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "DeVany"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dominguez"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dominy"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Elliott"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gilkey"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hinderliter"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McBean"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Reigard"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Yarter"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Clinton"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Frey"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hannam"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jenkins"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kimmel"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Manning"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Myatt"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nickell"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ryan"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "8"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smid"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "D."
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Vigliotti"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Decatur"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ashby"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Conrad"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "6"
+P_W = "3"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fischer"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Frencl"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Henderson"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "J."
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "M."
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Szymanski"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Williams"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dubuque"
+[person.playing.totals]
+P_G = "11"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Arrindell"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "4"
+P_W = "2"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bonem"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Calo"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Clanton"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ebker"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hughes"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "May"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "O'Connor"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Keokuk"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bozich"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cook"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dickey"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Field"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hinman"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Linzey"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCormick"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "6"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rouse"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Savinon"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Serrano"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Shelton"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Young"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kokomo"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barndollar"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bensonen"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Courington"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cuesta"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smisko"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Michigan City"
+[person.playing.totals]
+P_G = "8"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Biebel"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McKee"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Quick"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "G. T."
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "V."
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Andersen"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cunningham"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Deal"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dokos"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ganes"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Geiser"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "3"
+P_W = "1"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Halloran"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hansen"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "7"
+P_W = "2"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Irwin"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kraus"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Modrell"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Napier"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Presley"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Spanswick"
+description.throws = "L"
+[[person.playing]]
+season = "1958"
+league.name = "Midwest League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waterloo"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "0"
+P_BK = "0"

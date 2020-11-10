@@ -1,0 +1,102 @@
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "88"
+R_L = "37"
+R_PCT = ".704"
+R_RANK = "1"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "83"
+R_L = "41"
+R_PCT = ".670"
+R_RANK = "2"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "55"
+R_PCT = ".570"
+R_RANK = "3"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "68"
+R_PCT = ".450"
+R_RANK = "4"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "69"
+R_PCT = ".448"
+R_RANK = "5"
+
+
+[[team]]
+name = "Oskaloosa"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "75"
+R_PCT = ".405"
+R_RANK = "6"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "79"
+R_PCT = ".378"
+R_RANK = "7"
+
+
+[[team]]
+name = "Ottumwa"
+[[team.playing]]
+season = "1908"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "80"
+R_PCT = ".375"
+R_RANK = "8"

@@ -1,0 +1,82 @@
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_G = "104"
+F_PO = "2587"
+F_A = "1189"
+F_E = "215"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Edmonton"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2512"
+F_A = "1225"
+F_E = "232"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Moose Jaw"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_PO = "2304"
+F_A = "1251"
+F_E = "240"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Calgary"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_G = "103"
+F_PO = "2653"
+F_A = "1408"
+F_E = "277"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Brandon"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_G = "103"
+F_PO = "2445"
+F_A = "1458"
+F_E = "296"
+F_PCT = ".929"
+
+
+[[team]]
+name = "Saskatoon"
+[[team.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_PO = "2663"
+F_A = "1417"
+F_E = "324"
+F_PCT = ".926"

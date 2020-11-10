@@ -1,0 +1,102 @@
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2994"
+F_A = "1430"
+F_E = "221"
+F_PCT = ".952"
+
+
+[[team]]
+name = "McPherson"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2956"
+F_A = "1283"
+F_E = "227"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Great Bend"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2859"
+F_A = "1273"
+F_E = "252"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Larned"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2830"
+F_A = "1280"
+F_E = "255"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Wellington"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2855"
+F_A = "1333"
+F_E = "261"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Newton"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2897"
+F_A = "1304"
+F_E = "281"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Arkansas City"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2782"
+F_A = "1282"
+F_E = "291"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Lyons"
+[[team.playing]]
+season = "1910"
+league.name = "Kansas State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2772"
+F_A = "1320"
+F_E = "208"
+F_PCT = ".928"

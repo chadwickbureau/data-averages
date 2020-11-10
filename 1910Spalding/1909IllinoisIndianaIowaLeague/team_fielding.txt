@@ -1,0 +1,102 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3718"
+F_A = "1664"
+F_E = "212"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3788"
+F_A = "1710"
+F_E = "228"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3556"
+F_A = "1773"
+F_E = "233"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3622"
+F_A = "1561"
+F_E = "255"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3683"
+F_A = "1844"
+F_E = "297"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3621"
+F_A = "2098"
+F_E = "310"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3668"
+F_A = "1645"
+F_E = "326"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3679"
+F_A = "1902"
+F_E = "376"
+F_PCT = ".937"

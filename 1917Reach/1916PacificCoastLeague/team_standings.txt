@@ -1,0 +1,76 @@
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "119"
+R_L = "79"
+R_PCT = ".601"
+R_RANK = "1"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "115"
+R_L = "91"
+R_PCT = ".558"
+R_RANK = "2"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "99"
+R_L = "96"
+R_PCT = ".507"
+R_RANK = "3"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "104"
+R_L = "102"
+R_PCT = ".504"
+R_RANK = "4"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "93"
+R_L = "98"
+R_PCT = ".487"
+R_RANK = "5"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1916"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "136"
+R_PCT = ".346"
+R_RANK = "6"

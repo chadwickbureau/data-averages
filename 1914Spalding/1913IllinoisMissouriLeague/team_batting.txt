@@ -1,0 +1,112 @@
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2857"
+B_R = "570"
+B_1B = "666"
+B_2B = "165"
+B_3B = "52"
+B_HR = "20"
+B_SH = "133"
+B_SB = "109"
+B_SO = "335"
+B_AVG = ".315"
+
+
+[[team]]
+name = "Kankakee"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3024"
+B_R = "358"
+B_1B = "683"
+B_2B = "123"
+B_3B = "35"
+B_HR = "7"
+B_SH = "141"
+B_SB = "140"
+B_SO = "384"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Streator"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2984"
+B_R = "381"
+B_1B = "697"
+B_2B = "110"
+B_3B = "29"
+B_HR = "42"
+B_SH = "66"
+B_SB = "99"
+B_SO = "533"
+B_AVG = ".294"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "1616"
+B_R = "225"
+B_1B = "376"
+B_2B = "77"
+B_3B = "18"
+B_HR = "8"
+B_SH = "61"
+B_SB = "24"
+B_SO = "211"
+B_AVG = ".296"
+
+
+[[team]]
+name = "Champaign"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3254"
+B_R = "416"
+B_1B = "723"
+B_2B = "120"
+B_3B = "36"
+B_HR = "21"
+B_SH = "90"
+B_SB = "150"
+B_SO = "487"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1913"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "1486"
+B_R = "163"
+B_1B = "330"
+B_2B = "59"
+B_3B = "12"
+B_HR = "2"
+B_SH = "46"
+B_SB = "87"
+B_SO = "181"
+B_AVG = ".271"

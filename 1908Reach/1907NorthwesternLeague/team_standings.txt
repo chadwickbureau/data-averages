@@ -1,0 +1,76 @@
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "51"
+R_PCT = ".625"
+R_RANK = "1"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "90"
+R_L = "59"
+R_PCT = ".604"
+R_RANK = "2"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "83"
+R_L = "65"
+R_PCT = ".561"
+R_RANK = "3"
+
+
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "73"
+R_PCT = ".490"
+R_RANK = "4"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "76"
+R_PCT = ".472"
+R_RANK = "5"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "34"
+R_L = "106"
+R_PCT = ".243"
+R_RANK = "6"

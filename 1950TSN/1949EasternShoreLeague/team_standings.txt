@@ -1,0 +1,154 @@
+[[team]]
+name = "Easton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "52"
+R_PCT = ".567"
+R_RANK = "1"
+
+
+[[team]]
+name = "Federalsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "56"
+R_PCT = ".529"
+R_RANK = "2"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "59"
+R_PCT = ".504"
+R_RANK = "3"
+
+
+[[team]]
+name = "Rehoboth Beach"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "63"
+R_PCT = ".471"
+R_RANK = "4"
+
+
+[[team]]
+name = "Seaford"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "64"
+R_PCT = ".467"
+R_RANK = "5"
+
+
+[[team]]
+name = "Cambridge"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "64"
+R_PCT = ".462"
+R_RANK = "6"
+
+
+[[team]]
+name = "Federalsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "semifinal"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Rehoboth Beach"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "semifinal"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "2"
+
+
+[[team]]
+name = "Easton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "semifinal"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "3"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "semifinal"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "4"
+
+
+[[team]]
+name = "Rehoboth Beach"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Federalsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"

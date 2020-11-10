@@ -1,0 +1,50 @@
+[[team]]
+name = "Almendares"
+[[team.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "26"
+R_PCT = ".639"
+R_RANK = "1"
+
+
+[[team]]
+name = "Marianao"
+[[team.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "38"
+R_L = "34"
+R_PCT = ".528"
+R_RANK = "2"
+
+
+[[team]]
+name = "Cienfuegos"
+[[team.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "31"
+R_L = "41"
+R_PCT = ".431"
+R_RANK = "3"
+
+
+[[team]]
+name = "Havana"
+[[team.playing]]
+season = "1958"
+league.name = "Cuban Winter League"
+phase = "regular"
+[team.playing.totals]
+R_W = "29"
+R_L = "43"
+R_PCT = ".403"
+R_RANK = "4"

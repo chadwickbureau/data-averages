@@ -1,0 +1,76 @@
+[[team]]
+name = "Manistee"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "83"
+R_L = "35"
+R_PCT = ".703"
+R_RANK = "1"
+
+
+[[team]]
+name = "Traverse City"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "40"
+R_PCT = ".664"
+R_RANK = "2"
+
+
+[[team]]
+name = "Ludington"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "59"
+R_PCT = ".504"
+R_RANK = "3"
+
+
+[[team]]
+name = "Boyne City"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "69"
+R_PCT = ".420"
+R_RANK = "4"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "70"
+R_PCT = ".407"
+R_RANK = "5"
+
+
+[[team]]
+name = "Cadillac"
+[[team.playing]]
+season = "1912"
+league.name = "Michigan State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "35"
+R_L = "82"
+R_PCT = ".299"
+R_RANK = "6"

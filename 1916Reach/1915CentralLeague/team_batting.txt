@@ -1,0 +1,182 @@
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4045"
+B_R = "496"
+B_ER = "367"
+B_H = "1084"
+B_2B = "166"
+B_3B = "51"
+B_HR = "16"
+B_TB = "1400"
+B_SH = "153"
+B_SB = "178"
+B_BB = "403"
+B_SO = "456"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4067"
+B_R = "537"
+B_ER = "380"
+B_H = "1078"
+B_2B = "166"
+B_3B = "39"
+B_HR = "23"
+B_TB = "1391"
+B_SH = "154"
+B_SB = "203"
+B_BB = "339"
+B_SO = "508"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4018"
+B_R = "503"
+B_ER = "302"
+B_H = "1033"
+B_2B = "201"
+B_3B = "26"
+B_HR = "21"
+B_TB = "1349"
+B_SH = "170"
+B_SB = "143"
+B_BB = "358"
+B_SO = "568"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4093"
+B_R = "519"
+B_ER = "361"
+B_H = "1020"
+B_2B = "139"
+B_3B = "41"
+B_HR = "43"
+B_TB = "1370"
+B_SH = "156"
+B_SB = "175"
+B_BB = "423"
+B_SO = "539"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3979"
+B_R = "493"
+B_ER = "384"
+B_H = "987"
+B_2B = "143"
+B_3B = "41"
+B_HR = "38"
+B_TB = "1326"
+B_SH = "202"
+B_SB = "158"
+B_BB = "463"
+B_SO = "556"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Youngstown"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "3965"
+B_R = "422"
+B_ER = "322"
+B_H = "938"
+B_2B = "173"
+B_3B = "31"
+B_HR = "23"
+B_TB = "1242"
+B_SH = "189"
+B_SB = "171"
+B_BB = "410"
+B_SO = "579"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4022"
+B_R = "443"
+B_ER = "284"
+B_H = "949"
+B_2B = "134"
+B_3B = "51"
+B_HR = "20"
+B_TB = "1245"
+B_SH = "148"
+B_SB = "190"
+B_BB = "337"
+B_SO = "638"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1915"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "3858"
+B_R = "378"
+B_ER = "269"
+B_H = "886"
+B_2B = "177"
+B_3B = "35"
+B_HR = "14"
+B_TB = "1175"
+B_SH = "131"
+B_SB = "136"
+B_BB = "311"
+B_SO = "523"
+B_AVG = ".230"

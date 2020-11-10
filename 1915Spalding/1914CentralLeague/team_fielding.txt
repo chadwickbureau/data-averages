@@ -1,0 +1,88 @@
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3510"
+F_A = "1641"
+F_E = "192"
+F_TC = "5343"
+F_PB = "2"
+F_DP = "56"
+F_LOB = "895"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3497"
+F_A = "1498"
+F_E = "214"
+F_TC = "5209"
+F_PB = "16"
+F_DP = "60"
+F_LOB = "843"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Fort Wayne"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3592"
+F_A = "1796"
+F_E = "235"
+F_TC = "5623"
+F_PB = "22"
+F_DP = "71"
+F_LOB = "877"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3582"
+F_A = "1586"
+F_E = "244"
+F_TC = "5412"
+F_PB = "18"
+F_DP = "80"
+F_LOB = "842"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1914"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3482"
+F_A = "1706"
+F_E = "294"
+F_TC = "5482"
+F_PB = "23"
+F_DP = "70"
+F_LOB = "833"
+F_PCT = ".948"

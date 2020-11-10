@@ -1,0 +1,76 @@
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1907"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3356"
+F_A = "1513"
+F_E = "178"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1907"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3141"
+F_A = "1650"
+F_E = "192"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1907"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3388"
+F_A = "1734"
+F_E = "250"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1907"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3625"
+F_A = "1589"
+F_E = "253"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1907"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2823"
+F_A = "1421"
+F_E = "221"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1907"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3049"
+F_A = "1323"
+F_E = "241"
+F_PCT = ".948"

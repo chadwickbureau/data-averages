@@ -1,0 +1,82 @@
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "81"
+B_AB = "2697"
+B_R = "388"
+B_H = "664"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Georgetown"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "81"
+B_AB = "2885"
+B_R = "453"
+B_H = "747"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Brenham"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "85"
+B_AB = "2783"
+B_R = "352"
+B_H = "600"
+B_AVG = ".216"
+
+
+[[team]]
+name = "Belton"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "86"
+B_AB = "2841"
+B_R = "362"
+B_H = "589"
+B_AVG = ".208"
+
+
+[[team]]
+name = "Lampasas"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "86"
+B_AB = "2883"
+B_R = "349"
+B_H = "527"
+B_AVG = ".182"
+
+
+[[team]]
+name = "Bartlett"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+B_G = "81"
+B_AB = "2630"
+B_R = "242"
+B_H = "572"
+B_AVG = ".217"

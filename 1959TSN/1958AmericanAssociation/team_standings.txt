@@ -1,0 +1,186 @@
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "89"
+R_L = "62"
+R_T = "3"
+R_PCT = ".580"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "83"
+R_L = "71"
+R_T = "0"
+R_PCT = ".539"
+R_RANK = "2"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "82"
+R_L = "71"
+R_T = "1"
+R_PCT = ".536"
+R_RANK = "3"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "78"
+R_L = "71"
+R_T = "1"
+R_PCT = ".523"
+R_RANK = "4"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "74"
+R_T = "0"
+R_PCT = ".510"
+R_RANK = "5"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "82"
+R_T = "1"
+R_PCT = ".468"
+R_RANK = "6"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "70"
+R_L = "84"
+R_T = "0"
+R_PCT = ".455"
+R_RANK = "7"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "95"
+R_T = "0"
+R_PCT = ".371"
+R_RANK = "8"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1958"
+league.name = "American Association"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_RANK = "2"

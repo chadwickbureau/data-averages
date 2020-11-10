@@ -1,0 +1,110 @@
+[[team]]
+name = "Big Spring"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "94"
+R_L = "45"
+R_T = "0"
+R_PCT = ".676"
+R_RANK = "1"
+
+
+[[team]]
+name = "Midland"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "66"
+R_T = "0"
+R_PCT = ".529"
+R_RANK = "2"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "66"
+R_T = "0"
+R_PCT = ".522"
+R_RANK = "3"
+
+
+[[team]]
+name = "San Angelo"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "68"
+R_T = "0"
+R_PCT = ".504"
+R_RANK = "4"
+
+
+[[team]]
+name = "Odessa"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "74"
+R_T = "0"
+R_PCT = ".471"
+R_RANK = "5"
+
+
+[[team]]
+name = "Ballinger"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "76"
+R_T = "0"
+R_PCT = ".457"
+R_RANK = "6"
+
+
+[[team]]
+name = "Sweetwater"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "79"
+R_T = "0"
+R_PCT = ".432"
+R_RANK = "7"
+
+
+[[team]]
+name = "Roswell"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "82"
+R_T = "0"
+R_PCT = ".410"
+R_RANK = "8"

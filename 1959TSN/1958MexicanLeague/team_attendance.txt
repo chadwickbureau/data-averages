@@ -1,0 +1,58 @@
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "354413"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "207255"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "179370"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "146558"
+
+
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "113994"
+
+
+[[team]]
+name = "Yucatan"
+[[team.playing]]
+season = "1958"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "108933"

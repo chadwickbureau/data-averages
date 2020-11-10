@@ -1,0 +1,94 @@
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "34"
+R_PCT = ".706"
+
+
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "49"
+R_PCT = ".563"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "47"
+R_PCT = ".535"
+
+
+[[team]]
+name = "Mason City"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "52"
+R_PCT = ".527"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "48"
+R_PCT = ".515"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "64"
+R_PCT = ".448"
+
+
+[[team]]
+name = "Marshalltown"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "60"
+R_PCT = ".434"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1915"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "13"
+R_L = "64"
+R_PCT = ".169"

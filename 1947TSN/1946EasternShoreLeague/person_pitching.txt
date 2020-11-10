@@ -1,0 +1,3599 @@
+[[person]]
+name.last = "Heuser"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "7"
+P_CG = "5"
+P_W = "6"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "49"
+P_AB = "189"
+P_H = "36"
+P_R = "15"
+P_ER = "6"
+P_SH = "0"
+P_BB = "17"
+P_SO = "34"
+P_HP = "2"
+P_WP = "2"
+P_SHO = "1"
+P_ERA = "1.10"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Makowsky"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "13"
+P_CG = "8"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "85"
+P_AB = "316"
+P_H = "56"
+P_R = "29"
+P_ER = "15"
+P_SH = "2"
+P_BB = "36"
+P_SO = "88"
+P_HP = "3"
+P_WP = "2"
+P_SHO = "1"
+P_ERA = "1.59"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Deal"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "12"
+P_CG = "8"
+P_W = "7"
+P_L = "3"
+P_PCT = ".700"
+P_IP = "88"
+P_AB = "340"
+P_H = "79"
+P_R = "26"
+P_ER = "21"
+P_SH = "3"
+P_BB = "18"
+P_SO = "51"
+P_HP = "2"
+P_WP = "3"
+P_SHO = "1"
+P_ERA = "2.15"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Linville"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "46"
+P_AB = "182"
+P_H = "42"
+P_R = "23"
+P_ER = "11"
+P_SH = "1"
+P_BB = "11"
+P_SO = "18"
+P_HP = "4"
+P_WP = "1"
+P_SHO = "1"
+P_ERA = "2.15"
+P_BK = "0"
+
+
+[[person]]
+name.last = "De Forge"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "23"
+P_CG = "10"
+P_W = "8"
+P_L = "6"
+P_PCT = ".571"
+P_IP = "127"
+P_AB = "487"
+P_H = "109"
+P_R = "52"
+P_ER = "35"
+P_SH = "8"
+P_BB = "14"
+P_SO = "66"
+P_HP = "0"
+P_WP = "2"
+P_SHO = "1"
+P_ERA = "2.48"
+P_BK = "0"
+P_ERA_RANK = "1"
+
+
+[[person]]
+name.last = "Parker"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "13"
+P_CG = "8"
+P_W = "7"
+P_L = "4"
+P_PCT = ".636"
+P_IP = "97"
+P_AB = "351"
+P_H = "69"
+P_R = "33"
+P_ER = "27"
+P_SH = "6"
+P_BB = "62"
+P_SO = "82"
+P_HP = "2"
+P_WP = "5"
+P_SHO = "2"
+P_ERA = "2.51"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bournot"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "12"
+P_CG = "7"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "91"
+P_AB = "320"
+P_H = "61"
+P_R = "33"
+P_ER = "27"
+P_SH = "5"
+P_BB = "69"
+P_SO = "98"
+P_HP = "1"
+P_WP = "6"
+P_SHO = "3"
+P_ERA = "2.67"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Veto"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "48"
+P_AB = "177"
+P_H = "37"
+P_R = "21"
+P_ER = "15"
+P_SH = "4"
+P_BB = "34"
+P_SO = "36"
+P_HP = "2"
+P_WP = "5"
+P_SHO = "0"
+P_ERA = "2.81"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Coulling"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "31"
+P_CG = "19"
+P_W = "17"
+P_L = "8"
+P_PCT = ".680"
+P_IP = "203"
+P_AB = "810"
+P_H = "200"
+P_R = "82"
+P_ER = "65"
+P_SH = "4"
+P_BB = "28"
+P_SO = "81"
+P_HP = "4"
+P_WP = "2"
+P_SHO = "3"
+P_ERA = "2.88"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Adametz"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "8"
+P_CG = "5"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "50"
+P_AB = "173"
+P_H = "38"
+P_R = "23"
+P_ER = "16"
+P_SH = "3"
+P_BB = "25"
+P_SO = "43"
+P_HP = "2"
+P_WP = "0"
+P_SHO = "1"
+P_ERA = "2.88"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Cave"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "24"
+P_CG = "17"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "187"
+P_AB = "737"
+P_H = "174"
+P_R = "90"
+P_ER = "60"
+P_SH = "5"
+P_BB = "90"
+P_SO = "173"
+P_HP = "2"
+P_WP = "0"
+P_SHO = "4"
+P_ERA = "2.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kitterman"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "14"
+P_CG = "3"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "73"
+P_AB = "266"
+P_H = "57"
+P_R = "33"
+P_ER = "24"
+P_SH = "4"
+P_BB = "39"
+P_SO = "41"
+P_HP = "2"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "2.96"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Patterson"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "8"
+P_CG = "4"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "50"
+P_AB = "205"
+P_H = "52"
+P_R = "23"
+P_ER = "17"
+P_SH = "3"
+P_BB = "8"
+P_SO = "31"
+P_HP = "2"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "3.06"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Beringer"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "29"
+P_CG = "16"
+P_W = "8"
+P_L = "13"
+P_PCT = ".381"
+P_IP = "192"
+P_AB = "771"
+P_H = "198"
+P_R = "106"
+P_ER = "66"
+P_SH = "17"
+P_BB = "54"
+P_SO = "114"
+P_HP = "4"
+P_WP = "0"
+P_SHO = "1"
+P_ERA = "3.09"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Gast"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "24"
+P_CG = "21"
+P_W = "16"
+P_L = "5"
+P_PCT = ".762"
+P_IP = "191"
+P_AB = "723"
+P_H = "152"
+P_R = "84"
+P_ER = "66"
+P_SH = "5"
+P_BB = "95"
+P_SO = "182"
+P_HP = "3"
+P_WP = "5"
+P_SHO = "3"
+P_ERA = "3.11"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Petrazzollo"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "19"
+P_CG = "9"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "124"
+P_AB = "450"
+P_H = "89"
+P_R = "58"
+P_ER = "43"
+P_SH = "3"
+P_BB = "75"
+P_SO = "123"
+P_HP = "9"
+P_WP = "1"
+P_SHO = "2"
+P_ERA = "3.12"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Lash"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "16"
+P_CG = "7"
+P_W = "10"
+P_L = "4"
+P_PCT = ".714"
+P_IP = "95"
+P_AB = "367"
+P_H = "90"
+P_R = "41"
+P_ER = "33"
+P_SH = "4"
+P_BB = "46"
+P_SO = "99"
+P_HP = "4"
+P_WP = "2"
+P_SHO = "2"
+P_ERA = "3.13"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "20"
+P_CG = "13"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "132"
+P_AB = "471"
+P_H = "105"
+P_R = "54"
+P_ER = "46"
+P_SH = "8"
+P_BB = "75"
+P_SO = "109"
+P_HP = "3"
+P_WP = "3"
+P_SHO = "3"
+P_ERA = "3.14"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Tully"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "31"
+P_CG = "19"
+P_W = "15"
+P_L = "10"
+P_PCT = ".600"
+P_IP = "210"
+P_AB = "791"
+P_H = "172"
+P_R = "92"
+P_ER = "75"
+P_SH = "11"
+P_BB = "87"
+P_SO = "154"
+P_HP = "10"
+P_WP = "4"
+P_SHO = "3"
+P_ERA = "3.21"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Foreman"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "18"
+P_CG = "7"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "101"
+P_AB = "401"
+P_H = "115"
+P_R = "60"
+P_ER = "39"
+P_SH = "8"
+P_BB = "57"
+P_SO = "47"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "3.48"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Poholsky"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "23"
+P_CG = "12"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "141"
+P_AB = "551"
+P_H = "145"
+P_R = "63"
+P_ER = "57"
+P_SH = "5"
+P_BB = "34"
+P_SO = "75"
+P_HP = "3"
+P_WP = "0"
+P_SHO = "3"
+P_ERA = "3.64"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Patakfalvi"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "25"
+P_CG = "8"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "140"
+P_AB = "564"
+P_H = "153"
+P_R = "86"
+P_ER = "57"
+P_SH = "8"
+P_BB = "42"
+P_SO = "66"
+P_HP = "2"
+P_WP = "5"
+P_SHO = "0"
+P_ERA = "3.66"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wollgast"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "22"
+P_CG = "16"
+P_W = "14"
+P_L = "7"
+P_PCT = ".667"
+P_IP = "182"
+P_AB = "709"
+P_H = "172"
+P_R = "95"
+P_ER = "75"
+P_SH = "3"
+P_BB = "73"
+P_SO = "131"
+P_HP = "4"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "3.71"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "9"
+P_CG = "7"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "70"
+P_AB = "267"
+P_H = "71"
+P_R = "31"
+P_ER = "29"
+P_SH = "5"
+P_BB = "21"
+P_SO = "42"
+P_HP = "2"
+P_WP = "3"
+P_SHO = "1"
+P_ERA = "3.73"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Farmer"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "14"
+P_CG = "2"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "52"
+P_AB = "206"
+P_H = "58"
+P_R = "24"
+P_ER = "22"
+P_SH = "8"
+P_BB = "11"
+P_SO = "30"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "1"
+P_ERA = "3.81"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "J. Y."
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "29"
+P_CG = "14"
+P_W = "14"
+P_L = "9"
+P_PCT = ".609"
+P_IP = "192"
+P_AB = "777"
+P_H = "217"
+P_R = "104"
+P_ER = "82"
+P_SH = "8"
+P_BB = "74"
+P_SO = "95"
+P_HP = "7"
+P_WP = "5"
+P_SHO = "1"
+P_ERA = "3.84"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Curtis"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "14"
+P_CG = "4"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "75"
+P_AB = "307"
+P_H = "79"
+P_R = "41"
+P_ER = "32"
+P_SH = "3"
+P_BB = "23"
+P_SO = "57"
+P_HP = "1"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "3.84"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sharp"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "9"
+P_CG = "3"
+P_W = "5"
+P_L = "1"
+P_PCT = ".833"
+P_IP = "49"
+P_AB = "204"
+P_H = "61"
+P_R = "26"
+P_ER = "22"
+P_SH = "1"
+P_BB = "11"
+P_SO = "33"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "4.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "(Zak)aluzny"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "7"
+P_CG = "1"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "49"
+P_AB = "187"
+P_H = "46"
+P_R = "30"
+P_ER = "22"
+P_SH = "1"
+P_BB = "26"
+P_SO = "20"
+P_HP = "2"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "4.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Waldt"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "32"
+P_CG = "16"
+P_W = "17"
+P_L = "7"
+P_PCT = ".708"
+P_IP = "204"
+P_AB = "819"
+P_H = "233"
+P_R = "108"
+P_ER = "92"
+P_SH = "9"
+P_BB = "75"
+P_SO = "96"
+P_HP = "6"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "4.06"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "32"
+P_CG = "15"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+P_IP = "197"
+P_AB = "770"
+P_H = "193"
+P_R = "104"
+P_ER = "89"
+P_SH = "9"
+P_BB = "85"
+P_SO = "165"
+P_HP = "4"
+P_WP = "9"
+P_SHO = "2"
+P_ERA = "4.07"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "21"
+P_CG = "6"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "130"
+P_AB = "498"
+P_H = "115"
+P_R = "75"
+P_ER = "59"
+P_SH = "7"
+P_BB = "63"
+P_SO = "87"
+P_HP = "8"
+P_WP = "7"
+P_SHO = "1"
+P_ERA = "4.08"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Krausse"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "29"
+P_CG = "21"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_IP = "216"
+P_AB = "906"
+P_H = "272"
+P_R = "131"
+P_ER = "103"
+P_SH = "9"
+P_BB = "31"
+P_SO = "72"
+P_HP = "2"
+P_WP = "0"
+P_SHO = "1"
+P_ERA = "4.29"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jeanneau"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "50"
+P_AB = "205"
+P_H = "64"
+P_R = "29"
+P_ER = "24"
+P_SH = "1"
+P_BB = "18"
+P_SO = "29"
+P_HP = "2"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "4.32"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Enns"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "27"
+P_CG = "10"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "172"
+P_AB = "656"
+P_H = "169"
+P_R = "114"
+P_ER = "84"
+P_SH = "11"
+P_BB = "113"
+P_SO = "71"
+P_HP = "8"
+P_WP = "5"
+P_SHO = "0"
+P_ERA = "4.40"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Houck"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+P_G = "6"
+[[person.playing.split]]
+team.name = "Milford"
+P_G = "21"
+[person.playing.totals]
+P_G = "27"
+P_CG = "3"
+P_W = "9"
+P_L = "4"
+P_PCT = ".692"
+P_IP = "90"
+P_AB = "365"
+P_H = "110"
+P_R = "54"
+P_ER = "44"
+P_SH = "3"
+P_BB = "28"
+P_SO = "59"
+P_HP = "4"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "4.40"
+P_BK = "2"
+
+
+[[person]]
+name.last = "Doherty"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "34"
+P_CG = "11"
+P_W = "12"
+P_L = "6"
+P_PCT = ".667"
+P_IP = "153"
+P_AB = "552"
+P_H = "123"
+P_R = "85"
+P_ER = "75"
+P_SH = "5"
+P_BB = "140"
+P_SO = "133"
+P_HP = "13"
+P_WP = "14"
+P_SHO = "1"
+P_ERA = "4.41"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Harper"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "24"
+P_CG = "4"
+P_W = "5"
+P_L = "5"
+P_PCT = ".500"
+P_IP = "107"
+P_AB = "427"
+P_H = "116"
+P_R = "69"
+P_ER = "53"
+P_SH = "4"
+P_BB = "45"
+P_SO = "42"
+P_HP = "5"
+P_WP = "1"
+P_SHO = "1"
+P_ERA = "4.46"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Crooks"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "39"
+P_CG = "13"
+P_W = "12"
+P_L = "14"
+P_PCT = ".462"
+P_IP = "209"
+P_AB = "809"
+P_H = "193"
+P_R = "131"
+P_ER = "104"
+P_SH = "4"
+P_BB = "109"
+P_SO = "178"
+P_HP = "11"
+P_WP = "15"
+P_SHO = "2"
+P_ERA = "4.48"
+P_BK = "1"
+
+
+[[person]]
+name.last = "McGurk"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "25"
+P_CG = "13"
+P_W = "7"
+P_L = "12"
+P_PCT = ".368"
+P_IP = "164"
+P_AB = "653"
+P_H = "177"
+P_R = "114"
+P_ER = "82"
+P_SH = "5"
+P_BB = "94"
+P_SO = "138"
+P_HP = "13"
+P_WP = "13"
+P_SHO = "0"
+P_ERA = "4.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Weiss"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "29"
+P_CG = "1"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "88"
+P_AB = "308"
+P_H = "71"
+P_R = "53"
+P_ER = "44"
+P_SH = "6"
+P_BB = "79"
+P_SO = "58"
+P_HP = "4"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "4.50"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Messina"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "32"
+P_CG = "8"
+P_W = "8"
+P_L = "9"
+P_PCT = ".471"
+P_IP = "141"
+P_AB = "567"
+P_H = "169"
+P_R = "104"
+P_ER = "71"
+P_SH = "6"
+P_BB = "56"
+P_SO = "59"
+P_HP = "11"
+P_WP = "1"
+P_SHO = "1"
+P_ERA = "4.53"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Marcho"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+P_G = "14"
+[[person.playing.split]]
+team.name = "Federalsburg"
+P_G = "16"
+[person.playing.totals]
+P_G = "30"
+P_CG = "15"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "185"
+P_AB = "741"
+P_H = "209"
+P_R = "131"
+P_ER = "94"
+P_SH = "4"
+P_BB = "101"
+P_SO = "121"
+P_HP = "3"
+P_WP = "11"
+P_SHO = "0"
+P_ERA = "4.57"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Howe"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "12"
+P_CG = "2"
+P_W = "5"
+P_L = "2"
+P_PCT = ".714"
+P_IP = "57"
+P_AB = "223"
+P_H = "64"
+P_R = "35"
+P_ER = "29"
+P_SH = "5"
+P_BB = "38"
+P_SO = "32"
+P_HP = "4"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "4.58"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "D."
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "24"
+P_CG = "7"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "133"
+P_AB = "552"
+P_H = "161"
+P_R = "90"
+P_ER = "68"
+P_SH = "2"
+P_BB = "35"
+P_SO = "78"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "1"
+P_ERA = "4.60"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wengrenovich"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "26"
+P_CG = "14"
+P_W = "12"
+P_L = "7"
+P_PCT = ".632"
+P_IP = "204"
+P_AB = "781"
+P_H = "219"
+P_R = "127"
+P_ER = "105"
+P_SH = "11"
+P_BB = "67"
+P_SO = "83"
+P_HP = "12"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "4.63"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Slaysman"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "18"
+P_CG = "2"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "85"
+P_AB = "348"
+P_H = "92"
+P_R = "75"
+P_ER = "44"
+P_SH = "0"
+P_BB = "57"
+P_SO = "53"
+P_HP = "4"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "4.66"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fasulo"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "25"
+P_CG = "8"
+P_W = "10"
+P_L = "8"
+P_PCT = ".556"
+P_IP = "143"
+P_AB = "569"
+P_H = "175"
+P_R = "99"
+P_ER = "75"
+P_SH = "9"
+P_BB = "49"
+P_SO = "82"
+P_HP = "6"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "4.72"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Norton"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "12"
+P_CG = "3"
+P_W = "4"
+P_L = "6"
+P_PCT = ".400"
+P_IP = "72"
+P_AB = "212"
+P_H = "69"
+P_R = "41"
+P_ER = "38"
+P_SH = "4"
+P_BB = "43"
+P_SO = "55"
+P_HP = "2"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "4.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Barth"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "10"
+P_CG = "4"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "53"
+P_AB = "170"
+P_H = "62"
+P_R = "37"
+P_ER = "28"
+P_SH = "4"
+P_BB = "36"
+P_SO = "26"
+P_HP = "2"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "4.75"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mormino"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "25"
+P_CG = "4"
+P_W = "4"
+P_L = "10"
+P_PCT = ".286"
+P_IP = "122"
+P_AB = "470"
+P_H = "123"
+P_R = "84"
+P_ER = "65"
+P_SH = "5"
+P_BB = "83"
+P_SO = "78"
+P_HP = "5"
+P_WP = "2"
+P_SHO = "1"
+P_ERA = "4.80"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sereda"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+P_G = "3"
+[[person.playing.split]]
+team.name = "Federalsburg"
+P_G = "16"
+[person.playing.totals]
+P_G = "19"
+P_CG = "8"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "118"
+P_AB = "472"
+P_H = "129"
+P_R = "86"
+P_ER = "63"
+P_SH = "2"
+P_BB = "54"
+P_SO = "50"
+P_HP = "1"
+P_WP = "3"
+P_SHO = "1"
+P_ERA = "4.81"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Wiot"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "15"
+P_CG = "6"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "99"
+P_AB = "389"
+P_H = "103"
+P_R = "73"
+P_ER = "53"
+P_SH = "7"
+P_BB = "63"
+P_SO = "59"
+P_HP = "0"
+P_WP = "12"
+P_SHO = "0"
+P_ERA = "4.82"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jankowski"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "13"
+P_CG = "3"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+P_IP = "63"
+P_AB = "255"
+P_H = "63"
+P_R = "46"
+P_ER = "34"
+P_SH = "1"
+P_BB = "59"
+P_SO = "32"
+P_HP = "4"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "4.86"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Faust"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "28"
+P_CG = "4"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "122"
+P_AB = "470"
+P_H = "118"
+P_R = "79"
+P_ER = "66"
+P_SH = "11"
+P_BB = "86"
+P_SO = "68"
+P_HP = "11"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "4.87"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trate"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "14"
+P_CG = "2"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "57"
+P_AB = "242"
+P_H = "71"
+P_R = "49"
+P_ER = "31"
+P_SH = "3"
+P_BB = "26"
+P_SO = "36"
+P_HP = "3"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "4.89"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Girard"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "15"
+P_CG = "0"
+P_W = "2"
+P_L = "5"
+P_PCT = ".286"
+P_IP = "54"
+P_AB = "224"
+P_H = "67"
+P_R = "37"
+P_ER = "30"
+P_SH = "3"
+P_BB = "17"
+P_SO = "29"
+P_HP = "0"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.00"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Earnest"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "25"
+P_CG = "13"
+P_W = "9"
+P_L = "8"
+P_PCT = ".529"
+P_IP = "137"
+P_AB = "523"
+P_H = "137"
+P_R = "102"
+P_ER = "78"
+P_SH = "9"
+P_BB = "104"
+P_SO = "91"
+P_HP = "8"
+P_WP = "8"
+P_SHO = "1"
+P_ERA = "5.12"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Storch"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "27"
+P_CG = "9"
+P_W = "4"
+P_L = "14"
+P_PCT = ".222"
+P_IP = "149"
+P_AB = "628"
+P_H = "186"
+P_R = "119"
+P_ER = "87"
+P_SH = "4"
+P_BB = "52"
+P_SO = "81"
+P_HP = "1"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "5.26"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Paul"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "13"
+P_CG = "3"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "61"
+P_AB = "245"
+P_H = "63"
+P_R = "46"
+P_ER = "36"
+P_SH = "5"
+P_BB = "43"
+P_SO = "41"
+P_HP = "1"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.31"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Gleason"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "18"
+P_CG = "4"
+P_W = "4"
+P_L = "5"
+P_PCT = ".444"
+P_IP = "80"
+P_AB = "323"
+P_H = "95"
+P_R = "61"
+P_ER = "48"
+P_SH = "2"
+P_BB = "41"
+P_SO = "32"
+P_HP = "4"
+P_WP = "6"
+P_SHO = "0"
+P_ERA = "5.40"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Marino"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+P_G = "13"
+[[person.playing.split]]
+team.name = "Centreville"
+P_G = "11"
+[person.playing.totals]
+P_G = "24"
+P_CG = "6"
+P_W = "6"
+P_L = "4"
+P_PCT = ".600"
+P_IP = "115"
+P_AB = "475"
+P_H = "139"
+P_R = "96"
+P_ER = "73"
+P_SH = "7"
+P_BB = "41"
+P_SO = "48"
+P_HP = "10"
+P_WP = "2"
+P_SHO = "1"
+P_ERA = "5.71"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Scudero"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "11"
+P_CG = "3"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "54"
+P_AB = "181"
+P_H = "61"
+P_R = "41"
+P_ER = "35"
+P_SH = "3"
+P_BB = "36"
+P_SO = "23"
+P_HP = "2"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.83"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bradford"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "14"
+P_CG = "0"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "54"
+P_AB = "224"
+P_H = "78"
+P_R = "55"
+P_ER = "38"
+P_SH = "2"
+P_BB = "36"
+P_SO = "22"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "6.33"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Coakley"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "23"
+P_CG = "6"
+P_W = "0"
+P_L = "10"
+P_PCT = ".000"
+P_IP = "95"
+P_AB = "372"
+P_H = "97"
+P_R = "87"
+P_ER = "68"
+P_SH = "5"
+P_BB = "97"
+P_SO = "62"
+P_HP = "5"
+P_WP = "16"
+P_SHO = "0"
+P_ERA = "6.44"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Haughey"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "9"
+P_CG = "4"
+P_W = "3"
+P_L = "5"
+P_PCT = ".375"
+P_IP = "60"
+P_AB = "231"
+P_H = "58"
+P_R = "54"
+P_ER = "44"
+P_SH = "6"
+P_BB = "47"
+P_SO = "45"
+P_HP = "3"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "6.60"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Butcher"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "18"
+P_CG = "4"
+P_W = "2"
+P_L = "7"
+P_PCT = ".222"
+P_IP = "75"
+P_AB = "349"
+P_H = "106"
+P_R = "71"
+P_ER = "57"
+P_SH = "4"
+P_BB = "37"
+P_SO = "32"
+P_HP = "1"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "6.84"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Bechtel"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "21"
+P_CG = "4"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "115"
+P_AB = "456"
+P_H = "126"
+P_R = "106"
+P_ER = "90"
+P_SH = "8"
+P_BB = "87"
+P_SO = "83"
+P_HP = "6"
+P_WP = "8"
+P_SHO = "0"
+P_ERA = "7.04"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Testone"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "24"
+P_H = "29"
+P_R = "22"
+P_BB = "13"
+P_SO = "12"
+P_HP = "0"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Haggerty"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "12"
+P_H = "14"
+P_R = "8"
+P_BB = "10"
+P_SO = "10"
+P_HP = "2"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Danker"
+name.given = "Douglas"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "6"
+P_H = "3"
+P_R = "5"
+P_BB = "8"
+P_SO = "6"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kiel"
+name.given = "Herman"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "4"
+P_H = "1"
+P_R = "0"
+P_BB = "4"
+P_SO = "1"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Morris"
+name.given = "William"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "35"
+P_H = "26"
+P_R = "27"
+P_BB = "24"
+P_SO = "32"
+P_HP = "2"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Meyer"
+name.given = "Edgar"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "30"
+P_H = "44"
+P_R = "24"
+P_BB = "15"
+P_SO = "31"
+P_HP = "0"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Sundstrom"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "9"
+P_CG = "3"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "44"
+P_H = "56"
+P_R = "29"
+P_BB = "16"
+P_SO = "20"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Nicholson"
+name.given = "Douglas"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "6"
+P_CG = "3"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "39"
+P_H = "41"
+P_R = "16"
+P_BB = "28"
+P_SO = "19"
+P_HP = "2"
+P_WP = "2"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Yanscak"
+name.given = "Edward"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "2"
+P_L = "1"
+P_PCT = ".667"
+P_IP = "24"
+P_H = "26"
+P_R = "21"
+P_BB = "17"
+P_SO = "29"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Richardson"
+name.given = "Vernon"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "8"
+P_CG = "3"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "42"
+P_H = "46"
+P_R = "25"
+P_BB = "8"
+P_SO = "20"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lehman"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "30"
+P_H = "35"
+P_R = "12"
+P_BB = "7"
+P_SO = "5"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Trout"
+name.given = "Lee"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "16"
+P_H = "10"
+P_R = "16"
+P_BB = "21"
+P_SO = "13"
+P_HP = "6"
+P_WP = "2"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Contini"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "19"
+P_H = "29"
+P_R = "10"
+P_BB = "3"
+P_SO = "4"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Bakaitis"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "16"
+P_H = "21"
+P_R = "18"
+P_BB = "10"
+P_SO = "7"
+P_HP = "0"
+P_WP = "2"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Steppler"
+name.given = "Russ"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "2"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "15"
+P_H = "15"
+P_R = "8"
+P_BB = "12"
+P_SO = "5"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Phelps"
+name.given = "Leroy"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "12"
+P_H = "14"
+P_R = "8"
+P_BB = "13"
+P_SO = "8"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Coniff"
+name.given = "Edward"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "12"
+P_H = "17"
+P_R = "10"
+P_BB = "2"
+P_SO = "1"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Braun"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "28"
+P_H = "41"
+P_R = "26"
+P_BB = "15"
+P_SO = "18"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Durso"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "8"
+P_CG = "1"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "17"
+P_H = "11"
+P_R = "15"
+P_BB = "26"
+P_SO = "11"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Kelly"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "11"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "38"
+P_H = "47"
+P_R = "36"
+P_BB = "23"
+P_SO = "23"
+P_HP = "3"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Plitt"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "5"
+P_CG = "2"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "27"
+P_H = "42"
+P_R = "24"
+P_BB = "13"
+P_SO = "16"
+P_HP = "0"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "VanCuyk"
+name.given = "Christian"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "25"
+P_H = "28"
+P_R = "18"
+P_BB = "16"
+P_SO = "18"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "O'Neill"
+name.given = "Joseph"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "25"
+P_H = "23"
+P_R = "20"
+P_BB = "32"
+P_SO = "19"
+P_HP = "3"
+P_WP = "4"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pickenbrock"
+name.given = "Theodore"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "7"
+P_CG = "1"
+P_W = "1"
+P_L = "5"
+P_PCT = ".167"
+P_IP = "39"
+P_H = "41"
+P_R = "36"
+P_BB = "33"
+P_SO = "34"
+P_HP = "1"
+P_WP = "8"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Graybill"
+name.given = "Harcey"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "42"
+P_H = "47"
+P_R = "32"
+P_BB = "20"
+P_SO = "18"
+P_HP = "3"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Honas"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+[person.playing.totals]
+P_G = "10"
+P_CG = "1"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "39"
+P_H = "33"
+P_R = "29"
+P_BB = "24"
+P_SO = "19"
+P_HP = "5"
+P_WP = "3"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hamilton"
+name.given = "George"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "10"
+P_CG = "0"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "32"
+P_H = "37"
+P_R = "46"
+P_BB = "33"
+P_SO = "44"
+P_HP = "4"
+P_WP = "3"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ripepi"
+name.given = "Michael"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+P_G = "5"
+[[person.playing.split]]
+team.name = "Seaford"
+P_G = "5"
+[person.playing.totals]
+P_G = "10"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "33"
+P_H = "49"
+P_R = "38"
+P_BB = "23"
+P_SO = "21"
+P_HP = "1"
+P_WP = "2"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Quig"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "0"
+P_L = "0"
+P_PCT = ".000"
+P_IP = "30"
+P_H = "37"
+P_R = "27"
+P_BB = "12"
+P_SO = "20"
+P_HP = "2"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Sharkey"
+name.given = "Patrick"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "7"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "29"
+P_H = "44"
+P_R = "37"
+P_BB = "40"
+P_SO = "31"
+P_HP = "1"
+P_WP = "2"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Grant"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "21"
+P_H = "36"
+P_R = "29"
+P_BB = "10"
+P_SO = "11"
+P_HP = "2"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "McCullough"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "15"
+P_H = "30"
+P_R = "21"
+P_BB = "9"
+P_SO = "9"
+P_HP = "0"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ferko"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "11"
+P_R = "16"
+P_BB = "20"
+P_SO = "7"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hanker"
+name.given = "Theodore"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "24"
+P_H = "18"
+P_R = "16"
+P_BB = "28"
+P_SO = "20"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Drayer"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "7"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "16"
+P_H = "20"
+P_R = "23"
+P_BB = "14"
+P_SO = "6"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Simmons"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "15"
+P_H = "22"
+P_R = "12"
+P_BB = "8"
+P_SO = "10"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Early"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "16"
+P_R = "14"
+P_BB = "13"
+P_SO = "8"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hollidayoke"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "15"
+P_R = "12"
+P_BB = "19"
+P_SO = "8"
+P_HP = "0"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Twaddle"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "17"
+P_H = "25"
+P_R = "21"
+P_BB = "20"
+P_SO = "8"
+P_HP = "1"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Johnston"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "16"
+P_H = "24"
+P_R = "16"
+P_BB = "8"
+P_SO = "6"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "1"
+
+
+[[person]]
+name.last = "Stokes"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "15"
+P_H = "23"
+P_R = "16"
+P_BB = "10"
+P_SO = "5"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Arendt"
+name.given = "Reid"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "6"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "15"
+P_H = "17"
+P_R = "17"
+P_BB = "13"
+P_SO = "3"
+P_HP = "1"
+P_WP = "1"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Romano"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+P_G = "2"
+[[person.playing.split]]
+team.name = "Federalsburg"
+P_G = "1"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "10"
+P_H = "19"
+P_R = "23"
+P_BB = "15"
+P_SO = "9"
+P_HP = "0"
+P_WP = "3"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mondero"
+name.given = "Hal"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "9"
+P_H = "17"
+P_R = "13"
+P_BB = "3"
+P_SO = "5"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Dennison"
+name.given = "Robert"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "2"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "9"
+P_H = "15"
+P_R = "8"
+P_BB = "9"
+P_SO = "5"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Newton"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "3"
+P_H = "6"
+P_R = "10"
+P_BB = "9"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Morrison"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "0"
+P_H = "1"
+P_R = "2"
+P_BB = "2"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_SHO = "0"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hill"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_IP = "14"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Fox"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "0"
+P_IP = "12"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Olejnik"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "7"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lindsay"
+name.given = "Christopher"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Milford"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_IP = "7"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Ralsh"
+name.given = "Pat"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "5"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Hallahan"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_IP = "5"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Youse"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "5"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Lewis"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "4"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Miles"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "2"
+P_W = "0"
+P_L = "0"
+P_IP = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Curry"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Maul"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Rue"
+name.given = "Gardiner"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Federalsburg"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "3"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Heath"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "2.1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Pietras"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seaford"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_IP = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Strong"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "2"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Izzo"
+name.given = "Giovanni"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Dover"
+P_G = "2"
+[[person.playing.split]]
+team.name = "Federalsburg"
+P_G = "1"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "0"
+P_IP = "1.1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Isert"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Grier"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Centreville"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Huguenin"
+name.given = "William"
+description.throws = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cambridge"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Jaffee"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Salisbury"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "1"
+P_BK = "0"
+
+
+[[person]]
+name.last = "Mott"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Eastern Shore League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Easton"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "0"
+P_IP = "0"
+P_BK = "0"

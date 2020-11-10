@@ -1,0 +1,50 @@
+[[person]]
+name.last = "Gonzalez"
+name.given = "Sergio"
+[[person.managing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Caborca"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ruiz"
+name.given = "Mauro"
+[[person.managing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Empalme"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ochoa"
+name.given = "Zenon"
+[[person.managing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Agua Prieta"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ibarra"
+name.given = "Alfonso"
+[[person.managing]]
+season = "1968"
+league.name = "Mexican Rookie League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Cananea"
+S_ORDER = "0"
+[person.managing.totals]

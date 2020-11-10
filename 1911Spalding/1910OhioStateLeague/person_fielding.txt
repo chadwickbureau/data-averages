@@ -1,0 +1,2533 @@
+[[person]]
+name.last = "White"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "17"
+F_1B_PO = "176"
+F_1B_A = "9"
+F_1B_E = "0"
+F_1B_PCT = "1.000"
+
+
+[[person]]
+name.last = "Sample"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "10"
+F_1B_PO = "125"
+F_1B_A = "6"
+F_1B_E = "1"
+F_1B_PCT = ".992"
+
+
+[[person]]
+name.last = "Wolfe"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "58"
+F_1B_PO = "505"
+F_1B_A = "44"
+F_1B_E = "5"
+F_1B_PCT = ".991"
+
+
+[[person]]
+name.last = "Peitz"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "55"
+F_1B_PO = "566"
+F_1B_A = "30"
+F_1B_E = "6"
+F_1B_PCT = ".990"
+
+
+[[person]]
+name.last = "Blake"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "21"
+F_1B_PO = "218"
+F_1B_A = "10"
+F_1B_E = "2"
+F_1B_PCT = ".987"
+
+
+[[person]]
+name.last = "Scudder"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "95"
+F_1B_PO = "1010"
+F_1B_A = "45"
+F_1B_E = "17"
+F_1B_PCT = ".984"
+
+
+[[person]]
+name.last = "Wills"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "30"
+F_1B_PO = "364"
+F_1B_A = "15"
+F_1B_E = "6"
+F_1B_PCT = ".984"
+
+
+[[person]]
+name.last = "Johnstone"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "101"
+F_1B_PO = "881"
+F_1B_A = "40"
+F_1B_E = "18"
+F_1B_PCT = ".981"
+
+
+[[person]]
+name.last = "Lloyd"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "19"
+F_1B_PO = "172"
+F_1B_A = "11"
+F_1B_E = "5"
+F_1B_PCT = ".973"
+
+
+[[person]]
+name.last = "Irwin"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "106"
+F_1B_PO = "549"
+F_1B_A = "44"
+F_1B_E = "17"
+F_1B_PCT = ".972"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "46"
+F_1B_PO = "394"
+F_1B_A = "28"
+F_1B_E = "12"
+F_1B_PCT = ".972"
+
+
+[[person]]
+name.last = "Riehl"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "64"
+F_1B_PO = "680"
+F_1B_A = "27"
+F_1B_E = "13"
+F_1B_PCT = ".970"
+
+
+[[person]]
+name.last = "Nesser"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "119"
+F_1B_PO = "1116"
+F_1B_A = "40"
+F_1B_E = "27"
+F_1B_PCT = ".969"
+
+
+[[person]]
+name.last = "Long"
+name.given = "N."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "19"
+F_1B_PO = "185"
+F_1B_A = "15"
+F_1B_E = "8"
+F_1B_PCT = ".962"
+
+
+[[person]]
+name.last = "Lloyd"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "14"
+F_1B_PO = "134"
+F_1B_A = "7"
+F_1B_E = "5"
+F_1B_PCT = ".932"
+
+
+[[person]]
+name.last = "Kibler"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_1B_POS = "1"
+F_1B_G = "71"
+F_1B_PO = "78"
+F_1B_A = "152"
+F_1B_E = "20"
+F_1B_PCT = ".920"
+
+
+[[person]]
+name.last = "Childs"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "118"
+F_2B_PO = "337"
+F_2B_A = "286"
+F_2B_E = "13"
+F_2B_PCT = ".980"
+
+
+[[person]]
+name.last = "Lobart"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "37"
+F_2B_PO = "410"
+F_2B_A = "11"
+F_2B_E = "10"
+F_2B_PCT = ".977"
+
+
+[[person]]
+name.last = "Blake"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "108"
+F_2B_PO = "252"
+F_2B_A = "269"
+F_2B_E = "26"
+F_2B_PCT = ".971"
+
+
+[[person]]
+name.last = "McClintock"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "112"
+F_2B_PO = "252"
+F_2B_A = "318"
+F_2B_E = "19"
+F_2B_PCT = ".968"
+
+
+[[person]]
+name.last = "O’Day"
+name.given = "C."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "42"
+F_2B_PO = "106"
+F_2B_A = "103"
+F_2B_E = "11"
+F_2B_PCT = ".950"
+
+
+[[person]]
+name.last = "Kibler"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "44"
+F_2B_PO = "86"
+F_2B_A = "116"
+F_2B_E = "11"
+F_2B_PCT = ".949"
+
+
+[[person]]
+name.last = "Reckheimer"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "28"
+F_2B_PO = "76"
+F_2B_A = "66"
+F_2B_E = "8"
+F_2B_PCT = ".947"
+
+
+[[person]]
+name.last = "Wetzel"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "18"
+F_2B_PO = "36"
+F_2B_A = "50"
+F_2B_E = "5"
+F_2B_PCT = ".945"
+
+
+[[person]]
+name.last = "Hummell"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "139"
+F_2B_PO = "305"
+F_2B_A = "218"
+F_2B_E = "33"
+F_2B_PCT = ".941"
+
+
+[[person]]
+name.last = "Whalen"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "77"
+F_2B_PO = "159"
+F_2B_A = "179"
+F_2B_E = "21"
+F_2B_PCT = ".941"
+
+
+[[person]]
+name.last = "Meyers"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "56"
+F_2B_PO = "132"
+F_2B_A = "166"
+F_2B_E = "25"
+F_2B_PCT = ".919"
+
+
+[[person]]
+name.last = "Lloyd"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "20"
+F_2B_PO = "41"
+F_2B_A = "41"
+F_2B_E = "8"
+F_2B_PCT = ".911"
+
+
+[[person]]
+name.last = "Riehl"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_2B_POS = "1"
+F_2B_G = "16"
+F_2B_PO = "45"
+F_2B_A = "43"
+F_2B_E = "9"
+F_2B_PCT = ".907"
+
+
+[[person]]
+name.last = "Schuler"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "13"
+F_3B_PO = "18"
+F_3B_A = "23"
+F_3B_E = "1"
+F_3B_PCT = ".976"
+
+
+[[person]]
+name.last = "Lane"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "17"
+F_3B_A = "31"
+F_3B_E = "2"
+F_3B_PCT = ".960"
+
+
+[[person]]
+name.last = "Reckheimer"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "18"
+F_3B_PO = "19"
+F_3B_A = "17"
+F_3B_E = "2"
+F_3B_PCT = ".947"
+
+
+[[person]]
+name.last = "Purtell"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "10"
+F_3B_PO = "16"
+F_3B_A = "19"
+F_3B_E = "2"
+F_3B_PCT = ".946"
+
+
+[[person]]
+name.last = "Currans"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "101"
+F_3B_PO = "129"
+F_3B_A = "269"
+F_3B_E = "26"
+F_3B_PCT = ".937"
+
+
+[[person]]
+name.last = "Conwell"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "125"
+F_3B_PO = "170"
+F_3B_A = "250"
+F_3B_E = "29"
+F_3B_PCT = ".935"
+
+
+[[person]]
+name.last = "Doggett"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "14"
+F_3B_PO = "15"
+F_3B_A = "16"
+F_3B_E = "3"
+F_3B_PCT = ".932"
+
+
+[[person]]
+name.last = "Riehl"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "30"
+F_3B_PO = "37"
+F_3B_A = "42"
+F_3B_E = "6"
+F_3B_PCT = ".930"
+
+
+[[person]]
+name.last = "Long"
+name.given = "A."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "94"
+F_3B_PO = "116"
+F_3B_A = "175"
+F_3B_E = "26"
+F_3B_PCT = ".918"
+
+
+[[person]]
+name.last = "Conley"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "81"
+F_3B_PO = "101"
+F_3B_A = "206"
+F_3B_E = "28"
+F_3B_PCT = ".916"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "31"
+F_3B_PO = "35"
+F_3B_A = "58"
+F_3B_E = "12"
+F_3B_PCT = ".886"
+
+
+[[person]]
+name.last = "Willoughby"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_3B_POS = "1"
+F_3B_G = "21"
+F_3B_PO = "22"
+F_3B_A = "27"
+F_3B_E = "7"
+F_3B_PCT = ".875"
+
+
+[[person]]
+name.last = "McClintock"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "26"
+F_SS_PO = "54"
+F_SS_A = "42"
+F_SS_E = "4"
+F_SS_PCT = ".958"
+
+
+[[person]]
+name.last = "Lloyd"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "54"
+F_SS_PO = "79"
+F_SS_A = "8"
+F_SS_E = "5"
+F_SS_PCT = ".946"
+
+
+[[person]]
+name.last = "Newnham"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "110"
+F_SS_PO = "239"
+F_SS_A = "274"
+F_SS_E = "32"
+F_SS_PCT = ".941"
+
+
+[[person]]
+name.last = "Purtell"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "108"
+F_SS_PO = "166"
+F_SS_A = "334"
+F_SS_E = "37"
+F_SS_PCT = ".931"
+
+
+[[person]]
+name.last = "Hornung"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "129"
+F_SS_PO = "200"
+F_SS_A = "42"
+F_SS_E = "47"
+F_SS_PCT = ".930"
+
+
+[[person]]
+name.last = "Caine"
+name.given = "E."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "29"
+F_SS_PO = "52"
+F_SS_A = "75"
+F_SS_E = "10"
+F_SS_PCT = ".926"
+
+
+[[person]]
+name.last = "Lallier"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "60"
+F_SS_PO = "122"
+F_SS_A = "160"
+F_SS_E = "26"
+F_SS_PCT = ".916"
+
+
+[[person]]
+name.last = "Currans"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "25"
+F_SS_PO = "60"
+F_SS_A = "76"
+F_SS_E = "14"
+F_SS_PCT = ".907"
+
+
+[[person]]
+name.last = "Ervans"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "17"
+F_SS_PO = "32"
+F_SS_A = "36"
+F_SS_E = "7"
+F_SS_PCT = ".907"
+
+
+[[person]]
+name.last = "Ayette"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "92"
+F_SS_PO = "138"
+F_SS_A = "184"
+F_SS_E = "34"
+F_SS_PCT = ".904"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "30"
+F_SS_PO = "63"
+F_SS_A = "90"
+F_SS_E = "19"
+F_SS_PCT = ".890"
+
+
+[[person]]
+name.last = "Conley"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "24"
+F_SS_PO = "45"
+F_SS_A = "62"
+F_SS_E = "17"
+F_SS_PCT = ".889"
+
+
+[[person]]
+name.last = "Hanna"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "62"
+F_SS_PO = "109"
+F_SS_A = "162"
+F_SS_E = "38"
+F_SS_PCT = ".877"
+
+
+[[person]]
+name.last = "Wolfe"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "17"
+F_SS_PO = "42"
+F_SS_A = "43"
+F_SS_E = "12"
+F_SS_PCT = ".876"
+
+
+[[person]]
+name.last = "Colligan"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "28"
+F_SS_PO = "43"
+F_SS_A = "61"
+F_SS_E = "18"
+F_SS_PCT = ".853"
+
+
+[[person]]
+name.last = "Fishel"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "14"
+F_SS_PO = "20"
+F_SS_A = "36"
+F_SS_E = "10"
+F_SS_PCT = ".848"
+
+
+[[person]]
+name.last = "Reckheimer"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_SS_POS = "1"
+F_SS_G = "12"
+F_SS_PO = "16"
+F_SS_A = "18"
+F_SS_E = "9"
+F_SS_PCT = ".791"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "10"
+F_OF_A = "1"
+F_OF_E = "0"
+F_OF_PCT = "1.000"
+
+
+[[person]]
+name.last = "Hoffman"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "81"
+F_OF_PO = "155"
+F_OF_A = "12"
+F_OF_E = "3"
+F_OF_PCT = ".982"
+
+
+[[person]]
+name.last = "Breen"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "128"
+F_OF_PO = "238"
+F_OF_A = "20"
+F_OF_E = "6"
+F_OF_PCT = ".977"
+
+
+[[person]]
+name.last = "Linderbeck"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "25"
+F_OF_PO = "39"
+F_OF_A = "4"
+F_OF_E = "1"
+F_OF_PCT = ".977"
+
+
+[[person]]
+name.last = "Reckheimer"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "29"
+F_OF_PO = "30"
+F_OF_A = "8"
+F_OF_E = "1"
+F_OF_PCT = ".974"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "14"
+F_OF_PO = "30"
+F_OF_A = "2"
+F_OF_E = "1"
+F_OF_PCT = ".970"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "J."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "50"
+F_OF_PO = "85"
+F_OF_A = "12"
+F_OF_E = "3"
+F_OF_PCT = ".970"
+
+
+[[person]]
+name.last = "Lobert"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "18"
+F_OF_PO = "26"
+F_OF_A = "1"
+F_OF_E = "1"
+F_OF_PCT = ".964"
+
+
+[[person]]
+name.last = "Houtz"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "129"
+F_OF_PO = "194"
+F_OF_A = "17"
+F_OF_E = "8"
+F_OF_PCT = ".963"
+
+
+[[person]]
+name.last = "O’Day"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "106"
+F_OF_PO = "215"
+F_OF_A = "17"
+F_OF_E = "9"
+F_OF_PCT = ".963"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "57"
+F_OF_PO = "71"
+F_OF_A = "7"
+F_OF_E = "3"
+F_OF_PCT = ".963"
+
+
+[[person]]
+name.last = "Potts"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "108"
+F_OF_PO = "107"
+F_OF_A = "10"
+F_OF_E = "5"
+F_OF_PCT = ".959"
+
+
+[[person]]
+name.last = "Caine"
+name.given = "H."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "56"
+F_OF_PO = "58"
+F_OF_A = "11"
+F_OF_E = "3"
+F_OF_PCT = ".958"
+
+
+[[person]]
+name.last = "Meehan"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "129"
+F_OF_PO = "230"
+F_OF_A = "17"
+F_OF_E = "12"
+F_OF_PCT = ".956"
+
+
+[[person]]
+name.last = "Lohr"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Marion"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "94"
+F_OF_PO = "136"
+F_OF_A = "16"
+F_OF_E = "7"
+F_OF_PCT = ".956"
+
+
+[[person]]
+name.last = "Kendall"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "98"
+F_OF_PO = "194"
+F_OF_A = "12"
+F_OF_E = "10"
+F_OF_PCT = ".954"
+
+
+[[person]]
+name.last = "Just"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "26"
+F_OF_PO = "38"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_PCT = ".952"
+
+
+[[person]]
+name.last = "Fryer"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "49"
+F_OF_PO = "72"
+F_OF_A = "8"
+F_OF_E = "4"
+F_OF_PCT = ".952"
+
+
+[[person]]
+name.last = "Doherty"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "106"
+F_OF_PO = "176"
+F_OF_A = "8"
+F_OF_E = "10"
+F_OF_PCT = ".949"
+
+
+[[person]]
+name.last = "Browne"
+name.given = "W."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "47"
+F_OF_PO = "101"
+F_OF_A = "5"
+F_OF_E = "6"
+F_OF_PCT = ".946"
+
+
+[[person]]
+name.last = "DeWitt"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "108"
+F_OF_PO = "211"
+F_OF_A = "31"
+F_OF_E = "14"
+F_OF_PCT = ".945"
+
+
+[[person]]
+name.last = "Epler"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "122"
+F_OF_PO = "189"
+F_OF_A = "14"
+F_OF_E = "12"
+F_OF_PCT = ".944"
+
+
+[[person]]
+name.last = "Colligan"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "99"
+F_OF_PO = "166"
+F_OF_A = "23"
+F_OF_E = "9"
+F_OF_PCT = ".944"
+
+
+[[person]]
+name.last = "Callis"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "76"
+F_OF_PO = "89"
+F_OF_A = "13"
+F_OF_E = "6"
+F_OF_PCT = ".944"
+
+
+[[person]]
+name.last = "McCartney"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "15"
+F_OF_PO = "30"
+F_OF_A = "1"
+F_OF_E = "2"
+F_OF_PCT = ".939"
+
+
+[[person]]
+name.last = "Nally"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "81"
+F_OF_PO = "158"
+F_OF_A = "9"
+F_OF_E = "11"
+F_OF_PCT = ".938"
+
+
+[[person]]
+name.last = "McDowell"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "20"
+F_OF_PO = "42"
+F_OF_A = "3"
+F_OF_E = "3"
+F_OF_PCT = ".937"
+
+
+[[person]]
+name.last = "Franken"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "74"
+F_OF_PO = "107"
+F_OF_A = "9"
+F_OF_E = "8"
+F_OF_PCT = ".935"
+
+
+[[person]]
+name.last = "Thomas"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "56"
+F_OF_PO = "62"
+F_OF_A = "4"
+F_OF_E = "5"
+F_OF_PCT = ".930"
+
+
+[[person]]
+name.last = "Irving"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "66"
+F_OF_PO = "113"
+F_OF_A = "4"
+F_OF_E = "5"
+F_OF_PCT = ".926"
+
+
+[[person]]
+name.last = "Shannon"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "11"
+F_OF_PO = "12"
+F_OF_A = "0"
+F_OF_E = "1"
+F_OF_PCT = ".923"
+
+
+[[person]]
+name.last = "Lamb"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "13"
+F_OF_PO = "23"
+F_OF_A = "0"
+F_OF_E = "2"
+F_OF_PCT = ".920"
+
+
+[[person]]
+name.last = "Ford"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "16"
+F_OF_PO = "19"
+F_OF_A = "2"
+F_OF_E = "2"
+F_OF_PCT = ".913"
+
+
+[[person]]
+name.last = "Reff"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "35"
+F_OF_PO = "42"
+F_OF_A = "7"
+F_OF_E = "5"
+F_OF_PCT = ".908"
+
+
+[[person]]
+name.last = "Varley"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "25"
+F_OF_A = "2"
+F_OF_E = "3"
+F_OF_PCT = ".900"
+
+
+[[person]]
+name.last = "Friend"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "38"
+F_OF_PO = "44"
+F_OF_A = "2"
+F_OF_E = "7"
+F_OF_PCT = ".868"
+
+
+[[person]]
+name.last = "Long"
+name.given = "J."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "12"
+F_OF_PO = "17"
+F_OF_A = "3"
+F_OF_E = "6"
+F_OF_PCT = ".769"
+
+
+[[person]]
+name.last = "Rutherford"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_OF_POS = "1"
+F_OF_G = "10"
+F_OF_PO = "11"
+F_OF_A = "1"
+F_OF_E = "4"
+F_OF_PCT = ".750"
+
+
+[[person]]
+name.last = "La Follette"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "5"
+F_P_A = "39"
+F_P_E = "0"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Rice"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "2"
+F_P_A = "21"
+F_P_E = "0"
+F_P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Ludwig"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "32"
+F_P_PO = "9"
+F_P_A = "116"
+F_P_E = "2"
+F_P_PCT = ".984"
+
+
+[[person]]
+name.last = "Walls"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "4"
+F_P_A = "38"
+F_P_E = "1"
+F_P_PCT = ".977"
+
+
+[[person]]
+name.last = "Zmich"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "17"
+F_P_A = "62"
+F_P_E = "2"
+F_P_PCT = ".975"
+
+
+[[person]]
+name.last = "Reiley"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "16"
+F_P_A = "118"
+F_P_E = "4"
+F_P_PCT = ".971"
+
+
+[[person]]
+name.last = "Wilkie"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "24"
+F_P_PO = "8"
+F_P_A = "60"
+F_P_E = "2"
+F_P_PCT = ".971"
+
+
+[[person]]
+name.last = "Beer"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "19"
+F_P_PO = "3"
+F_P_A = "65"
+F_P_E = "2"
+F_P_PCT = ".971"
+
+
+[[person]]
+name.last = "Baxter"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "29"
+F_P_PO = "14"
+F_P_A = "77"
+F_P_E = "3"
+F_P_PCT = ".968"
+
+
+[[person]]
+name.last = "Cooperrider"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "18"
+F_P_A = "61"
+F_P_E = "3"
+F_P_PCT = ".967"
+
+
+[[person]]
+name.last = "Goulait"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "38"
+F_P_PO = "20"
+F_P_A = "90"
+F_P_E = "4"
+F_P_PCT = ".966"
+
+
+[[person]]
+name.last = "Hollingsworth"
+name.given = "R."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "9"
+F_P_A = "106"
+F_P_E = "4"
+F_P_PCT = ".966"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "19"
+F_P_A = "88"
+F_P_E = "4"
+F_P_PCT = ".964"
+
+
+[[person]]
+name.last = "Mauger"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "40"
+F_P_PO = "15"
+F_P_A = "140"
+F_P_E = "7"
+F_P_PCT = ".963"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "34"
+F_P_PO = "11"
+F_P_A = "101"
+F_P_E = "5"
+F_P_PCT = ".958"
+
+
+[[person]]
+name.last = "Boyer"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "14"
+F_P_PO = "6"
+F_P_A = "37"
+F_P_E = "2"
+F_P_PCT = ".956"
+
+
+[[person]]
+name.last = "Dunnick"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "18"
+F_P_PO = "2"
+F_P_A = "55"
+F_P_E = "3"
+F_P_PCT = ".950"
+
+
+[[person]]
+name.last = "Lloyd"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "15"
+F_P_PO = "7"
+F_P_A = "50"
+F_P_E = "3"
+F_P_PCT = ".950"
+
+
+[[person]]
+name.last = "Ahern"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "13"
+F_P_PO = "4"
+F_P_A = "32"
+F_P_E = "2"
+F_P_PCT = ".947"
+
+
+[[person]]
+name.last = "Grandle"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "36"
+F_P_PO = "12"
+F_P_A = "108"
+F_P_E = "8"
+F_P_PCT = ".942"
+
+
+[[person]]
+name.last = "Clickenger"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "28"
+F_P_PO = "9"
+F_P_A = "84"
+F_P_E = "6"
+F_P_PCT = ".939"
+
+
+[[person]]
+name.last = "Harter"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "37"
+F_P_PO = "14"
+F_P_A = "108"
+F_P_E = "8"
+F_P_PCT = ".938"
+
+
+[[person]]
+name.last = "Munk"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "12"
+F_P_A = "98"
+F_P_E = "7"
+F_P_PCT = ".938"
+
+
+[[person]]
+name.last = "Hollingsworth"
+name.given = "C."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "16"
+F_P_PO = "8"
+F_P_A = "60"
+F_P_E = "5"
+F_P_PCT = ".932"
+
+
+[[person]]
+name.last = "Scott"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "11"
+F_P_PO = "4"
+F_P_A = "23"
+F_P_E = "2"
+F_P_PCT = ".931"
+
+
+[[person]]
+name.last = "Merz"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "12"
+F_P_PO = "2"
+F_P_A = "47"
+F_P_E = "4"
+F_P_PCT = ".925"
+
+
+[[person]]
+name.last = "Cheney"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "11"
+F_P_A = "120"
+F_P_E = "11"
+F_P_PCT = ".923"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "W."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "35"
+F_P_PO = "15"
+F_P_A = "135"
+F_P_E = "13"
+F_P_PCT = ".920"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "E."
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "6"
+F_P_A = "68"
+F_P_E = "8"
+F_P_PCT = ".920"
+
+
+[[person]]
+name.last = "Harrison"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "21"
+F_P_PO = "7"
+F_P_A = "53"
+F_P_E = "6"
+F_P_PCT = ".909"
+
+
+[[person]]
+name.last = "Pennybaker"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "27"
+F_P_PO = "20"
+F_P_A = "50"
+F_P_E = "7"
+F_P_PCT = ".909"
+
+
+[[person]]
+name.last = "Brayden"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "10"
+F_P_PO = "1"
+F_P_A = "24"
+F_P_E = "3"
+F_P_PCT = ".893"
+
+
+[[person]]
+name.last = "Goshorn"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_P_POS = "1"
+F_P_G = "31"
+F_P_PO = "9"
+F_P_A = "53"
+F_P_E = "11"
+F_P_PCT = ".850"
+
+
+[[person]]
+name.last = "Texter"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "115"
+F_C_PO = "639"
+F_C_A = "124"
+F_C_E = "11"
+F_C_PB = "21"
+F_C_PCT = ".986"
+
+
+[[person]]
+name.last = "Shannon"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "20"
+F_C_PO = "77"
+F_C_A = "31"
+F_C_E = "2"
+F_C_PB = "5"
+F_C_PCT = ".982"
+
+
+[[person]]
+name.last = "Weinberg"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portsmouth"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "139"
+F_C_PO = "698"
+F_C_A = "145"
+F_C_E = "19"
+F_C_PB = "18"
+F_C_PCT = ".978"
+
+
+[[person]]
+name.last = "Friend"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lima"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "23"
+F_C_PO = "154"
+F_C_A = "28"
+F_C_E = "4"
+F_C_PB = "6"
+F_C_PCT = ".978"
+
+
+[[person]]
+name.last = "Ware"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "16"
+F_C_PO = "70"
+F_C_A = "14"
+F_C_E = "2"
+F_C_PB = "3"
+F_C_PCT = ".977"
+
+
+[[person]]
+name.last = "Schreck"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "29"
+F_C_PO = "134"
+F_C_A = "29"
+F_C_E = "5"
+F_C_PB = "2"
+F_C_PCT = ".970"
+
+
+[[person]]
+name.last = "Reilley"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Marion"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "107"
+F_C_PO = "632"
+F_C_A = "127"
+F_C_E = "26"
+F_C_PB = "44"
+F_C_PCT = ".967"
+
+
+[[person]]
+name.last = "Lake"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "58"
+F_C_PO = "297"
+F_C_A = "82"
+F_C_E = "17"
+F_C_PB = "8"
+F_C_PCT = ".957"
+
+
+[[person]]
+name.last = "Sample"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "15"
+F_C_PO = "66"
+F_C_A = "20"
+F_C_E = "4"
+F_C_PB = "2"
+F_C_PCT = ".956"
+
+
+[[person]]
+name.last = "Welsh"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "107"
+F_C_PO = "485"
+F_C_A = "123"
+F_C_E = "29"
+F_C_PB = "25"
+F_C_PCT = ".954"
+
+
+[[person]]
+name.last = "Lemon"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "23"
+F_C_PO = "105"
+F_C_A = "25"
+F_C_E = "7"
+F_C_PB = "1"
+F_C_PCT = ".952"
+
+
+[[person]]
+name.last = "Riehl"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "11"
+F_C_PO = "44"
+F_C_A = "13"
+F_C_E = "3"
+F_C_PB = "5"
+F_C_PCT = ".950"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "74"
+F_C_PO = "312"
+F_C_A = "89"
+F_C_E = "21"
+F_C_PB = "8"
+F_C_PCT = ".950"
+
+
+[[person]]
+name.last = "Ruff"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "16"
+F_C_PO = "69"
+F_C_A = "16"
+F_C_E = "5"
+F_C_PB = "8"
+F_C_PCT = ".944"
+
+
+[[person]]
+name.last = "Merritt"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "12"
+F_C_PO = "58"
+F_C_A = "7"
+F_C_E = "4"
+F_C_PB = "0"
+F_C_PCT = ".942"
+
+
+[[person]]
+name.last = "Haley"
+[[person.playing]]
+season = "1910"
+league.name = "Ohio State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chillicothe"
+[person.playing.totals]
+F_C_POS = "1"
+F_C_G = "44"
+F_C_PO = "219"
+F_C_A = "52"
+F_C_E = "7"
+F_C_PB = "6"
+F_C_PCT = ".925"

@@ -1,0 +1,68 @@
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "50"
+R_PCT = ".612"
+R_RANK = "1"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "59"
+R_PCT = ".546"
+R_RANK = "2"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "58"
+R_PCT = ".521"
+R_RANK = "3"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "76"
+R_PCT = ".387"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1909"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]

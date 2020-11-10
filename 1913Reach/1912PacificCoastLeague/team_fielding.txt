@@ -1,0 +1,82 @@
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "205"
+F_PO = "5495"
+F_A = "2549"
+F_E = "315"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "207"
+F_PO = "5625"
+F_A = "2910"
+F_E = "346"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "204"
+F_PO = "5421"
+F_A = "2720"
+F_E = "325"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "189"
+F_PO = "4945"
+F_A = "2383"
+F_E = "328"
+F_PCT = ".957"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "205"
+F_PO = "5378"
+F_A = "2646"
+F_E = "368"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1912"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+F_G = "194"
+F_PO = "5074"
+F_A = "2657"
+F_E = "375"
+F_PCT = ".954"

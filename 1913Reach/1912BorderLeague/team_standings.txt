@@ -1,0 +1,63 @@
+[[team]]
+name = "Wyandotte"
+[[team.playing]]
+season = "1912"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_W = "19"
+R_L = "5"
+R_PCT = ".792"
+R_RANK = "1"
+
+
+[[team]]
+name = "Pontiac"
+[[team.playing]]
+season = "1912"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_W = "14"
+R_L = "9"
+R_PCT = ".609"
+R_RANK = "2"
+
+
+[[team]]
+name = "Mount Clemens"
+[[team.playing]]
+season = "1912"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_W = "11"
+R_L = "15"
+R_PCT = ".423"
+R_RANK = "3"
+
+
+[[team]]
+name = "Windsor"
+[[team.playing]]
+season = "1912"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_W = "9"
+R_L = "14"
+R_PCT = ".391"
+R_RANK = "4"
+
+
+[[team]]
+name = "Port Huron"
+[[team.playing]]
+season = "1912"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_W = "7"
+R_L = "17"
+R_PCT = ".292"
+R_RANK = "5"

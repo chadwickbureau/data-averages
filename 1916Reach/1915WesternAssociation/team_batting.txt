@@ -1,0 +1,158 @@
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4164"
+B_R = "578"
+B_H = "1086"
+B_2B = "214"
+B_3B = "26"
+B_HR = "61"
+B_TB = "1535"
+B_SH = "178"
+B_SB = "245"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "134"
+B_AB = "4569"
+B_R = "617"
+B_H = "1177"
+B_2B = "261"
+B_3B = "13"
+B_HR = "74"
+B_TB = "1686"
+B_SH = "189"
+B_SB = "140"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "135"
+B_AB = "4433"
+B_R = "519"
+B_H = "1117"
+B_2B = "214"
+B_3B = "20"
+B_HR = "35"
+B_TB = "1476"
+B_SH = "187"
+B_SB = "196"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4343"
+B_R = "548"
+B_H = "1035"
+B_2B = "199"
+B_3B = "17"
+B_HR = "86"
+B_TB = "1526"
+B_SH = "146"
+B_SB = "182"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4237"
+B_R = "485"
+B_H = "1012"
+B_2B = "188"
+B_3B = "19"
+B_HR = "21"
+B_TB = "1301"
+B_SH = "204"
+B_SB = "218"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4294"
+B_R = "530"
+B_H = "1026"
+B_2B = "168"
+B_3B = "13"
+B_HR = "90"
+B_TB = "1490"
+B_SH = "112"
+B_SB = "204"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Fort Smith"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4505"
+B_R = "513"
+B_H = "1065"
+B_2B = "154"
+B_3B = "7"
+B_HR = "49"
+B_TB = "1380"
+B_SH = "185"
+B_SB = "240"
+B_AVG = ".236"
+
+
+[[team]]
+name = "McAlester"
+[[team.playing]]
+season = "1915"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "133"
+B_AB = "4379"
+B_R = "402"
+B_H = "1032"
+B_2B = "169"
+B_3B = "16"
+B_HR = "84"
+B_TB = "1485"
+B_SH = "139"
+B_SB = "122"
+B_AVG = ".236"

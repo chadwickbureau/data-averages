@@ -1,0 +1,200 @@
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4112"
+F_A = "1982"
+F_E = "266"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4134"
+F_A = "1832"
+F_E = "280"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4169"
+F_A = "2087"
+F_E = "304"
+F_PCT = ".954"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4130"
+F_A = "1851"
+F_E = "296"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+F_PO = "4284"
+F_A = "2027"
+F_E = "339"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "4037"
+F_A = "1967"
+F_E = "330"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "4157"
+F_A = "2013"
+F_E = "350"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4132"
+F_A = "1968"
+F_E = "390"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "104"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "100"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "92"
+
+
+[[team]]
+name = "Beaumont"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "90"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "86"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "84"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "81"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "77"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1913"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_TP = "1"

@@ -1,0 +1,102 @@
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "35"
+R_PCT = ".653"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "45"
+R_PCT = ".587"
+R_RANK = "2"
+
+
+[[team]]
+name = "New London"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "52"
+R_PCT = ".505"
+R_RANK = "3"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "52"
+R_PCT = ".490"
+R_RANK = "4"
+
+
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "55"
+R_PCT = ".481"
+R_RANK = "5"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "58"
+R_PCT = ".468"
+R_RANK = "6"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "57"
+R_PCT = ".457"
+R_RANK = "7"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1917"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "37"
+R_L = "66"
+R_PCT = ".360"
+R_RANK = "8"

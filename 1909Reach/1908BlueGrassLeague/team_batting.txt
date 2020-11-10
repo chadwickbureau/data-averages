@@ -1,0 +1,58 @@
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1908"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AVG = ".251"
+
+
+[[team]]
+name = "Shelbyville"
+[[team.playing]]
+season = "1908"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AVG = ".251"
+
+
+[[team]]
+name = "Lawrenceburg"
+[[team.playing]]
+season = "1908"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AVG = ".237"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1908"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AVG = ".236"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1908"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AVG = ".233"
+
+
+[[team]]
+name = "Winchester"
+[[team.playing]]
+season = "1908"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+B_AVG = ".196"

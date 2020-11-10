@@ -1,0 +1,957 @@
+[[person]]
+name.last = "Miller"
+name.given = "H."
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "123"
+B_AB = "448"
+B_R = "74"
+B_H = "150"
+B_TB = "227"
+B_SB = "32"
+B_AVG = ".335"
+
+
+[[person]]
+name.last = "Adams"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "117"
+B_AB = "408"
+B_R = "82"
+B_H = "135"
+B_TB = "154"
+B_SB = "55"
+B_AVG = ".331"
+
+
+[[person]]
+name.last = "Ellis"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "116"
+B_AB = "414"
+B_R = "63"
+B_H = "134"
+B_TB = "177"
+B_SB = "20"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "Sours"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "86"
+B_AB = "303"
+B_R = "49"
+B_H = "97"
+B_TB = "151"
+B_SB = "13"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Berger"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "117"
+B_AB = "349"
+B_R = "57"
+B_H = "109"
+B_TB = "131"
+B_SB = "16"
+B_AVG = ".312"
+
+
+[[person]]
+name.last = "Brokaw"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "113"
+B_AB = "350"
+B_R = "59"
+B_H = "106"
+B_TB = "134"
+B_SB = "30"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Wolfe"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "121"
+B_AB = "454"
+B_R = "64"
+B_H = "137"
+B_TB = "182"
+B_SB = "24"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Brautigan"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "101"
+B_AB = "338"
+B_R = "56"
+B_H = "100"
+B_TB = "142"
+B_SB = "28"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Donovan"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "42"
+B_AB = "112"
+B_R = "15"
+B_H = "32"
+B_TB = "53"
+B_SB = "8"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Sheehan"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "121"
+B_AB = "460"
+B_R = "80"
+B_H = "131"
+B_TB = "168"
+B_SB = "42"
+B_AVG = ".285"
+
+
+[[person]]
+name.last = "DeBus"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "100"
+B_AB = "338"
+B_R = "49"
+B_H = "96"
+B_TB = "153"
+B_SB = "18"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Sundheim"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "15"
+B_AB = "54"
+B_R = "11"
+B_H = "15"
+B_TB = "21"
+B_SB = "1"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Conroy"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "120"
+B_AB = "394"
+B_R = "49"
+B_H = "108"
+B_TB = "156"
+B_SB = "5"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Webb"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "110"
+B_AB = "421"
+B_R = "73"
+B_H = "111"
+B_TB = "170"
+B_SB = "19"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Moore"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "75"
+B_AB = "220"
+B_R = "30"
+B_H = "58"
+B_TB = "87"
+B_SB = "14"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Schreiber"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "119"
+B_AB = "488"
+B_R = "65"
+B_H = "128"
+B_TB = "177"
+B_SB = "25"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "Meixell"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "106"
+B_AB = "390"
+B_R = "5"
+B_H = "102"
+B_TB = "128"
+B_SB = "17"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "Erickson"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "101"
+B_AB = "330"
+B_R = "32"
+B_H = "86"
+B_TB = "122"
+B_SB = "4"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Hewitt"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "69"
+B_AB = "212"
+B_R = "20"
+B_H = "55"
+B_TB = "73"
+B_SB = "3"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Bachant"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "68"
+B_AB = "208"
+B_R = "20"
+B_H = "53"
+B_TB = "71"
+B_SB = "4"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Bergwald"
+name.given = "Ted"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "87"
+B_AB = "281"
+B_R = "32"
+B_H = "71"
+B_TB = "99"
+B_SB = "9"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Cronin"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "117"
+B_AB = "398"
+B_R = "43"
+B_H = "100"
+B_TB = "128"
+B_SB = "14"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Unglaub"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "106"
+B_AB = "361"
+B_R = "40"
+B_H = "90"
+B_TB = "130"
+B_SB = "15"
+B_AVG = ".249"
+
+
+[[person]]
+name.last = "Kernan"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "118"
+B_AB = "430"
+B_R = "69"
+B_H = "106"
+B_TB = "136"
+B_SB = "21"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Withrow"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "80"
+B_AB = "272"
+B_R = "18"
+B_H = "67"
+B_TB = "94"
+B_SB = "4"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Vigerist"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "113"
+B_AB = "387"
+B_R = "37"
+B_H = "95"
+B_TB = "125"
+B_SB = "9"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Nagle"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "123"
+B_AB = "443"
+B_R = "49"
+B_H = "106"
+B_TB = "138"
+B_SB = "18"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Boardman"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "31"
+B_AB = "93"
+B_R = "7"
+B_H = "22"
+B_TB = "30"
+B_SB = "1"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "72"
+B_AB = "217"
+B_R = "16"
+B_H = "51"
+B_TB = "58"
+B_SB = "4"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Bell"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "66"
+B_AB = "187"
+B_R = "17"
+B_H = "44"
+B_TB = "55"
+B_SB = "5"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Meisner"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "108"
+B_AB = "370"
+B_R = "46"
+B_H = "87"
+B_TB = "130"
+B_SB = "16"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Wilkinson"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "112"
+B_AB = "444"
+B_R = "56"
+B_H = "101"
+B_TB = "127"
+B_SB = "14"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Benton"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "25"
+B_AB = "75"
+B_R = "5"
+B_H = "17"
+B_TB = "22"
+B_SB = "0"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Tiffany"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "109"
+B_AB = "409"
+B_R = "35"
+B_H = "92"
+B_TB = "113"
+B_SB = "12"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Burgwald"
+name.given = "Tony"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "100"
+B_AB = "362"
+B_R = "39"
+B_H = "81"
+B_TB = "110"
+B_SB = "15"
+B_AVG = ".224"
+
+
+[[person]]
+name.last = "Shaefer"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "26"
+B_AB = "87"
+B_R = "5"
+B_H = "19"
+B_TB = "22"
+B_SB = "3"
+B_AVG = ".218"
+
+
+[[person]]
+name.last = "Dries"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "113"
+B_AB = "383"
+B_R = "36"
+B_H = "81"
+B_TB = "98"
+B_SB = "29"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Weidell"
+name.given = "J."
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "100"
+B_AB = "345"
+B_R = "38"
+B_H = "72"
+B_TB = "90"
+B_SB = "20"
+B_AVG = ".209"
+
+
+[[person]]
+name.last = "Gervais"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "31"
+B_AB = "97"
+B_R = "6"
+B_H = "20"
+B_TB = "26"
+B_SB = "2"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Lawler"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "73"
+B_AB = "259"
+B_R = "19"
+B_H = "51"
+B_TB = "58"
+B_SB = "5"
+B_AVG = ".197"
+
+
+[[person]]
+name.last = "Handee"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "50"
+B_AB = "135"
+B_R = "6"
+B_H = "26"
+B_TB = "32"
+B_SB = "0"
+B_AVG = ".193"
+
+
+[[person]]
+name.last = "Bentley"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "57"
+B_AB = "181"
+B_R = "13"
+B_H = "35"
+B_TB = "39"
+B_SB = "3"
+B_AVG = ".193"
+
+
+[[person]]
+name.last = "Burden"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "18"
+B_AB = "52"
+B_R = "5"
+B_H = "10"
+B_TB = "12"
+B_SB = "0"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Stevenson"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "24"
+B_AB = "69"
+B_R = "5"
+B_H = "13"
+B_TB = "17"
+B_SB = "0"
+B_AVG = ".189"
+
+
+[[person]]
+name.last = "Rook"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "23"
+B_AB = "58"
+B_R = "4"
+B_H = "10"
+B_TB = "13"
+B_SB = "1"
+B_AVG = ".172"
+
+
+[[person]]
+name.last = "Culver"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "39"
+B_AB = "95"
+B_R = "6"
+B_H = "16"
+B_TB = "23"
+B_SB = "0"
+B_AVG = ".168"
+
+
+[[person]]
+name.last = "Matts"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "27"
+B_AB = "78"
+B_R = "6"
+B_H = "13"
+B_TB = "14"
+B_SB = "0"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Radloff"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+B_G = "12"
+B_AB = "33"
+B_R = "4"
+B_H = "5"
+B_TB = "6"
+B_SB = "0"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Frank"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Superior"
+[person.playing.totals]
+B_G = "42"
+B_AB = "115"
+B_R = "8"
+B_H = "17"
+B_TB = "22"
+B_SB = "1"
+B_AVG = ".148"
+
+
+[[person]]
+name.last = "Lane"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "41"
+B_AB = "97"
+B_R = "8"
+B_H = "14"
+B_TB = "17"
+B_SB = "0"
+B_AVG = ".144"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fargo-Moorhead"
+[person.playing.totals]
+B_G = "20"
+B_AB = "58"
+B_R = "7"
+B_H = "8"
+B_TB = "12"
+B_SB = "1"
+B_AVG = ".138"
+
+
+[[person]]
+name.last = "Earhart"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "21"
+B_AB = "58"
+B_R = "4"
+B_H = "7"
+B_TB = "7"
+B_SB = "0"
+B_AVG = ".121"
+
+
+[[person]]
+name.last = "O'Brien"
+[[person.playing]]
+season = "1916"
+league.name = "Northern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Duluth"
+[person.playing.totals]
+B_G = "38"
+B_AB = "80"
+B_R = "6"
+B_H = "9"
+B_TB = "13"
+B_SB = "3"
+B_AVG = ".113"

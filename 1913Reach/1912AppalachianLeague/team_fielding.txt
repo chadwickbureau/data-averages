@@ -1,0 +1,82 @@
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "104"
+F_PO = "2607"
+F_A = "1232"
+F_E = "149"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "102"
+F_PO = "2548"
+F_A = "1127"
+F_E = "180"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Morristown"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "102"
+F_PO = "1613"
+F_A = "1259"
+F_E = "177"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "106"
+F_PO = "2685"
+F_A = "1222"
+F_E = "208"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "101"
+F_PO = "2521"
+F_A = "1114"
+F_E = "205"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Cleveland"
+[[team.playing]]
+season = "1912"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "102"
+F_PO = "2573"
+F_A = "1180"
+F_E = "220"
+F_PCT = ".945"

@@ -1,0 +1,436 @@
+[[person]]
+name.last = "Works"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_HP = "38"
+P_WP = "9"
+P_BB = "129"
+P_SO = "217"
+P_R = "155"
+P_H = "262"
+P_SHO = "2"
+P_T = "3"
+P_W = "26"
+P_L = "11"
+P_G = "40"
+P_PCT = ".703"
+
+
+[[person]]
+name.last = "Hollis"
+description.throws = "L"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_HP = "12"
+P_WP = "8"
+P_BB = "75"
+P_SO = "173"
+P_R = "122"
+P_H = "231"
+P_SHO = "3"
+P_T = "1"
+P_W = "21"
+P_L = "9"
+P_G = "31"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Crist"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_HP = "12"
+P_WP = "5"
+P_BB = "64"
+P_SO = "136"
+P_R = "104"
+P_H = "216"
+P_SHO = "5"
+P_T = "4"
+P_W = "19"
+P_L = "9"
+P_G = "32"
+P_PCT = ".678"
+
+
+[[person]]
+name.last = "Blexrud"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_HP = "9"
+P_WP = "3"
+P_BB = "91"
+P_SO = "38"
+P_R = "62"
+P_H = "122"
+P_SHO = "2"
+P_T = "2"
+P_W = "10"
+P_L = "5"
+P_G = "17"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Erickson"
+description.throws = "L"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_HP = "4"
+P_WP = "6"
+P_BB = "13"
+P_SO = "46"
+P_R = "22"
+P_H = "67"
+P_SHO = "3"
+P_T = "0"
+P_W = "6"
+P_L = "3"
+P_G = "9"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Cook"
+description.throws = "L"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_HP = "1"
+P_WP = "1"
+P_BB = "16"
+P_SO = "24"
+P_R = "25"
+P_H = "37"
+P_SHO = "0"
+P_T = "0"
+P_W = "3"
+P_L = "2"
+P_G = "5"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Schurch"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lethbridge"
+[person.playing.totals]
+P_HP = "38"
+P_WP = "3"
+P_BB = "119"
+P_SO = "189"
+P_R = "173"
+P_H = "228"
+P_SHO = "1"
+P_T = "3"
+P_W = "17"
+P_L = "13"
+P_G = "33"
+P_PCT = ".566"
+
+
+[[person]]
+name.last = "Fogarty"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lethbridge"
+[person.playing.totals]
+P_HP = "10"
+P_WP = "4"
+P_BB = "47"
+P_SO = "109"
+P_R = "90"
+P_H = "152"
+P_SHO = "4"
+P_T = "0"
+P_W = "11"
+P_L = "9"
+P_G = "20"
+P_PCT = ".550"
+
+
+[[person]]
+name.last = "Kippert"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lethbridge"
+[person.playing.totals]
+P_HP = "8"
+P_WP = "2"
+P_BB = "33"
+P_SO = "29"
+P_R = "64"
+P_H = "76"
+P_SHO = "0"
+P_T = "1"
+P_W = "5"
+P_L = "5"
+P_G = "11"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Barrett"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_HP = "3"
+P_WP = "4"
+P_BB = "21"
+P_SO = "25"
+P_R = "30"
+P_H = "59"
+P_SHO = "1"
+P_T = "2"
+P_W = "3"
+P_L = "3"
+P_G = "8"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "McClaire"
+description.throws = "L"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_HP = "13"
+P_WP = "8"
+P_BB = "91"
+P_SO = "155"
+P_R = "126"
+P_H = "202"
+P_SHO = "2"
+P_T = "2"
+P_W = "14"
+P_L = "15"
+P_G = "31"
+P_PCT = ".483"
+
+
+[[person]]
+name.last = "Pennington"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_HP = "0"
+P_WP = "2"
+P_BB = "19"
+P_SO = "10"
+P_R = "22"
+P_H = "44"
+P_SHO = "0"
+P_T = "0"
+P_W = "2"
+P_L = "3"
+P_G = "5"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Barnstead"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_HP = "18"
+P_WP = "4"
+P_BB = "75"
+P_SO = "130"
+P_R = "127"
+P_H = "176"
+P_SHO = "0"
+P_T = "3"
+P_W = "9"
+P_L = "17"
+P_G = "29"
+P_PCT = ".346"
+
+
+[[person]]
+name.last = "Sykes"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_HP = "9"
+P_WP = "7"
+P_BB = "34"
+P_SO = "88"
+P_R = "81"
+P_H = "146"
+P_SHO = "2"
+P_T = "2"
+P_W = "6"
+P_L = "13"
+P_G = "21"
+P_PCT = ".316"
+
+
+[[person]]
+name.last = "Kinnear"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_HP = "11"
+P_WP = "1"
+P_BB = "60"
+P_SO = "85"
+P_R = "150"
+P_H = "167"
+P_SHO = "0"
+P_T = "2"
+P_W = "5"
+P_L = "14"
+P_G = "21"
+P_PCT = ".263"
+
+
+[[person]]
+name.last = "Shine"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[[person.playing.split]]
+team.name = "Medicine Hat"
+[person.playing.totals]
+P_HP = "7"
+P_WP = "1"
+P_BB = "33"
+P_SO = "32"
+P_R = "60"
+P_H = "85"
+P_SHO = "0"
+P_T = "1"
+P_W = "2"
+P_L = "6"
+P_G = "9"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Morrison"
+description.throws = "L"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lethbridge"
+[person.playing.totals]
+P_HP = "4"
+P_WP = "4"
+P_BB = "36"
+P_SO = "38"
+P_R = "113"
+P_H = "192"
+P_SHO = "1"
+P_T = "2"
+P_W = "4"
+P_L = "14"
+P_G = "20"
+P_PCT = ".222"
+
+
+[[person]]
+name.last = "White"
+description.throws = "R"
+[[person.playing]]
+season = "1907"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[[person.playing.split]]
+team.name = "Lethbridge"
+[person.playing.totals]
+P_HP = "7"
+P_WP = "3"
+P_BB = "29"
+P_SO = "24"
+P_R = "46"
+P_H = "76"
+P_SHO = "1"
+P_T = "0"
+P_W = "2"
+P_L = "7"
+P_G = "9"
+P_PCT = ".222"

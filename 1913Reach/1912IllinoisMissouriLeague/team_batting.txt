@@ -1,0 +1,166 @@
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3811"
+B_R = "500"
+B_H = "1008"
+B_TB = "1277"
+B_HR = "10"
+B_SH = "204"
+B_SB = "220"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3647"
+B_R = "446"
+B_H = "917"
+B_TB = "1182"
+B_HR = "6"
+B_SH = "143"
+B_SB = "258"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3615"
+B_R = "482"
+B_H = "902"
+B_TB = "1202"
+B_HR = "21"
+B_SH = "154"
+B_SB = "244"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Kankakee"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3747"
+B_R = "451"
+B_H = "935"
+B_TB = "1162"
+B_HR = "4"
+B_SH = "179"
+B_SB = "146"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Champaign"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3725"
+B_R = "453"
+B_H = "889"
+B_TB = "1170"
+B_HR = "19"
+B_SH = "143"
+B_SB = "158"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Streator"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3762"
+B_R = "429"
+B_H = "851"
+B_TB = "1185"
+B_HR = "28"
+B_SH = "150"
+B_SB = "127"
+B_AVG = ".226"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "149"
+B_3B = "45"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "163"
+B_3B = "42"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "165"
+B_3B = "37"
+
+
+[[team]]
+name = "Kankakee"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "149"
+B_3B = "33"
+
+
+[[team]]
+name = "Champaign"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "160"
+B_3B = "32"
+
+
+[[team]]
+name = "Streator"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+B_2B = "176"
+B_3B = "37"

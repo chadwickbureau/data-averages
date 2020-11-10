@@ -1,0 +1,76 @@
+[[team]]
+name = "Gulfport-Biloxi"
+[[team.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3123"
+F_A = "1411"
+F_E = "203"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2396"
+F_A = "1711"
+F_E = "183"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Meridian"
+[[team.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3117"
+F_A = "1500"
+F_E = "222"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3134"
+F_A = "1367"
+F_E = "216"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Vicksburg"
+[[team.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3099"
+F_A = "1478"
+F_E = "228"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Monroe"
+[[team.playing]]
+season = "1908"
+league.name = "Cotton States League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3111"
+F_A = "1592"
+F_E = "273"
+F_PCT = ".945"

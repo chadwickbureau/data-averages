@@ -1,0 +1,76 @@
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1914"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "37"
+R_PCT = ".625"
+R_RANK = "1"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1914"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "40"
+R_PCT = ".600"
+R_RANK = "2"
+
+
+[[team]]
+name = "Woonsocket"
+[[team.playing]]
+season = "1914"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "49"
+R_L = "48"
+R_PCT = ".506"
+R_RANK = "3"
+
+
+[[team]]
+name = "Taunton"
+[[team.playing]]
+season = "1914"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "54"
+R_PCT = ".449"
+R_RANK = "4"
+
+
+[[team]]
+name = "Pawtucket"
+[[team.playing]]
+season = "1914"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "56"
+R_PCT = ".446"
+R_RANK = "5"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1914"
+league.name = "Colonial League"
+phase = "regular"
+[team.playing.totals]
+R_W = "36"
+R_L = "61"
+R_PCT = ".371"
+R_RANK = "6"

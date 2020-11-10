@@ -1,0 +1,58 @@
+[[team]]
+name = "Cananea"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "103571"
+
+
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "76063"
+
+
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "54591"
+
+
+[[team]]
+name = "Las Vegas"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "35804"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "28157"
+
+
+[[team]]
+name = "Douglas"
+[[team.playing]]
+season = "1957"
+league.name = "Arizona-Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "27949"

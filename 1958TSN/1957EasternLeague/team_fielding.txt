@@ -1,0 +1,100 @@
+[[team]]
+name = "Schenectady"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "156"
+F_PB = "12"
+F_PO = "3685"
+F_A = "1473"
+F_E = "171"
+F_PCT = ".968"
+F_TP = "2"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "147"
+F_PB = "20"
+F_PO = "3636"
+F_A = "1402"
+F_E = "171"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "148"
+F_PB = "22"
+F_PO = "3620"
+F_A = "1482"
+F_E = "175"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "162"
+F_PB = "20"
+F_PO = "3651"
+F_A = "1491"
+F_E = "189"
+F_PCT = ".965"
+F_TP = "0"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "101"
+F_PB = "12"
+F_PO = "3546"
+F_A = "1290"
+F_E = "210"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1957"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "133"
+F_PB = "26"
+F_PO = "3579"
+F_A = "1352"
+F_E = "224"
+F_PCT = ".957"
+F_TP = "0"

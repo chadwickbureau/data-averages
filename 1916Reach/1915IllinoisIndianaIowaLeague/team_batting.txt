@@ -1,0 +1,174 @@
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "131"
+B_AB = "4158"
+B_R = "533"
+B_H = "1118"
+B_2B = "182"
+B_3B = "56"
+B_HR = "25"
+B_TB = "1487"
+B_BB = "347"
+B_SO = "472"
+B_SH = "194"
+B_SB = "138"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4164"
+B_R = "463"
+B_H = "1075"
+B_2B = "181"
+B_3B = "59"
+B_HR = "10"
+B_TB = "1404"
+B_BB = "313"
+B_SO = "521"
+B_SH = "186"
+B_SB = "212"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Moline"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3924"
+B_R = "491"
+B_H = "1005"
+B_2B = "192"
+B_3B = "47"
+B_HR = "12"
+B_TB = "1327"
+B_BB = "344"
+B_SO = "417"
+B_SH = "256"
+B_SB = "156"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "132"
+B_AB = "4296"
+B_R = "464"
+B_H = "1060"
+B_2B = "167"
+B_3B = "42"
+B_HR = "10"
+B_TB = "1341"
+B_BB = "346"
+B_SO = "474"
+B_SH = "140"
+B_SB = "165"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4018"
+B_R = "442"
+B_H = "974"
+B_2B = "164"
+B_3B = "40"
+B_HR = "11"
+B_TB = "1251"
+B_BB = "411"
+B_SO = "502"
+B_SH = "154"
+B_SB = "239"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "94"
+B_AB = "2974"
+B_R = "357"
+B_H = "720"
+B_2B = "106"
+B_3B = "26"
+B_HR = "9"
+B_TB = "905"
+B_BB = "251"
+B_SO = "326"
+B_SH = "115"
+B_SB = "110"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3901"
+B_R = "401"
+B_H = "918"
+B_2B = "130"
+B_3B = "56"
+B_HR = "14"
+B_TB = "1202"
+B_BB = "293"
+B_SO = "521"
+B_SH = "135"
+B_SB = "142"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Dubuque/Freeport"
+[[team.playing]]
+season = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4163"
+B_R = "390"
+B_H = "950"
+B_2B = "153"
+B_3B = "27"
+B_HR = "12"
+B_TB = "1193"
+B_BB = "360"
+B_SO = "513"
+B_SH = "144"
+B_SB = "200"
+B_AVG = ".228"

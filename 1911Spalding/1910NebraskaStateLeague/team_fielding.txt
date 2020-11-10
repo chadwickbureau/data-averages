@@ -1,0 +1,110 @@
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "107"
+F_PO = "2769"
+F_A = "1415"
+F_E = "242"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Seward"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_PO = "2900"
+F_A = "1341"
+F_E = "193"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Fremont"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "106"
+F_PO = "2785"
+F_A = "1253"
+F_E = "205"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_PO = "2831"
+F_A = "1169"
+F_E = "221"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_PO = "2838"
+F_A = "1255"
+F_E = "246"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Red Cloud"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_PO = "2559"
+F_A = "1141"
+F_E = "229"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_PO = "2740"
+F_A = "1215"
+F_E = "247"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1910"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "107"
+F_PO = "2560"
+F_A = "1126"
+F_E = "248"
+F_PCT = ".929"

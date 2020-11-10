@@ -1,0 +1,58 @@
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "38174"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "35910"
+
+
+[[team]]
+name = "Moultrie/Brunswick"
+[[team.playing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "28987"
+
+
+[[team]]
+name = "Waycross"
+[[team.playing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "27226"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "25438"
+
+
+[[team]]
+name = "Fitzgerald"
+[[team.playing]]
+season = "1957"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "18046"

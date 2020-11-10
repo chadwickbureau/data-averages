@@ -1,0 +1,2612 @@
+[[person]]
+name.last = "Carpenter"
+name.given = "J."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "19"
+P_CG = "0"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "52"
+P_AB = "208"
+P_R = "26"
+P_H = "59"
+P_ER = "12"
+P_SH = "6"
+P_BB = "20"
+P_HP = "1"
+P_SO = "16"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "2.08"
+
+
+[[person]]
+name.last = "Joyce"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "46"
+P_CG = "35"
+P_W = "31"
+P_L = "11"
+P_PCT = ".738"
+P_IP = "344"
+P_AB = "1331"
+P_R = "118"
+P_H = "347"
+P_ER = "83"
+P_SH = "19"
+P_BB = "55"
+P_HP = "0"
+P_SO = "100"
+P_WP = "5"
+P_SHO = "7"
+P_ERA = "2.17"
+
+
+[[person]]
+name.last = "Fletcher"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "45"
+P_CG = "32"
+P_W = "24"
+P_L = "14"
+P_PCT = ".632"
+P_IP = "335"
+P_AB = "1246"
+P_R = "104"
+P_H = "292"
+P_ER = "87"
+P_SH = "24"
+P_BB = "92"
+P_HP = "8"
+P_SO = "144"
+P_WP = "3"
+P_SHO = "7"
+P_ERA = "2.33"
+
+
+[[person]]
+name.last = "Liska"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "35"
+P_CG = "25"
+P_W = "20"
+P_L = "12"
+P_PCT = ".625"
+P_IP = "273"
+P_AB = "1034"
+P_R = "92"
+P_H = "257"
+P_ER = "71"
+P_SH = "17"
+P_BB = "59"
+P_HP = "7"
+P_SO = "127"
+P_WP = "5"
+P_SHO = "4"
+P_ERA = "2.34"
+
+
+[[person]]
+name.last = "Pulford"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "37"
+P_CG = "24"
+P_W = "20"
+P_L = "11"
+P_PCT = ".645"
+P_IP = "274"
+P_AB = "1034"
+P_R = "93"
+P_H = "237"
+P_ER = "72"
+P_SH = "17"
+P_BB = "84"
+P_HP = "2"
+P_SO = "152"
+P_WP = "5"
+P_SHO = "1"
+P_ERA = "2.37"
+
+
+[[person]]
+name.last = "Turpin"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "31"
+P_CG = "18"
+P_W = "18"
+P_L = "8"
+P_PCT = ".692"
+P_IP = "229"
+P_AB = "885"
+P_R = "86"
+P_H = "244"
+P_ER = "61"
+P_SH = "14"
+P_BB = "26"
+P_HP = "3"
+P_SO = "29"
+P_WP = "1"
+P_SHO = "5"
+P_ERA = "2.40"
+
+
+[[person]]
+name.last = "Dumler"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "42"
+P_CG = "26"
+P_W = "21"
+P_L = "16"
+P_PCT = ".568"
+P_IP = "282"
+P_AB = "1057"
+P_R = "102"
+P_H = "257"
+P_ER = "76"
+P_SH = "24"
+P_BB = "104"
+P_HP = "4"
+P_SO = "143"
+P_WP = "6"
+P_SHO = "2"
+P_ERA = "2.42"
+
+
+[[person]]
+name.last = "Ehrman"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "25"
+P_CG = "3"
+P_W = "8"
+P_L = "4"
+P_PCT = ".667"
+P_IP = "96"
+P_AB = "335"
+P_R = "38"
+P_H = "77"
+P_ER = "28"
+P_SH = "10"
+P_BB = "44"
+P_HP = "3"
+P_SO = "27"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "2.62"
+
+
+[[person]]
+name.last = "Fischer"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "35"
+P_CG = "20"
+P_W = "17"
+P_L = "14"
+P_PCT = ".549"
+P_IP = "253"
+P_AB = "982"
+P_R = "97"
+P_H = "253"
+P_ER = "74"
+P_SH = "19"
+P_BB = "60"
+P_HP = "0"
+P_SO = "108"
+P_WP = "2"
+P_SHO = "4"
+P_ERA = "2.63"
+
+
+[[person]]
+name.last = "Osborn"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "41"
+P_CG = "27"
+P_W = "18"
+P_L = "13"
+P_PCT = ".581"
+P_IP = "269"
+P_AB = "1048"
+P_R = "105"
+P_H = "291"
+P_ER = "80"
+P_SH = "30"
+P_BB = "38"
+P_HP = "4"
+P_SO = "41"
+P_WP = "4"
+P_SHO = "3"
+P_ERA = "2.68"
+
+
+[[person]]
+name.last = "Adams"
+name.given = "C."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "41"
+P_CG = "31"
+P_W = "21"
+P_L = "15"
+P_PCT = ".583"
+P_IP = "298"
+P_AB = "1111"
+P_R = "104"
+P_H = "269"
+P_ER = "90"
+P_SH = "27"
+P_BB = "90"
+P_HP = "4"
+P_SO = "160"
+P_WP = "4"
+P_SHO = "2"
+P_ERA = "2.72"
+
+
+[[person]]
+name.last = "Demoran"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "38"
+P_CG = "23"
+P_W = "20"
+P_L = "10"
+P_PCT = ".667"
+P_IP = "262"
+P_AB = "1007"
+P_R = "105"
+P_H = "256"
+P_ER = "83"
+P_SH = "19"
+P_BB = "72"
+P_HP = "4"
+P_SO = "77"
+P_WP = "4"
+P_SHO = "3"
+P_ERA = "2.85"
+
+
+[[person]]
+name.last = "Mann"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "33"
+P_CG = "17"
+P_W = "15"
+P_L = "9"
+P_PCT = ".625"
+P_IP = "222"
+P_AB = "811"
+P_R = "87"
+P_H = "191"
+P_ER = "71"
+P_SH = "12"
+P_BB = "95"
+P_HP = "4"
+P_SO = "131"
+P_WP = "5"
+P_SHO = "3"
+P_ERA = "2.88"
+
+
+[[person]]
+name.last = "Mossor"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "27"
+P_CG = "14"
+P_W = "13"
+P_L = "7"
+P_PCT = ".650"
+P_IP = "157"
+P_AB = "574"
+P_R = "52"
+P_H = "119"
+P_ER = "51"
+P_SH = "11"
+P_BB = "71"
+P_HP = "2"
+P_SO = "138"
+P_WP = "9"
+P_SHO = "2"
+P_ERA = "2.92"
+
+
+[[person]]
+name.last = "Tising"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "30"
+P_CG = "6"
+P_W = "11"
+P_L = "10"
+P_PCT = ".524"
+P_IP = "145"
+P_AB = "536"
+P_R = "64"
+P_H = "139"
+P_ER = "47"
+P_SH = "8"
+P_BB = "38"
+P_HP = "7"
+P_SO = "52"
+P_WP = "7"
+P_SHO = "2"
+P_ERA = "2.92"
+
+
+[[person]]
+name.last = "Eaves"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "52"
+P_CG = "24"
+P_W = "21"
+P_L = "15"
+P_PCT = ".583"
+P_IP = "312"
+P_AB = "1193"
+P_R = "136"
+P_H = "290"
+P_ER = "104"
+P_SH = "26"
+P_BB = "127"
+P_HP = "3"
+P_SO = "187"
+P_WP = "6"
+P_SHO = "2"
+P_ERA = "3.00"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "S."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "23"
+P_CG = "3"
+P_W = "6"
+P_L = "3"
+P_PCT = ".667"
+P_IP = "65"
+P_AB = "251"
+P_R = "29"
+P_H = "67"
+P_ER = "22"
+P_SH = "5"
+P_BB = "8"
+P_HP = "3"
+P_SO = "24"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "3.04"
+
+
+[[person]]
+name.last = "Mooty"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "27"
+P_CG = "12"
+P_W = "11"
+P_L = "5"
+P_PCT = ".688"
+P_IP = "156"
+P_AB = "586"
+P_R = "68"
+P_H = "142"
+P_ER = "54"
+P_SH = "16"
+P_BB = "63"
+P_HP = "4"
+P_SO = "72"
+P_WP = "1"
+P_SHO = "1"
+P_ERA = "3.12"
+
+
+[[person]]
+name.last = "Beasley"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "17"
+P_CG = "10"
+P_W = "12"
+P_L = "4"
+P_PCT = ".750"
+P_IP = "132"
+P_AB = "491"
+P_R = "53"
+P_H = "123"
+P_ER = "46"
+P_SH = "10"
+P_BB = "30"
+P_HP = "1"
+P_SO = "22"
+P_WP = "2"
+P_SHO = "2"
+P_ERA = "3.14"
+
+
+[[person]]
+name.last = "Gibson"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "18"
+P_CG = "2"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "65"
+P_AB = "271"
+P_R = "37"
+P_H = "76"
+P_ER = "23"
+P_SH = "2"
+P_BB = "14"
+P_HP = "2"
+P_SO = "17"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "3.14"
+
+
+[[person]]
+name.last = "Raimondi"
+name.given = "A."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "24"
+P_CG = "1"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "56"
+P_AB = "223"
+P_R = "40"
+P_H = "71"
+P_ER = "20"
+P_SH = "3"
+P_BB = "19"
+P_HP = "1"
+P_SO = "13"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "3.21"
+
+
+[[person]]
+name.last = "Cohen"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "30"
+P_CG = "13"
+P_W = "14"
+P_L = "8"
+P_PCT = ".636"
+P_IP = "199"
+P_AB = "804"
+P_R = "95"
+P_H = "242"
+P_ER = "72"
+P_SH = "14"
+P_BB = "56"
+P_HP = "4"
+P_SO = "67"
+P_WP = "2"
+P_SHO = "2"
+P_ERA = "3.26"
+
+
+[[person]]
+name.last = "Frazier"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "21"
+P_CG = "1"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "66"
+P_AB = "240"
+P_R = "35"
+P_H = "57"
+P_ER = "24"
+P_SH = "7"
+P_BB = "32"
+P_HP = "1"
+P_SO = "22"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "3.27"
+
+
+[[person]]
+name.last = "Chetkovich"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "33"
+P_CG = "11"
+P_W = "10"
+P_L = "11"
+P_PCT = ".476"
+P_IP = "168"
+P_AB = "645"
+P_R = "81"
+P_H = "169"
+P_ER = "62"
+P_SH = "10"
+P_BB = "72"
+P_HP = "4"
+P_SO = "65"
+P_WP = "4"
+P_SHO = "2"
+P_ERA = "3.32"
+
+
+[[person]]
+name.last = "Helser"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "37"
+P_CG = "26"
+P_W = "20"
+P_L = "14"
+P_PCT = ".586"
+P_IP = "270"
+P_AB = "1038"
+P_R = "116"
+P_H = "273"
+P_ER = "101"
+P_SH = "19"
+P_BB = "99"
+P_HP = "12"
+P_SO = "136"
+P_WP = "3"
+P_SHO = "3"
+P_ERA = "3.37"
+
+
+[[person]]
+name.last = "Orella"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "30"
+P_CG = "11"
+P_W = "11"
+P_L = "11"
+P_PCT = ".500"
+P_IP = "187"
+P_AB = "706"
+P_R = "84"
+P_H = "182"
+P_ER = "70"
+P_SH = "16"
+P_BB = "72"
+P_HP = "1"
+P_SO = "46"
+P_WP = "4"
+P_SHO = "2"
+P_ERA = "3.37"
+
+
+[[person]]
+name.last = "Kimball"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "42"
+P_CG = "25"
+P_W = "19"
+P_L = "21"
+P_PCT = ".475"
+P_IP = "301"
+P_AB = "1191"
+P_R = "150"
+P_H = "343"
+P_ER = "115"
+P_SH = "30"
+P_BB = "57"
+P_HP = "0"
+P_SO = "71"
+P_WP = "5"
+P_SHO = "4"
+P_ERA = "3.44"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "C."
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "27"
+P_CG = "13"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_IP = "178"
+P_AB = "677"
+P_R = "74"
+P_H = "178"
+P_ER = "68"
+P_SH = "10"
+P_BB = "82"
+P_HP = "1"
+P_SO = "117"
+P_WP = "4"
+P_SHO = "5"
+P_ERA = "3.44"
+
+
+[[person]]
+name.last = "Ferguson"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "39"
+P_CG = "12"
+P_W = "5"
+P_L = "21"
+P_PCT = ".192"
+P_IP = "211"
+P_AB = "828"
+P_R = "123"
+P_H = "228"
+P_ER = "83"
+P_SH = "26"
+P_BB = "114"
+P_HP = "10"
+P_SO = "108"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "3.54"
+
+
+[[person]]
+name.last = "Chelini"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "17"
+P_CG = "6"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "101"
+P_AB = "415"
+P_R = "58"
+P_H = "130"
+P_ER = "42"
+P_SH = "11"
+P_BB = "24"
+P_HP = "3"
+P_SO = "28"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "3.74"
+
+
+[[person]]
+name.last = "Elliott"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "34"
+P_CG = "13"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_IP = "196"
+P_AB = "736"
+P_R = "93"
+P_H = "202"
+P_ER = "83"
+P_SH = "17"
+P_BB = "67"
+P_HP = "1"
+P_SO = "86"
+P_WP = "11"
+P_SHO = "4"
+P_ERA = "3.81"
+
+
+[[person]]
+name.last = "Wensloff"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "10"
+P_CG = "5"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "73"
+P_AB = "304"
+P_R = "46"
+P_H = "85"
+P_ER = "31"
+P_SH = "5"
+P_BB = "24"
+P_HP = "2"
+P_SO = "40"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "3.82"
+
+
+[[person]]
+name.last = "LeGault"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "33"
+P_CG = "7"
+P_W = "5"
+P_L = "8"
+P_PCT = ".385"
+P_IP = "136"
+P_AB = "530"
+P_R = "85"
+P_H = "153"
+P_ER = "58"
+P_SH = "16"
+P_BB = "49"
+P_HP = "6"
+P_SO = "32"
+P_WP = "3"
+P_SHO = "1"
+P_ERA = "3.84"
+
+
+[[person]]
+name.last = "Seward"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "37"
+P_CG = "19"
+P_W = "18"
+P_L = "13"
+P_PCT = ".581"
+P_IP = "257"
+P_AB = "997"
+P_R = "119"
+P_H = "284"
+P_ER = "110"
+P_SH = "11"
+P_BB = "106"
+P_HP = "0"
+P_SO = "113"
+P_WP = "7"
+P_SHO = "3"
+P_ERA = "3.85"
+
+
+[[person]]
+name.last = "Stromme"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "37"
+P_CG = "11"
+P_W = "16"
+P_L = "13"
+P_PCT = ".552"
+P_IP = "218"
+P_AB = "857"
+P_R = "105"
+P_H = "248"
+P_ER = "95"
+P_SH = "19"
+P_BB = "94"
+P_HP = "3"
+P_SO = "93"
+P_WP = "1"
+P_SHO = "2"
+P_ERA = "3.92"
+
+
+[[person]]
+name.last = "Babbitt"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "31"
+P_CG = "9"
+P_W = "6"
+P_L = "13"
+P_PCT = ".316"
+P_IP = "140"
+P_AB = "530"
+P_R = "74"
+P_H = "144"
+P_ER = "62"
+P_SH = "20"
+P_BB = "53"
+P_HP = "3"
+P_SO = "37"
+P_WP = "1"
+P_SHO = "2"
+P_ERA = "3.99"
+
+
+[[person]]
+name.last = "Jansen"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "7"
+P_CG = "5"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "55"
+P_AB = "211"
+P_R = "25"
+P_H = "63"
+P_ER = "25"
+P_SH = "4"
+P_BB = "12"
+P_HP = "0"
+P_SO = "34"
+P_WP = "1"
+P_SHO = "1"
+P_ERA = "4.09"
+
+
+[[person]]
+name.last = "McCarthy"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "29"
+P_CG = "9"
+P_W = "10"
+P_L = "10"
+P_PCT = ".500"
+P_IP = "159"
+P_AB = "610"
+P_R = "72"
+P_H = "170"
+P_ER = "73"
+P_SH = "17"
+P_BB = "51"
+P_HP = "6"
+P_SO = "50"
+P_WP = "3"
+P_SHO = "2"
+P_ERA = "4.13"
+
+
+[[person]]
+name.last = "Vivalda"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "10"
+P_CG = "4"
+P_W = "4"
+P_L = "4"
+P_PCT = ".500"
+P_IP = "67"
+P_AB = "246"
+P_R = "40"
+P_H = "66"
+P_ER = "31"
+P_SH = "5"
+P_BB = "47"
+P_HP = "1"
+P_SO = "20"
+P_WP = "4"
+P_SHO = "1"
+P_ERA = "4.16"
+
+
+[[person]]
+name.last = "Brondell"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "18"
+P_CG = "5"
+P_W = "4"
+P_L = "10"
+P_PCT = ".286"
+P_IP = "110"
+P_AB = "450"
+P_R = "78"
+P_H = "131"
+P_ER = "52"
+P_SH = "10"
+P_BB = "55"
+P_HP = "5"
+P_SO = "33"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "4.25"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "R."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "44"
+P_CG = "23"
+P_W = "15"
+P_L = "20"
+P_PCT = ".429"
+P_IP = "281"
+P_AB = "1157"
+P_R = "174"
+P_H = "321"
+P_ER = "134"
+P_SH = "34"
+P_BB = "110"
+P_HP = "6"
+P_SO = "97"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "4.29"
+
+
+[[person]]
+name.last = "Barthelson"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "39"
+P_CG = "15"
+P_W = "12"
+P_L = "14"
+P_PCT = ".462"
+P_IP = "233"
+P_AB = "925"
+P_R = "135"
+P_H = "279"
+P_ER = "111"
+P_SH = "27"
+P_BB = "97"
+P_HP = "4"
+P_SO = "50"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "4.29"
+
+
+[[person]]
+name.last = "Knowles"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "26"
+P_CG = "10"
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "153"
+P_AB = "588"
+P_R = "81"
+P_H = "148"
+P_ER = "73"
+P_SH = "12"
+P_BB = "83"
+P_HP = "9"
+P_SO = "43"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "4.29"
+
+
+[[person]]
+name.last = "Speece"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "17"
+P_CG = "2"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "54"
+P_AB = "206"
+P_R = "31"
+P_H = "61"
+P_ER = "26"
+P_SH = "4"
+P_BB = "17"
+P_HP = "1"
+P_SO = "17"
+P_WP = "0"
+P_SHO = "1"
+P_ERA = "4.33"
+
+
+[[person]]
+name.last = "Palica"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "31"
+P_CG = "9"
+P_W = "10"
+P_L = "9"
+P_PCT = ".526"
+P_IP = "164"
+P_AB = "624"
+P_R = "77"
+P_H = "164"
+P_ER = "80"
+P_SH = "21"
+P_BB = "82"
+P_HP = "4"
+P_SO = "55"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "4.39"
+
+
+[[person]]
+name.last = "Babich"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "28"
+P_CG = "8"
+P_W = "4"
+P_L = "9"
+P_PCT = ".308"
+P_IP = "129"
+P_AB = "485"
+P_R = "82"
+P_H = "134"
+P_ER = "63"
+P_SH = "20"
+P_BB = "62"
+P_HP = "1"
+P_SO = "36"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "4.39"
+
+
+[[person]]
+name.last = "Cuellar"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "38"
+P_CG = "16"
+P_W = "13"
+P_L = "17"
+P_PCT = ".433"
+P_IP = "225"
+P_AB = "900"
+P_R = "131"
+P_H = "254"
+P_ER = "110"
+P_SH = "21"
+P_BB = "83"
+P_HP = "6"
+P_SO = "121"
+P_WP = "7"
+P_SHO = "3"
+P_ERA = "4.40"
+
+
+[[person]]
+name.last = "Comellas"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "26"
+P_CG = "14"
+P_W = "6"
+P_L = "16"
+P_PCT = ".273"
+P_IP = "156"
+P_AB = "635"
+P_R = "81"
+P_H = "190"
+P_ER = "77"
+P_SH = "17"
+P_BB = "55"
+P_HP = "0"
+P_SO = "79"
+P_WP = "4"
+P_SHO = "2"
+P_ERA = "4.44"
+
+
+[[person]]
+name.last = "Gilmore"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "38"
+P_CG = "14"
+P_W = "14"
+P_L = "13"
+P_PCT = ".519"
+P_IP = "220"
+P_AB = "871"
+P_R = "124"
+P_H = "251"
+P_ER = "109"
+P_SH = "17"
+P_BB = "90"
+P_HP = "3"
+P_SO = "91"
+P_WP = "4"
+P_SHO = "2"
+P_ERA = "4.46"
+
+
+[[person]]
+name.last = "Brillheart"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "45"
+P_CG = "16"
+P_W = "15"
+P_L = "13"
+P_PCT = ".536"
+P_IP = "236"
+P_AB = "950"
+P_R = "146"
+P_H = "268"
+P_ER = "118"
+P_SH = "14"
+P_BB = "101"
+P_HP = "9"
+P_SO = "87"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "4.50"
+
+
+[[person]]
+name.last = "Hayes"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "18"
+P_CG = "13"
+P_W = "9"
+P_L = "9"
+P_PCT = ".500"
+P_IP = "130"
+P_AB = "514"
+P_R = "82"
+P_H = "153"
+P_ER = "66"
+P_SH = "12"
+P_BB = "52"
+P_HP = "1"
+P_SO = "45"
+P_WP = "5"
+P_SHO = "1"
+P_ERA = "4.57"
+
+
+[[person]]
+name.last = "Powers"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "25"
+P_CG = "7"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_IP = "108"
+P_AB = "428"
+P_R = "72"
+P_H = "125"
+P_ER = "56"
+P_SH = "16"
+P_BB = "35"
+P_HP = "0"
+P_SO = "22"
+P_WP = "4"
+P_SHO = "2"
+P_ERA = "4.67"
+
+
+[[person]]
+name.last = "Buzolich"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "37"
+P_CG = "2"
+P_W = "4"
+P_L = "10"
+P_PCT = ".286"
+P_IP = "96"
+P_AB = "376"
+P_R = "61"
+P_H = "109"
+P_ER = "53"
+P_SH = "5"
+P_BB = "60"
+P_HP = "2"
+P_SO = "11"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "4.97"
+
+
+[[person]]
+name.last = "Penrose"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "16"
+P_CG = "5"
+P_W = "4"
+P_L = "2"
+P_PCT = ".667"
+P_IP = "77"
+P_AB = "306"
+P_R = "45"
+P_H = "93"
+P_ER = "43"
+P_SH = "7"
+P_BB = "34"
+P_HP = "1"
+P_SO = "21"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.02"
+
+
+[[person]]
+name.last = "Atanazio"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "23"
+P_CG = "2"
+P_W = "5"
+P_L = "3"
+P_PCT = ".625"
+P_IP = "80"
+P_AB = "337"
+P_R = "61"
+P_H = "111"
+P_ER = "45"
+P_SH = "2"
+P_BB = "40"
+P_HP = "0"
+P_SO = "27"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.06"
+
+
+[[person]]
+name.last = "Monzo"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "21"
+P_CG = "0"
+P_W = "3"
+P_L = "3"
+P_PCT = ".500"
+P_IP = "48"
+P_AB = "195"
+P_R = "36"
+P_H = "59"
+P_ER = "27"
+P_SH = "4"
+P_BB = "29"
+P_HP = "2"
+P_SO = "25"
+P_WP = "6"
+P_SHO = "0"
+P_ERA = "5.06"
+
+
+[[person]]
+name.last = "Porter"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "31"
+P_CG = "6"
+P_W = "6"
+P_L = "7"
+P_PCT = ".462"
+P_IP = "134"
+P_AB = "546"
+P_R = "98"
+P_H = "172"
+P_ER = "76"
+P_SH = "12"
+P_BB = "48"
+P_HP = "5"
+P_SO = "34"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "5.10"
+
+
+[[person]]
+name.last = "Mishasek"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "43"
+P_CG = "19"
+P_W = "16"
+P_L = "16"
+P_PCT = ".500"
+P_IP = "252"
+P_AB = "1066"
+P_R = "171"
+P_H = "336"
+P_ER = "144"
+P_SH = "30"
+P_BB = "86"
+P_HP = "2"
+P_SO = "84"
+P_WP = "4"
+P_SHO = "2"
+P_ERA = "5.14"
+
+
+[[person]]
+name.last = "Trahd"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "39"
+P_CG = "5"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "121"
+P_AB = "479"
+P_R = "96"
+P_H = "147"
+P_ER = "70"
+P_SH = "20"
+P_BB = "75"
+P_HP = "5"
+P_SO = "41"
+P_WP = "7"
+P_SHO = "0"
+P_ERA = "5.21"
+
+
+[[person]]
+name.last = "Wood, Jr."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "28"
+P_CG = "18"
+P_W = "9"
+P_L = "14"
+P_PCT = ".391"
+P_IP = "205"
+P_AB = "824"
+P_R = "133"
+P_H = "264"
+P_ER = "119"
+P_SH = "21"
+P_BB = "89"
+P_HP = "7"
+P_SO = "64"
+P_WP = "8"
+P_SHO = "0"
+P_ERA = "5.22"
+
+
+[[person]]
+name.last = "Hicks"
+name.given = "K."
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "35"
+P_CG = "6"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_IP = "134"
+P_AB = "501"
+P_R = "86"
+P_H = "149"
+P_ER = "78"
+P_SH = "23"
+P_BB = "109"
+P_HP = "5"
+P_SO = "40"
+P_WP = "9"
+P_SHO = "0"
+P_ERA = "5.24"
+
+
+[[person]]
+name.last = "Pintar"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "17"
+P_CG = "3"
+P_W = "6"
+P_L = "5"
+P_PCT = ".545"
+P_IP = "60"
+P_AB = "240"
+P_R = "36"
+P_H = "69"
+P_ER = "35"
+P_SH = "6"
+P_BB = "29"
+P_HP = "2"
+P_SO = "27"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "5.25"
+
+
+[[person]]
+name.last = "Piercey"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "26"
+P_CG = "1"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "80"
+P_AB = "319"
+P_R = "64"
+P_H = "97"
+P_ER = "47"
+P_SH = "6"
+P_BB = "21"
+P_HP = "0"
+P_SO = "15"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.29"
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "26"
+P_CG = "6"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_IP = "131"
+P_AB = "511"
+P_R = "93"
+P_H = "146"
+P_ER = "78"
+P_SH = "16"
+P_BB = "100"
+P_HP = "4"
+P_SO = "35"
+P_WP = "4"
+P_SHO = "1"
+P_ERA = "5.36"
+
+
+[[person]]
+name.last = "Marshall"
+name.given = "J."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "35"
+P_CG = "7"
+P_W = "5"
+P_L = "12"
+P_PCT = ".294"
+P_IP = "148"
+P_AB = "570"
+P_R = "106"
+P_H = "141"
+P_ER = "89"
+P_SH = "12"
+P_BB = "103"
+P_HP = "7"
+P_SO = "63"
+P_WP = "8"
+P_SHO = "1"
+P_ERA = "5.41"
+
+
+[[person]]
+name.last = "Lammers"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "42"
+P_CG = "2"
+P_W = "4"
+P_L = "11"
+P_PCT = ".267"
+P_IP = "119"
+P_AB = "446"
+P_R = "112"
+P_H = "145"
+P_ER = "72"
+P_SH = "21"
+P_BB = "83"
+P_HP = "2"
+P_SO = "38"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.45"
+
+
+[[person]]
+name.last = "Merkle"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "36"
+P_CG = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "88"
+P_AB = "347"
+P_R = "76"
+P_H = "94"
+P_ER = "55"
+P_SH = "6"
+P_BB = "39"
+P_HP = "4"
+P_SO = "25"
+P_WP = "0"
+P_SHO = "0"
+P_ERA = "5.62"
+
+
+[[person]]
+name.last = "Intlekofer"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "34"
+P_CG = "4"
+P_W = "1"
+P_L = "8"
+P_PCT = ".111"
+P_IP = "100"
+P_AB = "418"
+P_R = "91"
+P_H = "130"
+P_ER = "66"
+P_SH = "10"
+P_BB = "41"
+P_HP = "9"
+P_SO = "35"
+P_WP = "2"
+P_SHO = "0"
+P_ERA = "5.94"
+
+
+[[person]]
+name.last = "Lotz"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "38"
+P_CG = "3"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_IP = "125"
+P_AB = "544"
+P_R = "109"
+P_H = "170"
+P_ER = "85"
+P_SH = "11"
+P_BB = "48"
+P_HP = "2"
+P_SO = "38"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "6.12"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "K."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "16"
+P_CG = "4"
+P_W = "2"
+P_L = "6"
+P_PCT = ".250"
+P_IP = "58"
+P_AB = "229"
+P_R = "48"
+P_H = "63"
+P_ER = "41"
+P_SH = "4"
+P_BB = "50"
+P_HP = "7"
+P_SO = "15"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "6.36"
+
+
+[[person]]
+name.last = "Woodend"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "20"
+P_CG = "2"
+P_W = "3"
+P_L = "11"
+P_PCT = ".214"
+P_IP = "90"
+P_AB = "383"
+P_R = "80"
+P_H = "129"
+P_ER = "75"
+P_SH = "11"
+P_BB = "57"
+P_HP = "8"
+P_SO = "28"
+P_WP = "4"
+P_SHO = "0"
+P_ERA = "7.50"
+
+
+[[person]]
+name.last = "Tincup"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "16"
+P_CG = "0"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "46"
+P_AB = "185"
+P_R = "37"
+P_H = "56"
+P_ER = "40"
+P_SH = "6"
+P_BB = "36"
+P_HP = "4"
+P_SO = "18"
+P_WP = "1"
+P_SHO = "0"
+P_ERA = "7.82"
+
+
+[[person]]
+name.last = "Sharp"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "18"
+P_CG = "1"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "59"
+P_AB = "243"
+P_R = "56"
+P_H = "82"
+P_ER = "55"
+P_SH = "6"
+P_BB = "38"
+P_HP = "3"
+P_SO = "31"
+P_WP = "3"
+P_SHO = "0"
+P_ERA = "8.39"
+
+
+[[person]]
+name.last = "Gunnarson"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "12"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "24"
+
+
+[[person]]
+name.last = "Ayala"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "16"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "21"
+
+
+[[person]]
+name.last = "Slotter"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "25"
+
+
+[[person]]
+name.last = "Morales"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "13"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "J."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "5"
+
+
+[[person]]
+name.last = "Camilli"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "1"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "5"
+
+
+[[person]]
+name.last = "Hafey"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "6"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "36"
+
+
+[[person]]
+name.last = "Weldon"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "12"
+P_W = "3"
+P_L = "2"
+P_PCT = ".600"
+P_IP = "37"
+
+
+[[person]]
+name.last = "Federmeyer"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "19"
+
+
+[[person]]
+name.last = "Pillette"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "12"
+
+
+[[person]]
+name.last = "Stevens"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "23"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_G = "4"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "14"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "12"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "42"
+
+
+[[person]]
+name.last = "Glor"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "9"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "37"
+
+
+[[person]]
+name.last = "Phipps"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "16"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "43"
+
+
+[[person]]
+name.last = "Womack"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "37"
+
+
+[[person]]
+name.last = "Oliver"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "10"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "27"
+
+
+[[person]]
+name.last = "McLaughlin"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "22"
+
+
+[[person]]
+name.last = "Orphal"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "17"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "5"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Flowers"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "13"
+
+
+[[person]]
+name.last = "Rager"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "4"
+
+
+[[person]]
+name.last = "Scheele"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Zidich"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Scarsella"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Shope"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "5"
+
+
+[[person]]
+name.last = "Fausett"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "9"
+
+
+[[person]]
+name.last = "Marshall"
+name.given = "R."
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "10"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "18"
+
+
+[[person]]
+name.last = "Bailey"
+description.throws = "L"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "18"
+
+
+[[person]]
+name.last = "Colombo"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Los Angeles"
+[person.playing.totals]
+P_G = "6"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "10"
+
+
+[[person]]
+name.last = "Embree"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Hollywood"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "8"
+
+
+[[person]]
+name.last = "Valenzuela"
+[[person.playing]]
+season = "1945"
+league.name = "Pacific Coast League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Diego"
+[person.playing.totals]
+P_G = "9"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "17"

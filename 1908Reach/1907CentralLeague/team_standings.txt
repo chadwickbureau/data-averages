@@ -1,0 +1,102 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "86"
+R_L = "49"
+R_PCT = ".637"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "57"
+R_PCT = ".575"
+R_RANK = "2"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "64"
+R_PCT = ".518"
+R_RANK = "3"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "69"
+R_PCT = ".496"
+R_RANK = "4"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "71"
+R_PCT = ".480"
+R_RANK = "5"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "72"
+R_PCT = ".474"
+R_RANK = "6"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "76"
+R_PCT = ".441"
+R_RANK = "7"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1907"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "86"
+R_PCT = ".380"
+R_RANK = "8"

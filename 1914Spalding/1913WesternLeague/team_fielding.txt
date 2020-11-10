@@ -1,0 +1,126 @@
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "168"
+F_DP = "75"
+F_TP = "1"
+F_PB = "21"
+F_PO = "4446"
+F_A = "2042"
+F_E = "260"
+F_PCT = ".961"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_DP = "85"
+F_TP = "0"
+F_PB = "30"
+F_PO = "4473"
+F_A = "2136"
+F_E = "314"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_DP = "92"
+F_TP = "0"
+F_PB = "20"
+F_PO = "4411"
+F_A = "1988"
+F_E = "302"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "168"
+F_DP = "83"
+F_TP = "0"
+F_PB = "13"
+F_PO = "4447"
+F_A = "2044"
+F_E = "316"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "166"
+F_DP = "88"
+F_TP = "0"
+F_PB = "23"
+F_PO = "4359"
+F_A = "2165"
+F_E = "334"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "166"
+F_DP = "91"
+F_TP = "0"
+F_PB = "15"
+F_PO = "4380"
+F_A = "2127"
+F_E = "341"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "168"
+F_DP = "94"
+F_TP = "0"
+F_PB = "31"
+F_PO = "4401"
+F_A = "2157"
+F_E = "354"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1913"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]

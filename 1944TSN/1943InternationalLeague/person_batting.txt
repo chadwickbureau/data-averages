@@ -1,0 +1,7116 @@
+[[person]]
+name.last = "Macon"
+name.given = "Max"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "26"
+B_AB = "98"
+B_R = "15"
+B_H = "34"
+B_TB = "48"
+B_2B = "8"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SB = "1"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "7"
+B_AVG = ".347"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Reyes"
+name.given = "Napoleon"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "58"
+B_AB = "193"
+B_R = "26"
+B_H = "66"
+B_TB = "88"
+B_2B = "9"
+B_3B = "2"
+B_HR = "3"
+B_SH = "1"
+B_SB = "2"
+B_BB = "14"
+B_HP = "2"
+B_RBI = "29"
+B_SO = "13"
+B_AVG = ".342"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Schoendienst"
+name.given = "Al."
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "136"
+B_AB = "555"
+B_R = "81"
+B_H = "187"
+B_TB = "236"
+B_2B = "21"
+B_3B = "5"
+B_HR = "6"
+B_SH = "6"
+B_SB = "20"
+B_BB = "38"
+B_HP = "2"
+B_RBI = "37"
+B_SO = "19"
+B_AVG = ".337"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Levy"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "144"
+B_AB = "512"
+B_R = "75"
+B_H = "165"
+B_TB = "248"
+B_2B = "31"
+B_3B = "8"
+B_HR = "12"
+B_SH = "4"
+B_SB = "15"
+B_BB = "59"
+B_HP = "0"
+B_RBI = "81"
+B_SO = "47"
+B_AVG = ".322"
+B_CS = "15"
+
+
+[[person]]
+name.last = "Crosby"
+name.given = "Jerry"
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "28"
+B_AB = "53"
+B_R = "9"
+B_H = "17"
+B_TB = "18"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "3"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "4"
+B_AVG = ".321"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Olmo"
+name.given = "Luis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "89"
+B_AB = "352"
+B_R = "57"
+B_H = "111"
+B_TB = "162"
+B_2B = "15"
+B_3B = "12"
+B_HR = "4"
+B_SH = "5"
+B_SB = "9"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "47"
+B_SO = "22"
+B_AVG = ".315"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Derry"
+name.given = "Russell"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "40"
+B_AB = "153"
+B_R = "24"
+B_H = "48"
+B_TB = "79"
+B_2B = "11"
+B_3B = "1"
+B_HR = "6"
+B_SH = "2"
+B_SB = "2"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "29"
+B_AVG = ".314"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Colman"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "33"
+B_AB = "109"
+B_R = "14"
+B_H = "34"
+B_TB = "50"
+B_2B = "3"
+B_3B = "2"
+B_HR = "3"
+B_SH = "0"
+B_SB = "0"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "8"
+B_AVG = ".312"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Staller"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "153"
+B_AB = "572"
+B_R = "73"
+B_H = "174"
+B_TB = "249"
+B_2B = "21"
+B_3B = "3"
+B_HR = "16"
+B_SH = "3"
+B_SB = "19"
+B_BB = "63"
+B_HP = "0"
+B_RBI = "98"
+B_SO = "59"
+B_AVG = ".304"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Ortiz"
+name.given = "Roberto"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "152"
+B_AB = "560"
+B_R = "85"
+B_H = "170"
+B_TB = "262"
+B_2B = "40"
+B_3B = "11"
+B_HR = "10"
+B_SH = "1"
+B_SB = "11"
+B_BB = "44"
+B_HP = "13"
+B_RBI = "86"
+B_SO = "58"
+B_AVG = ".304"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Van Robays"
+name.given = "Maurice"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "84"
+B_AB = "308"
+B_R = "44"
+B_H = "93"
+B_TB = "127"
+B_2B = "14"
+B_3B = "4"
+B_HR = "4"
+B_SH = "0"
+B_SB = "7"
+B_BB = "38"
+B_HP = "2"
+B_RBI = "51"
+B_SO = "24"
+B_AVG = ".302"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Graham"
+name.given = "Jack"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "51"
+B_AB = "175"
+B_R = "42"
+B_H = "52"
+B_TB = "109"
+B_2B = "11"
+B_3B = "2"
+B_HR = "14"
+B_SH = "1"
+B_SB = "4"
+B_BB = "35"
+B_HP = "2"
+B_RBI = "38"
+B_SO = "18"
+B_AVG = ".297"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Harrington"
+name.given = "Roland"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "134"
+B_AB = "498"
+B_R = "70"
+B_H = "145"
+B_TB = "195"
+B_2B = "21"
+B_3B = "7"
+B_HR = "5"
+B_SH = "14"
+B_SB = "52"
+B_BB = "36"
+B_HP = "11"
+B_RBI = "38"
+B_SO = "35"
+B_AVG = ".291"
+B_CS = "15"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "148"
+B_AB = "477"
+B_R = "62"
+B_H = "139"
+B_TB = "186"
+B_2B = "27"
+B_3B = "1"
+B_HR = "6"
+B_SH = "8"
+B_SB = "18"
+B_BB = "96"
+B_HP = "1"
+B_RBI = "64"
+B_SO = "15"
+B_AVG = ".291"
+B_CS = "9"
+
+
+[[person]]
+name.last = "De Weese"
+name.given = "Norman"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "100"
+B_AB = "300"
+B_R = "26"
+B_H = "87"
+B_TB = "110"
+B_2B = "12"
+B_3B = "1"
+B_HR = "3"
+B_SH = "3"
+B_SB = "5"
+B_BB = "20"
+B_HP = "2"
+B_RBI = "45"
+B_SO = "35"
+B_AVG = ".290"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Gamble"
+name.given = "Lee"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "65"
+B_AB = "243"
+B_R = "29"
+B_H = "70"
+B_TB = "86"
+B_2B = "7"
+B_3B = "3"
+B_HR = "1"
+B_SH = "25"
+B_SB = "6"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "15"
+B_AVG = ".288"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Mead"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "97"
+B_AB = "310"
+B_R = "30"
+B_H = "89"
+B_TB = "102"
+B_2B = "7"
+B_3B = "3"
+B_HR = "0"
+B_SH = "10"
+B_SB = "3"
+B_BB = "25"
+B_HP = "1"
+B_RBI = "40"
+B_SO = "17"
+B_AVG = ".287"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Unser"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "45"
+B_AB = "136"
+B_R = "19"
+B_H = "39"
+B_TB = "49"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_SH = "4"
+B_SB = "2"
+B_BB = "21"
+B_HP = "2"
+B_RBI = "13"
+B_SO = "17"
+B_AVG = ".287"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Sieling"
+name.given = "Harold"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "30"
+B_AB = "112"
+B_R = "21"
+B_H = "32"
+B_TB = "41"
+B_2B = "3"
+B_3B = "0"
+B_HR = "2"
+B_SH = "1"
+B_SB = "4"
+B_BB = "15"
+B_HP = "1"
+B_RBI = "15"
+B_SO = "10"
+B_AVG = ".286"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Sima"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "11"
+B_AB = "14"
+B_R = "1"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_AVG = ".286"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Nelson"
+name.given = "Lynn"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "16"
+B_AB = "7"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_AVG = ".286"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Denning"
+name.given = "Otto"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "112"
+B_AB = "376"
+B_R = "52"
+B_H = "107"
+B_TB = "161"
+B_2B = "17"
+B_3B = "5"
+B_HR = "9"
+B_SH = "2"
+B_SB = "8"
+B_BB = "49"
+B_HP = "1"
+B_RBI = "58"
+B_SO = "26"
+B_AVG = ".285"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Brack"
+name.given = "Gilbert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "126"
+B_AB = "423"
+B_R = "55"
+B_H = "120"
+B_TB = "166"
+B_2B = "15"
+B_3B = "11"
+B_HR = "3"
+B_SH = "11"
+B_SB = "4"
+B_BB = "58"
+B_HP = "0"
+B_RBI = "48"
+B_SO = "71"
+B_AVG = ".284"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Dugas"
+name.given = "Augustin"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "48"
+B_AB = "113"
+B_R = "23"
+B_H = "32"
+B_TB = "49"
+B_2B = "8"
+B_3B = "0"
+B_HR = "3"
+B_SH = "0"
+B_SB = "4"
+B_BB = "26"
+B_HP = "0"
+B_RBI = "27"
+B_SO = "11"
+B_AVG = ".283"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Maguire"
+name.given = "Jack"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "26"
+B_AB = "89"
+B_R = "11"
+B_H = "25"
+B_TB = "26"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "18"
+B_AVG = ".281"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Martin"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "49"
+B_AB = "82"
+B_R = "16"
+B_H = "23"
+B_TB = "30"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "5"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "14"
+B_AVG = ".280"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Coombs"
+name.given = "Raymond"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "20"
+B_AB = "50"
+B_R = "2"
+B_H = "14"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_AVG = ".280"
+B_CS = "0"
+
+
+[[person]]
+name.last = "King"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "123"
+B_AB = "398"
+B_R = "51"
+B_H = "111"
+B_TB = "134"
+B_2B = "17"
+B_3B = "3"
+B_HR = "0"
+B_SH = "17"
+B_SB = "8"
+B_BB = "24"
+B_HP = "3"
+B_RBI = "32"
+B_SO = "46"
+B_AVG = ".279"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Cazen"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "56"
+B_AB = "129"
+B_R = "9"
+B_H = "36"
+B_TB = "42"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "4"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "18"
+B_AVG = ".279"
+B_CS = "7"
+
+
+[[person]]
+name.last = "Outlaw"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "136"
+B_AB = "498"
+B_R = "76"
+B_H = "138"
+B_TB = "187"
+B_2B = "35"
+B_3B = "1"
+B_HR = "4"
+B_SH = "11"
+B_SB = "15"
+B_BB = "43"
+B_HP = "4"
+B_RBI = "40"
+B_SO = "33"
+B_AVG = ".277"
+B_CS = "9"
+
+
+[[person]]
+name.last = "Hooks"
+name.given = "Alexander"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "98"
+B_AB = "346"
+B_R = "40"
+B_H = "96"
+B_TB = "121"
+B_2B = "16"
+B_3B = "3"
+B_HR = "1"
+B_SH = "3"
+B_SB = "2"
+B_BB = "26"
+B_HP = "3"
+B_RBI = "45"
+B_SO = "19"
+B_AVG = ".277"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Rosen"
+name.given = "Goodwin"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "151"
+B_AB = "565"
+B_R = "85"
+B_H = "156"
+B_TB = "217"
+B_2B = "28"
+B_3B = "9"
+B_HR = "5"
+B_SH = "8"
+B_SB = "15"
+B_BB = "79"
+B_HP = "1"
+B_RBI = "46"
+B_SO = "38"
+B_AVG = ".276"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Sauer"
+name.given = "Henry"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "154"
+B_AB = "571"
+B_R = "73"
+B_H = "157"
+B_TB = "243"
+B_2B = "32"
+B_3B = "9"
+B_HR = "12"
+B_SH = "4"
+B_SB = "8"
+B_BB = "56"
+B_HP = "4"
+B_RBI = "75"
+B_SO = "62"
+B_AVG = ".275"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Dwyer"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "94"
+B_AB = "252"
+B_R = "25"
+B_H = "69"
+B_TB = "86"
+B_2B = "8"
+B_3B = "0"
+B_HR = "3"
+B_SH = "6"
+B_SB = "1"
+B_BB = "41"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "13"
+B_AVG = ".274"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Hahn"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "84"
+B_AB = "209"
+B_R = "22"
+B_H = "57"
+B_TB = "90"
+B_2B = "12"
+B_3B = "0"
+B_HR = "7"
+B_SH = "2"
+B_SB = "2"
+B_BB = "33"
+B_HP = "2"
+B_RBI = "29"
+B_SO = "42"
+B_AVG = ".273"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Aaron"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "19"
+B_AB = "55"
+B_R = "7"
+B_H = "15"
+B_TB = "28"
+B_2B = "1"
+B_3B = "0"
+B_HR = "4"
+B_SH = "0"
+B_SB = "3"
+B_BB = "11"
+B_HP = "2"
+B_RBI = "11"
+B_SO = "3"
+B_AVG = ".273"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Fallon"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "16"
+B_AB = "11"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "5"
+B_AVG = ".273"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Rosenthal"
+name.given = "Lawrence"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "145"
+B_AB = "485"
+B_R = "79"
+B_H = "132"
+B_TB = "212"
+B_2B = "29"
+B_3B = "9"
+B_HR = "11"
+B_SH = "1"
+B_SB = "6"
+B_BB = "98"
+B_HP = "0"
+B_RBI = "78"
+B_SO = "57"
+B_AVG = ".272"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Wargo"
+name.given = "Paul"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "116"
+B_AB = "376"
+B_R = "39"
+B_H = "102"
+B_TB = "135"
+B_2B = "18"
+B_3B = "3"
+B_HR = "3"
+B_SH = "6"
+B_SB = "7"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "43"
+B_SO = "71"
+B_AVG = ".271"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Korte"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "100"
+B_AB = "386"
+B_R = "44"
+B_H = "104"
+B_TB = "130"
+B_2B = "13"
+B_3B = "5"
+B_HR = "1"
+B_SH = "4"
+B_SB = "21"
+B_BB = "29"
+B_HP = "1"
+B_RBI = "25"
+B_SO = "25"
+B_AVG = ".269"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Badke"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "117"
+B_AB = "396"
+B_R = "45"
+B_H = "106"
+B_TB = "129"
+B_2B = "16"
+B_3B = "2"
+B_HR = "1"
+B_SH = "8"
+B_SB = "5"
+B_BB = "48"
+B_HP = "2"
+B_RBI = "51"
+B_SO = "63"
+B_AVG = ".268"
+B_CS = "7"
+
+
+[[person]]
+name.last = "Lockman"
+name.given = "Carroll"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "78"
+B_AB = "271"
+B_R = "35"
+B_H = "72"
+B_TB = "89"
+B_2B = "9"
+B_3B = "4"
+B_HR = "0"
+B_SH = "7"
+B_SB = "6"
+B_BB = "33"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "37"
+B_AVG = ".266"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Kress"
+name.given = "Ralph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "67"
+B_AB = "169"
+B_R = "14"
+B_H = "45"
+B_TB = "60"
+B_2B = "7"
+B_3B = "1"
+B_HR = "2"
+B_SH = "5"
+B_SB = "1"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "15"
+B_AVG = ".266"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Rubeling"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "94"
+B_AB = "343"
+B_R = "42"
+B_H = "91"
+B_TB = "118"
+B_2B = "14"
+B_3B = "2"
+B_HR = "3"
+B_SH = "9"
+B_SB = "12"
+B_BB = "44"
+B_HP = "3"
+B_RBI = "51"
+B_SO = "24"
+B_AVG = ".265"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Clay"
+name.given = "Dain"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "32"
+B_AB = "125"
+B_R = "13"
+B_H = "33"
+B_TB = "45"
+B_2B = "8"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "8"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "8"
+B_AVG = ".264"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Mack"
+name.given = "Joseph"
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "115"
+B_AB = "354"
+B_R = "48"
+B_H = "93"
+B_TB = "138"
+B_2B = "10"
+B_3B = "4"
+B_HR = "9"
+B_SH = "10"
+B_SB = "4"
+B_BB = "75"
+B_HP = "3"
+B_RBI = "51"
+B_SO = "44"
+B_AVG = ".263"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Honochick"
+name.given = "George"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "75"
+B_AB = "274"
+B_R = "37"
+B_H = "72"
+B_TB = "102"
+B_2B = "11"
+B_3B = "8"
+B_HR = "1"
+B_SH = "2"
+B_SB = "11"
+B_BB = "30"
+B_HP = "0"
+B_RBI = "38"
+B_SO = "25"
+B_AVG = ".263"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Ripple"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "92"
+B_AB = "317"
+B_R = "40"
+B_H = "83"
+B_TB = "125"
+B_2B = "16"
+B_3B = "1"
+B_HR = "8"
+B_SH = "4"
+B_SB = "2"
+B_BB = "50"
+B_HP = "7"
+B_RBI = "52"
+B_SO = "16"
+B_AVG = ".262"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Howell"
+name.given = "Murray"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "85"
+B_AB = "237"
+B_R = "18"
+B_H = "62"
+B_TB = "72"
+B_2B = "5"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "3"
+B_BB = "41"
+B_HP = "0"
+B_RBI = "25"
+B_SO = "24"
+B_AVG = ".262"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Bartley"
+name.given = "Boyd"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "34"
+B_AB = "107"
+B_R = "14"
+B_H = "28"
+B_TB = "31"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "1"
+B_BB = "16"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "12"
+B_AVG = ".262"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Mayo"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "144"
+B_AB = "460"
+B_R = "68"
+B_H = "120"
+B_TB = "147"
+B_2B = "16"
+B_3B = "1"
+B_HR = "3"
+B_SH = "5"
+B_SB = "12"
+B_BB = "96"
+B_HP = "1"
+B_RBI = "55"
+B_SO = "20"
+B_AVG = ".261"
+B_CS = "9"
+
+
+[[person]]
+name.last = "Roy"
+name.given = "Jean"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "28"
+B_AB = "23"
+B_R = "5"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_AVG = ".261"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kobesky"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "137"
+B_AB = "479"
+B_R = "67"
+B_H = "124"
+B_TB = "208"
+B_2B = "30"
+B_3B = "0"
+B_HR = "18"
+B_SH = "2"
+B_SB = "10"
+B_BB = "53"
+B_HP = "3"
+B_RBI = "88"
+B_SO = "40"
+B_AVG = ".259"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Howell"
+name.given = "Homer"
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "110"
+B_AB = "374"
+B_R = "47"
+B_H = "97"
+B_TB = "127"
+B_2B = "14"
+B_3B = "2"
+B_HR = "4"
+B_SH = "7"
+B_SB = "15"
+B_BB = "43"
+B_HP = "2"
+B_RBI = "42"
+B_SO = "45"
+B_AVG = ".259"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Letchas"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "142"
+B_AB = "523"
+B_R = "81"
+B_H = "135"
+B_TB = "161"
+B_2B = "14"
+B_3B = "3"
+B_HR = "2"
+B_SH = "21"
+B_SB = "15"
+B_BB = "55"
+B_HP = "6"
+B_RBI = "47"
+B_SO = "17"
+B_AVG = ".258"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Savage"
+name.given = "Donald"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "146"
+B_AB = "496"
+B_R = "72"
+B_H = "128"
+B_TB = "201"
+B_2B = "21"
+B_3B = "2"
+B_HR = "16"
+B_SH = "9"
+B_SB = "23"
+B_BB = "47"
+B_HP = "3"
+B_RBI = "74"
+B_SO = "90"
+B_AVG = ".258"
+B_CS = "13"
+
+
+[[person]]
+name.last = "Gruzdis"
+name.given = "James"
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "95"
+B_AB = "233"
+B_R = "32"
+B_H = "60"
+B_TB = "80"
+B_2B = "14"
+B_3B = "0"
+B_HR = "2"
+B_SH = "3"
+B_SB = "18"
+B_BB = "33"
+B_HP = "6"
+B_RBI = "36"
+B_SO = "25"
+B_AVG = ".258"
+B_CS = "4"
+
+
+[[person]]
+name.last = "East"
+name.given = "Gordon"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "16"
+B_AB = "31"
+B_R = "2"
+B_H = "8"
+B_TB = "10"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "5"
+B_AVG = ".258"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Chipman"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "38"
+B_AB = "74"
+B_R = "12"
+B_H = "19"
+B_TB = "22"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "15"
+B_AVG = ".257"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Naylor"
+name.given = "Earl"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "118"
+B_AB = "431"
+B_R = "63"
+B_H = "110"
+B_TB = "155"
+B_2B = "15"
+B_3B = "9"
+B_HR = "4"
+B_SH = "20"
+B_SB = "29"
+B_BB = "42"
+B_HP = "3"
+B_RBI = "57"
+B_SO = "51"
+B_AVG = ".255"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Tyack"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "41"
+B_AB = "146"
+B_R = "20"
+B_H = "37"
+B_TB = "53"
+B_2B = "5"
+B_3B = "1"
+B_HR = "3"
+B_SH = "3"
+B_SB = "4"
+B_BB = "18"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "9"
+B_AVG = ".253"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Mele"
+name.given = "Albert"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "132"
+B_AB = "449"
+B_R = "49"
+B_H = "113"
+B_TB = "160"
+B_2B = "19"
+B_3B = "2"
+B_HR = "8"
+B_SH = "6"
+B_SB = "6"
+B_BB = "71"
+B_HP = "2"
+B_RBI = "67"
+B_SO = "22"
+B_AVG = ".252"
+B_CS = "4"
+
+
+[[person]]
+name.last = "McLeod"
+name.given = "Jas."
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "83"
+B_AB = "282"
+B_R = "24"
+B_H = "71"
+B_TB = "85"
+B_2B = "14"
+B_3B = "0"
+B_HR = "0"
+B_SH = "12"
+B_SB = "3"
+B_BB = "22"
+B_HP = "1"
+B_RBI = "25"
+B_SO = "27"
+B_AVG = ".252"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Small"
+name.given = "Norman"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "53"
+B_AB = "168"
+B_R = "21"
+B_H = "42"
+B_TB = "66"
+B_2B = "10"
+B_3B = "1"
+B_HR = "4"
+B_SH = "1"
+B_SB = "0"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "32"
+B_AVG = ".250"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Corriden"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "29"
+B_AB = "84"
+B_R = "6"
+B_H = "21"
+B_TB = "29"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "8"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "15"
+B_AVG = ".250"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Schultz"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "31"
+B_AB = "68"
+B_R = "6"
+B_H = "17"
+B_TB = "17"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "1"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_AVG = ".250"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hartnett"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "16"
+B_AB = "16"
+B_R = "0"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "2"
+B_AVG = ".250"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kimball"
+name.given = "Leighton"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "143"
+B_AB = "508"
+B_R = "67"
+B_H = "126"
+B_TB = "177"
+B_2B = "26"
+B_3B = "5"
+B_HR = "5"
+B_SH = "6"
+B_SB = "6"
+B_BB = "48"
+B_HP = "1"
+B_RBI = "57"
+B_SO = "72"
+B_AVG = ".249"
+B_CS = "5"
+
+
+[[person]]
+name.last = "West"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "104"
+B_AB = "336"
+B_R = "36"
+B_H = "83"
+B_TB = "131"
+B_2B = "26"
+B_3B = "5"
+B_HR = "4"
+B_SH = "3"
+B_SB = "14"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "30"
+B_SO = "41"
+B_AVG = ".247"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Zak"
+name.given = "Frank"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "150"
+B_AB = "544"
+B_R = "101"
+B_H = "134"
+B_TB = "145"
+B_2B = "9"
+B_3B = "1"
+B_HR = "0"
+B_SH = "14"
+B_SB = "22"
+B_BB = "104"
+B_HP = "8"
+B_RBI = "22"
+B_SO = "46"
+B_AVG = ".246"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Barnhart"
+name.given = "Carl"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "120"
+B_AB = "342"
+B_R = "47"
+B_H = "84"
+B_TB = "110"
+B_2B = "10"
+B_3B = "2"
+B_HR = "4"
+B_SH = "18"
+B_SB = "4"
+B_BB = "34"
+B_HP = "0"
+B_RBI = "26"
+B_SO = "26"
+B_AVG = ".246"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Kelleher"
+name.given = "Francis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "108"
+B_AB = "375"
+B_R = "49"
+B_H = "92"
+B_TB = "143"
+B_2B = "16"
+B_3B = "1"
+B_HR = "11"
+B_SH = "2"
+B_SB = "6"
+B_BB = "58"
+B_HP = "2"
+B_RBI = "57"
+B_SO = "55"
+B_AVG = ".245"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Crompton"
+name.given = "Herbert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "95"
+B_AB = "269"
+B_R = "15"
+B_H = "66"
+B_TB = "87"
+B_2B = "13"
+B_3B = "1"
+B_HR = "2"
+B_SH = "4"
+B_SB = "2"
+B_BB = "22"
+B_HP = "1"
+B_RBI = "31"
+B_SO = "10"
+B_AVG = ".245"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Monaco"
+name.given = "Blas"
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "145"
+B_AB = "497"
+B_R = "81"
+B_H = "121"
+B_TB = "165"
+B_2B = "14"
+B_3B = "6"
+B_HR = "6"
+B_SH = "13"
+B_SB = "41"
+B_BB = "127"
+B_HP = "6"
+B_RBI = "42"
+B_SO = "80"
+B_AVG = ".243"
+B_CS = "7"
+
+
+[[person]]
+name.last = "Rocco"
+name.given = "Michael"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "32"
+B_AB = "111"
+B_R = "12"
+B_H = "27"
+B_TB = "37"
+B_2B = "4"
+B_3B = "0"
+B_HR = "2"
+B_SH = "4"
+B_SB = "0"
+B_BB = "22"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "22"
+B_AVG = ".243"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Heller"
+name.given = "Franklin"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "122"
+B_AB = "422"
+B_R = "43"
+B_H = "102"
+B_TB = "126"
+B_2B = "14"
+B_3B = "2"
+B_HR = "2"
+B_SH = "8"
+B_SB = "4"
+B_BB = "44"
+B_HP = "0"
+B_RBI = "44"
+B_SO = "32"
+B_AVG = ".242"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Koval"
+name.given = "Thomas"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "86"
+B_AB = "273"
+B_R = "32"
+B_H = "66"
+B_TB = "103"
+B_2B = "14"
+B_3B = "4"
+B_HR = "5"
+B_SH = "11"
+B_SB = "4"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "37"
+B_SO = "59"
+B_AVG = ".242"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Corbett"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "152"
+B_AB = "561"
+B_R = "77"
+B_H = "135"
+B_TB = "185"
+B_2B = "22"
+B_3B = "5"
+B_HR = "6"
+B_SH = "11"
+B_SB = "10"
+B_BB = "68"
+B_HP = "0"
+B_RBI = "56"
+B_SO = "37"
+B_AVG = ".241"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Handley"
+name.given = "Lee"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "84"
+B_AB = "290"
+B_R = "35"
+B_H = "70"
+B_TB = "87"
+B_2B = "11"
+B_3B = "3"
+B_HR = "0"
+B_SH = "18"
+B_SB = "4"
+B_BB = "26"
+B_HP = "0"
+B_RBI = "30"
+B_SO = "19"
+B_AVG = ".241"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Dewey"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "98"
+B_AB = "253"
+B_R = "27"
+B_H = "61"
+B_TB = "75"
+B_2B = "6"
+B_3B = "4"
+B_HR = "0"
+B_SH = "7"
+B_SB = "6"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "23"
+B_SO = "25"
+B_AVG = ".241"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Bero"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "55"
+B_AB = "199"
+B_R = "23"
+B_H = "48"
+B_TB = "74"
+B_2B = "11"
+B_3B = "3"
+B_HR = "3"
+B_SH = "2"
+B_SB = "5"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "27"
+B_SO = "22"
+B_AVG = ".241"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Contini"
+name.given = "Harold"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "20"
+B_AB = "54"
+B_R = "6"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "7"
+B_AVG = ".241"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Del Savio"
+name.given = "Garton"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "148"
+B_AB = "530"
+B_R = "43"
+B_H = "127"
+B_TB = "142"
+B_2B = "7"
+B_3B = "4"
+B_HR = "0"
+B_SH = "8"
+B_SB = "7"
+B_BB = "45"
+B_HP = "2"
+B_RBI = "45"
+B_SO = "29"
+B_AVG = ".240"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Tiedemann"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "119"
+B_AB = "392"
+B_R = "48"
+B_H = "94"
+B_TB = "105"
+B_2B = "8"
+B_3B = "0"
+B_HR = "1"
+B_SH = "9"
+B_SB = "9"
+B_BB = "44"
+B_HP = "1"
+B_RBI = "37"
+B_SO = "49"
+B_AVG = ".240"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Mackiewicz"
+name.given = "Felix"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "109"
+B_AB = "375"
+B_R = "47"
+B_H = "90"
+B_TB = "115"
+B_2B = "10"
+B_3B = "3"
+B_HR = "3"
+B_SH = "7"
+B_SB = "9"
+B_BB = "29"
+B_HP = "0"
+B_RBI = "41"
+B_SO = "53"
+B_AVG = ".240"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Alston"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "115"
+B_AB = "313"
+B_R = "37"
+B_H = "75"
+B_TB = "106"
+B_2B = "12"
+B_3B = "2"
+B_HR = "5"
+B_SH = "3"
+B_SB = "7"
+B_BB = "44"
+B_HP = "1"
+B_RBI = "40"
+B_SO = "37"
+B_AVG = ".240"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Goldstein"
+name.given = "Leslie"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "42"
+B_AB = "121"
+B_R = "16"
+B_H = "29"
+B_TB = "42"
+B_2B = "8"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SB = "2"
+B_BB = "17"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "14"
+B_AVG = ".240"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Burmeister"
+name.given = "Gerald"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "122"
+B_AB = "381"
+B_R = "36"
+B_H = "91"
+B_TB = "130"
+B_2B = "17"
+B_3B = "5"
+B_HR = "4"
+B_SH = "9"
+B_SB = "2"
+B_BB = "43"
+B_HP = "1"
+B_RBI = "44"
+B_SO = "27"
+B_AVG = ".239"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Antonio"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "68"
+B_AB = "184"
+B_R = "14"
+B_H = "44"
+B_TB = "53"
+B_2B = "2"
+B_3B = "2"
+B_HR = "1"
+B_SH = "3"
+B_SB = "7"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "18"
+B_SO = "25"
+B_AVG = ".239"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Rice"
+name.given = "Leonard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "75"
+B_AB = "240"
+B_R = "21"
+B_H = "57"
+B_TB = "71"
+B_2B = "5"
+B_3B = "0"
+B_HR = "3"
+B_SH = "3"
+B_SB = "14"
+B_BB = "15"
+B_HP = "2"
+B_RBI = "26"
+B_SO = "14"
+B_AVG = ".238"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Sturdy"
+name.given = "Maurice"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "29"
+B_AB = "101"
+B_R = "11"
+B_H = "24"
+B_TB = "31"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "3"
+B_BB = "8"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "7"
+B_AVG = ".238"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "39"
+B_AB = "42"
+B_R = "6"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "2"
+B_AVG = ".238"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Wells"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "29"
+B_AB = "42"
+B_R = "5"
+B_H = "10"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "11"
+B_AVG = ".238"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kiner"
+name.given = "Ralph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "43"
+B_AB = "144"
+B_R = "22"
+B_H = "34"
+B_TB = "50"
+B_2B = "6"
+B_3B = "2"
+B_HR = "2"
+B_SH = "1"
+B_SB = "4"
+B_BB = "31"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "25"
+B_AVG = ".236"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Bell"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "153"
+B_AB = "510"
+B_R = "53"
+B_H = "120"
+B_TB = "137"
+B_2B = "10"
+B_3B = "2"
+B_HR = "1"
+B_SH = "24"
+B_SB = "4"
+B_BB = "80"
+B_HP = "1"
+B_RBI = "42"
+B_SO = "34"
+B_AVG = ".235"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Barnes"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "78"
+B_AB = "281"
+B_R = "43"
+B_H = "66"
+B_TB = "80"
+B_2B = "8"
+B_3B = "0"
+B_HR = "2"
+B_SH = "9"
+B_SB = "13"
+B_BB = "24"
+B_HP = "6"
+B_RBI = "14"
+B_SO = "25"
+B_AVG = ".235"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Howell"
+name.given = "Millard"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "60"
+B_AB = "115"
+B_R = "10"
+B_H = "27"
+B_TB = "41"
+B_2B = "4"
+B_3B = "2"
+B_HR = "2"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "24"
+B_AVG = ".235"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Moss"
+name.given = "Howard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "121"
+B_AB = "408"
+B_R = "40"
+B_H = "95"
+B_TB = "132"
+B_2B = "16"
+B_3B = "3"
+B_HR = "5"
+B_SH = "4"
+B_SB = "3"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "49"
+B_SO = "40"
+B_AVG = ".233"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Hiller"
+name.given = "Frank"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "28"
+B_AB = "60"
+B_R = "7"
+B_H = "14"
+B_TB = "14"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "7"
+B_AVG = ".233"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Becker"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "81"
+B_AB = "242"
+B_R = "21"
+B_H = "56"
+B_TB = "66"
+B_2B = "7"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "2"
+B_BB = "36"
+B_HP = "3"
+B_RBI = "21"
+B_SO = "30"
+B_AVG = ".231"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Castro"
+name.given = "Dominic"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "47"
+B_AB = "121"
+B_R = "6"
+B_H = "28"
+B_TB = "41"
+B_2B = "5"
+B_3B = "1"
+B_HR = "2"
+B_SH = "1"
+B_SB = "2"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "17"
+B_AVG = ".231"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Dornbush"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "11"
+B_AB = "13"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "3"
+B_AVG = ".231"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Everett"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "111"
+B_AB = "337"
+B_R = "23"
+B_H = "77"
+B_TB = "95"
+B_2B = "11"
+B_3B = "2"
+B_HR = "1"
+B_SH = "6"
+B_SB = "3"
+B_BB = "27"
+B_HP = "1"
+B_RBI = "26"
+B_SO = "39"
+B_AVG = ".229"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Swift"
+name.given = "Burton"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "48"
+B_AB = "35"
+B_R = "3"
+B_H = "8"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "14"
+B_AVG = ".229"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Bengoechea"
+name.given = "Adam"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "105"
+B_AB = "324"
+B_R = "32"
+B_H = "74"
+B_TB = "93"
+B_2B = "8"
+B_3B = "1"
+B_HR = "3"
+B_SH = "7"
+B_SB = "8"
+B_BB = "32"
+B_HP = "4"
+B_RBI = "21"
+B_SO = "34"
+B_AVG = ".228"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Repass"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "82"
+B_AB = "316"
+B_R = "51"
+B_H = "88"
+B_TB = "132"
+B_2B = "22"
+B_3B = "2"
+B_HR = "6"
+B_SH = "7"
+B_SB = "7"
+B_BB = "35"
+B_HP = "0"
+B_RBI = "47"
+B_SO = "27"
+B_AVG = ".228"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Garbark"
+name.given = "Michael"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "116"
+B_AB = "326"
+B_R = "40"
+B_H = "74"
+B_TB = "97"
+B_2B = "5"
+B_3B = "0"
+B_HR = "6"
+B_SH = "5"
+B_SB = "5"
+B_BB = "66"
+B_HP = "0"
+B_RBI = "40"
+B_SO = "23"
+B_AVG = ".227"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Bejma"
+name.given = "Aloysius"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "46"
+B_AB = "133"
+B_R = "19"
+B_H = "30"
+B_TB = "39"
+B_2B = "4"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "1"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "16"
+B_AVG = ".226"
+B_CS = "6"
+
+
+[[person]]
+name.last = "Pare"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "52"
+B_AB = "124"
+B_R = "13"
+B_H = "28"
+B_TB = "37"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_SH = "6"
+B_SB = "0"
+B_BB = "33"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "22"
+B_AVG = ".226"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Steiner"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "112"
+B_AB = "342"
+B_R = "26"
+B_H = "77"
+B_TB = "99"
+B_2B = "8"
+B_3B = "1"
+B_HR = "4"
+B_SH = "9"
+B_SB = "0"
+B_BB = "34"
+B_HP = "0"
+B_RBI = "36"
+B_SO = "17"
+B_AVG = ".225"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Held"
+name.given = "Herschel"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "51"
+B_AB = "173"
+B_R = "15"
+B_H = "39"
+B_TB = "49"
+B_2B = "6"
+B_3B = "2"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "17"
+B_AVG = ".225"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Wertz"
+name.given = "Victor"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "18"
+B_AB = "18"
+B_R = "3"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_AVG = ".222"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Collins"
+name.given = "Wayne"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "13"
+B_AB = "9"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "3"
+B_AVG = ".222"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Drew"
+name.given = "Daniel"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "86"
+B_AB = "262"
+B_R = "23"
+B_H = "58"
+B_TB = "64"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "5"
+B_BB = "19"
+B_HP = "1"
+B_RBI = "21"
+B_SO = "8"
+B_AVG = ".221"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Buzas"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "148"
+B_AB = "509"
+B_R = "50"
+B_H = "112"
+B_TB = "133"
+B_2B = "11"
+B_3B = "2"
+B_HR = "2"
+B_SH = "16"
+B_SB = "24"
+B_BB = "29"
+B_HP = "1"
+B_RBI = "54"
+B_SO = "50"
+B_AVG = ".220"
+B_CS = "8"
+
+
+[[person]]
+name.last = "Clark"
+name.given = "Alfred"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "24"
+B_AB = "73"
+B_R = "2"
+B_H = "16"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "5"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "7"
+B_AVG = ".219"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Ankenman"
+name.given = "Fred"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "20"
+B_AB = "73"
+B_R = "6"
+B_H = "16"
+B_TB = "18"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "6"
+B_AVG = ".219"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Delbert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "151"
+B_AB = "550"
+B_R = "82"
+B_H = "120"
+B_TB = "139"
+B_2B = "17"
+B_3B = "1"
+B_HR = "0"
+B_SH = "20"
+B_SB = "23"
+B_BB = "80"
+B_HP = "3"
+B_RBI = "45"
+B_SO = "37"
+B_AVG = ".218"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Fleitas"
+name.given = "Andres"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "60"
+B_AB = "170"
+B_R = "16"
+B_H = "37"
+B_TB = "39"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "9"
+B_AVG = ".218"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Page"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "32"
+B_AB = "74"
+B_R = "5"
+B_H = "16"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "20"
+B_AVG = ".216"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Turchin"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "97"
+B_AB = "360"
+B_R = "42"
+B_H = "77"
+B_TB = "91"
+B_2B = "9"
+B_3B = "1"
+B_HR = "1"
+B_SH = "7"
+B_SB = "10"
+B_BB = "47"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "35"
+B_AVG = ".214"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Dews"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "13"
+B_AB = "42"
+B_R = "5"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "2"
+B_AVG = ".214"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Mizerak"
+name.given = "Steve"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "92"
+B_AB = "222"
+B_R = "14"
+B_H = "47"
+B_TB = "58"
+B_2B = "4"
+B_3B = "2"
+B_HR = "1"
+B_SH = "9"
+B_SB = "1"
+B_BB = "36"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "32"
+B_AVG = ".212"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Stroner"
+name.given = "Milton"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "17"
+B_AB = "52"
+B_R = "3"
+B_H = "11"
+B_TB = "20"
+B_2B = "3"
+B_3B = "3"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "4"
+B_AVG = ".212"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Spaulding"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "26"
+B_AB = "19"
+B_R = "1"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "1"
+B_AVG = ".211"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kerr"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "136"
+B_AB = "435"
+B_R = "38"
+B_H = "91"
+B_TB = "108"
+B_2B = "13"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SB = "9"
+B_BB = "45"
+B_HP = "3"
+B_RBI = "22"
+B_SO = "40"
+B_AVG = ".209"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Torres"
+name.given = "Jorges"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "100"
+B_AB = "378"
+B_R = "38"
+B_H = "79"
+B_TB = "103"
+B_2B = "12"
+B_3B = "3"
+B_HR = "2"
+B_SH = "6"
+B_SB = "8"
+B_BB = "21"
+B_HP = "4"
+B_RBI = "22"
+B_SO = "26"
+B_AVG = ".209"
+B_CS = "5"
+
+
+[[person]]
+name.last = "Shemo"
+name.given = "Stephen"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "22"
+B_AB = "53"
+B_R = "3"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".208"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Campanis"
+name.given = "Alex."
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "148"
+B_AB = "408"
+B_R = "57"
+B_H = "97"
+B_TB = "120"
+B_2B = "15"
+B_3B = "1"
+B_HR = "2"
+B_SH = "9"
+B_SB = "9"
+B_BB = "70"
+B_HP = "2"
+B_RBI = "44"
+B_SO = "71"
+B_AVG = ".207"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Barkley"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "18"
+B_AB = "58"
+B_R = "4"
+B_H = "12"
+B_TB = "15"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "13"
+B_AVG = ".207"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Damon"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "129"
+B_AB = "372"
+B_R = "38"
+B_H = "76"
+B_TB = "96"
+B_2B = "11"
+B_3B = "3"
+B_HR = "1"
+B_SH = "14"
+B_SB = "4"
+B_BB = "22"
+B_HP = "1"
+B_RBI = "23"
+B_SO = "27"
+B_AVG = ".204"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Silvanic"
+name.given = "Frank"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "88"
+B_AB = "225"
+B_R = "36"
+B_H = "46"
+B_TB = "74"
+B_2B = "8"
+B_3B = "1"
+B_HR = "6"
+B_SH = "7"
+B_SB = "1"
+B_BB = "44"
+B_HP = "3"
+B_RBI = "33"
+B_SO = "38"
+B_AVG = ".204"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Polli"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "37"
+B_AB = "69"
+B_R = "5"
+B_H = "14"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "14"
+B_AVG = ".203"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Giebell"
+name.given = "Floyd"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "35"
+B_AB = "90"
+B_R = "5"
+B_H = "18"
+B_TB = "26"
+B_2B = "5"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "8"
+B_AVG = ".200"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sczepkowski"
+name.given = "Theodore"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "62"
+B_AB = "196"
+B_R = "15"
+B_H = "39"
+B_TB = "56"
+B_2B = "5"
+B_3B = "3"
+B_HR = "2"
+B_SH = "4"
+B_SB = "2"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "20"
+B_AVG = ".199"
+B_CS = "4"
+
+
+[[person]]
+name.last = "Rice"
+name.given = "Delbert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "66"
+B_AB = "182"
+B_R = "14"
+B_H = "36"
+B_TB = "47"
+B_2B = "5"
+B_3B = "3"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "31"
+B_AVG = ".198"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Gromek"
+name.given = "Stephen"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "54"
+B_AB = "91"
+B_R = "9"
+B_H = "18"
+B_TB = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "2"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "15"
+B_AVG = ".198"
+B_CS = "0"
+
+
+[[person]]
+name.last = "McClure"
+name.given = "Oscar"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "23"
+B_AB = "82"
+B_R = "8"
+B_H = "16"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "7"
+B_AVG = ".195"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Ananicz"
+name.given = "Thos."
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "32"
+B_AB = "41"
+B_R = "3"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "11"
+B_AVG = ".195"
+B_CS = "0"
+
+
+[[person]]
+name.last = "McGarity"
+name.given = "Leslie"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "74"
+B_AB = "144"
+B_R = "9"
+B_H = "28"
+B_TB = "37"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "19"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "14"
+B_AVG = ".194"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Frost"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "18"
+B_AB = "31"
+B_R = "2"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "12"
+B_AVG = ".194"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Klieman"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "45"
+B_AB = "88"
+B_R = "9"
+B_H = "17"
+B_TB = "19"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "11"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "15"
+B_AVG = ".193"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "31"
+B_AB = "68"
+B_R = "6"
+B_H = "13"
+B_TB = "20"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "22"
+B_AVG = ".191"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Voiselle"
+name.given = "Wm."
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "40"
+B_AB = "74"
+B_R = "3"
+B_H = "14"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "19"
+B_AVG = ".189"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Holcombe"
+name.given = "Kenneth"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "28"
+B_AB = "53"
+B_R = "4"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "12"
+B_AVG = ".189"
+B_CS = "0"
+
+
+[[person]]
+name.last = "White"
+name.given = "Douglas"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "36"
+B_AB = "117"
+B_R = "8"
+B_H = "22"
+B_TB = "34"
+B_2B = "2"
+B_3B = "2"
+B_HR = "2"
+B_SH = "3"
+B_SB = "3"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "9"
+B_AVG = ".188"
+B_CS = "1"
+
+
+[[person]]
+name.last = "DeForge"
+name.given = "Bernard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "47"
+B_AB = "48"
+B_R = "4"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "11"
+B_AVG = ".188"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Dietz"
+name.given = "Lloyd"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "10"
+B_AB = "16"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "1"
+B_AVG = ".188"
+B_CS = "0"
+
+
+[[person]]
+name.last = "McNair"
+name.given = "Gerald"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "121"
+B_AB = "360"
+B_R = "38"
+B_H = "67"
+B_TB = "84"
+B_2B = "12"
+B_3B = "1"
+B_HR = "1"
+B_SH = "8"
+B_SB = "3"
+B_BB = "42"
+B_HP = "2"
+B_RBI = "25"
+B_SO = "70"
+B_AVG = ".186"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Overman"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "20"
+B_AB = "59"
+B_R = "3"
+B_H = "11"
+B_TB = "14"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "8"
+B_AVG = ".186"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Van Slate"
+name.given = "Rolland"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "50"
+B_AB = "66"
+B_R = "3"
+B_H = "12"
+B_TB = "17"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "6"
+B_SB = "0"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "15"
+B_AVG = ".182"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Konstanty"
+name.given = "Casimir"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "29"
+B_AB = "55"
+B_R = "4"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "16"
+B_AVG = ".182"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Viers"
+name.given = "Ray"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "41"
+B_AB = "144"
+B_R = "15"
+B_H = "26"
+B_TB = "28"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SB = "2"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "22"
+B_AVG = ".181"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Hudson"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "89"
+B_AB = "300"
+B_R = "36"
+B_H = "53"
+B_TB = "66"
+B_2B = "7"
+B_3B = "3"
+B_HR = "0"
+B_SH = "4"
+B_SB = "8"
+B_BB = "44"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "48"
+B_AVG = ".177"
+B_CS = "3"
+
+
+[[person]]
+name.last = "Carter"
+name.given = "Arnold"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "35"
+B_AB = "80"
+B_R = "4"
+B_H = "14"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "17"
+B_AVG = ".175"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Webb"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "14"
+B_AB = "23"
+B_R = "4"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".174"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Calvert"
+name.given = "Paul"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "19"
+B_AB = "29"
+B_R = "4"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "10"
+B_AVG = ".172"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Rochelli"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "18"
+B_AB = "35"
+B_R = "6"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "10"
+B_AVG = ".171"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Mauch"
+name.given = "Gene"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "31"
+B_AB = "77"
+B_R = "5"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "5"
+B_AVG = ".169"
+B_CS = "2"
+
+
+[[person]]
+name.last = "Sherer"
+name.given = "Alfred"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "42"
+B_AB = "72"
+B_R = "1"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "15"
+B_AVG = ".167"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Bartleson"
+name.given = "Horatio"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "28"
+B_AB = "48"
+B_R = "4"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "6"
+B_AVG = ".167"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sunkel"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "23"
+B_AB = "42"
+B_R = "2"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "12"
+B_AVG = ".167"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Gentry"
+name.given = "Ruffus"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "42"
+B_AB = "103"
+B_R = "9"
+B_H = "17"
+B_TB = "22"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "9"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "19"
+B_AVG = ".165"
+B_CS = "0"
+
+
+[[person]]
+name.last = "de la Cruz"
+name.given = "Tomas"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "37"
+B_AB = "91"
+B_R = "3"
+B_H = "15"
+B_TB = "15"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "26"
+B_AVG = ".165"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Donnelly"
+name.given = "Sylvester"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "29"
+B_AB = "63"
+B_R = "2"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "17"
+B_AVG = ".159"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Ott"
+name.given = "Albert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "29"
+B_AB = "19"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "9"
+B_AVG = ".158"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Washburn"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "25"
+B_AB = "39"
+B_R = "6"
+B_H = "6"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "7"
+B_AVG = ".154"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Lorenz"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "11"
+B_AB = "13"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "0"
+B_AVG = ".154"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hopper"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "36"
+B_AB = "73"
+B_R = "4"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "2"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "17"
+B_AVG = ".151"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Gregg"
+name.given = "Harold"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "26"
+B_AB = "53"
+B_R = "3"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "14"
+B_AVG = ".151"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Burkart"
+name.given = "Elmer"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "33"
+B_AB = "40"
+B_R = "1"
+B_H = "6"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "13"
+B_AVG = ".150"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Marleau"
+name.given = "Charles"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "42"
+B_AB = "14"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_AVG = ".143"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Lloyd"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "18"
+B_AB = "7"
+B_R = "1"
+B_H = "1"
+B_TB = "2"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "1"
+B_AVG = ".143"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Lajeskie"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "24"
+B_AB = "85"
+B_R = "5"
+B_H = "12"
+B_TB = "16"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "23"
+B_AVG = ".141"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Flowers"
+name.given = "Wesley"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "32"
+B_AB = "78"
+B_R = "4"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".141"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Timko"
+name.given = "Andrew"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "30"
+B_AB = "57"
+B_R = "6"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "1"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "12"
+B_AVG = ".140"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Fischer"
+name.given = "Reuben"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "15"
+B_AB = "29"
+B_R = "1"
+B_H = "4"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "11"
+B_AVG = ".138"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Morrow"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "22"
+B_AB = "22"
+B_R = "4"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_AVG = ".136"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hamlin"
+name.given = "Luke"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "31"
+B_AB = "83"
+B_R = "5"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "22"
+B_AVG = ".133"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Roser"
+name.given = "Emerson"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "28"
+B_AB = "53"
+B_R = "1"
+B_H = "7"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "14"
+B_AVG = ".132"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Conger"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "22"
+B_AB = "53"
+B_R = "2"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "8"
+B_AVG = ".132"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Smoll"
+name.given = "Clyde"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "24"
+B_AB = "38"
+B_R = "4"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "20"
+B_AVG = ".132"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Jarlett"
+name.given = "Alfred"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "34"
+B_AB = "54"
+B_R = "4"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "14"
+B_AVG = ".130"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sakas"
+name.given = "Louis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "44"
+B_AB = "23"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "7"
+B_AVG = ".130"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Tising"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "43"
+B_AB = "82"
+B_R = "2"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "10"
+B_AVG = ".122"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Dubiel"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "39"
+B_AB = "66"
+B_R = "9"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "13"
+B_AVG = ".121"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sullivan"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "14"
+B_AB = "33"
+B_R = "3"
+B_H = "4"
+B_TB = "6"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "3"
+B_AVG = ".121"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Lollar"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "12"
+B_AB = "34"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".118"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Barley"
+name.given = "George"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "20"
+B_AB = "27"
+B_R = "5"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "11"
+B_AVG = ".111"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Cronin"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "31"
+B_AB = "75"
+B_R = "4"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "9"
+B_AVG = ".107"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Roxbury"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "31"
+B_AB = "28"
+B_R = "3"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "11"
+B_AVG = ".107"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Trinkle"
+name.given = "Kenneth"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "23"
+B_AB = "38"
+B_R = "0"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "13"
+B_AVG = ".105"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Strincevich"
+name.given = "Nicholas"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "35"
+B_AB = "77"
+B_R = "1"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "20"
+B_AVG = ".104"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Roscoe"
+name.given = "Michael"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "31"
+B_AB = "39"
+B_R = "4"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "4"
+B_AVG = ".103"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Wicker"
+name.given = "Kemp"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "35"
+B_AB = "63"
+B_R = "5"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".095"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Schmidt"
+name.given = "Frederick"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "34"
+B_AB = "65"
+B_R = "5"
+B_H = "6"
+B_TB = "9"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "25"
+B_AVG = ".092"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Trotter"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "39"
+B_AB = "64"
+B_R = "1"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "9"
+B_SB = "0"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "34"
+B_AVG = ".078"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hutchinson"
+name.given = "Ira"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "38"
+B_AB = "94"
+B_R = "5"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "33"
+B_AVG = ".075"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hewitt"
+name.given = "Murral"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "10"
+B_AB = "3"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Page"
+name.given = "Philip"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "17"
+B_AB = "4"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Ecker"
+name.given = "Sterling"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "26"
+B_AB = "7"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Blackburn"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "13"
+B_AB = "8"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Heuser"
+name.given = "Alvin"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "11"
+B_AB = "12"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Shuman"
+name.given = "Harry"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "22"
+B_AB = "13"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "6"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "McCabe"
+name.given = "Ralph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "13"
+B_AB = "14"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Parkhurst"
+name.given = "Lyle"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "25"
+B_AB = "14"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "5"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Babcock"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "8"
+B_AVG = ".138"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Sudol"
+name.given = "Edward"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "8"
+B_AVG = ".125"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Tiemann"
+name.given = "Jerome"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "8"
+B_AVG = ".040"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Waldstein"
+name.given = "Newton"
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "8"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Humphries"
+name.given = "Bertram"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "8"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Goldstein"
+name.given = "Sidney"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "8"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Shirley"
+name.given = "Alvis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "7"
+B_AVG = ".400"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Drescher"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "7"
+B_AVG = ".267"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Mueller"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "7"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Dyche"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "7"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Fair"
+name.given = "Woodrow"
+description.bats = "S"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "6"
+B_AVG = ".292"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Chipple"
+name.given = "Walter"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "6"
+B_AVG = ".250"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Bartolomei"
+name.given = "Francis"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "6"
+B_AVG = ".143"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Rabe"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "5"
+B_AVG = ".200"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Collins"
+name.given = "Stephen"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "5"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Grabowski"
+name.given = "Reginald"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".500"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Platek"
+name.given = "Stanley"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".273"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Fiore"
+name.given = "Timothy"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".250"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kardash"
+name.given = "Michael"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".091"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Barney"
+name.given = "Rex"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Cotelle"
+name.given = "Cosmo"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Harris"
+name.given = "William"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Weinschreider"
+name.given = "Elmer"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "4"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Dunlap"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "3"
+B_AVG = ".667"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Tryon"
+name.given = "Ned"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "3"
+B_AVG = ".300"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Blum"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "3"
+B_AVG = ".167"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Pinkston"
+name.given = "Roy"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "3"
+B_AVG = ".143"
+B_CS = "1"
+
+
+[[person]]
+name.last = "Roper"
+name.given = "Grover"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "3"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Jungels"
+name.given = "Kenneth"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "3"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Ginley"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "3"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Stockhauser"
+name.given = "Milton"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".333"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Lamitina"
+name.given = "Samuel"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".143"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Beal"
+name.given = "Floyd"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Eyrich"
+name.given = "George"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Farley"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Hausmann"
+name.given = "Clem"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Koney"
+name.given = "Norman"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kunis"
+name.given = "Peter"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Lohrey"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Rager"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Stephenson"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "Alphonse"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "2"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Bausewein"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Conboy"
+name.given = "James"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Gorman"
+name.given = "Herbert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Kenworthy"
+name.given = "Richard"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Moesch"
+name.given = "John"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Mulleavy"
+name.given = "Gregory"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Oates"
+name.given = "Philip"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Pacitto"
+name.given = "Fred"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Rolla"
+name.given = "Joseph"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Schaedler"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Vetter"
+name.given = "Robert"
+description.bats = "R"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rochester"
+[person.playing.totals]
+B_G = "1"
+B_AVG = ".000"
+B_CS = "0"
+
+
+[[person]]
+name.last = "Ananicz"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+B_G = "19"
+B_AB = "16"
+B_R = "1"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_AVG = ".250"
+B_CS = "0"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ananicz"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Toronto"
+B_G = "13"
+B_AB = "25"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".160"
+B_CS = "0"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brack"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+B_G = "58"
+B_AB = "194"
+B_R = "23"
+B_H = "60"
+B_TB = "91"
+B_2B = "8"
+B_3B = "7"
+B_HR = "8"
+B_SH = "6"
+B_SB = "2"
+B_BB = "27"
+B_HP = "0"
+B_RBI = "25"
+B_SO = "39"
+B_AVG = ".309"
+B_CS = "3"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brack"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+B_G = "68"
+B_AB = "229"
+B_R = "32"
+B_H = "60"
+B_TB = "75"
+B_2B = "7"
+B_3B = "4"
+B_HR = "0"
+B_SH = "5"
+B_SB = "2"
+B_BB = "31"
+B_HP = "0"
+B_RBI = "23"
+B_SO = "32"
+B_AVG = ".262"
+B_CS = "2"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hahn"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Buffalo"
+B_G = "82"
+B_AB = "205"
+B_R = "21"
+B_H = "56"
+B_TB = "88"
+B_2B = "11"
+B_3B = "0"
+B_HR = "7"
+B_SH = "2"
+B_SB = "2"
+B_BB = "32"
+B_HP = "2"
+B_RBI = "29"
+B_SO = "42"
+B_AVG = ".273"
+B_CS = "2"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hahn"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+B_G = "2"
+B_AB = "4"
+B_R = "1"
+B_H = "1"
+B_TB = "2"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_AVG = ".250"
+B_CS = "0"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McLeod"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Baltimore"
+B_G = "55"
+B_AB = "193"
+B_R = "16"
+B_H = "52"
+B_TB = "65"
+B_2B = "13"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SB = "3"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "21"
+B_SO = "17"
+B_AVG = ".269"
+B_CS = "2"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McLeod"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Newark"
+B_G = "28"
+B_AB = "89"
+B_R = "8"
+B_H = "19"
+B_TB = "20"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_AVG = ".213"
+B_CS = "2"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sunkel"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jersey City"
+B_G = "15"
+B_AB = "33"
+B_R = "1"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "7"
+B_AVG = ".212"
+B_CS = "0"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sunkel"
+[[person.playing]]
+season = "1943"
+league.name = "International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montreal"
+B_G = "8"
+B_AB = "9"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "5"
+B_AVG = ".000"
+B_CS = "0"
+[person.playing.totals]

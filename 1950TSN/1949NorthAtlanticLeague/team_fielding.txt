@@ -1,0 +1,134 @@
+[[team]]
+name = "Stroudsburg"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "117"
+F_PB = "17"
+F_PO = "3538"
+F_A = "1454"
+F_E = "234"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Bangor"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "129"
+F_PB = "19"
+F_PO = "3399"
+F_A = "1510"
+F_E = "239"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Peekskill"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "119"
+F_PB = "25"
+F_PO = "3493"
+F_A = "1491"
+F_E = "255"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Lebanon"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "109"
+F_PB = "20"
+F_PO = "3443"
+F_A = "1304"
+F_E = "250"
+F_PCT = ".950"
+F_TP = "0"
+
+
+[[team]]
+name = "Mahanoy City"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "119"
+F_PB = "17"
+F_PO = "3421"
+F_A = "1528"
+F_E = "290"
+F_PCT = ".945"
+F_TP = "0"
+
+
+[[team]]
+name = "Carbondale"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "115"
+F_PB = "26"
+F_PO = "3527"
+F_A = "1535"
+F_E = "306"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Carbondale"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_DP = "103"
+F_PB = "31"
+F_PO = "3265"
+F_A = "1490"
+F_E = "305"
+F_PCT = ".940"
+F_TP = "0"
+
+
+[[team]]
+name = "Nazareth"
+[[team.playing]]
+season = "1949"
+league.name = "North Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "98"
+F_PB = "29"
+F_PO = "3497"
+F_A = "1507"
+F_E = "330"
+F_PCT = ".938"
+F_TP = "0"

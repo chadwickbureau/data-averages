@@ -1,0 +1,102 @@
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3230"
+F_A = "1276"
+F_E = "227"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2883"
+F_A = "1112"
+F_E = "202"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Beatrice"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3061"
+F_A = "1479"
+F_E = "237"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3192"
+F_A = "1436"
+F_E = "254"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2804"
+F_A = "1258"
+F_E = "232"
+F_PCT = ".946"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2359"
+F_A = "1185"
+F_E = "220"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3183"
+F_A = "1512"
+F_E = "299"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1914"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2867"
+F_A = "1217"
+F_E = "264"
+F_PCT = ".939"

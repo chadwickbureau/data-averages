@@ -1,0 +1,124 @@
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "130"
+B_AB = "4142"
+B_R = "523"
+B_H = "1079"
+B_2B = "174"
+B_3B = "18"
+B_HR = "35"
+B_SB = "106"
+B_SH = "164"
+B_SO = "419"
+B_BB = "290"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4022"
+B_R = "476"
+B_H = "970"
+B_2B = "173"
+B_3B = "43"
+B_HR = "29"
+B_SB = "219"
+B_SH = "165"
+B_SO = "590"
+B_BB = "339"
+B_AVG = ".241"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "133"
+B_AB = "4393"
+B_R = "491"
+B_H = "1048"
+B_2B = "155"
+B_3B = "19"
+B_HR = "67"
+B_SB = "128"
+B_SH = "150"
+B_SO = "633"
+B_BB = "364"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4185"
+B_R = "462"
+B_H = "958"
+B_2B = "153"
+B_3B = "21"
+B_HR = "25"
+B_SB = "209"
+B_SH = "178"
+B_SO = "576"
+B_BB = "344"
+B_AVG = ".229"
+
+
+[[team]]
+name = "Suffolk"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4105"
+B_R = "435"
+B_H = "918"
+B_2B = "152"
+B_3B = "12"
+B_HR = "44"
+B_SB = "225"
+B_SH = "168"
+B_SO = "608"
+B_BB = "330"
+B_AVG = ".224"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1915"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "129"
+B_AB = "4085"
+B_R = "342"
+B_H = "904"
+B_2B = "128"
+B_3B = "18"
+B_HR = "26"
+B_SB = "157"
+B_SH = "152"
+B_SO = "527"
+B_BB = "278"
+B_AVG = ".221"

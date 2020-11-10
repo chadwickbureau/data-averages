@@ -1,0 +1,118 @@
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "3918"
+F_A = "1786"
+F_E = "233"
+F_TC = "5937"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "159"
+F_PO = "4194"
+F_A = "2019"
+F_E = "259"
+F_TC = "6472"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4106"
+F_A = "2366"
+F_E = "326"
+F_TC = "6798"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "159"
+F_PO = "4194"
+F_A = "2075"
+F_E = "322"
+F_TC = "6591"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_PO = "4162"
+F_A = "2115"
+F_E = "339"
+F_TC = "6616"
+F_PCT = ".948"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "157"
+F_PO = "3894"
+F_A = "1864"
+F_E = "319"
+F_TC = "6077"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "3958"
+F_A = "1912"
+F_E = "324"
+F_TC = "6194"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "3958"
+F_A = "1927"
+F_E = "341"
+F_TC = "6226"
+F_PCT = ".945"

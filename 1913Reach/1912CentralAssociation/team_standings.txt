@@ -1,0 +1,102 @@
+[[team]]
+name = "Ottumwa"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "48"
+R_PCT = ".622"
+R_RANK = "1"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "51"
+R_PCT = ".592"
+R_RANK = "2"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "72"
+R_L = "54"
+R_PCT = ".571"
+R_RANK = "3"
+
+
+[[team]]
+name = "Monmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "54"
+R_PCT = ".568"
+R_RANK = "4"
+
+
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "62"
+R_PCT = ".519"
+R_RANK = "5"
+
+
+[[team]]
+name = "Galesburg"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "67"
+R_PCT = ".477"
+R_RANK = "6"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "76"
+R_PCT = ".387"
+R_RANK = "7"
+
+
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1912"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "94"
+R_PCT = ".260"
+R_RANK = "8"

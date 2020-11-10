@@ -1,0 +1,110 @@
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3730"
+F_A = "1741"
+F_E = "266"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Denison"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "3313"
+F_A = "1505"
+F_E = "287"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Bonham"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "2902"
+F_A = "1284"
+F_E = "252"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Sherman"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3336"
+F_A = "1472"
+F_E = "309"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3395"
+F_A = "1455"
+F_E = "309"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Durant"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3026"
+F_A = "1180"
+F_E = "287"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Ardmore"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3432"
+F_A = "1742"
+F_E = "365"
+F_PCT = ".934"
+
+
+[[team]]
+name = "Hugo"
+[[team.playing]]
+season = "1913"
+league.name = "Texas-Oklahoma League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3229"
+F_A = "1619"
+F_E = "372"
+F_PCT = ".929"

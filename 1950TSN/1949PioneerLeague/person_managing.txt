@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Metro"
+name.given = "Charles"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Twin Falls"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Shepard"
+name.given = "Lawrence"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Billings"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lowe"
+name.given = "Walter"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pocatello"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "Rupert"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salt Lake City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bowman"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Great Falls"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Schulte"
+name.given = "Herman"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Ogden"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Stenger"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Boise"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Williamson"
+name.given = "Gordon"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Boise"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Babich"
+name.given = "John"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Idaho Falls"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Garland"
+name.given = "Louis"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Idaho Falls"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gabler"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "Pioneer League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Idaho Falls"
+S_ORDER = "3"
+[person.managing.totals]

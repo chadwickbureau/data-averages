@@ -1,0 +1,142 @@
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2960"
+F_A = "1528"
+F_E = "218"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2906"
+F_A = "1462"
+F_E = "283"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3150"
+F_A = "1496"
+F_E = "248"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Kankakee"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2952"
+F_A = "1342"
+F_E = "249"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Champaign"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2994"
+F_A = "1480"
+F_E = "268"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Streator"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2915"
+F_A = "1514"
+F_E = "280"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "56"
+F_TP = "1"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "67"
+F_TP = "0"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "73"
+F_TP = "0"
+
+
+[[team]]
+name = "Kankakee"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "70"
+F_TP = "1"
+
+
+[[team]]
+name = "Champaign"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "65"
+F_TP = "0"
+
+
+[[team]]
+name = "Streator"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_DP = "86"
+F_TP = "0"

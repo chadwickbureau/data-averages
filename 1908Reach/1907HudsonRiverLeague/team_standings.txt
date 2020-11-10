@@ -1,0 +1,50 @@
+[[team]]
+name = "Poughkeepsie"
+[[team.playing]]
+season = "1907"
+league.name = "Hudson River League"
+phase = "regular"
+[team.playing.totals]
+R_W = "17"
+R_L = "9"
+R_PCT = ".654"
+R_RANK = "1"
+
+
+[[team]]
+name = "Newburg"
+[[team.playing]]
+season = "1907"
+league.name = "Hudson River League"
+phase = "regular"
+[team.playing.totals]
+R_W = "14"
+R_L = "11"
+R_PCT = ".560"
+R_RANK = "2"
+
+
+[[team]]
+name = "Yonkers"
+[[team.playing]]
+season = "1907"
+league.name = "Hudson River League"
+phase = "regular"
+[team.playing.totals]
+R_W = "12"
+R_L = "12"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Hudson"
+[[team.playing]]
+season = "1907"
+league.name = "Hudson River League"
+phase = "regular"
+[team.playing.totals]
+R_W = "12"
+R_L = "12"
+R_PCT = ".500"
+R_RANK = "3"

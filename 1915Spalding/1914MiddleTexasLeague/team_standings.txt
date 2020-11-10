@@ -1,0 +1,180 @@
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "37"
+R_L = "14"
+R_PCT = ".725"
+R_RANK = "1"
+
+
+[[team]]
+name = "Georgetown"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "36"
+R_L = "14"
+R_PCT = ".720"
+R_RANK = "2"
+
+
+[[team]]
+name = "Brenham"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "33"
+R_L = "19"
+R_PCT = ".634"
+R_RANK = "3"
+
+
+[[team]]
+name = "Lampasas"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "20"
+R_L = "34"
+R_PCT = ".370"
+R_RANK = "4"
+
+
+[[team]]
+name = "Belton"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "19"
+R_L = "34"
+R_PCT = ".358"
+R_RANK = "5"
+
+
+[[team]]
+name = "Bartlett"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "10"
+R_L = "40"
+R_PCT = ".200"
+R_RANK = "6"
+
+
+[[team]]
+name = "Belton"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "18"
+R_L = "13"
+R_PCT = ".580"
+R_RANK = "1"
+
+
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "17"
+R_L = "13"
+R_PCT = ".556"
+R_RANK = "2"
+
+
+[[team]]
+name = "Brenham"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "17"
+R_L = "15"
+R_PCT = ".531"
+R_RANK = "3"
+
+
+[[team]]
+name = "Georgetown"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "14"
+R_L = "16"
+R_PCT = ".466"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lampasas"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "15"
+R_L = "17"
+R_PCT = ".449"
+R_RANK = "5"
+
+
+[[team]]
+name = "Bartlett"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "12"
+R_L = "15"
+R_PCT = ".387"
+R_RANK = "6"
+
+
+[[team]]
+name = "Belton"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "final"
+[team.playing.totals]
+R_W = "5"
+R_L = "1"
+R_PCT = ".833"
+R_RANK = "1"
+
+
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "5"
+R_PCT = ".167"
+R_RANK = "2"

@@ -1,0 +1,232 @@
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "42"
+R_L = "21"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "40"
+R_L = "23"
+R_PCT = ".635"
+R_RANK = "2"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "36"
+R_L = "25"
+R_PCT = ".590"
+R_RANK = "3"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "32"
+R_L = "31"
+R_PCT = ".508"
+R_RANK = "4"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "28"
+R_L = "35"
+R_PCT = ".444"
+R_RANK = "5"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "25"
+R_L = "36"
+R_PCT = ".410"
+R_RANK = "6"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "24"
+R_L = "39"
+R_PCT = ".381"
+R_RANK = "7"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "22"
+R_L = "39"
+R_PCT = ".361"
+R_RANK = "8"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "39"
+R_L = "21"
+R_PCT = ".650"
+R_RANK = "1"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "38"
+R_L = "23"
+R_PCT = ".623"
+R_RANK = "2"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "33"
+R_L = "28"
+R_PCT = ".541"
+R_RANK = "3"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "29"
+R_PCT = ".508"
+R_RANK = "4"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "28"
+R_L = "34"
+R_PCT = ".452"
+R_RANK = "5"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "28"
+R_L = "35"
+R_PCT = ".444"
+R_RANK = "6"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "24"
+R_L = "33"
+R_PCT = ".421"
+R_RANK = "7"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "22"
+R_L = "39"
+R_PCT = ".361"
+R_RANK = "8"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1914"
+league.name = "South Atlantic League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

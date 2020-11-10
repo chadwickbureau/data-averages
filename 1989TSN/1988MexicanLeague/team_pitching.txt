@@ -1,0 +1,348 @@
+[[team]]
+name = "Campeche"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.44"
+P_G = "129"
+P_CG = "36"
+P_SHO = "12"
+P_SV = "19"
+P_IP = "1060"
+P_H = "1094"
+P_R = "528"
+P_ER = "405"
+P_HR = "74"
+P_HP = "29"
+P_BB = "419"
+P_IBB = "32"
+P_SO = "527"
+P_WP = "63"
+P_BK = "4"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.45"
+P_G = "129"
+P_CG = "47"
+P_SHO = "17"
+P_SV = "20"
+P_IP = "1088"
+P_H = "1091"
+P_R = "480"
+P_ER = "417"
+P_HR = "72"
+P_HP = "32"
+P_BB = "447"
+P_IBB = "57"
+P_SO = "622"
+P_WP = "38"
+P_BK = "2"
+
+
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.70"
+P_G = "129"
+P_CG = "53"
+P_SHO = "18"
+P_SV = "11"
+P_IP = "1087.2"
+P_H = "1089"
+P_R = "534"
+P_ER = "447"
+P_HR = "94"
+P_HP = "29"
+P_BB = "491"
+P_IBB = "18"
+P_SO = "701"
+P_WP = "82"
+P_BK = "11"
+
+
+[[team]]
+name = "Yucatan"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.93"
+P_G = "127"
+P_CG = "40"
+P_SHO = "11"
+P_SV = "16"
+P_IP = "1063.2"
+P_H = "1114"
+P_R = "541"
+P_ER = "472"
+P_HR = "87"
+P_HP = "21"
+P_BB = "403"
+P_IBB = "23"
+P_SO = "489"
+P_WP = "44"
+P_BK = "3"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.09"
+P_G = "129"
+P_CG = "41"
+P_SHO = "14"
+P_SV = "21"
+P_IP = "1069.2"
+P_H = "1063"
+P_R = "532"
+P_ER = "486"
+P_HR = "90"
+P_HP = "41"
+P_BB = "471"
+P_IBB = "9"
+P_SO = "559"
+P_WP = "44"
+P_BK = "6"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.11"
+P_G = "131"
+P_CG = "32"
+P_SHO = "13"
+P_SV = "17"
+P_IP = "1062"
+P_H = "1094"
+P_R = "562"
+P_ER = "485"
+P_HR = "77"
+P_HP = "35"
+P_BB = "413"
+P_IBB = "34"
+P_SO = "732"
+P_WP = "71"
+P_BK = "8"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.43"
+P_G = "127"
+P_CG = "56"
+P_SHO = "12"
+P_SV = "19"
+P_IP = "1054"
+P_H = "1160"
+P_R = "597"
+P_ER = "519"
+P_HR = "85"
+P_HP = "50"
+P_BB = "512"
+P_IBB = "62"
+P_SO = "614"
+P_WP = "40"
+P_BK = "6"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.56"
+P_G = "132"
+P_CG = "45"
+P_SHO = "7"
+P_SV = "13"
+P_IP = "1080.2"
+P_H = "1274"
+P_R = "683"
+P_ER = "548"
+P_HR = "91"
+P_HP = "31"
+P_BB = "434"
+P_IBB = "68"
+P_SO = "579"
+P_WP = "50"
+P_BK = "8"
+
+
+[[team]]
+name = "Jalisco"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.72"
+P_G = "130"
+P_CG = "54"
+P_SHO = "7"
+P_SV = "16"
+P_IP = "1093"
+P_H = "1320"
+P_R = "654"
+P_ER = "573"
+P_HR = "86"
+P_HP = "20"
+P_BB = "326"
+P_IBB = "24"
+P_SO = "510"
+P_WP = "59"
+P_BK = "11"
+
+
+[[team]]
+name = "Tabasco"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.97"
+P_G = "130"
+P_CG = "26"
+P_SHO = "7"
+P_SV = "11"
+P_IP = "1051"
+P_H = "1317"
+P_R = "668"
+P_ER = "580"
+P_HR = "103"
+P_HP = "47"
+P_BB = "405"
+P_IBB = "66"
+P_SO = "431"
+P_WP = "43"
+P_BK = "9"
+
+
+[[team]]
+name = "Union Laguna"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "5.00"
+P_G = "130"
+P_CG = "22"
+P_SHO = "7"
+P_SV = "16"
+P_IP = "1090"
+P_H = "1288"
+P_R = "692"
+P_ER = "605"
+P_HR = "102"
+P_HP = "49"
+P_BB = "457"
+P_IBB = "66"
+P_SO = "577"
+P_WP = "73"
+P_BK = "6"
+
+
+[[team]]
+name = "San Luis Potosi"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "5.25"
+P_G = "126"
+P_CG = "24"
+P_SHO = "7"
+P_SV = "25"
+P_IP = "1036.1"
+P_H = "1204"
+P_R = "688"
+P_ER = "605"
+P_HR = "100"
+P_HP = "32"
+P_BB = "542"
+P_IBB = "55"
+P_SO = "560"
+P_WP = "61"
+P_BK = "13"
+
+
+[[team]]
+name = "Aguascalientes"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "5.58"
+P_G = "127"
+P_CG = "31"
+P_SHO = "3"
+P_SV = "15"
+P_IP = "1042.2"
+P_H = "1319"
+P_R = "761"
+P_ER = "646"
+P_HR = "124"
+P_HP = "39"
+P_BB = "434"
+P_IBB = "28"
+P_SO = "569"
+P_WP = "69"
+P_BK = "9"
+
+
+[[team]]
+name = "Monclova"
+[[team.playing]]
+season = "1988"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "5.80"
+P_G = "132"
+P_CG = "37"
+P_SHO = "8"
+P_SV = "16"
+P_IP = "1082"
+P_H = "1365"
+P_R = "789"
+P_ER = "697"
+P_HR = "128"
+P_HP = "42"
+P_BB = "513"
+P_IBB = "46"
+P_SO = "517"
+P_WP = "65"
+P_BK = "12"

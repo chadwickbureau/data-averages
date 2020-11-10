@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Bragan"
+name.given = "James"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bluefield"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Benjamin"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Johnson City"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dorton"
+name.given = "M. Lamar"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salem"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Grodzicki"
+name.given = "John"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wytheville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Himsel"
+name.given = "Avitus (Vedie)"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pulaski"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bottomley"
+name.given = "James"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pulaski"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "H. D. (Rube)"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pulaski"
+S_ORDER = "3"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Thurlby"
+name.given = "Burdette"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pulaski"
+S_ORDER = "4"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Drake"
+name.given = "Enid"
+[[person.managing]]
+season = "1957"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Kingsport"
+S_ORDER = "0"
+[person.managing.totals]

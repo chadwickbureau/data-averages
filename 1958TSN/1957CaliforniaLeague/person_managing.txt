@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Edwards"
+name.given = "C. Bruce"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Visalia"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Perry"
+name.given = "Raymond"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Reno"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Damon"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Modesto"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "Leo"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salinas"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Krueger"
+name.given = "William"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Salinas"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Whitman"
+name.given = "Dick"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Jose"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "Richard"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bakersfield"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Herman"
+name.given = "Floyd (Babe)"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Bakersfield"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Partee"
+name.given = "Roy"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Stockton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "LeBlanc"
+name.given = "Roland (Nat)"
+[[person.managing]]
+season = "1957"
+league.name = "California League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Fresno"
+S_ORDER = "0"
+[person.managing.totals]

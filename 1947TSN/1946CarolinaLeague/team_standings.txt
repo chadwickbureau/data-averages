@@ -1,0 +1,178 @@
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "57"
+R_PCT = ".599"
+R_RANK = "1"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "62"
+R_PCT = ".563"
+R_RANK = "2"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "62"
+R_PCT = ".563"
+R_RANK = "2"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "71"
+R_PCT = ".493"
+R_RANK = "4"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "72"
+R_PCT = ".486"
+R_RANK = "5"
+
+
+[[team]]
+name = "Martinsville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "75"
+R_PCT = ".472"
+R_RANK = "6"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "82"
+R_PCT = ".423"
+R_RANK = "7"
+
+
+[[team]]
+name = "Leaksville"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "85"
+R_PCT = ".401"
+R_RANK = "8"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1946"
+league.name = "Carolina League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"

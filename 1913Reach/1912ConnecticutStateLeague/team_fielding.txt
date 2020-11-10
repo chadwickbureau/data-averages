@@ -1,0 +1,82 @@
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_PO = "3237"
+F_A = "1489"
+F_E = "240"
+F_PCT = ".952"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_PO = "3306"
+F_A = "1691"
+F_E = "247"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3131"
+F_A = "1516"
+F_E = "254"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3297"
+F_A = "1717"
+F_E = "288"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_PO = "3042"
+F_A = "1461"
+F_E = "259"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1912"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_PO = "3162"
+F_A = "1544"
+F_E = "275"
+F_PCT = ".945"

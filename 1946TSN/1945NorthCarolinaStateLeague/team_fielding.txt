@@ -1,0 +1,142 @@
+[[team]]
+name = "Hickory"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "87"
+F_TP = "0"
+F_PB = "26"
+F_LOB = "842"
+F_PO = "3022"
+F_A = "1202"
+F_E = "241"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Mooresville"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_DP = "66"
+F_TP = "0"
+F_PB = "23"
+F_LOB = "815"
+F_PO = "2790"
+F_A = "1028"
+F_E = "236"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_DP = "68"
+F_TP = "0"
+F_PB = "15"
+F_LOB = "798"
+F_PO = "2982"
+F_A = "1194"
+F_E = "263"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Landis"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_DP = "76"
+F_TP = "1"
+F_PB = "21"
+F_LOB = "914"
+F_PO = "2848"
+F_A = "1082"
+F_E = "248"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_DP = "79"
+F_TP = "0"
+F_PB = "12"
+F_LOB = "945"
+F_PO = "2933"
+F_A = "1185"
+F_E = "271"
+F_PCT = ".938"
+
+
+[[team]]
+name = "Statesville"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "112"
+F_DP = "71"
+F_TP = "0"
+F_PB = "28"
+F_LOB = "824"
+F_PO = "2835"
+F_A = "1043"
+F_E = "261"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_DP = "81"
+F_TP = "0"
+F_PB = "27"
+F_LOB = "775"
+F_PO = "2769"
+F_A = "1092"
+F_E = "279"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Concord"
+[[team.playing]]
+season = "1945"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "114"
+F_DP = "74"
+F_TP = "0"
+F_PB = "25"
+F_LOB = "925"
+F_PO = "2847"
+F_A = "1133"
+F_E = "306"
+F_PCT = ".928"

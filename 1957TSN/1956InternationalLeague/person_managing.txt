@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Betzel"
+name.given = "Bruno"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Toronto"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Fred (Dixie)"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rochester"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Osborn"
+name.given = "Donald"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Miami"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mulleavy"
+name.given = "Gregory"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montreal"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lopat"
+name.given = "Edmund"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Richmond"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Otero"
+name.given = "Regino"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Havana"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Reyes"
+name.given = "Napoleon"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Havana"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cullop"
+name.given = "Henry (Nick)"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Columbus"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cavarretta"
+name.given = "Philip"
+[[person.managing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Buffalo"
+S_ORDER = "0"
+[person.managing.totals]

@@ -1,0 +1,106 @@
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5599"
+B_R = "872"
+B_H = "1480"
+B_2B = "220"
+B_3B = "83"
+B_HR = "45"
+B_SH = "227"
+B_SB = "289"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5386"
+B_R = "647"
+B_H = "1379"
+B_2B = "218"
+B_3B = "22"
+B_HR = "110"
+B_SH = "155"
+B_SB = "206"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5442"
+B_R = "779"
+B_H = "1385"
+B_2B = "195"
+B_3B = "65"
+B_HR = "46"
+B_SH = "205"
+B_SB = "291"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5473"
+B_R = "744"
+B_H = "1328"
+B_2B = "193"
+B_3B = "49"
+B_HR = "36"
+B_SH = "214"
+B_SB = "258"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5588"
+B_R = "567"
+B_H = "1299"
+B_2B = "173"
+B_3B = "65"
+B_HR = "52"
+B_SH = "113"
+B_SB = "119"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5339"
+B_R = "629"
+B_H = "1251"
+B_2B = "144"
+B_3B = "61"
+B_HR = "67"
+B_SH = "182"
+B_SB = "228"
+B_AVG = ".234"

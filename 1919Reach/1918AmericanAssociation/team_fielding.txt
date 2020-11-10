@@ -1,0 +1,126 @@
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "77"
+F_DP = "61"
+F_PB = "5"
+F_PO = "2044"
+F_A = "951"
+F_E = "121"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "74"
+F_DP = "63"
+F_PB = "8"
+F_PO = "1958"
+F_A = "931"
+F_E = "125"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "73"
+F_DP = "56"
+F_PB = "1"
+F_PO = "1966"
+F_A = "1028"
+F_E = "130"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "78"
+F_DP = "76"
+F_PB = "11"
+F_PO = "1980"
+F_A = "1059"
+F_E = "144"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "78"
+F_DP = "65"
+F_PB = "4"
+F_PO = "2077"
+F_A = "1062"
+F_E = "151"
+F_PCT = ".954"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "78"
+F_DP = "57"
+F_PB = "7"
+F_PO = "2102"
+F_A = "982"
+F_E = "153"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "77"
+F_DP = "82"
+F_PB = "2"
+F_PO = "1955"
+F_A = "1038"
+F_E = "152"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1918"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "77"
+F_DP = "40"
+F_PB = "5"
+F_PO = "2028"
+F_A = "954"
+F_E = "166"
+F_PCT = ".947"

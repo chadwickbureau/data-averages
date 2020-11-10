@@ -1,0 +1,9 @@
+[[person]]
+name.last = "Leard"
+[[person.managing]]
+season = "1920"
+league.name = "Pacific Coast International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Victoria"
+[person.managing.totals]

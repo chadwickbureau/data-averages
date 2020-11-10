@@ -1,0 +1,184 @@
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "101"
+R_L = "53"
+R_PCT = ".656"
+R_RANK = "1"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "100"
+R_L = "54"
+R_PCT = ".649"
+R_RANK = "2"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "61"
+R_PCT = ".601"
+R_RANK = "3"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "74"
+R_PCT = ".519"
+R_RANK = "4"
+
+
+[[team]]
+name = "Sherman-Denison"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "85"
+R_PCT = ".448"
+R_RANK = "5"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "87"
+R_PCT = ".428"
+R_RANK = "6"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "99"
+R_PCT = ".357"
+R_RANK = "7"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "101"
+R_PCT = ".340"
+R_RANK = "8"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_PCT = ".000"
+R_RANK = "2"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "Texarkana"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Wichita Falls"
+[[team.playing]]
+season = "1947"
+league.name = "Big State League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

@@ -1,0 +1,190 @@
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "5074"
+B_R = "765"
+B_H = "1381"
+B_TB = "2031"
+B_2B = "207"
+B_3B = "34"
+B_HR = "125"
+B_SH = "85"
+B_SB = "63"
+B_RBI = "692"
+B_BB = "568"
+B_SO = "512"
+B_HP = "36"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4931"
+B_R = "778"
+B_H = "1326"
+B_TB = "2043"
+B_2B = "236"
+B_3B = "29"
+B_HR = "141"
+B_SH = "82"
+B_SB = "75"
+B_RBI = "731"
+B_BB = "688"
+B_SO = "588"
+B_HP = "26"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5006"
+B_R = "772"
+B_H = "1332"
+B_TB = "2039"
+B_2B = "228"
+B_3B = "37"
+B_HR = "135"
+B_SH = "107"
+B_SB = "67"
+B_RBI = "718"
+B_BB = "614"
+B_SO = "549"
+B_HP = "19"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5095"
+B_R = "692"
+B_H = "1352"
+B_TB = "2099"
+B_2B = "180"
+B_3B = "60"
+B_HR = "149"
+B_SH = "79"
+B_SB = "44"
+B_RBI = "634"
+B_BB = "588"
+B_SO = "586"
+B_HP = "25"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "4934"
+B_R = "758"
+B_H = "1294"
+B_TB = "1829"
+B_2B = "203"
+B_3B = "37"
+B_HR = "86"
+B_SH = "88"
+B_SB = "93"
+B_RBI = "672"
+B_BB = "628"
+B_SO = "529"
+B_HP = "24"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4942"
+B_R = "630"
+B_H = "1267"
+B_TB = "1841"
+B_2B = "217"
+B_3B = "63"
+B_HR = "77"
+B_SH = "122"
+B_SB = "69"
+B_RBI = "573"
+B_BB = "502"
+B_SO = "634"
+B_HP = "26"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5019"
+B_R = "667"
+B_H = "1280"
+B_TB = "1971"
+B_2B = "172"
+B_3B = "36"
+B_HR = "149"
+B_SH = "63"
+B_SB = "80"
+B_RBI = "611"
+B_BB = "539"
+B_SO = "590"
+B_HP = "11"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4932"
+B_R = "547"
+B_H = "1230"
+B_TB = "1675"
+B_2B = "152"
+B_3B = "28"
+B_HR = "79"
+B_SH = "57"
+B_SB = "59"
+B_RBI = "482"
+B_BB = "597"
+B_SO = "547"
+B_HP = "19"
+B_AVG = ".249"

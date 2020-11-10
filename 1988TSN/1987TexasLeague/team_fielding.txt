@@ -1,0 +1,126 @@
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".974"
+F_G = "134"
+F_PO = "3555"
+F_A = "1480"
+F_E = "132"
+F_DP = "132"
+F_PB = "17"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".973"
+F_G = "136"
+F_PO = "3623"
+F_A = "1494"
+F_E = "142"
+F_DP = "125"
+F_PB = "18"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".973"
+F_G = "135"
+F_PO = "3537"
+F_A = "1504"
+F_E = "142"
+F_DP = "126"
+F_PB = "15"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".972"
+F_G = "136"
+F_PO = "3528"
+F_A = "1533"
+F_E = "145"
+F_DP = "120"
+F_PB = "23"
+
+
+[[team]]
+name = "Midland"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".969"
+F_G = "136"
+F_PO = "3616"
+F_A = "1470"
+F_E = "164"
+F_DP = "125"
+F_PB = "21"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".968"
+F_G = "134"
+F_PO = "3522"
+F_A = "1381"
+F_E = "162"
+F_DP = "118"
+F_PB = "14"
+
+
+[[team]]
+name = "Arkansas"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".966"
+F_G = "135"
+F_PO = "3487"
+F_A = "1420"
+F_E = "173"
+F_DP = "118"
+F_PB = "7"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+F_PCT = ".965"
+F_G = "136"
+F_PO = "3546"
+F_A = "1595"
+F_E = "185"
+F_DP = "139"
+F_PB = "21"

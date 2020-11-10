@@ -1,0 +1,110 @@
+[[team]]
+name = "Fort Dodge"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "94"
+F_PO = "2475"
+F_A = "1199"
+F_E = "155"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Mason City"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "93"
+F_PO = "2525"
+F_A = "1213"
+F_E = "167"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "93"
+F_PO = "2471"
+F_A = "1119"
+F_E = "162"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Charles City"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "95"
+F_PO = "2516"
+F_A = "1212"
+F_E = "172"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "73"
+F_PO = "1964"
+F_A = "946"
+F_E = "135"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Marshalltown"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "98"
+F_PO = "2626"
+F_A = "1217"
+F_E = "193"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "91"
+F_PO = "2407"
+F_A = "1142"
+F_E = "208"
+F_PCT = ".944"
+
+
+[[team]]
+name = "La Crosse"
+[[team.playing]]
+season = "1917"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "73"
+F_PO = "1873"
+F_A = "927"
+F_E = "165"
+F_PCT = ".944"

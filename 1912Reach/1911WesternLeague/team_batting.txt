@@ -1,0 +1,158 @@
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5686"
+B_R = "876"
+B_H = "1612"
+B_2B = "269"
+B_3B = "95"
+B_HR = "38"
+B_TB = "2185"
+B_SH = "275"
+B_SB = "174"
+B_RBI = "643"
+B_AVG = ".284"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5535"
+B_R = "890"
+B_H = "1558"
+B_2B = "202"
+B_3B = "109"
+B_HR = "64"
+B_TB = "2170"
+B_SH = "290"
+B_SB = "353"
+B_RBI = "590"
+B_AVG = ".281"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5488"
+B_R = "863"
+B_H = "1503"
+B_2B = "263"
+B_3B = "42"
+B_HR = "39"
+B_TB = "1967"
+B_SH = "248"
+B_SB = "279"
+B_RBI = "544"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5644"
+B_R = "781"
+B_H = "1510"
+B_2B = "224"
+B_3B = "97"
+B_HR = "36"
+B_TB = "2036"
+B_SH = "217"
+B_SB = "326"
+B_RBI = "497"
+B_AVG = ".268"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5281"
+B_R = "712"
+B_H = "1371"
+B_2B = "198"
+B_3B = "78"
+B_HR = "21"
+B_TB = "1788"
+B_SH = "198"
+B_SB = "351"
+B_RBI = "501"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5476"
+B_R = "698"
+B_H = "1416"
+B_2B = "221"
+B_3B = "73"
+B_HR = "40"
+B_TB = "1903"
+B_SH = "208"
+B_SB = "303"
+B_RBI = "454"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5537"
+B_R = "640"
+B_H = "1391"
+B_2B = "212"
+B_3B = "72"
+B_HR = "18"
+B_TB = "1801"
+B_SH = "130"
+B_SB = "163"
+B_RBI = "440"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1911"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5445"
+B_R = "577"
+B_H = "1287"
+B_2B = "145"
+B_3B = "81"
+B_HR = "12"
+B_TB = "1630"
+B_SH = "147"
+B_SB = "234"
+B_RBI = "352"
+B_AVG = ".236"

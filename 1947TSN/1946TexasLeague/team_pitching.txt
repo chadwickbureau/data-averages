@@ -1,0 +1,182 @@
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "158"
+P_IP = "1398"
+P_AB = "4928"
+P_R = "460"
+P_H = "1178"
+P_ER = "340"
+P_SH = "101"
+P_BB = "424"
+P_HP = "30"
+P_SO = "777"
+P_WP = "33"
+P_BK = "1"
+P_PCT = ".656"
+P_ERA = "2.19"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "155"
+P_IP = "1352"
+P_AB = "5176"
+P_R = "560"
+P_H = "1286"
+P_ER = "371"
+P_SH = "86"
+P_BB = "420"
+P_HP = "23"
+P_SO = "717"
+P_WP = "20"
+P_BK = "4"
+P_PCT = ".572"
+P_ERA = "2.47"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "155"
+P_IP = "1401"
+P_AB = "5657"
+P_R = "555"
+P_H = "1259"
+P_ER = "448"
+P_SH = "98"
+P_BB = "449"
+P_HP = "40"
+P_SO = "673"
+P_WP = "37"
+P_BK = "1"
+P_PCT = ".591"
+P_ERA = "2.88"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "157"
+P_IP = "1369"
+P_AB = "5102"
+P_R = "627"
+P_H = "1331"
+P_ER = "484"
+P_SH = "82"
+P_BB = "570"
+P_HP = "35"
+P_SO = "658"
+P_WP = "29"
+P_BK = "2"
+P_PCT = ".549"
+P_ERA = "3.19"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "155"
+P_IP = "1356"
+P_AB = "5090"
+P_R = "640"
+P_H = "1266"
+P_ER = "500"
+P_SH = "110"
+P_BB = "481"
+P_HP = "30"
+P_SO = "676"
+P_WP = "19"
+P_BK = "5"
+P_PCT = ".418"
+P_ERA = "3.32"
+
+
+[[team]]
+name = "Beamont"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "155"
+P_IP = "1348"
+P_AB = "5120"
+P_R = "644"
+P_H = "1335"
+P_ER = "518"
+P_SH = "87"
+P_BB = "455"
+P_HP = "33"
+P_SO = "579"
+P_WP = "19"
+P_BK = "5"
+P_PCT = ".458"
+P_ERA = "3.46"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "156"
+P_IP = "1370"
+P_AB = "5339"
+P_R = "720"
+P_H = "1415"
+P_ER = "576"
+P_SH = "117"
+P_BB = "580"
+P_HP = "34"
+P_SO = "637"
+P_WP = "48"
+P_BK = "3"
+P_PCT = ".399"
+P_ERA = "3.78"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1946"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+P_G = "155"
+P_IP = "1367"
+P_AB = "5138"
+P_R = "816"
+P_H = "1391"
+P_ER = "601"
+P_SH = "104"
+P_BB = "572"
+P_HP = "31"
+P_SO = "513"
+P_WP = "29"
+P_BK = "0"
+P_PCT = ".355"
+P_ERA = "3.96"

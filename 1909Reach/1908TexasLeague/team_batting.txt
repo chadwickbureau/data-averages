@@ -1,0 +1,94 @@
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4712"
+B_H = "1250"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4747"
+B_H = "1195"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4287"
+B_H = "1064"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Galveston"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4698"
+B_H = "1140"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4351"
+B_H = "1011"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4284"
+B_H = "978"
+B_AVG = ".228"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4796"
+B_H = "1077"
+B_AVG = ".225"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1908"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4278"
+B_H = "878"
+B_AVG = ".205"

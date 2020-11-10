@@ -1,0 +1,10 @@
+[[person]]
+name.last = "Dougherty"
+name.given = "R. R."
+[[person.managing]]
+season = "1920"
+league.name = "South Dakota League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Mitchell"
+[person.managing.totals]

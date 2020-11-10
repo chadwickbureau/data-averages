@@ -1,0 +1,50 @@
+[[team]]
+name = "Sumter"
+[[team.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "41"
+R_L = "27"
+R_PCT = ".603"
+R_RANK = "1"
+
+
+[[team]]
+name = "Chester"
+[[team.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "30"
+R_PCT = ".571"
+R_RANK = "2"
+
+
+[[team]]
+name = "Rock Hill"
+[[team.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "28"
+R_L = "40"
+R_PCT = ".412"
+R_RANK = "3"
+
+
+[[team]]
+name = "Orangeburg"
+[[team.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[team.playing.totals]
+R_W = "27"
+R_L = "39"
+R_PCT = ".409"
+R_RANK = "4"

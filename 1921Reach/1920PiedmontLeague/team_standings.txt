@@ -1,0 +1,180 @@
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "40"
+R_L = "20"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "32"
+R_L = "26"
+R_PCT = ".552"
+R_RANK = "2"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "31"
+R_L = "29"
+R_PCT = ".517"
+R_RANK = "3"
+
+
+[[team]]
+name = "High Point"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "27"
+R_L = "29"
+R_PCT = ".482"
+R_RANK = "4"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "24"
+R_L = "33"
+R_PCT = ".421"
+R_RANK = "5"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "21"
+R_L = "38"
+R_PCT = ".356"
+R_RANK = "6"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "35"
+R_L = "27"
+R_PCT = ".565"
+R_RANK = "1"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "35"
+R_L = "27"
+R_PCT = ".565"
+R_RANK = "2"
+
+
+[[team]]
+name = "High Point"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "28"
+R_PCT = ".517"
+R_RANK = "3"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "31"
+R_PCT = ".483"
+R_RANK = "4"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "32"
+R_PCT = ".475"
+R_RANK = "5"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "23"
+R_L = "36"
+R_PCT = ".390"
+R_RANK = "6"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_PCT = ".571"
+R_RANK = "1"
+
+
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1920"
+league.name = "Piedmont League"
+phase = "final"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_PCT = ".429"
+R_RANK = "2"

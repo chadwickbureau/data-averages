@@ -1,0 +1,82 @@
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2898"
+F_A = "1342"
+F_E = "171"
+F_TP = "0"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2891"
+F_A = "1433"
+F_E = "203"
+F_TP = "0"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2897"
+F_A = "1352"
+F_E = "206"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2826"
+F_A = "1382"
+F_E = "204"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2886"
+F_A = "1458"
+F_E = "217"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1914"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2815"
+F_A = "1547"
+F_E = "242"
+F_TP = "1"
+F_PCT = ".947"

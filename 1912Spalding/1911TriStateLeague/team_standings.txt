@@ -1,0 +1,102 @@
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "35"
+R_PCT = ".679"
+R_RANK = "1"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "46"
+R_PCT = ".586"
+R_RANK = "2"
+
+
+[[team]]
+name = "Johnstown"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "49"
+R_PCT = ".538"
+R_RANK = "3"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "54"
+R_PCT = ".500"
+R_RANK = "4"
+
+
+[[team]]
+name = "Altoona"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "56"
+R_PCT = ".477"
+R_RANK = "5"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "50"
+R_L = "58"
+R_PCT = ".463"
+R_RANK = "6"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "47"
+R_L = "61"
+R_PCT = ".435"
+R_RANK = "7"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "34"
+R_L = "73"
+R_PCT = ".318"
+R_RANK = "8"

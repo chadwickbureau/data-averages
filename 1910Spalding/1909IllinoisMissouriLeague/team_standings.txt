@@ -1,0 +1,76 @@
+[[team]]
+name = "Monmouth"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "50"
+R_PCT = ".606"
+R_RANK = "1"
+
+
+[[team]]
+name = "Beardstown"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "77"
+R_L = "52"
+R_PCT = ".597"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "73"
+R_L = "57"
+R_PCT = ".562"
+R_RANK = "3"
+
+
+[[team]]
+name = "Macomb"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "67"
+R_PCT = ".485"
+R_RANK = "4"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "79"
+R_PCT = ".392"
+R_RANK = "5"
+
+
+[[team]]
+name = "Galesburg"
+[[team.playing]]
+season = "1909"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+R_W = "47"
+R_L = "83"
+R_PCT = ".362"
+R_RANK = "6"

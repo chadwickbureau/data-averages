@@ -1,0 +1,126 @@
+[[team]]
+name = "Wilson"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3730"
+F_A = "1503"
+F_E = "257"
+F_DP = "99"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "Tarboro"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3687"
+F_A = "1656"
+F_E = "267"
+F_DP = "83"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Goldsboro"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3700"
+F_A = "1636"
+F_E = "284"
+F_DP = "120"
+F_PCT = ".949"
+F_TP = "1"
+
+
+[[team]]
+name = "Kinston"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3508"
+F_A = "1599"
+F_E = "306"
+F_DP = "101"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Roanoke Rapids"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3638"
+F_A = "1557"
+F_E = "318"
+F_DP = "128"
+F_PCT = ".942"
+F_TP = "0"
+
+
+[[team]]
+name = "New Bern"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3523"
+F_A = "1555"
+F_E = "317"
+F_DP = "130"
+F_PCT = ".941"
+F_TP = "0"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3419"
+F_A = "1317"
+F_E = "299"
+F_DP = "94"
+F_PCT = ".941"
+F_TP = "0"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1947"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3522"
+F_A = "1455"
+F_E = "355"
+F_DP = "80"
+F_PCT = ".933"
+F_TP = "0"

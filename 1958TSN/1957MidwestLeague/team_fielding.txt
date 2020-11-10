@@ -1,0 +1,134 @@
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_DP = "128"
+F_PB = "21"
+F_PO = "3225"
+F_A = "1308"
+F_E = "216"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Michigan City"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "125"
+F_PB = "50"
+F_PO = "3194"
+F_A = "1405"
+F_E = "244"
+F_PCT = ".950"
+F_TP = "2"
+
+
+[[team]]
+name = "Lafayette"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "90"
+F_PB = "38"
+F_PO = "3036"
+F_A = "1189"
+F_E = "234"
+F_PCT = ".948"
+F_TP = "0"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "93"
+F_PB = "27"
+F_PO = "3068"
+F_A = "1165"
+F_E = "230"
+F_PCT = ".948"
+F_TP = "0"
+
+
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "108"
+F_PB = "21"
+F_PO = "3057"
+F_A = "1094"
+F_E = "249"
+F_PCT = ".943"
+F_TP = "0"
+
+
+[[team]]
+name = "Kokomo"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_DP = "109"
+F_PB = "36"
+F_PO = "3208"
+F_A = "1238"
+F_E = "280"
+F_PCT = ".941"
+F_TP = "0"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "86"
+F_PB = "39"
+F_PO = "3127"
+F_A = "1218"
+F_E = "280"
+F_PCT = ".939"
+F_TP = "1"
+
+
+[[team]]
+name = "Mattoon"
+[[team.playing]]
+season = "1957"
+league.name = "Midwest League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "96"
+F_PB = "29"
+F_PO = "3083"
+F_A = "1131"
+F_E = "283"
+F_PCT = ".937"
+F_TP = "0"

@@ -1,0 +1,58 @@
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "183352"
+
+
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "103519"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "86451"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "74934"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "62982"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "46560"

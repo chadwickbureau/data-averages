@@ -1,0 +1,134 @@
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3710"
+F_A = "1486"
+F_E = "190"
+F_DP = "120"
+F_TP = "0"
+F_PB = "16"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3653"
+F_A = "1628"
+F_E = "196"
+F_DP = "159"
+F_TP = "0"
+F_PB = "14"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Ventura"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3658"
+F_A = "1462"
+F_E = "229"
+F_DP = "127"
+F_TP = "0"
+F_PB = "14"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Modesto"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3635"
+F_A = "1369"
+F_E = "231"
+F_DP = "121"
+F_TP = "0"
+F_PB = "11"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3641"
+F_A = "1389"
+F_E = "232"
+F_DP = "141"
+F_TP = "0"
+F_PB = "19"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3589"
+F_A = "1398"
+F_E = "244"
+F_DP = "125"
+F_TP = "0"
+F_PB = "15"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Visalia"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3674"
+F_A = "1455"
+F_E = "259"
+F_DP = "126"
+F_TP = "0"
+F_PB = "24"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Santa Barbara"
+[[team.playing]]
+season = "1950"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3642"
+F_A = "1444"
+F_E = "283"
+F_DP = "152"
+F_TP = "1"
+F_PB = "14"
+F_PCT = ".947"

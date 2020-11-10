@@ -1,0 +1,130 @@
+[[team]]
+name = "Morristown"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "103"
+B_AB = "3305"
+B_R = "449"
+B_H = "979"
+B_2B = "137"
+B_3B = "32"
+B_HR = "38"
+B_TB = "1294"
+B_SH = "134"
+B_SB = "166"
+B_BB = "214"
+B_SO = "446"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Rome"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "105"
+B_AB = "3407"
+B_R = "472"
+B_H = "931"
+B_2B = "152"
+B_3B = "33"
+B_HR = "29"
+B_TB = "1236"
+B_SH = "113"
+B_SB = "143"
+B_BB = "282"
+B_SO = "493"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "108"
+B_AB = "3614"
+B_R = "478"
+B_H = "977"
+B_2B = "173"
+B_3B = "48"
+B_HR = "35"
+B_TB = "1351"
+B_SH = "120"
+B_SB = "157"
+B_BB = "201"
+B_SO = "393"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Middlesboro"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "104"
+B_AB = "3290"
+B_R = "352"
+B_H = "820"
+B_2B = "148"
+B_3B = "41"
+B_HR = "16"
+B_TB = "1098"
+B_SH = "94"
+B_SB = "136"
+B_BB = "154"
+B_SO = "485"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "107"
+B_AB = "3305"
+B_R = "394"
+B_H = "810"
+B_2B = "125"
+B_3B = "49"
+B_HR = "3"
+B_TB = "1042"
+B_SH = "92"
+B_SB = "195"
+B_BB = "184"
+B_SO = "367"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1913"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+B_G = "105"
+B_AB = "3368"
+B_R = "382"
+B_H = "802"
+B_2B = "146"
+B_3B = "36"
+B_HR = "13"
+B_TB = "1059"
+B_SH = "93"
+B_SB = "186"
+B_BB = "195"
+B_SO = "567"
+B_AVG = ".238"

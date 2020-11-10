@@ -1,0 +1,102 @@
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "45"
+R_PCT = ".595"
+R_RANK = "1"
+
+
+[[team]]
+name = "Fremont"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "45"
+R_PCT = ".595"
+R_RANK = "1"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "48"
+R_PCT = ".571"
+R_RANK = "3"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "54"
+R_PCT = ".509"
+R_RANK = "4"
+
+
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "52"
+R_L = "58"
+R_PCT = ".473"
+R_RANK = "6"
+
+
+[[team]]
+name = "Seward"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "59"
+R_PCT = ".473"
+R_RANK = "5"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "45"
+R_L = "66"
+R_PCT = ".405"
+R_RANK = "7"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1912"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "42"
+R_L = "69"
+R_PCT = ".378"
+R_RANK = "8"

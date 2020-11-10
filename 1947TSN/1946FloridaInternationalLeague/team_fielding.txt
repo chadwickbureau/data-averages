@@ -1,0 +1,118 @@
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3600"
+F_A = "1725"
+F_E = "364"
+F_TC = "5158"
+F_DP = "114"
+F_TP = "0"
+F_LOB = "959"
+P_R = "422"
+F_PB = "22"
+F_PCT = ".936"
+
+
+[[team]]
+name = "West Palm Beach"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_PO = "3412"
+F_A = "1568"
+F_E = "322"
+F_TC = "5116"
+F_DP = "111"
+F_TP = "1"
+F_LOB = "1014"
+P_R = "603"
+F_PB = "32"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Lakeland"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3307"
+F_A = "1592"
+F_E = "307"
+F_TC = "5415"
+F_DP = "97"
+F_TP = "0"
+F_LOB = "989"
+P_R = "601"
+F_PB = "36"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Miami Beach"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3454"
+F_A = "1665"
+F_E = "296"
+F_TC = "5156"
+F_DP = "114"
+F_TP = "1"
+F_LOB = "990"
+P_R = "777"
+F_PB = "15"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Tampa"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3424"
+F_A = "1434"
+F_E = "258"
+F_TC = "5302"
+F_DP = "108"
+F_TP = "0"
+F_LOB = "947"
+P_R = "595"
+F_PB = "21"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Havana"
+[[team.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_PO = "3436"
+F_A = "1520"
+F_E = "202"
+F_TC = "5689"
+F_DP = "121"
+F_TP = "0"
+F_LOB = "997"
+P_R = "688"
+F_PB = "30"
+F_PCT = ".961"

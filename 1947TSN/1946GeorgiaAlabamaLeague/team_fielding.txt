@@ -1,0 +1,100 @@
+[[team]]
+name = "Newnan"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "73"
+F_TP = "0"
+F_PB = "6"
+F_PO = "3286"
+F_A = "1253"
+F_E = "202"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Carrollton"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "63"
+F_TP = "0"
+F_PB = "4"
+F_PO = "3252"
+F_A = "1298"
+F_E = "235"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Valley"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "74"
+F_TP = "0"
+F_PB = "20"
+F_PO = "3214"
+F_A = "1406"
+F_E = "247"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Tallassee"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "82"
+F_TP = "0"
+F_PB = "15"
+F_PO = "3271"
+F_A = "1245"
+F_E = "246"
+F_PCT = ".948"
+
+
+[[team]]
+name = "LaGrange"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "57"
+F_TP = "0"
+F_PB = "4"
+F_PO = "3223"
+F_A = "1205"
+F_E = "277"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Opelika"
+[[team.playing]]
+season = "1946"
+league.name = "Georgia-Alabama League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_DP = "66"
+F_TP = "0"
+F_PB = "11"
+F_PO = "3262"
+F_A = "1312"
+F_E = "336"
+F_PCT = ".932"

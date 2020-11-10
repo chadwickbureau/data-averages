@@ -1,0 +1,66 @@
+[[team]]
+name = "Lenoir"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_DP = "92"
+F_TP = "1"
+F_PB = "6"
+F_PO = "2667"
+F_A = "1034"
+F_E = "162"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Mount Airy"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "105"
+F_DP = "61"
+F_TP = "0"
+F_PB = "4"
+F_PO = "2698"
+F_A = "1131"
+F_E = "188"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Radford"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "110"
+F_DP = "79"
+F_TP = "0"
+F_PB = "11"
+F_PO = "2853"
+F_A = "1121"
+F_E = "248"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Galax"
+[[team.playing]]
+season = "1946"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_DP = "61"
+F_TP = "1"
+F_PB = "17"
+F_PO = "2691"
+F_A = "1043"
+F_E = "327"
+F_PCT = ".919"

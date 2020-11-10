@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Riggleman"
+name.given = "Jim"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Arkansas"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Dyer"
+name.given = "Duffy"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "El Paso"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Ashford"
+name.given = "Tucker"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Jackson"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Oliveras"
+name.given = "Max"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Midland"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "LaRocque"
+name.given = "Gary"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "San Antonio"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mull"
+name.given = "Jack"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Shreveport"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Stearns"
+name.given = "Bill"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tulsa"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Steve"
+[[person.managing]]
+season = "1987"
+league.name = "Texas League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wichita"
+S_ORDER = "0"
+[person.managing.totals]

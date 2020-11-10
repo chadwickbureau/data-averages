@@ -1,0 +1,134 @@
+[[team]]
+name = "Ponca City"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "99"
+F_PB = "24"
+F_PO = "3234"
+F_A = "1307"
+F_E = "240"
+F_TP = "1"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Bartlesville"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "112"
+F_PB = "24"
+F_PO = "3238"
+F_A = "1412"
+F_E = "293"
+F_TP = "0"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Iola"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "91"
+F_PB = "33"
+F_PO = "3228"
+F_A = "1357"
+F_E = "292"
+F_TP = "0"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "127"
+F_PB = "20"
+F_PO = "3201"
+F_A = "1451"
+F_E = "297"
+F_TP = "1"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Chanute"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "109"
+F_PB = "23"
+F_PO = "3235"
+F_A = "1319"
+F_E = "296"
+F_TP = "0"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Carthage"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_DP = "93"
+F_PB = "20"
+F_PO = "3188"
+F_A = "1342"
+F_E = "312"
+F_TP = "0"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Independence"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "109"
+F_PB = "32"
+F_PO = "3242"
+F_A = "1324"
+F_E = "317"
+F_TP = "0"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Pittsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Kansas-Oklahoma-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "122"
+F_PB = "32"
+F_PO = "3184"
+F_A = "1432"
+F_E = "340"
+F_TP = "0"
+F_PCT = ".931"

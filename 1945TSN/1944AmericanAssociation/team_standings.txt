@@ -1,0 +1,178 @@
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "102"
+R_L = "51"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "95"
+R_L = "58"
+R_PCT = ".621"
+R_RANK = "2"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "63"
+R_PCT = ".574"
+R_RANK = "3"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "66"
+R_PCT = ".563"
+R_RANK = "4"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "86"
+R_L = "67"
+R_PCT = ".562"
+R_RANK = "5"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "93"
+R_PCT = ".380"
+R_RANK = "6"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "97"
+R_PCT = ".358"
+R_RANK = "7"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "41"
+R_L = "110"
+R_PCT = ".272"
+R_RANK = "8"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "3"
+R_RANK = "1"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_RANK = "1"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1944"
+league.name = "American Association"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_RANK = "2"

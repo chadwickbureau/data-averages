@@ -1,0 +1,198 @@
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4684"
+B_R = "811"
+P_R = "584"
+B_H = "1345"
+B_TB = "1845"
+B_2B = "218"
+B_3B = "66"
+B_HR = "50"
+B_SH = "66"
+B_SB = "90"
+B_BB = "601"
+B_HP = "36"
+B_RBI = "704"
+B_SO = "521"
+B_AVG = ".287"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4626"
+B_R = "743"
+P_R = "606"
+B_H = "1324"
+B_TB = "1803"
+B_2B = "209"
+B_3B = "66"
+B_HR = "46"
+B_SH = "75"
+B_SB = "56"
+B_BB = "544"
+B_HP = "16"
+B_RBI = "659"
+B_SO = "527"
+B_AVG = ".286"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4543"
+B_R = "746"
+P_R = "601"
+B_H = "1262"
+B_TB = "1732"
+B_2B = "223"
+B_3B = "59"
+B_HR = "43"
+B_SH = "80"
+B_SB = "88"
+B_BB = "638"
+B_HP = "27"
+B_RBI = "665"
+B_SO = "427"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4702"
+B_R = "719"
+P_R = "657"
+B_H = "1261"
+B_TB = "1717"
+B_2B = "220"
+B_3B = "49"
+B_HR = "46"
+B_SH = "89"
+B_SB = "80"
+B_BB = "566"
+B_HP = "25"
+B_RBI = "644"
+B_SO = "571"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4639"
+B_R = "654"
+P_R = "802"
+B_H = "1218"
+B_TB = "1695"
+B_2B = "220"
+B_3B = "46"
+B_HR = "55"
+B_SH = "73"
+B_SB = "51"
+B_BB = "565"
+B_HP = "19"
+B_RBI = "574"
+B_SO = "596"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Williamsport"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4614"
+B_R = "721"
+P_R = "757"
+B_H = "1206"
+B_TB = "1708"
+B_2B = "197"
+B_3B = "58"
+B_HR = "63"
+B_SH = "78"
+B_SB = "69"
+B_BB = "626"
+B_HP = "28"
+B_RBI = "643"
+B_SO = "550"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4604"
+B_R = "626"
+P_R = "812"
+B_H = "1173"
+B_TB = "1689"
+B_2B = "195"
+B_3B = "51"
+B_HR = "73"
+B_SH = "63"
+B_SB = "67"
+B_BB = "500"
+B_HP = "32"
+B_RBI = "555"
+B_SO = "638"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1947"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4583"
+B_R = "560"
+P_R = "761"
+B_H = "1111"
+B_TB = "1512"
+B_2B = "197"
+B_3B = "45"
+B_HR = "38"
+B_SH = "81"
+B_SB = "67"
+B_BB = "540"
+B_HP = "13"
+B_RBI = "494"
+B_SO = "655"
+B_AVG = ".242"

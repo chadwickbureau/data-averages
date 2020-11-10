@@ -1,0 +1,158 @@
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5257"
+B_R = "767"
+B_H = "1468"
+B_TB = "1905"
+B_2B = "283"
+B_3B = "38"
+B_HR = "26"
+B_SH = "197"
+B_SB = "223"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "159"
+B_AB = "5257"
+B_R = "702"
+B_H = "1421"
+B_TB = "1829"
+B_2B = "220"
+B_3B = "73"
+B_HR = "14"
+B_SH = "239"
+B_SB = "185"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4899"
+B_R = "641"
+B_H = "1295"
+B_TB = "1617"
+B_2B = "181"
+B_3B = "45"
+B_HR = "17"
+B_SH = "161"
+B_SB = "215"
+B_AVG = ".264"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "157"
+B_AB = "4890"
+B_R = "567"
+B_H = "1278"
+B_TB = "1648"
+B_2B = "211"
+B_3B = "45"
+B_HR = "23"
+B_SH = "130"
+B_SB = "163"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4752"
+B_R = "505"
+B_H = "1210"
+B_TB = "1554"
+B_2B = "149"
+B_3B = "69"
+B_HR = "19"
+B_SH = "197"
+B_SB = "149"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "159"
+B_AB = "5607"
+B_R = "711"
+B_H = "1414"
+B_TB = "1765"
+B_2B = "179"
+B_3B = "62"
+B_HR = "16"
+B_SH = "156"
+B_SB = "208"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "153"
+B_AB = "4884"
+B_R = "602"
+B_H = "1230"
+B_TB = "1637"
+B_2B = "193"
+B_3B = "59"
+B_HR = "32"
+B_SH = "136"
+B_SB = "159"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1907"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4982"
+B_R = "621"
+B_H = "1198"
+B_TB = "1537"
+B_2B = "181"
+B_3B = "49"
+B_HR = "20"
+B_SH = "123"
+B_SB = "197"
+B_AVG = ".240"

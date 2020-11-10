@@ -1,0 +1,651 @@
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Cruz"
+[person.playing.totals]
+P_W = "26"
+P_L = "6"
+P_IP = "270"
+P_R = "192"
+P_H = "229"
+P_BB = "47"
+P_SO = "162"
+P_HP = "11"
+P_WP = "2"
+P_PCT = ".813"
+
+
+[[person]]
+name.last = "Hoag"
+name.given = "T."
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[[person.playing.split]]
+team.name = "Stockton"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "8"
+P_L = "3"
+P_IP = "110"
+P_R = "33"
+P_H = "87"
+P_BB = "43"
+P_SO = "27"
+P_HP = "3"
+P_WP = "3"
+P_PCT = ".727"
+
+
+[[person]]
+name.last = "Moskiman"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "31"
+P_L = "13"
+P_IP = "399"
+P_R = "108"
+P_H = "289"
+P_BB = "69"
+P_SO = "139"
+P_HP = "6"
+P_WP = "3"
+P_PCT = ".704"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "14"
+P_L = "7"
+P_IP = "192"
+P_R = "51"
+P_H = "159"
+P_BB = "28"
+P_SO = "67"
+P_HP = "3"
+P_WP = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Durham"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_W = "17"
+P_L = "9"
+P_IP = "220"
+P_R = "64"
+P_H = "199"
+P_BB = "48"
+P_SO = "92"
+P_HP = "8"
+P_WP = "2"
+P_PCT = ".654"
+
+
+[[person]]
+name.last = "Bloomfield"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "31"
+P_L = "17"
+P_IP = "439"
+P_R = "155"
+P_H = "328"
+P_BB = "146"
+P_SO = "208"
+P_HP = "30"
+P_WP = "9"
+P_PCT = ".646"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "9"
+P_L = "5"
+P_IP = "118"
+P_R = "42"
+P_H = "90"
+P_BB = "31"
+P_SO = "36"
+P_HP = "4"
+P_WP = "4"
+P_PCT = ".643"
+
+
+[[person]]
+name.last = "Fitzgerald"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_W = "6"
+P_L = "4"
+P_IP = "80"
+P_R = "27"
+P_H = "62"
+P_BB = "34"
+P_SO = "27"
+P_HP = "6"
+P_WP = "4"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Durham"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_W = "6"
+P_L = "4"
+P_IP = "80"
+P_R = "27"
+P_H = "83"
+P_BB = "18"
+P_SO = "27"
+P_HP = "3"
+P_WP = "1"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Butler"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Cruz"
+[person.playing.totals]
+P_W = "7"
+P_L = "5"
+P_IP = "132"
+P_R = "55"
+P_H = "113"
+P_BB = "24"
+P_SO = "76"
+P_HP = "5"
+P_WP = "4"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Egan"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_W = "18"
+P_L = "13"
+P_IP = "394"
+P_R = "96"
+P_H = "242"
+P_BB = "57"
+P_SO = "76"
+P_HP = "2"
+P_WP = "2"
+P_PCT = ".580"
+
+
+[[person]]
+name.last = "Bloomfield"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "11"
+P_L = "8"
+P_IP = "180"
+P_R = "67"
+P_H = "145"
+P_BB = "62"
+P_SO = "79"
+P_HP = "13"
+P_WP = "4"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "Stricklett"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_W = "19"
+P_L = "14"
+P_IP = "307"
+P_R = "85"
+P_H = "254"
+P_BB = "67"
+P_SO = "80"
+P_HP = "8"
+P_WP = "0"
+P_PCT = ".575"
+
+
+[[person]]
+name.last = "Loucks"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "21"
+P_L = "16"
+P_IP = "333"
+P_R = "113"
+P_H = "308"
+P_BB = "47"
+P_SO = "98"
+P_HP = "19"
+P_WP = "4"
+P_PCT = ".567"
+
+
+[[person]]
+name.last = "Henderson"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oakland"
+[person.playing.totals]
+P_W = "26"
+P_L = "25"
+P_IP = "450"
+P_R = "138"
+P_H = "346"
+P_BB = "68"
+P_SO = "329"
+P_HP = "18"
+P_WP = "6"
+P_PCT = ".509"
+
+
+[[person]]
+name.last = "Hopkins"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Cruz"
+[person.playing.totals]
+P_W = "16"
+P_L = "16"
+P_IP = "271"
+P_R = "117"
+P_H = "222"
+P_BB = "91"
+P_SO = "164"
+P_HP = "26"
+P_WP = "9"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Schimpff"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "13"
+P_L = "14"
+P_IP = "249"
+P_R = "95"
+P_H = "214"
+P_BB = "48"
+P_SO = "73"
+P_HP = "12"
+P_WP = "2"
+P_PCT = ".481"
+
+
+[[person]]
+name.last = "Gray"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[[person.playing.split]]
+team.name = "San Francisco"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_W = "11"
+P_L = "14"
+P_IP = "232"
+P_R = "92"
+P_H = "158"
+P_BB = "104"
+P_SO = "102"
+P_HP = "27"
+P_WP = "6"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Cooper"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_W = "14"
+P_L = "18"
+P_IP = "262"
+P_R = "134"
+P_H = "263"
+P_BB = "53"
+P_SO = "81"
+P_HP = "12"
+P_WP = "3"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "A."
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "11"
+P_L = "16"
+P_IP = "240"
+P_R = "96"
+P_H = "207"
+P_BB = "38"
+P_SO = "65"
+P_HP = "6"
+P_WP = "2"
+P_PCT = ".407"
+
+
+[[person]]
+name.last = "Trippett"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_W = "13"
+P_L = "21"
+P_IP = "276"
+P_R = "125"
+P_H = "223"
+P_BB = "155"
+P_SO = "90"
+P_HP = "29"
+P_WP = "8"
+P_PCT = ".382"
+
+
+[[person]]
+name.last = "Van Otterman"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Santa Cruz"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "6"
+P_L = "11"
+P_IP = "159"
+P_R = "92"
+P_H = "153"
+P_BB = "50"
+P_SO = "68"
+P_HP = "12"
+P_WP = "0"
+P_PCT = ".353"
+
+
+[[person]]
+name.last = "Forrester"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "7"
+P_L = "13"
+P_IP = "161"
+P_R = "64"
+P_H = "117"
+P_BB = "94"
+P_SO = "74"
+P_HP = "23"
+P_WP = "7"
+P_PCT = ".350"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "R."
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_W = "7"
+P_L = "14"
+P_IP = "196"
+P_R = "95"
+P_H = "177"
+P_BB = "38"
+P_SO = "57"
+P_HP = "8"
+P_WP = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Logan"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_W = "6"
+P_L = "13"
+P_IP = "161"
+P_R = "85"
+P_H = "142"
+P_BB = "56"
+P_SO = "41"
+P_HP = "10"
+P_WP = "1"
+P_PCT = ".316"
+
+
+[[person]]
+name.last = "Lane"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_W = "6"
+P_L = "14"
+P_IP = "168"
+P_R = "85"
+P_H = "138"
+P_BB = "82"
+P_SO = "91"
+P_HP = "16"
+P_WP = "15"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Heister"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[[person.playing.split]]
+team.name = "Sacramento"
+[person.playing.totals]
+P_W = "3"
+P_L = "8"
+P_IP = "132"
+P_R = "64"
+P_H = "119"
+P_BB = "48"
+P_SO = "34"
+P_HP = "3"
+P_WP = "5"
+P_PCT = ".272"
+
+
+[[person]]
+name.last = "Leonard"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_W = "4"
+P_L = "11"
+P_IP = "124"
+P_R = "66"
+P_H = "107"
+P_BB = "44"
+P_SO = "40"
+P_HP = "13"
+P_WP = "1"
+P_PCT = ".267"
+
+
+[[person]]
+name.last = "Hoag"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_W = "4"
+P_L = "11"
+P_IP = "121"
+P_R = "55"
+P_H = "110"
+P_BB = "36"
+P_SO = "24"
+P_HP = "1"
+P_WP = "2"
+P_PCT = ".267"
+
+
+[[person]]
+name.last = "Hester"
+[[person.playing]]
+season = "1909"
+league.name = "California League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Francisco"
+[person.playing.totals]
+P_W = "2"
+P_L = "10"
+P_IP = "95"
+P_R = "58"
+P_H = "115"
+P_BB = "12"
+P_SO = "23"
+P_HP = "5"
+P_WP = "2"
+P_PCT = ".167"

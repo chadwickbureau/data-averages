@@ -1,0 +1,100 @@
+[[team]]
+name = "Ensenada"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "90"
+F_PO = "2306"
+F_A = "1064"
+F_E = "142"
+F_DP = "84"
+F_PB = "16"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "San Luis Rio Colorado"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "92"
+F_PO = "2391"
+F_A = "999"
+F_E = "147"
+F_DP = "76"
+F_PB = "9"
+F_PCT = ".958"
+F_TP = "0"
+
+
+[[team]]
+name = "Nogales"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "90"
+F_PO = "2361"
+F_A = "1024"
+F_E = "156"
+F_DP = "88"
+F_PB = "23"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "Caborca"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "90"
+F_PO = "2258"
+F_A = "930"
+F_E = "162"
+F_DP = "85"
+F_PB = "30"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Puerto Penasco"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "91"
+F_PO = "2316"
+F_A = "1010"
+F_E = "185"
+F_DP = "68"
+F_PB = "15"
+F_PCT = ".947"
+F_TP = "0"
+
+
+[[team]]
+name = "Mexicali"
+[[team.playing]]
+season = "1969"
+league.name = "Mexican Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "91"
+F_PO = "2354"
+F_A = "962"
+F_E = "193"
+F_DP = "94"
+F_PB = "14"
+F_PCT = ".945"
+F_TP = "0"

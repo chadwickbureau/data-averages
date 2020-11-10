@@ -1,0 +1,126 @@
+[[team]]
+name = "Big Spring"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "96"
+F_PB = "18"
+F_PO = "3560"
+F_A = "1401"
+F_E = "275"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Odessa"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "149"
+F_PB = "19"
+F_PO = "3474"
+F_A = "1525"
+F_E = "292"
+F_PCT = ".945"
+
+
+[[team]]
+name = "San Angelo"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "80"
+F_PB = "20"
+F_PO = "3496"
+F_A = "1330"
+F_E = "293"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Ballinger"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "124"
+F_PB = "15"
+F_PO = "3546"
+F_A = "1508"
+F_E = "322"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "93"
+F_PB = "23"
+F_PO = "3548"
+F_A = "1625"
+F_E = "328"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Roswell"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "72"
+F_PB = "22"
+F_PO = "3419"
+F_A = "1496"
+F_E = "346"
+F_PCT = ".935"
+
+
+[[team]]
+name = "Midland"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "84"
+F_PB = "16"
+F_PO = "3552"
+F_A = "1543"
+F_E = "377"
+F_PCT = ".932"
+
+
+[[team]]
+name = "Sweetwater"
+[[team.playing]]
+season = "1949"
+league.name = "Longhorn League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "101"
+F_PB = "18"
+F_PO = "3535"
+F_A = "1406"
+F_E = "400"
+F_PCT = ".925"

@@ -1,0 +1,102 @@
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3553"
+F_A = "1613"
+F_E = "178"
+F_PCT = ".967"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3549"
+F_A = "1813"
+F_E = "189"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3230"
+F_A = "1423"
+F_E = "176"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3612"
+F_A = "1687"
+F_E = "212"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3549"
+F_A = "1810"
+F_E = "220"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3532"
+F_A = "1761"
+F_E = "231"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3552"
+F_A = "1571"
+F_E = "246"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1907"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3152"
+F_A = "1624"
+F_E = "226"
+F_PCT = ".955"

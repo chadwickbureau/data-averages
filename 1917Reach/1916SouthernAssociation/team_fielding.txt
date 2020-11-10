@@ -1,0 +1,110 @@
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3572"
+F_A = "1859"
+F_E = "182"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_PO = "3651"
+F_A = "1884"
+F_E = "192"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_PO = "3335"
+F_A = "1505"
+F_E = "185"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3490"
+F_A = "1670"
+F_E = "204"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3479"
+F_A = "1879"
+F_E = "213"
+F_PCT = ".962"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3388"
+F_A = "1637"
+F_E = "206"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3768"
+F_A = "2043"
+F_E = "252"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1916"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3300"
+F_A = "1698"
+F_E = "266"
+F_PCT = ".949"

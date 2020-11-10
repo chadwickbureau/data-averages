@@ -1,0 +1,1080 @@
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Racine"
+[person.playing.totals]
+P_G = "35"
+P_IP = "258"
+P_AB = "919"
+P_H = "199"
+P_R = "72"
+P_SO = "156"
+P_BB = "44"
+P_HP = "4"
+P_WP = "7"
+P_BK = "0"
+P_W = "21"
+P_L = "7"
+P_T = "0"
+P_TO = "1"
+P_GF = "6"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Maul"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Racine"
+[person.playing.totals]
+P_G = "9"
+P_IP = "73"
+P_AB = "250"
+P_H = "43"
+P_R = "20"
+P_SO = "30"
+P_BB = "13"
+P_HP = "1"
+P_WP = "0"
+P_BK = "1"
+P_W = "6"
+P_L = "2"
+P_T = "0"
+P_TO = "1"
+P_GF = "0"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Pickett"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Madison"
+[person.playing.totals]
+P_G = "11"
+P_IP = "95"
+P_AB = "355"
+P_H = "87"
+P_R = "35"
+P_SO = "57"
+P_BB = "12"
+P_HP = "5"
+P_WP = "0"
+P_BK = "0"
+P_W = "8"
+P_L = "3"
+P_T = "0"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".728"
+
+
+[[person]]
+name.last = "Hoffman"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "35"
+P_IP = "257"
+P_AB = "945"
+P_H = "218"
+P_R = "96"
+P_SO = "153"
+P_BB = "79"
+P_HP = "10"
+P_WP = "8"
+P_BK = "1"
+P_W = "20"
+P_L = "9"
+P_T = "0"
+P_TO = "4"
+P_GF = "2"
+P_PCT = ".689"
+
+
+[[person]]
+name.last = "Cantwell"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "24"
+P_IP = "155"
+P_AB = "569"
+P_H = "113"
+P_R = "58"
+P_SO = "145"
+P_BB = "70"
+P_HP = "10"
+P_WP = "13"
+P_BK = "0"
+P_W = "13"
+P_L = "6"
+P_T = "0"
+P_TO = "3"
+P_GF = "2"
+P_PCT = ".684"
+
+
+[[person]]
+name.last = "Palmer"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Racine"
+[person.playing.totals]
+P_G = "33"
+P_IP = "250"
+P_AB = "917"
+P_H = "208"
+P_R = "92"
+P_SO = "157"
+P_BB = "85"
+P_HP = "13"
+P_WP = "7"
+P_BK = "0"
+P_W = "16"
+P_L = "8"
+P_T = "1"
+P_TO = "0"
+P_GF = "8"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Caporal"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Racine"
+[person.playing.totals]
+P_G = "24"
+P_IP = "180"
+P_AB = "628"
+P_H = "123"
+P_R = "53"
+P_SO = "131"
+P_BB = "67"
+P_HP = "7"
+P_WP = "1"
+P_BK = "0"
+P_W = "14"
+P_L = "7"
+P_T = "2"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Jacks"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "40"
+P_IP = "291"
+P_AB = "1046"
+P_H = "227"
+P_R = "96"
+P_SO = "178"
+P_BB = "89"
+P_HP = "10"
+P_WP = "7"
+P_BK = "2"
+P_W = "23"
+P_L = "12"
+P_T = "0"
+P_TO = "0"
+P_GF = "5"
+P_PCT = ".656"
+
+
+[[person]]
+name.last = "Brady"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "31"
+P_IP = "224"
+P_AB = "807"
+P_H = "176"
+P_R = "82"
+P_SO = "174"
+P_BB = "88"
+P_HP = "16"
+P_WP = "5"
+P_BK = "1"
+P_W = "18"
+P_L = "10"
+P_T = "0"
+P_TO = "0"
+P_GF = "3"
+P_PCT = ".643"
+
+
+[[person]]
+name.last = "Marshall"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "13"
+P_IP = "106"
+P_AB = "386"
+P_H = "90"
+P_R = "38"
+P_SO = "45"
+P_BB = "19"
+P_HP = "2"
+P_WP = "5"
+P_BK = "0"
+P_W = "7"
+P_L = "4"
+P_T = "1"
+P_TO = "1"
+P_GF = "0"
+P_PCT = ".637"
+
+
+[[person]]
+name.last = "Wells"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "39"
+P_IP = "235"
+P_AB = "915"
+P_H = "246"
+P_R = "116"
+P_SO = "86"
+P_BB = "36"
+P_HP = "7"
+P_WP = "3"
+P_BK = "0"
+P_W = "18"
+P_L = "11"
+P_T = "0"
+P_TO = "3"
+P_GF = "7"
+P_PCT = ".621"
+
+
+[[person]]
+name.last = "Shackelford"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "32"
+P_IP = "263"
+P_AB = "927"
+P_H = "197"
+P_R = "75"
+P_SO = "199"
+P_BB = "52"
+P_HP = "8"
+P_WP = "7"
+P_BK = "0"
+P_W = "18"
+P_L = "11"
+P_T = "1"
+P_TO = "1"
+P_GF = "1"
+P_PCT = ".621"
+
+
+[[person]]
+name.last = "Swalm"
+name.given = "C."
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Madison"
+[person.playing.totals]
+P_G = "24"
+P_IP = "223"
+P_AB = "826"
+P_H = "205"
+P_R = "81"
+P_SO = "110"
+P_BB = "39"
+P_HP = "7"
+P_WP = "0"
+P_BK = "0"
+P_W = "14"
+P_L = "9"
+P_T = "1"
+P_TO = "0"
+P_GF = "0"
+P_PCT = ".609"
+
+
+[[person]]
+name.last = "Goodbred"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "34"
+P_IP = "260"
+P_AB = "960"
+P_H = "218"
+P_R = "100"
+P_SO = "206"
+P_BB = "53"
+P_HP = "11"
+P_WP = "2"
+P_BK = "0"
+P_W = "18"
+P_L = "12"
+P_T = "0"
+P_TO = "1"
+P_GF = "3"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Racine"
+[person.playing.totals]
+P_G = "21"
+P_IP = "149"
+P_AB = "509"
+P_H = "109"
+P_R = "45"
+P_SO = "106"
+P_BB = "51"
+P_HP = "5"
+P_WP = "3"
+P_BK = "1"
+P_W = "9"
+P_L = "6"
+P_T = "0"
+P_TO = "0"
+P_GF = "6"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Burnham"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "19"
+P_IP = "123"
+P_AB = "470"
+P_H = "129"
+P_R = "66"
+P_SO = "72"
+P_BB = "37"
+P_HP = "9"
+P_WP = "5"
+P_BK = "0"
+P_W = "7"
+P_L = "5"
+P_T = "0"
+P_TO = "5"
+P_GF = "2"
+P_PCT = ".584"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "A."
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Madison"
+[person.playing.totals]
+P_G = "34"
+P_IP = "278"
+P_AB = "1010"
+P_H = "228"
+P_R = "104"
+P_SO = "207"
+P_BB = "55"
+P_HP = "10"
+P_WP = "0"
+P_BK = "0"
+P_W = "19"
+P_L = "14"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".576"
+
+
+[[person]]
+name.last = "O'Cavina"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "35"
+P_IP = "240"
+P_AB = "818"
+P_H = "200"
+P_R = "118"
+P_SO = "104"
+P_BB = "106"
+P_HP = "20"
+P_WP = "5"
+P_BK = "2"
+P_W = "15"
+P_L = "12"
+P_T = "0"
+P_TO = "1"
+P_GF = "5"
+P_PCT = ".555"
+
+
+[[person]]
+name.last = "Sweet"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "16"
+P_IP = "119"
+P_AB = "465"
+P_H = "125"
+P_R = "49"
+P_SO = "91"
+P_BB = "33"
+P_HP = "7"
+P_WP = "3"
+P_BK = "0"
+P_W = "8"
+P_L = "7"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Ormsby"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "39"
+P_IP = "248"
+P_AB = "905"
+P_H = "212"
+P_R = "101"
+P_SO = "131"
+P_BB = "95"
+P_HP = "13"
+P_WP = "11"
+P_BK = "1"
+P_W = "14"
+P_L = "13"
+P_T = "0"
+P_TO = "4"
+P_GF = "8"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Wachtel"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "36"
+P_IP = "290"
+P_AB = "1087"
+P_H = "250"
+P_R = "109"
+P_SO = "142"
+P_BB = "67"
+P_HP = "11"
+P_WP = "8"
+P_BK = "0"
+P_W = "15"
+P_L = "15"
+P_T = "1"
+P_TO = "4"
+P_GF = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Boothby"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "40"
+P_IP = "288"
+P_AB = "1080"
+P_H = "244"
+P_R = "108"
+P_SO = "201"
+P_BB = "71"
+P_HP = "11"
+P_WP = "11"
+P_BK = "0"
+P_W = "15"
+P_L = "16"
+P_T = "0"
+P_TO = "0"
+P_GF = "9"
+P_PCT = ".484"
+
+
+[[person]]
+name.last = "Bryant"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "23"
+P_IP = "152"
+P_AB = "574"
+P_H = "142"
+P_R = "78"
+P_SO = "92"
+P_BB = "49"
+P_HP = "11"
+P_WP = "8"
+P_BK = "0"
+P_W = "8"
+P_L = "9"
+P_T = "0"
+P_TO = "1"
+P_GF = "4"
+P_PCT = ".471"
+
+
+[[person]]
+name.last = "Baillies"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "40"
+P_IP = "304"
+P_AB = "1078"
+P_H = "342"
+P_R = "163"
+P_SO = "164"
+P_BB = "57"
+P_HP = "10"
+P_WP = "8"
+P_BK = "1"
+P_W = "15"
+P_L = "17"
+P_T = "1"
+P_TO = "1"
+P_GF = "6"
+P_PCT = ".469"
+
+
+[[person]]
+name.last = "Malone"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Racine"
+[person.playing.totals]
+P_G = "19"
+P_IP = "111"
+P_AB = "304"
+P_H = "80"
+P_R = "53"
+P_SO = "75"
+P_BB = "51"
+P_HP = "6"
+P_WP = "4"
+P_BK = "1"
+P_W = "6"
+P_L = "7"
+P_T = "0"
+P_TO = "2"
+P_GF = "4"
+P_PCT = ".461"
+
+
+[[person]]
+name.last = "Scanlon"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Green Bay"
+[person.playing.totals]
+P_G = "36"
+P_IP = "259"
+P_AB = "990"
+P_H = "273"
+P_R = "153"
+P_SO = "143"
+P_BB = "75"
+P_HP = "7"
+P_WP = "7"
+P_BK = "0"
+P_W = "11"
+P_L = "13"
+P_T = "2"
+P_TO = "3"
+P_GF = "7"
+P_PCT = ".458"
+
+
+[[person]]
+name.last = "Noel"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fond du Lac"
+[person.playing.totals]
+P_G = "36"
+P_IP = "296"
+P_AB = "1103"
+P_H = "233"
+P_R = "112"
+P_SO = "201"
+P_BB = "99"
+P_HP = "22"
+P_WP = "13"
+P_BK = "0"
+P_W = "15"
+P_L = "18"
+P_T = "2"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Kench"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "29"
+P_IP = "209"
+P_AB = "803"
+P_H = "202"
+P_R = "101"
+P_SO = "96"
+P_BB = "42"
+P_HP = "5"
+P_WP = "6"
+P_BK = "0"
+P_W = "12"
+P_L = "15"
+P_T = "0"
+P_TO = "0"
+P_GF = "2"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Donaldson"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Madison"
+[person.playing.totals]
+P_G = "23"
+P_IP = "131"
+P_AB = "488"
+P_H = "124"
+P_R = "77"
+P_SO = "67"
+P_BB = "45"
+P_HP = "9"
+P_WP = "2"
+P_BK = "0"
+P_W = "7"
+P_L = "9"
+P_T = "0"
+P_TO = "2"
+P_GF = "4"
+P_PCT = ".437"
+
+
+[[person]]
+name.last = "Cristal"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "30"
+P_IP = "232"
+P_AB = "889"
+P_H = "223"
+P_R = "129"
+P_SO = "135"
+P_BB = "74"
+P_HP = "13"
+P_WP = "13"
+P_BK = "0"
+P_W = "12"
+P_L = "16"
+P_T = "0"
+P_TO = "0"
+P_GF = "2"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Friedley"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Madison"
+[person.playing.totals]
+P_G = "25"
+P_IP = "190"
+P_AB = "696"
+P_H = "160"
+P_R = "74"
+P_SO = "132"
+P_BB = "30"
+P_HP = "11"
+P_WP = "1"
+P_BK = "0"
+P_W = "9"
+P_L = "12"
+P_T = "0"
+P_TO = "2"
+P_GF = "2"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Hirsch"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rockford"
+[person.playing.totals]
+P_G = "19"
+P_IP = "140"
+P_AB = "519"
+P_H = "118"
+P_R = "54"
+P_SO = "94"
+P_BB = "49"
+P_HP = "4"
+P_WP = "8"
+P_BK = "0"
+P_W = "6"
+P_L = "9"
+P_T = "0"
+P_TO = "3"
+P_GF = "1"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Christman"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "9"
+P_IP = "53"
+P_AB = "212"
+P_H = "64"
+P_R = "28"
+P_SO = "31"
+P_BB = "9"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_W = "3"
+P_L = "5"
+P_T = "0"
+P_TO = "0"
+P_GF = "1"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Murphy"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "26"
+P_IP = "157"
+P_AB = "593"
+P_H = "158"
+P_R = "85"
+P_SO = "55"
+P_BB = "51"
+P_HP = "6"
+P_WP = "4"
+P_BK = "0"
+P_W = "7"
+P_L = "13"
+P_T = "0"
+P_TO = "1"
+P_GF = "4"
+P_PCT = ".350"
+
+
+[[person]]
+name.last = "Van Patter"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "27"
+P_IP = "217"
+P_AB = "788"
+P_H = "194"
+P_R = "96"
+P_SO = "156"
+P_BB = "72"
+P_HP = "4"
+P_WP = "9"
+P_BK = "0"
+P_W = "9"
+P_L = "17"
+P_T = "0"
+P_TO = "1"
+P_GF = "0"
+P_PCT = ".349"
+
+
+[[person]]
+name.last = "Graham"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Appleton"
+[person.playing.totals]
+P_G = "28"
+P_IP = "191"
+P_AB = "712"
+P_H = "172"
+P_R = "113"
+P_SO = "132"
+P_BB = "73"
+P_HP = "7"
+P_WP = "3"
+P_BK = "0"
+P_W = "7"
+P_L = "14"
+P_T = "0"
+P_TO = "2"
+P_GF = "5"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Juul"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "17"
+P_IP = "104"
+P_AB = "392"
+P_H = "115"
+P_R = "67"
+P_SO = "79"
+P_BB = "58"
+P_HP = "5"
+P_WP = "12"
+P_BK = "0"
+P_W = "4"
+P_L = "8"
+P_T = "0"
+P_TO = "3"
+P_GF = "2"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Carroll"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "38"
+P_IP = "260"
+P_AB = "1014"
+P_H = "271"
+P_R = "136"
+P_SO = "147"
+P_BB = "70"
+P_HP = "5"
+P_WP = "10"
+P_BK = "1"
+P_W = "8"
+P_L = "22"
+P_T = "1"
+P_TO = "1"
+P_GF = "6"
+P_PCT = ".266"
+
+
+[[person]]
+name.last = "Kirwan"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Oshkosh"
+[person.playing.totals]
+P_G = "15"
+P_IP = "82"
+P_AB = "296"
+P_H = "90"
+P_R = "50"
+P_SO = "32"
+P_BB = "34"
+P_HP = "9"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "6"
+P_T = "0"
+P_TO = "1"
+P_GF = "5"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Scholl"
+[[person.playing]]
+season = "1913"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wausau"
+[person.playing.totals]
+P_G = "15"
+P_IP = "94"
+P_AB = "375"
+P_H = "119"
+P_R = "62"
+P_SO = "26"
+P_BB = "18"
+P_HP = "2"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "10"
+P_T = "0"
+P_TO = "1"
+P_GF = "2"
+P_PCT = ".166"

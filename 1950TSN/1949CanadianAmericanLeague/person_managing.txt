@@ -1,0 +1,102 @@
+[[person]]
+name.last = "McCormick"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Quebec"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Popowski"
+name.given = "Edward"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Oneonta"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Scherger"
+name.given = "George"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Trois-Rivieres"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hasson"
+name.given = "Gene"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pittsfield"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Mayo"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Amsterdam"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cullinane"
+name.given = "James"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Gloversville-Johnstown"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Carter"
+name.given = "Richard"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Schenectady"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Smoll"
+name.given = "Clyde"
+[[person.managing]]
+season = "1949"
+league.name = "Canadian-American League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rome"
+S_ORDER = "0"
+[person.managing.totals]

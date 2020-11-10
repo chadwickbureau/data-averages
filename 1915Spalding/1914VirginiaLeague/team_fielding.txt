@@ -1,0 +1,82 @@
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_PO = "2916"
+F_A = "1939"
+F_E = "220"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3583"
+F_A = "1499"
+F_E = "243"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "148"
+F_PO = "3586"
+F_A = "1920"
+F_E = "264"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "145"
+F_PO = "3941"
+F_A = "1985"
+F_E = "298"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3669"
+F_A = "1540"
+F_E = "309"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1914"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_PO = "3688"
+F_A = "1876"
+F_E = "372"
+F_PCT = ".937"

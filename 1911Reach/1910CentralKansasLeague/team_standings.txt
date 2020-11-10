@@ -1,0 +1,94 @@
+[[team]]
+name = "Ellsworth"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "28"
+R_PCT = ".654"
+
+
+[[team]]
+name = "Clay Center"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "33"
+R_PCT = ".593"
+
+
+[[team]]
+name = "Abilene"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "33"
+R_PCT = ".591"
+
+
+[[team]]
+name = "Salina"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "44"
+R_L = "34"
+R_PCT = ".564"
+
+
+[[team]]
+name = "Concordia"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "43"
+R_L = "38"
+R_PCT = ".531"
+
+
+[[team]]
+name = "Manhattan"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "35"
+R_L = "43"
+R_PCT = ".449"
+
+
+[[team]]
+name = "Junction City"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "34"
+R_L = "48"
+R_PCT = ".415"
+
+
+[[team]]
+name = "Chapman"
+[[team.playing]]
+season = "1910"
+league.name = "Central Kansas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "18"
+R_L = "62"
+R_PCT = ".225"

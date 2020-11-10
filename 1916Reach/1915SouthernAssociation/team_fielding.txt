@@ -1,0 +1,158 @@
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "159"
+P_W = "91"
+P_L = "63"
+P_T = "5"
+F_PO = "4069"
+F_A = "2037"
+F_E = "246"
+F_DP = "104"
+F_TP = "0"
+F_PB = "9"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+P_W = "74"
+P_L = "79"
+P_T = "0"
+F_PO = "3865"
+F_A = "1874"
+F_E = "232"
+F_DP = "106"
+F_TP = "0"
+F_PB = "21"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+P_W = "73"
+P_L = "80"
+P_T = "5"
+F_PO = "4054"
+F_A = "2036"
+F_E = "248"
+F_DP = "107"
+F_TP = "0"
+F_PB = "24"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+P_W = "68"
+P_L = "86"
+P_T = "2"
+F_PO = "3974"
+F_A = "1934"
+F_E = "249"
+F_DP = "85"
+F_TP = "1"
+F_PB = "12"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "158"
+P_W = "75"
+P_L = "78"
+P_T = "5"
+F_PO = "3998"
+F_A = "2078"
+F_E = "278"
+F_DP = "94"
+F_TP = "0"
+F_PB = "15"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "161"
+P_W = "86"
+P_L = "67"
+P_T = "8"
+F_PO = "4300"
+F_A = "2213"
+F_E = "303"
+F_DP = "108"
+F_TP = "0"
+F_PB = "19"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+P_W = "81"
+P_L = "73"
+P_T = "1"
+F_PO = "4099"
+F_A = "2139"
+F_E = "295"
+F_DP = "105"
+F_TP = "1"
+F_PB = "12"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1915"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+P_W = "65"
+P_L = "87"
+P_T = "4"
+F_PO = "3982"
+F_A = "1916"
+F_E = "281"
+F_DP = "100"
+F_TP = "0"
+F_PB = "16"
+F_PCT = ".955"

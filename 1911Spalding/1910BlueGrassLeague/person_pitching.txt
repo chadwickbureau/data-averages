@@ -1,0 +1,734 @@
+[[person]]
+name.last = "McCormick"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "21"
+P_W = "17"
+P_L = "3"
+P_T = "0"
+P_IP = "171"
+P_H = "132"
+P_R = "34"
+P_BB = "19"
+P_SO = "95"
+P_WP = "4"
+P_HP = "10"
+P_BK = "0"
+P_PCT = ".850"
+
+
+[[person]]
+name.last = "Winchell"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "29"
+P_W = "20"
+P_L = "8"
+P_T = "0"
+P_IP = "226"
+P_H = "162"
+P_R = "72"
+P_BB = "82"
+P_SO = "147"
+P_WP = "7"
+P_HP = "16"
+P_BK = "0"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Cornell"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "37"
+P_W = "21"
+P_L = "9"
+P_T = "2"
+P_IP = "283"
+P_H = "206"
+P_R = "74"
+P_BB = "97"
+P_SO = "171"
+P_WP = "3"
+P_HP = "13"
+P_BK = "0"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Toney"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winchester"
+[person.playing.totals]
+P_G = "35"
+P_W = "23"
+P_L = "10"
+P_T = "0"
+P_IP = "283"
+P_H = "177"
+P_R = "71"
+P_BB = "65"
+P_SO = "243"
+P_WP = "3"
+P_HP = "16"
+P_BK = "0"
+P_PCT = ".697"
+
+
+[[person]]
+name.last = "Eddington"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[[person.playing.split]]
+team.name = "Winchester"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "21"
+P_W = "11"
+P_L = "5"
+P_T = "2"
+P_IP = "143"
+P_H = "115"
+P_R = "51"
+P_BB = "43"
+P_SO = "81"
+P_WP = "2"
+P_HP = "5"
+P_BK = "0"
+P_PCT = ".688"
+
+
+[[person]]
+name.last = "Poole"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "37"
+P_W = "17"
+P_L = "11"
+P_T = "1"
+P_IP = "282"
+P_H = "224"
+P_R = "75"
+P_BB = "54"
+P_SO = "203"
+P_WP = "4"
+P_HP = "7"
+P_BK = "0"
+P_PCT = ".608"
+
+
+[[person]]
+name.last = "Knox"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "32"
+P_W = "18"
+P_L = "12"
+P_T = "0"
+P_IP = "219"
+P_H = "193"
+P_R = "74"
+P_BB = "23"
+P_SO = "117"
+P_WP = "2"
+P_HP = "6"
+P_BK = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Kline"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "33"
+P_W = "15"
+P_L = "10"
+P_T = "3"
+P_IP = "253"
+P_H = "171"
+P_R = "61"
+P_BB = "61"
+P_SO = "161"
+P_WP = "6"
+P_HP = "10"
+P_BK = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Allison"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "25"
+P_W = "12"
+P_L = "8"
+P_T = "1"
+P_IP = "193"
+P_H = "137"
+P_R = "55"
+P_BB = "33"
+P_SO = "97"
+P_WP = "2"
+P_HP = "9"
+P_BK = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "O."
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "17"
+P_W = "9"
+P_L = "6"
+P_T = "2"
+P_IP = "133"
+P_H = "99"
+P_R = "44"
+P_BB = "40"
+P_SO = "104"
+P_WP = "5"
+P_HP = "17"
+P_BK = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Kellogg"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "13"
+P_W = "7"
+P_L = "5"
+P_T = "1"
+P_IP = "113"
+P_H = "74"
+P_R = "35"
+P_BB = "56"
+P_SO = "74"
+P_WP = "8"
+P_HP = "12"
+P_BK = "0"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Weekley"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winchester"
+[person.playing.totals]
+P_G = "13"
+P_W = "7"
+P_L = "6"
+P_T = "0"
+P_IP = "91"
+P_H = "68"
+P_R = "30"
+P_BB = "12"
+P_SO = "52"
+P_WP = "0"
+P_HP = "2"
+P_BK = "0"
+P_PCT = ".539"
+
+
+[[person]]
+name.last = "Wills"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "32"
+P_W = "12"
+P_L = "11"
+P_T = "0"
+P_IP = "257"
+P_H = "210"
+P_R = "77"
+P_BB = "44"
+P_SO = "132"
+P_WP = "4"
+P_HP = "7"
+P_BK = "0"
+P_PCT = ".522"
+
+
+[[person]]
+name.last = "Vallandingham"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "35"
+P_W = "17"
+P_L = "16"
+P_T = "1"
+P_IP = "271"
+P_H = "218"
+P_R = "97"
+P_BB = "44"
+P_SO = "153"
+P_WP = "6"
+P_HP = "4"
+P_BK = "0"
+P_PCT = ".515"
+
+
+[[person]]
+name.last = "Creager"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Richmond"
+[person.playing.totals]
+P_G = "37"
+P_W = "16"
+P_L = "16"
+P_T = "0"
+P_IP = "275"
+P_H = "227"
+P_R = "108"
+P_BB = "50"
+P_SO = "152"
+P_WP = "9"
+P_HP = "17"
+P_BK = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Black"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winchester"
+[person.playing.totals]
+P_G = "11"
+P_W = "5"
+P_L = "5"
+P_T = "1"
+P_IP = "94"
+P_H = "78"
+P_R = "26"
+P_BB = "16"
+P_SO = "38"
+P_WP = "2"
+P_HP = "2"
+P_BK = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winchester"
+[person.playing.totals]
+P_G = "11"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_IP = "79"
+P_H = "55"
+P_R = "35"
+P_BB = "16"
+P_SO = "44"
+P_WP = "2"
+P_HP = "4"
+P_BK = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Scheneberg"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "35"
+P_W = "14"
+P_L = "15"
+P_T = "1"
+P_IP = "261"
+P_H = "197"
+P_R = "85"
+P_BB = "73"
+P_SO = "148"
+P_WP = "10"
+P_HP = "16"
+P_BK = "1"
+P_PCT = ".483"
+
+
+[[person]]
+name.last = "Cramer"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "28"
+P_W = "11"
+P_L = "12"
+P_T = "1"
+P_IP = "199"
+P_H = "165"
+P_R = "71"
+P_BB = "36"
+P_SO = "128"
+P_WP = "8"
+P_HP = "12"
+P_BK = "1"
+P_PCT = ".479"
+
+
+[[person]]
+name.last = "Robbins"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "33"
+P_W = "13"
+P_L = "15"
+P_T = "1"
+P_IP = "267"
+P_H = "199"
+P_R = "85"
+P_BB = "60"
+P_SO = "166"
+P_WP = "4"
+P_HP = "18"
+P_BK = "0"
+P_PCT = ".464"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "C."
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winchester"
+[person.playing.totals]
+P_G = "13"
+P_W = "5"
+P_L = "6"
+P_T = "1"
+P_IP = "97"
+P_H = "82"
+P_R = "31"
+P_BB = "28"
+P_SO = "48"
+P_WP = "1"
+P_HP = "3"
+P_BK = "1"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "McIlvaine"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "38"
+P_W = "14"
+P_L = "17"
+P_T = "1"
+P_IP = "277"
+P_H = "230"
+P_R = "103"
+P_BB = "52"
+P_SO = "160"
+P_WP = "5"
+P_HP = "9"
+P_BK = "1"
+P_PCT = ".452"
+
+
+[[person]]
+name.last = "Burden"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winchester"
+[person.playing.totals]
+P_G = "33"
+P_W = "12"
+P_L = "15"
+P_T = "3"
+P_IP = "261"
+P_H = "200"
+P_R = "87"
+P_BB = "47"
+P_SO = "151"
+P_WP = "4"
+P_HP = "12"
+P_BK = "1"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Harrold"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[[person.playing.split]]
+team.name = "Paris"
+[person.playing.totals]
+P_G = "21"
+P_W = "8"
+P_L = "10"
+P_T = "0"
+P_IP = "156"
+P_H = "134"
+P_R = "68"
+P_BB = "47"
+P_SO = "55"
+P_WP = "0"
+P_HP = "5"
+P_BK = "1"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Crutcher"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "19"
+P_W = "8"
+P_L = "10"
+P_T = "0"
+P_IP = "136"
+P_H = "117"
+P_R = "62"
+P_BB = "51"
+P_SO = "62"
+P_WP = "11"
+P_HP = "5"
+P_BK = "0"
+P_PCT = ".444"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "28"
+P_W = "11"
+P_L = "15"
+P_T = "1"
+P_IP = "215"
+P_H = "188"
+P_R = "76"
+P_BB = "31"
+P_SO = "89"
+P_WP = "2"
+P_HP = "7"
+P_BK = "0"
+P_PCT = ".424"
+
+
+[[person]]
+name.last = "Yerkes"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Frankfort"
+[person.playing.totals]
+P_G = "29"
+P_W = "10"
+P_L = "16"
+P_T = "0"
+P_IP = "234"
+P_H = "185"
+P_R = "79"
+P_BB = "61"
+P_SO = "126"
+P_WP = "8"
+P_HP = "5"
+P_BK = "0"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Atwell"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winchester"
+[person.playing.totals]
+P_G = "15"
+P_W = "5"
+P_L = "8"
+P_T = "1"
+P_IP = "117"
+P_H = "98"
+P_R = "56"
+P_BB = "27"
+P_SO = "56"
+P_WP = "1"
+P_HP = "6"
+P_BK = "0"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Mullholland"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lexington"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "6"
+P_T = "0"
+P_IP = "80"
+P_H = "68"
+P_R = "27"
+P_BB = "18"
+P_SO = "16"
+P_WP = "0"
+P_HP = "0"
+P_BK = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Beeker"
+[[person.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Maysville"
+[person.playing.totals]
+P_G = "11"
+P_W = "2"
+P_L = "8"
+P_T = "0"
+P_IP = "93"
+P_H = "67"
+P_R = "33"
+P_BB = "17"
+P_SO = "45"
+P_WP = "0"
+P_HP = "8"
+P_BK = "0"
+P_PCT = ".200"

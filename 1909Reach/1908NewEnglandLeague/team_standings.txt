@@ -1,0 +1,102 @@
+[[team]]
+name = "Worcester"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "44"
+R_PCT = ".645"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "75"
+R_L = "49"
+R_PCT = ".605"
+R_RANK = "2"
+
+
+[[team]]
+name = "Haverhill"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "52"
+R_PCT = ".577"
+R_RANK = "3"
+
+
+[[team]]
+name = "Brockton"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "56"
+R_PCT = ".541"
+R_RANK = "4"
+
+
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "54"
+R_L = "70"
+R_PCT = ".435"
+R_RANK = "5"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "53"
+R_L = "70"
+R_PCT = ".431"
+R_RANK = "6"
+
+
+[[team]]
+name = "Lowell"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "49"
+R_L = "75"
+R_PCT = ".395"
+R_RANK = "7"
+
+
+[[team]]
+name = "New Bedford"
+[[team.playing]]
+season = "1908"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+R_W = "46"
+R_L = "78"
+R_PCT = ".371"
+R_RANK = "8"

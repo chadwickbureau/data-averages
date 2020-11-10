@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Martin"
+name.given = "Quentin"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rocky Mount"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Benton"
+name.given = "Horace"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rocky Mount"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Collins"
+name.given = "Steven"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Kinston"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hamons"
+name.given = "Lowell"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "New Bern"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Fred"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Greenville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mizerak"
+name.given = "Steve"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Goldsboro"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "Max"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Goldsboro"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Antolick"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Tarboro"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Meers"
+name.given = "Russell"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Roanoke Rapids"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lockamy"
+name.given = "Glen"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Roanoke Rapids"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Morrow"
+name.given = "Ross"
+[[person.managing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wilson"
+S_ORDER = "0"
+[person.managing.totals]

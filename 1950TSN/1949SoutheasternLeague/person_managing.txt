@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Herring"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Pensacola"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Maupin"
+name.given = "Willis (Jack)"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Meridian"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hudlin"
+name.given = "Willis"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Jackson"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Blair"
+name.given = "L. N. (Buddy)"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Vicksburg"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Haas"
+name.given = "George (Mule)"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montgomery"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Baron"
+name.given = "Charles"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Anniston"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Crosby"
+name.given = "Jerry"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Anniston"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Twardy"
+name.given = "Leo"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Selma"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Szuch"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Selma"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Chapman"
+name.given = "Ben"
+[[person.managing]]
+season = "1949"
+league.name = "Southeastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Gadsden"
+S_ORDER = "0"
+[person.managing.totals]

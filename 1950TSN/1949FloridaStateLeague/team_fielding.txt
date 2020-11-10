@@ -1,0 +1,134 @@
+[[team]]
+name = "St. Augustine"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "104"
+F_PB = "28"
+F_PO = "3670"
+F_A = "1449"
+F_E = "228"
+F_TP = "0"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Palatka"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "115"
+F_PB = "34"
+F_PO = "3586"
+F_A = "1564"
+F_E = "252"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Daytona Beach"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "89"
+F_PB = "30"
+F_PO = "3508"
+F_A = "1364"
+F_E = "235"
+F_TP = "1"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Sanford"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "101"
+F_PB = "28"
+F_PO = "3597"
+F_A = "1492"
+F_E = "262"
+F_TP = "0"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "109"
+F_PB = "22"
+F_PO = "3609"
+F_A = "1566"
+F_E = "274"
+F_TP = "1"
+F_PCT = ".950"
+
+
+[[team]]
+name = "DeLand"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "108"
+F_PB = "16"
+F_PO = "3523"
+F_A = "1415"
+F_E = "277"
+F_TP = "2"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Orlando"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "110"
+F_PB = "21"
+F_PO = "3515"
+F_A = "1516"
+F_E = "300"
+F_TP = "0"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Leesburg"
+[[team.playing]]
+season = "1949"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_DP = "103"
+F_PB = "22"
+F_PO = "3445"
+F_A = "1485"
+F_E = "318"
+F_TP = "0"
+F_PCT = ".939"

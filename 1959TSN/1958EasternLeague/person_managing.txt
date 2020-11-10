@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Pesky"
+name.given = "John"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lancaster"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "McCullough"
+name.given = "Clyde"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Reading"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Schultz"
+name.given = "Joseph"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "York"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gilbert"
+name.given = "Andrew"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Springfield"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Carter"
+name.given = "Richard"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Williamsport"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Souchock"
+name.given = "Stephen"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Binghamton"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Evans"
+name.given = "Alfred"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Albany"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Popowski"
+name.given = "Edward"
+[[person.managing]]
+season = "1958"
+league.name = "Eastern League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Allentown"
+S_ORDER = "0"
+[person.managing.totals]

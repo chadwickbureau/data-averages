@@ -1,0 +1,58 @@
+[[team]]
+name = "Brunswick"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "45157"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "42828"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "38582"
+
+
+[[team]]
+name = "Dublin"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "31704"
+
+
+[[team]]
+name = "Waycross"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "26512"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1958"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "17451"

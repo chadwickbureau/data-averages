@@ -1,0 +1,94 @@
+[[team]]
+name = "Duluth"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4144"
+B_R = "589"
+B_H = "1157"
+B_SH = "138"
+B_SB = "173"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Fort William"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4152"
+B_R = "580"
+B_H = "1104"
+B_SH = "164"
+B_SB = "188"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "128"
+B_AB = "4125"
+B_R = "523"
+B_H = "1090"
+B_SH = "171"
+B_SB = "169"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Fargo-Moorhead"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3921"
+B_R = "531"
+B_H = "1026"
+B_SH = "157"
+B_SB = "202"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Virginia"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3974"
+B_R = "525"
+B_H = "1021"
+B_SH = "182"
+B_SB = "178"
+B_AVG = ".257"
+
+
+[[team]]
+name = "St. Boniface"
+[[team.playing]]
+season = "1915"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "3979"
+B_R = "530"
+B_H = "1000"
+B_SH = "150"
+B_SB = "139"
+B_AVG = ".251"

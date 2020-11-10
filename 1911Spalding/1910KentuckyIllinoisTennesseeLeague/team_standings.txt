@@ -1,0 +1,128 @@
+[[team]]
+name = "Vincennes"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "36"
+R_L = "23"
+R_PCT = ".610"
+R_RANK = "1"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "34"
+R_L = "23"
+R_PCT = ".596"
+R_RANK = "2"
+
+
+[[team]]
+name = "Paducah"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "26"
+R_L = "33"
+R_PCT = ".441"
+R_RANK = "3"
+
+
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "21"
+R_L = "38"
+R_PCT = ".356"
+R_RANK = "4"
+
+
+[[team]]
+name = "McLeansboro"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "40"
+R_L = "18"
+R_PCT = ".690"
+R_RANK = "1"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "29"
+R_PCT = ".500"
+R_RANK = "2"
+
+
+[[team]]
+name = "Hopkinsville"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "30"
+R_PCT = ".492"
+R_RANK = "3"
+
+
+[[team]]
+name = "Paducah"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "29"
+R_L = "31"
+R_PCT = ".483"
+R_RANK = "4"
+
+
+[[team]]
+name = "Vincennes"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "28"
+R_L = "31"
+R_PCT = ".475"
+R_RANK = "5"
+
+
+[[team]]
+name = "Clarksville"
+[[team.playing]]
+season = "1910"
+league.name = "Kentucky-Illinois-Tennessee League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "21"
+R_L = "37"
+R_PCT = ".362"
+R_RANK = "6"

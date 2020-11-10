@@ -1,0 +1,128 @@
+[[person]]
+name.last = "Gann"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Corpus Christi"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cearley"
+name.given = "William"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Laredo"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Montalvo"
+name.given = "Ishmael"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Laredo"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "King"
+name.given = "Joseph"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Brownsville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Matthews"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "McAllen"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Kuykendall"
+name.given = "Philip"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "McAllen"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "SoRelle"
+name.given = "Boyd"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Del Rio"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Frisch"
+name.given = "Russell"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Donna/Robstown"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Engle"
+name.given = "Charles"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Donna/Robstown"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cavazos"
+name.given = "Mimi"
+[[person.managing]]
+season = "1949"
+league.name = "Rio Grande Valley League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Donna/Robstown"
+S_ORDER = "3"
+[person.managing.totals]

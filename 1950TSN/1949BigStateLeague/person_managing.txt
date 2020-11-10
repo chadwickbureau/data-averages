@@ -1,0 +1,141 @@
+[[person]]
+name.last = "Bradsher"
+name.given = "Jack"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wichita Falls"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Archie"
+name.given = "George"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Texarkana"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Oana"
+name.given = "Henry"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Austin"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hancken"
+name.given = "Morris (Buddy)"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waco"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Brown"
+name.given = "J. Lindsay"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Sherman-Denison"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Appleton"
+name.given = "Pete"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Sherman-Denison"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Davis"
+name.given = "John (Red)"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Greenville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Ray"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Gainesville"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Goldstein"
+name.given = "Leslie (Lon)"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Gainesville"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "White"
+name.given = "Wm. Barney"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Temple"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Peel"
+name.given = "Homer"
+[[person.managing]]
+season = "1949"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Temple"
+S_ORDER = "2"
+[person.managing.totals]

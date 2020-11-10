@@ -1,0 +1,642 @@
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "35"
+P_W = "24"
+P_L = "8"
+P_T = "0"
+P_R = "84"
+P_SO = "135"
+P_BB = "58"
+P_HP = "8"
+P_WP = "2"
+P_BK = "0"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Stewart"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "16"
+P_W = "12"
+P_L = "4"
+P_T = "0"
+P_R = "40"
+P_SO = "100"
+P_BB = "35"
+P_HP = "4"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Driscoll"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "34"
+P_W = "23"
+P_L = "9"
+P_T = "0"
+P_R = "102"
+P_SO = "121"
+P_BB = "57"
+P_HP = "2"
+P_WP = "7"
+P_BK = "1"
+P_PCT = ".719"
+
+
+[[person]]
+name.last = "Andrada"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "35"
+P_W = "22"
+P_L = "11"
+P_T = "0"
+P_R = "107"
+P_SO = "166"
+P_BB = "81"
+P_HP = "5"
+P_WP = "4"
+P_BK = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "McKenry"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "8"
+P_W = "4"
+P_L = "2"
+P_T = "0"
+P_R = "28"
+P_SO = "36"
+P_BB = "15"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Edmondson"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "29"
+P_W = "17"
+P_L = "9"
+P_T = "1"
+P_R = "76"
+P_SO = "117"
+P_BB = "43"
+P_HP = "8"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".654"
+
+
+[[person]]
+name.last = "Hughes"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watsonville"
+[person.playing.totals]
+P_G = "20"
+P_W = "11"
+P_L = "7"
+P_T = "0"
+P_R = "57"
+P_SO = "71"
+P_BB = "29"
+P_HP = "9"
+P_WP = "3"
+P_BK = "1"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "Harkins"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "32"
+P_W = "17"
+P_L = "12"
+P_T = "1"
+P_R = "86"
+P_SO = "116"
+P_BB = "35"
+P_HP = "6"
+P_WP = "5"
+P_BK = "1"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Arlett"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watsonville"
+[person.playing.totals]
+P_G = "34"
+P_W = "18"
+P_L = "15"
+P_T = "0"
+P_R = "113"
+P_SO = "192"
+P_BB = "68"
+P_HP = "4"
+P_WP = "2"
+P_BK = "0"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "Pope"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "39"
+P_W = "18"
+P_L = "16"
+P_T = "0"
+P_R = "128"
+P_SO = "235"
+P_BB = "79"
+P_HP = "11"
+P_WP = "8"
+P_BK = "0"
+P_PCT = ".529"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[person.playing.totals]
+P_G = "22"
+P_W = "10"
+P_L = "10"
+P_T = "0"
+P_R = "59"
+P_SO = "68"
+P_BB = "71"
+P_HP = "6"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "5"
+P_W = "2"
+P_L = "2"
+P_T = "0"
+P_R = "14"
+P_SO = "8"
+P_BB = "6"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hewitt"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[[person.playing.split]]
+team.name = "Watsonville"
+[person.playing.totals]
+P_G = "27"
+P_W = "10"
+P_L = "13"
+P_T = "0"
+P_R = "114"
+P_SO = "121"
+P_BB = "92"
+P_HP = "14"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".435"
+
+
+[[person]]
+name.last = "Leonard"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "7"
+P_W = "3"
+P_L = "4"
+P_T = "0"
+P_R = "35"
+P_SO = "23"
+P_BB = "9"
+P_HP = "5"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Fielder"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "16"
+P_W = "6"
+P_L = "8"
+P_T = "0"
+P_R = "58"
+P_SO = "62"
+P_BB = "27"
+P_HP = "11"
+P_WP = "0"
+P_BK = "1"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Standridge"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watsonville"
+[person.playing.totals]
+P_G = "19"
+P_W = "8"
+P_L = "11"
+P_T = "0"
+P_R = "77"
+P_SO = "67"
+P_BB = "44"
+P_HP = "11"
+P_WP = "5"
+P_BK = "0"
+P_PCT = ".421"
+
+
+[[person]]
+name.last = "Yates"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "17"
+P_W = "5"
+P_L = "8"
+P_T = "0"
+P_R = "61"
+P_SO = "64"
+P_BB = "30"
+P_HP = "3"
+P_WP = "1"
+P_BK = "1"
+P_PCT = ".385"
+
+
+[[person]]
+name.last = "Killilay"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watsonville"
+[person.playing.totals]
+P_G = "39"
+P_W = "13"
+P_L = "21"
+P_T = "0"
+P_R = "143"
+P_SO = "143"
+P_BB = "75"
+P_HP = "4"
+P_WP = "4"
+P_BK = "1"
+P_PCT = ".382"
+
+
+[[person]]
+name.last = "Lagoria"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Stockton"
+[[person.playing.split]]
+team.name = "Watsonville"
+[person.playing.totals]
+P_G = "18"
+P_W = "6"
+P_L = "10"
+P_T = "0"
+P_R = "72"
+P_SO = "48"
+P_BB = "35"
+P_HP = "5"
+P_WP = "1"
+P_BK = "1"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Lewis"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "13"
+P_W = "3"
+P_L = "6"
+P_T = "0"
+P_R = "53"
+P_SO = "47"
+P_BB = "41"
+P_HP = "10"
+P_WP = "1"
+P_BK = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Moss"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Fresno"
+[person.playing.totals]
+P_G = "8"
+P_W = "1"
+P_L = "2"
+P_T = "0"
+P_R = "23"
+P_SO = "20"
+P_BB = "17"
+P_HP = "6"
+P_WP = "2"
+P_BK = "1"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Emerson"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_R = "44"
+P_SO = "26"
+P_BB = "42"
+P_HP = "2"
+P_WP = "3"
+P_BK = "0"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Nagle"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "5"
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_R = "27"
+P_SO = "19"
+P_BB = "9"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "25"
+P_W = "5"
+P_L = "17"
+P_T = "0"
+P_R = "116"
+P_SO = "111"
+P_BB = "70"
+P_HP = "23"
+P_WP = "9"
+P_BK = "1"
+P_PCT = ".227"
+
+
+[[person]]
+name.last = "Nino"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "1"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "3"
+P_SO = "5"
+P_BB = "2"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Goodwin"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "2"
+P_T = "0"
+P_R = "11"
+P_SO = "5"
+P_BB = "9"
+P_HP = "1"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Harper"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "3"
+P_W = "0"
+P_L = "1"
+P_T = "0"
+P_R = "14"
+P_SO = "4"
+P_BB = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Hanson"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "4"
+P_W = "0"
+P_L = "3"
+P_T = "0"
+P_R = "17"
+P_SO = "9"
+P_BB = "14"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_PCT = ".000"
+
+
+[[person]]
+name.last = "Adams"
+[[person.playing]]
+season = "1913"
+league.name = "California State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "San Jose"
+[person.playing.totals]
+P_G = "7"
+P_W = "0"
+P_L = "6"
+P_T = "0"
+P_R = "32"
+P_SO = "13"
+P_BB = "19"
+P_HP = "1"
+P_WP = "2"
+P_BK = "0"
+P_PCT = ".000"

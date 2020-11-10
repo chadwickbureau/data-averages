@@ -1,0 +1,142 @@
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "142"
+F_TP = "0"
+F_PB = "21"
+F_LOB = "1190"
+F_PO = "3914"
+F_A = "1585"
+F_E = "220"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "128"
+F_TP = "0"
+F_PB = "12"
+F_LOB = "1181"
+F_PO = "4002"
+F_A = "1541"
+F_E = "222"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "146"
+F_TP = "1"
+F_PB = "19"
+F_LOB = "1245"
+F_PO = "3977"
+F_A = "1758"
+F_E = "232"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "148"
+F_TP = "0"
+F_PB = "10"
+F_LOB = "1251"
+F_PO = "4013"
+F_A = "1638"
+F_E = "241"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "147"
+F_TP = "0"
+F_PB = "25"
+F_LOB = "1237"
+F_PO = "3941"
+F_A = "1819"
+F_E = "252"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "112"
+F_TP = "1"
+F_PB = "8"
+F_LOB = "1153"
+F_PO = "3935"
+F_A = "1502"
+F_E = "263"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "151"
+F_TP = "0"
+F_PB = "12"
+F_LOB = "1225"
+F_PO = "3934"
+F_A = "1726"
+F_E = "281"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1947"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "154"
+F_TP = "0"
+F_PB = "17"
+F_LOB = "1149"
+F_PO = "3920"
+F_A = "1791"
+F_E = "290"
+F_PCT = ".952"

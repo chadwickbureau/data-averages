@@ -1,0 +1,100 @@
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_DP = "130"
+F_PB = "34"
+F_PO = "3824"
+F_A = "1484"
+F_E = "257"
+F_TP = "0"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_DP = "189"
+F_PB = "31"
+F_PO = "3877"
+F_A = "1669"
+F_E = "273"
+F_TP = "0"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_DP = "138"
+F_PB = "21"
+F_PO = "3859"
+F_A = "1560"
+F_E = "320"
+F_TP = "0"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_DP = "148"
+F_PB = "23"
+F_PO = "3864"
+F_A = "1726"
+F_E = "363"
+F_TP = "1"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Globe-Miami"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_DP = "144"
+F_PB = "16"
+F_PO = "3813"
+F_A = "1612"
+F_E = "390"
+F_TP = "0"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Bisbee-Douglas"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_DP = "165"
+F_PB = "34"
+F_PO = "3831"
+F_A = "1672"
+F_E = "420"
+F_TP = "0"
+F_PCT = ".929"

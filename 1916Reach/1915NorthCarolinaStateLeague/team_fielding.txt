@@ -1,0 +1,76 @@
+[[team]]
+name = "Raleigh"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3297"
+F_A = "1421"
+F_E = "203"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3318"
+F_A = "1691"
+F_E = "238"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3121"
+F_A = "1370"
+F_E = "231"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Asheville"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3257"
+F_A = "1614"
+F_E = "258"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Charlotte"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3214"
+F_A = "1573"
+F_E = "289"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1915"
+league.name = "North Carolina State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3258"
+F_A = "1521"
+F_E = "290"
+F_PCT = ".943"

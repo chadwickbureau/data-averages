@@ -1,0 +1,94 @@
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "119"
+F_PB = "8"
+F_PO = "3376"
+F_A = "1583"
+F_E = "200"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_DP = "107"
+F_PB = "15"
+F_PO = "3385"
+F_A = "1508"
+F_E = "209"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "92"
+F_PB = "33"
+F_PO = "3312"
+F_A = "1415"
+F_E = "224"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "130"
+F_DP = "87"
+F_PB = "31"
+F_PO = "3311"
+F_A = "1455"
+F_E = "274"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_DP = "84"
+F_PB = "15"
+F_PO = "3317"
+F_A = "1493"
+F_E = "279"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1943"
+league.name = "Piedmont League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_DP = "100"
+F_PB = "21"
+F_PO = "3305"
+F_A = "1540"
+F_E = "301"
+F_PCT = ".942"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Bremerton"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "76"
+F_TP = "0"
+F_PB = "7"
+F_PO = "3581"
+F_A = "1501"
+F_E = "224"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_DP = "104"
+F_TP = "0"
+F_PB = "8"
+F_PO = "3475"
+F_A = "1421"
+F_E = "229"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Wenatchee"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "79"
+F_TP = "1"
+F_PB = "11"
+F_PO = "3740"
+F_A = "1494"
+F_E = "267"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Yakima"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "120"
+F_TP = "0"
+F_PB = "17"
+F_PO = "3579"
+F_A = "1494"
+F_E = "279"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Salem"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_DP = "88"
+F_TP = "0"
+F_PB = "16"
+F_PO = "3703"
+F_A = "1528"
+F_E = "304"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_DP = "121"
+F_TP = "0"
+F_PB = "13"
+F_PO = "3652"
+F_A = "1692"
+F_E = "318"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "132"
+F_DP = "76"
+F_TP = "1"
+F_PB = "14"
+F_PO = "3462"
+F_A = "1435"
+F_E = "320"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1946"
+league.name = "Western International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "103"
+F_TP = "0"
+F_PB = "15"
+F_PO = "3583"
+F_A = "1609"
+F_E = "344"
+F_PCT = ".938"

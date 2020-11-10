@@ -1,0 +1,76 @@
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1917"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "10"
+R_L = "5"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1917"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "9"
+R_L = "7"
+R_PCT = ".562"
+R_RANK = "2"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1917"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "7"
+R_L = "7"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1917"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "7"
+R_L = "9"
+R_PCT = ".437"
+R_RANK = "4"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1917"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "6"
+R_L = "8"
+R_PCT = ".429"
+R_RANK = "5"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1917"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+R_W = "6"
+R_L = "9"
+R_PCT = ".400"
+R_RANK = "6"

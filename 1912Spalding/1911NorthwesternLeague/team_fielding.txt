@@ -1,0 +1,82 @@
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4409"
+F_A = "2095"
+F_E = "262"
+F_TC = "6766"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4394"
+F_A = "2059"
+F_E = "295"
+F_TC = "6748"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4243"
+F_A = "1902"
+F_E = "301"
+F_TC = "6446"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4554"
+F_A = "2271"
+F_E = "331"
+F_TC = "7156"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4515"
+F_A = "2219"
+F_E = "361"
+F_TC = "7095"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1911"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "4259"
+F_A = "2206"
+F_E = "421"
+F_TC = "6886"
+F_PCT = ".942"

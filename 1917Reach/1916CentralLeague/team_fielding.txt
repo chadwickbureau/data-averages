@@ -1,0 +1,118 @@
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3530"
+F_A = "1779"
+F_E = "202"
+F_TC = "5511"
+F_PCT = ".965"
+
+
+[[team]]
+name = "South Bend"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "3519"
+F_A = "1742"
+F_E = "189"
+F_TC = "5450"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3534"
+F_A = "1645"
+F_E = "200"
+F_TC = "5379"
+F_PCT = ".963"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3536"
+F_A = "1673"
+F_E = "210"
+F_TC = "5419"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Evansville"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3459"
+F_A = "1676"
+F_E = "224"
+F_TC = "5359"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "133"
+F_PO = "3475"
+F_A = "1047"
+F_E = "228"
+F_TC = "5350"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Terre Haute"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3540"
+F_A = "1661"
+F_E = "231"
+F_TC = "5432"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Wheeling"
+[[team.playing]]
+season = "1916"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "131"
+F_PO = "3391"
+F_A = "1615"
+F_E = "263"
+F_TC = "5269"
+F_PCT = ".950"

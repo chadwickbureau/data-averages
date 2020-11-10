@@ -1,0 +1,190 @@
+[[team]]
+name = "Lansing"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4143"
+B_R = "550"
+B_H = "1124"
+B_2B = "185"
+B_3B = "61"
+B_HR = "17"
+B_TB = "1482"
+B_SH = "138"
+B_ROE = "129"
+B_SB = "260"
+B_LOB = "830"
+B_BB = "329"
+B_SO = "714"
+B_AVG = ".271"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4127"
+B_R = "572"
+B_H = "1110"
+B_2B = "188"
+B_3B = "52"
+B_HR = "6"
+B_TB = "1420"
+B_SH = "170"
+B_ROE = "125"
+B_SB = "251"
+B_LOB = "787"
+B_BB = "344"
+B_SO = "730"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Adrian"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4087"
+B_R = "529"
+B_H = "1096"
+B_2B = "198"
+B_3B = "70"
+B_HR = "31"
+B_TB = "1527"
+B_SH = "184"
+B_ROE = "132"
+B_SB = "170"
+B_LOB = "762"
+B_BB = "291"
+B_SO = "693"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Jackson"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "127"
+B_AB = "4103"
+B_R = "560"
+B_H = "1088"
+B_2B = "174"
+B_3B = "87"
+B_HR = "18"
+B_TB = "1490"
+B_SH = "187"
+B_ROE = "175"
+B_SB = "237"
+B_LOB = "830"
+B_BB = "329"
+B_SO = "653"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Kalamazoo"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4086"
+B_R = "454"
+B_H = "1058"
+B_2B = "161"
+B_3B = "50"
+B_HR = "4"
+B_TB = "1331"
+B_SH = "174"
+B_ROE = "122"
+B_SB = "176"
+B_LOB = "832"
+B_BB = "293"
+B_SO = "702"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3930"
+B_R = "465"
+B_H = "1014"
+B_2B = "166"
+B_3B = "63"
+B_HR = "30"
+B_TB = "1396"
+B_SH = "150"
+B_ROE = "120"
+B_SB = "196"
+B_LOB = "722"
+B_BB = "281"
+B_SO = "600"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Battle Creek"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4282"
+B_R = "540"
+B_H = "1096"
+B_2B = "158"
+B_3B = "62"
+B_HR = "15"
+B_TB = "1423"
+B_SH = "114"
+B_ROE = "157"
+B_SB = "231"
+B_LOB = "768"
+B_BB = "318"
+B_SO = "628"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Bay City"
+[[team.playing]]
+season = "1913"
+league.name = "Southern Michigan League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4153"
+B_R = "488"
+B_H = "1025"
+B_2B = "152"
+B_3B = "60"
+B_HR = "11"
+B_TB = "1330"
+B_SH = "129"
+B_ROE = "155"
+B_SB = "180"
+B_LOB = "855"
+B_BB = "347"
+B_SO = "733"
+B_AVG = ".246"

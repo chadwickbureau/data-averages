@@ -1,0 +1,102 @@
+[[person]]
+name.last = "Griffin"
+name.given = "Francis (Pug)"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lynchburg"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Mackie"
+name.given = "Vernon"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Lynchburg"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Scalzi"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Portsmouth"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Vincent"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Richmond"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Marion"
+name.given = "John (Red)"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Roanoke"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Bolyard"
+name.given = "Earl"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Norfolk"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Novosel"
+name.given = "Frank"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Norfolk"
+S_ORDER = "2"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Schalk"
+name.given = "Leroy"
+[[person.managing]]
+season = "1949"
+league.name = "Piedmont League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Newport News"
+S_ORDER = "0"
+[person.managing.totals]

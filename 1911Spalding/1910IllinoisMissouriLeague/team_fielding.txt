@@ -1,0 +1,82 @@
+[[team]]
+name = "Pekin"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_PO = "3021"
+F_A = "1372"
+F_E = "225"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Macomb"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "93"
+F_PO = "2464"
+F_A = "1161"
+F_E = "205"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Canton"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3103"
+F_A = "1527"
+F_E = "291"
+F_PCT = ".941"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_PO = "3086"
+F_A = "1496"
+F_E = "242"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Beardstown/Jacksonville"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "83"
+F_PO = "2175"
+F_A = "1069"
+F_E = "175"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1910"
+league.name = "Illinois-Missouri League"
+phase = "regular"
+[team.playing.totals]
+F_G = "115"
+F_PO = "3053"
+F_A = "1510"
+F_E = "340"
+F_PCT = ".931"

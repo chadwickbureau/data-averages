@@ -1,0 +1,58 @@
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "39063"
+
+
+[[team]]
+name = "Easton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "38651"
+
+
+[[team]]
+name = "Seaford"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "35519"
+
+
+[[team]]
+name = "Federalsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "30139"
+
+
+[[team]]
+name = "Cambridge"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "29434"
+
+
+[[team]]
+name = "Rehoboth Beach"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "22358"

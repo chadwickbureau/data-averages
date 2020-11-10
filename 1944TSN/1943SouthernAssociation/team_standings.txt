@@ -1,0 +1,246 @@
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "49"
+R_L = "26"
+R_T = "0"
+R_PCT = ".653"
+R_RANK = "1"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "37"
+R_L = "33"
+R_T = "0"
+R_PCT = ".529"
+R_RANK = "2"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "38"
+R_L = "36"
+R_T = "0"
+R_PCT = ".514"
+R_RANK = "3"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "36"
+R_L = "35"
+R_T = "2"
+R_PCT = ".507"
+R_RANK = "4"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "39"
+R_L = "38"
+R_T = "2"
+R_PCT = ".506"
+R_RANK = "5"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "33"
+R_L = "33"
+R_T = "1"
+R_PCT = ".500"
+R_RANK = "6"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "28"
+R_L = "39"
+R_T = "2"
+R_PCT = ".418"
+R_RANK = "7"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/first"
+[team.playing.totals]
+R_W = "24"
+R_L = "44"
+R_T = "1"
+R_PCT = ".353"
+R_RANK = "8"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "40"
+R_L = "22"
+R_T = "0"
+R_PCT = ".645"
+R_RANK = "1"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "41"
+R_L = "29"
+R_T = "0"
+R_PCT = ".586"
+R_RANK = "2"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "34"
+R_L = "29"
+R_T = "0"
+R_PCT = ".540"
+R_RANK = "3"
+
+
+[[team]]
+name = "Knoxville"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "37"
+R_L = "32"
+R_T = "0"
+R_PCT = ".536"
+R_RANK = "4"
+
+
+[[team]]
+name = "Montgomery"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "36"
+R_L = "37"
+R_T = "0"
+R_PCT = ".493"
+R_RANK = "5"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "32"
+R_L = "37"
+R_T = "0"
+R_PCT = ".464"
+R_RANK = "6"
+
+
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "24"
+R_L = "38"
+R_T = "0"
+R_PCT = ".387"
+R_RANK = "7"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "24"
+R_L = "44"
+R_T = "0"
+R_PCT = ".353"
+R_RANK = "8"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1943"
+league.name = "Southern Association"
+phase = "final"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_RANK = "2"

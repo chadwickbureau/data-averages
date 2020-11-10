@@ -1,0 +1,100 @@
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "44"
+R_PCT = ".569"
+R_RANK = "1"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "47"
+R_PCT = ".548"
+R_RANK = "2"
+
+
+[[team]]
+name = "San Francisco"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "51"
+R_L = "51"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Sacramento"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "48"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Salt Lake City"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "48"
+R_L = "49"
+R_PCT = ".495"
+R_RANK = "5"
+
+
+[[team]]
+name = "Oakland"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "regular"
+[team.playing.totals]
+R_W = "40"
+R_L = "63"
+R_PCT = ".388"
+R_RANK = "6"
+
+
+[[team]]
+name = "Los Angeles"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "final"
+[team.playing.totals]
+R_W = "5"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Vernon"
+[[team.playing]]
+season = "1918"
+league.name = "Pacific Coast League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "5"
+R_RANK = "2"

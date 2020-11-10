@@ -1,0 +1,76 @@
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2881"
+F_A = "1471"
+F_E = "178"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Allentown"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2864"
+F_A = "1432"
+F_E = "192"
+F_PCT = ".957"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2933"
+F_A = "1501"
+F_E = "209"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2990"
+F_A = "1515"
+F_E = "226"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Atlantic City"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2982"
+F_A = "1370"
+F_E = "234"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1913"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "2865"
+F_A = "1509"
+F_E = "269"
+F_PCT = ".943"

@@ -1,0 +1,1914 @@
+[[person]]
+name.last = "Smith"
+name.given = "Geo."
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "8"
+P_CG = "3"
+P_W = "5"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "53"
+P_AB = "204"
+P_H = "47"
+P_R = "16"
+P_ER = "10"
+P_SH = "2"
+P_BB = "7"
+P_SO = "37"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "1.70"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Akard"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "23"
+P_CG = "16"
+P_W = "13"
+P_L = "5"
+P_PCT = ".722"
+P_IP = "165"
+P_AB = "649"
+P_H = "149"
+P_R = "74"
+P_ER = "41"
+P_SH = "4"
+P_BB = "27"
+P_SO = "121"
+P_HP = "7"
+P_WP = "2"
+P_ERA = "2.24"
+P_BK = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Brunke"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "10"
+P_CG = "5"
+P_W = "7"
+P_L = "1"
+P_PCT = ".875"
+P_IP = "59"
+P_AB = "243"
+P_H = "57"
+P_R = "23"
+P_ER = "16"
+P_SH = "0"
+P_BB = "11"
+P_SO = "44"
+P_HP = "1"
+P_WP = "0"
+P_ERA = "2.44"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Picone"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "27"
+P_CG = "14"
+P_W = "11"
+P_L = "10"
+P_PCT = ".524"
+P_IP = "173"
+P_AB = "638"
+P_H = "130"
+P_R = "83"
+P_ER = "48"
+P_SH = "6"
+P_BB = "98"
+P_SO = "171"
+P_HP = "10"
+P_WP = "19"
+P_ERA = "2.50"
+P_BK = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Roche"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "19"
+P_CG = "12"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_IP = "119"
+P_AB = "468"
+P_H = "110"
+P_R = "59"
+P_ER = "36"
+P_SH = "6"
+P_BB = "51"
+P_SO = "90"
+P_HP = "5"
+P_WP = "7"
+P_ERA = "2.72"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Fowler"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "26"
+P_CG = "16"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "169"
+P_AB = "667"
+P_H = "187"
+P_R = "77"
+P_ER = "52"
+P_SH = "9"
+P_BB = "40"
+P_SO = "108"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "2.77"
+P_BK = "1"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Redman"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "13"
+P_CG = "9"
+P_W = "7"
+P_L = "5"
+P_PCT = ".583"
+P_IP = "104"
+P_AB = "416"
+P_H = "104"
+P_R = "49"
+P_ER = "35"
+P_SH = "6"
+P_BB = "20"
+P_SO = "36"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "3.03"
+P_BK = "0"
+P_SHO = "3"
+
+
+[[person]]
+name.last = "Breeding"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "23"
+P_CG = "15"
+P_W = "14"
+P_L = "7"
+P_PCT = ".667"
+P_IP = "174"
+P_AB = "666"
+P_H = "146"
+P_R = "87"
+P_ER = "59"
+P_SH = "5"
+P_BB = "75"
+P_SO = "180"
+P_HP = "5"
+P_WP = "7"
+P_ERA = "3.05"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Aloma"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "7"
+P_CG = "6"
+P_W = "6"
+P_L = "1"
+P_PCT = ".857"
+P_IP = "56"
+P_AB = "215"
+P_H = "49"
+P_R = "28"
+P_ER = "19"
+P_SH = "2"
+P_BB = "23"
+P_SO = "53"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "3.05"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Barbero"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "23"
+P_CG = "14"
+P_W = "11"
+P_L = "7"
+P_PCT = ".611"
+P_IP = "161"
+P_AB = "630"
+P_H = "168"
+P_R = "85"
+P_ER = "58"
+P_SH = "8"
+P_BB = "46"
+P_SO = "73"
+P_HP = "5"
+P_WP = "8"
+P_ERA = "3.24"
+P_BK = "2"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "Schuchmann"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "37"
+P_CG = "11"
+P_W = "12"
+P_L = "13"
+P_PCT = ".480"
+P_IP = "170"
+P_AB = "654"
+P_H = "139"
+P_R = "103"
+P_ER = "63"
+P_SH = "7"
+P_BB = "73"
+P_SO = "153"
+P_HP = "9"
+P_WP = "13"
+P_ERA = "3.34"
+P_BK = "1"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Bustle"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "25"
+P_CG = "15"
+P_W = "13"
+P_L = "6"
+P_PCT = ".684"
+P_IP = "175"
+P_AB = "687"
+P_H = "164"
+P_R = "90"
+P_ER = "66"
+P_SH = "10"
+P_BB = "57"
+P_SO = "161"
+P_HP = "8"
+P_WP = "4"
+P_ERA = "3.39"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Siefert"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "24"
+P_CG = "14"
+P_W = "11"
+P_L = "8"
+P_PCT = ".579"
+P_IP = "162"
+P_AB = "637"
+P_H = "175"
+P_R = "84"
+P_ER = "62"
+P_SH = "6"
+P_BB = "58"
+P_SO = "103"
+P_HP = "4"
+P_WP = "5"
+P_ERA = "3.44"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Emanuelson"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "25"
+P_CG = "18"
+P_W = "12"
+P_L = "10"
+P_PCT = ".545"
+P_IP = "190"
+P_AB = "752"
+P_H = "212"
+P_R = "109"
+P_ER = "75"
+P_SH = "13"
+P_BB = "70"
+P_SO = "102"
+P_HP = "8"
+P_WP = "8"
+P_ERA = "3.55"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "19"
+P_CG = "11"
+P_W = "6"
+P_L = "8"
+P_PCT = ".429"
+P_IP = "112"
+P_AB = "408"
+P_H = "88"
+P_R = "63"
+P_ER = "47"
+P_SH = "5"
+P_BB = "64"
+P_SO = "112"
+P_HP = "8"
+P_WP = "20"
+P_ERA = "3.78"
+P_BK = "1"
+P_SHO = "3"
+
+
+[[person]]
+name.last = "Tucker"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "6"
+P_CG = "5"
+P_W = "0"
+P_L = "5"
+P_PCT = ".000"
+P_IP = "48"
+P_AB = "186"
+P_H = "50"
+P_R = "30"
+P_ER = "21"
+P_SH = "6"
+P_BB = "11"
+P_SO = "30"
+P_HP = "0"
+P_WP = "6"
+P_ERA = "3.94"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Van Nordheim"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "15"
+P_CG = "2"
+P_W = "3"
+P_L = "6"
+P_PCT = ".333"
+P_IP = "65"
+P_AB = "246"
+P_H = "59"
+P_R = "38"
+P_ER = "31"
+P_SH = "1"
+P_BB = "35"
+P_SO = "27"
+P_HP = "2"
+P_WP = "2"
+P_ERA = "4.29"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Goicoechea"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "19"
+P_CG = "9"
+P_W = "5"
+P_L = "10"
+P_PCT = ".333"
+P_IP = "115"
+P_AB = "471"
+P_H = "117"
+P_R = "83"
+P_ER = "57"
+P_SH = "8"
+P_BB = "58"
+P_SO = "116"
+P_HP = "8"
+P_WP = "7"
+P_ERA = "4.46"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Shipley"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "10"
+P_CG = "3"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "50"
+P_AB = "220"
+P_H = "66"
+P_R = "42"
+P_ER = "26"
+P_SH = "2"
+P_BB = "6"
+P_SO = "23"
+P_HP = "1"
+P_WP = "6"
+P_ERA = "4.68"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Jilton"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "17"
+P_CG = "6"
+P_W = "6"
+P_L = "6"
+P_PCT = ".500"
+P_IP = "90"
+P_AB = "365"
+P_H = "95"
+P_R = "59"
+P_ER = "47"
+P_SH = "3"
+P_BB = "43"
+P_SO = "106"
+P_HP = "10"
+P_WP = "7"
+P_ERA = "4.70"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Remke"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "17"
+P_CG = "1"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "65"
+P_AB = "266"
+P_H = "77"
+P_R = "48"
+P_ER = "38"
+P_SH = "3"
+P_BB = "36"
+P_SO = "53"
+P_HP = "4"
+P_WP = "9"
+P_ERA = "5.26"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Powell"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "9"
+P_CG = "4"
+P_W = "3"
+P_L = "4"
+P_PCT = ".429"
+P_IP = "59"
+P_AB = "247"
+P_H = "79"
+P_R = "50"
+P_ER = "37"
+P_SH = "5"
+P_BB = "36"
+P_SO = "38"
+P_HP = "0"
+P_WP = "6"
+P_ERA = "5.64"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Burgess"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "13"
+P_CG = "2"
+P_W = "1"
+P_L = "7"
+P_PCT = ".125"
+P_IP = "64"
+P_AB = "278"
+P_H = "81"
+P_R = "57"
+P_ER = "43"
+P_SH = "3"
+P_BB = "33"
+P_SO = "44"
+P_HP = "5"
+P_WP = "3"
+P_ERA = "6.05"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Mink"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "9"
+P_CG = "3"
+P_W = "4"
+P_L = "3"
+P_PCT = ".571"
+P_IP = "50"
+P_AB = "220"
+P_H = "69"
+P_R = "40"
+P_ER = "34"
+P_SH = "3"
+P_BB = "23"
+P_SO = "30"
+P_HP = "2"
+P_WP = "1"
+P_ERA = "6.12"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "C."
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "25"
+P_CG = "13"
+P_W = "8"
+P_L = "10"
+P_PCT = ".444"
+P_IP = "151"
+P_AB = "638"
+P_H = "189"
+P_R = "118"
+P_ER = "103"
+P_SH = "12"
+P_BB = "45"
+P_SO = "106"
+P_HP = "13"
+P_WP = "7"
+P_ERA = "6.14"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Stone"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "15"
+P_CG = "3"
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "65"
+P_AB = "281"
+P_H = "78"
+P_R = "53"
+P_ER = "45"
+P_SH = "1"
+P_BB = "29"
+P_SO = "31"
+P_HP = "3"
+P_WP = "5"
+P_ERA = "6.23"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Lugos"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "8"
+P_CG = "2"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "48"
+P_AB = "202"
+P_H = "54"
+P_R = "49"
+P_ER = "35"
+P_SH = "1"
+P_BB = "29"
+P_SO = "38"
+P_HP = "4"
+P_WP = "11"
+P_ERA = "6.56"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Roden"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "1"
+P_L = "4"
+P_PCT = ".200"
+P_IP = "45"
+P_AB = "189"
+P_H = "63"
+P_R = "40"
+P_ER = "36"
+P_SH = "2"
+P_BB = "19"
+P_SO = "27"
+P_HP = "1"
+P_WP = "5"
+P_ERA = "7.20"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Seamon"
+name.given = "George"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "2"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "41"
+P_H = "46"
+P_R = "34"
+P_BB = "41"
+P_SO = "14"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Vesper"
+name.given = "Charles"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "18"
+P_H = "27"
+P_R = "22"
+P_BB = "16"
+P_SO = "13"
+P_HP = "1"
+P_WP = "1"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Paynich"
+name.given = "Rudolph"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "14"
+P_H = "15"
+P_R = "7"
+P_BB = "3"
+P_SO = "8"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Goff"
+name.given = "J. William"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "10"
+P_H = "22"
+P_R = "22"
+P_BB = "10"
+P_SO = "5"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Saul"
+name.given = "Benjamin"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "3"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "8"
+P_H = "11"
+P_R = "10"
+P_BB = "5"
+P_SO = "2"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Bartson"
+name.given = "Richard"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "1"
+P_L = "0"
+P_PCT = "1.000"
+P_IP = "1"
+P_H = "0"
+P_R = "0"
+P_BB = "0"
+P_SO = "0"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Lombardo"
+name.given = "Louis"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "6"
+P_CG = "4"
+P_W = "4"
+P_L = "1"
+P_PCT = ".800"
+P_IP = "43"
+P_H = "38"
+P_R = "14"
+P_BB = "21"
+P_SO = "36"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "2"
+
+
+[[person]]
+name.last = "McDonnell"
+name.given = "James"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "7"
+P_CG = "3"
+P_W = "3"
+P_L = "1"
+P_PCT = ".750"
+P_IP = "38"
+P_H = "31"
+P_R = "10"
+P_BB = "15"
+P_SO = "12"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Leary"
+name.given = "Edward"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "5"
+P_CG = "3"
+P_W = "2"
+P_L = "2"
+P_PCT = ".500"
+P_IP = "32"
+P_H = "33"
+P_R = "23"
+P_BB = "13"
+P_SO = "38"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Anechiarico"
+name.given = "Edward"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "26"
+P_H = "31"
+P_R = "18"
+P_BB = "4"
+P_SO = "7"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Norwood"
+name.given = "Frank"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "6"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "22"
+P_H = "20"
+P_R = "21"
+P_BB = "22"
+P_SO = "23"
+P_HP = "4"
+P_WP = "4"
+P_BK = "0"
+P_SHO = "1"
+
+
+[[person]]
+name.last = "Schanz"
+name.given = "Edward"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "21"
+P_H = "28"
+P_R = "15"
+P_BB = "7"
+P_SO = "16"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kapinus"
+name.given = "Robert"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "3"
+P_CG = "2"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "20"
+P_H = "20"
+P_R = "13"
+P_BB = "14"
+P_SO = "10"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Marr"
+name.given = "James"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "1"
+P_L = "1"
+P_PCT = ".500"
+P_IP = "18"
+P_H = "18"
+P_R = "15"
+P_BB = "7"
+P_SO = "5"
+P_HP = "1"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Lee R."
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+P_G = "8"
+[[person.playing.split]]
+team.name = "Erwin"
+P_G = "1"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "2"
+P_L = "3"
+P_PCT = ".400"
+P_IP = "42"
+P_H = "43"
+P_R = "37"
+P_BB = "29"
+P_SO = "25"
+P_HP = "3"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Alva"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "10"
+P_CG = "0"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "39"
+P_H = "51"
+P_R = "46"
+P_BB = "37"
+P_SO = "28"
+P_HP = "3"
+P_WP = "2"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kotin"
+name.given = "Irving"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "9"
+P_CG = "1"
+P_W = "2"
+P_L = "4"
+P_PCT = ".333"
+P_IP = "32"
+P_H = "36"
+P_R = "23"
+P_BB = "13"
+P_SO = "23"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Pearce"
+name.given = "James"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "1"
+P_L = "2"
+P_PCT = ".333"
+P_IP = "24"
+P_H = "26"
+P_R = "13"
+P_BB = "9"
+P_SO = "15"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Tramelli"
+name.given = "John"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "5"
+P_CG = "0"
+P_W = "1"
+P_L = "3"
+P_PCT = ".250"
+P_IP = "25"
+P_H = "31"
+P_R = "24"
+P_BB = "21"
+P_SO = "20"
+P_HP = "0"
+P_WP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Gambon"
+name.given = "George"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "8"
+P_CG = "2"
+P_W = "0"
+P_L = "4"
+P_PCT = ".000"
+P_IP = "29"
+P_H = "33"
+P_R = "32"
+P_BB = "24"
+P_SO = "24"
+P_HP = "3"
+P_WP = "5"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Kirklin"
+name.given = "James"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "24"
+P_H = "39"
+P_R = "26"
+P_BB = "13"
+P_SO = "8"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Baber"
+name.given = "Ernest"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "4"
+P_CG = "2"
+P_W = "0"
+P_L = "3"
+P_PCT = ".000"
+P_IP = "24"
+P_H = "26"
+P_R = "23"
+P_BB = "17"
+P_SO = "13"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Brand"
+name.given = "C. Eugene"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "20"
+P_R = "16"
+P_BB = "15"
+P_SO = "12"
+P_HP = "1"
+P_WP = "4"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Pace"
+name.given = "Sam (Piacentino)"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "14"
+P_H = "25"
+P_R = "14"
+P_BB = "6"
+P_SO = "8"
+P_HP = "0"
+P_WP = "1"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Green"
+name.given = "Klon"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "2"
+P_PCT = ".000"
+P_IP = "2"
+P_H = "6"
+P_R = "8"
+P_BB = "4"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Heckenberg"
+name.given = "Dean"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "8"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "18"
+P_H = "36"
+P_R = "40"
+P_BB = "23"
+P_SO = "12"
+P_HP = "1"
+P_WP = "3"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Carpenter"
+name.given = "Wallace"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "5"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "13"
+P_H = "13"
+P_R = "12"
+P_BB = "15"
+P_SO = "11"
+P_HP = "2"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Cyrus"
+name.given = "David"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "4"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "16"
+P_H = "14"
+P_R = "7"
+P_BB = "7"
+P_SO = "4"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Schroeder"
+name.given = "Robert"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "4"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "12"
+P_H = "20"
+P_R = "17"
+P_BB = "8"
+P_SO = "8"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Sheehan"
+name.given = "David"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "3"
+P_CG = "1"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "15"
+P_R = "7"
+P_BB = "8"
+P_SO = "5"
+P_HP = "0"
+P_WP = "2"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "James"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "11"
+P_H = "20"
+P_R = "15"
+P_BB = "5"
+P_SO = "7"
+P_HP = "1"
+P_WP = "1"
+P_BK = "1"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Hill"
+name.given = "Render"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "2"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "10"
+P_H = "7"
+P_R = "7"
+P_BB = "10"
+P_SO = "3"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Slonaker"
+name.given = "John"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "3"
+P_H = "7"
+P_R = "7"
+P_BB = "3"
+P_SO = "2"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Bierer"
+name.given = "Wallace"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "1"
+P_CG = "0"
+P_W = "0"
+P_L = "1"
+P_PCT = ".000"
+P_IP = "1"
+P_H = "2"
+P_R = "2"
+P_BB = "2"
+P_SO = "0"
+P_HP = "0"
+P_WP = "0"
+P_BK = "0"
+P_SHO = "0"
+
+
+[[person]]
+name.last = "Gruber"
+name.given = "Harold"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "5"
+P_IP = "10"
+
+
+[[person]]
+name.last = "Micik"
+name.given = "John"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+P_G = "2"
+[[person.playing.split]]
+team.name = "Johnson City"
+P_G = "3"
+[person.playing.totals]
+P_G = "5"
+P_IP = "15"
+
+
+[[person]]
+name.last = "Sellenriek"
+name.given = "Earl"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "4"
+P_IP = "25"
+
+
+[[person]]
+name.last = "Schnettgoecke"
+name.given = "Lambert"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "4"
+P_IP = "12"
+
+
+[[person]]
+name.last = "York"
+name.given = "Earl"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "4"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Mullinax"
+name.given = "Edward"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "3"
+P_IP = "10"
+
+
+[[person]]
+name.last = "McEvoy"
+name.given = "Richard"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "2"
+P_IP = "7"
+
+
+[[person]]
+name.last = "Kerce"
+name.given = "Robert"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "2"
+P_IP = "6"
+
+
+[[person]]
+name.last = "Ashcraft"
+name.given = "William"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "2"
+P_IP = "5"
+
+
+[[person]]
+name.last = "Janney"
+name.given = "William"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingsport"
+[person.playing.totals]
+P_G = "1"
+P_IP = "3"
+
+
+[[person]]
+name.last = "Blackburn"
+name.given = "William"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "1"
+P_IP = "2"
+
+
+[[person]]
+name.last = "Niemeyer"
+name.given = "William"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Childers"
+name.given = "John"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Savieo"
+name.given = "Warren"
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"
+
+
+[[person]]
+name.last = "Poole"
+name.given = "James R."
+[[person.playing]]
+season = "1944"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Erwin"
+[person.playing.totals]
+P_G = "1"
+P_IP = "1"

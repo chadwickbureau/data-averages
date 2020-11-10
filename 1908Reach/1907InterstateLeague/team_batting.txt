@@ -1,0 +1,58 @@
+[[team]]
+name = "Oil City"
+[[team.playing]]
+season = "1907"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3325"
+B_R = "418"
+B_H = "837"
+B_SB = "140"
+B_SH = "113"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Bradford"
+[[team.playing]]
+season = "1907"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3629"
+B_R = "451"
+B_H = "901"
+B_SB = "136"
+B_SH = "117"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Franklin"
+[[team.playing]]
+season = "1907"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3146"
+B_R = "380"
+B_H = "778"
+B_SB = "124"
+B_SH = "117"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Erie"
+[[team.playing]]
+season = "1907"
+league.name = "Interstate League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3621"
+B_R = "393"
+B_H = "785"
+B_SB = "206"
+B_SH = "125"
+B_AVG = ".217"

@@ -1,0 +1,110 @@
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_PO = "4490"
+F_A = "2105"
+F_E = "278"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "169"
+F_PO = "4550"
+F_A = "2150"
+F_E = "293"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "165"
+F_PO = "4430"
+F_A = "2164"
+F_E = "296"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "164"
+F_PO = "4327"
+F_A = "2131"
+F_E = "314"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "166"
+F_PO = "4372"
+F_A = "1993"
+F_E = "308"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "167"
+F_PO = "4438"
+F_A = "2301"
+F_E = "324"
+F_PCT = ".954"
+
+
+[[team]]
+name = "St. Joseph"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "171"
+F_PO = "4566"
+F_A = "2148"
+F_E = "331"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1912"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "163"
+F_PO = "4250"
+F_A = "1903"
+F_E = "347"
+F_PCT = ".937"

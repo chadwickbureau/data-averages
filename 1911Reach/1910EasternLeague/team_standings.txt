@@ -1,0 +1,102 @@
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "61"
+R_PCT = ".601"
+R_RANK = "1"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "88"
+R_L = "66"
+R_PCT = ".571"
+R_RANK = "2"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "83"
+R_L = "70"
+R_PCT = ".542"
+R_RANK = "3"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "72"
+R_PCT = ".526"
+R_RANK = "4"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "80"
+R_PCT = ".470"
+R_RANK = "5"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "81"
+R_PCT = ".460"
+R_RANK = "6"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "88"
+R_PCT = ".432"
+R_RANK = "7"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1910"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "92"
+R_PCT = ".399"
+R_RANK = "8"

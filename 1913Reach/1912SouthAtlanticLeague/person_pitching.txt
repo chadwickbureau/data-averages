@@ -1,0 +1,1201 @@
+[[person]]
+name.last = "Thompson"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "5"
+P_IP = "20.4"
+P_AB = "93"
+P_H = "23"
+P_R = "18"
+P_HP = "5"
+P_BB = "5"
+P_SO = "9"
+P_WP = "0"
+P_BK = "0"
+P_W = "1"
+P_L = "0"
+P_T = "0"
+P_PCT = "1.000"
+
+
+[[person]]
+name.last = "Badel"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "5"
+P_IP = "42"
+P_AB = "161"
+P_H = "45"
+P_R = "20"
+P_HP = "0"
+P_BB = "11"
+P_SO = "7"
+P_WP = "0"
+P_BK = "0"
+P_W = "3"
+P_L = "1"
+P_T = "0"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Weidell"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "21"
+P_IP = "168.1"
+P_AB = "627"
+P_H = "142"
+P_R = "52"
+P_HP = "7"
+P_BB = "53"
+P_SO = "125"
+P_WP = "5"
+P_BK = "0"
+P_W = "15"
+P_L = "5"
+P_T = "1"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Schulz"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "43"
+P_IP = "371.4"
+P_AB = "1241"
+P_H = "243"
+P_R = "96"
+P_HP = "17"
+P_BB = "110"
+P_SO = "318"
+P_WP = "8"
+P_BK = "1"
+P_W = "25"
+P_L = "12"
+P_T = "0"
+P_PCT = ".676"
+
+
+[[person]]
+name.last = "McCay"
+name.given = "B."
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "8"
+P_IP = "47.1"
+P_AB = "205"
+P_H = "58"
+P_R = "33"
+P_HP = "1"
+P_BB = "9"
+P_SO = "29"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "1"
+P_T = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Abercrombie"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "34"
+P_IP = "291"
+P_AB = "1072"
+P_H = "211"
+P_R = "78"
+P_HP = "13"
+P_BB = "47"
+P_SO = "131"
+P_WP = "3"
+P_BK = "2"
+P_W = "20"
+P_L = "10"
+P_T = "1"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Wilder"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "27"
+P_IP = "199.6"
+P_AB = "753"
+P_H = "186"
+P_R = "59"
+P_HP = "4"
+P_BB = "30"
+P_SO = "65"
+P_WP = "4"
+P_BK = "0"
+P_W = "15"
+P_L = "8"
+P_T = "0"
+P_PCT = ".652"
+
+
+[[person]]
+name.last = "Horten"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "33"
+P_IP = "259"
+P_AB = "962"
+P_H = "218"
+P_R = "83"
+P_HP = "8"
+P_BB = "43"
+P_SO = "114"
+P_WP = "2"
+P_BK = "0"
+P_W = "18"
+P_L = "10"
+P_T = "1"
+P_PCT = ".643"
+
+
+[[person]]
+name.last = "Douggleby"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "29"
+P_IP = "207.7"
+P_AB = "827"
+P_H = "209"
+P_R = "98"
+P_HP = "9"
+P_BB = "49"
+P_SO = "63"
+P_WP = "4"
+P_BK = "0"
+P_W = "16"
+P_L = "9"
+P_T = "0"
+P_PCT = ".640"
+
+
+[[person]]
+name.last = "Robertson"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "39"
+P_IP = "283.5"
+P_AB = "1078"
+P_H = "233"
+P_R = "93"
+P_HP = "8"
+P_BB = "78"
+P_SO = "217"
+P_WP = "7"
+P_BK = "0"
+P_W = "19"
+P_L = "12"
+P_T = "2"
+P_PCT = ".613"
+
+
+[[person]]
+name.last = "Reiss"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "8"
+P_IP = "52.2"
+P_AB = "192"
+P_H = "53"
+P_R = "25"
+P_HP = "1"
+P_BB = "23"
+P_SO = "23"
+P_WP = "3"
+P_BK = "1"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Morrow"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "39"
+P_IP = "310"
+P_AB = "1135"
+P_H = "241"
+P_R = "92"
+P_HP = "20"
+P_BB = "90"
+P_SO = "128"
+P_WP = "3"
+P_BK = "0"
+P_W = "20"
+P_L = "15"
+P_T = "1"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Jones"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "26"
+P_IP = "190.5"
+P_AB = "689"
+P_H = "150"
+P_R = "62"
+P_HP = "8"
+P_BB = "56"
+P_SO = "64"
+P_WP = "4"
+P_BK = "1"
+P_W = "11"
+P_L = "10"
+P_T = "0"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Scheneberg"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "25"
+P_IP = "178.5"
+P_AB = "677"
+P_H = "143"
+P_R = "72"
+P_HP = "10"
+P_BB = "88"
+P_SO = "91"
+P_WP = "4"
+P_BK = "1"
+P_W = "12"
+P_L = "11"
+P_T = "0"
+P_PCT = ".522"
+
+
+[[person]]
+name.last = "McCormick"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "29"
+P_IP = "221.6"
+P_AB = "819"
+P_H = "193"
+P_R = "88"
+P_HP = "9"
+P_BB = "60"
+P_SO = "71"
+P_WP = "2"
+P_BK = "0"
+P_W = "13"
+P_L = "12"
+P_T = "0"
+P_PCT = ".520"
+
+
+[[person]]
+name.last = "Pruitt"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "14"
+P_IP = "127"
+P_AB = "467"
+P_H = "113"
+P_R = "60"
+P_HP = "10"
+P_BB = "37"
+P_SO = "43"
+P_WP = "1"
+P_BK = "0"
+P_W = "6"
+P_L = "6"
+P_T = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Barrett"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "27"
+P_IP = "174.7"
+P_AB = "675"
+P_H = "176"
+P_R = "63"
+P_HP = "4"
+P_BB = "33"
+P_SO = "72"
+P_WP = "3"
+P_BK = "0"
+P_W = "10"
+P_L = "10"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Hughes"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "8"
+P_IP = "54.2"
+P_AB = "207"
+P_H = "59"
+P_R = "31"
+P_HP = "4"
+P_BB = "34"
+P_SO = "18"
+P_WP = "0"
+P_BK = "0"
+P_W = "3"
+P_L = "3"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "O'Brien"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "31"
+P_IP = "225"
+P_AB = "875"
+P_H = "177"
+P_R = "69"
+P_HP = "4"
+P_BB = "40"
+P_SO = "112"
+P_WP = "0"
+P_BK = "1"
+P_W = "10"
+P_L = "10"
+P_T = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "38"
+P_IP = "274.4"
+P_AB = "1103"
+P_H = "245"
+P_R = "124"
+P_HP = "9"
+P_BB = "73"
+P_SO = "138"
+P_WP = "3"
+P_BK = "0"
+P_W = "15"
+P_L = "17"
+P_T = "1"
+P_PCT = ".469"
+
+
+[[person]]
+name.last = "Porray"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "16"
+P_IP = "133.4"
+P_AB = "487"
+P_H = "117"
+P_R = "57"
+P_HP = "5"
+P_BB = "30"
+P_SO = "61"
+P_WP = "2"
+P_BK = "1"
+P_W = "6"
+P_L = "7"
+P_T = "0"
+P_PCT = ".462"
+
+
+[[person]]
+name.last = "Voss"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "27"
+P_IP = "192.2"
+P_AB = "767"
+P_H = "170"
+P_R = "87"
+P_HP = "15"
+P_BB = "61"
+P_SO = "127"
+P_WP = "2"
+P_BK = "1"
+P_W = "10"
+P_L = "12"
+P_T = "1"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Thackham"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "38"
+P_IP = "295.7"
+P_AB = "1130"
+P_H = "276"
+P_R = "129"
+P_HP = "13"
+P_BB = "90"
+P_SO = "165"
+P_WP = "5"
+P_BK = "0"
+P_W = "15"
+P_L = "19"
+P_T = "1"
+P_PCT = ".441"
+
+
+[[person]]
+name.last = "Schultz"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "15"
+P_IP = "111.3"
+P_AB = "446"
+P_H = "96"
+P_R = "56"
+P_HP = "6"
+P_BB = "39"
+P_SO = "49"
+P_WP = "2"
+P_BK = "0"
+P_W = "6"
+P_L = "8"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Armstrong"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Savannah"
+[person.playing.totals]
+P_G = "31"
+P_IP = "207.7"
+P_AB = "797"
+P_H = "190"
+P_R = "80"
+P_HP = "3"
+P_BB = "34"
+P_SO = "108"
+P_WP = "3"
+P_BK = "0"
+P_W = "10"
+P_L = "14"
+P_T = "0"
+P_PCT = ".417"
+
+
+[[person]]
+name.last = "Lowry"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "36"
+P_IP = "295.5"
+P_AB = "977"
+P_H = "243"
+P_R = "101"
+P_HP = "7"
+P_BB = "57"
+P_SO = "83"
+P_WP = "4"
+P_BK = "0"
+P_W = "12"
+P_L = "18"
+P_T = "1"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Hamilton"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "17"
+P_IP = "132"
+P_AB = "475"
+P_H = "119"
+P_R = "59"
+P_HP = "10"
+P_BB = "36"
+P_SO = "61"
+P_WP = "2"
+P_BK = "0"
+P_W = "6"
+P_L = "9"
+P_T = "1"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "McCament"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Jacksonville"
+[person.playing.totals]
+P_G = "6"
+P_IP = "34.1"
+P_AB = "136"
+P_H = "38"
+P_R = "16"
+P_HP = "2"
+P_BB = "11"
+P_SO = "8"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Mathieu"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "6"
+P_IP = "32.1"
+P_AB = "128"
+P_H = "27"
+P_R = "13"
+P_HP = "3"
+P_BB = "19"
+P_SO = "17"
+P_WP = "0"
+P_BK = "2"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Applegate"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "10"
+P_IP = "59.3"
+P_AB = "259"
+P_H = "63"
+P_R = "33"
+P_HP = "4"
+P_BB = "35"
+P_SO = "34"
+P_WP = "5"
+P_BK = "0"
+P_W = "2"
+P_L = "3"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Ridgway"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "20"
+P_IP = "140.6"
+P_AB = "552"
+P_H = "134"
+P_R = "64"
+P_HP = "5"
+P_BB = "51"
+P_SO = "48"
+P_WP = "4"
+P_BK = "0"
+P_W = "6"
+P_L = "10"
+P_T = "0"
+P_PCT = ".375"
+
+
+[[person]]
+name.last = "Woolf"
+name.given = "J."
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "21"
+P_IP = "152.4"
+P_AB = "608"
+P_H = "165"
+P_R = "82"
+P_HP = "4"
+P_BB = "24"
+P_SO = "51"
+P_WP = "1"
+P_BK = "0"
+P_W = "7"
+P_L = "12"
+P_T = "0"
+P_PCT = ".368"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "C."
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "12"
+P_IP = "86.4"
+P_AB = "330"
+P_H = "72"
+P_R = "39"
+P_HP = "7"
+P_BB = "41"
+P_SO = "38"
+P_WP = "4"
+P_BK = "2"
+P_W = "4"
+P_L = "7"
+P_T = "0"
+P_PCT = ".364"
+
+
+[[person]]
+name.last = "Ery"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[person.playing.totals]
+P_G = "7"
+P_IP = "51.4"
+P_AB = "196"
+P_H = "42"
+P_R = "24"
+P_HP = "1"
+P_BB = "22"
+P_SO = "25"
+P_WP = "1"
+P_BK = "0"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Day"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbus"
+[person.playing.totals]
+P_G = "6"
+P_IP = "37.1"
+P_AB = "173"
+P_H = "55"
+P_R = "45"
+P_HP = "2"
+P_BB = "17"
+P_SO = "12"
+P_WP = "0"
+P_BK = "0"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Clarke"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "6"
+P_IP = "53.2"
+P_AB = "192"
+P_H = "69"
+P_R = "23"
+P_HP = "0"
+P_BB = "13"
+P_SO = "11"
+P_WP = "1"
+P_BK = "1"
+P_W = "1"
+P_L = "3"
+P_T = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Dashner"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "26"
+P_IP = "171.7"
+P_AB = "687"
+P_H = "181"
+P_R = "101"
+P_HP = "17"
+P_BB = "63"
+P_SO = "113"
+P_WP = "3"
+P_BK = "0"
+P_W = "6"
+P_L = "19"
+P_T = "0"
+P_PCT = ".240"
+
+
+[[person]]
+name.last = "Elliott"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Macon"
+[[person.playing.split]]
+team.name = "Columbia"
+[person.playing.totals]
+P_G = "10"
+P_IP = "48.4"
+P_AB = "209"
+P_H = "61"
+P_R = "38"
+P_HP = "4"
+P_BB = "25"
+P_SO = "18"
+P_WP = "2"
+P_BK = "0"
+P_W = "2"
+P_L = "6"
+P_T = "0"
+P_PCT = ".143"
+
+
+[[person]]
+name.last = "Brandon"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Burmeister"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Chapman"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Davidson"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Drake"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Drumm"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "DuBose"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Fillingim"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Flowers"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Fox"
+name.given = "J."
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gentle"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Handiboe"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hidy"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Holden"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hough"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Irwin"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Manning"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McCay"
+name.given = "P."
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ostrom"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Robinson"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ryan"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schuessler"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Stake"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Westley"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Winges"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Witter"
+[[person.playing]]
+season = "1912"
+league.name = "South Atlantic League"
+phase = "regular"
+[person.playing.totals]

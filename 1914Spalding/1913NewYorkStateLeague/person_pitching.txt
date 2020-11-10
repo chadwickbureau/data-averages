@@ -1,0 +1,822 @@
+[[person]]
+name.last = "Maroney"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "23"
+P_AB = "591"
+P_H = "193"
+P_R = "122"
+P_HP = "11"
+P_BB = "60"
+P_SO = "37"
+P_WP = "10"
+P_BK = "0"
+P_AVG = ".326"
+
+
+[[person]]
+name.last = "Wagner"
+name.given = "I."
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "11"
+P_AB = "259"
+P_H = "84"
+P_R = "35"
+P_HP = "1"
+P_BB = "27"
+P_SO = "27"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".324"
+
+
+[[person]]
+name.last = "Creager"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "35"
+P_AB = "897"
+P_H = "256"
+P_R = "114"
+P_HP = "13"
+P_BB = "71"
+P_SO = "77"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".285"
+
+
+[[person]]
+name.last = "Owens"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "30"
+P_AB = "823"
+P_H = "233"
+P_R = "111"
+P_HP = "7"
+P_BB = "59"
+P_SO = "100"
+P_WP = "6"
+P_BK = "0"
+P_AVG = ".283"
+
+
+[[person]]
+name.last = "Dowd"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "32"
+P_AB = "968"
+P_H = "271"
+P_R = "124"
+P_HP = "5"
+P_BB = "61"
+P_SO = "107"
+P_WP = "5"
+P_BK = "2"
+P_AVG = ".279"
+
+
+[[person]]
+name.last = "Harkins"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "28"
+P_AB = "824"
+P_H = "228"
+P_R = "102"
+P_HP = "10"
+P_BB = "57"
+P_SO = "54"
+P_WP = "9"
+P_BK = "0"
+P_AVG = ".276"
+
+
+[[person]]
+name.last = "Swift"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "33"
+P_AB = "1076"
+P_H = "297"
+P_R = "162"
+P_HP = "8"
+P_BB = "47"
+P_SO = "140"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".275"
+
+
+[[person]]
+name.last = "Nicholson"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "28"
+P_AB = "612"
+P_H = "168"
+P_R = "79"
+P_HP = "10"
+P_BB = "60"
+P_SO = "84"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".274"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "F."
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "34"
+P_AB = "959"
+P_H = "263"
+P_R = "125"
+P_HP = "11"
+P_BB = "59"
+P_SO = "67"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".274"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "15"
+P_AB = "469"
+P_H = "128"
+P_R = "59"
+P_HP = "1"
+P_BB = "28"
+P_SO = "46"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".272"
+
+
+[[person]]
+name.last = "McLeod"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "28"
+P_AB = "788"
+P_H = "214"
+P_R = "99"
+P_HP = "3"
+P_BB = "55"
+P_SO = "64"
+P_WP = "5"
+P_BK = "1"
+P_AVG = ".271"
+
+
+[[person]]
+name.last = "Lloyd"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "27"
+P_AB = "693"
+P_H = "187"
+P_R = "107"
+P_HP = "8"
+P_BB = "72"
+P_SO = "52"
+P_WP = "2"
+P_BK = "1"
+P_AVG = ".269"
+
+
+[[person]]
+name.last = "McGinley"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "28"
+P_AB = "841"
+P_H = "222"
+P_R = "87"
+P_HP = "1"
+P_BB = "50"
+P_SO = "68"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".264"
+
+
+[[person]]
+name.last = "Doyle"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "35"
+P_AB = "998"
+P_H = "262"
+P_R = "114"
+P_HP = "8"
+P_BB = "48"
+P_SO = "142"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".262"
+
+
+[[person]]
+name.last = "Donnelly"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "15"
+P_AB = "411"
+P_H = "106"
+P_R = "58"
+P_HP = "1"
+P_BB = "35"
+P_SO = "39"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".257"
+
+
+[[person]]
+name.last = "Herbert"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "32"
+P_AB = "970"
+P_H = "249"
+P_R = "110"
+P_HP = "6"
+P_BB = "38"
+P_SO = "66"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".256"
+
+
+[[person]]
+name.last = "Friel"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "29"
+P_AB = "795"
+P_H = "202"
+P_R = "91"
+P_HP = "13"
+P_BB = "66"
+P_SO = "72"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".254"
+
+
+[[person]]
+name.last = "Burchell"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "32"
+P_AB = "819"
+P_H = "207"
+P_R = "75"
+P_HP = "10"
+P_BB = "70"
+P_SO = "109"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".252"
+
+
+[[person]]
+name.last = "Sitton"
+name.given = "Phil"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "34"
+P_AB = "1024"
+P_H = "257"
+P_R = "130"
+P_HP = "6"
+P_BB = "99"
+P_SO = "86"
+P_WP = "2"
+P_BK = "1"
+P_AVG = ".251"
+
+
+[[person]]
+name.last = "Frock"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "34"
+P_AB = "981"
+P_H = "246"
+P_R = "122"
+P_HP = "10"
+P_BB = "40"
+P_SO = "94"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".250"
+
+
+[[person]]
+name.last = "Upham"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "22"
+P_AB = "591"
+P_H = "147"
+P_R = "57"
+P_HP = "4"
+P_BB = "28"
+P_SO = "66"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".248"
+
+
+[[person]]
+name.last = "Barberich"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "27"
+P_AB = "742"
+P_H = "184"
+P_R = "65"
+P_HP = "9"
+P_BB = "42"
+P_SO = "76"
+P_WP = "2"
+P_BK = "0"
+P_AVG = ".247"
+
+
+[[person]]
+name.last = "Johns"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "31"
+P_AB = "930"
+P_H = "230"
+P_R = "100"
+P_HP = "4"
+P_BB = "60"
+P_SO = "120"
+P_WP = "7"
+P_BK = "0"
+P_AVG = ".247"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Syracuse"
+[person.playing.totals]
+P_G = "27"
+P_AB = "809"
+P_H = "200"
+P_R = "76"
+P_HP = "3"
+P_BB = "77"
+P_SO = "153"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".247"
+
+
+[[person]]
+name.last = "Cadore"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "30"
+P_AB = "876"
+P_H = "215"
+P_R = "75"
+P_HP = "8"
+P_BB = "96"
+P_SO = "80"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".245"
+
+
+[[person]]
+name.last = "Buck"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "25"
+P_AB = "787"
+P_H = "192"
+P_R = "74"
+P_HP = "10"
+P_BB = "51"
+P_SO = "86"
+P_WP = "4"
+P_BK = "2"
+P_AVG = ".243"
+
+
+[[person]]
+name.last = "Harned"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "38"
+P_AB = "1088"
+P_H = "259"
+P_R = "116"
+P_HP = "6"
+P_BB = "52"
+P_SO = "123"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".238"
+
+
+[[person]]
+name.last = "Meyers"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "27"
+P_AB = "840"
+P_H = "197"
+P_R = "100"
+P_HP = "9"
+P_BB = "67"
+P_SO = "75"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".234"
+
+
+[[person]]
+name.last = "Gaiser"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+P_G = "37"
+P_AB = "1175"
+P_H = "273"
+P_R = "90"
+P_HP = "12"
+P_BB = "67"
+P_SO = "154"
+P_WP = "4"
+P_BK = "0"
+P_AVG = ".232"
+
+
+[[person]]
+name.last = "Nagle"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Elmira"
+[person.playing.totals]
+P_G = "31"
+P_AB = "948"
+P_H = "220"
+P_R = "111"
+P_HP = "17"
+P_BB = "84"
+P_SO = "170"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".232"
+
+
+[[person]]
+name.last = "Sitton"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "33"
+P_AB = "910"
+P_H = "211"
+P_R = "89"
+P_HP = "7"
+P_BB = "85"
+P_SO = "150"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".231"
+
+
+[[person]]
+name.last = "Goulait"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "15"
+P_AB = "395"
+P_H = "89"
+P_R = "39"
+P_HP = "1"
+P_BB = "45"
+P_SO = "82"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".225"
+
+
+[[person]]
+name.last = "Herche"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "31"
+P_AB = "756"
+P_H = "169"
+P_R = "81"
+P_HP = "6"
+P_BB = "66"
+P_SO = "109"
+P_WP = "4"
+P_BK = "0"
+P_AVG = ".223"
+
+
+[[person]]
+name.last = "Winters"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[person.playing.totals]
+P_G = "16"
+P_AB = "473"
+P_H = "103"
+P_R = "39"
+P_HP = "2"
+P_BB = "27"
+P_SO = "55"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".217"
+
+
+[[person]]
+name.last = "Gaskell"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Troy"
+[[person.playing.split]]
+team.name = "Scranton"
+[person.playing.totals]
+P_G = "26"
+P_AB = "729"
+P_H = "158"
+P_R = "65"
+P_HP = "11"
+P_BB = "51"
+P_SO = "96"
+P_WP = "5"
+P_BK = "0"
+P_AVG = ".216"
+
+
+[[person]]
+name.last = "Hoch"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "26"
+P_AB = "645"
+P_H = "138"
+P_R = "61"
+P_HP = "3"
+P_BB = "52"
+P_SO = "81"
+P_WP = "3"
+P_BK = "0"
+P_AVG = ".213"
+
+
+[[person]]
+name.last = "Marion"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wilkes-Barre"
+[person.playing.totals]
+P_G = "30"
+P_AB = "812"
+P_H = "173"
+P_R = "73"
+P_HP = "17"
+P_BB = "91"
+P_SO = "103"
+P_WP = "9"
+P_BK = "2"
+P_AVG = ".213"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Utica"
+[person.playing.totals]
+P_G = "33"
+P_AB = "1003"
+P_H = "212"
+P_R = "104"
+P_HP = "6"
+P_BB = "79"
+P_SO = "160"
+P_WP = "7"
+P_BK = "0"
+P_AVG = ".211"
+
+
+[[person]]
+name.last = "Rapp"
+[[person.playing]]
+season = "1913"
+league.name = "New York State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Binghamton"
+[person.playing.totals]
+P_G = "18"
+P_AB = "465"
+P_H = "98"
+P_R = "40"
+P_HP = "6"
+P_BB = "33"
+P_SO = "42"
+P_WP = "1"
+P_BK = "0"
+P_AVG = ".210"

@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Archie"
+name.given = "George"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Texarkana"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Adair"
+name.given = "James"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Gainesville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Miller"
+name.given = "James (Hack)"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Wichita Falls"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Finney"
+name.given = "Louis"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Temple"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Gann"
+name.given = "William"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Greenville"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Hancken"
+name.given = "Morris (Buddy)"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Waco"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Peel"
+name.given = "Homer"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Sherman-Denison"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Oana"
+name.given = "Henry"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Austin"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Sarver"
+name.given = "David"
+[[person.managing]]
+season = "1950"
+league.name = "Big State League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Austin"
+S_ORDER = "2"
+[person.managing.totals]

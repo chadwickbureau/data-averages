@@ -1,0 +1,96 @@
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "113"
+B_AB = "3377"
+B_R = "529"
+B_H = "1051"
+B_AVG = ".311"
+
+
+[[team]]
+name = "Maysville"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "46"
+B_AB = "1439"
+B_R = "219"
+B_H = "373"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "110"
+B_AB = "3597"
+B_R = "402"
+B_H = "891"
+B_AVG = ".247"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3402"
+B_R = "418"
+B_H = "813"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "67"
+B_AB = "2202"
+B_R = "294"
+B_H = "525"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Ironton"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "116"
+B_AB = "3393"
+B_R = "289"
+B_H = "795"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1915"
+league.name = "Ohio State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "111"
+B_AB = "3416"
+B_R = "332"
+B_H = "786"
+B_AVG = ".230"

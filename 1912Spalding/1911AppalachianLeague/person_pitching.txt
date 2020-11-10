@@ -1,0 +1,656 @@
+[[person]]
+name.last = "Silvers"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "19"
+P_W = "13"
+P_L = "5"
+P_T = "1"
+P_IP = "170"
+P_H = "144"
+P_R = "54"
+P_BB = "40"
+P_SO = "82"
+P_WP = "0"
+P_HP = "6"
+P_BK = "0"
+P_PCT = ".722"
+
+
+[[person]]
+name.last = "Brumerhoff"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "12"
+P_W = "7"
+P_L = "3"
+P_T = "0"
+P_IP = "94"
+P_H = "64"
+P_R = "27"
+P_BB = "25"
+P_SO = "66"
+P_WP = "7"
+P_HP = "13"
+P_BK = "0"
+P_PCT = ".700"
+
+
+[[person]]
+name.last = "Cullop"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "28"
+P_W = "18"
+P_L = "8"
+P_T = "0"
+P_IP = "219"
+P_H = "188"
+P_R = "86"
+P_BB = "38"
+P_SO = "135"
+P_WP = "3"
+P_HP = "11"
+P_BK = "0"
+P_PCT = ".692"
+
+
+[[person]]
+name.last = "Herrill"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "17"
+P_W = "10"
+P_L = "5"
+P_T = "0"
+P_IP = "138"
+P_H = "106"
+P_R = "56"
+P_BB = "38"
+P_SO = "84"
+P_WP = "3"
+P_HP = "9"
+P_BK = "0"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Waymack"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "27"
+P_W = "14"
+P_L = "8"
+P_T = "0"
+P_IP = "199"
+P_H = "172"
+P_R = "85"
+P_BB = "69"
+P_SO = "93"
+P_WP = "0"
+P_HP = "23"
+P_BK = "0"
+P_PCT = ".632"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "32"
+P_W = "17"
+P_L = "10"
+P_T = "1"
+P_IP = "236"
+P_H = "205"
+P_R = "102"
+P_BB = "52"
+P_SO = "137"
+P_WP = "7"
+P_HP = "14"
+P_BK = "0"
+P_PCT = ".629"
+
+
+[[person]]
+name.last = "Kelley"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnson City"
+[person.playing.totals]
+P_G = "31"
+P_W = "17"
+P_L = "10"
+P_T = "0"
+P_IP = "228"
+P_H = "206"
+P_R = "92"
+P_BB = "51"
+P_SO = "171"
+P_WP = "10"
+P_HP = "19"
+P_BK = "1"
+P_PCT = ".629"
+
+
+[[person]]
+name.last = "Foreman"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "20"
+P_W = "11"
+P_L = "7"
+P_T = "0"
+P_IP = "153"
+P_H = "156"
+P_R = "72"
+P_BB = "38"
+P_SO = "53"
+P_WP = "6"
+P_HP = "13"
+P_BK = "0"
+P_PCT = ".610"
+
+
+[[person]]
+name.last = "Davis"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "34"
+P_W = "17"
+P_L = "11"
+P_T = "1"
+P_IP = "257"
+P_H = "189"
+P_R = "76"
+P_BB = "76"
+P_SO = "181"
+P_WP = "2"
+P_HP = "16"
+P_BK = "0"
+P_PCT = ".606"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "12"
+P_W = "3"
+P_L = "2"
+P_T = "0"
+P_IP = "78"
+P_H = "105"
+P_R = "55"
+P_BB = "21"
+P_SO = "34"
+P_WP = "0"
+P_HP = "5"
+P_BK = "0"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Knox"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Morristown"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "16"
+P_W = "7"
+P_L = "5"
+P_T = "0"
+P_IP = "110"
+P_H = "107"
+P_R = "40"
+P_BB = "8"
+P_SO = "37"
+P_WP = "1"
+P_HP = "1"
+P_BK = "0"
+P_PCT = ".566"
+
+
+[[person]]
+name.last = "Perritt"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cleveland"
+[[person.playing.split]]
+team.name = "Morristown"
+[person.playing.totals]
+P_G = "19"
+P_W = "8"
+P_L = "7"
+P_T = "0"
+P_IP = "138"
+P_H = "129"
+P_R = "71"
+P_BB = "46"
+P_SO = "36"
+P_WP = "8"
+P_HP = "9"
+P_BK = "0"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Barnes"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "19"
+P_W = "8"
+P_L = "7"
+P_T = "0"
+P_IP = "110"
+P_H = "106"
+P_R = "74"
+P_BB = "49"
+P_SO = "69"
+P_WP = "6"
+P_HP = "9"
+P_BK = "0"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "McFarlin"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Morristown"
+[person.playing.totals]
+P_G = "28"
+P_W = "11"
+P_L = "10"
+P_T = "2"
+P_IP = "206"
+P_H = "197"
+P_R = "83"
+P_BB = "26"
+P_SO = "92"
+P_WP = "6"
+P_HP = "7"
+P_BK = "0"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Wilson"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Knoxville"
+[person.playing.totals]
+P_G = "30"
+P_W = "13"
+P_L = "12"
+P_T = "1"
+P_IP = "230"
+P_H = "179"
+P_R = "80"
+P_BB = "54"
+P_SO = "146"
+P_WP = "5"
+P_HP = "14"
+P_BK = "0"
+P_PCT = ".520"
+
+
+[[person]]
+name.last = "Schrauder"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Morristown"
+[person.playing.totals]
+P_G = "15"
+P_W = "6"
+P_L = "6"
+P_T = "0"
+P_IP = "106"
+P_H = "85"
+P_R = "39"
+P_BB = "26"
+P_SO = "60"
+P_WP = "2"
+P_HP = "4"
+P_BK = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Gudger"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[[person.playing.split]]
+team.name = "Cleveland"
+[person.playing.totals]
+P_G = "19"
+P_W = "8"
+P_L = "9"
+P_T = "0"
+P_IP = "149"
+P_H = "125"
+P_R = "50"
+P_BB = "26"
+P_SO = "63"
+P_WP = "2"
+P_HP = "3"
+P_BK = "0"
+P_PCT = ".470"
+
+
+[[person]]
+name.last = "McGeary"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Asheville"
+[person.playing.totals]
+P_G = "19"
+P_W = "7"
+P_L = "8"
+P_T = "0"
+P_IP = "139"
+P_H = "135"
+P_R = "64"
+P_BB = "24"
+P_SO = "51"
+P_WP = "3"
+P_HP = "6"
+P_BK = "0"
+P_PCT = ".466"
+
+
+[[person]]
+name.last = "Wills"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Morristown"
+[person.playing.totals]
+P_G = "13"
+P_W = "6"
+P_L = "7"
+P_T = "0"
+P_IP = "110"
+P_H = "110"
+P_R = "53"
+P_BB = "28"
+P_SO = "32"
+P_WP = "0"
+P_HP = "3"
+P_BK = "0"
+P_PCT = ".461"
+
+
+[[person]]
+name.last = "Brandon"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "11"
+P_W = "5"
+P_L = "6"
+P_T = "0"
+P_IP = "84"
+P_H = "86"
+P_R = "38"
+P_BB = "14"
+P_SO = "17"
+P_WP = "0"
+P_HP = "1"
+P_BK = "0"
+P_PCT = ".454"
+
+
+[[person]]
+name.last = "Rose"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cleveland"
+[person.playing.totals]
+P_G = "31"
+P_W = "14"
+P_L = "16"
+P_T = "1"
+P_IP = "260"
+P_H = "244"
+P_R = "128"
+P_BB = "74"
+P_SO = "138"
+P_WP = "1"
+P_HP = "23"
+P_BK = "0"
+P_PCT = ".452"
+
+
+[[person]]
+name.last = "Morton"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Morristown"
+[person.playing.totals]
+P_G = "23"
+P_W = "8"
+P_L = "12"
+P_T = "0"
+P_IP = "171"
+P_H = "162"
+P_R = "78"
+P_BB = "34"
+P_SO = "62"
+P_WP = "1"
+P_HP = "9"
+P_BK = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Beatty"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "15"
+P_W = "4"
+P_L = "7"
+P_T = "0"
+P_IP = "79"
+P_H = "86"
+P_R = "55"
+P_BB = "28"
+P_SO = "35"
+P_WP = "1"
+P_HP = "4"
+P_BK = "0"
+P_PCT = ".363"
+
+
+[[person]]
+name.last = "Norman"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cleveland"
+[person.playing.totals]
+P_G = "27"
+P_W = "8"
+P_L = "15"
+P_T = "0"
+P_IP = "183"
+P_H = "210"
+P_R = "114"
+P_BB = "46"
+P_SO = "110"
+P_WP = "4"
+P_HP = "12"
+P_BK = "0"
+P_PCT = ".348"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "28"
+P_W = "8"
+P_L = "15"
+P_T = "0"
+P_IP = "200"
+P_H = "217"
+P_R = "137"
+P_BB = "48"
+P_SO = "102"
+P_WP = "9"
+P_HP = "10"
+P_BK = "0"
+P_PCT = ".348"
+
+
+[[person]]
+name.last = "Sloan"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "15"
+P_W = "4"
+P_L = "8"
+P_T = "0"
+P_IP = "89"
+P_H = "101"
+P_R = "68"
+P_BB = "22"
+P_SO = "39"
+P_WP = "2"
+P_HP = "3"
+P_BK = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Stults"
+[[person.playing]]
+season = "1911"
+league.name = "Appalachian League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Bristol"
+[person.playing.totals]
+P_G = "30"
+P_W = "6"
+P_L = "20"
+P_T = "2"
+P_IP = "233"
+P_H = "217"
+P_R = "141"
+P_BB = "59"
+P_SO = "118"
+P_WP = "10"
+P_HP = "11"
+P_BK = "0"
+P_PCT = ".231"

@@ -1,0 +1,190 @@
+[[team]]
+name = "Pittsfield"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "3927"
+B_R = "637"
+B_H = "1054"
+B_TB = "1444"
+B_2B = "160"
+B_3B = "55"
+B_HR = "40"
+B_SH = "94"
+B_SB = "109"
+B_BB = "523"
+B_HP = "24"
+B_RBI = "538"
+B_SO = "543"
+B_AVG = ".268"
+
+
+[[team]]
+name = "Rome"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "4077"
+B_R = "695"
+B_H = "1087"
+B_TB = "1403"
+B_2B = "155"
+B_3B = "22"
+B_HR = "39"
+B_SH = "91"
+B_SB = "84"
+B_BB = "609"
+B_HP = "21"
+B_RBI = "585"
+B_SO = "383"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Amsterdam"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "4012"
+B_R = "659"
+B_H = "1062"
+B_TB = "1396"
+B_2B = "165"
+B_3B = "41"
+B_HR = "29"
+B_SH = "76"
+B_SB = "83"
+B_BB = "626"
+B_HP = "29"
+B_RBI = "561"
+B_SO = "518"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Oneonta"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4066"
+B_R = "649"
+B_H = "1073"
+B_TB = "1379"
+B_2B = "144"
+B_3B = "54"
+B_HR = "18"
+B_SH = "75"
+B_SB = "166"
+B_BB = "561"
+B_HP = "51"
+B_RBI = "531"
+B_SO = "610"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Three Rivers"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3901"
+B_R = "684"
+B_H = "1017"
+B_TB = "1371"
+B_2B = "189"
+B_3B = "42"
+B_HR = "27"
+B_SH = "59"
+B_SB = "137"
+B_BB = "647"
+B_HP = "35"
+B_RBI = "599"
+B_SO = "564"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Gloversville-Johnstown"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4012"
+B_R = "636"
+B_H = "1044"
+B_TB = "1387"
+B_2B = "156"
+B_3B = "41"
+B_HR = "35"
+B_SH = "94"
+B_SB = "98"
+B_BB = "542"
+B_HP = "33"
+B_RBI = "546"
+B_SO = "503"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Quebec"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3873"
+B_R = "519"
+B_H = "920"
+B_TB = "1196"
+B_2B = "136"
+B_3B = "37"
+B_HR = "22"
+B_SH = "111"
+B_SB = "86"
+B_BB = "521"
+B_HP = "24"
+B_RBI = "428"
+B_SO = "585"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Schenectady"
+[[team.playing]]
+season = "1946"
+league.name = "Canadian-American League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3844"
+B_R = "568"
+B_H = "905"
+B_TB = "1188"
+B_2B = "164"
+B_3B = "22"
+B_HR = "25"
+B_SH = "39"
+B_SB = "104"
+B_BB = "542"
+B_HP = "32"
+B_RBI = "459"
+B_SO = "563"
+B_AVG = ".235"

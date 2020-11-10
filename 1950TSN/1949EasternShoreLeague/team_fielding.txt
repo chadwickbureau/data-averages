@@ -1,0 +1,100 @@
+[[team]]
+name = "Seaford"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "121"
+F_PB = "26"
+F_PO = "3126"
+F_A = "1369"
+F_E = "209"
+F_TP = "1"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Rehoboth Beach"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_DP = "103"
+F_PB = "7"
+F_PO = "3085"
+F_A = "1409"
+F_E = "226"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Federalsburg"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "99"
+F_PB = "21"
+F_PO = "3135"
+F_A = "1320"
+F_E = "238"
+F_TP = "1"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Easton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "103"
+F_PB = "16"
+F_PO = "3119"
+F_A = "1303"
+F_E = "246"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Salisbury"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "119"
+F_DP = "113"
+F_PB = "28"
+F_PO = "3089"
+F_A = "1150"
+F_E = "239"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Cambridge"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern Shore League"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_DP = "102"
+F_PB = "12"
+F_PO = "3143"
+F_A = "1290"
+F_E = "284"
+F_TP = "0"
+F_PCT = ".940"

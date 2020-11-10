@@ -1,0 +1,134 @@
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "137"
+F_PB = "23"
+F_PO = "4060"
+F_A = "1638"
+F_E = "223"
+F_TP = "0"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "103"
+F_PB = "20"
+F_PO = "3971"
+F_A = "1737"
+F_E = "225"
+F_TP = "0"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "91"
+F_PB = "15"
+F_PO = "4062"
+F_A = "1506"
+F_E = "226"
+F_TP = "0"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "156"
+F_PB = "15"
+F_PO = "4034"
+F_A = "1852"
+F_E = "242"
+F_TP = "0"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "143"
+F_PB = "21"
+F_PO = "3986"
+F_A = "1826"
+F_E = "233"
+F_TP = "0"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "127"
+F_PB = "18"
+F_PO = "4024"
+F_A = "1776"
+F_E = "240"
+F_TP = "0"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "118"
+F_PB = "12"
+F_PO = "3939"
+F_A = "1580"
+F_E = "239"
+F_TP = "0"
+F_PCT = ".958"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1949"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "110"
+F_PB = "14"
+F_PO = "4027"
+F_A = "1678"
+F_E = "249"
+F_TP = "0"
+F_PCT = ".958"

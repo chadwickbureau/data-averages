@@ -1,0 +1,76 @@
+[[team]]
+name = "Paris"
+[[team.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "47"
+R_PCT = ".630"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "56"
+R_PCT = ".553"
+R_RANK = "2"
+
+
+[[team]]
+name = "Winchester"
+[[team.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "59"
+R_PCT = ".516"
+R_RANK = "3"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "60"
+R_PCT = ".512"
+R_RANK = "4"
+
+
+[[team]]
+name = "Frankfort"
+[[team.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "61"
+R_PCT = ".496"
+R_RANK = "5"
+
+
+[[team]]
+name = "Maysville"
+[[team.playing]]
+season = "1910"
+league.name = "Blue Grass League"
+phase = "regular"
+[team.playing.totals]
+R_W = "37"
+R_L = "89"
+R_PCT = ".294"
+R_RANK = "6"

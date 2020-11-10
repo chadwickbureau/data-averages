@@ -1,0 +1,6166 @@
+[[person]]
+name.last = "Brooks"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "15"
+B_AB = "46"
+B_R = "10"
+B_H = "20"
+B_TB = "26"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "4"
+B_AVG = ".435"
+
+
+[[person]]
+name.last = "Leeper"
+name.given = "Mason"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "12"
+B_AB = "15"
+B_R = "4"
+B_H = "6"
+B_TB = "8"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "2"
+B_AVG = ".400"
+
+
+[[person]]
+name.last = "Scott"
+name.given = "Legrant"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "88"
+B_AB = "250"
+B_R = "58"
+B_H = "92"
+B_TB = "138"
+B_2B = "20"
+B_3B = "1"
+B_HR = "8"
+B_SH = "2"
+B_SB = "6"
+B_BB = "68"
+B_HP = "0"
+B_RBI = "63"
+B_SO = "7"
+B_AVG = ".368"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Parsons"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+B_G = "22"
+[[person.playing.split]]
+team.name = "Moultrie"
+B_G = "65"
+[person.playing.totals]
+B_G = "87"
+B_AB = "262"
+B_R = "45"
+B_H = "94"
+B_TB = "140"
+B_2B = "19"
+B_3B = "3"
+B_HR = "7"
+B_SH = "2"
+B_SB = "4"
+B_BB = "28"
+B_HP = "4"
+B_RBI = "61"
+B_SO = "32"
+B_AVG = ".359"
+
+
+[[person]]
+name.last = "Reese"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "82"
+B_AB = "308"
+B_R = "50"
+B_H = "106"
+B_TB = "134"
+B_2B = "12"
+B_3B = "2"
+B_HR = "4"
+B_SH = "6"
+B_SB = "7"
+B_BB = "54"
+B_HP = "0"
+B_RBI = "45"
+B_SO = "21"
+B_AVG = ".344"
+
+
+[[person]]
+name.last = "McCarnes"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "125"
+B_AB = "503"
+B_R = "111"
+B_H = "169"
+B_TB = "218"
+B_2B = "34"
+B_3B = "6"
+B_HR = "1"
+B_SH = "11"
+B_SB = "14"
+B_BB = "72"
+B_HP = "7"
+B_RBI = "72"
+B_SO = "40"
+B_AVG = ".336"
+
+
+[[person]]
+name.last = "McBryde"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "88"
+B_AB = "336"
+B_R = "60"
+B_H = "113"
+B_TB = "159"
+B_2B = "16"
+B_3B = "9"
+B_HR = "4"
+B_SH = "1"
+B_SB = "8"
+B_BB = "43"
+B_HP = "3"
+B_RBI = "61"
+B_SO = "32"
+B_AVG = ".336"
+
+
+[[person]]
+name.last = "Glynn"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "114"
+B_AB = "470"
+B_R = "88"
+B_H = "154"
+B_TB = "269"
+B_2B = "34"
+B_3B = "18"
+B_HR = "15"
+B_SH = "2"
+B_SB = "8"
+B_BB = "39"
+B_HP = "4"
+B_RBI = "104"
+B_SO = "73"
+B_AVG = ".328"
+
+
+[[person]]
+name.last = "Mullen"
+name.given = "Vincent"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "90"
+B_AB = "268"
+B_R = "58"
+B_H = "87"
+B_TB = "117"
+B_2B = "18"
+B_3B = "6"
+B_HR = "0"
+B_SH = "0"
+B_SB = "4"
+B_BB = "101"
+B_HP = "2"
+B_RBI = "71"
+B_SO = "27"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Anjeski"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "63"
+B_AB = "243"
+B_R = "39"
+B_H = "79"
+B_TB = "105"
+B_2B = "9"
+B_3B = "7"
+B_HR = "1"
+B_SH = "1"
+B_SB = "15"
+B_BB = "25"
+B_HP = "3"
+B_RBI = "34"
+B_SO = "57"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Moore"
+name.given = "Herbert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "116"
+B_AB = "365"
+B_R = "50"
+B_H = "118"
+B_TB = "157"
+B_2B = "25"
+B_3B = "4"
+B_HR = "2"
+B_SH = "11"
+B_SB = "4"
+B_BB = "58"
+B_HP = "2"
+B_RBI = "76"
+B_SO = "33"
+B_AVG = ".323"
+
+
+[[person]]
+name.last = "Parente"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "49"
+B_AB = "93"
+B_R = "13"
+B_H = "30"
+B_TB = "49"
+B_2B = "4"
+B_3B = "6"
+B_HR = "1"
+B_SH = "4"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "22"
+B_SO = "11"
+B_AVG = ".323"
+
+
+[[person]]
+name.last = "LaFrance"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "72"
+B_AB = "267"
+B_R = "28"
+B_H = "85"
+B_TB = "126"
+B_2B = "20"
+B_3B = "3"
+B_HR = "5"
+B_SH = "0"
+B_SB = "2"
+B_BB = "53"
+B_HP = "3"
+B_RBI = "61"
+B_SO = "49"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Corley"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "116"
+B_AB = "473"
+B_R = "81"
+B_H = "150"
+B_TB = "198"
+B_2B = "24"
+B_3B = "6"
+B_HR = "4"
+B_SH = "7"
+B_SB = "12"
+B_BB = "19"
+B_HP = "2"
+B_RBI = "82"
+B_SO = "55"
+B_AVG = ".317"
+
+
+[[person]]
+name.last = "Rogers"
+name.given = "Walter"
+description.bats = "S"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "123"
+B_AB = "490"
+B_R = "82"
+B_H = "154"
+B_TB = "216"
+B_2B = "21"
+B_3B = "13"
+B_HR = "5"
+B_SH = "4"
+B_SB = "18"
+B_BB = "44"
+B_HP = "4"
+B_RBI = "61"
+B_SO = "51"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Brooks"
+name.given = "Floyd"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "103"
+B_AB = "370"
+B_R = "104"
+B_H = "116"
+B_TB = "131"
+B_2B = "13"
+B_3B = "1"
+B_HR = "0"
+B_SH = "9"
+B_SB = "31"
+B_BB = "81"
+B_HP = "3"
+B_RBI = "36"
+B_SO = "47"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Moody"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "122"
+B_AB = "470"
+B_R = "102"
+B_H = "147"
+B_TB = "203"
+B_2B = "27"
+B_3B = "7"
+B_HR = "5"
+B_SH = "10"
+B_SB = "3"
+B_BB = "72"
+B_HP = "3"
+B_RBI = "98"
+B_SO = "62"
+B_AVG = ".313"
+
+
+[[person]]
+name.last = "Farrar"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "31"
+B_AB = "99"
+B_R = "20"
+B_H = "31"
+B_TB = "46"
+B_2B = "6"
+B_3B = "0"
+B_HR = "3"
+B_SH = "0"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "21"
+B_SO = "11"
+B_AVG = ".313"
+
+
+[[person]]
+name.last = "Tanner"
+name.given = "J. D."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "10"
+B_AB = "32"
+B_R = "6"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".313"
+
+
+[[person]]
+name.last = "Welp"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "111"
+B_AB = "352"
+B_R = "65"
+B_H = "109"
+B_TB = "145"
+B_2B = "16"
+B_3B = "10"
+B_HR = "0"
+B_SH = "6"
+B_SB = "21"
+B_BB = "47"
+B_HP = "2"
+B_RBI = "44"
+B_SO = "36"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Swygert"
+name.given = "Alan"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "28"
+B_AB = "87"
+B_R = "14"
+B_H = "27"
+B_TB = "37"
+B_2B = "10"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "20"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Barnes"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "21"
+B_AB = "82"
+B_R = "16"
+B_H = "25"
+B_TB = "38"
+B_2B = "3"
+B_3B = "2"
+B_HR = "2"
+B_SH = "3"
+B_SB = "2"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "15"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "Rhyne"
+name.given = "Kenneth"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "123"
+B_AB = "467"
+B_R = "101"
+B_H = "142"
+B_TB = "242"
+B_2B = "28"
+B_3B = "3"
+B_HR = "22"
+B_SH = "2"
+B_SB = "2"
+B_BB = "100"
+B_HP = "1"
+B_RBI = "129"
+B_SO = "23"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Spaziano"
+name.given = "Alfred"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "108"
+B_AB = "366"
+B_R = "63"
+B_H = "111"
+B_TB = "141"
+B_2B = "20"
+B_3B = "2"
+B_HR = "2"
+B_SH = "6"
+B_SB = "8"
+B_BB = "49"
+B_HP = "6"
+B_RBI = "46"
+B_SO = "67"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Samson"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "41"
+B_AB = "145"
+B_R = "18"
+B_H = "44"
+B_TB = "56"
+B_2B = "6"
+B_3B = "3"
+B_HR = "0"
+B_SH = "4"
+B_SB = "4"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "12"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Myers"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "25"
+B_AB = "99"
+B_R = "14"
+B_H = "30"
+B_TB = "33"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "20"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Douglas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "124"
+B_AB = "450"
+B_R = "90"
+B_H = "136"
+B_TB = "189"
+B_2B = "11"
+B_3B = "18"
+B_HR = "2"
+B_SH = "2"
+B_SB = "15"
+B_BB = "82"
+B_HP = "2"
+B_RBI = "83"
+B_SO = "83"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Petty"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "21"
+B_AB = "84"
+B_R = "11"
+B_H = "25"
+B_TB = "34"
+B_2B = "2"
+B_3B = "2"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "11"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Dove"
+name.given = "Patrick"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+B_G = "62"
+[[person.playing.split]]
+team.name = "Cordele"
+B_G = "49"
+[person.playing.totals]
+B_G = "111"
+B_AB = "455"
+B_R = "66"
+B_H = "133"
+B_TB = "171"
+B_2B = "24"
+B_3B = "4"
+B_HR = "2"
+B_SH = "3"
+B_SB = "7"
+B_BB = "30"
+B_HP = "0"
+B_RBI = "69"
+B_SO = "31"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Brannan"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "112"
+B_AB = "384"
+B_R = "72"
+B_H = "112"
+B_TB = "138"
+B_2B = "10"
+B_3B = "5"
+B_HR = "2"
+B_SH = "5"
+B_SB = "12"
+B_BB = "61"
+B_HP = "8"
+B_RBI = "49"
+B_SO = "45"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Doll"
+name.given = "Arthur"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "63"
+B_AB = "138"
+B_R = "17"
+B_H = "40"
+B_TB = "53"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "32"
+B_SO = "15"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "106"
+B_AB = "347"
+B_R = "51"
+B_H = "100"
+B_TB = "123"
+B_2B = "21"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "15"
+B_BB = "60"
+B_HP = "7"
+B_RBI = "58"
+B_SO = "40"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "German"
+name.given = "Preston"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "103"
+B_AB = "414"
+B_R = "65"
+B_H = "119"
+B_TB = "135"
+B_2B = "14"
+B_3B = "1"
+B_HR = "0"
+B_SH = "10"
+B_SB = "16"
+B_BB = "43"
+B_HP = "4"
+B_RBI = "36"
+B_SO = "44"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "52"
+B_AB = "220"
+B_R = "33"
+B_H = "63"
+B_TB = "74"
+B_2B = "7"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "2"
+B_BB = "11"
+B_HP = "3"
+B_RBI = "18"
+B_SO = "18"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Jobe"
+name.given = "Lewis"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "30"
+B_AB = "70"
+B_R = "7"
+B_H = "20"
+B_TB = "26"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "11"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Poole"
+name.given = "James, Sr."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "22"
+B_AB = "49"
+B_R = "13"
+B_H = "14"
+B_TB = "25"
+B_2B = "3"
+B_3B = "1"
+B_HR = "2"
+B_SH = "0"
+B_SB = "0"
+B_BB = "10"
+B_HP = "1"
+B_RBI = "16"
+B_SO = "6"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Duda"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "13"
+B_AB = "21"
+B_R = "4"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Heffline"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "65"
+B_AB = "250"
+B_R = "28"
+B_H = "71"
+B_TB = "107"
+B_2B = "10"
+B_3B = "10"
+B_HR = "2"
+B_SH = "5"
+B_SB = "3"
+B_BB = "30"
+B_HP = "2"
+B_RBI = "32"
+B_SO = "42"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Cronic"
+name.given = "Guin"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "31"
+B_AB = "67"
+B_R = "5"
+B_H = "19"
+B_TB = "23"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "19"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Larivee"
+name.given = "Armand"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "20"
+B_AB = "75"
+B_R = "13"
+B_H = "21"
+B_TB = "23"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "5"
+B_HP = "2"
+B_RBI = "12"
+B_SO = "8"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "McMillan"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "60"
+B_AB = "240"
+B_R = "47"
+B_H = "67"
+B_TB = "91"
+B_2B = "12"
+B_3B = "6"
+B_HR = "0"
+B_SH = "8"
+B_SB = "2"
+B_BB = "40"
+B_HP = "1"
+B_RBI = "34"
+B_SO = "29"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Turner"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "106"
+B_AB = "378"
+B_R = "55"
+B_H = "105"
+B_TB = "136"
+B_2B = "15"
+B_3B = "5"
+B_HR = "2"
+B_SH = "6"
+B_SB = "13"
+B_BB = "27"
+B_HP = "9"
+B_RBI = "73"
+B_SO = "44"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Rautzhan"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "118"
+B_AB = "423"
+B_R = "55"
+B_H = "117"
+B_TB = "137"
+B_2B = "14"
+B_3B = "3"
+B_HR = "0"
+B_SH = "5"
+B_SB = "4"
+B_BB = "78"
+B_HP = "3"
+B_RBI = "55"
+B_SO = "66"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Osborne"
+name.given = "E. Peter"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "63"
+B_AB = "173"
+B_R = "18"
+B_H = "48"
+B_TB = "58"
+B_2B = "5"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "1"
+B_BB = "22"
+B_HP = "0"
+B_RBI = "33"
+B_SO = "21"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Crumly"
+name.given = "Ivan"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "125"
+B_AB = "482"
+B_R = "89"
+B_H = "133"
+B_TB = "188"
+B_2B = "18"
+B_3B = "14"
+B_HR = "3"
+B_SH = "2"
+B_SB = "17"
+B_BB = "55"
+B_HP = "6"
+B_RBI = "89"
+B_SO = "52"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Stasko"
+name.given = "Julius"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "115"
+B_AB = "449"
+B_R = "73"
+B_H = "124"
+B_TB = "166"
+B_2B = "16"
+B_3B = "10"
+B_HR = "2"
+B_SH = "19"
+B_SB = "16"
+B_BB = "39"
+B_HP = "1"
+B_RBI = "65"
+B_SO = "61"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Dwyer"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "124"
+B_AB = "508"
+B_R = "87"
+B_H = "139"
+B_TB = "164"
+B_2B = "12"
+B_3B = "5"
+B_HR = "1"
+B_SH = "6"
+B_SB = "24"
+B_BB = "60"
+B_HP = "9"
+B_RBI = "43"
+B_SO = "49"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Romello"
+name.given = "Mike"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "114"
+B_AB = "423"
+B_R = "99"
+B_H = "116"
+B_TB = "147"
+B_2B = "13"
+B_3B = "6"
+B_HR = "2"
+B_SH = "14"
+B_SB = "19"
+B_BB = "70"
+B_HP = "3"
+B_RBI = "57"
+B_SO = "39"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Del Papa"
+name.given = "Frank"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "104"
+B_AB = "380"
+B_R = "53"
+B_H = "104"
+B_TB = "156"
+B_2B = "14"
+B_3B = "4"
+B_HR = "10"
+B_SH = "2"
+B_SB = "7"
+B_BB = "31"
+B_HP = "7"
+B_RBI = "73"
+B_SO = "49"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Haddican"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "85"
+B_AB = "321"
+B_R = "58"
+B_H = "88"
+B_TB = "108"
+B_2B = "14"
+B_3B = "3"
+B_HR = "0"
+B_SH = "7"
+B_SB = "34"
+B_BB = "46"
+B_HP = "2"
+B_RBI = "31"
+B_SO = "69"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Cusick"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "93"
+B_AB = "338"
+B_R = "51"
+B_H = "92"
+B_TB = "113"
+B_2B = "11"
+B_3B = "5"
+B_HR = "0"
+B_SH = "4"
+B_SB = "10"
+B_BB = "30"
+B_HP = "2"
+B_RBI = "67"
+B_SO = "46"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Chernetsky"
+name.given = "Arnold"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "90"
+B_AB = "336"
+B_R = "42"
+B_H = "91"
+B_TB = "104"
+B_2B = "11"
+B_3B = "1"
+B_HR = "0"
+B_SH = "10"
+B_SB = "3"
+B_BB = "24"
+B_HP = "4"
+B_RBI = "40"
+B_SO = "54"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "DiMartino"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "91"
+B_AB = "303"
+B_R = "36"
+B_H = "82"
+B_TB = "106"
+B_2B = "16"
+B_3B = "4"
+B_HR = "0"
+B_SH = "4"
+B_SB = "2"
+B_BB = "26"
+B_HP = "5"
+B_RBI = "42"
+B_SO = "46"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Poole"
+name.given = "James, Jr."
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "49"
+B_AB = "192"
+B_R = "35"
+B_H = "52"
+B_TB = "65"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "2"
+B_BB = "29"
+B_HP = "0"
+B_RBI = "20"
+B_SO = "16"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Furman"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "66"
+B_AB = "166"
+B_R = "22"
+B_H = "45"
+B_TB = "53"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SB = "1"
+B_BB = "23"
+B_HP = "3"
+B_RBI = "21"
+B_SO = "14"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Riolo"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "17"
+B_AB = "59"
+B_R = "7"
+B_H = "16"
+B_TB = "19"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "6"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Hartman"
+name.given = "Earl"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "112"
+B_AB = "412"
+B_R = "64"
+B_H = "111"
+B_TB = "159"
+B_2B = "18"
+B_3B = "9"
+B_HR = "4"
+B_SH = "6"
+B_SB = "7"
+B_BB = "58"
+B_HP = "2"
+B_RBI = "63"
+B_SO = "56"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Whalen"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "119"
+B_AB = "444"
+B_R = "109"
+B_H = "119"
+B_TB = "157"
+B_2B = "21"
+B_3B = "7"
+B_HR = "1"
+B_SH = "5"
+B_SB = "28"
+B_BB = "65"
+B_HP = "2"
+B_RBI = "57"
+B_SO = "74"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Paulick"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "71"
+B_AB = "220"
+B_R = "28"
+B_H = "59"
+B_TB = "77"
+B_2B = "10"
+B_3B = "1"
+B_HR = "2"
+B_SH = "4"
+B_SB = "8"
+B_BB = "33"
+B_HP = "1"
+B_RBI = "21"
+B_SO = "30"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Bell"
+name.given = "Jefferson"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "127"
+B_AB = "510"
+B_R = "85"
+B_H = "136"
+B_TB = "183"
+B_2B = "19"
+B_3B = "11"
+B_HR = "2"
+B_SH = "6"
+B_SB = "22"
+B_BB = "42"
+B_HP = "1"
+B_RBI = "74"
+B_SO = "69"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Heck"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "78"
+B_AB = "221"
+B_R = "42"
+B_H = "59"
+B_TB = "67"
+B_2B = "6"
+B_3B = "1"
+B_HR = "0"
+B_SH = "8"
+B_SB = "11"
+B_BB = "38"
+B_HP = "5"
+B_RBI = "25"
+B_SO = "49"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Kivett"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "77"
+B_AB = "239"
+B_R = "37"
+B_H = "63"
+B_TB = "76"
+B_2B = "8"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "4"
+B_BB = "25"
+B_HP = "1"
+B_RBI = "37"
+B_SO = "41"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Dykes"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "123"
+B_AB = "457"
+B_R = "93"
+B_H = "120"
+B_TB = "163"
+B_2B = "16"
+B_3B = "9"
+B_HR = "3"
+B_SH = "6"
+B_SB = "23"
+B_BB = "68"
+B_HP = "1"
+B_RBI = "57"
+B_SO = "79"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "34"
+B_AB = "96"
+B_R = "16"
+B_H = "25"
+B_TB = "32"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "7"
+B_BB = "21"
+B_HP = "1"
+B_RBI = "15"
+B_SO = "19"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Braun"
+name.given = "Kenneth"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "64"
+B_AB = "140"
+B_R = "24"
+B_H = "36"
+B_TB = "48"
+B_2B = "8"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "20"
+B_HP = "2"
+B_RBI = "27"
+B_SO = "34"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Hoflack"
+name.given = "Dan"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "11"
+B_AB = "35"
+B_R = "8"
+B_H = "9"
+B_TB = "13"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "9"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Angeli"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "125"
+B_AB = "465"
+B_R = "79"
+B_H = "119"
+B_TB = "177"
+B_2B = "22"
+B_3B = "9"
+B_HR = "6"
+B_SH = "5"
+B_SB = "16"
+B_BB = "60"
+B_HP = "3"
+B_RBI = "79"
+B_SO = "73"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Elenchin"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "97"
+B_AB = "330"
+B_R = "44"
+B_H = "84"
+B_TB = "98"
+B_2B = "10"
+B_3B = "2"
+B_HR = "0"
+B_SH = "6"
+B_SB = "4"
+B_BB = "46"
+B_HP = "4"
+B_RBI = "32"
+B_SO = "61"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Mock"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "106"
+B_AB = "414"
+B_R = "75"
+B_H = "105"
+B_TB = "121"
+B_2B = "10"
+B_3B = "3"
+B_HR = "0"
+B_SH = "11"
+B_SB = "14"
+B_BB = "69"
+B_HP = "1"
+B_RBI = "40"
+B_SO = "37"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Leili"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "65"
+B_AB = "194"
+B_R = "23"
+B_H = "49"
+B_TB = "64"
+B_2B = "12"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "0"
+B_BB = "21"
+B_HP = "0"
+B_RBI = "24"
+B_SO = "40"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Sanford"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "38"
+B_AB = "79"
+B_R = "20"
+B_H = "20"
+B_TB = "28"
+B_2B = "8"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "2"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "10"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Rose"
+name.given = "Russell"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "111"
+B_AB = "412"
+B_R = "58"
+B_H = "104"
+B_TB = "125"
+B_2B = "15"
+B_3B = "3"
+B_HR = "0"
+B_SH = "15"
+B_SB = "13"
+B_BB = "47"
+B_HP = "5"
+B_RBI = "49"
+B_SO = "73"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Castelgrande"
+name.given = "Vito"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "113"
+B_AB = "410"
+B_R = "77"
+B_H = "103"
+B_TB = "134"
+B_2B = "17"
+B_3B = "7"
+B_HR = "0"
+B_SH = "9"
+B_SB = "18"
+B_BB = "83"
+B_HP = "2"
+B_RBI = "44"
+B_SO = "56"
+B_AVG = ".251"
+
+
+[[person]]
+name.last = "Nobles"
+name.given = "Julian"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+B_G = "1"
+[[person.playing.split]]
+team.name = "Thomasville"
+B_G = "28"
+[person.playing.totals]
+B_G = "29"
+B_AB = "44"
+B_R = "8"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Goodwin"
+name.given = "Gewin"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "14"
+B_AB = "40"
+B_R = "4"
+B_H = "10"
+B_TB = "12"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "6"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Strauss"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "11"
+B_AB = "40"
+B_R = "9"
+B_H = "10"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "3"
+B_HP = "3"
+B_RBI = "6"
+B_SO = "3"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Fairley"
+name.given = "Florian"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "15"
+B_AB = "12"
+B_R = "1"
+B_H = "3"
+B_TB = "5"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Zodda"
+name.given = "Victor"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "76"
+B_AB = "289"
+B_R = "44"
+B_H = "72"
+B_TB = "90"
+B_2B = "12"
+B_3B = "3"
+B_HR = "0"
+B_SH = "3"
+B_SB = "11"
+B_BB = "35"
+B_HP = "1"
+B_RBI = "30"
+B_SO = "39"
+B_AVG = ".249"
+
+
+[[person]]
+name.last = "Willett"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "126"
+B_AB = "549"
+B_R = "72"
+B_H = "136"
+B_TB = "156"
+B_2B = "13"
+B_3B = "2"
+B_HR = "1"
+B_SH = "15"
+B_SB = "19"
+B_BB = "40"
+B_HP = "1"
+B_RBI = "41"
+B_SO = "61"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Teal"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "65"
+B_AB = "239"
+B_R = "27"
+B_H = "59"
+B_TB = "83"
+B_2B = "12"
+B_3B = "3"
+B_HR = "2"
+B_SH = "2"
+B_SB = "2"
+B_BB = "21"
+B_HP = "6"
+B_RBI = "37"
+B_SO = "41"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Burkwitt"
+name.given = "Irwin"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+B_G = "104"
+[[person.playing.split]]
+team.name = "Moultrie"
+B_G = "1"
+[person.playing.totals]
+B_G = "105"
+B_AB = "382"
+B_R = "52"
+B_H = "94"
+B_TB = "131"
+B_2B = "10"
+B_3B = "12"
+B_HR = "1"
+B_SH = "3"
+B_SB = "11"
+B_BB = "75"
+B_HP = "2"
+B_RBI = "50"
+B_SO = "71"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Fink"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "90"
+B_AB = "291"
+B_R = "45"
+B_H = "71"
+B_TB = "87"
+B_2B = "6"
+B_3B = "5"
+B_HR = "0"
+B_SH = "7"
+B_SB = "4"
+B_BB = "34"
+B_HP = "5"
+B_RBI = "40"
+B_SO = "64"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "Blackwell"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "99"
+B_AB = "387"
+B_R = "49"
+B_H = "94"
+B_TB = "112"
+B_2B = "12"
+B_3B = "3"
+B_HR = "0"
+B_SH = "1"
+B_SB = "5"
+B_BB = "19"
+B_HP = "4"
+B_RBI = "52"
+B_SO = "25"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Vukas"
+name.given = "Stephen"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "45"
+B_AB = "107"
+B_R = "13"
+B_H = "26"
+B_TB = "30"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "31"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Cahill"
+name.given = "Norman"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "12"
+B_AB = "33"
+B_R = "4"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "8"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Adair"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "29"
+B_AB = "58"
+B_R = "8"
+B_H = "14"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "6"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Lee"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "20"
+B_AB = "29"
+B_R = "3"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "7"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Graffeo"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "12"
+B_AB = "46"
+B_R = "5"
+B_H = "11"
+B_TB = "14"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "12"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Leary"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "17"
+B_AB = "21"
+B_R = "3"
+B_H = "5"
+B_TB = "7"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "6"
+B_AVG = ".238"
+
+
+[[person]]
+name.last = "Edwards"
+name.given = "Elmer"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+B_G = "15"
+[[person.playing.split]]
+team.name = "Cordele"
+B_G = "105"
+[person.playing.totals]
+B_G = "120"
+B_AB = "482"
+B_R = "66"
+B_H = "114"
+B_TB = "148"
+B_2B = "20"
+B_3B = "4"
+B_HR = "2"
+B_SH = "13"
+B_SB = "10"
+B_BB = "33"
+B_HP = "6"
+B_RBI = "50"
+B_SO = "82"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Njirich"
+name.given = "Gildo"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "40"
+B_AB = "131"
+B_R = "14"
+B_H = "31"
+B_TB = "38"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "17"
+B_HP = "0"
+B_RBI = "22"
+B_SO = "25"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Colgan"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "113"
+B_AB = "424"
+B_R = "40"
+B_H = "100"
+B_TB = "119"
+B_2B = "13"
+B_3B = "3"
+B_HR = "0"
+B_SH = "4"
+B_SB = "7"
+B_BB = "44"
+B_HP = "5"
+B_RBI = "62"
+B_SO = "71"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Dance"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "77"
+B_AB = "293"
+B_R = "40"
+B_H = "69"
+B_TB = "82"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "6"
+B_SB = "9"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "42"
+B_SO = "58"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Pavone"
+name.given = "Nicholas"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "14"
+B_AB = "51"
+B_R = "9"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "8"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "12"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Schaeffer"
+name.given = "Bernard"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "27"
+B_AB = "34"
+B_R = "4"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "12"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Katkaveck"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "57"
+B_AB = "192"
+B_R = "15"
+B_H = "45"
+B_TB = "56"
+B_2B = "11"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "28"
+B_HP = "0"
+B_RBI = "20"
+B_SO = "34"
+B_AVG = ".234"
+
+
+[[person]]
+name.last = "Hurd"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "122"
+B_AB = "502"
+B_R = "80"
+B_H = "117"
+B_TB = "154"
+B_2B = "17"
+B_3B = "10"
+B_HR = "0"
+B_SH = "5"
+B_SB = "2"
+B_BB = "73"
+B_HP = "2"
+B_RBI = "50"
+B_SO = "86"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Willingham"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "15"
+B_AB = "30"
+B_R = "3"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "9"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Howard"
+name.given = "Crawford"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "82"
+B_AB = "284"
+B_R = "45"
+B_H = "66"
+B_TB = "98"
+B_2B = "15"
+B_3B = "4"
+B_HR = "3"
+B_SH = "4"
+B_SB = "11"
+B_BB = "45"
+B_HP = "3"
+B_RBI = "50"
+B_SO = "45"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Andrew"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "67"
+B_AB = "194"
+B_R = "22"
+B_H = "45"
+B_TB = "59"
+B_2B = "5"
+B_3B = "3"
+B_HR = "1"
+B_SH = "2"
+B_SB = "3"
+B_BB = "27"
+B_HP = "2"
+B_RBI = "14"
+B_SO = "43"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Hoffman"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "46"
+B_AB = "108"
+B_R = "11"
+B_H = "25"
+B_TB = "30"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "22"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Villa"
+name.given = "Antonio"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "46"
+B_AB = "178"
+B_R = "30"
+B_H = "41"
+B_TB = "52"
+B_2B = "5"
+B_3B = "3"
+B_HR = "0"
+B_SH = "6"
+B_SB = "5"
+B_BB = "22"
+B_HP = "1"
+B_RBI = "15"
+B_SO = "20"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Asmer"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "46"
+B_AB = "113"
+B_R = "19"
+B_H = "26"
+B_TB = "33"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "7"
+B_SB = "1"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "8"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "Martin"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "47"
+B_AB = "192"
+B_R = "24"
+B_H = "44"
+B_TB = "62"
+B_2B = "14"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "36"
+B_SO = "20"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Nix"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+B_G = "26"
+[[person.playing.split]]
+team.name = "Cordele"
+B_G = "18"
+[person.playing.totals]
+B_G = "44"
+B_AB = "144"
+B_R = "16"
+B_H = "33"
+B_TB = "36"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "4"
+B_BB = "17"
+B_HP = "5"
+B_RBI = "11"
+B_SO = "31"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Coates"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "13"
+B_AB = "48"
+B_R = "8"
+B_H = "11"
+B_TB = "18"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "16"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Bishop"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "33"
+B_AB = "92"
+B_R = "13"
+B_H = "21"
+B_TB = "31"
+B_2B = "4"
+B_3B = "3"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "34"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Utke"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "84"
+B_AB = "262"
+B_R = "28"
+B_H = "59"
+B_TB = "72"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "10"
+B_SB = "4"
+B_BB = "20"
+B_HP = "1"
+B_RBI = "32"
+B_SO = "38"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Dravecky"
+name.given = "Andrew"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "83"
+B_AB = "263"
+B_R = "38"
+B_H = "59"
+B_TB = "68"
+B_2B = "2"
+B_3B = "2"
+B_HR = "1"
+B_SH = "5"
+B_SB = "3"
+B_BB = "35"
+B_HP = "5"
+B_RBI = "35"
+B_SO = "45"
+B_AVG = ".224"
+
+
+[[person]]
+name.last = "Savage"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "25"
+B_AB = "45"
+B_R = "4"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "17"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Bauer"
+name.given = "Edmund"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "24"
+B_AB = "77"
+B_R = "4"
+B_H = "17"
+B_TB = "21"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SB = "3"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "17"
+B_AVG = ".221"
+
+
+[[person]]
+name.last = "Laumann"
+name.given = "Andrew"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "103"
+B_AB = "342"
+B_R = "90"
+B_H = "75"
+B_TB = "90"
+B_2B = "6"
+B_3B = "0"
+B_HR = "3"
+B_SH = "10"
+B_SB = "6"
+B_BB = "82"
+B_HP = "3"
+B_RBI = "35"
+B_SO = "30"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Whitmore"
+name.given = "Don"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "34"
+B_AB = "69"
+B_R = "4"
+B_H = "15"
+B_TB = "19"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "13"
+B_AVG = ".217"
+
+
+[[person]]
+name.last = "August"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "13"
+B_AB = "51"
+B_R = "9"
+B_H = "11"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "3"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "12"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Sanders"
+name.given = "Lewis"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "83"
+B_AB = "302"
+B_R = "68"
+B_H = "65"
+B_TB = "84"
+B_2B = "7"
+B_3B = "6"
+B_HR = "0"
+B_SH = "5"
+B_SB = "23"
+B_BB = "90"
+B_HP = "4"
+B_RBI = "27"
+B_SO = "46"
+B_AVG = ".215"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "Emery"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "29"
+B_AB = "84"
+B_R = "16"
+B_H = "18"
+B_TB = "20"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "2"
+B_BB = "18"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "11"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Valencik"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "11"
+B_AB = "42"
+B_R = "5"
+B_H = "9"
+B_TB = "14"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "11"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Holloman"
+name.given = "Lee"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "44"
+B_AB = "99"
+B_R = "18"
+B_H = "21"
+B_TB = "26"
+B_2B = "0"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "31"
+B_AVG = ".212"
+
+
+[[person]]
+name.last = "Woleen"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "120"
+B_AB = "334"
+B_R = "40"
+B_H = "70"
+B_TB = "86"
+B_2B = "8"
+B_3B = "4"
+B_HR = "0"
+B_SH = "4"
+B_SB = "5"
+B_BB = "39"
+B_HP = "2"
+B_RBI = "33"
+B_SO = "89"
+B_AVG = ".210"
+
+
+[[person]]
+name.last = "Fields"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "20"
+B_AB = "67"
+B_R = "6"
+B_H = "14"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "17"
+B_AVG = ".209"
+
+
+[[person]]
+name.last = "Garrison"
+name.given = "Lyle"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+B_G = "20"
+[[person.playing.split]]
+team.name = "Cordele"
+B_G = "18"
+[person.playing.totals]
+B_G = "38"
+B_AB = "53"
+B_R = "5"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "6"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Doane"
+name.given = "Carlton"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "13"
+B_AB = "29"
+B_R = "3"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "3"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Mann"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "27"
+B_AB = "97"
+B_R = "12"
+B_H = "20"
+B_TB = "24"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "14"
+B_HP = "2"
+B_RBI = "9"
+B_SO = "21"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Schoendienst"
+name.given = "Elmer"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "99"
+B_AB = "371"
+B_R = "54"
+B_H = "76"
+B_TB = "97"
+B_2B = "17"
+B_3B = "2"
+B_HR = "0"
+B_SH = "6"
+B_SB = "13"
+B_BB = "58"
+B_HP = "0"
+B_RBI = "29"
+B_SO = "96"
+B_AVG = ".205"
+
+
+[[person]]
+name.last = "Luby"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "12"
+B_AB = "44"
+B_R = "12"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "5"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_AVG = ".205"
+
+
+[[person]]
+name.last = "Swindle"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "36"
+B_AB = "133"
+B_R = "18"
+B_H = "27"
+B_TB = "30"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "5"
+B_BB = "5"
+B_HP = "2"
+B_RBI = "15"
+B_SO = "8"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Markum"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "33"
+B_AB = "64"
+B_R = "10"
+B_H = "13"
+B_TB = "18"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "11"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Sarros"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "77"
+B_AB = "263"
+B_R = "30"
+B_H = "53"
+B_TB = "65"
+B_2B = "6"
+B_3B = "3"
+B_HR = "0"
+B_SH = "7"
+B_SB = "2"
+B_BB = "51"
+B_HP = "1"
+B_RBI = "18"
+B_SO = "65"
+B_AVG = ".202"
+
+
+[[person]]
+name.last = "McRae"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "31"
+B_AB = "89"
+B_R = "6"
+B_H = "18"
+B_TB = "23"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "22"
+B_AVG = ".202"
+
+
+[[person]]
+name.last = "Stewart"
+name.given = "Buford"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "15"
+B_AB = "50"
+B_R = "1"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Kinnas"
+name.given = "Chirst"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "12"
+B_AB = "15"
+B_R = "4"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "5"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Macli"
+name.given = "Al"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "77"
+B_AB = "213"
+B_R = "21"
+B_H = "42"
+B_TB = "45"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "4"
+B_BB = "38"
+B_HP = "3"
+B_RBI = "20"
+B_SO = "30"
+B_AVG = ".197"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Wiley"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "46"
+B_AB = "142"
+B_R = "11"
+B_H = "28"
+B_TB = "37"
+B_2B = "7"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "21"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "47"
+B_AVG = ".197"
+
+
+[[person]]
+name.last = "Gilmore"
+name.given = "Donald"
+description.bats = "S"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "35"
+B_AB = "51"
+B_R = "4"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "24"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Stouch"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "50"
+B_AB = "170"
+B_R = "31"
+B_H = "33"
+B_TB = "46"
+B_2B = "5"
+B_3B = "4"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "28"
+B_HP = "3"
+B_RBI = "14"
+B_SO = "52"
+B_AVG = ".194"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Orem"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "19"
+B_AB = "36"
+B_R = "3"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".194"
+
+
+[[person]]
+name.last = "Lauria"
+name.given = "Cosmo"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "46"
+B_AB = "181"
+B_R = "22"
+B_H = "35"
+B_TB = "40"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "3"
+B_BB = "19"
+B_HP = "0"
+B_RBI = "13"
+B_SO = "38"
+B_AVG = ".193"
+
+
+[[person]]
+name.last = "Ouchterloney"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "12"
+B_AB = "47"
+B_R = "7"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "10"
+B_AVG = ".191"
+
+
+[[person]]
+name.last = "Lemish"
+name.given = "Gaylor"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+B_G = "38"
+B_AB = "90"
+B_R = "13"
+B_H = "17"
+B_TB = "21"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "26"
+B_AVG = ".189"
+
+
+[[person]]
+name.last = "Eskridge"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "24"
+B_AB = "85"
+B_R = "21"
+B_H = "16"
+B_TB = "22"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "18"
+B_HP = "3"
+B_RBI = "9"
+B_SO = "35"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Puent"
+name.given = "Lawrence"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "15"
+B_AB = "16"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "7"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Sofia"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "54"
+B_AB = "206"
+B_R = "43"
+B_H = "38"
+B_TB = "44"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "5"
+B_SB = "17"
+B_BB = "48"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "33"
+B_AVG = ".184"
+
+
+[[person]]
+name.last = "Reichert"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "37"
+B_AB = "131"
+B_R = "16"
+B_H = "24"
+B_TB = "30"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SB = "3"
+B_BB = "12"
+B_HP = "3"
+B_RBI = "12"
+B_SO = "38"
+B_AVG = ".183"
+
+
+[[person]]
+name.last = "Luckman"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "16"
+B_AB = "55"
+B_R = "3"
+B_H = "10"
+B_TB = "13"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "21"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Rey"
+name.given = "Emil"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "123"
+B_AB = "401"
+B_R = "59"
+B_H = "72"
+B_TB = "97"
+B_2B = "7"
+B_3B = "6"
+B_HR = "2"
+B_SH = "5"
+B_SB = "16"
+B_BB = "66"
+B_HP = "3"
+B_RBI = "42"
+B_SO = "96"
+B_AVG = ".180"
+
+
+[[person]]
+name.last = "Grupposo"
+name.given = "Vincent"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "20"
+B_AB = "62"
+B_R = "6"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "9"
+B_AVG = ".177"
+
+
+[[person]]
+name.last = "West"
+name.given = "Lewis"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "16"
+B_AB = "34"
+B_R = "4"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Mazzone"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+B_G = "35"
+[[person.playing.split]]
+team.name = "Moultrie"
+B_G = "6"
+[person.playing.totals]
+B_G = "41"
+B_AB = "138"
+B_R = "21"
+B_H = "24"
+B_TB = "25"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "11"
+B_SB = "1"
+B_BB = "25"
+B_HP = "5"
+B_RBI = "10"
+B_SO = "37"
+B_AVG = ".174"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "17"
+B_AB = "71"
+B_R = "8"
+B_H = "12"
+B_TB = "13"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "13"
+B_AVG = ".169"
+
+
+[[person]]
+name.last = "Batchko"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+B_G = "17"
+[[person.playing.split]]
+team.name = "Thomasville"
+B_G = "9"
+[person.playing.totals]
+B_G = "26"
+B_AB = "84"
+B_R = "10"
+B_H = "14"
+B_TB = "24"
+B_2B = "1"
+B_3B = "0"
+B_HR = "3"
+B_SH = "0"
+B_SB = "0"
+B_BB = "14"
+B_HP = "3"
+B_RBI = "11"
+B_SO = "29"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Murray"
+name.given = "Francis"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "14"
+B_AB = "42"
+B_R = "2"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".166"
+
+
+[[person]]
+name.last = "Comitti"
+name.given = "Elmo"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "25"
+B_AB = "70"
+B_R = "5"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "16"
+B_AVG = ".157"
+
+
+[[person]]
+name.last = "Hodge"
+name.given = "Clarence"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "32"
+B_AB = "122"
+B_R = "11"
+B_H = "19"
+B_TB = "22"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "28"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Bennett"
+name.given = "Craig"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "26"
+B_AB = "32"
+B_R = "3"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "9"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Green"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "30"
+B_AB = "72"
+B_R = "6"
+B_H = "11"
+B_TB = "11"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "14"
+B_AVG = ".153"
+
+
+[[person]]
+name.last = "Dommer"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "38"
+B_AB = "86"
+B_R = "12"
+B_H = "13"
+B_TB = "21"
+B_2B = "1"
+B_3B = "2"
+B_HR = "1"
+B_SH = "2"
+B_SB = "2"
+B_BB = "2"
+B_HP = "2"
+B_RBI = "5"
+B_SO = "40"
+B_AVG = ".151"
+
+
+[[person]]
+name.last = "Loschke"
+name.given = "Leo"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "31"
+B_AB = "47"
+B_R = "6"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "24"
+B_AVG = ".149"
+
+
+[[person]]
+name.last = "Brancato"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "28"
+B_AB = "81"
+B_R = "6"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "4"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "28"
+B_AVG = ".148"
+
+
+[[person]]
+name.last = "Oliver"
+name.given = "Ben"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "27"
+B_AB = "48"
+B_R = "6"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "10"
+B_AVG = ".146"
+
+
+[[person]]
+name.last = "Brand"
+name.given = "Clarence"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "35"
+B_AB = "131"
+B_R = "20"
+B_H = "19"
+B_TB = "23"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "31"
+B_AVG = ".145"
+
+
+[[person]]
+name.last = "Telford"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "28"
+B_AB = "70"
+B_R = "9"
+B_H = "10"
+B_TB = "14"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_SH = "6"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "30"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Chambers"
+name.given = "Inman"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "25"
+B_AB = "42"
+B_R = "5"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Murray"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "33"
+B_AB = "85"
+B_R = "19"
+B_H = "12"
+B_TB = "12"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "17"
+B_AVG = ".141"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "31"
+B_AB = "57"
+B_R = "2"
+B_H = "8"
+B_TB = "10"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "18"
+B_AVG = ".140"
+
+
+[[person]]
+name.last = "Brightwell"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "24"
+B_AB = "37"
+B_R = "1"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "6"
+B_AVG = ".135"
+
+
+[[person]]
+name.last = "Pfeifer"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "21"
+B_AB = "86"
+B_R = "9"
+B_H = "11"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "32"
+B_AVG = ".128"
+
+
+[[person]]
+name.last = "Ferra"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "16"
+B_AB = "47"
+B_R = "7"
+B_H = "6"
+B_TB = "10"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "10"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "24"
+B_AVG = ".128"
+
+
+[[person]]
+name.last = "Yancek"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "30"
+B_AB = "39"
+B_R = "9"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "1"
+B_BB = "15"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "8"
+B_AVG = ".128"
+
+
+[[person]]
+name.last = "Nicolai"
+name.given = "Melvin"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "39"
+B_AB = "79"
+B_R = "4"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "33"
+B_AVG = ".127"
+
+
+[[person]]
+name.last = "McMahon"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "42"
+B_AB = "71"
+B_R = "6"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "24"
+B_AVG = ".127"
+
+
+[[person]]
+name.last = "Lynn"
+name.given = "Frederick"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "25"
+B_AB = "41"
+B_R = "1"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "16"
+B_AVG = ".122"
+
+
+[[person]]
+name.last = "Schmidhausler"
+name.given = "Vernon"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "13"
+B_AB = "25"
+B_R = "1"
+B_H = "3"
+B_TB = "4"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "12"
+B_AVG = ".120"
+
+
+[[person]]
+name.last = "Barlam"
+name.given = "Barnett"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "24"
+B_AB = "43"
+B_R = "1"
+B_H = "5"
+B_TB = "7"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "27"
+B_AVG = ".116"
+
+
+[[person]]
+name.last = "Fain"
+name.given = "Stanley"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+B_G = "10"
+B_AB = "19"
+B_R = "2"
+B_H = "2"
+B_TB = "5"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "10"
+B_AVG = ".105"
+
+
+[[person]]
+name.last = "Palantino"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+B_G = "19"
+B_AB = "19"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".105"
+
+
+[[person]]
+name.last = "Weisenberg"
+name.given = "Aaron"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "32"
+B_AB = "51"
+B_R = "3"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "24"
+B_AVG = ".098"
+
+
+[[person]]
+name.last = "Hamm"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "19"
+B_AB = "41"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "26"
+B_AVG = ".098"
+
+
+[[person]]
+name.last = "Liming"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "12"
+B_AB = "21"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "9"
+B_AVG = ".095"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+B_G = "10"
+B_AB = "24"
+B_R = "3"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "5"
+B_AVG = ".083"
+
+
+[[person]]
+name.last = "Gautreaux"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "20"
+B_AB = "39"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_AVG = ".077"
+
+
+[[person]]
+name.last = "Koch"
+name.given = "Arthur"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+B_G = "25"
+B_AB = "51"
+B_R = "7"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "2"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "31"
+B_AVG = ".059"
+
+
+[[person]]
+name.last = "Coppola"
+name.given = "Herbert"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+B_G = "10"
+B_AB = "19"
+B_R = "1"
+B_H = "1"
+B_TB = "2"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "7"
+B_AVG = ".053"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+B_G = "4"
+[[person.playing.split]]
+team.name = "Albany"
+B_G = "7"
+[[person.playing.split]]
+team.name = "Tallahassee"
+B_G = "11"
+[person.playing.totals]
+B_G = "28"
+B_AB = "20"
+B_R = "3"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "1"
+B_AVG = ".050"
+
+
+[[person]]
+name.last = "Kinney"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "22"
+B_R = "2"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".045"
+
+
+[[person]]
+name.last = "Simonee"
+name.given = "Reuben"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "11"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "7"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Szolwinski"
+name.given = "Sylvester"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+B_G = "10"
+B_AB = "9"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Reilly"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Glass"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Thorn"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Desmuke"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Denny"
+name.given = "Fred"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Michaels"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Roberts"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Balen"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hardegree"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Carlson"
+name.given = "Lesley"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Olmstead"
+name.given = "Theodore"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Albany"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kerr"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wilson"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Clair"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "McCarthy"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Americus"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Chulick"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mashburn"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Holden"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Maelwig"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dorough"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Simon"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bakunas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "O'Brien"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Plante"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Paison"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ciccone"
+name.given = "Nicholas"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Haschak"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Cordele"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hall"
+name.given = "Jesse"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Masterson"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Coats"
+name.given = "Glenn"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Arthur"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Swain"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Steedley"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moultrie"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Pegram"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Shapiro"
+name.given = "Albert"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cook"
+name.given = "Ronald"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Palumbo"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bailey"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Quinlan"
+name.given = "Bud"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Muskulin"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Clawson"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Williams"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jeffcoat"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Paisley"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cagle"
+name.given = "Lamar"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tallahassee"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Willis"
+name.given = "Joel"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dull"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Edge"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bozeman"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Atchison"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Catchpole"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Knappe"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Alexander"
+name.given = "Theodore"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lillie"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Peterson"
+name.given = "Wright"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Campbell"
+name.given = "Clifford"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Moore"
+name.given = "Earl"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mendillo"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Witkowski"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Izzo"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Belcher"
+name.given = "Neil"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Booth"
+name.given = "Wayne"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sullivan"
+name.given = "Woodword"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ward"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Thomasville"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Reichert"
+name.given = "Arnold"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Leveille"
+name.given = "Rolland"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Berman"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Staley"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Pepitone"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Maloney"
+name.given = "Patrick"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Amoroso"
+name.given = "Dante"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Howig"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Purdy"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lane"
+name.given = "Eli"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kane"
+name.given = "Murray"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mize"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Coapland"
+name.given = "Bernis"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Valdosta"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Blackmon"
+name.given = "Grover"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Long"
+name.given = "Howard"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Watts"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Raulerson"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Euliss"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Willingham"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hill"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cherry"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Garrett"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Leary"
+[[person.playing]]
+season = "1946"
+league.name = "Georgia-Florida League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Waycross"
+[person.playing.totals]

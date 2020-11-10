@@ -1,0 +1,192 @@
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "60"
+R_T = "0"
+R_PCT = ".568"
+R_RANK = "1"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "79"
+R_L = "61"
+R_T = "0"
+R_PCT = ".564"
+R_RANK = "2"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "62"
+R_T = "2"
+R_PCT = ".551"
+R_RANK = "3"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "63"
+R_T = "1"
+R_PCT = ".547"
+R_RANK = "4"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "75"
+R_T = "1"
+R_PCT = ".464"
+R_RANK = "5"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "75"
+R_T = "0"
+R_PCT = ".464"
+R_RANK = "5"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "79"
+R_T = "0"
+R_PCT = ".436"
+R_RANK = "7"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "81"
+R_T = "0"
+R_PCT = ".404"
+R_RANK = "8"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_PCT = ".800"
+R_RANK = "1"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_PCT = ".200"
+R_RANK = "2"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1946"
+league.name = "South Atlantic League"
+phase = "final"
+[team.playing.totals]
+R_W = "0"
+R_L = "4"
+R_PCT = ".000"
+R_RANK = "2"

@@ -1,0 +1,178 @@
+[[team]]
+name = "Abilene"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "97"
+R_L = "40"
+R_PCT = ".708"
+R_RANK = "1"
+
+
+[[team]]
+name = "Pampa"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "46"
+R_PCT = ".667"
+R_RANK = "2"
+
+
+[[team]]
+name = "Amarillo"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "93"
+R_L = "47"
+R_PCT = ".664"
+R_RANK = "3"
+
+
+[[team]]
+name = "Lubbock"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "70"
+R_PCT = ".504"
+R_RANK = "4"
+
+
+[[team]]
+name = "Borger"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "72"
+R_PCT = ".478"
+R_RANK = "5"
+
+
+[[team]]
+name = "Albuquerque"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "55"
+R_L = "85"
+R_PCT = ".393"
+R_RANK = "6"
+
+
+[[team]]
+name = "Clovis"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "47"
+R_L = "93"
+R_PCT = ".336"
+R_RANK = "7"
+
+
+[[team]]
+name = "Lamesa"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "regular"
+[team.playing.totals]
+R_W = "36"
+R_L = "104"
+R_PCT = ".257"
+R_RANK = "8"
+
+
+[[team]]
+name = "Lubbock"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "1"
+R_RANK = "1"
+
+
+[[team]]
+name = "Abilene"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "1"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pampa"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Amarillo"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"
+
+
+[[team]]
+name = "Pampa"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_RANK = "1"
+
+
+[[team]]
+name = "Lubbock"
+[[team.playing]]
+season = "1946"
+league.name = "West Texas-New Mexico League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_RANK = "2"

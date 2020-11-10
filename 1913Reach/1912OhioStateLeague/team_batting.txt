@@ -1,0 +1,226 @@
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+B_G = "74"
+B_AB = "2427"
+B_R = "340"
+B_H = "666"
+B_2B = "120"
+B_3B = "15"
+B_HR = "15"
+B_SH = "110"
+B_SB = "108"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+B_G = "74"
+B_AB = "2453"
+B_R = "330"
+B_H = "669"
+B_2B = "104"
+B_3B = "40"
+B_HR = "9"
+B_SH = "165"
+B_SB = "90"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+B_G = "79"
+B_AB = "2561"
+B_R = "360"
+B_H = "670"
+B_2B = "139"
+B_3B = "17"
+B_HR = "8"
+B_SH = "130"
+B_SB = "121"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+B_G = "79"
+B_AB = "2674"
+B_R = "353"
+B_H = "691"
+B_2B = "119"
+B_3B = "23"
+B_HR = "21"
+B_SH = "97"
+B_SB = "55"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Marion"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+B_G = "78"
+B_AB = "2572"
+B_R = "363"
+B_H = "637"
+B_2B = "132"
+B_3B = "27"
+B_HR = "34"
+B_SH = "100"
+B_SB = "112"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/first"
+[team.playing.totals]
+B_G = "77"
+B_AB = "2478"
+B_R = "336"
+B_H = "590"
+B_2B = "90"
+B_3B = "41"
+B_HR = "9"
+B_SH = "85"
+B_SB = "119"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+B_G = "60"
+B_AB = "1960"
+B_R = "247"
+B_H = "502"
+B_2B = "70"
+B_3B = "33"
+B_HR = "10"
+B_SH = "116"
+B_SB = "66"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+B_G = "60"
+B_AB = "1947"
+B_R = "229"
+B_H = "496"
+B_2B = "72"
+B_3B = "13"
+B_HR = "3"
+B_SH = "68"
+B_SB = "51"
+B_AVG = ".255"
+
+
+[[team]]
+name = "Chillicothe"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+B_G = "59"
+B_AB = "1922"
+B_R = "243"
+B_H = "480"
+B_2B = "80"
+B_3B = "16"
+B_HR = "6"
+B_SH = "92"
+B_SB = "85"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Mansfield"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+B_G = "59"
+B_AB = "1937"
+B_R = "210"
+B_H = "481"
+B_2B = "90"
+B_3B = "16"
+B_HR = "10"
+B_SH = "79"
+B_SB = "70"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Lima"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+B_G = "60"
+B_AB = "1878"
+B_R = "246"
+B_H = "440"
+B_2B = "67"
+B_3B = "30"
+B_HR = "8"
+B_SH = "98"
+B_SB = "149"
+B_AVG = ".234"
+
+
+[[team]]
+name = "Ironton"
+[[team.playing]]
+season = "1912"
+league.name = "Ohio State League"
+phase = "regular/second"
+[team.playing.totals]
+B_G = "59"
+B_AB = "1859"
+B_R = "199"
+B_H = "435"
+B_2B = "69"
+B_3B = "13"
+B_HR = "7"
+B_SH = "63"
+B_SB = "70"
+B_AVG = ".233"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5092"
+B_R = "726"
+B_H = "1318"
+B_TB = "1832"
+B_SH = "212"
+B_BB = "596"
+B_SO = "627"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5137"
+B_R = "713"
+B_H = "1320"
+B_TB = "1652"
+B_SH = "220"
+B_BB = "584"
+B_SO = "560"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Waco"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5130"
+B_R = "630"
+B_H = "1243"
+B_TB = "1652"
+B_SH = "218"
+B_BB = "536"
+B_SO = "699"
+B_AVG = ".252"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5226"
+B_R = "545"
+B_H = "1267"
+B_TB = "1620"
+B_SH = "210"
+B_BB = "460"
+B_SO = "646"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Shreveport"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5231"
+B_R = "568"
+B_H = "1256"
+B_TB = "1605"
+B_SH = "217"
+B_BB = "455"
+B_SO = "558"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1917"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "5285"
+B_R = "510"
+B_H = "1223"
+B_TB = "1559"
+B_SH = "218"
+B_BB = "510"
+B_SO = "607"
+B_AVG = ".231"

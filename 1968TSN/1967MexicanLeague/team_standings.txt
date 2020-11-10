@@ -1,0 +1,110 @@
+[[team]]
+name = "Jalisco"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "85"
+R_L = "55"
+R_T = "0"
+R_PCT = ".607"
+R_RANK = "1"
+
+
+[[team]]
+name = "Reynosa"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "80"
+R_L = "60"
+R_T = "1"
+R_PCT = ".571"
+R_RANK = "2"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "76"
+R_L = "63"
+R_T = "3"
+R_PCT = ".547"
+R_RANK = "3"
+
+
+[[team]]
+name = "Veracruz"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "71"
+R_L = "69"
+R_T = "1"
+R_PCT = ".507"
+R_RANK = "4"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "65"
+R_L = "75"
+R_T = "3"
+R_PCT = ".464"
+R_RANK = "5"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "64"
+R_L = "75"
+R_T = "1"
+R_PCT = ".460"
+R_RANK = "6"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "60"
+R_L = "80"
+R_T = "2"
+R_PCT = ".429"
+R_RANK = "7"
+
+
+[[team]]
+name = "Puebla"
+[[team.playing]]
+season = "1967"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+R_W = "57"
+R_L = "81"
+R_T = "3"
+R_PCT = ".413"
+R_RANK = "8"

@@ -1,0 +1,110 @@
+[[team]]
+name = "Grand Island"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "22"
+R_T = "0"
+R_PCT = ".600"
+R_RANK = "1"
+
+
+[[team]]
+name = "Holdrege"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "23"
+R_T = "0"
+R_PCT = ".589"
+R_RANK = "2"
+
+
+[[team]]
+name = "Lexington"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "33"
+R_L = "23"
+R_T = "0"
+R_PCT = ".589"
+R_RANK = "2"
+
+
+[[team]]
+name = "Kearney"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "30"
+R_L = "26"
+R_T = "0"
+R_PCT = ".536"
+R_RANK = "4"
+
+
+[[team]]
+name = "Hastings"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "29"
+R_L = "26"
+R_T = "0"
+R_PCT = ".527"
+R_RANK = "5"
+
+
+[[team]]
+name = "McCook"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "27"
+R_L = "29"
+R_T = "0"
+R_PCT = ".482"
+R_RANK = "6"
+
+
+[[team]]
+name = "Superior"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "27"
+R_L = "29"
+R_T = "0"
+R_PCT = ".482"
+R_RANK = "6"
+
+
+[[team]]
+name = "North Platte"
+[[team.playing]]
+season = "1957"
+league.name = "Nebraska State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "11"
+R_L = "45"
+R_T = "0"
+R_PCT = ".196"
+R_RANK = "8"

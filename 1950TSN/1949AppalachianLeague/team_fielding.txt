@@ -1,0 +1,134 @@
+[[team]]
+name = "Bluefield"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "70"
+F_PB = "10"
+F_PO = "3148"
+F_A = "1129"
+F_E = "218"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Pulaski"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_DP = "90"
+F_PB = "5"
+F_PO = "2996"
+F_A = "1197"
+F_E = "226"
+F_TP = "0"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "117"
+F_DP = "91"
+F_PB = "9"
+F_PO = "3037"
+F_A = "1281"
+F_E = "241"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "New River"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "48"
+F_PB = "5"
+F_PO = "3104"
+F_A = "1332"
+F_E = "246"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Welch"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "96"
+F_PB = "22"
+F_PO = "3158"
+F_A = "1433"
+F_E = "277"
+F_TP = "0"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_DP = "106"
+F_PB = "24"
+F_PO = "3162"
+F_A = "1274"
+F_E = "289"
+F_TP = "0"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Elizabethton"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "116"
+F_DP = "85"
+F_PB = "22"
+F_PO = "2930"
+F_A = "1331"
+F_E = "288"
+F_TP = "0"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1949"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "75"
+F_PB = "15"
+F_PO = "3045"
+F_A = "1257"
+F_E = "310"
+F_TP = "0"
+F_PCT = ".933"

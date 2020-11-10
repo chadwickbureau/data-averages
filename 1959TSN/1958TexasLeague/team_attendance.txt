@@ -1,0 +1,78 @@
+[[team]]
+name = "Houston"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "121234"
+
+
+[[team]]
+name = "Austin"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "117829"
+
+
+[[team]]
+name = "Dallas"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "116085"
+
+
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "110759"
+
+
+[[team]]
+name = "San Antonio"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "101305"
+
+
+[[team]]
+name = "Corpus Christi"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "87774"
+
+
+[[team]]
+name = "Fort Worth"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "81611"
+
+
+[[team]]
+name = "Victoria"
+[[team.playing]]
+season = "1958"
+league.name = "Texas League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "79464"

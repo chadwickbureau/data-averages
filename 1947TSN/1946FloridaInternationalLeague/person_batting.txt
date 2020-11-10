@@ -1,0 +1,5322 @@
+[[person]]
+name.last = "Katros"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+B_G = "7"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "4"
+[person.playing.totals]
+B_G = "11"
+B_AB = "21"
+B_R = "5"
+B_H = "10"
+B_TB = "12"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "0"
+B_AVG = ".476"
+
+
+[[person]]
+name.last = "Gomez"
+name.given = "Jose"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "23"
+B_AB = "49"
+B_R = "5"
+B_H = "20"
+B_TB = "21"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "7"
+B_AVG = ".408"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Lloyd"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "14"
+B_AB = "28"
+B_R = "1"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "2"
+B_AVG = ".393"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "122"
+B_AB = "512"
+B_R = "110"
+B_H = "195"
+B_TB = "270"
+B_2B = "27"
+B_3B = "18"
+B_HR = "4"
+B_SH = "10"
+B_SB = "32"
+B_BB = "34"
+B_HP = "1"
+B_RBI = "75"
+B_SO = "29"
+B_AVG = ".381"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Motto"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "14"
+B_AB = "41"
+B_R = "1"
+B_H = "15"
+B_TB = "18"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "1"
+B_AVG = ".366"
+
+
+[[person]]
+name.last = "Bowden"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "71"
+B_AB = "263"
+B_R = "47"
+B_H = "89"
+B_TB = "119"
+B_2B = "10"
+B_3B = "10"
+B_HR = "0"
+B_SH = "1"
+B_SB = "6"
+B_BB = "33"
+B_HP = "0"
+B_RBI = "33"
+B_SO = "21"
+B_AVG = ".338"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "107"
+B_AB = "384"
+B_R = "64"
+B_H = "129"
+B_TB = "163"
+B_2B = "17"
+B_3B = "7"
+B_HR = "1"
+B_SH = "4"
+B_SB = "6"
+B_BB = "54"
+B_HP = "7"
+B_RBI = "61"
+B_SO = "23"
+B_AVG = ".336"
+
+
+[[person]]
+name.last = "Adkins"
+name.given = "Grady"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "108"
+B_AB = "415"
+B_R = "74"
+B_H = "138"
+B_TB = "194"
+B_2B = "20"
+B_3B = "12"
+B_HR = "4"
+B_SH = "10"
+B_SB = "51"
+B_BB = "34"
+B_HP = "6"
+B_RBI = "59"
+B_SO = "41"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Scruggs"
+name.given = "Chas."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "56"
+B_AB = "220"
+B_R = "44"
+B_H = "72"
+B_TB = "85"
+B_2B = "7"
+B_3B = "3"
+B_HR = "0"
+B_SH = "3"
+B_SB = "20"
+B_BB = "19"
+B_HP = "1"
+B_RBI = "18"
+B_SO = "23"
+B_AVG = ".327"
+
+
+[[person]]
+name.last = "Waner"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "62"
+B_AB = "80"
+B_R = "12"
+B_H = "26"
+B_TB = "36"
+B_2B = "6"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "23"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "13"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Grose"
+name.given = "Deo"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "133"
+B_AB = "515"
+B_R = "75"
+B_H = "167"
+B_TB = "214"
+B_2B = "22"
+B_3B = "11"
+B_HR = "1"
+B_SH = "9"
+B_SB = "11"
+B_BB = "54"
+B_HP = "0"
+B_RBI = "39"
+B_SO = "41"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "Nogeira"
+name.given = "Jose"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "12"
+B_AB = "31"
+B_R = "6"
+B_H = "10"
+B_TB = "15"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "4"
+B_SO = "4"
+B_AVG = ".323"
+
+
+[[person]]
+name.last = "Hidalgo"
+name.given = "Manuel"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "121"
+B_AB = "508"
+B_R = "97"
+B_H = "162"
+B_TB = "221"
+B_2B = "23"
+B_3B = "12"
+B_HR = "4"
+B_SH = "3"
+B_SB = "26"
+B_BB = "14"
+B_HP = "3"
+B_RBI = "65"
+B_SO = "33"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Monroe"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "11"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "22"
+[person.playing.totals]
+B_G = "33"
+B_AB = "113"
+B_R = "17"
+B_H = "36"
+B_TB = "43"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "15"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Crowell"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "57"
+B_AB = "158"
+B_R = "18"
+B_H = "41"
+B_TB = "50"
+B_2B = "7"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SB = "2"
+B_BB = "32"
+B_HP = "1"
+B_RBI = "18"
+B_SO = "25"
+B_AVG = ".316"
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "Lamar"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "77"
+B_AB = "257"
+B_R = "37"
+B_H = "81"
+B_TB = "107"
+B_2B = "10"
+B_3B = "5"
+B_HR = "2"
+B_SH = "3"
+B_SB = "9"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "43"
+B_SO = "11"
+B_AVG = ".315"
+
+
+[[person]]
+name.last = "Ermisch"
+name.given = "Howard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "115"
+B_AB = "421"
+B_R = "58"
+B_H = "132"
+B_TB = "154"
+B_2B = "18"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SB = "18"
+B_BB = "38"
+B_HP = "1"
+B_RBI = "53"
+B_SO = "13"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Ray"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "63"
+B_AB = "245"
+B_R = "26"
+B_H = "76"
+B_TB = "85"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_SH = "6"
+B_SB = "11"
+B_BB = "12"
+B_HP = "3"
+B_RBI = "24"
+B_SO = "28"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Barry"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "55"
+B_AB = "203"
+B_R = "43"
+B_H = "63"
+B_TB = "78"
+B_2B = "13"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "34"
+B_HP = "1"
+B_RBI = "32"
+B_SO = "31"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Kinard"
+name.given = "Guilford"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "121"
+B_AB = "459"
+B_R = "72"
+B_H = "142"
+B_TB = "181"
+B_2B = "9"
+B_3B = "12"
+B_HR = "2"
+B_SH = "4"
+B_SB = "21"
+B_BB = "26"
+B_HP = "3"
+B_RBI = "56"
+B_SO = "28"
+B_AVG = ".309"
+
+
+[[person]]
+name.last = "Cabrera"
+name.given = "Emilio"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "84"
+B_AB = "285"
+B_R = "35"
+B_H = "88"
+B_TB = "101"
+B_2B = "6"
+B_3B = "2"
+B_HR = "1"
+B_SH = "1"
+B_SB = "16"
+B_BB = "24"
+B_HP = "0"
+B_RBI = "39"
+B_SO = "25"
+B_AVG = ".309"
+
+
+[[person]]
+name.last = "Kelly"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "28"
+B_AB = "107"
+B_R = "17"
+B_H = "33"
+B_TB = "52"
+B_2B = "7"
+B_3B = "6"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "2"
+B_HP = "4"
+B_RBI = "23"
+B_SO = "6"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Coulter"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "12"
+B_AB = "13"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Dunabeitia"
+name.given = "Pedro"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "118"
+B_AB = "405"
+B_R = "65"
+B_H = "123"
+B_TB = "164"
+B_2B = "23"
+B_3B = "6"
+B_HR = "2"
+B_SH = "4"
+B_SB = "13"
+B_BB = "43"
+B_HP = "4"
+B_RBI = "53"
+B_SO = "28"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Zubrinski"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "45"
+B_AB = "109"
+B_R = "17"
+B_H = "33"
+B_TB = "40"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_SH = "4"
+B_SB = "3"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "17"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Baker"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "94"
+B_AB = "324"
+B_R = "46"
+B_H = "98"
+B_TB = "145"
+B_2B = "23"
+B_3B = "3"
+B_HR = "6"
+B_SH = "4"
+B_SB = "12"
+B_BB = "43"
+B_HP = "4"
+B_RBI = "49"
+B_SO = "35"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Arago"
+name.given = "Hector"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "98"
+B_AB = "380"
+B_R = "62"
+B_H = "114"
+B_TB = "139"
+B_2B = "17"
+B_3B = "4"
+B_HR = "0"
+B_SH = "10"
+B_SB = "11"
+B_BB = "36"
+B_HP = "2"
+B_RBI = "59"
+B_SO = "30"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Bearden"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "84"
+B_AB = "297"
+B_R = "55"
+B_H = "88"
+B_TB = "134"
+B_2B = "19"
+B_3B = "9"
+B_HR = "3"
+B_SH = "2"
+B_SB = "6"
+B_BB = "53"
+B_HP = "3"
+B_RBI = "53"
+B_SO = "13"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Traspuesto"
+name.given = "Jorge"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "17"
+B_AB = "34"
+B_R = "3"
+B_H = "10"
+B_TB = "12"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "6"
+B_AVG = ".294"
+
+
+[[person]]
+name.last = "Hughes"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "53"
+B_AB = "141"
+B_R = "22"
+B_H = "41"
+B_TB = "51"
+B_2B = "8"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "5"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "23"
+B_SO = "2"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Kushta"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "67"
+B_AB = "210"
+B_R = "24"
+B_H = "61"
+B_TB = "84"
+B_2B = "8"
+B_3B = "3"
+B_HR = "3"
+B_SH = "1"
+B_SB = "4"
+B_BB = "24"
+B_HP = "0"
+B_RBI = "30"
+B_SO = "22"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Murphy"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "71"
+B_AB = "253"
+B_R = "54"
+B_H = "73"
+B_TB = "102"
+B_2B = "12"
+B_3B = "4"
+B_HR = "3"
+B_SH = "5"
+B_SB = "10"
+B_BB = "36"
+B_HP = "3"
+B_RBI = "54"
+B_SO = "23"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Fernandez"
+name.given = "Ben"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "118"
+B_AB = "434"
+B_R = "63"
+B_H = "125"
+B_TB = "171"
+B_2B = "19"
+B_3B = "9"
+B_HR = "3"
+B_SH = "4"
+B_SB = "16"
+B_BB = "57"
+B_HP = "4"
+B_RBI = "79"
+B_SO = "25"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Shatto"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "38"
+B_AB = "132"
+B_R = "31"
+B_H = "38"
+B_TB = "62"
+B_2B = "6"
+B_3B = "6"
+B_HR = "2"
+B_SH = "3"
+B_SB = "3"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "26"
+B_SO = "18"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Stecher"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "19"
+B_AB = "70"
+B_R = "10"
+B_H = "20"
+B_TB = "23"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "3"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Cash"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "19"
+B_AB = "28"
+B_R = "3"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "5"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Finch"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "12"
+B_AB = "14"
+B_R = "1"
+B_H = "4"
+B_TB = "6"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "McCloud"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "37"
+B_AB = "71"
+B_R = "5"
+B_H = "20"
+B_TB = "27"
+B_2B = "3"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "6"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "10"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Armstrong"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "86"
+B_AB = "280"
+B_R = "68"
+B_H = "78"
+B_TB = "91"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "8"
+B_SB = "7"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "33"
+B_SO = "26"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Buck"
+name.given = "Shaw"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "46"
+B_AB = "172"
+B_R = "28"
+B_H = "48"
+B_TB = "58"
+B_2B = "4"
+B_3B = "3"
+B_HR = "0"
+B_SH = "4"
+B_SB = "7"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "9"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Elliott"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "30"
+B_AB = "65"
+B_R = "7"
+B_H = "18"
+B_TB = "23"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "6"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Ratliff"
+name.given = "Oral"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "48"
+B_AB = "91"
+B_R = "17"
+B_H = "25"
+B_TB = "38"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "9"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "Rogelio"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "30"
+B_AB = "80"
+B_R = "12"
+B_H = "22"
+B_TB = "26"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "10"
+B_AVG = ".275"
+
+
+[[person]]
+name.last = "Diaz"
+name.given = "Mario"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "107"
+B_AB = "376"
+B_R = "68"
+B_H = "103"
+B_TB = "134"
+B_2B = "16"
+B_3B = "6"
+B_HR = "1"
+B_SH = "9"
+B_SB = "21"
+B_BB = "42"
+B_HP = "3"
+B_RBI = "40"
+B_SO = "21"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Suarez"
+name.given = "Orlando"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "95"
+B_AB = "281"
+B_R = "38"
+B_H = "77"
+B_TB = "105"
+B_2B = "10"
+B_3B = "9"
+B_HR = "0"
+B_SH = "3"
+B_SB = "4"
+B_BB = "35"
+B_HP = "1"
+B_RBI = "27"
+B_SO = "39"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Long"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "46"
+B_AB = "179"
+B_R = "27"
+B_H = "49"
+B_TB = "61"
+B_2B = "12"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "6"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "23"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "Lorenzo"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "31"
+B_AB = "84"
+B_R = "6"
+B_H = "23"
+B_TB = "26"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "6"
+B_AVG = ".274"
+
+
+[[person]]
+name.last = "DelCristo"
+name.given = "Felix"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "17"
+B_AB = "55"
+B_R = "5"
+B_H = "15"
+B_TB = "15"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "7"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Bucci"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "93"
+B_AB = "367"
+B_R = "69"
+B_H = "100"
+B_TB = "123"
+B_2B = "8"
+B_3B = "6"
+B_HR = "1"
+B_SH = "3"
+B_SB = "9"
+B_BB = "50"
+B_HP = "2"
+B_RBI = "45"
+B_SO = "25"
+B_AVG = ".272"
+
+
+[[person]]
+name.last = "Fano"
+name.given = "Valeriano"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "120"
+B_AB = "431"
+B_R = "35"
+B_H = "117"
+B_TB = "148"
+B_2B = "12"
+B_3B = "8"
+B_HR = "1"
+B_SH = "4"
+B_SB = "8"
+B_BB = "36"
+B_HP = "9"
+B_RBI = "56"
+B_SO = "48"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Uhls"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "75"
+B_AB = "271"
+B_R = "34"
+B_H = "73"
+B_TB = "94"
+B_2B = "13"
+B_3B = "4"
+B_HR = "0"
+B_SH = "3"
+B_SB = "6"
+B_BB = "34"
+B_HP = "3"
+B_RBI = "43"
+B_SO = "26"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Suarez"
+name.given = "Luis"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+B_G = "39"
+[[person.playing.split]]
+team.name = "Havana"
+B_G = "26"
+[person.playing.totals]
+B_G = "65"
+B_AB = "254"
+B_R = "43"
+B_H = "68"
+B_TB = "71"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "22"
+B_SO = "6"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Daugherty"
+name.given = "Homer"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "118"
+B_AB = "416"
+B_R = "57"
+B_H = "110"
+B_TB = "137"
+B_2B = "15"
+B_3B = "3"
+B_HR = "2"
+B_SH = "8"
+B_SB = "15"
+B_BB = "39"
+B_HP = "6"
+B_RBI = "50"
+B_SO = "17"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Myers"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "105"
+B_AB = "382"
+B_R = "49"
+B_H = "101"
+B_TB = "112"
+B_2B = "11"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "17"
+B_BB = "17"
+B_HP = "3"
+B_RBI = "31"
+B_SO = "14"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Graham"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "37"
+B_AB = "69"
+B_R = "5"
+B_H = "18"
+B_TB = "18"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "17"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "McDowell"
+name.given = "Wm."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "128"
+B_AB = "482"
+B_R = "77"
+B_H = "125"
+B_TB = "173"
+B_2B = "18"
+B_3B = "12"
+B_HR = "2"
+B_SH = "10"
+B_SB = "21"
+B_BB = "51"
+B_HP = "4"
+B_RBI = "49"
+B_SO = "40"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Mera"
+name.given = "Jesus"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "42"
+B_AB = "159"
+B_R = "30"
+B_H = "41"
+B_TB = "49"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SB = "7"
+B_BB = "18"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "17"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Solis"
+name.given = "Fernando"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+B_G = "15"
+[[person.playing.split]]
+team.name = "Miami Beach"
+B_G = "94"
+[person.playing.totals]
+B_G = "109"
+B_AB = "401"
+B_R = "48"
+B_H = "103"
+B_TB = "140"
+B_2B = "9"
+B_3B = "8"
+B_HR = "4"
+B_SH = "10"
+B_SB = "13"
+B_BB = "22"
+B_HP = "1"
+B_RBI = "51"
+B_SO = "30"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Boresch"
+name.given = "Alfred"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "12"
+B_AB = "35"
+B_R = "1"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_AVG = ".257"
+
+
+[[person]]
+name.last = "Sweeting"
+name.given = "Jack"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "72"
+B_AB = "192"
+B_R = "18"
+B_H = "49"
+B_TB = "58"
+B_2B = "7"
+B_3B = "1"
+B_HR = "0"
+B_SH = "5"
+B_SB = "6"
+B_BB = "17"
+B_HP = "2"
+B_RBI = "22"
+B_SO = "20"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Webb"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "125"
+B_AB = "472"
+B_R = "78"
+B_H = "120"
+B_TB = "142"
+B_2B = "16"
+B_3B = "3"
+B_HR = "0"
+B_SH = "8"
+B_SB = "37"
+B_BB = "59"
+B_HP = "3"
+B_RBI = "30"
+B_SO = "32"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Daugherty"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "49"
+B_AB = "150"
+B_R = "22"
+B_H = "38"
+B_TB = "48"
+B_2B = "5"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SB = "5"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "32"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Fisher"
+name.given = "Melvin"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "55"
+B_AB = "119"
+B_R = "15"
+B_H = "30"
+B_TB = "40"
+B_2B = "6"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SB = "2"
+B_BB = "9"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "18"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Knepper"
+name.given = "Roy"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "128"
+B_AB = "451"
+B_R = "57"
+B_H = "113"
+B_TB = "133"
+B_2B = "16"
+B_3B = "2"
+B_HR = "0"
+B_SH = "4"
+B_SB = "10"
+B_BB = "71"
+B_HP = "4"
+B_RBI = "31"
+B_SO = "44"
+B_AVG = ".251"
+
+
+[[person]]
+name.last = "Derrico"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "97"
+B_AB = "384"
+B_R = "54"
+B_H = "96"
+B_TB = "123"
+B_2B = "9"
+B_3B = "9"
+B_HR = "0"
+B_SH = "8"
+B_SB = "19"
+B_BB = "33"
+B_HP = "5"
+B_RBI = "35"
+B_SO = "33"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Hooks"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "21"
+B_AB = "72"
+B_R = "11"
+B_H = "18"
+B_TB = "21"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "7"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Ford"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "11"
+B_AB = "24"
+B_R = "2"
+B_H = "6"
+B_TB = "9"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Carl"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "49"
+B_AB = "175"
+B_R = "35"
+B_H = "43"
+B_TB = "63"
+B_2B = "8"
+B_3B = "3"
+B_HR = "2"
+B_SH = "6"
+B_SB = "7"
+B_BB = "19"
+B_HP = "3"
+B_RBI = "18"
+B_SO = "34"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Ippolito"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "57"
+B_AB = "138"
+B_R = "13"
+B_H = "34"
+B_TB = "38"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "3"
+B_BB = "12"
+B_HP = "2"
+B_RBI = "18"
+B_SO = "12"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Fleming"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "7"
+[[person.playing.split]]
+team.name = "Miami"
+B_G = "41"
+[person.playing.totals]
+B_G = "48"
+B_AB = "135"
+B_R = "13"
+B_H = "33"
+B_TB = "44"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SB = "1"
+B_BB = "11"
+B_HP = "4"
+B_RBI = "15"
+B_SO = "14"
+B_AVG = ".244"
+
+
+[[person]]
+name.last = "O'Brien"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "103"
+B_AB = "346"
+B_R = "32"
+B_H = "84"
+B_TB = "93"
+B_2B = "9"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "40"
+B_HP = "2"
+B_RBI = "44"
+B_SO = "43"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Bagli"
+name.given = "Guy"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+B_G = "55"
+[[person.playing.split]]
+team.name = "Miami"
+B_G = "16"
+[person.playing.totals]
+B_G = "71"
+B_AB = "251"
+B_R = "29"
+B_H = "61"
+B_TB = "72"
+B_2B = "8"
+B_3B = "0"
+B_HR = "1"
+B_SH = "5"
+B_SB = "10"
+B_BB = "10"
+B_HP = "3"
+B_RBI = "28"
+B_SO = "22"
+B_AVG = ".243"
+
+
+[[person]]
+name.last = "Benito"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "62"
+B_AB = "215"
+B_R = "31"
+B_H = "52"
+B_TB = "60"
+B_2B = "8"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "5"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "18"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Baldwin"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "65"
+B_AB = "99"
+B_R = "14"
+B_H = "24"
+B_TB = "26"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "4"
+B_BB = "12"
+B_HP = "2"
+B_RBI = "5"
+B_SO = "20"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Werner"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "17"
+B_AB = "62"
+B_R = "9"
+B_H = "15"
+B_TB = "17"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "8"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Kinnamon"
+name.given = "Carl"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "31"
+B_AB = "54"
+B_R = "7"
+B_H = "13"
+B_TB = "13"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "11"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Valdes"
+name.given = "Armando"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+B_G = "83"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "38"
+[person.playing.totals]
+B_G = "121"
+B_AB = "445"
+B_R = "60"
+B_H = "107"
+B_TB = "152"
+B_2B = "6"
+B_3B = "9"
+B_HR = "7"
+B_SH = "4"
+B_SB = "10"
+B_BB = "32"
+B_HP = "4"
+B_RBI = "69"
+B_SO = "72"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Wilder"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "98"
+B_AB = "305"
+B_R = "37"
+B_H = "73"
+B_TB = "91"
+B_2B = "12"
+B_3B = "3"
+B_HR = "0"
+B_SH = "6"
+B_SB = "7"
+B_BB = "34"
+B_HP = "3"
+B_RBI = "26"
+B_SO = "62"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Grannell"
+name.given = "Vincent"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "12"
+B_AB = "25"
+B_R = "5"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_AVG = ".240"
+
+
+[[person]]
+name.last = "Garmendia"
+name.given = "Oscar"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "86"
+B_AB = "314"
+B_R = "35"
+B_H = "75"
+B_TB = "84"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SB = "10"
+B_BB = "24"
+B_HP = "0"
+B_RBI = "39"
+B_SO = "25"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Russo"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "36"
+B_AB = "142"
+B_R = "29"
+B_H = "34"
+B_TB = "36"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "9"
+B_BB = "15"
+B_HP = "2"
+B_RBI = "4"
+B_SO = "22"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Rogers"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "30"
+B_AB = "113"
+B_R = "20"
+B_H = "27"
+B_TB = "30"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "19"
+B_HP = "2"
+B_RBI = "7"
+B_SO = "6"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Rivas"
+name.given = "Rafael"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "38"
+B_AB = "92"
+B_R = "14"
+B_H = "22"
+B_TB = "27"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "19"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Matos"
+name.given = "Alberto"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "33"
+B_AB = "67"
+B_R = "5"
+B_H = "16"
+B_TB = "18"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "10"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "7"
+B_AVG = ".239"
+
+
+[[person]]
+name.last = "Napoles"
+name.given = "Jose"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "109"
+B_AB = "429"
+B_R = "39"
+B_H = "102"
+B_TB = "120"
+B_2B = "12"
+B_3B = "3"
+B_HR = "0"
+B_SH = "8"
+B_SB = "4"
+B_BB = "34"
+B_HP = "1"
+B_RBI = "48"
+B_SO = "22"
+B_AVG = ".238"
+
+
+[[person]]
+name.last = "Fernandez"
+name.given = "Aurelio"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "1"
+[[person.playing.split]]
+team.name = "Tampa"
+B_G = "5"
+[[person.playing.split]]
+team.name = "Miami"
+B_G = "38"
+[[person.playing.split]]
+team.name = "Havana"
+B_G = "4"
+[person.playing.totals]
+B_G = "48"
+B_AB = "156"
+B_R = "18"
+B_H = "37"
+B_TB = "49"
+B_2B = "6"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "34"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Covington"
+name.given = "Chester"
+description.bats = "S"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "53"
+B_AB = "135"
+B_R = "11"
+B_H = "32"
+B_TB = "38"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SB = "3"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "4"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Hunt"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "32"
+B_AB = "106"
+B_R = "12"
+B_H = "25"
+B_TB = "34"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "24"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "21"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "DeLaville"
+name.given = "Augustin"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "91"
+B_AB = "306"
+B_R = "51"
+B_H = "72"
+B_TB = "85"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "9"
+B_SB = "9"
+B_BB = "47"
+B_HP = "0"
+B_RBI = "26"
+B_SO = "46"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Juzek"
+name.given = "Gerald"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "14"
+B_AB = "34"
+B_R = "2"
+B_H = "8"
+B_TB = "13"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "14"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Jiminez"
+name.given = "Felipe"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+B_G = "4"
+[[person.playing.split]]
+team.name = "Tampa"
+B_G = "21"
+[person.playing.totals]
+B_G = "25"
+B_AB = "77"
+B_R = "13"
+B_H = "18"
+B_TB = "26"
+B_2B = "3"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SB = "1"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "12"
+B_AVG = ".234"
+
+
+[[person]]
+name.last = "Pare"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "4"
+[[person.playing.split]]
+team.name = "Tampa"
+B_G = "13"
+[person.playing.totals]
+B_G = "17"
+B_AB = "43"
+B_R = "3"
+B_H = "10"
+B_TB = "15"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "9"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Hunt"
+name.given = "Roger"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "24"
+B_AB = "30"
+B_R = "3"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "12"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "McCravy"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "16"
+B_AB = "30"
+B_R = "2"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "2"
+B_RBI = "4"
+B_SO = "7"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Dal"
+name.given = "Par"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+B_G = "55"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "13"
+[person.playing.totals]
+B_G = "68"
+B_AB = "185"
+B_R = "11"
+B_H = "43"
+B_TB = "47"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "4"
+B_BB = "10"
+B_HP = "2"
+B_RBI = "4"
+B_SO = "8"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "LaFrance"
+name.given = "Roger"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "97"
+B_AB = "326"
+B_R = "30"
+B_H = "75"
+B_TB = "88"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SB = "5"
+B_BB = "17"
+B_HP = "4"
+B_RBI = "31"
+B_SO = "33"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Gallardo"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "119"
+B_AB = "423"
+B_R = "74"
+B_H = "97"
+B_TB = "134"
+B_2B = "14"
+B_3B = "10"
+B_HR = "1"
+B_SH = "18"
+B_SB = "22"
+B_BB = "46"
+B_HP = "1"
+B_RBI = "53"
+B_SO = "61"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Cuellar"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "18"
+B_AB = "57"
+B_R = "5"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "1"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "1"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Mann"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "89"
+B_AB = "327"
+B_R = "41"
+B_H = "74"
+B_TB = "97"
+B_2B = "6"
+B_3B = "1"
+B_HR = "5"
+B_SH = "2"
+B_SB = "9"
+B_BB = "30"
+B_HP = "1"
+B_RBI = "38"
+B_SO = "61"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Bellamy"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "45"
+B_AB = "141"
+B_R = "14"
+B_H = "32"
+B_TB = "38"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SB = "2"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "27"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Mayhugh"
+name.given = "Russell"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "24"
+B_AB = "66"
+B_R = "5"
+B_H = "15"
+B_TB = "16"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "3"
+B_BB = "2"
+B_HP = "2"
+B_RBI = "3"
+B_SO = "5"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Walck"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "19"
+B_AB = "62"
+B_R = "5"
+B_H = "14"
+B_TB = "18"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "9"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Powers"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "89"
+B_AB = "333"
+B_R = "48"
+B_H = "75"
+B_TB = "106"
+B_2B = "14"
+B_3B = "7"
+B_HR = "1"
+B_SH = "3"
+B_SB = "4"
+B_BB = "20"
+B_HP = "3"
+B_RBI = "27"
+B_SO = "70"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Lastras"
+name.given = "Daniel"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "50"
+B_AB = "160"
+B_R = "30"
+B_H = "36"
+B_TB = "43"
+B_2B = "7"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "7"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "39"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Ott"
+name.given = "Matthew"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "34"
+B_AB = "134"
+B_R = "25"
+B_H = "30"
+B_TB = "43"
+B_2B = "7"
+B_3B = "3"
+B_HR = "0"
+B_SH = "9"
+B_SB = "10"
+B_BB = "14"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_AVG = ".224"
+
+
+[[person]]
+name.last = "Miranda"
+name.given = "Raoul"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "21"
+B_AB = "45"
+B_R = "5"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "6"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Lewis"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "82"
+B_AB = "241"
+B_R = "23"
+B_H = "53"
+B_TB = "77"
+B_2B = "11"
+B_3B = "5"
+B_HR = "1"
+B_SH = "2"
+B_SB = "2"
+B_BB = "29"
+B_HP = "2"
+B_RBI = "29"
+B_SO = "47"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Meyer"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "52"
+B_AB = "186"
+B_R = "25"
+B_H = "41"
+B_TB = "55"
+B_2B = "6"
+B_3B = "4"
+B_HR = "0"
+B_SH = "4"
+B_SB = "3"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "12"
+B_SO = "44"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Maire"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "37"
+B_AB = "59"
+B_R = "7"
+B_H = "13"
+B_TB = "16"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "14"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Enos"
+name.given = "Wm."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "70"
+B_AB = "265"
+B_R = "28"
+B_H = "58"
+B_TB = "64"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "5"
+B_SB = "3"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "20"
+B_SO = "25"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Ball"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "55"
+B_AB = "196"
+B_R = "19"
+B_H = "43"
+B_TB = "48"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "1"
+B_SB = "6"
+B_BB = "18"
+B_HP = "3"
+B_RBI = "10"
+B_SO = "21"
+B_AVG = ".219"
+
+
+[[person]]
+name.last = "Hill"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "21"
+B_AB = "46"
+B_R = "7"
+B_H = "10"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_AVG = ".217"
+
+
+[[person]]
+name.last = "Torres"
+name.given = "Armenio"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "11"
+B_AB = "23"
+B_R = "2"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "4"
+B_AVG = ".217"
+
+
+[[person]]
+name.last = "Ortiz"
+name.given = "Olivera"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "15"
+B_AB = "23"
+B_R = "1"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_AVG = ".217"
+
+
+[[person]]
+name.last = "Mendizabel"
+name.given = "Candido"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "13"
+B_AB = "37"
+B_R = "9"
+B_H = "8"
+B_TB = "15"
+B_2B = "0"
+B_3B = "2"
+B_HR = "1"
+B_SH = "0"
+B_SB = "1"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "6"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Winkler"
+name.given = "Bernard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "39"
+B_AB = "80"
+B_R = "12"
+B_H = "17"
+B_TB = "27"
+B_2B = "1"
+B_3B = "3"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "21"
+B_AVG = ".213"
+
+
+[[person]]
+name.last = "Cowan"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "98"
+B_AB = "339"
+B_R = "41"
+B_H = "72"
+B_TB = "84"
+B_2B = "10"
+B_3B = "1"
+B_HR = "0"
+B_SH = "6"
+B_SB = "8"
+B_BB = "35"
+B_HP = "1"
+B_RBI = "23"
+B_SO = "29"
+B_AVG = ".212"
+
+
+[[person]]
+name.last = "Perrin"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "14"
+B_AB = "19"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "6"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "Witkowski"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "21"
+B_AB = "62"
+B_R = "7"
+B_H = "13"
+B_TB = "15"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "13"
+B_AVG = ".210"
+
+
+[[person]]
+name.last = "Toth"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "26"
+B_AB = "82"
+B_R = "15"
+B_H = "17"
+B_TB = "22"
+B_2B = "5"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "7"
+B_BB = "20"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "31"
+B_AVG = ".207"
+
+
+[[person]]
+name.last = "Blanco"
+name.given = "Osmaro"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+B_G = "13"
+[[person.playing.split]]
+team.name = "Miami Beach"
+B_G = "92"
+[person.playing.totals]
+B_G = "105"
+B_AB = "353"
+B_R = "49"
+B_H = "71"
+B_TB = "80"
+B_2B = "7"
+B_3B = "1"
+B_HR = "0"
+B_SH = "18"
+B_SB = "4"
+B_BB = "42"
+B_HP = "0"
+B_RBI = "25"
+B_SO = "43"
+B_AVG = ".201"
+
+
+[[person]]
+name.last = "Woodring"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+B_G = "1"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "17"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "5"
+[person.playing.totals]
+B_G = "23"
+B_AB = "60"
+B_R = "5"
+B_H = "12"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "4"
+B_HP = "2"
+B_RBI = "2"
+B_SO = "20"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Weiss"
+name.given = "Raymond"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "61"
+B_AB = "45"
+B_R = "4"
+B_H = "9"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "1"
+B_SH = "3"
+B_SB = "1"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "7"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Davis"
+name.given = "Ralph"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "14"
+B_AB = "40"
+B_R = "4"
+B_H = "8"
+B_TB = "10"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "6"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Bargas"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "13"
+B_AB = "25"
+B_R = "2"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Moreno"
+name.given = "Orlando"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "36"
+B_AB = "91"
+B_R = "8"
+B_H = "18"
+B_TB = "23"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "1"
+B_BB = "10"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "19"
+B_AVG = ".198"
+
+
+[[person]]
+name.last = "Sinnott"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "51"
+B_AB = "184"
+B_R = "19"
+B_H = "36"
+B_TB = "45"
+B_2B = "6"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SB = "3"
+B_BB = "14"
+B_HP = "1"
+B_RBI = "17"
+B_SO = "26"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Campuzano"
+name.given = "Augusto"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "48"
+B_AB = "165"
+B_R = "5"
+B_H = "32"
+B_TB = "33"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "19"
+B_SO = "21"
+B_AVG = ".194"
+
+
+[[person]]
+name.last = "Loadholtes"
+name.given = "Jos."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "46"
+B_AB = "99"
+B_R = "8"
+B_H = "19"
+B_TB = "26"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "19"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Bodner"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "58"
+B_AB = "209"
+B_R = "13"
+B_H = "40"
+B_TB = "42"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "6"
+B_BB = "23"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "24"
+B_AVG = ".191"
+
+
+[[person]]
+name.last = "Huffaker"
+name.given = "Wayne"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "10"
+B_AB = "21"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "5"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Lynn"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "15"
+B_AB = "53"
+B_R = "5"
+B_H = "10"
+B_TB = "16"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "16"
+B_AVG = ".189"
+
+
+[[person]]
+name.last = "Vargo"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "12"
+B_AB = "37"
+B_R = "5"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "1"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "9"
+B_AVG = ".189"
+
+
+[[person]]
+name.last = "Baez"
+name.given = "Humberto"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "24"
+B_AB = "37"
+B_R = "5"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_AVG = ".189"
+
+
+[[person]]
+name.last = "Farkas"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "32"
+B_AB = "69"
+B_R = "3"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "13"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Alexander"
+name.given = "Theodore"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "9"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "8"
+[person.playing.totals]
+B_G = "17"
+B_AB = "48"
+B_R = "2"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "2"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "13"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "16"
+B_AB = "32"
+B_R = "4"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Sabatie"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "59"
+B_AB = "112"
+B_R = "27"
+B_H = "20"
+B_TB = "34"
+B_2B = "2"
+B_3B = "3"
+B_HR = "2"
+B_SH = "3"
+B_SB = "2"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "33"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Henderson"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+B_G = "24"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "4"
+[person.playing.totals]
+B_G = "28"
+B_AB = "95"
+B_R = "8"
+B_H = "17"
+B_TB = "19"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "2"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "15"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Maslaukus"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "24"
+B_AB = "84"
+B_R = "8"
+B_H = "15"
+B_TB = "16"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "9"
+B_HP = "2"
+B_RBI = "3"
+B_SO = "11"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "DelCalvo"
+name.given = "Oscar"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "8"
+[[person.playing.split]]
+team.name = "Havana"
+B_G = "29"
+[person.playing.totals]
+B_G = "37"
+B_AB = "108"
+B_R = "9"
+B_H = "19"
+B_TB = "24"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SB = "3"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "10"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Henton"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "30"
+B_AB = "55"
+B_R = "4"
+B_H = "9"
+B_TB = "11"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "11"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Fraker"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+B_G = "1"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "23"
+[person.playing.totals]
+B_G = "24"
+B_AB = "86"
+B_R = "8"
+B_H = "14"
+B_TB = "17"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SB = "1"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".163"
+
+
+[[person]]
+name.last = "Stein"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+B_G = "21"
+B_AB = "37"
+B_R = "2"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "12"
+B_AVG = ".162"
+
+
+[[person]]
+name.last = "Choptman"
+name.given = "Devon"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "17"
+B_AB = "25"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "13"
+B_AVG = ".160"
+
+
+[[person]]
+name.last = "Matthews"
+name.given = "Franklin"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "36"
+B_AB = "72"
+B_R = "10"
+B_H = "11"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "23"
+B_AVG = ".153"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Fernado"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+B_G = "26"
+B_AB = "52"
+B_R = "1"
+B_H = "7"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "19"
+B_AVG = ".135"
+
+
+[[person]]
+name.last = "Wixted"
+name.given = "Wm."
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "32"
+B_AB = "78"
+B_R = "3"
+B_H = "9"
+B_TB = "12"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "29"
+B_AVG = ".115"
+
+
+[[person]]
+name.last = "Baker"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "23"
+B_AB = "26"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".115"
+
+
+[[person]]
+name.last = "McGahagin"
+name.given = "Alston"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+B_G = "36"
+B_AB = "27"
+B_R = "2"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "10"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Ribble"
+name.given = "Rolden"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+B_G = "3"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+B_G = "15"
+[person.playing.totals]
+B_G = "18"
+B_AB = "18"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Yurocko"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+B_G = "1"
+[[person.playing.split]]
+team.name = "Miami"
+B_G = "4"
+[[person.playing.split]]
+team.name = "Lakeland"
+B_G = "5"
+[person.playing.totals]
+B_G = "10"
+B_AB = "19"
+B_R = "1"
+B_H = "2"
+B_TB = "4"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "1"
+B_SO = "4"
+B_AVG = ".105"
+
+
+[[person]]
+name.last = "O'Neill"
+name.given = "Chas."
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "33"
+B_AB = "62"
+B_R = "3"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "11"
+B_AVG = ".097"
+
+
+[[person]]
+name.last = "Vaughan"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "11"
+B_AB = "22"
+B_R = "4"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "10"
+B_AVG = ".091"
+
+
+[[person]]
+name.last = "Rubert"
+name.given = "Octavio"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+B_G = "28"
+B_AB = "58"
+B_R = "3"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_AVG = ".086"
+
+
+[[person]]
+name.last = "McGuire"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+B_G = "13"
+B_AB = "16"
+B_R = "0"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_AVG = ".063"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+B_G = "33"
+B_AB = "59"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "25"
+B_AVG = ".051"
+
+
+[[person]]
+name.last = "Castillo"
+name.given = "Gilberto"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Cendan"
+name.given = "Jose"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Coane"
+name.given = "Zito"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "DelToro"
+name.given = "Gilberto"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mejido"
+name.given = "Eduardo"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Moreno"
+name.given = "Julio"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sevane"
+name.given = "Isaac"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Ureitla"
+name.given = "Jorge"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Vinajeras"
+name.given = "Efrain"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Baar"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Downing"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dunlap"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Foster"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Harris"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jones"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Krall"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Kyle"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Osthoff"
+name.given = "Wilbur"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Peacock"
+name.given = "Cecil"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Scobie"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Thomas"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Turner"
+name.given = "Herbert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lakeland"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Blauch"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bush"
+name.given = "Louis"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Chestnut"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Coates"
+name.given = "Clem"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Durrance"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Gardner"
+name.given = "Gerald"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hamilton"
+name.given = "Franklin"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Holland"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Jackubov"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lavac"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Montanes"
+name.given = "Roberto"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Myers"
+name.given = "Theodore"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "O'Connell"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schactman"
+name.given = "Morris"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schwartz"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Whitman"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Whiteside"
+name.given = "Bright"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bean"
+name.given = "Roy"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "DeShaies"
+name.given = "Norman"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Dudley"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Graham"
+name.given = "Terry"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lynch"
+name.given = "David"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Olson"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Pace"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Wardzala"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Miami Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bellinger"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bissen"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Franco"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Intendola"
+name.given = "Orest"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Maggio"
+name.given = "Dominick"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Maseda"
+name.given = "Marcelo"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Mihalik"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Paleveda"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Quevedo"
+name.given = "Jose"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Reed"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Regalado"
+name.given = "Ramiro"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Westley"
+name.given = "Jack"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Zuba"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Bardin"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Crisci"
+name.given = "Al"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Edwards"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Elliott"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Estrella"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Galdo"
+name.given = "Oscar"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hendricks"
+name.given = "Jacob"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Hockette"
+name.given = "George"
+description.bats = "L"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lynch"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Manning"
+name.given = "Herbert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Montanez"
+name.given = "Raoul"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Powell"
+name.given = "Jesse"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Schiro"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Sproul"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Thorpe"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Warren"
+name.given = "Jeffrey"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Garcia"
+name.given = "Max"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Manuel"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tampa"
+[[person.playing.split]]
+team.name = "Havana"
+[person.playing.totals]
+
+
+[[person]]
+name.last = "Traspuesto"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "Florida International League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Havana"
+[[person.playing.split]]
+team.name = "West Palm Beach"
+[person.playing.totals]

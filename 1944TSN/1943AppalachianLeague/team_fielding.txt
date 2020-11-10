@@ -1,0 +1,66 @@
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1943"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_DP = "101"
+F_TP = "0"
+F_PB = "21"
+F_PO = "2802"
+F_A = "1305"
+F_E = "198"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Erwin"
+[[team.playing]]
+season = "1943"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "106"
+F_DP = "60"
+F_TP = "2"
+F_PB = "26"
+F_PO = "2676"
+F_A = "1154"
+F_E = "257"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1943"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_DP = "75"
+F_TP = "1"
+F_PB = "18"
+F_PO = "2722"
+F_A = "1154"
+F_E = "262"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1943"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "113"
+F_DP = "88"
+F_TP = "1"
+F_PB = "22"
+F_PO = "2800"
+F_A = "1248"
+F_E = "337"
+F_PCT = ".923"

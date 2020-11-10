@@ -1,0 +1,126 @@
+[[team]]
+name = "Birmingham"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "131"
+F_PB = "7"
+F_PO = "4097"
+F_A = "1498"
+F_E = "141"
+F_PCT = ".975"
+
+
+[[team]]
+name = "Memphis"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "159"
+F_PB = "15"
+F_PO = "3919"
+F_A = "1595"
+F_E = "156"
+F_PCT = ".972"
+
+
+[[team]]
+name = "Atlanta"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "181"
+F_PB = "16"
+F_PO = "4087"
+F_A = "1623"
+F_E = "168"
+F_PCT = ".971"
+
+
+[[team]]
+name = "Nashville"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "156"
+F_DP = "179"
+F_PB = "9"
+F_PO = "4020"
+F_A = "1602"
+F_E = "175"
+F_PCT = ".970"
+
+
+[[team]]
+name = "Mobile"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "151"
+F_PB = "16"
+F_PO = "3898"
+F_A = "1596"
+F_E = "167"
+F_PCT = ".970"
+
+
+[[team]]
+name = "Chattanooga"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "162"
+F_PB = "21"
+F_PO = "3957"
+F_A = "1557"
+F_E = "186"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Little Rock"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "142"
+F_PB = "38"
+F_PO = "3999"
+F_A = "1626"
+F_E = "197"
+F_PCT = ".966"
+
+
+[[team]]
+name = "New Orleans"
+[[team.playing]]
+season = "1958"
+league.name = "Southern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "241"
+F_PB = "15"
+F_PO = "3827"
+F_A = "1773"
+F_E = "210"
+F_PCT = ".964"

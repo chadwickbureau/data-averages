@@ -1,0 +1,158 @@
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "145"
+B_AB = "4575"
+B_R = "610"
+B_H = "1167"
+B_TB = "1498"
+B_2B = "115"
+B_3B = "78"
+B_HR = "20"
+B_AVG = ".255"
+B_SH = "195"
+B_SB = "178"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "144"
+B_AB = "4590"
+B_R = "597"
+B_H = "1132"
+B_TB = "1440"
+B_2B = "120"
+B_3B = "55"
+B_HR = "26"
+B_AVG = ".247"
+B_SH = "208"
+B_SB = "239"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "146"
+B_AB = "4786"
+B_R = "572"
+B_H = "1162"
+B_TB = "1428"
+B_2B = "124"
+B_3B = "59"
+B_HR = "8"
+B_AVG = ".243"
+B_SH = "218"
+B_SB = "247"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4640"
+B_R = "476"
+B_H = "1109"
+B_TB = "1395"
+B_2B = "149"
+B_3B = "49"
+B_HR = "13"
+B_AVG = ".238"
+B_SH = "176"
+B_SB = "145"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "141"
+B_AB = "4607"
+B_R = "523"
+B_H = "1094"
+B_TB = "1400"
+B_2B = "135"
+B_3B = "51"
+B_HR = "23"
+B_AVG = ".237"
+B_SH = "171"
+B_SB = "181"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4447"
+B_R = "489"
+B_H = "1046"
+B_TB = "1333"
+B_2B = "146"
+B_3B = "48"
+B_HR = "15"
+B_AVG = ".235"
+B_SH = "194"
+B_SB = "222"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "142"
+B_AB = "4596"
+B_R = "459"
+B_H = "1031"
+B_TB = "1349"
+B_2B = "121"
+B_3B = "49"
+B_HR = "33"
+B_AVG = ".224"
+B_SH = "175"
+B_SB = "181"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1908"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+B_G = "140"
+B_AB = "4487"
+B_R = "417"
+B_H = "1001"
+B_TB = "1292"
+B_2B = "104"
+B_3B = "41"
+B_HR = "35"
+B_AVG = ".223"
+B_SH = "164"
+B_SB = "135"

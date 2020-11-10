@@ -1,0 +1,94 @@
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "4107"
+B_R = "610"
+B_H = "1106"
+B_SB = "225"
+B_SH = "150"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "4146"
+B_R = "549"
+B_H = "1099"
+B_SB = "150"
+B_SH = "153"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "4121"
+B_R = "559"
+B_H = "1074"
+B_SB = "200"
+B_SH = "155"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "4081"
+B_R = "504"
+B_H = "1060"
+B_SB = "163"
+B_SH = "168"
+B_AVG = ".260"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "4058"
+B_R = "509"
+B_H = "1027"
+B_SB = "195"
+B_SH = "150"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Lynchburg"
+[[team.playing]]
+season = "1911"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3998"
+B_R = "467"
+B_H = "999"
+B_SB = "216"
+B_SH = "133"
+B_AVG = ".250"

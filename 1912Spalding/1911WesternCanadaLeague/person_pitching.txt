@@ -1,0 +1,451 @@
+[[person]]
+name.last = "Naverson"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_W = "25"
+P_L = "8"
+P_PCT = ".757"
+P_IP = "258"
+P_SO = "153"
+P_BB = "72"
+P_HP = "16"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_W = "23"
+P_L = "9"
+P_PCT = ".718"
+P_IP = "246"
+P_SO = "170"
+P_BB = "82"
+P_HP = "24"
+
+
+[[person]]
+name.last = "Manning"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_W = "20"
+P_L = "9"
+P_PCT = ".689"
+P_IP = "243"
+P_SO = "179"
+P_BB = "82"
+P_HP = "10"
+
+
+[[person]]
+name.last = "McQuarrie"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Moose Jaw"
+[person.playing.totals]
+P_W = "13"
+P_L = "6"
+P_PCT = ".679"
+P_IP = "154"
+P_SO = "69"
+P_BB = "44"
+P_HP = "9"
+
+
+[[person]]
+name.last = "Standridge"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_W = "21"
+P_L = "10"
+P_PCT = ".677"
+P_IP = "269"
+P_SO = "168"
+P_BB = "67"
+P_HP = "13"
+
+
+[[person]]
+name.last = "Cummings"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_W = "10"
+P_L = "6"
+P_PCT = ".625"
+P_IP = "147"
+P_SO = "62"
+P_BB = "47"
+P_HP = "9"
+
+
+[[person]]
+name.last = "Dickinson"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_W = "10"
+P_L = "9"
+P_PCT = ".562"
+P_IP = "171"
+P_SO = "117"
+P_BB = "47"
+P_HP = "12"
+
+
+[[person]]
+name.last = "Ray"
+name.given = "C."
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brandon"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_W = "9"
+P_L = "7"
+P_PCT = ".562"
+P_IP = "129"
+P_SO = "51"
+P_BB = "34"
+P_HP = "8"
+
+
+[[person]]
+name.last = "Whisman"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_W = "8"
+P_L = "7"
+P_PCT = ".533"
+P_IP = "23"
+P_SO = "54"
+P_BB = "50"
+P_HP = "8"
+
+
+[[person]]
+name.last = "Barnstead"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_W = "8"
+P_L = "9"
+P_PCT = ".470"
+P_IP = "137"
+P_SO = "57"
+P_BB = "76"
+P_HP = "6"
+
+
+[[person]]
+name.last = "Lezie"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Calgary"
+[person.playing.totals]
+P_W = "10"
+P_L = "12"
+P_PCT = ".454"
+P_IP = "186"
+P_SO = "169"
+P_BB = "87"
+P_HP = "14"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_W = "9"
+P_L = "11"
+P_PCT = ".450"
+P_IP = "160"
+P_SO = "110"
+P_BB = "6"
+P_HP = "5"
+
+
+[[person]]
+name.last = "Pennybaker"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_W = "13"
+P_L = "17"
+P_PCT = ".433"
+P_IP = "237"
+P_SO = "123"
+P_BB = "95"
+P_HP = "18"
+
+
+[[person]]
+name.last = "Glass"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_W = "12"
+P_L = "16"
+P_PCT = ".428"
+P_IP = "246"
+P_SO = "125"
+P_BB = "48"
+P_HP = "18"
+
+
+[[person]]
+name.last = "Pieh"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_W = "12"
+P_L = "17"
+P_PCT = ".413"
+P_IP = "232"
+P_SO = "159"
+P_BB = "129"
+P_HP = "18"
+
+
+[[person]]
+name.last = "Syfert"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_W = "10"
+P_L = "15"
+P_PCT = ".400"
+P_IP = "215"
+P_SO = "79"
+P_BB = "59"
+P_HP = "22"
+
+
+[[person]]
+name.last = "Ryan"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brandon"
+[person.playing.totals]
+P_W = "4"
+P_L = "7"
+P_PCT = ".363"
+P_IP = "86"
+P_SO = "51"
+P_BB = "40"
+P_HP = "7"
+
+
+[[person]]
+name.last = "Backoff"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_W = "6"
+P_L = "11"
+P_PCT = ".352"
+P_IP = "168"
+P_SO = "66"
+P_BB = "46"
+P_HP = "10"
+
+
+[[person]]
+name.last = "Thelan"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brandon"
+[person.playing.totals]
+P_W = "8"
+P_L = "15"
+P_PCT = ".347"
+P_IP = "205"
+P_SO = "79"
+P_BB = "61"
+P_HP = "11"
+
+
+[[person]]
+name.last = "Reese"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brandon"
+[person.playing.totals]
+P_W = "4"
+P_L = "8"
+P_PCT = ".333"
+P_IP = "96"
+P_SO = "51"
+P_BB = "30"
+P_HP = "1"
+
+
+[[person]]
+name.last = "Heinrichs"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brandon"
+[person.playing.totals]
+P_W = "8"
+P_L = "16"
+P_PCT = ".333"
+P_IP = "199"
+P_SO = "100"
+P_BB = "63"
+P_HP = "20"
+
+
+[[person]]
+name.last = "Baxter"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Edmonton"
+[person.playing.totals]
+P_W = "3"
+P_L = "7"
+P_PCT = ".300"
+P_IP = "77"
+P_SO = "48"
+P_BB = "31"
+P_HP = "8"
+
+
+[[person]]
+name.last = "Sheridan"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Saskatoon"
+[person.playing.totals]
+P_W = "7"
+P_L = "19"
+P_PCT = ".269"
+P_IP = "189"
+P_SO = "115"
+P_BB = "55"
+P_HP = "9"
+
+
+[[person]]
+name.last = "Collins"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winnipeg"
+[person.playing.totals]
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_IP = "90"
+P_SO = "34"
+P_BB = "29"
+P_HP = "4"
+
+
+[[person]]
+name.last = "Borleski"
+[[person.playing]]
+season = "1911"
+league.name = "Western Canada League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Brandon"
+[person.playing.totals]
+P_W = "2"
+P_L = "9"
+P_PCT = ".181"
+P_IP = "92"
+P_SO = "40"
+P_BB = "29"
+P_HP = "7"

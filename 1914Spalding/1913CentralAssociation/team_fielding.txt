@@ -1,0 +1,110 @@
+[[team]]
+name = "Ottumwa"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "127"
+F_PO = "3355"
+F_A = "1577"
+F_E = "258"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Muscatine"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3422"
+F_A = "1502"
+F_E = "264"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Waterloo"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3503"
+F_A = "1581"
+F_E = "271"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Monmouth"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3403"
+F_A = "1561"
+F_E = "284"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "124"
+F_PO = "3237"
+F_A = "1542"
+F_E = "294"
+F_PCT = ".942"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3564"
+F_A = "1588"
+F_E = "324"
+F_PCT = ".940"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "129"
+F_PO = "3367"
+F_A = "1537"
+F_E = "327"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1913"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "128"
+F_PO = "3292"
+F_A = "1500"
+F_E = "328"
+F_PCT = ".936"

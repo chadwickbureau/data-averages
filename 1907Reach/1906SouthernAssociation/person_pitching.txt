@@ -1,0 +1,718 @@
+[[person]]
+name.last = "Hughes"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "32"
+P_W = "25"
+P_L = "5"
+P_T = "2"
+P_PCT = ".833"
+
+
+[[person]]
+name.last = "Leibhart"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "46"
+P_W = "35"
+P_L = "11"
+P_T = "0"
+P_PCT = ".760"
+
+
+[[person]]
+name.last = "Breitenstein"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "30"
+P_W = "21"
+P_L = "7"
+P_T = "2"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Loucks"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "18"
+P_W = "13"
+P_L = "5"
+P_T = "9"
+P_PCT = ".722"
+
+
+[[person]]
+name.last = "Reagan"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "31"
+P_W = "20"
+P_L = "8"
+P_T = "3"
+P_PCT = ".714"
+
+
+[[person]]
+name.last = "Zellner"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "40"
+P_W = "24"
+P_L = "12"
+P_T = "4"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Fisher"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Shreveport"
+[person.playing.totals]
+P_G = "37"
+P_W = "24"
+P_L = "12"
+P_T = "1"
+P_PCT = ".666"
+
+
+[[person]]
+name.last = "Childs"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "11"
+P_W = "7"
+P_L = "4"
+P_T = "0"
+P_PCT = ".633"
+
+
+[[person]]
+name.last = "Wilhelm"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "36"
+P_W = "22"
+P_L = "13"
+P_T = "1"
+P_PCT = ".628"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "37"
+P_W = "22"
+P_L = "14"
+P_T = "1"
+P_PCT = ".611"
+
+
+[[person]]
+name.last = "McCrane"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "6"
+P_W = "3"
+P_L = "2"
+P_T = "1"
+P_PCT = ".600"
+
+
+[[person]]
+name.last = "Sallee"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[person.playing.totals]
+P_G = "31"
+P_W = "17"
+P_L = "12"
+P_T = "2"
+P_PCT = ".586"
+
+
+[[person]]
+name.last = "Beeker"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Shreveport"
+[person.playing.totals]
+P_G = "27"
+P_W = "15"
+P_L = "11"
+P_T = "1"
+P_PCT = ".576"
+
+
+[[person]]
+name.last = "Hickman"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Birmingham"
+[[person.playing.split]]
+team.name = "Shreveport"
+[person.playing.totals]
+P_G = "28"
+P_W = "13"
+P_L = "10"
+P_T = "5"
+P_PCT = ".565"
+
+
+[[person]]
+name.last = "Manuel"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "32"
+P_W = "17"
+P_L = "15"
+P_T = "1"
+P_PCT = ".548"
+
+
+[[person]]
+name.last = "Harley"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "24"
+P_W = "12"
+P_L = "11"
+P_T = "1"
+P_PCT = ".530"
+
+
+[[person]]
+name.last = "Suggs"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "35"
+P_W = "18"
+P_L = "16"
+P_T = "2"
+P_PCT = ".528"
+
+
+[[person]]
+name.last = "Guese"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "27"
+P_W = "14"
+P_L = "13"
+P_T = "0"
+P_PCT = ".518"
+
+
+[[person]]
+name.last = "Malarkey"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "39"
+P_W = "18"
+P_L = "17"
+P_T = "4"
+P_PCT = ".514"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "14"
+P_W = "7"
+P_L = "7"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Brown"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "10"
+P_W = "5"
+P_L = "5"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Breitenstein"
+name.given = "W."
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Shreveport"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "24"
+P_W = "11"
+P_L = "11"
+P_T = "2"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Sorrells"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "22"
+P_W = "11"
+P_L = "11"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Phillips"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "33"
+P_W = "15"
+P_L = "17"
+P_T = "1"
+P_PCT = ".468"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "16"
+P_W = "7"
+P_L = "8"
+P_T = "1"
+P_PCT = ".466"
+
+
+[[person]]
+name.last = "Lee"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Shreveport"
+[person.playing.totals]
+P_G = "27"
+P_W = "12"
+P_L = "14"
+P_T = "1"
+P_PCT = ".453"
+
+
+[[person]]
+name.last = "Stockdale"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Memphis"
+[person.playing.totals]
+P_G = "15"
+P_W = "5"
+P_L = "7"
+P_T = "3"
+P_PCT = ".416"
+
+
+[[person]]
+name.last = "Hermann"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "21"
+P_W = "9"
+P_L = "12"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Sparks"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[person.playing.totals]
+P_G = "20"
+P_W = "8"
+P_L = "10"
+P_T = "2"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Buchanan"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "13"
+P_W = "5"
+P_L = "8"
+P_T = "0"
+P_PCT = ".384"
+
+
+[[person]]
+name.last = "Brady"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "40"
+P_W = "14"
+P_L = "24"
+P_T = "2"
+P_PCT = ".368"
+
+
+[[person]]
+name.last = "Watt"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[[person.playing.split]]
+team.name = "New Orleans"
+[person.playing.totals]
+P_G = "32"
+P_W = "10"
+P_L = "20"
+P_T = "2"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Allemang"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Ely"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "21"
+P_W = "7"
+P_L = "14"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Tribble"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "6"
+P_W = "2"
+P_L = "4"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Duggan"
+name.given = "E."
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Atlanta"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "13"
+P_W = "4"
+P_L = "8"
+P_T = "1"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Duggan"
+name.given = "J."
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "30"
+P_W = "9"
+P_L = "19"
+P_T = "2"
+P_PCT = ".321"
+
+
+[[person]]
+name.last = "Keith"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "24"
+P_W = "8"
+P_L = "17"
+P_T = "0"
+P_PCT = ".320"
+
+
+[[person]]
+name.last = "Hale"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Montgomery"
+[person.playing.totals]
+P_G = "12"
+P_W = "3"
+P_L = "7"
+P_T = "2"
+P_PCT = ".300"
+
+
+[[person]]
+name.last = "Fritz"
+name.given = "C."
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Shreveport"
+[person.playing.totals]
+P_G = "24"
+P_W = "7"
+P_L = "17"
+P_T = "1"
+P_PCT = ".266"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "8"
+P_W = "2"
+P_L = "6"
+P_T = "0"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "17"
+P_W = "3"
+P_L = "12"
+P_T = "2"
+P_PCT = ".200"
+
+
+[[person]]
+name.last = "Newlin"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Little Rock"
+[person.playing.totals]
+P_G = "12"
+P_W = "2"
+P_L = "9"
+P_T = "1"
+P_PCT = ".181"
+
+
+[[person]]
+name.last = "Geyer"
+[[person.playing]]
+season = "1906"
+league.name = "Southern Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Nashville"
+[person.playing.totals]
+P_G = "7"
+P_W = "1"
+P_L = "6"
+P_T = "0"
+P_PCT = ".142"

@@ -1,0 +1,134 @@
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4322"
+B_R = "579"
+B_H = "1219"
+B_2B = "187"
+B_3B = "55"
+B_HR = "31"
+B_SB = "172"
+B_AVG = ".282"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4383"
+B_R = "581"
+B_H = "1220"
+B_2B = "193"
+B_3B = "68"
+B_HR = "19"
+B_SB = "158"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4371"
+B_R = "604"
+B_H = "1190"
+B_2B = "154"
+B_3B = "68"
+B_HR = "31"
+B_SB = "161"
+B_AVG = ".272"
+
+
+[[team]]
+name = "Hannibal"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4387"
+B_R = "552"
+B_H = "1182"
+B_2B = "234"
+B_3B = "44"
+B_HR = "17"
+B_SB = "206"
+B_AVG = ".269"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4373"
+B_R = "580"
+B_H = "1168"
+B_2B = "169"
+B_3B = "57"
+B_HR = "13"
+B_SB = "203"
+B_AVG = ".265"
+
+
+[[team]]
+name = "Moline"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4283"
+B_R = "579"
+B_H = "1097"
+B_2B = "169"
+B_3B = "67"
+B_HR = "17"
+B_SB = "138"
+B_AVG = ".256"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4191"
+B_R = "496"
+B_H = "1065"
+B_2B = "178"
+B_3B = "68"
+B_HR = "10"
+B_SB = "126"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1916"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4400"
+B_R = "481"
+B_H = "1111"
+B_2B = "158"
+B_3B = "53"
+B_HR = "7"
+B_SB = "107"
+B_AVG = ".252"

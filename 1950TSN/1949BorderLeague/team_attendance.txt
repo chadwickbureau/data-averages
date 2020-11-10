@@ -1,0 +1,58 @@
+[[team]]
+name = "Ottawa"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "78577"
+
+
+[[team]]
+name = "Geneva"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "67259"
+
+
+[[team]]
+name = "Watertown"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "61026"
+
+
+[[team]]
+name = "Ogdensburg"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "58749"
+
+
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "55634"
+
+
+[[team]]
+name = "Kingston"
+[[team.playing]]
+season = "1949"
+league.name = "Border League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "38671"

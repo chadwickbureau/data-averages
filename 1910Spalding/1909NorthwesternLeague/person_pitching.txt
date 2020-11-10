@@ -1,0 +1,978 @@
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "27"
+P_W = "20"
+P_L = "6"
+P_PCT = ".769"
+P_AB = "865"
+P_H = "184"
+P_AVG = ".213"
+P_R = "77"
+P_2B = "17"
+P_3B = "2"
+P_HR = "8"
+P_HP = "4"
+P_BB = "21"
+P_SO = "92"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Thompson"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "35"
+P_W = "26"
+P_L = "8"
+P_PCT = ".765"
+P_AB = "1054"
+P_H = "245"
+P_AVG = ".232"
+P_R = "77"
+P_2B = "32"
+P_3B = "5"
+P_HR = "5"
+P_HP = "6"
+P_BB = "49"
+P_SO = "241"
+P_WP = "6"
+
+
+[[person]]
+name.last = "Hall"
+name.given = "C."
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "17"
+P_W = "13"
+P_L = "4"
+P_PCT = ".765"
+P_AB = "542"
+P_H = "117"
+P_AVG = ".216"
+P_R = "45"
+P_2B = "18"
+P_3B = "7"
+P_HR = "6"
+P_HP = "6"
+P_BB = "27"
+P_SO = "61"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Holm"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "39"
+P_W = "25"
+P_L = "10"
+P_PCT = ".714"
+P_AB = "1176"
+P_H = "246"
+P_AVG = ".209"
+P_R = "107"
+P_2B = "29"
+P_3B = "18"
+P_HR = "1"
+P_HP = "14"
+P_BB = "101"
+P_SO = "166"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Kinsella"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "35"
+P_W = "23"
+P_L = "10"
+P_PCT = ".697"
+P_AB = "1092"
+P_H = "204"
+P_AVG = ".187"
+P_R = "77"
+P_2B = "25"
+P_3B = "13"
+P_HR = "6"
+P_HP = "10"
+P_BB = "64"
+P_SO = "192"
+P_WP = "7"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "25"
+P_W = "16"
+P_L = "7"
+P_PCT = ".696"
+P_AB = "708"
+P_H = "161"
+P_AVG = ".227"
+P_R = "73"
+P_2B = "20"
+P_3B = "12"
+P_HR = "0"
+P_HP = "9"
+P_BB = "72"
+P_SO = "104"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Rush"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "22"
+P_W = "12"
+P_L = "5"
+P_PCT = ".646"
+P_AB = "639"
+P_H = "143"
+P_AVG = ".224"
+P_R = "74"
+P_2B = "17"
+P_3B = "4"
+P_HR = "9"
+P_HP = "9"
+P_BB = "36"
+P_SO = "75"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Jensen"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "39"
+P_W = "21"
+P_L = "12"
+P_PCT = ".636"
+P_AB = "1104"
+P_H = "253"
+P_AVG = ".229"
+P_R = "116"
+P_2B = "39"
+P_3B = "13"
+P_HR = "4"
+P_HP = "28"
+P_BB = "79"
+P_SO = "156"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Seaton"
+name.given = "Joe"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "17"
+P_W = "9"
+P_L = "6"
+P_PCT = ".600"
+P_AB = "470"
+P_H = "101"
+P_AVG = ".215"
+P_R = "47"
+P_2B = "11"
+P_3B = "0"
+P_HR = "7"
+P_HP = "10"
+P_BB = "52"
+P_SO = "83"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Siever"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "44"
+P_W = "23"
+P_L = "16"
+P_PCT = ".590"
+P_AB = "1331"
+P_H = "303"
+P_AVG = ".228"
+P_R = "111"
+P_2B = "46"
+P_3B = "5"
+P_HR = "8"
+P_HP = "13"
+P_BB = "70"
+P_SO = "211"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Ovitz"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "21"
+P_W = "12"
+P_L = "9"
+P_PCT = ".571"
+P_AB = "639"
+P_H = "159"
+P_AVG = ".249"
+P_R = "85"
+P_2B = "19"
+P_3B = "4"
+P_HR = "1"
+P_HP = "13"
+P_BB = "59"
+P_SO = "102"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Pernoll"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "48"
+P_W = "25"
+P_L = "19"
+P_PCT = ".568"
+P_AB = "1439"
+P_H = "304"
+P_AVG = ".211"
+P_R = "140"
+P_2B = "39"
+P_3B = "12"
+P_HR = "5"
+P_HP = "26"
+P_BB = "101"
+P_SO = "220"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Engel"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "31"
+P_W = "17"
+P_L = "13"
+P_PCT = ".567"
+P_AB = "1039"
+P_H = "222"
+P_AVG = ".214"
+P_R = "92"
+P_2B = "28"
+P_3B = "1"
+P_HR = "5"
+P_HP = "9"
+P_BB = "56"
+P_SO = "130"
+P_WP = "6"
+
+
+[[person]]
+name.last = "Killilay"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "40"
+P_W = "19"
+P_L = "15"
+P_PCT = ".559"
+P_AB = "1096"
+P_H = "228"
+P_AVG = ".208"
+P_R = "116"
+P_2B = "23"
+P_3B = "12"
+P_HR = "6"
+P_HP = "26"
+P_BB = "111"
+P_SO = "206"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Seaton"
+name.given = "Thomas"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "37"
+P_W = "17"
+P_L = "14"
+P_PCT = ".548"
+P_AB = "1072"
+P_H = "232"
+P_AVG = ".216"
+P_R = "126"
+P_2B = "27"
+P_3B = "11"
+P_HR = "2"
+P_HP = "20"
+P_BB = "85"
+P_SO = "126"
+P_WP = "13"
+
+
+[[person]]
+name.last = "Newlin"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "23"
+P_W = "12"
+P_L = "10"
+P_PCT = ".545"
+P_AB = "681"
+P_H = "167"
+P_AVG = ".245"
+P_R = "86"
+P_2B = "20"
+P_3B = "10"
+P_HR = "3"
+P_HP = "5"
+P_BB = "56"
+P_SO = "69"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "28"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_AB = "864"
+P_H = "199"
+P_AVG = ".230"
+P_R = "87"
+P_2B = "33"
+P_3B = "2"
+P_HR = "12"
+P_HP = "22"
+P_BB = "63"
+P_SO = "198"
+P_WP = "9"
+
+
+[[person]]
+name.last = "Gilligan"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "28"
+P_W = "14"
+P_L = "12"
+P_PCT = ".538"
+P_AB = "760"
+P_H = "132"
+P_AVG = ".174"
+P_R = "71"
+P_2B = "18"
+P_3B = "3"
+P_HR = "4"
+P_HP = "11"
+P_BB = "77"
+P_SO = "111"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Erickson"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "35"
+P_W = "16"
+P_L = "17"
+P_PCT = ".485"
+P_AB = "1019"
+P_H = "219"
+P_AVG = ".215"
+P_R = "106"
+P_2B = "32"
+P_3B = "9"
+P_HR = "4"
+P_HP = "16"
+P_BB = "110"
+P_SO = "140"
+P_WP = "9"
+
+
+[[person]]
+name.last = "Gough"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "29"
+P_W = "11"
+P_L = "12"
+P_PCT = ".478"
+P_AB = "764"
+P_H = "163"
+P_AVG = ".213"
+P_R = "97"
+P_2B = "24"
+P_3B = "8"
+P_HR = "1"
+P_HP = "23"
+P_BB = "100"
+P_SO = "114"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Pinnance"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "37"
+P_W = "15"
+P_L = "18"
+P_PCT = ".455"
+P_AB = "1113"
+P_H = "242"
+P_AVG = ".217"
+P_R = "114"
+P_2B = "31"
+P_3B = "16"
+P_HR = "6"
+P_HP = "12"
+P_BB = "65"
+P_SO = "139"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Berger"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "14"
+P_W = "5"
+P_L = "6"
+P_PCT = ".455"
+P_AB = "417"
+P_H = "96"
+P_AVG = ".230"
+P_R = "46"
+P_2B = "11"
+P_3B = "6"
+P_HR = "2"
+P_HP = "10"
+P_BB = "34"
+P_SO = "40"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Paddock"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "23"
+P_W = "9"
+P_L = "12"
+P_PCT = ".429"
+P_AB = "690"
+P_H = "165"
+P_AVG = ".239"
+P_R = "94"
+P_2B = "18"
+P_3B = "9"
+P_HR = "4"
+P_HP = "11"
+P_BB = "59"
+P_SO = "69"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Hall"
+name.given = "B."
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "23"
+P_W = "8"
+P_L = "11"
+P_PCT = ".421"
+P_AB = "573"
+P_H = "133"
+P_AVG = ".232"
+P_R = "69"
+P_2B = "17"
+P_3B = "11"
+P_HR = "3"
+P_HP = "2"
+P_BB = "65"
+P_SO = "68"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Butler"
+name.given = "Ike"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "19"
+P_W = "6"
+P_L = "9"
+P_PCT = ".400"
+P_AB = "509"
+P_H = "131"
+P_AVG = ".257"
+P_R = "67"
+P_2B = "12"
+P_3B = "12"
+P_HR = "0"
+P_HP = "4"
+P_BB = "29"
+P_SO = "61"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Anderson"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "20"
+P_W = "6"
+P_L = "10"
+P_PCT = ".375"
+P_AB = "504"
+P_H = "107"
+P_AVG = ".210"
+P_R = "57"
+P_2B = "17"
+P_3B = "3"
+P_HR = "4"
+P_HP = "8"
+P_BB = "47"
+P_SO = "60"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Starkell"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "29"
+P_W = "9"
+P_L = "15"
+P_PCT = ".375"
+P_AB = "851"
+P_H = "185"
+P_AVG = ".217"
+P_R = "107"
+P_2B = "24"
+P_3B = "11"
+P_HR = "7"
+P_HP = "15"
+P_BB = "79"
+P_SO = "86"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Annis"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "22"
+P_W = "7"
+P_L = "12"
+P_PCT = ".368"
+P_AB = "582"
+P_H = "136"
+P_AVG = ".234"
+P_R = "78"
+P_2B = "18"
+P_3B = "9"
+P_HR = "1"
+P_HP = "13"
+P_BB = "63"
+P_SO = "90"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Flanagan"
+name.given = "E. J."
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "13"
+P_W = "4"
+P_L = "7"
+P_PCT = ".364"
+P_AB = "381"
+P_H = "95"
+P_AVG = ".249"
+P_R = "37"
+P_2B = "9"
+P_3B = "2"
+P_HR = "0"
+P_HP = "11"
+P_BB = "27"
+P_SO = "40"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Baker"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "41"
+P_W = "14"
+P_L = "26"
+P_PCT = ".350"
+P_AB = "1268"
+P_H = "289"
+P_AVG = ".228"
+P_R = "156"
+P_2B = "31"
+P_3B = "21"
+P_HR = "4"
+P_HP = "24"
+P_BB = "91"
+P_SO = "249"
+P_WP = "11"
+
+
+[[person]]
+name.last = "Most"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "28"
+P_W = "8"
+P_L = "15"
+P_PCT = ".348"
+P_AB = "710"
+P_H = "168"
+P_AVG = ".237"
+P_R = "91"
+P_2B = "29"
+P_3B = "7"
+P_HR = "6"
+P_HP = "10"
+P_BB = "68"
+P_SO = "74"
+P_WP = "10"
+
+
+[[person]]
+name.last = "Gregg"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "21"
+P_W = "6"
+P_L = "13"
+P_PCT = ".316"
+P_AB = "507"
+P_H = "108"
+P_AVG = ".213"
+P_R = "59"
+P_2B = "9"
+P_3B = "7"
+P_HR = "0"
+P_HP = "14"
+P_BB = "40"
+P_SO = "149"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Hickey"
+name.given = "J."
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "37"
+P_W = "10"
+P_L = "22"
+P_PCT = ".313"
+P_AB = "1010"
+P_H = "221"
+P_AVG = ".219"
+P_R = "132"
+P_2B = "38"
+P_3B = "7"
+P_HR = "11"
+P_HP = "25"
+P_BB = "108"
+P_SO = "180"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Claflin"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "28"
+P_W = "7"
+P_L = "16"
+P_PCT = ".304"
+P_AB = "704"
+P_H = "168"
+P_AVG = ".239"
+P_R = "91"
+P_2B = "29"
+P_3B = "9"
+P_HR = "1"
+P_HP = "21"
+P_BB = "94"
+P_SO = "112"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Samuels"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "25"
+P_W = "6"
+P_L = "16"
+P_PCT = ".273"
+P_AB = "730"
+P_H = "187"
+P_AVG = ".256"
+P_R = "100"
+P_2B = "30"
+P_3B = "14"
+P_HR = "7"
+P_HP = "5"
+P_BB = "70"
+P_SO = "82"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Chinault"
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Portland"
+[person.playing.totals]
+P_G = "27"
+P_W = "7"
+P_L = "17"
+P_PCT = ".259"
+P_AB = "763"
+P_H = "148"
+P_AVG = ".194"
+P_R = "85"
+P_2B = "27"
+P_3B = "7"
+P_HR = "2"
+P_HP = "7"
+P_BB = "70"
+P_SO = "105"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Hall"
+name.given = "W."
+[[person.playing]]
+season = "1909"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "22"
+P_W = "5"
+P_L = "15"
+P_PCT = ".250"
+P_AB = "719"
+P_H = "181"
+P_AVG = ".252"
+P_R = "78"
+P_2B = "24"
+P_3B = "10"
+P_HR = "5"
+P_HP = "12"
+P_BB = "34"
+P_SO = "55"
+P_WP = "2"

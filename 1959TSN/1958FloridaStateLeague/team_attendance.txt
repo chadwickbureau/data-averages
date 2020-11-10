@@ -1,0 +1,68 @@
+[[team]]
+name = "St. Petersburg"
+[[team.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "73798"
+
+
+[[team]]
+name = "Tampa"
+[[team.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "42683"
+
+
+[[team]]
+name = "Daytona Beach"
+[[team.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "31949"
+
+
+[[team]]
+name = "Palatka"
+[[team.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "19031"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "18600"
+
+
+[[team]]
+name = "Orlando"
+[[team.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "17615"
+
+
+[[team]]
+name = "Cocoa"
+[[team.playing]]
+season = "1958"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "16563"

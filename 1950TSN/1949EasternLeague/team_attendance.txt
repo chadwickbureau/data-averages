@@ -1,0 +1,78 @@
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "198256"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "182778"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "138306"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "131875"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "112566"
+
+
+[[team]]
+name = "Williamsport"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "91848"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "88471"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1949"
+league.name = "Eastern League"
+phase = "regular"
+[team.playing.totals]
+R_ATT = "72689"

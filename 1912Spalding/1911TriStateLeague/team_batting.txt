@@ -1,0 +1,118 @@
+[[team]]
+name = "Trenton"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3593"
+B_R = "574"
+B_H = "1044"
+B_SH = "173"
+B_SB = "130"
+B_AVG = ".291"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3461"
+B_R = "490"
+B_H = "936"
+B_SH = "175"
+B_SB = "218"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Johnstown"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3465"
+B_R = "478"
+B_H = "920"
+B_SH = "166"
+B_SB = "178"
+B_AVG = ".266"
+
+
+[[team]]
+name = "York"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3473"
+B_R = "413"
+B_H = "896"
+B_SH = "113"
+B_SB = "178"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3445"
+B_R = "402"
+B_H = "874"
+B_SH = "136"
+B_SB = "142"
+B_AVG = ".253"
+
+
+[[team]]
+name = "Altoona"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3392"
+B_R = "440"
+B_H = "856"
+B_SH = "134"
+B_SB = "154"
+B_AVG = ".252"
+
+
+[[team]]
+name = "Lancaster"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3465"
+B_R = "403"
+B_H = "844"
+B_SH = "130"
+B_SB = "169"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Wilmington"
+[[team.playing]]
+season = "1911"
+league.name = "Tri-State League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "3304"
+B_R = "309"
+B_H = "716"
+B_SH = "138"
+B_SB = "157"
+B_AVG = ".217"

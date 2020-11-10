@@ -1,0 +1,88 @@
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1908"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "146"
+F_PO = "3908"
+F_A = "1789"
+F_E = "259"
+F_TC = "2956"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Tacoma"
+[[team.playing]]
+season = "1908"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "144"
+F_PO = "3887"
+F_A = "1909"
+F_E = "279"
+F_TC = "6075"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Vancouver"
+[[team.playing]]
+season = "1908"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "149"
+F_PO = "3988"
+F_A = "2000"
+F_E = "321"
+F_TC = "6309"
+F_PCT = ".949"
+
+
+[[team]]
+name = "Spokane"
+[[team.playing]]
+season = "1908"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "147"
+F_PO = "3971"
+F_A = "1996"
+F_E = "348"
+F_TC = "6315"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Butte"
+[[team.playing]]
+season = "1908"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3743"
+F_A = "1786"
+F_E = "336"
+F_TC = "5865"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Seattle"
+[[team.playing]]
+season = "1908"
+league.name = "Northwestern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4138"
+F_A = "2082"
+F_E = "444"
+F_TC = "6664"
+F_PCT = ".933"

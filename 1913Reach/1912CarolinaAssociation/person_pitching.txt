@@ -1,0 +1,530 @@
+[[person]]
+name.last = "Bausewein"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "10"
+P_W = "7"
+P_L = "2"
+P_T = "1"
+P_SO = "54"
+P_HP = "0"
+P_BB = "29"
+P_WP = "2"
+P_PCT = ".778"
+
+
+[[person]]
+name.last = "Radabaugh"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "24"
+P_W = "16"
+P_L = "5"
+P_T = "3"
+P_SO = "114"
+P_HP = "4"
+P_BB = "38"
+P_WP = "1"
+P_PCT = ".762"
+
+
+[[person]]
+name.last = "Boyle"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "37"
+P_W = "27"
+P_L = "10"
+P_T = "0"
+P_SO = "120"
+P_HP = "8"
+P_BB = "60"
+P_WP = "1"
+P_PCT = ".730"
+
+
+[[person]]
+name.last = "Fittery"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+P_G = "29"
+P_W = "19"
+P_L = "8"
+P_T = "2"
+P_SO = "191"
+P_HP = "20"
+P_BB = "84"
+P_WP = "9"
+P_PCT = ".704"
+
+
+[[person]]
+name.last = "Stowers"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "15"
+P_W = "10"
+P_L = "5"
+P_T = "0"
+P_SO = "47"
+P_HP = "4"
+P_BB = "24"
+P_WP = "2"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "High"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "23"
+P_W = "14"
+P_L = "8"
+P_T = "1"
+P_SO = "145"
+P_HP = "23"
+P_BB = "66"
+P_WP = "14"
+P_PCT = ".636"
+
+
+[[person]]
+name.last = "Van Pelt"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "20"
+P_W = "12"
+P_L = "7"
+P_T = "1"
+P_SO = "98"
+P_HP = "9"
+P_BB = "35"
+P_WP = "4"
+P_PCT = ".632"
+
+
+[[person]]
+name.last = "Wolf"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+P_G = "32"
+P_W = "19"
+P_L = "12"
+P_T = "1"
+P_SO = "102"
+P_HP = "14"
+P_BB = "80"
+P_WP = "5"
+P_PCT = ".613"
+
+
+[[person]]
+name.last = "Clark"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "20"
+P_W = "11"
+P_L = "8"
+P_T = "1"
+P_SO = "85"
+P_HP = "11"
+P_BB = "27"
+P_WP = "6"
+P_PCT = ".579"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "W. D."
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "24"
+P_W = "13"
+P_L = "11"
+P_T = "0"
+P_SO = "116"
+P_HP = "7"
+P_BB = "39"
+P_WP = "7"
+P_PCT = ".542"
+
+
+[[person]]
+name.last = "McKeithan"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "35"
+P_W = "18"
+P_L = "16"
+P_T = "1"
+P_SO = "134"
+P_HP = "14"
+P_BB = "141"
+P_WP = "11"
+P_PCT = ".529"
+
+
+[[person]]
+name.last = "McFarlin"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "17"
+P_W = "9"
+P_L = "8"
+P_T = "0"
+P_SO = "58"
+P_HP = "11"
+P_BB = "42"
+P_WP = "2"
+P_PCT = ".529"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "M. B."
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "28"
+P_W = "14"
+P_L = "13"
+P_T = "1"
+P_SO = "143"
+P_HP = "14"
+P_BB = "31"
+P_WP = "7"
+P_PCT = ".519"
+
+
+[[person]]
+name.last = "Ramsey"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+P_G = "22"
+P_W = "11"
+P_L = "11"
+P_T = "0"
+P_SO = "72"
+P_HP = "7"
+P_BB = "53"
+P_WP = "5"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Miller"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[person.playing.totals]
+P_G = "14"
+P_W = "6"
+P_L = "6"
+P_T = "2"
+P_SO = "78"
+P_HP = "5"
+P_BB = "42"
+P_WP = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[person.playing.totals]
+P_G = "17"
+P_W = "8"
+P_L = "8"
+P_T = "1"
+P_SO = "65"
+P_HP = "7"
+P_BB = "52"
+P_WP = "6"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Mayberry"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "24"
+P_W = "11"
+P_L = "12"
+P_T = "1"
+P_SO = "97"
+P_HP = "5"
+P_BB = "38"
+P_WP = "0"
+P_PCT = ".479"
+
+
+[[person]]
+name.last = "Hogue"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spartanburg"
+[[person.playing.split]]
+team.name = "Anderson"
+[person.playing.totals]
+P_G = "34"
+P_W = "15"
+P_L = "18"
+P_T = "1"
+P_SO = "153"
+P_HP = "14"
+P_BB = "79"
+P_WP = "10"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Sheesley"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charlotte"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "30"
+P_W = "12"
+P_L = "16"
+P_T = "2"
+P_SO = "155"
+P_HP = "7"
+P_BB = "63"
+P_WP = "11"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Eldridge"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[person.playing.totals]
+P_G = "33"
+P_W = "13"
+P_L = "19"
+P_T = "1"
+P_SO = "153"
+P_HP = "3"
+P_BB = "44"
+P_WP = "0"
+P_PCT = ".406"
+
+
+[[person]]
+name.last = "Ray"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Winston-Salem"
+[person.playing.totals]
+P_G = "13"
+P_W = "5"
+P_L = "8"
+P_T = "0"
+P_SO = "81"
+P_HP = "10"
+P_BB = "54"
+P_WP = "6"
+P_PCT = ".384"
+
+
+[[person]]
+name.last = "Frey"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Anderson"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "30"
+P_W = "11"
+P_L = "19"
+P_T = "0"
+P_SO = "136"
+P_HP = "10"
+P_BB = "93"
+P_WP = "8"
+P_PCT = ".367"
+
+
+[[person]]
+name.last = "Gilroy"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "19"
+P_W = "7"
+P_L = "12"
+P_T = "0"
+P_SO = "54"
+P_HP = "11"
+P_BB = "44"
+P_WP = "5"
+P_PCT = ".367"
+
+
+[[person]]
+name.last = "Martin"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greensboro"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "16"
+P_W = "5"
+P_L = "11"
+P_T = "0"
+P_SO = "47"
+P_HP = "12"
+P_BB = "47"
+P_WP = "5"
+P_PCT = ".312"
+
+
+[[person]]
+name.last = "Goshorn"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "13"
+P_W = "3"
+P_L = "9"
+P_T = "1"
+P_SO = "48"
+P_HP = "2"
+P_BB = "27"
+P_WP = "4"
+P_PCT = ".250"
+
+
+[[person]]
+name.last = "Bannister"
+[[person.playing]]
+season = "1912"
+league.name = "Carolina Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Greenville"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "9"
+P_T = "0"
+P_SO = "31"
+P_HP = "8"
+P_BB = "25"
+P_WP = "4"
+P_PCT = ".100"

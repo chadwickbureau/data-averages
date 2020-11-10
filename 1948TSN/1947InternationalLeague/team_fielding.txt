@@ -1,0 +1,158 @@
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "176"
+F_TP = "1"
+F_GDP = "88"
+F_LOB = "1150"
+F_PO = "3883"
+F_A = "1872"
+F_E = "137"
+F_TC = "5892"
+F_PB = "21"
+F_PCT = ".977"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "122"
+F_TP = "0"
+F_GDP = "94"
+F_LOB = "1130"
+F_PO = "3843"
+F_A = "1482"
+F_E = "160"
+F_TC = "5485"
+F_PB = "15"
+F_PCT = ".971"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "119"
+F_TP = "0"
+F_GDP = "93"
+F_LOB = "1060"
+F_PO = "3895"
+F_A = "1495"
+F_E = "181"
+F_TC = "5571"
+F_PB = "10"
+F_PCT = ".968"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "142"
+F_TP = "1"
+F_GDP = "103"
+F_LOB = "1096"
+F_PO = "3930"
+F_A = "1756"
+F_E = "197"
+F_TC = "5883"
+F_PB = "9"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "139"
+F_TP = "0"
+F_GDP = "118"
+F_LOB = "1165"
+F_PO = "3850"
+F_A = "1659"
+F_E = "193"
+F_TC = "5702"
+F_PB = "9"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "141"
+F_TP = "0"
+F_GDP = "108"
+F_LOB = "1078"
+F_PO = "3857"
+F_A = "1544"
+F_E = "190"
+F_TC = "5591"
+F_PB = "14"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "114"
+F_TP = "1"
+F_GDP = "113"
+F_LOB = "1057"
+F_PO = "3868"
+F_A = "1529"
+F_E = "199"
+F_TC = "5596"
+F_PB = "6"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1947"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "138"
+F_TP = "0"
+F_GDP = "110"
+F_LOB = "1140"
+F_PO = "3919"
+F_A = "1643"
+F_E = "214"
+F_TC = "5776"
+F_PB = "14"
+F_PCT = ".963"

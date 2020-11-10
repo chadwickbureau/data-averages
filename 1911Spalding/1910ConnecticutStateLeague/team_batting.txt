@@ -1,0 +1,150 @@
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4079"
+B_R = "525"
+B_H = "1015"
+B_2B = "183"
+B_3B = "61"
+B_HR = "10"
+B_SH = "173"
+B_SB = "196"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4096"
+B_R = "461"
+B_H = "1005"
+B_2B = "188"
+B_3B = "31"
+B_HR = "37"
+B_SH = "128"
+B_SB = "160"
+B_AVG = ".245"
+
+
+[[team]]
+name = "New Britain"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4074"
+B_R = "514"
+B_H = "976"
+B_2B = "172"
+B_3B = "33"
+B_HR = "26"
+B_SH = "173"
+B_SB = "267"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3996"
+B_R = "435"
+B_H = "955"
+B_2B = "160"
+B_3B = "58"
+B_HR = "15"
+B_SH = "152"
+B_SB = "151"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4005"
+B_R = "475"
+B_H = "948"
+B_2B = "145"
+B_3B = "67"
+B_HR = "9"
+B_SH = "143"
+B_SB = "168"
+B_AVG = ".237"
+
+
+[[team]]
+name = "Northampton"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4093"
+B_R = "404"
+B_H = "966"
+B_2B = "149"
+B_3B = "35"
+B_HR = "19"
+B_SH = "140"
+B_SB = "182"
+B_AVG = ".236"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3932"
+B_R = "471"
+B_H = "917"
+B_2B = "160"
+B_3B = "50"
+B_HR = "11"
+B_SH = "171"
+B_SB = "199"
+B_AVG = ".233"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1910"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "4068"
+B_R = "420"
+B_H = "941"
+B_2B = "160"
+B_3B = "32"
+B_HR = "15"
+B_SH = "152"
+B_SB = "151"
+B_AVG = ".231"

@@ -1,0 +1,82 @@
+[[team]]
+name = "Dothan"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "75"
+F_PO = "2022"
+F_A = "884"
+F_E = "157"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Valdosta"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "74"
+F_PO = "1967"
+F_A = "919"
+F_E = "156"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Waycross"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "75"
+F_PO = "2094"
+F_A = "941"
+F_E = "173"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Brunswick"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "74"
+F_PO = "1928"
+F_A = "841"
+F_E = "165"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Thomasville"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "74"
+F_PO = "1834"
+F_A = "801"
+F_E = "178"
+F_PCT = ".936"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1915"
+league.name = "Florida-Alabama-Georgia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "75"
+F_PO = "2012"
+F_A = "872"
+F_E = "226"
+F_PCT = ".929"

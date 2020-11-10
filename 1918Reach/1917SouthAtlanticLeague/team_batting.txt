@@ -1,0 +1,94 @@
+[[team]]
+name = "Columbia"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "78"
+B_AB = "2532"
+B_R = "386"
+B_H = "709"
+B_SH = "147"
+B_SB = "145"
+B_AVG = ".280"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "80"
+B_AB = "2567"
+B_R = "315"
+B_H = "678"
+B_SH = "121"
+B_SB = "94"
+B_AVG = ".264"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "28"
+B_AB = "895"
+B_R = "108"
+B_H = "234"
+B_SH = "53"
+B_SB = "38"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "28"
+B_AB = "875"
+B_R = "97"
+B_H = "219"
+B_SH = "45"
+B_SB = "33"
+B_AVG = ".250"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2282"
+B_R = "232"
+B_H = "556"
+B_SH = "93"
+B_SB = "62"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Augusta"
+[[team.playing]]
+season = "1917"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "70"
+B_AB = "2226"
+B_R = "238"
+B_H = "530"
+B_SH = "89"
+B_SB = "85"
+B_AVG = ".238"

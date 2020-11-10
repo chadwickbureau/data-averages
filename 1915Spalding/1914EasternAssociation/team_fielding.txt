@@ -1,0 +1,110 @@
+[[team]]
+name = "New London"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3222"
+F_A = "1455"
+F_E = "171"
+F_PCT = ".965"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3367"
+F_A = "1728"
+F_E = "207"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "126"
+F_PO = "3356"
+F_A = "1647"
+F_E = "243"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Pittsfield"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_PO = "3287"
+F_A = "1663"
+F_E = "248"
+F_PCT = ".952"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3050"
+F_A = "1574"
+F_E = "266"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "120"
+F_PO = "3231"
+F_A = "1511"
+F_E = "270"
+F_PCT = ".946"
+
+
+[[team]]
+name = "New Britain"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_PO = "3175"
+F_A = "1521"
+F_E = "268"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1914"
+league.name = "Eastern Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "118"
+F_PO = "3241"
+F_A = "1647"
+F_E = "293"
+F_PCT = ".944"

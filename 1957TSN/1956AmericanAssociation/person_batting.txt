@@ -1,0 +1,7764 @@
+[[person]]
+name.last = "Peete"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "116"
+B_AB = "417"
+B_R = "84"
+B_H = "146"
+B_TB = "234"
+B_2B = "28"
+B_3B = "6"
+B_HR = "16"
+B_SH = "3"
+B_SF = "1"
+B_SB = "3"
+B_BB = "68"
+B_HP = "3"
+B_RBI = "63"
+B_SO = "58"
+B_GDP = "10"
+B_AVG = ".350"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Kubek"
+name.given = "Anthony"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "138"
+B_AB = "532"
+B_R = "87"
+B_H = "176"
+B_TB = "245"
+B_2B = "31"
+B_3B = "10"
+B_HR = "6"
+B_SH = "0"
+B_SF = "4"
+B_SB = "6"
+B_BB = "36"
+B_HP = "0"
+B_RBI = "85"
+B_SO = "59"
+B_GDP = "5"
+B_AVG = ".331"
+B_AVG_RANK = "2"
+
+
+[[person]]
+name.last = "Richardson"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "124"
+B_AB = "534"
+B_R = "102"
+B_H = "175"
+B_TB = "259"
+B_2B = "30"
+B_3B = "12"
+B_HR = "10"
+B_SH = "6"
+B_SF = "1"
+B_SB = "8"
+B_BB = "29"
+B_HP = "0"
+B_RBI = "73"
+B_SO = "32"
+B_GDP = "13"
+B_AVG = ".328"
+B_AVG_RANK = "3"
+
+
+[[person]]
+name.last = "Throneberry"
+name.given = "Marvin"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "152"
+B_AB = "565"
+B_R = "123"
+B_H = "178"
+B_TB = "345"
+B_2B = "31"
+B_3B = "5"
+B_HR = "42"
+B_SH = "0"
+B_SF = "10"
+B_SB = "6"
+B_BB = "68"
+B_HP = "4"
+B_RBI = "145"
+B_SO = "132"
+B_GDP = "7"
+B_AVG = ".315"
+B_AVG_RANK = "4"
+
+
+[[person]]
+name.last = "Martyn"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "145"
+B_AB = "582"
+B_R = "108"
+B_H = "183"
+B_TB = "275"
+B_2B = "38"
+B_3B = "9"
+B_HR = "12"
+B_SH = "2"
+B_SF = "4"
+B_SB = "7"
+B_BB = "43"
+B_HP = "3"
+B_RBI = "75"
+B_SO = "91"
+B_GDP = "6"
+B_AVG = ".314"
+B_AVG_RANK = "5"
+
+
+[[person]]
+name.last = "Raines"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "148"
+B_AB = "563"
+B_R = "105"
+B_H = "174"
+B_TB = "251"
+B_2B = "19"
+B_3B = "14"
+B_HR = "10"
+B_SH = "6"
+B_SF = "3"
+B_SB = "22"
+B_BB = "56"
+B_HP = "5"
+B_RBI = "66"
+B_SO = "106"
+B_GDP = "4"
+B_AVG = ".309"
+B_AVG_RANK = "6"
+
+
+[[person]]
+name.last = "Larker"
+name.given = "Norman"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "150"
+B_AB = "534"
+B_R = "82"
+B_H = "165"
+B_TB = "248"
+B_2B = "34"
+B_3B = "5"
+B_HR = "13"
+B_SH = "3"
+B_SF = "4"
+B_SB = "4"
+B_BB = "71"
+B_HP = "7"
+B_RBI = "77"
+B_SO = "32"
+B_GDP = "12"
+B_AVG = ".309"
+B_AVG_RANK = "7"
+
+
+[[person]]
+name.last = "Hersh"
+name.given = "Earl"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "128"
+B_AB = "466"
+B_R = "94"
+B_H = "143"
+B_TB = "256"
+B_2B = "26"
+B_3B = "3"
+B_HR = "27"
+B_SH = "2"
+B_SF = "3"
+B_SB = "5"
+B_BB = "52"
+B_HP = "2"
+B_RBI = "89"
+B_SO = "75"
+B_GDP = "4"
+B_AVG = ".307"
+B_AVG_RANK = "8"
+
+
+[[person]]
+name.last = "Alston"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "122"
+B_AB = "418"
+B_R = "88"
+B_H = "128"
+B_TB = "224"
+B_2B = "25"
+B_3B = "4"
+B_HR = "21"
+B_SH = "2"
+B_SF = "5"
+B_SB = "4"
+B_BB = "58"
+B_HP = "6"
+B_RBI = "80"
+B_SO = "61"
+B_GDP = "9"
+B_AVG = ".306"
+B_AVG_RANK = "9"
+
+
+[[person]]
+name.last = "Mozzali"
+name.given = "Maurice"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "132"
+B_AB = "434"
+B_R = "63"
+B_H = "131"
+B_TB = "169"
+B_2B = "17"
+B_3B = "3"
+B_HR = "5"
+B_SH = "4"
+B_SF = "8"
+B_SB = "4"
+B_BB = "54"
+B_HP = "0"
+B_RBI = "58"
+B_SO = "37"
+B_GDP = "11"
+B_AVG = ".302"
+B_AVG_RANK = "10"
+
+
+[[person]]
+name.last = "Hawes"
+name.given = "Roy"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "86"
+[[person.playing.split]]
+team.name = "Charleston"
+B_G = "35"
+[person.playing.totals]
+B_G = "121"
+B_AB = "426"
+B_R = "61"
+B_H = "128"
+B_TB = "198"
+B_2B = "23"
+B_3B = "10"
+B_HR = "9"
+B_SH = "2"
+B_SF = "3"
+B_SB = "2"
+B_BB = "43"
+B_HP = "7"
+B_RBI = "49"
+B_SO = "82"
+B_GDP = "5"
+B_AVG = ".300"
+B_AVG_RANK = "11"
+
+
+[[person]]
+name.last = "Shannon"
+name.given = "Walter"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "119"
+B_AB = "405"
+B_R = "52"
+B_H = "121"
+B_TB = "153"
+B_2B = "15"
+B_3B = "4"
+B_HR = "3"
+B_SH = "4"
+B_SF = "2"
+B_SB = "0"
+B_BB = "30"
+B_HP = "0"
+B_RBI = "53"
+B_SO = "44"
+B_GDP = "6"
+B_AVG = ".299"
+B_AVG_RANK = "12"
+
+
+[[person]]
+name.last = "Chrisley"
+name.given = "Neil"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "144"
+B_AB = "517"
+B_R = "74"
+B_H = "154"
+B_TB = "276"
+B_2B = "40"
+B_3B = "5"
+B_HR = "24"
+B_SH = "1"
+B_SF = "7"
+B_SB = "5"
+B_BB = "44"
+B_HP = "8"
+B_RBI = "98"
+B_SO = "80"
+B_GDP = "10"
+B_AVG = ".298"
+B_AVG_RANK = "13"
+
+
+[[person]]
+name.last = "Kirkland"
+name.given = "Willie"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "154"
+B_AB = "574"
+B_R = "114"
+B_H = "168"
+B_TB = "338"
+B_2B = "35"
+B_3B = "12"
+B_HR = "37"
+B_SH = "0"
+B_SF = "9"
+B_SB = "15"
+B_BB = "57"
+B_HP = "8"
+B_RBI = "120"
+B_SO = "112"
+B_GDP = "7"
+B_AVG = ".293"
+B_AVG_RANK = "14"
+
+
+[[person]]
+name.last = "Malmberg"
+name.given = "Harry"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "139"
+B_AB = "546"
+B_R = "69"
+B_H = "160"
+B_TB = "216"
+B_2B = "32"
+B_3B = "3"
+B_HR = "6"
+B_SH = "6"
+B_SF = "3"
+B_SB = "3"
+B_BB = "46"
+B_HP = "7"
+B_RBI = "54"
+B_SO = "39"
+B_GDP = "9"
+B_AVG = ".293"
+B_AVG_RANK = "15"
+
+
+[[person]]
+name.last = "Maris"
+name.given = "Roger"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "131"
+B_AB = "433"
+B_R = "77"
+B_H = "127"
+B_TB = "214"
+B_2B = "20"
+B_3B = "8"
+B_HR = "17"
+B_SH = "2"
+B_SF = "5"
+B_SB = "7"
+B_BB = "41"
+B_HP = "4"
+B_RBI = "75"
+B_SO = "55"
+B_GDP = "7"
+B_AVG = ".293"
+B_AVG_RANK = "16"
+
+
+[[person]]
+name.last = "Fridley"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "143"
+B_AB = "543"
+B_R = "105"
+B_H = "158"
+B_TB = "269"
+B_2B = "29"
+B_3B = "5"
+B_HR = "24"
+B_SH = "1"
+B_SF = "7"
+B_SB = "0"
+B_BB = "62"
+B_HP = "5"
+B_RBI = "105"
+B_SO = "97"
+B_GDP = "15"
+B_AVG = ".291"
+B_AVG_RANK = "17"
+
+
+[[person]]
+name.last = "Schell"
+name.given = "Daniel"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "139"
+B_AB = "491"
+B_R = "90"
+B_H = "143"
+B_TB = "232"
+B_2B = "17"
+B_3B = "3"
+B_HR = "22"
+B_SH = "6"
+B_SF = "9"
+B_SB = "1"
+B_BB = "81"
+B_HP = "4"
+B_RBI = "90"
+B_SO = "55"
+B_GDP = "22"
+B_AVG = ".291"
+B_AVG_RANK = "18"
+
+
+[[person]]
+name.last = "Bertoia"
+name.given = "Reno"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "125"
+B_AB = "446"
+B_R = "70"
+B_H = "129"
+B_TB = "205"
+B_2B = "26"
+B_3B = "7"
+B_HR = "12"
+B_SH = "4"
+B_SF = "8"
+B_SB = "3"
+B_BB = "46"
+B_HP = "9"
+B_RBI = "67"
+B_SO = "79"
+B_GDP = "2"
+B_AVG = ".289"
+B_AVG_RANK = "19"
+
+
+[[person]]
+name.last = "Hartsfield"
+name.given = "Roy"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "140"
+B_AB = "502"
+B_R = "66"
+B_H = "144"
+B_TB = "231"
+B_2B = "24"
+B_3B = "3"
+B_HR = "19"
+B_SH = "4"
+B_SF = "4"
+B_SB = "4"
+B_BB = "56"
+B_HP = "2"
+B_RBI = "80"
+B_SO = "58"
+B_GDP = "11"
+B_AVG = ".287"
+B_AVG_RANK = "20"
+
+
+[[person]]
+name.last = "Coan"
+name.given = "Gilbert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "134"
+B_AB = "489"
+B_R = "90"
+B_H = "140"
+B_TB = "216"
+B_2B = "22"
+B_3B = "9"
+B_HR = "12"
+B_SH = "2"
+B_SF = "4"
+B_SB = "13"
+B_BB = "47"
+B_HP = "8"
+B_RBI = "54"
+B_SO = "50"
+B_GDP = "1"
+B_AVG = ".286"
+B_AVG_RANK = "21"
+
+
+[[person]]
+name.last = "Garcia"
+name.given = "Vinicio"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "144"
+B_AB = "516"
+B_R = "60"
+B_H = "144"
+B_TB = "180"
+B_2B = "25"
+B_3B = "1"
+B_HR = "3"
+B_SH = "6"
+B_SF = "6"
+B_SB = "5"
+B_BB = "51"
+B_HP = "8"
+B_RBI = "65"
+B_SO = "18"
+B_GDP = "23"
+B_AVG = ".279"
+B_AVG_RANK = "22"
+
+
+[[person]]
+name.last = "Harrell"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "135"
+B_AB = "455"
+B_R = "76"
+B_H = "127"
+B_TB = "186"
+B_2B = "18"
+B_3B = "10"
+B_HR = "7"
+B_SH = "9"
+B_SF = "5"
+B_SB = "14"
+B_BB = "56"
+B_HP = "0"
+B_RBI = "56"
+B_SO = "68"
+B_GDP = "12"
+B_AVG = ".279"
+B_AVG_RANK = "23"
+
+
+[[person]]
+name.last = "Held"
+name.given = "Woodson"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "154"
+B_AB = "565"
+B_R = "99"
+B_H = "156"
+B_TB = "304"
+B_2B = "21"
+B_3B = "11"
+B_HR = "35"
+B_SH = "0"
+B_SF = "6"
+B_SB = "4"
+B_BB = "66"
+B_HP = "10"
+B_RBI = "125"
+B_SO = "139"
+B_GDP = "15"
+B_AVG = ".276"
+B_AVG_RANK = "24"
+
+
+[[person]]
+name.last = "Samford"
+name.given = "Ronald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "124"
+B_AB = "484"
+B_R = "66"
+B_H = "131"
+B_TB = "182"
+B_2B = "29"
+B_3B = "5"
+B_HR = "4"
+B_SH = "8"
+B_SF = "2"
+B_SB = "8"
+B_BB = "27"
+B_HP = "5"
+B_RBI = "43"
+B_SO = "48"
+B_GDP = "10"
+B_AVG = ".271"
+B_AVG_RANK = "25"
+
+
+[[person]]
+name.last = "Harris"
+name.given = "Gail"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "133"
+B_AB = "477"
+B_R = "76"
+B_H = "129"
+B_TB = "238"
+B_2B = "29"
+B_3B = "4"
+B_HR = "24"
+B_SH = "1"
+B_SF = "4"
+B_SB = "3"
+B_BB = "44"
+B_HP = "12"
+B_RBI = "82"
+B_SO = "64"
+B_GDP = "7"
+B_AVG = ".270"
+B_AVG_RANK = "26"
+
+
+[[person]]
+name.last = "Hanebrink"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "146"
+B_AB = "511"
+B_R = "75"
+B_H = "137"
+B_TB = "230"
+B_2B = "21"
+B_3B = "6"
+B_HR = "20"
+B_SH = "6"
+B_SF = "3"
+B_SB = "1"
+B_BB = "63"
+B_HP = "7"
+B_RBI = "77"
+B_SO = "35"
+B_GDP = "6"
+B_AVG = ".268"
+B_AVG_RANK = "27"
+
+
+[[person]]
+name.last = "Lillis"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "144"
+B_AB = "590"
+B_R = "96"
+B_H = "157"
+B_TB = "248"
+B_2B = "33"
+B_3B = "2"
+B_HR = "18"
+B_SH = "5"
+B_SF = "7"
+B_SB = "18"
+B_BB = "31"
+B_HP = "1"
+B_RBI = "65"
+B_SO = "48"
+B_GDP = "12"
+B_AVG = ".266"
+B_AVG_RANK = "28"
+
+
+[[person]]
+name.last = "Virgil"
+name.given = "Osvaldo"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "152"
+B_AB = "525"
+B_R = "66"
+B_H = "139"
+B_TB = "205"
+B_2B = "28"
+B_3B = "4"
+B_HR = "10"
+B_SH = "5"
+B_SF = "5"
+B_SB = "16"
+B_BB = "36"
+B_HP = "2"
+B_RBI = "67"
+B_SO = "57"
+B_GDP = "13"
+B_AVG = ".265"
+B_AVG_RANK = "29"
+
+
+[[person]]
+name.last = "McGhee"
+name.given = "W. Edward"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "121"
+B_AB = "431"
+B_R = "70"
+B_H = "114"
+B_TB = "183"
+B_2B = "13"
+B_3B = "4"
+B_HR = "16"
+B_SH = "1"
+B_SF = "4"
+B_SB = "3"
+B_BB = "43"
+B_HP = "2"
+B_RBI = "62"
+B_SO = "59"
+B_GDP = "15"
+B_AVG = ".265"
+B_AVG_RANK = "30"
+
+
+[[person]]
+name.last = "Talbot"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "135"
+B_AB = "550"
+B_R = "80"
+B_H = "141"
+B_TB = "198"
+B_2B = "17"
+B_3B = "5"
+B_HR = "10"
+B_SH = "7"
+B_SF = "1"
+B_SB = "5"
+B_BB = "43"
+B_HP = "1"
+B_RBI = "45"
+B_SO = "44"
+B_GDP = "9"
+B_AVG = ".256"
+B_AVG_RANK = "31"
+
+
+[[person]]
+name.last = "Altobelli"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "145"
+B_AB = "528"
+B_R = "69"
+B_H = "134"
+B_TB = "229"
+B_2B = "18"
+B_3B = "10"
+B_HR = "19"
+B_SH = "9"
+B_SF = "6"
+B_SB = "8"
+B_BB = "36"
+B_HP = "7"
+B_RBI = "81"
+B_SO = "67"
+B_GDP = "18"
+B_AVG = ".254"
+B_AVG_RANK = "32"
+
+
+[[person]]
+name.last = "Bollweg"
+name.given = "Donald"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "16"
+[[person.playing.split]]
+team.name = "Wichita"
+B_G = "109"
+[person.playing.totals]
+B_G = "125"
+B_AB = "431"
+B_R = "66"
+B_H = "107"
+B_TB = "187"
+B_2B = "13"
+B_3B = "5"
+B_HR = "19"
+B_SH = "4"
+B_SF = "4"
+B_SB = "4"
+B_BB = "65"
+B_HP = "2"
+B_RBI = "73"
+B_SO = "69"
+B_GDP = "12"
+B_AVG = ".248"
+B_AVG_RANK = "33"
+
+
+[[person]]
+name.last = "Gonzalez"
+name.given = "Waldo"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "124"
+B_AB = "455"
+B_R = "55"
+B_H = "111"
+B_TB = "141"
+B_2B = "22"
+B_3B = "4"
+B_HR = "0"
+B_SH = "5"
+B_SF = "0"
+B_SB = "2"
+B_BB = "29"
+B_HP = "4"
+B_RBI = "24"
+B_SO = "71"
+B_GDP = "6"
+B_AVG = ".244"
+B_AVG_RANK = "34"
+
+
+[[person]]
+name.last = "Stephenson"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+B_G = "59"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "59"
+[person.playing.totals]
+B_G = "118"
+B_AB = "416"
+B_R = "56"
+B_H = "99"
+B_TB = "130"
+B_2B = "12"
+B_3B = "5"
+B_HR = "3"
+B_SH = "1"
+B_SF = "0"
+B_SB = "8"
+B_BB = "26"
+B_HP = "1"
+B_RBI = "31"
+B_SO = "61"
+B_GDP = "8"
+B_AVG = ".238"
+B_AVG_RANK = "35"
+
+
+[[person]]
+name.last = "Becquer"
+name.given = "Julio"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "151"
+B_AB = "533"
+B_R = "59"
+B_H = "125"
+B_TB = "198"
+B_2B = "20"
+B_3B = "4"
+B_HR = "15"
+B_SH = "2"
+B_SF = "6"
+B_SB = "4"
+B_BB = "23"
+B_HP = "3"
+B_RBI = "72"
+B_SO = "78"
+B_GDP = "10"
+B_AVG = ".235"
+B_AVG_RANK = "36"
+
+
+[[person]]
+name.last = "Wright"
+name.given = "Melvin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "15"
+B_AB = "6"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "0"
+B_GDP = "0"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Hardy"
+name.given = "Carroll"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "21"
+B_AB = "78"
+B_R = "9"
+B_H = "30"
+B_TB = "45"
+B_2B = "7"
+B_3B = "1"
+B_HR = "2"
+B_SH = "3"
+B_SF = "0"
+B_SB = "3"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "15"
+B_SO = "13"
+B_GDP = "1"
+B_AVG = ".385"
+
+
+[[person]]
+name.last = "Vargas"
+name.given = "Roberto"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "42"
+B_AB = "35"
+B_R = "6"
+B_H = "13"
+B_TB = "18"
+B_2B = "1"
+B_3B = "2"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "7"
+B_GDP = "0"
+B_AVG = ".371"
+
+
+[[person]]
+name.last = "Northey"
+name.given = "Ronald"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "11"
+B_AB = "11"
+B_R = "3"
+B_H = "4"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "1"
+B_GDP = "0"
+B_AVG = ".364"
+
+
+[[person]]
+name.last = "Harmon"
+name.given = "Charles"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "58"
+B_AB = "242"
+B_R = "50"
+B_H = "87"
+B_TB = "146"
+B_2B = "17"
+B_3B = "6"
+B_HR = "10"
+B_SH = "0"
+B_SF = "3"
+B_SB = "4"
+B_BB = "12"
+B_HP = "0"
+B_RBI = "49"
+B_SO = "31"
+B_GDP = "1"
+B_AVG = ".360"
+
+
+[[person]]
+name.last = "Lasorda"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "19"
+B_AB = "28"
+B_R = "3"
+B_H = "10"
+B_TB = "20"
+B_2B = "2"
+B_3B = "1"
+B_HR = "2"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "3"
+B_GDP = "2"
+B_AVG = ".357"
+
+
+[[person]]
+name.last = "Urban"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "41"
+B_AB = "79"
+B_R = "13"
+B_H = "28"
+B_TB = "44"
+B_2B = "6"
+B_3B = "2"
+B_HR = "2"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "16"
+B_SO = "11"
+B_GDP = "1"
+B_AVG = ".354"
+
+
+[[person]]
+name.last = "Paula"
+name.given = "Carlos"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+B_G = "25"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "52"
+[person.playing.totals]
+B_G = "77"
+B_AB = "266"
+B_R = "52"
+B_H = "91"
+B_TB = "159"
+B_2B = "12"
+B_3B = "4"
+B_HR = "16"
+B_SH = "0"
+B_SF = "3"
+B_SB = "5"
+B_BB = "30"
+B_HP = "2"
+B_RBI = "55"
+B_SO = "24"
+B_GDP = "14"
+B_AVG = ".342"
+
+
+[[person]]
+name.last = "Drake"
+name.given = "Solomon"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "55"
+B_AB = "195"
+B_R = "35"
+B_H = "65"
+B_TB = "117"
+B_2B = "13"
+B_3B = "6"
+B_HR = "9"
+B_SH = "1"
+B_SF = "2"
+B_SB = "6"
+B_BB = "23"
+B_HP = "0"
+B_RBI = "27"
+B_SO = "26"
+B_GDP = "2"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "15"
+B_AB = "21"
+B_R = "2"
+B_H = "7"
+B_TB = "9"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "3"
+B_GDP = "0"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Russell"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "10"
+B_AB = "3"
+B_R = "1"
+B_H = "1"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "0"
+B_GDP = "0"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Young"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "97"
+B_AB = "309"
+B_R = "56"
+B_H = "102"
+B_TB = "144"
+B_2B = "16"
+B_3B = "7"
+B_HR = "4"
+B_SH = "3"
+B_SF = "3"
+B_SB = "3"
+B_BB = "32"
+B_HP = "0"
+B_RBI = "39"
+B_SO = "34"
+B_GDP = "7"
+B_AVG = ".330"
+
+
+[[person]]
+name.last = "Regalado"
+name.given = "Rudolph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "95"
+B_AB = "311"
+B_R = "55"
+B_H = "100"
+B_TB = "167"
+B_2B = "19"
+B_3B = "3"
+B_HR = "14"
+B_SH = "4"
+B_SF = "4"
+B_SB = "1"
+B_BB = "36"
+B_HP = "4"
+B_RBI = "60"
+B_SO = "20"
+B_GDP = "8"
+B_AVG = ".322"
+
+
+[[person]]
+name.last = "Bella"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "77"
+B_AB = "250"
+B_R = "40"
+B_H = "80"
+B_TB = "121"
+B_2B = "14"
+B_3B = "3"
+B_HR = "7"
+B_SH = "1"
+B_SF = "4"
+B_SB = "2"
+B_BB = "22"
+B_HP = "1"
+B_RBI = "49"
+B_SO = "34"
+B_GDP = "11"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Rodemoyer"
+name.given = "Howard"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "34"
+B_AB = "25"
+B_R = "6"
+B_H = "8"
+B_TB = "11"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "3"
+B_GDP = "1"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Darrell"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "107"
+B_AB = "367"
+B_R = "61"
+B_H = "117"
+B_TB = "164"
+B_2B = "20"
+B_3B = "3"
+B_HR = "7"
+B_SH = "0"
+B_SF = "4"
+B_SB = "1"
+B_BB = "17"
+B_HP = "6"
+B_RBI = "48"
+B_SO = "32"
+B_GDP = "11"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Nixon"
+name.given = "Russell"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "105"
+B_AB = "320"
+B_R = "38"
+B_H = "102"
+B_TB = "143"
+B_2B = "19"
+B_3B = "5"
+B_HR = "4"
+B_SH = "2"
+B_SF = "1"
+B_SB = "3"
+B_BB = "23"
+B_HP = "2"
+B_RBI = "44"
+B_SO = "25"
+B_GDP = "7"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Hassell"
+name.given = "Eugene"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "106"
+B_AB = "260"
+B_R = "59"
+B_H = "83"
+B_TB = "97"
+B_2B = "6"
+B_3B = "4"
+B_HR = "0"
+B_SH = "4"
+B_SF = "1"
+B_SB = "4"
+B_BB = "57"
+B_HP = "2"
+B_RBI = "24"
+B_SO = "12"
+B_GDP = "4"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Command"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "45"
+B_AB = "132"
+B_R = "13"
+B_H = "42"
+B_TB = "57"
+B_2B = "4"
+B_3B = "1"
+B_HR = "3"
+B_SH = "1"
+B_SF = "3"
+B_SB = "0"
+B_BB = "13"
+B_HP = "0"
+B_RBI = "19"
+B_SO = "11"
+B_GDP = "4"
+B_AVG = ".318"
+
+
+[[person]]
+name.last = "Grate"
+name.given = "Donald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "48"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "70"
+[person.playing.totals]
+B_G = "124"
+B_AB = "335"
+B_R = "53"
+B_H = "106"
+B_TB = "142"
+B_2B = "14"
+B_3B = "5"
+B_HR = "4"
+B_SH = "3"
+B_SF = "2"
+B_SB = "7"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "36"
+B_SO = "51"
+B_GDP = "8"
+B_AVG = ".316"
+
+
+[[person]]
+name.last = "Addis"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "15"
+B_AB = "38"
+B_R = "2"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "6"
+B_GDP = "1"
+B_AVG = ".316"
+
+
+[[person]]
+name.last = "Lee"
+name.given = "Ronald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "52"
+B_AB = "35"
+B_R = "4"
+B_H = "11"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "12"
+B_GDP = "0"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Valdivielso"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "23"
+B_AB = "83"
+B_R = "10"
+B_H = "26"
+B_TB = "38"
+B_2B = "9"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "7"
+B_SO = "11"
+B_GDP = "1"
+B_AVG = ".313"
+
+
+[[person]]
+name.last = "Rice"
+name.given = "Harold"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "10"
+B_AB = "29"
+B_R = "4"
+B_H = "9"
+B_TB = "13"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "2"
+B_GDP = "0"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Clark"
+name.given = "Melvin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "57"
+B_AB = "216"
+B_R = "25"
+B_H = "67"
+B_TB = "108"
+B_2B = "8"
+B_3B = "6"
+B_HR = "7"
+B_SH = "0"
+B_SF = "1"
+B_SB = "1"
+B_BB = "10"
+B_HP = "1"
+B_RBI = "36"
+B_SO = "12"
+B_GDP = "9"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "121"
+B_AB = "334"
+B_R = "45"
+B_H = "103"
+B_TB = "183"
+B_2B = "13"
+B_3B = "5"
+B_HR = "19"
+B_SH = "0"
+B_SF = "3"
+B_SB = "1"
+B_BB = "27"
+B_HP = "0"
+B_RBI = "69"
+B_SO = "50"
+B_GDP = "5"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Locklin"
+name.given = "Stuart"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "55"
+B_AB = "133"
+B_R = "23"
+B_H = "41"
+B_TB = "53"
+B_2B = "9"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SF = "3"
+B_SB = "1"
+B_BB = "8"
+B_HP = "2"
+B_RBI = "22"
+B_SO = "8"
+B_GDP = "3"
+B_AVG = ".308"
+
+
+[[person]]
+name.last = "Curry"
+name.given = "Lacey"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "114"
+B_AB = "399"
+B_R = "55"
+B_H = "122"
+B_TB = "163"
+B_2B = "21"
+B_3B = "4"
+B_HR = "4"
+B_SH = "5"
+B_SF = "3"
+B_SB = "14"
+B_BB = "26"
+B_HP = "2"
+B_RBI = "43"
+B_SO = "36"
+B_GDP = "8"
+B_AVG = ".306"
+
+
+[[person]]
+name.last = "Baro"
+name.given = "Alberto"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "56"
+B_AB = "131"
+B_R = "20"
+B_H = "40"
+B_TB = "51"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SF = "3"
+B_SB = "1"
+B_BB = "18"
+B_HP = "2"
+B_RBI = "14"
+B_SO = "18"
+B_GDP = "3"
+B_AVG = ".305"
+
+
+[[person]]
+name.last = "Pope"
+name.given = "David"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "100"
+B_AB = "367"
+B_R = "66"
+B_H = "111"
+B_TB = "222"
+B_2B = "18"
+B_3B = "9"
+B_HR = "25"
+B_SH = "1"
+B_SF = "4"
+B_SB = "4"
+B_BB = "41"
+B_HP = "1"
+B_RBI = "76"
+B_SO = "69"
+B_GDP = "6"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Rapp"
+name.given = "Vernon"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "85"
+B_AB = "205"
+B_R = "28"
+B_H = "62"
+B_TB = "107"
+B_2B = "8"
+B_3B = "2"
+B_HR = "11"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_BB = "15"
+B_HP = "1"
+B_RBI = "32"
+B_SO = "15"
+B_GDP = "7"
+B_AVG = ".302"
+
+
+[[person]]
+name.last = "Siebern"
+name.given = "Norman"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "36"
+B_AB = "100"
+B_R = "18"
+B_H = "30"
+B_TB = "64"
+B_2B = "6"
+B_3B = "2"
+B_HR = "8"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "26"
+B_HP = "2"
+B_RBI = "19"
+B_SO = "25"
+B_GDP = "4"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Marlowe"
+name.given = "Richard"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "20"
+B_AB = "20"
+B_R = "1"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "8"
+B_GDP = "0"
+B_AVG = ".300"
+
+
+[[person]]
+name.last = "Hamric"
+name.given = "Odbert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "117"
+B_AB = "381"
+B_R = "58"
+B_H = "114"
+B_TB = "172"
+B_2B = "16"
+B_3B = "6"
+B_HR = "10"
+B_SH = "1"
+B_SF = "4"
+B_SB = "10"
+B_BB = "46"
+B_HP = "0"
+B_RBI = "52"
+B_SO = "58"
+B_GDP = "7"
+B_AVG = ".299"
+
+
+[[person]]
+name.last = "Schofield"
+name.given = "J. Richard"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "108"
+B_AB = "396"
+B_R = "60"
+B_H = "117"
+B_TB = "184"
+B_2B = "18"
+B_3B = "8"
+B_HR = "11"
+B_SH = "0"
+B_SF = "3"
+B_SB = "0"
+B_BB = "43"
+B_HP = "2"
+B_RBI = "57"
+B_SO = "56"
+B_GDP = "4"
+B_AVG = ".295"
+
+
+[[person]]
+name.last = "Pignatano"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "81"
+B_AB = "224"
+B_R = "37"
+B_H = "66"
+B_TB = "94"
+B_2B = "11"
+B_3B = "1"
+B_HR = "5"
+B_SH = "4"
+B_SF = "0"
+B_SB = "13"
+B_BB = "28"
+B_HP = "2"
+B_RBI = "29"
+B_SO = "32"
+B_GDP = "5"
+B_AVG = ".295"
+
+
+[[person]]
+name.last = "White"
+name.given = "William"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "20"
+B_AB = "72"
+B_R = "18"
+B_H = "21"
+B_TB = "37"
+B_2B = "5"
+B_3B = "1"
+B_HR = "3"
+B_SH = "0"
+B_SF = "1"
+B_SB = "6"
+B_BB = "17"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "13"
+B_GDP = "1"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Pendleton"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "69"
+B_AB = "253"
+B_R = "37"
+B_H = "73"
+B_TB = "134"
+B_2B = "15"
+B_3B = "5"
+B_HR = "12"
+B_SH = "3"
+B_SF = "6"
+B_SB = "3"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "43"
+B_SO = "31"
+B_GDP = "11"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Jok"
+name.given = "Stanley"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "69"
+B_AB = "232"
+B_R = "38"
+B_H = "67"
+B_TB = "102"
+B_2B = "9"
+B_3B = "1"
+B_HR = "8"
+B_SH = "2"
+B_SF = "2"
+B_SB = "4"
+B_BB = "38"
+B_HP = "2"
+B_RBI = "32"
+B_SO = "36"
+B_GDP = "9"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Roig"
+name.given = "Anton"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "55"
+B_AB = "213"
+B_R = "30"
+B_H = "61"
+B_TB = "87"
+B_2B = "8"
+B_3B = "3"
+B_HR = "4"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_BB = "23"
+B_HP = "2"
+B_RBI = "27"
+B_SO = "50"
+B_GDP = "6"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Thorpe"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "22"
+B_AB = "70"
+B_R = "4"
+B_H = "20"
+B_TB = "25"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "10"
+B_GDP = "0"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Blyzka"
+name.given = "Michael"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "37"
+B_AB = "28"
+B_R = "2"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "12"
+B_GDP = "0"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Castro"
+name.given = "Julian"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "10"
+B_AB = "21"
+B_R = "1"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_GDP = "0"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Hazle"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "124"
+B_AB = "376"
+B_R = "64"
+B_H = "107"
+B_TB = "170"
+B_2B = "18"
+B_3B = "3"
+B_HR = "13"
+B_SH = "2"
+B_SF = "0"
+B_SB = "1"
+B_BB = "53"
+B_HP = "0"
+B_RBI = "46"
+B_SO = "42"
+B_GDP = "10"
+B_AVG = ".285"
+
+
+[[person]]
+name.last = "Bucha"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "109"
+B_AB = "338"
+B_R = "50"
+B_H = "96"
+B_TB = "154"
+B_2B = "17"
+B_3B = "1"
+B_HR = "13"
+B_SH = "1"
+B_SF = "7"
+B_SB = "1"
+B_BB = "35"
+B_HP = "1"
+B_RBI = "57"
+B_SO = "32"
+B_GDP = "11"
+B_AVG = ".284"
+
+
+[[person]]
+name.last = "Limmer"
+name.given = "Louis"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "93"
+B_AB = "307"
+B_R = "46"
+B_H = "86"
+B_TB = "147"
+B_2B = "15"
+B_3B = "2"
+B_HR = "14"
+B_SH = "2"
+B_SF = "3"
+B_SB = "3"
+B_BB = "48"
+B_HP = "2"
+B_RBI = "58"
+B_SO = "26"
+B_GDP = "10"
+B_AVG = ".280"
+
+
+[[person]]
+name.last = "White"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "87"
+B_AB = "226"
+B_R = "28"
+B_H = "63"
+B_TB = "101"
+B_2B = "16"
+B_3B = "2"
+B_HR = "6"
+B_SH = "2"
+B_SF = "3"
+B_SB = "1"
+B_BB = "43"
+B_HP = "1"
+B_RBI = "39"
+B_SO = "36"
+B_GDP = "5"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Randazzo"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "16"
+B_AB = "43"
+B_R = "8"
+B_H = "12"
+B_TB = "21"
+B_2B = "4"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "1"
+B_GDP = "2"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Jenkins"
+name.given = "Wilburn"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "116"
+B_AB = "367"
+B_R = "31"
+B_H = "102"
+B_TB = "138"
+B_2B = "13"
+B_3B = "4"
+B_HR = "5"
+B_SH = "3"
+B_SF = "6"
+B_SB = "3"
+B_BB = "36"
+B_HP = "1"
+B_RBI = "50"
+B_SO = "37"
+B_GDP = "6"
+B_AVG = ".278"
+
+
+[[person]]
+name.last = "Gladstone"
+name.given = "Granville"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "130"
+B_AB = "393"
+B_R = "71"
+B_H = "109"
+B_TB = "171"
+B_2B = "22"
+B_3B = "2"
+B_HR = "12"
+B_SH = "0"
+B_SF = "2"
+B_SB = "5"
+B_BB = "48"
+B_HP = "4"
+B_RBI = "59"
+B_SO = "72"
+B_GDP = "10"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Olsen"
+name.given = "Lyle"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "112"
+B_AB = "398"
+B_R = "60"
+B_H = "110"
+B_TB = "145"
+B_2B = "12"
+B_3B = "4"
+B_HR = "5"
+B_SH = "3"
+B_SF = "4"
+B_SB = "4"
+B_BB = "33"
+B_HP = "1"
+B_RBI = "45"
+B_SO = "32"
+B_GDP = "11"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Browning"
+name.given = "Wade"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "39"
+B_AB = "29"
+B_R = "3"
+B_H = "8"
+B_TB = "10"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "6"
+B_GDP = "0"
+B_AVG = ".276"
+
+
+[[person]]
+name.last = "Winceniak"
+name.given = "Edward"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "52"
+B_AB = "161"
+B_R = "26"
+B_H = "44"
+B_TB = "77"
+B_2B = "9"
+B_3B = "3"
+B_HR = "6"
+B_SH = "2"
+B_SF = "1"
+B_SB = "1"
+B_BB = "17"
+B_HP = "1"
+B_RBI = "27"
+B_SO = "24"
+B_GDP = "2"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Beard"
+name.given = "C. Theodore"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "116"
+B_AB = "259"
+B_R = "56"
+B_H = "70"
+B_TB = "112"
+B_2B = "11"
+B_3B = "5"
+B_HR = "7"
+B_SH = "2"
+B_SF = "2"
+B_SB = "11"
+B_BB = "71"
+B_HP = "1"
+B_RBI = "36"
+B_SO = "49"
+B_GDP = "3"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Graber"
+name.given = "Rodney"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "22"
+B_AB = "63"
+B_R = "14"
+B_H = "17"
+B_TB = "26"
+B_2B = "0"
+B_3B = "3"
+B_HR = "1"
+B_SH = "0"
+B_SF = "2"
+B_SB = "3"
+B_BB = "18"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "7"
+B_GDP = "1"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Ponce"
+name.given = "Anthony"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "24"
+B_AB = "37"
+B_R = "7"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "10"
+B_GDP = "1"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Bressoud"
+name.given = "Edward"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "86"
+B_AB = "294"
+B_R = "30"
+B_H = "79"
+B_TB = "106"
+B_2B = "18"
+B_3B = "0"
+B_HR = "3"
+B_SH = "0"
+B_SF = "4"
+B_SB = "0"
+B_BB = "29"
+B_HP = "0"
+B_RBI = "36"
+B_SO = "51"
+B_GDP = "6"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Holton"
+name.given = "Raymond"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "64"
+B_AB = "208"
+B_R = "31"
+B_H = "56"
+B_TB = "82"
+B_2B = "11"
+B_3B = "0"
+B_HR = "5"
+B_SH = "1"
+B_SF = "2"
+B_SB = "0"
+B_BB = "24"
+B_HP = "2"
+B_RBI = "32"
+B_SO = "14"
+B_GDP = "6"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Elston"
+name.given = "Donald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "45"
+B_AB = "41"
+B_R = "4"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_GDP = "2"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Lennon"
+name.given = "Robert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "78"
+B_AB = "203"
+B_R = "27"
+B_H = "54"
+B_TB = "87"
+B_2B = "6"
+B_3B = "3"
+B_HR = "7"
+B_SH = "0"
+B_SF = "5"
+B_SB = "0"
+B_BB = "23"
+B_HP = "1"
+B_RBI = "27"
+B_SO = "39"
+B_GDP = "7"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "McHugh"
+name.given = "Edward"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "32"
+B_AB = "79"
+B_R = "13"
+B_H = "21"
+B_TB = "27"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_BB = "8"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "7"
+B_GDP = "4"
+B_AVG = ".266"
+
+
+[[person]]
+name.last = "Neeman"
+name.given = "Calvin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "32"
+B_AB = "113"
+B_R = "11"
+B_H = "30"
+B_TB = "39"
+B_2B = "1"
+B_3B = "1"
+B_HR = "2"
+B_SH = "0"
+B_SF = "1"
+B_SB = "1"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "12"
+B_SO = "18"
+B_GDP = "3"
+B_AVG = ".265"
+
+
+[[person]]
+name.last = "Davalillo"
+name.given = "Pompeyo"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "79"
+B_AB = "318"
+B_R = "39"
+B_H = "84"
+B_TB = "103"
+B_2B = "17"
+B_3B = "1"
+B_HR = "0"
+B_SH = "4"
+B_SF = "2"
+B_SB = "4"
+B_BB = "28"
+B_HP = "1"
+B_RBI = "23"
+B_SO = "25"
+B_GDP = "8"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Hicks"
+name.given = "Clarence"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "34"
+B_AB = "122"
+B_R = "19"
+B_H = "32"
+B_TB = "56"
+B_2B = "5"
+B_3B = "2"
+B_HR = "5"
+B_SH = "1"
+B_SF = "0"
+B_SB = "1"
+B_BB = "19"
+B_HP = "2"
+B_RBI = "9"
+B_SO = "11"
+B_GDP = "2"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "Lammers"
+name.given = "Walter"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "118"
+B_AB = "387"
+B_R = "47"
+B_H = "101"
+B_TB = "133"
+B_2B = "17"
+B_3B = "3"
+B_HR = "3"
+B_SH = "4"
+B_SF = "6"
+B_SB = "3"
+B_BB = "45"
+B_HP = "2"
+B_RBI = "47"
+B_SO = "42"
+B_GDP = "7"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Kress"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "117"
+B_AB = "356"
+B_R = "45"
+B_H = "93"
+B_TB = "132"
+B_2B = "16"
+B_3B = "1"
+B_HR = "7"
+B_SH = "5"
+B_SF = "6"
+B_SB = "7"
+B_BB = "61"
+B_HP = "0"
+B_RBI = "52"
+B_SO = "51"
+B_GDP = "4"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Bracchitta"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "17"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "66"
+[person.playing.totals]
+B_G = "83"
+B_AB = "245"
+B_R = "36"
+B_H = "64"
+B_TB = "77"
+B_2B = "9"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SF = "1"
+B_SB = "2"
+B_BB = "54"
+B_HP = "1"
+B_RBI = "14"
+B_SO = "50"
+B_GDP = "3"
+B_AVG = ".261"
+
+
+[[person]]
+name.last = "Parks"
+name.given = "Jack"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "89"
+B_AB = "254"
+B_R = "24"
+B_H = "66"
+B_TB = "104"
+B_2B = "8"
+B_3B = "3"
+B_HR = "8"
+B_SH = "0"
+B_SF = "2"
+B_SB = "0"
+B_BB = "21"
+B_HP = "0"
+B_RBI = "33"
+B_SO = "48"
+B_GDP = "2"
+B_AVG = ".260"
+
+
+[[person]]
+name.last = "Lau"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "110"
+B_AB = "322"
+B_R = "32"
+B_H = "83"
+B_TB = "138"
+B_2B = "11"
+B_3B = "4"
+B_HR = "12"
+B_SH = "1"
+B_SF = "5"
+B_SB = "1"
+B_BB = "49"
+B_HP = "6"
+B_RBI = "53"
+B_SO = "48"
+B_GDP = "6"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Burbrink"
+name.given = "Nelson"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "111"
+B_AB = "309"
+B_R = "42"
+B_H = "79"
+B_TB = "104"
+B_2B = "13"
+B_3B = "0"
+B_HR = "4"
+B_SH = "2"
+B_SF = "2"
+B_SB = "3"
+B_BB = "56"
+B_HP = "1"
+B_RBI = "48"
+B_SO = "30"
+B_GDP = "12"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Amalfitano"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "44"
+B_AB = "121"
+B_R = "23"
+B_H = "31"
+B_TB = "37"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "3"
+B_BB = "25"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "16"
+B_GDP = "2"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Linhart"
+name.given = "Carl"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "12"
+B_AB = "39"
+B_R = "4"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_GDP = "0"
+B_AVG = ".256"
+
+
+[[person]]
+name.last = "Queen"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "123"
+B_AB = "388"
+B_R = "50"
+B_H = "99"
+B_TB = "159"
+B_2B = "14"
+B_3B = "2"
+B_HR = "14"
+B_SH = "3"
+B_SF = "7"
+B_SB = "1"
+B_BB = "43"
+B_HP = "1"
+B_RBI = "55"
+B_SO = "53"
+B_GDP = "11"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Tate"
+name.given = "Lee"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "100"
+B_AB = "243"
+B_R = "35"
+B_H = "62"
+B_TB = "84"
+B_2B = "9"
+B_3B = "2"
+B_HR = "3"
+B_SH = "3"
+B_SF = "1"
+B_SB = "1"
+B_BB = "34"
+B_HP = "2"
+B_RBI = "25"
+B_SO = "37"
+B_GDP = "3"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Walters"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "39"
+B_AB = "138"
+B_R = "20"
+B_H = "35"
+B_TB = "64"
+B_2B = "8"
+B_3B = "0"
+B_HR = "7"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_BB = "11"
+B_HP = "1"
+B_RBI = "23"
+B_SO = "27"
+B_GDP = "3"
+B_AVG = ".254"
+
+
+[[person]]
+name.last = "Tettelbach"
+name.given = "Richard"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "74"
+B_AB = "220"
+B_R = "24"
+B_H = "55"
+B_TB = "76"
+B_2B = "11"
+B_3B = "2"
+B_HR = "2"
+B_SH = "1"
+B_SF = "1"
+B_SB = "10"
+B_BB = "36"
+B_HP = "0"
+B_RBI = "25"
+B_SO = "33"
+B_GDP = "5"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Stewart"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "51"
+B_AB = "128"
+B_R = "27"
+B_H = "32"
+B_TB = "58"
+B_2B = "7"
+B_3B = "2"
+B_HR = "5"
+B_SH = "3"
+B_SF = "1"
+B_SB = "0"
+B_BB = "32"
+B_HP = "0"
+B_RBI = "18"
+B_SO = "20"
+B_GDP = "3"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Coleman"
+name.given = "Raymond"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "48"
+B_AB = "104"
+B_R = "13"
+B_H = "26"
+B_TB = "33"
+B_2B = "4"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "11"
+B_SO = "10"
+B_GDP = "4"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Karlik"
+name.given = "Emil"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "23"
+B_AB = "80"
+B_R = "14"
+B_H = "20"
+B_TB = "30"
+B_2B = "2"
+B_3B = "1"
+B_HR = "2"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "12"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "7"
+B_GDP = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Terry"
+name.given = "Ralph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "25"
+B_AB = "68"
+B_R = "11"
+B_H = "17"
+B_TB = "20"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "15"
+B_GDP = "6"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Izquierdo"
+name.given = "Enrique"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "19"
+B_AB = "44"
+B_R = "7"
+B_H = "11"
+B_TB = "14"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SF = "1"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "5"
+B_GDP = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Hoffer"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "16"
+B_AB = "32"
+B_R = "6"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_GDP = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "McArdle"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "11"
+B_AB = "28"
+B_R = "3"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "32"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_GDP = "1"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Hutson"
+name.given = "Eulas"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "119"
+B_AB = "371"
+B_R = "40"
+B_H = "92"
+B_TB = "173"
+B_2B = "16"
+B_3B = "7"
+B_HR = "17"
+B_SH = "3"
+B_SF = "5"
+B_SB = "1"
+B_BB = "29"
+B_HP = "3"
+B_RBI = "67"
+B_SO = "71"
+B_GDP = "4"
+B_AVG = ".248"
+
+
+[[person]]
+name.last = "Johnson"
+name.given = "Wilburn"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "55"
+B_AB = "171"
+B_R = "25"
+B_H = "42"
+B_TB = "51"
+B_2B = "5"
+B_3B = "2"
+B_HR = "0"
+B_SH = "5"
+B_SF = "0"
+B_SB = "1"
+B_BB = "29"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "18"
+B_GDP = "4"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Robertson"
+name.given = "A. James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "45"
+B_AB = "122"
+B_R = "19"
+B_H = "30"
+B_TB = "48"
+B_2B = "6"
+B_3B = "0"
+B_HR = "4"
+B_SH = "2"
+B_SF = "3"
+B_SB = "2"
+B_BB = "18"
+B_HP = "2"
+B_RBI = "18"
+B_SO = "18"
+B_GDP = "0"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Veal"
+name.given = "Inman"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "20"
+B_AB = "65"
+B_R = "10"
+B_H = "16"
+B_TB = "22"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "1"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "5"
+B_GDP = "3"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Terwilliger"
+name.given = "Wayne"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "90"
+B_AB = "290"
+B_R = "39"
+B_H = "71"
+B_TB = "97"
+B_2B = "14"
+B_3B = "3"
+B_HR = "2"
+B_SH = "2"
+B_SF = "1"
+B_SB = "10"
+B_BB = "48"
+B_HP = "3"
+B_RBI = "27"
+B_SO = "44"
+B_GDP = "2"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Allen"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "69"
+B_AB = "196"
+B_R = "23"
+B_H = "48"
+B_TB = "72"
+B_2B = "9"
+B_3B = "0"
+B_HR = "5"
+B_SH = "2"
+B_SF = "2"
+B_SB = "1"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "29"
+B_SO = "34"
+B_GDP = "4"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Wright"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "35"
+[[person.playing.split]]
+team.name = "Charleston"
+B_G = "16"
+[person.playing.totals]
+B_G = "51"
+B_AB = "159"
+B_R = "18"
+B_H = "39"
+B_TB = "52"
+B_2B = "2"
+B_3B = "1"
+B_HR = "3"
+B_SH = "2"
+B_SF = "2"
+B_SB = "0"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "20"
+B_SO = "30"
+B_GDP = "4"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "Pawloski"
+name.given = "Stanley"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "124"
+B_AB = "397"
+B_R = "56"
+B_H = "96"
+B_TB = "149"
+B_2B = "19"
+B_3B = "2"
+B_HR = "10"
+B_SH = "7"
+B_SF = "2"
+B_SB = "1"
+B_BB = "60"
+B_HP = "5"
+B_RBI = "53"
+B_SO = "52"
+B_GDP = "18"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Kite"
+name.given = "James"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "34"
+B_AB = "33"
+B_R = "3"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "0"
+B_GDP = "1"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Demeter"
+name.given = "Stephen"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "47"
+B_AB = "174"
+B_R = "23"
+B_H = "42"
+B_TB = "68"
+B_2B = "12"
+B_3B = "1"
+B_HR = "4"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "12"
+B_HP = "1"
+B_RBI = "21"
+B_SO = "26"
+B_GDP = "4"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Koppe"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "54"
+B_AB = "170"
+B_R = "23"
+B_H = "41"
+B_TB = "64"
+B_2B = "8"
+B_3B = "3"
+B_HR = "3"
+B_SH = "3"
+B_SF = "0"
+B_SB = "6"
+B_BB = "44"
+B_HP = "0"
+B_RBI = "14"
+B_SO = "40"
+B_GDP = "1"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Taylor"
+name.given = "Benjamin"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "22"
+B_AB = "79"
+B_R = "14"
+B_H = "19"
+B_TB = "36"
+B_2B = "5"
+B_3B = "0"
+B_HR = "4"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "11"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "20"
+B_GDP = "1"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Averill"
+name.given = "Earl"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "22"
+B_AB = "58"
+B_R = "9"
+B_H = "14"
+B_TB = "30"
+B_2B = "1"
+B_3B = "0"
+B_HR = "5"
+B_SH = "0"
+B_SF = "1"
+B_SB = "2"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "13"
+B_SO = "13"
+B_GDP = "0"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Facchini"
+name.given = "Alfred"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "98"
+B_AB = "305"
+B_R = "27"
+B_H = "72"
+B_TB = "84"
+B_2B = "7"
+B_3B = "1"
+B_HR = "1"
+B_SH = "6"
+B_SF = "0"
+B_SB = "6"
+B_BB = "18"
+B_HP = "0"
+B_RBI = "26"
+B_SO = "38"
+B_GDP = "6"
+B_AVG = ".236"
+
+
+[[person]]
+name.last = "Barnes"
+name.given = "Frank"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "23"
+[[person.playing.split]]
+team.name = "Omaha"
+B_G = "7"
+[person.playing.totals]
+B_G = "30"
+B_AB = "56"
+B_R = "8"
+B_H = "13"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "14"
+B_GDP = "6"
+B_AVG = ".232"
+
+
+[[person]]
+name.last = "Paine"
+name.given = "Phillips"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "58"
+B_AB = "26"
+B_R = "4"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "13"
+B_GDP = "0"
+B_AVG = ".231"
+
+
+[[person]]
+name.last = "Leppert"
+name.given = "Donald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "70"
+B_AB = "165"
+B_R = "19"
+B_H = "38"
+B_TB = "70"
+B_2B = "8"
+B_3B = "0"
+B_HR = "8"
+B_SH = "0"
+B_SF = "1"
+B_SB = "1"
+B_BB = "16"
+B_HP = "0"
+B_RBI = "21"
+B_SO = "42"
+B_GDP = "2"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Edward"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "23"
+B_AB = "61"
+B_R = "4"
+B_H = "14"
+B_TB = "20"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "5"
+B_RBI = "8"
+B_SO = "11"
+B_GDP = "0"
+B_AVG = ".230"
+
+
+[[person]]
+name.last = "Herbert"
+name.given = "Eugene"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "104"
+B_AB = "301"
+B_R = "34"
+B_H = "69"
+B_TB = "100"
+B_2B = "14"
+B_3B = "1"
+B_HR = "5"
+B_SH = "3"
+B_SF = "1"
+B_SB = "1"
+B_BB = "24"
+B_HP = "4"
+B_RBI = "26"
+B_SO = "48"
+B_GDP = "10"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Baldomero"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "11"
+B_AB = "35"
+B_R = "2"
+B_H = "8"
+B_TB = "10"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_GDP = "1"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Kline"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "10"
+B_AB = "35"
+B_R = "2"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "2"
+B_GDP = "0"
+B_AVG = ".229"
+
+
+[[person]]
+name.last = "Eggert"
+name.given = "Donald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+B_G = "39"
+[[person.playing.split]]
+team.name = "Charleston"
+B_G = "62"
+[person.playing.totals]
+B_G = "101"
+B_AB = "311"
+B_R = "35"
+B_H = "71"
+B_TB = "130"
+B_2B = "12"
+B_3B = "4"
+B_HR = "13"
+B_SH = "5"
+B_SF = "3"
+B_SB = "1"
+B_BB = "25"
+B_HP = "2"
+B_RBI = "55"
+B_SO = "68"
+B_GDP = "8"
+B_AVG = ".228"
+
+
+[[person]]
+name.last = "Black"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "24"
+B_AB = "22"
+B_R = "0"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "4"
+B_GDP = "0"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Almenares"
+name.given = "Pedro"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "13"
+B_AB = "22"
+B_R = "0"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "7"
+B_GDP = "1"
+B_AVG = ".227"
+
+
+[[person]]
+name.last = "Burris"
+name.given = "Paul"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "35"
+B_AB = "93"
+B_R = "5"
+B_H = "21"
+B_TB = "26"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "1"
+B_SF = "3"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "16"
+B_SO = "7"
+B_GDP = "0"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Dixon"
+name.given = "Sherwin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "12"
+B_AB = "31"
+B_R = "6"
+B_H = "7"
+B_TB = "12"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "1"
+B_RBI = "6"
+B_SO = "7"
+B_GDP = "2"
+B_AVG = ".226"
+
+
+[[person]]
+name.last = "Thollander"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "38"
+B_AB = "71"
+B_R = "8"
+B_H = "16"
+B_TB = "26"
+B_2B = "4"
+B_3B = "3"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "15"
+B_GDP = "3"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Brodowski"
+name.given = "Richard"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "36"
+B_AB = "71"
+B_R = "10"
+B_H = "16"
+B_TB = "22"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "14"
+B_GDP = "0"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Kipper"
+name.given = "Thornton"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "18"
+B_AB = "18"
+B_R = "0"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "6"
+B_GDP = "0"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Byerly"
+name.given = "Eldred"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "19"
+B_AB = "9"
+B_R = "0"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "2"
+B_GDP = "1"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Valenzuela"
+name.given = "Benjamin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "16"
+B_AB = "50"
+B_R = "9"
+B_H = "11"
+B_TB = "17"
+B_2B = "1"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "9"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "5"
+B_GDP = "1"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Streuli"
+name.given = "Walter"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "15"
+B_AB = "51"
+B_R = "2"
+B_H = "11"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "5"
+B_GDP = "4"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Casagrande"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "93"
+B_AB = "181"
+B_R = "18"
+B_H = "39"
+B_TB = "50"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SH = "1"
+B_SF = "1"
+B_SB = "3"
+B_BB = "21"
+B_HP = "2"
+B_RBI = "17"
+B_SO = "31"
+B_GDP = "3"
+B_AVG = ".215"
+
+
+[[person]]
+name.last = "Clevenger"
+name.given = "Truman"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "19"
+B_AB = "28"
+B_R = "1"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_GDP = "0"
+B_AVG = ".214"
+
+
+[[person]]
+name.last = "Kutyna"
+name.given = "J. Marlon"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "27"
+B_AB = "19"
+B_R = "2"
+B_H = "4"
+B_TB = "5"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "5"
+B_GDP = "0"
+B_AVG = ".211"
+
+
+[[person]]
+name.last = "King"
+name.given = "Charles"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "120"
+B_AB = "300"
+B_R = "39"
+B_H = "63"
+B_TB = "109"
+B_2B = "13"
+B_3B = "6"
+B_HR = "7"
+B_SH = "3"
+B_SF = "0"
+B_SB = "7"
+B_BB = "19"
+B_HP = "5"
+B_RBI = "25"
+B_SO = "72"
+B_GDP = "2"
+B_AVG = ".210"
+
+
+[[person]]
+name.last = "Maier"
+name.given = "George"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "28"
+B_AB = "43"
+B_R = "8"
+B_H = "9"
+B_TB = "14"
+B_2B = "0"
+B_3B = "1"
+B_HR = "1"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "16"
+B_GDP = "0"
+B_AVG = ".209"
+
+
+[[person]]
+name.last = "Presko"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "33"
+B_AB = "49"
+B_R = "6"
+B_H = "10"
+B_TB = "19"
+B_2B = "3"
+B_3B = "0"
+B_HR = "2"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "8"
+B_GDP = "3"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Roselli"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "24"
+B_AB = "69"
+B_R = "3"
+B_H = "14"
+B_TB = "14"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "13"
+B_GDP = "3"
+B_AVG = ".203"
+
+
+[[person]]
+name.last = "Abernathy"
+name.given = "Theodore"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "40"
+B_AB = "84"
+B_R = "9"
+B_H = "17"
+B_TB = "20"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "7"
+B_SO = "12"
+B_GDP = "3"
+B_AVG = ".202"
+
+
+[[person]]
+name.last = "Barclay"
+name.given = "Curtis"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "44"
+B_AB = "70"
+B_R = "9"
+B_H = "14"
+B_TB = "30"
+B_2B = "1"
+B_3B = "0"
+B_HR = "5"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "29"
+B_GDP = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Jay"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "28"
+B_AB = "50"
+B_R = "3"
+B_H = "10"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "8"
+B_SO = "15"
+B_GDP = "3"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Downs"
+name.given = "Benjamin"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "21"
+B_AB = "45"
+B_R = "7"
+B_H = "9"
+B_TB = "13"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_GDP = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Forizs"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "30"
+B_AB = "25"
+B_R = "6"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "8"
+B_GDP = "0"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Clarke"
+name.given = "Vibert"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "28"
+B_AB = "51"
+B_R = "4"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "8"
+B_GDP = "1"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "Thacker"
+name.given = "Morris"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "34"
+B_AB = "99"
+B_R = "12"
+B_H = "19"
+B_TB = "24"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "1"
+B_SB = "0"
+B_BB = "13"
+B_HP = "1"
+B_RBI = "8"
+B_SO = "30"
+B_GDP = "3"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Cheney"
+name.given = "Thomas"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "31"
+B_AB = "52"
+B_R = "5"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "9"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "9"
+B_GDP = "3"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Bunning"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "24"
+B_AB = "58"
+B_R = "7"
+B_H = "11"
+B_TB = "17"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SH = "4"
+B_SF = "2"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "10"
+B_GDP = "3"
+B_AVG = ".190"
+
+
+[[person]]
+name.last = "Pitula"
+name.given = "Stanley"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "43"
+B_AB = "65"
+B_R = "9"
+B_H = "12"
+B_TB = "19"
+B_2B = "1"
+B_3B = "0"
+B_HR = "2"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "1"
+B_RBI = "9"
+B_SO = "22"
+B_GDP = "1"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "DePalo"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "49"
+B_AB = "27"
+B_R = "4"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_GDP = "1"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "Daley"
+name.given = "Buddy Leo"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "21"
+B_AB = "33"
+B_R = "4"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "8"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "5"
+B_GDP = "1"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Garmon"
+name.given = "Charles"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "33"
+B_AB = "22"
+B_R = "3"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "7"
+B_GDP = "0"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "Donnelly"
+name.given = "Edward"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "21"
+B_AB = "22"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "3"
+B_GDP = "0"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "McMahon"
+name.given = "Donald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "40"
+B_AB = "28"
+B_R = "0"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "11"
+B_GDP = "1"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Stabelfeld"
+name.given = "Glen"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "46"
+B_AB = "57"
+B_R = "4"
+B_H = "10"
+B_TB = "14"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "1"
+B_RBI = "10"
+B_SO = "22"
+B_GDP = "0"
+B_AVG = ".175"
+
+
+[[person]]
+name.last = "Charles"
+name.given = "Edwin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "15"
+B_AB = "40"
+B_R = "5"
+B_H = "7"
+B_TB = "14"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "10"
+B_SO = "6"
+B_GDP = "0"
+B_AVG = ".175"
+
+
+[[person]]
+name.last = "McMinn"
+name.given = "Glenn"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "38"
+B_AB = "59"
+B_R = "9"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "1"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "16"
+B_GDP = "0"
+B_AVG = ".169"
+
+
+[[person]]
+name.last = "Jones"
+name.given = "Gordon"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "28"
+B_AB = "59"
+B_R = "6"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "8"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "13"
+B_GDP = "2"
+B_AVG = ".169"
+
+
+[[person]]
+name.last = "Lassetter"
+name.given = "Donald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "24"
+B_AB = "60"
+B_R = "4"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "2"
+B_SB = "0"
+B_BB = "7"
+B_HP = "0"
+B_RBI = "9"
+B_SO = "7"
+B_GDP = "3"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Schultz"
+name.given = "George"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "46"
+B_AB = "30"
+B_R = "2"
+B_H = "5"
+B_TB = "9"
+B_2B = "0"
+B_3B = "2"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "6"
+B_GDP = "2"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Phillips"
+name.given = "Taylor"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "13"
+B_AB = "12"
+B_R = "3"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "3"
+B_GDP = "0"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Nichols"
+name.given = "Dolan"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "41"
+B_AB = "79"
+B_R = "10"
+B_H = "13"
+B_TB = "23"
+B_2B = "3"
+B_3B = "2"
+B_HR = "1"
+B_SH = "2"
+B_SF = "1"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "11"
+B_SO = "13"
+B_GDP = "2"
+B_AVG = ".165"
+
+
+[[person]]
+name.last = "Gray"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "41"
+B_AB = "55"
+B_R = "1"
+B_H = "9"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "20"
+B_GDP = "2"
+B_AVG = ".164"
+
+
+[[person]]
+name.last = "Gorin"
+name.given = "Charles"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "56"
+B_AB = "57"
+B_R = "6"
+B_H = "9"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "11"
+B_SF = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "6"
+B_SO = "15"
+B_GDP = "0"
+B_AVG = ".158"
+
+
+[[person]]
+name.last = "Corwin"
+name.given = "Elmer"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "38"
+B_AB = "32"
+B_R = "4"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_GDP = "0"
+B_AVG = ".156"
+
+
+[[person]]
+name.last = "Williams"
+name.given = "Stanley"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "26"
+B_AB = "46"
+B_R = "3"
+B_H = "7"
+B_TB = "8"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "4"
+B_SO = "27"
+B_GDP = "0"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Jancse"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "33"
+B_AB = "47"
+B_R = "6"
+B_H = "7"
+B_TB = "9"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "16"
+B_GDP = "0"
+B_AVG = ".149"
+
+
+[[person]]
+name.last = "Getter"
+name.given = "Richard"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "10"
+B_AB = "27"
+B_R = "2"
+B_H = "4"
+B_TB = "7"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "5"
+B_GDP = "1"
+B_AVG = ".148"
+
+
+[[person]]
+name.last = "Murszewski"
+name.given = "Marlan"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "44"
+B_AB = "34"
+B_R = "1"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "19"
+B_GDP = "0"
+B_AVG = ".147"
+
+
+[[person]]
+name.last = "Benedict"
+name.given = "David"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "35"
+B_AB = "35"
+B_R = "2"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "7"
+B_GDP = "1"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Maas"
+name.given = "Duane"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "11"
+B_AB = "21"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "7"
+B_GDP = "1"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Kucab"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "43"
+B_AB = "14"
+B_R = "1"
+B_H = "2"
+B_TB = "3"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "2"
+B_GDP = "1"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Atwell"
+name.given = "Maurice"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "28"
+B_AB = "64"
+B_R = "3"
+B_H = "9"
+B_TB = "12"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "15"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "7"
+B_GDP = "4"
+B_AVG = ".141"
+
+
+[[person]]
+name.last = "Host"
+name.given = "Eugene"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "40"
+B_AB = "80"
+B_R = "7"
+B_H = "11"
+B_TB = "17"
+B_2B = "4"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "7"
+B_HP = "1"
+B_RBI = "5"
+B_SO = "21"
+B_GDP = "5"
+B_AVG = ".138"
+
+
+[[person]]
+name.last = "Byrd"
+name.given = "Harry"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "24"
+B_AB = "58"
+B_R = "5"
+B_H = "8"
+B_TB = "8"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "5"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "13"
+B_GDP = "2"
+B_AVG = ".138"
+
+
+[[person]]
+name.last = "Templeton"
+name.given = "Charles"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "27"
+B_AB = "44"
+B_R = "2"
+B_H = "6"
+B_TB = "9"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "22"
+B_GDP = "0"
+B_AVG = ".136"
+
+
+[[person]]
+name.last = "Ross"
+name.given = "F. Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "13"
+B_AB = "22"
+B_R = "1"
+B_H = "3"
+B_TB = "5"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "0"
+B_SO = "10"
+B_GDP = "1"
+B_AVG = ".136"
+
+
+[[person]]
+name.last = "Mayer"
+name.given = "Edwin"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "18"
+B_AB = "30"
+B_R = "1"
+B_H = "4"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "12"
+B_GDP = "1"
+B_AVG = ".133"
+
+
+[[person]]
+name.last = "Constable"
+name.given = "James"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "37"
+B_AB = "61"
+B_R = "2"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "23"
+B_GDP = "0"
+B_AVG = ".131"
+
+
+[[person]]
+name.last = "Robinson"
+name.given = "Humberto"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "31"
+B_AB = "46"
+B_R = "4"
+B_H = "6"
+B_TB = "10"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SH = "2"
+B_SF = "1"
+B_SB = "0"
+B_BB = "3"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "20"
+B_GDP = "0"
+B_AVG = ".130"
+
+
+[[person]]
+name.last = "Konikowski"
+name.given = "Alexander"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "29"
+B_AB = "23"
+B_R = "1"
+B_H = "3"
+B_TB = "4"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "1"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_GDP = "1"
+B_AVG = ".130"
+
+
+[[person]]
+name.last = "Gasque"
+name.given = "Edwin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "37"
+B_AB = "48"
+B_R = "2"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "15"
+B_GDP = "0"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Wells"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "19"
+B_AB = "32"
+B_R = "3"
+B_H = "4"
+B_TB = "6"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "1"
+B_BB = "6"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "7"
+B_GDP = "3"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Reeder"
+name.given = "Dennis"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "16"
+B_AB = "8"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "6"
+B_GDP = "0"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Hartman"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "12"
+B_AB = "8"
+B_R = "3"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "1"
+B_GDP = "0"
+B_AVG = ".125"
+
+
+[[person]]
+name.last = "Marchio"
+name.given = "Frank"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "14"
+B_AB = "17"
+B_R = "1"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "1"
+B_GDP = "1"
+B_AVG = ".118"
+
+
+[[person]]
+name.last = "Stanek"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "30"
+B_AB = "45"
+B_R = "3"
+B_H = "5"
+B_TB = "6"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "5"
+B_SO = "13"
+B_GDP = "0"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Grimsley"
+name.given = "Ross"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "22"
+B_AB = "27"
+B_R = "0"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "5"
+B_GDP = "1"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Spencer"
+name.given = "George"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "50"
+B_AB = "18"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "10"
+B_GDP = "0"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Freeman"
+name.given = "Mark"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "30"
+B_AB = "74"
+B_R = "2"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "6"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "1"
+B_RBI = "3"
+B_SO = "25"
+B_GDP = "3"
+B_AVG = ".108"
+
+
+[[person]]
+name.last = "Held"
+name.given = "Melvin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "21"
+B_AB = "30"
+B_R = "1"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "9"
+B_GDP = "2"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Bowman"
+name.given = "Roger"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "10"
+B_AB = "10"
+B_R = "1"
+B_H = "1"
+B_TB = "2"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "4"
+B_GDP = "0"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Burnette"
+name.given = "Wallace"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "20"
+B_AB = "42"
+B_R = "4"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "2"
+B_RBI = "1"
+B_SO = "17"
+B_GDP = "1"
+B_AVG = ".095"
+
+
+[[person]]
+name.last = "Woodeshick"
+name.given = "Harold"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "26"
+B_AB = "57"
+B_R = "4"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "3"
+B_HP = "0"
+B_RBI = "3"
+B_SO = "26"
+B_GDP = "0"
+B_AVG = ".088"
+
+
+[[person]]
+name.last = "Willey"
+name.given = "Carlton"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "46"
+B_AB = "36"
+B_R = "5"
+B_H = "3"
+B_TB = "4"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "18"
+B_GDP = "0"
+B_AVG = ".083"
+
+
+[[person]]
+name.last = "Cave"
+name.given = "Paul"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "44"
+B_AB = "37"
+B_R = "3"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "14"
+B_GDP = "0"
+B_AVG = ".081"
+
+
+[[person]]
+name.last = "Melliere"
+name.given = "Floyd"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "27"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "18"
+[person.playing.totals]
+B_G = "45"
+B_AB = "13"
+B_R = "1"
+B_H = "1"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "1"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "1"
+B_RBI = "2"
+B_SO = "7"
+B_GDP = "0"
+B_AVG = ".077"
+
+
+[[person]]
+name.last = "Tomanek"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "13"
+B_AB = "13"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "2"
+B_RBI = "0"
+B_SO = "3"
+B_GDP = "0"
+B_AVG = ".077"
+
+
+[[person]]
+name.last = "Pearce"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "34"
+B_AB = "54"
+B_R = "2"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "4"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "29"
+B_GDP = "1"
+B_AVG = ".074"
+
+
+[[person]]
+name.last = "Moford"
+name.given = "Herbert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "40"
+B_AB = "42"
+B_R = "4"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "12"
+B_GDP = "0"
+B_AVG = ".071"
+
+
+[[person]]
+name.last = "Tiefenauer"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "47"
+B_AB = "28"
+B_R = "0"
+B_H = "2"
+B_TB = "3"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "5"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "13"
+B_GDP = "0"
+B_AVG = ".071"
+
+
+[[person]]
+name.last = "Burnside"
+name.given = "Peter"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "22"
+B_AB = "35"
+B_R = "1"
+B_H = "2"
+B_TB = "4"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "4"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "15"
+B_GDP = "0"
+B_AVG = ".057"
+
+
+[[person]]
+name.last = "Minnick"
+name.given = "Donald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "19"
+B_AB = "18"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "2"
+B_SO = "4"
+B_GDP = "1"
+B_AVG = ".056"
+
+
+[[person]]
+name.last = "Giggie"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "20"
+B_AB = "21"
+B_R = "3"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "7"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "5"
+B_GDP = "0"
+B_AVG = ".048"
+
+
+[[person]]
+name.last = "Aguirre"
+name.given = "Henry"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "16"
+B_AB = "49"
+B_R = "2"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "3"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "23"
+B_GDP = "0"
+B_AVG = ".041"
+
+
+[[person]]
+name.last = "Maranda"
+name.given = "Georges"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "35"
+B_AB = "30"
+B_R = "1"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "1"
+B_SO = "12"
+B_GDP = "1"
+B_AVG = ".033"
+
+
+[[person]]
+name.last = "Bradford"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "51"
+B_AB = "15"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "2"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "9"
+B_GDP = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Wheat"
+name.given = "Leroy"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "38"
+B_AB = "11"
+B_R = "1"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "6"
+B_GDP = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Ceplo"
+name.given = "John"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "20"
+B_AB = "8"
+B_R = "3"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "1"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "2"
+B_GDP = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Mauriello"
+name.given = "Ralph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "10"
+B_AB = "13"
+B_R = "2"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "4"
+B_GDP = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Strahs"
+name.given = "Richard"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "16"
+B_AB = "5"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "2"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "1"
+B_GDP = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Anthony"
+name.given = "O. Lee"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+B_G = "7"
+[[person.playing.split]]
+team.name = "Louisville"
+B_G = "9"
+[person.playing.totals]
+B_G = "16"
+B_AB = "3"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "2"
+B_GDP = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Fernando"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "12"
+B_AB = "3"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "1"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "1"
+B_GDP = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Wild"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "10"
+B_AB = "3"
+B_R = "0"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SH = "0"
+B_SF = "0"
+B_SB = "0"
+B_BB = "0"
+B_HP = "0"
+B_RBI = "0"
+B_SO = "0"
+B_GDP = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Bruce"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Coe"
+name.given = "Harry"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "3"
+B_AB = "1"
+B_AVG = "1.000"
+
+
+[[person]]
+name.last = "Fletcher"
+name.given = "Vanoide"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "8"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Lewis"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Sarna"
+name.given = "Thomas"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "7"
+B_AB = "15"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Simmons"
+name.given = "Max"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "8"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Stump"
+name.given = "James`"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "5"
+B_AB = "5"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Witucki"
+name.given = "Ronald"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "7"
+B_AB = "24"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Wojey"
+name.given = "Peter"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Charleston"
+[person.playing.totals]
+B_G = "6"
+B_AB = "7"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Burtschy"
+name.given = "Edward"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "9"
+B_AB = "6"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Houk"
+name.given = "Ralph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "1"
+B_AB = "4"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "McDonald"
+name.given = "Thomas"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Denver"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Biskup"
+name.given = "Frank"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "6"
+B_AB = "8"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Melton"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Riggenbach"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Indianapolis"
+[person.playing.totals]
+B_G = "4"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Chinique"
+name.given = "Oscar"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "1"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Currie"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "5"
+B_AB = "3"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Enoa"
+name.given = "Rafael"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "9"
+B_AB = "10"
+B_AVG = ".100"
+
+
+[[person]]
+name.last = "Isaac"
+name.given = "John"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "8"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Jenks"
+name.given = "Jesus (Lovio)"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "3"
+B_AB = "4"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Lopez"
+name.given = "Joseph"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "5"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Morales"
+name.given = "Luis"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "3"
+B_AB = "4"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Mossor"
+name.given = "Earl"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Nakamura"
+name.given = "Jose"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "3"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Napoles"
+name.given = "Anthony"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Perez"
+name.given = "Modesto"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "6"
+B_AB = "9"
+B_AVG = ".444"
+
+
+[[person]]
+name.last = "Pleis"
+name.given = "William"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "4"
+B_AB = "7"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Robertson"
+name.given = "Donald"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "5"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Rotblatt"
+name.given = "Marvin"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Rubinstein"
+name.given = "Dario"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "8"
+B_AB = "7"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Stendel"
+name.given = "Marvin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "4"
+B_AB = "4"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Suarez"
+name.given = "Olmedo"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "White"
+name.given = "Harold"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Louisville"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Garcia"
+name.given = "David"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "5"
+B_AB = "3"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Margoneri"
+name.given = "Joseph"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "7"
+B_AB = "10"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Monzant"
+name.given = "Ramon"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "4"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Pruett"
+name.given = "William T."
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "2"
+B_AB = "2"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Roberts"
+name.given = "Neil"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "2"
+B_AB = "1"
+B_AVG = "1.000"
+
+
+[[person]]
+name.last = "Thomas"
+name.given = "Valmy"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Minneapolis"
+[person.playing.totals]
+B_G = "3"
+B_AB = "5"
+B_AVG = ".400"
+
+
+[[person]]
+name.last = "Arroyo"
+name.given = "Luis"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "5"
+B_AB = "9"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Benson"
+name.given = "Vernon"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "1"
+B_AB = "4"
+B_AVG = ".500"
+
+
+[[person]]
+name.last = "Clear"
+name.given = "E. Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "3"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Gaston"
+name.given = "Hiram"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "4"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Muffett"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Omaha"
+[person.playing.totals]
+B_G = "7"
+B_AB = "7"
+B_AVG = ".143"
+
+
+[[person]]
+name.last = "Darden"
+name.given = "William"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "5"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Koranda"
+name.given = "James"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "7"
+B_AB = "18"
+B_AVG = ".111"
+
+
+[[person]]
+name.last = "Kump"
+name.given = "Ronald"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "7"
+B_AB = "2"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Nicolis"
+name.given = "Peter"
+description.bats = "L"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "5"
+B_AB = "4"
+B_AVG = ".250"
+
+
+[[person]]
+name.last = "Roberson"
+name.given = "Marvin"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "4"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Rodriguez"
+name.given = "Miguel"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Scannelli"
+name.given = "Frank"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "1"
+B_AB = "1"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Spooner"
+name.given = "Karl"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "St. Paul"
+[person.playing.totals]
+B_G = "4"
+B_AB = "3"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Bicknell"
+name.given = "Charles"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "2"
+B_AB = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Hallgren"
+name.given = "Arnold"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "7"
+B_AB = "9"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Nichols"
+name.given = "Chester"
+description.bats = "S"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "5"
+B_AB = "6"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "Trowbridge"
+name.given = "Robert"
+[[person.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Wichita"
+[person.playing.totals]
+B_G = "8"
+B_AB = "16"
+B_AVG = ".125"

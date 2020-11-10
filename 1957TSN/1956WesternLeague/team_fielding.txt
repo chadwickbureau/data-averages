@@ -1,0 +1,134 @@
+[[team]]
+name = "Des Moines"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "140"
+F_PB = "19"
+F_PO = "3573"
+F_A = "1479"
+F_E = "184"
+F_PCT = ".965"
+F_TP = "0"
+
+
+[[team]]
+name = "Lincoln"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "149"
+F_PB = "21"
+F_PO = "3655"
+F_A = "1506"
+F_E = "193"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Pueblo"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "125"
+F_PB = "31"
+F_PO = "3524"
+F_A = "1330"
+F_E = "190"
+F_PCT = ".962"
+F_TP = "1"
+
+
+[[team]]
+name = "Colorado Springs"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "110"
+F_PB = "27"
+F_PO = "3567"
+F_A = "1416"
+F_E = "207"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "113"
+F_PB = "20"
+F_PO = "3571"
+F_A = "1351"
+F_E = "209"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Sioux City"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "113"
+F_PB = "29"
+F_PO = "3526"
+F_A = "1474"
+F_E = "229"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "Albuquerque"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_DP = "136"
+F_PB = "24"
+F_PO = "3599"
+F_A = "1519"
+F_E = "236"
+F_PCT = ".956"
+F_TP = "0"
+
+
+[[team]]
+name = "Amarillo"
+[[team.playing]]
+season = "1956"
+league.name = "Western League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "123"
+F_PB = "23"
+F_PO = "3569"
+F_A = "1430"
+F_E = "234"
+F_PCT = ".955"
+F_TP = "1"

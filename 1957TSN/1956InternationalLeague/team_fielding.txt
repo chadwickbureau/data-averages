@@ -1,0 +1,134 @@
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_DP = "150"
+F_PB = "10"
+F_PO = "3783"
+F_A = "1620"
+F_E = "123"
+F_PCT = ".978"
+F_TP = "0"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "165"
+F_PB = "12"
+F_PO = "3919"
+F_A = "1624"
+F_E = "131"
+F_PCT = ".977"
+F_TP = "1"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_DP = "131"
+F_PB = "9"
+F_PO = "3890"
+F_A = "1519"
+F_E = "138"
+F_PCT = ".975"
+F_TP = "0"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_DP = "164"
+F_PB = "2"
+F_PO = "3918"
+F_A = "1690"
+F_E = "144"
+F_PCT = ".975"
+F_TP = "2"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "140"
+F_PB = "10"
+F_PO = "3900"
+F_A = "1522"
+F_E = "152"
+F_PCT = ".973"
+F_TP = "0"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_DP = "155"
+F_PB = "13"
+F_PO = "3904"
+F_A = "1627"
+F_E = "161"
+F_PCT = ".972"
+F_TP = "1"
+
+
+[[team]]
+name = "Miami"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_DP = "166"
+F_PB = "14"
+F_PO = "3914"
+F_A = "1565"
+F_E = "163"
+F_PCT = ".971"
+F_TP = "0"
+
+
+[[team]]
+name = "Havana"
+[[team.playing]]
+season = "1956"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "146"
+F_PB = "11"
+F_PO = "3981"
+F_A = "1623"
+F_E = "185"
+F_PCT = ".968"
+F_TP = "0"

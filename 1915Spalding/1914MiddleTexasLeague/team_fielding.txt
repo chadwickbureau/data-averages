@@ -1,0 +1,82 @@
+[[team]]
+name = "Temple"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "81"
+F_PO = "2105"
+F_A = "965"
+F_E = "246"
+F_PCT = ".923"
+
+
+[[team]]
+name = "Georgetown"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "81"
+F_PO = "2094"
+F_A = "866"
+F_E = "268"
+F_PCT = ".917"
+
+
+[[team]]
+name = "Brenham"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "85"
+F_PO = "2218"
+F_A = "743"
+F_E = "260"
+F_PCT = ".922"
+
+
+[[team]]
+name = "Belton"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "86"
+F_PO = "2228"
+F_A = "866"
+F_E = "284"
+F_PCT = ".933"
+
+
+[[team]]
+name = "Lampasas"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "86"
+F_PO = "2170"
+F_A = "938"
+F_E = "249"
+F_PCT = ".896"
+
+
+[[team]]
+name = "Bartlett"
+[[team.playing]]
+season = "1914"
+league.name = "Middle Texas League"
+phase = "regular"
+[team.playing.totals]
+F_G = "81"
+F_PO = "2109"
+F_A = "929"
+F_E = "254"
+F_PCT = ".923"

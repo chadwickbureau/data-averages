@@ -1,0 +1,94 @@
+[[team]]
+name = "Macon"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "119"
+B_AB = "3865"
+B_R = "441"
+B_H = "1018"
+B_SH = "157"
+B_SB = "134"
+B_AVG = ".263"
+
+
+[[team]]
+name = "Savannah"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3824"
+B_R = "443"
+B_H = "960"
+B_SH = "191"
+B_SB = "204"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Albany"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3866"
+B_R = "415"
+B_H = "934"
+B_SH = "169"
+B_SB = "140"
+B_AVG = ".242"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3891"
+B_R = "403"
+B_H = "938"
+B_SH = "165"
+B_SB = "210"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3920"
+B_R = "343"
+B_H = "921"
+B_SH = "131"
+B_SB = "143"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Jacksonville"
+[[team.playing]]
+season = "1913"
+league.name = "South Atlantic League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3567"
+B_R = "334"
+B_H = "799"
+B_SH = "157"
+B_SB = "113"
+B_AVG = ".224"

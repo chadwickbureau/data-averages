@@ -1,0 +1,134 @@
+[[team]]
+name = "New Bern"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "133"
+F_PB = "9"
+F_PO = "3629"
+F_A = "1584"
+F_E = "243"
+F_TP = "1"
+F_PCT = ".955"
+
+
+[[team]]
+name = "Wilson"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "150"
+F_PB = "28"
+F_PO = "3593"
+F_A = "1628"
+F_E = "251"
+F_TP = "1"
+F_PCT = ".954"
+
+
+[[team]]
+name = "Goldsboro"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "107"
+F_PB = "37"
+F_PO = "3610"
+F_A = "1617"
+F_E = "266"
+F_TP = "0"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Kinston"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "85"
+F_PB = "15"
+F_PO = "3540"
+F_A = "1469"
+F_E = "257"
+F_TP = "0"
+F_PCT = ".951"
+
+
+[[team]]
+name = "Greenville"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "98"
+F_PB = "29"
+F_PO = "3637"
+F_A = "1526"
+F_E = "273"
+F_TP = "0"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Roanoke Rapids"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "103"
+F_PB = "23"
+F_PO = "3607"
+F_A = "1492"
+F_E = "283"
+F_TP = "0"
+F_PCT = ".947"
+
+
+[[team]]
+name = "Rocky Mount"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "87"
+F_PB = "15"
+F_PO = "3657"
+F_A = "1478"
+F_E = "292"
+F_TP = "0"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Tarboro"
+[[team.playing]]
+season = "1949"
+league.name = "Coastal Plain League"
+phase = "regular"
+[team.playing.totals]
+F_G = "137"
+F_DP = "83"
+F_PB = "15"
+F_PO = "3503"
+F_A = "1383"
+F_E = "332"
+F_TP = "1"
+F_PCT = ".936"

@@ -1,0 +1,902 @@
+[[person]]
+name.last = "Brown"
+name.given = "C."
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "212"
+P_H = "39"
+P_R = "18"
+P_HP = "1"
+P_BB = "20"
+P_SO = "29"
+P_W = "2"
+P_L = "5"
+P_AVG = ".184"
+
+
+[[person]]
+name.last = "Ehmke"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "1106"
+P_H = "203"
+P_R = "71"
+P_HP = "11"
+P_BB = "94"
+P_SO = "195"
+P_W = "31"
+P_L = "7"
+P_AVG = ".184"
+
+
+[[person]]
+name.last = "Burns"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "753"
+P_H = "155"
+P_R = "57"
+P_HP = "4"
+P_BB = "44"
+P_SO = "43"
+P_W = "9"
+P_L = "10"
+P_AVG = ".206"
+
+
+[[person]]
+name.last = "Walker"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "1219"
+P_H = "263"
+P_R = "137"
+P_HP = "16"
+P_BB = "109"
+P_SO = "126"
+P_W = "25"
+P_L = "18"
+P_AVG = ".215"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "D."
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "395"
+P_H = "85"
+P_R = "39"
+P_HP = "4"
+P_BB = "32"
+P_SO = "66"
+P_W = "8"
+P_L = "8"
+P_AVG = ".218"
+
+
+[[person]]
+name.last = "Huenke"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "788"
+P_H = "175"
+P_R = "67"
+P_HP = "13"
+P_BB = "59"
+P_SO = "108"
+P_W = "18"
+P_L = "15"
+P_AVG = ".222"
+
+
+[[person]]
+name.last = "Buckles"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "1083"
+P_H = "242"
+P_R = "124"
+P_HP = "15"
+P_BB = "105"
+P_SO = "151"
+P_W = "21"
+P_L = "21"
+P_AVG = ".223"
+
+
+[[person]]
+name.last = "O'Connor"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "166"
+P_H = "37"
+P_R = "24"
+P_HP = "3"
+P_BB = "18"
+P_SO = "20"
+P_W = "2"
+P_L = "6"
+P_AVG = ".223"
+
+
+[[person]]
+name.last = "Friel"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "798"
+P_H = "179"
+P_R = "55"
+P_HP = "12"
+P_BB = "43"
+P_SO = "64"
+P_W = "16"
+P_L = "9"
+P_AVG = ".224"
+
+
+[[person]]
+name.last = "Wacher"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "151"
+P_H = "34"
+P_R = "14"
+P_HP = "5"
+P_BB = "22"
+P_SO = "22"
+P_W = "1"
+P_L = "6"
+P_AVG = ".225"
+
+
+[[person]]
+name.last = "Taylor"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "1082"
+P_H = "244"
+P_R = "90"
+P_HP = "7"
+P_BB = "76"
+P_SO = "123"
+P_W = "23"
+P_L = "16"
+P_AVG = ".226"
+
+
+[[person]]
+name.last = "Barnhardt"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "630"
+P_H = "142"
+P_R = "71"
+P_HP = "4"
+P_BB = "38"
+P_SO = "66"
+P_W = "12"
+P_L = "16"
+P_AVG = ".226"
+
+
+[[person]]
+name.last = "Bryant"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "203"
+P_H = "47"
+P_R = "25"
+P_HP = "2"
+P_BB = "21"
+P_SO = "25"
+P_W = "4"
+P_L = "4"
+P_AVG = ".231"
+
+
+[[person]]
+name.last = "Roth"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "506"
+P_H = "120"
+P_R = "60"
+P_HP = "7"
+P_BB = "39"
+P_SO = "43"
+P_W = "5"
+P_L = "11"
+P_AVG = ".237"
+
+
+[[person]]
+name.last = "Donohue"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "594"
+P_H = "141"
+P_R = "59"
+P_HP = "13"
+P_BB = "55"
+P_SO = "63"
+P_W = "11"
+P_L = "11"
+P_AVG = ".237"
+
+
+[[person]]
+name.last = "Beretski"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "828"
+P_H = "197"
+P_R = "101"
+P_HP = "7"
+P_BB = "121"
+P_SO = "110"
+P_W = "18"
+P_L = "17"
+P_AVG = ".238"
+
+
+[[person]]
+name.last = "Gerner"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "1002"
+P_H = "240"
+P_R = "117"
+P_HP = "17"
+P_BB = "86"
+P_SO = "126"
+P_W = "15"
+P_L = "23"
+P_AVG = ".240"
+
+
+[[person]]
+name.last = "Rapp"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "612"
+P_H = "147"
+P_R = "70"
+P_HP = "8"
+P_BB = "43"
+P_SO = "54"
+P_W = "10"
+P_L = "13"
+P_AVG = ".240"
+
+
+[[person]]
+name.last = "Sherry"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "669"
+P_H = "161"
+P_R = "86"
+P_HP = "2"
+P_BB = "51"
+P_SO = "61"
+P_W = "11"
+P_L = "17"
+P_AVG = ".241"
+
+
+[[person]]
+name.last = "Harned"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "816"
+P_H = "199"
+P_R = "76"
+P_HP = "12"
+P_BB = "30"
+P_SO = "87"
+P_W = "19"
+P_L = "16"
+P_AVG = ".244"
+
+
+[[person]]
+name.last = "Gingras"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "414"
+P_H = "103"
+P_R = "66"
+P_HP = "6"
+P_BB = "62"
+P_SO = "55"
+P_W = "7"
+P_L = "14"
+P_AVG = ".249"
+
+
+[[person]]
+name.last = "Ring"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "1080"
+P_H = "269"
+P_R = "120"
+P_HP = "7"
+P_BB = "96"
+P_SO = "166"
+P_W = "26"
+P_L = "15"
+P_AVG = ".249"
+
+
+[[person]]
+name.last = "Kutz"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "873"
+P_H = "218"
+P_R = "100"
+P_HP = "8"
+P_BB = "50"
+P_SO = "86"
+P_W = "16"
+P_L = "15"
+P_AVG = ".250"
+
+
+[[person]]
+name.last = "Boehler"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "268"
+P_H = "67"
+P_R = "31"
+P_HP = "2"
+P_BB = "23"
+P_SO = "31"
+P_W = "4"
+P_L = "4"
+P_AVG = ".250"
+
+
+[[person]]
+name.last = "Karpp"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "916"
+P_H = "230"
+P_R = "99"
+P_HP = "8"
+P_BB = "54"
+P_SO = "63"
+P_W = "17"
+P_L = "17"
+P_AVG = ".251"
+
+
+[[person]]
+name.last = "Devinney"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "883"
+P_H = "222"
+P_R = "111"
+P_HP = "21"
+P_BB = "71"
+P_SO = "81"
+P_W = "11"
+P_L = "20"
+P_AVG = ".251"
+
+
+[[person]]
+name.last = "Duchesnil"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "901"
+P_H = "233"
+P_R = "101"
+P_HP = "6"
+P_BB = "60"
+P_SO = "89"
+P_W = "23"
+P_L = "12"
+P_AVG = ".259"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "T."
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "482"
+P_H = "125"
+P_R = "51"
+P_HP = "1"
+P_BB = "31"
+P_SO = "47"
+P_W = "5"
+P_L = "12"
+P_AVG = ".259"
+
+
+[[person]]
+name.last = "Dougherty"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "664"
+P_H = "172"
+P_R = "87"
+P_HP = "4"
+P_BB = "89"
+P_SO = "123"
+P_W = "14"
+P_L = "15"
+P_AVG = ".259"
+
+
+[[person]]
+name.last = "Clermont"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "127"
+P_H = "33"
+P_R = "10"
+P_HP = "2"
+P_BB = "15"
+P_SO = "10"
+P_W = "2"
+P_L = "4"
+P_AVG = ".260"
+
+
+[[person]]
+name.last = "Fox"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "786"
+P_H = "206"
+P_R = "89"
+P_HP = "5"
+P_BB = "36"
+P_SO = "95"
+P_W = "16"
+P_L = "15"
+P_AVG = ".262"
+
+
+[[person]]
+name.last = "Frock"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "854"
+P_H = "224"
+P_R = "88"
+P_HP = "5"
+P_BB = "28"
+P_SO = "41"
+P_W = "16"
+P_L = "18"
+P_AVG = ".262"
+
+
+[[person]]
+name.last = "Wilhelm"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "818"
+P_H = "214"
+P_R = "100"
+P_HP = "3"
+P_BB = "54"
+P_SO = "92"
+P_W = "14"
+P_L = "19"
+P_AVG = ".262"
+
+
+[[person]]
+name.last = "Creager"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "683"
+P_H = "180"
+P_R = "74"
+P_HP = "10"
+P_BB = "56"
+P_SO = "61"
+P_W = "11"
+P_L = "18"
+P_AVG = ".264"
+
+
+[[person]]
+name.last = "Jordan"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "806"
+P_H = "214"
+P_R = "98"
+P_HP = "10"
+P_BB = "46"
+P_SO = "117"
+P_W = "12"
+P_L = "20"
+P_AVG = ".266"
+
+
+[[person]]
+name.last = "Caporal"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "659"
+P_H = "175"
+P_R = "76"
+P_HP = "4"
+P_BB = "63"
+P_SO = "76"
+P_W = "14"
+P_L = "17"
+P_AVG = ".266"
+
+
+[[person]]
+name.last = "Sitton"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "717"
+P_H = "193"
+P_R = "78"
+P_HP = "3"
+P_BB = "44"
+P_SO = "66"
+P_W = "14"
+P_L = "14"
+P_AVG = ".269"
+
+
+[[person]]
+name.last = "Beckvermit"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "615"
+P_H = "166"
+P_R = "79"
+P_HP = "6"
+P_BB = "67"
+P_SO = "61"
+P_W = "11"
+P_L = "18"
+P_AVG = ".270"
+
+
+[[person]]
+name.last = "Robbins"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "640"
+P_H = "173"
+P_R = "98"
+P_HP = "10"
+P_BB = "88"
+P_SO = "113"
+P_W = "13"
+P_L = "16"
+P_AVG = ".270"
+
+
+[[person]]
+name.last = "Helfrich"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "890"
+P_H = "242"
+P_R = "94"
+P_HP = "8"
+P_BB = "58"
+P_SO = "57"
+P_W = "21"
+P_L = "12"
+P_AVG = ".272"
+
+
+[[person]]
+name.last = "Kearns"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "211"
+P_H = "58"
+P_R = "39"
+P_HP = "3"
+P_BB = "24"
+P_SO = "16"
+P_W = "0"
+P_L = "8"
+P_AVG = ".275"
+
+
+[[person]]
+name.last = "Buck"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "247"
+P_H = "69"
+P_R = "31"
+P_HP = "5"
+P_BB = "13"
+P_SO = "18"
+P_W = "3"
+P_L = "6"
+P_AVG = ".279"
+
+
+[[person]]
+name.last = "Parsons"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "753"
+P_H = "211"
+P_R = "99"
+P_HP = "11"
+P_BB = "81"
+P_SO = "52"
+P_W = "14"
+P_L = "17"
+P_AVG = ".280"
+
+
+[[person]]
+name.last = "Smith"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "207"
+P_H = "59"
+P_R = "33"
+P_HP = "2"
+P_BB = "38"
+P_SO = "41"
+P_W = "2"
+P_L = "8"
+P_AVG = ".285"
+
+
+[[person]]
+name.last = "Dessau"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "881"
+P_H = "258"
+P_R = "132"
+P_HP = "16"
+P_BB = "82"
+P_SO = "97"
+P_W = "15"
+P_L = "20"
+P_AVG = ".293"
+
+
+[[person]]
+name.last = "Volz"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "405"
+P_H = "122"
+P_R = "59"
+P_HP = "3"
+P_BB = "42"
+P_SO = "47"
+P_W = "5"
+P_L = "15"
+P_AVG = ".301"
+
+
+[[person]]
+name.last = "Higgins"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "346"
+P_H = "105"
+P_R = "45"
+P_HP = "4"
+P_BB = "16"
+P_SO = "29"
+P_W = "5"
+P_L = "8"
+P_AVG = ".303"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "J."
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "150"
+P_H = "49"
+P_R = "22"
+P_HP = "1"
+P_BB = "6"
+P_SO = "6"
+P_W = "3"
+P_L = "7"
+P_AVG = ".327"
+
+
+[[person]]
+name.last = "Oberlin"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "254"
+P_H = "83"
+P_R = "54"
+P_HP = "2"
+P_BB = "21"
+P_SO = "22"
+P_W = "3"
+P_L = "7"
+P_AVG = ".327"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[person.playing.totals]
+P_AB = "143"
+P_H = "53"
+P_R = "28"
+P_HP = "5"
+P_BB = "24"
+P_SO = "19"
+P_W = "3"
+P_L = "6"
+P_AVG = ".370"

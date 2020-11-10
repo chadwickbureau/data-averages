@@ -1,0 +1,100 @@
+[[team]]
+name = "Dayton"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "123"
+F_PB = "12"
+F_PO = "3554"
+F_A = "1400"
+F_E = "167"
+F_TP = "0"
+F_PCT = ".967"
+
+
+[[team]]
+name = "Flint"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "128"
+F_PB = "13"
+F_PO = "3636"
+F_A = "1494"
+F_E = "179"
+F_TP = "0"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_DP = "131"
+F_PB = "20"
+F_PO = "3442"
+F_A = "1413"
+F_E = "170"
+F_TP = "0"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Grand Rapids"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "123"
+F_PB = "14"
+F_PO = "3515"
+F_A = "1410"
+F_E = "186"
+F_TP = "0"
+F_PCT = ".964"
+
+
+[[team]]
+name = "Muskegon"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "118"
+F_PB = "13"
+F_PO = "3553"
+F_A = "1559"
+F_E = "207"
+F_TP = "0"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Saginaw"
+[[team.playing]]
+season = "1949"
+league.name = "Central League"
+phase = "regular"
+[team.playing.totals]
+F_G = "138"
+F_DP = "100"
+F_PB = "12"
+F_PO = "3587"
+F_A = "1360"
+F_E = "217"
+F_TP = "1"
+F_PCT = ".958"

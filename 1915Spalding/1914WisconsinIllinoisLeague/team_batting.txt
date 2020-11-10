@@ -1,0 +1,174 @@
+[[team]]
+name = "Appleton"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4094"
+B_R = "549"
+B_H = "1051"
+B_2B = "182"
+B_3B = "31"
+B_HR = "39"
+B_TB = "1412"
+B_SH = "151"
+B_SB = "122"
+B_BB = "306"
+B_SO = "644"
+B_AVG = ".257"
+
+
+[[team]]
+name = "Oshkosh"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3990"
+B_R = "506"
+B_H = "1013"
+B_2B = "189"
+B_3B = "33"
+B_HR = "47"
+B_TB = "1409"
+B_SH = "167"
+B_SB = "166"
+B_BB = "324"
+B_SO = "636"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Madison"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4086"
+B_R = "516"
+B_H = "1025"
+B_2B = "182"
+B_3B = "25"
+B_HR = "36"
+B_TB = "1365"
+B_SH = "158"
+B_SB = "148"
+B_BB = "341"
+B_SO = "612"
+B_AVG = ".251"
+
+
+[[team]]
+name = "Green Bay"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "125"
+B_AB = "3995"
+B_R = "475"
+B_H = "952"
+B_2B = "165"
+B_3B = "42"
+B_HR = "43"
+B_TB = "1330"
+B_SH = "112"
+B_SB = "174"
+B_BB = "296"
+B_SO = "780"
+B_AVG = ".239"
+
+
+[[team]]
+name = "Racine"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3996"
+B_R = "443"
+B_H = "950"
+B_2B = "153"
+B_3B = "31"
+B_HR = "40"
+B_TB = "1285"
+B_SH = "186"
+B_SB = "164"
+B_BB = "352"
+B_SO = "587"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Marinette-Menominee"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3785"
+B_R = "408"
+B_H = "889"
+B_2B = "189"
+B_3B = "41"
+B_HR = "23"
+B_TB = "1179"
+B_SH = "185"
+B_SB = "181"
+B_BB = "338"
+B_SO = "603"
+B_AVG = ".235"
+
+
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4010"
+B_R = "422"
+B_H = "918"
+B_2B = "127"
+B_3B = "49"
+B_HR = "21"
+B_TB = "1206"
+B_SH = "160"
+B_SB = "144"
+B_BB = "403"
+B_SO = "645"
+B_AVG = ".229"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1914"
+league.name = "Wisconsin-Illinois League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "4029"
+B_R = "394"
+B_H = "883"
+B_2B = "118"
+B_3B = "22"
+B_HR = "33"
+B_TB = "1114"
+B_SH = "123"
+B_SB = "154"
+B_BB = "360"
+B_SO = "701"
+B_AVG = ".219"

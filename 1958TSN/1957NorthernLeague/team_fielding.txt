@@ -1,0 +1,134 @@
+[[team]]
+name = "Winnipeg"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "123"
+F_PB = "20"
+F_PO = "3165"
+F_A = "1341"
+F_E = "155"
+F_PCT = ".967"
+F_TP = "1"
+
+
+[[team]]
+name = "Wausau"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "122"
+F_PB = "14"
+F_PO = "3082"
+F_A = "1339"
+F_E = "164"
+F_PCT = ".964"
+F_TP = "0"
+
+
+[[team]]
+name = "Fargo-Moorhead"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "122"
+F_DP = "93"
+F_PB = "14"
+F_PO = "3127"
+F_A = "1234"
+F_E = "179"
+F_PCT = ".961"
+F_TP = "0"
+
+
+[[team]]
+name = "St. Cloud"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "123"
+F_DP = "101"
+F_PB = "22"
+F_PO = "3212"
+F_A = "1341"
+F_E = "193"
+F_PCT = ".959"
+F_TP = "1"
+
+
+[[team]]
+name = "Aberdeen"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "121"
+F_DP = "110"
+F_PB = "17"
+F_PO = "3133"
+F_A = "1396"
+F_E = "195"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Duluth-Superior"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "107"
+F_PB = "13"
+F_PO = "3193"
+F_A = "1411"
+F_E = "219"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Eau Claire"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "139"
+F_PB = "27"
+F_PO = "3217"
+F_A = "1393"
+F_E = "234"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Grand Forks"
+[[team.playing]]
+season = "1957"
+league.name = "Northern League"
+phase = "regular"
+[team.playing.totals]
+F_G = "125"
+F_DP = "82"
+F_PB = "29"
+F_PO = "3213"
+F_A = "1262"
+F_E = "228"
+F_PCT = ".952"
+F_TP = "0"

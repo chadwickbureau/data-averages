@@ -1,0 +1,398 @@
+[[team]]
+name = "Campeche"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "2.53"
+P_G = "115"
+P_CG = "51"
+P_SHO = "15"
+P_SV = "23"
+P_IP = "978.1"
+P_H = "990"
+P_R = "337"
+P_ER = "275"
+P_HR = "34"
+P_HP = "25"
+P_BB = "373"
+P_IBB = "21"
+P_SO = "534"
+P_WP = "34"
+P_BK = "1"
+
+
+[[team]]
+name = "Mexico City Reds"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "2.82"
+P_G = "114"
+P_CG = "52"
+P_SHO = "20"
+P_SV = "14"
+P_IP = "994"
+P_H = "998"
+P_R = "359"
+P_ER = "311"
+P_HR = "31"
+P_HP = "17"
+P_BB = "276"
+P_IBB = "29"
+P_SO = "412"
+P_WP = "25"
+P_BK = "2"
+
+
+[[team]]
+name = "Veracruz"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "2.92"
+P_G = "114"
+P_CG = "44"
+P_SHO = "21"
+P_SV = "15"
+P_IP = "952.2"
+P_H = "856"
+P_R = "364"
+P_ER = "309"
+P_HR = "23"
+P_HP = "20"
+P_BB = "374"
+P_IBB = "27"
+P_SO = "488"
+P_WP = "46"
+P_BK = "6"
+
+
+[[team]]
+name = "Tabasco"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "2.97"
+P_G = "115"
+P_CG = "51"
+P_SHO = "7"
+P_SV = "9"
+P_IP = "971"
+P_H = "946"
+P_R = "431"
+P_ER = "320"
+P_HR = "29"
+P_HP = "40"
+P_BB = "376"
+P_IBB = "31"
+P_SO = "493"
+P_WP = "40"
+P_BK = "2"
+
+
+[[team]]
+name = "Mexico City Tigers"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.05"
+P_G = "117"
+P_CG = "32"
+P_SHO = "12"
+P_SV = "17"
+P_IP = "993"
+P_H = "978"
+P_R = "389"
+P_ER = "336"
+P_HR = "33"
+P_HP = "27"
+P_BB = "290"
+P_IBB = "26"
+P_SO = "452"
+P_WP = "45"
+P_BK = "1"
+
+
+[[team]]
+name = "Tampico"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.06"
+P_G = "115"
+P_CG = "32"
+P_SHO = "16"
+P_SV = "17"
+P_IP = "974"
+P_H = "883"
+P_R = "421"
+P_ER = "331"
+P_HR = "23"
+P_HP = "17"
+P_BB = "469"
+P_IBB = "40"
+P_SO = "446"
+P_WP = "37"
+P_BK = "4"
+
+
+[[team]]
+name = "Ciudad Juarez"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.22"
+P_G = "118"
+P_CG = "43"
+P_SHO = "12"
+P_SV = "17"
+P_IP = "992"
+P_H = "944"
+P_R = "419"
+P_ER = "355"
+P_HR = "35"
+P_HP = "40"
+P_BB = "431"
+P_IBB = "18"
+P_SO = "550"
+P_WP = "31"
+P_BK = "2"
+
+
+[[team]]
+name = "Yucatan"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.24"
+P_G = "116"
+P_CG = "47"
+P_SHO = "19"
+P_SV = "11"
+P_IP = "965.1"
+P_H = "934"
+P_R = "424"
+P_ER = "348"
+P_HR = "37"
+P_HP = "32"
+P_BB = "364"
+P_IBB = "28"
+P_SO = "423"
+P_WP = "33"
+P_BK = "0"
+
+
+[[team]]
+name = "Coatzacoalcos"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.25"
+P_G = "117"
+P_CG = "42"
+P_SHO = "15"
+P_SV = "15"
+P_IP = "975.2"
+P_H = "968"
+P_R = "407"
+P_ER = "352"
+P_HR = "28"
+P_HP = "24"
+P_BB = "314"
+P_IBB = "54"
+P_SO = "539"
+P_WP = "33"
+P_BK = "2"
+
+
+[[team]]
+name = "Monterrey"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.30"
+P_G = "117"
+P_CG = "44"
+P_SHO = "10"
+P_SV = "9"
+P_IP = "968"
+P_H = "982"
+P_R = "466"
+P_ER = "355"
+P_HR = "36"
+P_HP = "27"
+P_BB = "401"
+P_IBB = "30"
+P_SO = "474"
+P_WP = "30"
+P_BK = "4"
+
+
+[[team]]
+name = "Nuevo Laredo"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.35"
+P_G = "118"
+P_CG = "32"
+P_SHO = "12"
+P_SV = "16"
+P_IP = "979.2"
+P_H = "955"
+P_R = "439"
+P_ER = "365"
+P_HR = "32"
+P_HP = "33"
+P_BB = "421"
+P_IBB = "41"
+P_SO = "411"
+P_WP = "40"
+P_BK = "2"
+
+
+[[team]]
+name = "Saltillo"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.62"
+P_G = "118"
+P_CG = "46"
+P_SHO = "8"
+P_SV = "15"
+P_IP = "980.1"
+P_H = "979"
+P_R = "465"
+P_ER = "394"
+P_HR = "59"
+P_HP = "42"
+P_BB = "381"
+P_IBB = "37"
+P_SO = "453"
+P_WP = "25"
+P_BK = "0"
+
+
+[[team]]
+name = "Poza Rica"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.73"
+P_G = "114"
+P_CG = "46"
+P_SHO = "7"
+P_SV = "8"
+P_IP = "949.2"
+P_H = "1042"
+P_R = "472"
+P_ER = "394"
+P_HR = "29"
+P_HP = "36"
+P_BB = "307"
+P_IBB = "29"
+P_SO = "384"
+P_WP = "28"
+P_BK = "3"
+
+
+[[team]]
+name = "Aguascalientes"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.74"
+P_G = "118"
+P_CG = "48"
+P_SHO = "4"
+P_SV = "14"
+P_IP = "991.1"
+P_H = "1058"
+P_R = "505"
+P_ER = "412"
+P_HR = "54"
+P_HP = "22"
+P_BB = "386"
+P_IBB = "27"
+P_SO = "472"
+P_WP = "18"
+P_BK = "2"
+
+
+[[team]]
+name = "Monclova"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "3.97"
+P_G = "118"
+P_CG = "32"
+P_SHO = "6"
+P_SV = "14"
+P_IP = "994"
+P_H = "965"
+P_R = "515"
+P_ER = "439"
+P_HR = "48"
+P_HP = "38"
+P_BB = "497"
+P_IBB = "15"
+P_SO = "478"
+P_WP = "65"
+P_BK = "1"
+
+
+[[team]]
+name = "Leon"
+[[team.playing]]
+season = "1983"
+league.name = "Mexican League"
+phase = "regular"
+[team.playing.totals]
+P_ERA = "4.32"
+P_G = "116"
+P_CG = "30"
+P_SHO = "11"
+P_SV = "19"
+P_IP = "978.1"
+P_H = "1038"
+P_R = "550"
+P_ER = "470"
+P_HR = "63"
+P_HP = "22"
+P_BB = "444"
+P_IBB = "36"
+P_SO = "402"
+P_WP = "55"
+P_BK = "2"

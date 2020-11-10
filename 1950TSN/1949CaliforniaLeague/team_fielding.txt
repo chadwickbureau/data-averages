@@ -1,0 +1,134 @@
+[[team]]
+name = "Stockton"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "109"
+F_PB = "18"
+F_PO = "3611"
+F_A = "1619"
+F_E = "246"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Bakersfield"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_DP = "130"
+F_PB = "14"
+F_PO = "3611"
+F_A = "1483"
+F_E = "241"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Santa Barbara"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "117"
+F_PB = "45"
+F_PO = "3656"
+F_A = "1526"
+F_E = "247"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Ventura"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "133"
+F_PB = "15"
+F_PO = "3760"
+F_A = "1566"
+F_E = "265"
+F_PCT = ".953"
+F_TP = "0"
+
+
+[[team]]
+name = "San Jose"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "105"
+F_PB = "20"
+F_PO = "3744"
+F_A = "1590"
+F_E = "271"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Fresno"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "127"
+F_PB = "20"
+F_PO = "3666"
+F_A = "1532"
+F_E = "266"
+F_PCT = ".951"
+F_TP = "0"
+
+
+[[team]]
+name = "Visalia"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "152"
+F_PB = "34"
+F_PO = "3603"
+F_A = "1479"
+F_E = "264"
+F_PCT = ".951"
+F_TP = "2"
+
+
+[[team]]
+name = "Modesto"
+[[team.playing]]
+season = "1949"
+league.name = "California League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "99"
+F_PB = "24"
+F_PO = "3566"
+F_A = "1444"
+F_E = "326"
+F_PCT = ".939"
+F_TP = "0"

@@ -1,0 +1,164 @@
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "48"
+R_T = "0"
+R_PCT = ".628"
+R_RANK = "1"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "54"
+R_T = "1"
+R_PCT = ".578"
+R_RANK = "2"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "68"
+R_L = "60"
+R_T = "0"
+R_PCT = ".531"
+R_RANK = "3"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "67"
+R_T = "0"
+R_PCT = ".485"
+R_RANK = "4"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "61"
+R_L = "65"
+R_T = "1"
+R_PCT = ".484"
+R_RANK = "5"
+
+
+[[team]]
+name = "Rockford"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "regular"
+[team.playing.totals]
+R_W = "38"
+R_L = "91"
+R_T = "0"
+R_PCT = ".295"
+R_RANK = "6"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "3"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Burlington"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "0"
+R_L = "3"
+R_PCT = ".000"
+R_RANK = "2"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "3"
+R_L = "0"
+R_PCT = "1.000"
+R_RANK = "1"
+
+
+[[team]]
+name = "Keokuk"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "0"
+R_L = "3"
+R_PCT = ".000"
+R_RANK = "2"
+
+
+[[team]]
+name = "Kewanee"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1949"
+league.name = "Central Association"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

@@ -1,0 +1,94 @@
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4732"
+B_H = "1158"
+B_AVG = ".245"
+
+
+[[team]]
+name = "Topeka"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4555"
+B_H = "1112"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Oklahoma City"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4595"
+B_H = "1105"
+B_AVG = ".240"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4701"
+B_H = "1120"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Leavenworth"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4526"
+B_H = "1066"
+B_AVG = ".236"
+
+
+[[team]]
+name = "Webb City"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4508"
+B_H = "1051"
+B_AVG = ".223"
+
+
+[[team]]
+name = "Hutchinson"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4627"
+B_H = "1072"
+B_AVG = ".232"
+
+
+[[team]]
+name = "Joplin"
+[[team.playing]]
+season = "1906"
+league.name = "Western Association"
+phase = "regular"
+[team.playing.totals]
+B_AB = "4632"
+B_H = "1060"
+B_AVG = ".229"

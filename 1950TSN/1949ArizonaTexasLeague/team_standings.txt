@@ -1,0 +1,164 @@
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "94"
+R_L = "55"
+R_T = "1"
+R_PCT = ".631"
+R_RANK = "1"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "92"
+R_L = "58"
+R_T = "0"
+R_PCT = ".613"
+R_RANK = "2"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "74"
+R_L = "76"
+R_T = "0"
+R_PCT = ".493"
+R_RANK = "3"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "83"
+R_T = "0"
+R_PCT = ".447"
+R_RANK = "4"
+
+
+[[team]]
+name = "Bisbee-Douglas"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "66"
+R_L = "83"
+R_T = "1"
+R_PCT = ".443"
+R_RANK = "5"
+
+
+[[team]]
+name = "Globe-Miami"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "94"
+R_T = "0"
+R_PCT = ".373"
+R_RANK = "6"
+
+
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Tucson"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "semifinal"
+division = "Semifinal 1"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Juarez"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "semifinal"
+division = "Semifinal 2"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"
+
+
+[[team]]
+name = "El Paso"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "final"
+[team.playing.totals]
+R_W = "4"
+R_L = "2"
+R_PCT = ".667"
+R_RANK = "1"
+
+
+[[team]]
+name = "Phoenix"
+[[team.playing]]
+season = "1949"
+league.name = "Arizona-Texas League"
+phase = "final"
+[team.playing.totals]
+R_W = "2"
+R_L = "4"
+R_PCT = ".333"
+R_RANK = "2"

@@ -1,0 +1,100 @@
+[[team]]
+name = "Durham"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "124"
+F_PB = "14"
+F_PO = "3651"
+F_A = "1394"
+F_E = "194"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "High Point-Thomasville"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "136"
+F_PB = "16"
+F_PO = "3633"
+F_A = "1651"
+F_E = "205"
+F_PCT = ".962"
+F_TP = "0"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_DP = "95"
+F_PB = "17"
+F_PO = "3597"
+F_A = "1389"
+F_E = "233"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Wilson"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "135"
+F_PB = "23"
+F_PO = "3541"
+F_A = "1493"
+F_E = "238"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Greensboro"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "111"
+F_PB = "49"
+F_PO = "3641"
+F_A = "1416"
+F_E = "245"
+F_PCT = ".954"
+F_TP = "0"
+
+
+[[team]]
+name = "Winston-Salem"
+[[team.playing]]
+season = "1957"
+league.name = "Carolina League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_DP = "127"
+F_PB = "27"
+F_PO = "3643"
+F_A = "1428"
+F_E = "258"
+F_PCT = ".952"
+F_TP = "0"

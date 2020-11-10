@@ -1,0 +1,150 @@
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4072"
+F_A = "1854"
+F_E = "202"
+F_TC = "6128"
+F_PB = "13"
+F_DP = "142"
+F_LOB = "1088"
+F_PCT = ".967"
+F_TP = "0"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "155"
+F_PO = "4077"
+F_A = "1859"
+F_E = "247"
+F_TC = "6183"
+F_PB = "17"
+F_DP = "123"
+F_LOB = "1135"
+F_PCT = ".960"
+F_TP = "0"
+
+
+[[team]]
+name = "Jersey City"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_PO = "3997"
+F_A = "1856"
+F_E = "249"
+F_TC = "6102"
+F_PB = "15"
+F_DP = "96"
+F_LOB = "1086"
+F_PCT = ".959"
+F_TP = "0"
+
+
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_PO = "4086"
+F_A = "1788"
+F_E = "268"
+F_TC = "6142"
+F_PB = "12"
+F_DP = "113"
+F_LOB = "1090"
+F_PCT = ".957"
+F_TP = "2"
+
+
+[[team]]
+name = "Akron"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "152"
+F_PO = "3960"
+F_A = "1954"
+F_E = "276"
+F_TC = "6190"
+F_PB = "24"
+F_DP = "126"
+F_LOB = "1012"
+F_PCT = ".955"
+F_TP = "0"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_PO = "3918"
+F_A = "1937"
+F_E = "298"
+F_TC = "6153"
+F_PB = "16"
+F_DP = "125"
+F_LOB = "1099"
+F_PCT = ".952"
+F_TP = "0"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "151"
+F_PO = "3882"
+F_A = "1934"
+F_E = "328"
+F_TC = "6144"
+F_PB = "28"
+F_DP = "98"
+F_LOB = "1000"
+F_PCT = ".947"
+F_TP = "0"
+
+
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1920"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "150"
+F_PO = "3863"
+F_A = "1923"
+F_E = "323"
+F_TC = "6109"
+F_PB = "16"
+F_DP = "110"
+F_LOB = "1133"
+F_PCT = ".947"
+F_TP = "0"

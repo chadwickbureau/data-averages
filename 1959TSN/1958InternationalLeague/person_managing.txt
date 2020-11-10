@@ -1,0 +1,115 @@
+[[person]]
+name.last = "Bryant"
+name.given = "Claiborne"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Montreal"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Walker"
+name.given = "Fred (Dixie)"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Toronto"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Deal"
+name.given = "Ellis (Cot)"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Rochester"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "King"
+name.given = "Clyde"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Columbus"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Farrell"
+name.given = "M. Kerby"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Miami"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Lopat"
+name.given = "Edmund"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Richmond"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Cavarretta"
+name.given = "Philip"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Buffalo"
+S_ORDER = "0"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Reyes"
+name.given = "Napoleon"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Havana"
+S_ORDER = "1"
+[person.managing.totals]
+
+
+[[person]]
+name.last = "Pacheco"
+name.given = "Antonio"
+[[person.managing]]
+season = "1958"
+league.name = "International League"
+phase = "regular"
+[[person.managing.split]]
+team.name = "Havana"
+S_ORDER = "2"
+[person.managing.totals]

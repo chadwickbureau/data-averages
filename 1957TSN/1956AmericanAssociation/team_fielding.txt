@@ -1,0 +1,134 @@
+[[team]]
+name = "Charleston"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "135"
+F_PB = "17"
+F_PO = "3944"
+F_A = "1690"
+F_E = "144"
+F_PCT = ".975"
+F_TP = "0"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "148"
+F_PB = "23"
+F_PO = "3906"
+F_A = "1590"
+F_E = "144"
+F_PCT = ".974"
+F_TP = "0"
+
+
+[[team]]
+name = "Omaha"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "118"
+F_PB = "24"
+F_PO = "3933"
+F_A = "1536"
+F_E = "160"
+F_PCT = ".972"
+F_TP = "0"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "149"
+F_PB = "18"
+F_PO = "3928"
+F_A = "1601"
+F_E = "168"
+F_PCT = ".971"
+F_TP = "0"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "158"
+F_PB = "14"
+F_PO = "3899"
+F_A = "1631"
+F_E = "173"
+F_PCT = ".970"
+F_TP = "0"
+
+
+[[team]]
+name = "Denver"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "154"
+F_PB = "10"
+F_PO = "3987"
+F_A = "1720"
+F_E = "188"
+F_PCT = ".968"
+F_TP = "1"
+
+
+[[team]]
+name = "Wichita"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "153"
+F_DP = "144"
+F_PB = "21"
+F_PO = "3959"
+F_A = "1560"
+F_E = "184"
+F_PCT = ".968"
+F_TP = "0"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1956"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+F_G = "154"
+F_DP = "152"
+F_PB = "13"
+F_PO = "3939"
+F_A = "1760"
+F_E = "231"
+F_PCT = ".961"
+F_TP = "0"

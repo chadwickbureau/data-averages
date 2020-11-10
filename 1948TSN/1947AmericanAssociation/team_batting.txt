@@ -1,0 +1,286 @@
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5097"
+B_R = "775"
+P_R = "781"
+B_H = "1460"
+B_TB = "2061"
+B_2B = "235"
+B_3B = "45"
+B_HR = "92"
+B_SH = "117"
+B_SB = "28"
+B_LOB = "1196"
+B_AVG = ".286"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "4981"
+B_R = "852"
+P_R = "697"
+B_H = "1392"
+B_TB = "2062"
+B_2B = "226"
+B_3B = "78"
+B_HR = "96"
+B_SH = "92"
+B_SB = "115"
+B_LOB = "1153"
+B_AVG = ".279"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5125"
+B_R = "742"
+P_R = "835"
+B_H = "1426"
+B_TB = "2027"
+B_2B = "217"
+B_3B = "45"
+B_HR = "98"
+B_SH = "81"
+B_SB = "40"
+B_LOB = "1130"
+B_AVG = ".278"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "157"
+B_AB = "5320"
+B_R = "839"
+P_R = "804"
+B_H = "1469"
+B_TB = "2186"
+B_2B = "234"
+B_3B = "39"
+B_HR = "135"
+B_SH = "97"
+B_SB = "62"
+B_LOB = "1196"
+B_AVG = ".276"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "156"
+B_AB = "5206"
+B_R = "806"
+P_R = "848"
+B_H = "1428"
+B_TB = "2118"
+B_2B = "222"
+B_3B = "69"
+B_HR = "110"
+B_SH = "87"
+B_SB = "70"
+B_LOB = "1210"
+B_AVG = ".274"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "5113"
+B_R = "682"
+P_R = "715"
+B_H = "1398"
+B_TB = "1990"
+B_2B = "224"
+B_3B = "49"
+B_HR = "90"
+B_SH = "79"
+B_SB = "39"
+B_LOB = "1127"
+B_AVG = ".273"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "154"
+B_AB = "4956"
+B_R = "695"
+P_R = "645"
+B_H = "1324"
+B_TB = "1784"
+B_2B = "183"
+B_3B = "65"
+B_HR = "49"
+B_SH = "96"
+B_SB = "113"
+B_LOB = "1126"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_G = "155"
+B_AB = "5044"
+B_R = "704"
+P_R = "770"
+B_H = "1315"
+B_TB = "1899"
+B_2B = "235"
+B_3B = "47"
+B_HR = "85"
+B_SH = "105"
+B_SB = "75"
+B_LOB = "1134"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Kansas City"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "729"
+B_HP = "36"
+B_RBI = "784"
+B_SO = "713"
+B_GDP = "95"
+
+
+[[team]]
+name = "Minneapolis"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "649"
+B_HP = "28"
+B_RBI = "781"
+B_SO = "731"
+B_GDP = "113"
+
+
+[[team]]
+name = "St. Paul"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "692"
+B_HP = "30"
+B_RBI = "737"
+B_SO = "674"
+B_GDP = "123"
+
+
+[[team]]
+name = "Milwaukee"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "619"
+B_HP = "25"
+B_RBI = "721"
+B_SO = "591"
+B_GDP = "122"
+
+
+[[team]]
+name = "Toledo"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "536"
+B_HP = "28"
+B_RBI = "670"
+B_SO = "582"
+B_GDP = "135"
+
+
+[[team]]
+name = "Louisville"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "640"
+B_HP = "11"
+B_RBI = "638"
+B_SO = "637"
+B_GDP = "119"
+
+
+[[team]]
+name = "Columbus"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "619"
+B_HP = "24"
+B_RBI = "633"
+B_SO = "655"
+B_GDP = "114"
+
+
+[[team]]
+name = "Indianapolis"
+[[team.playing]]
+season = "1947"
+league.name = "American Association"
+phase = "regular"
+[team.playing.totals]
+B_BB = "498"
+B_HP = "15"
+B_RBI = "629"
+B_SO = "533"
+B_GDP = "130"

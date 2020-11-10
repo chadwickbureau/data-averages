@@ -1,0 +1,94 @@
+[[team]]
+name = "Humboldt"
+[[team.playing]]
+season = "1912"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2040"
+B_R = "275"
+B_H = "564"
+B_BB = "109"
+B_SH = "103"
+B_SB = "90"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Auburn"
+[[team.playing]]
+season = "1912"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2950"
+B_R = "391"
+B_H = "795"
+B_BB = "153"
+B_SH = "118"
+B_SB = "194"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Nebraska City"
+[[team.playing]]
+season = "1912"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2161"
+B_R = "381"
+B_H = "565"
+B_BB = "233"
+B_SH = "101"
+B_SB = "155"
+B_AVG = ".261"
+
+
+[[team]]
+name = "Falls City"
+[[team.playing]]
+season = "1912"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2883"
+B_R = "379"
+B_H = "698"
+B_BB = "194"
+B_SH = "112"
+B_SB = "103"
+B_AVG = ".243"
+
+
+[[team]]
+name = "Hiawatha"
+[[team.playing]]
+season = "1912"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "1545"
+B_R = "184"
+B_H = "369"
+B_BB = "108"
+B_SH = "47"
+B_SB = "77"
+B_AVG = ".238"
+
+
+[[team]]
+name = "Beatrice"
+[[team.playing]]
+season = "1912"
+league.name = "Missouri-Iowa-Nebraska-Kansas League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2484"
+B_R = "276"
+B_H = "559"
+B_BB = "186"
+B_SH = "79"
+B_SB = "123"
+B_AVG = ".225"

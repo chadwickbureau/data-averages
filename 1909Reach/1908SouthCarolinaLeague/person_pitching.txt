@@ -1,0 +1,226 @@
+[[person]]
+name.last = "Long"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sumter"
+[person.playing.totals]
+P_G = "12"
+P_W = "9"
+P_L = "3"
+P_T = "0"
+P_PCT = ".750"
+
+
+[[person]]
+name.last = "Temple"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chester"
+[person.playing.totals]
+P_G = "22"
+P_W = "15"
+P_L = "7"
+P_T = "0"
+P_PCT = ".682"
+
+
+[[person]]
+name.last = "Cowell"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sumter"
+[person.playing.totals]
+P_G = "16"
+P_W = "11"
+P_L = "5"
+P_T = "0"
+P_PCT = ".650"
+
+
+[[person]]
+name.last = "Johnson"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orangeburg"
+[person.playing.totals]
+P_G = "13"
+P_W = "6"
+P_L = "5"
+P_T = "2"
+P_PCT = ".545"
+
+
+[[person]]
+name.last = "McKnight"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chester"
+[person.playing.totals]
+P_G = "15"
+P_W = "8"
+P_L = "7"
+P_T = "0"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Hauser"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[[person.playing.split]]
+team.name = "Orangeburg"
+[person.playing.totals]
+P_G = "16"
+P_W = "8"
+P_L = "7"
+P_T = "1"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Averett"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orangeburg"
+[[person.playing.split]]
+team.name = "Chester"
+[person.playing.totals]
+P_G = "23"
+P_W = "11"
+P_L = "10"
+P_T = "2"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Waters"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sumter"
+[person.playing.totals]
+P_G = "15"
+P_W = "7"
+P_L = "7"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Crouch"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+P_G = "13"
+P_W = "6"
+P_L = "6"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Garner"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sumter"
+[person.playing.totals]
+P_G = "10"
+P_W = "5"
+P_L = "6"
+P_T = "1"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Biel"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Chester"
+[person.playing.totals]
+P_G = "18"
+P_W = "7"
+P_L = "9"
+P_T = "2"
+P_PCT = ".438"
+
+
+[[person]]
+name.last = "Sawyer"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orangeburg"
+[person.playing.totals]
+P_G = "10"
+P_W = "4"
+P_L = "6"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Roberts"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Orangeburg"
+[person.playing.totals]
+P_G = "12"
+P_W = "4"
+P_L = "6"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Clancey"
+[[person.playing]]
+season = "1908"
+league.name = "South Carolina League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Rock Hill"
+[person.playing.totals]
+P_G = "10"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_PCT = ".300"

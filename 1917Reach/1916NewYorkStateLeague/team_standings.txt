@@ -1,0 +1,94 @@
+[[team]]
+name = "Syracuse"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "81"
+R_L = "52"
+R_PCT = ".609"
+
+
+[[team]]
+name = "Scranton"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "67"
+R_L = "52"
+R_PCT = ".563"
+
+
+[[team]]
+name = "Binghamton"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "69"
+R_L = "61"
+R_PCT = ".530"
+
+
+[[team]]
+name = "Wilkes-Barre"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "62"
+R_L = "63"
+R_PCT = ".496"
+
+
+[[team]]
+name = "Utica"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "63"
+R_L = "68"
+R_PCT = ".481"
+
+
+[[team]]
+name = "Reading"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "58"
+R_L = "75"
+R_PCT = ".453"
+
+
+[[team]]
+name = "Elmira"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "59"
+R_L = "75"
+R_PCT = ".440"
+
+
+[[team]]
+name = "Harrisburg"
+[[team.playing]]
+season = "1916"
+league.name = "New York State League"
+phase = "regular"
+[team.playing.totals]
+R_W = "56"
+R_L = "74"
+R_PCT = ".431"

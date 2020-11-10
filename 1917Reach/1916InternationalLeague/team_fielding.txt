@@ -1,0 +1,134 @@
+[[team]]
+name = "Buffalo"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3766"
+F_A = "1748"
+F_E = "193"
+F_DP = "106"
+F_TP = "0"
+F_PB = "5"
+F_PCT = ".966"
+
+
+[[team]]
+name = "Rochester"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "142"
+F_PO = "3744"
+F_A = "1810"
+F_E = "221"
+F_DP = "105"
+F_TP = "1"
+F_PB = "19"
+F_PCT = ".962"
+
+
+[[team]]
+name = "Toronto"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "143"
+F_PO = "3863"
+F_A = "1873"
+F_E = "235"
+F_DP = "91"
+F_TP = "0"
+F_PB = "12"
+F_PCT = ".961"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3668"
+F_A = "1846"
+F_E = "231"
+F_DP = "127"
+F_TP = "0"
+F_PB = "18"
+F_PCT = ".960"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3744"
+F_A = "1778"
+F_E = "239"
+F_DP = "109"
+F_TP = "1"
+F_PB = "26"
+F_PCT = ".959"
+
+
+[[team]]
+name = "Montreal"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "141"
+F_PO = "3746"
+F_A = "1858"
+F_E = "247"
+F_DP = "70"
+F_TP = "0"
+F_PB = "13"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Newark"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3689"
+F_A = "1786"
+F_E = "250"
+F_DP = "103"
+F_TP = "0"
+F_PB = "8"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Baltimore"
+[[team.playing]]
+season = "1916"
+league.name = "International League"
+phase = "regular"
+[team.playing.totals]
+F_G = "140"
+F_PO = "3722"
+F_A = "1750"
+F_E = "312"
+F_DP = "121"
+F_TP = "2"
+F_PB = "13"
+F_PCT = ".946"

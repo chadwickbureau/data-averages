@@ -1,0 +1,150 @@
+[[team]]
+name = "Orlando"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1219.2"
+P_TBF = "4547"
+P_R = "533"
+P_ER = "423"
+P_H = "1025"
+P_SH = "81"
+P_BB = "629"
+P_HP = "34"
+P_SO = "638"
+P_ERA = "3.12"
+
+
+[[team]]
+name = "Sanford"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1203"
+P_TBF = "4688"
+P_R = "659"
+P_ER = "477"
+P_H = "1146"
+P_SH = "76"
+P_BB = "612"
+P_HP = "37"
+P_SO = "580"
+P_ERA = "3.57"
+
+
+[[team]]
+name = "St. Augustine"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1184"
+P_TBF = "4578"
+P_R = "655"
+P_ER = "496"
+P_H = "1183"
+P_SH = "98"
+P_BB = "653"
+P_HP = "39"
+P_SO = "644"
+P_ERA = "3.77"
+
+
+[[team]]
+name = "Palatka"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1162.2"
+P_TBF = "4667"
+P_R = "769"
+P_ER = "538"
+P_H = "1200"
+P_SH = "69"
+P_BB = "644"
+P_HP = "39"
+P_SO = "649"
+P_ERA = "4.17"
+
+
+[[team]]
+name = "DeLand"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1187"
+P_TBF = "4789"
+P_R = "789"
+P_ER = "553"
+P_H = "1284"
+P_SH = "95"
+P_BB = "576"
+P_HP = "41"
+P_SO = "490"
+P_ERA = "4.19"
+
+
+[[team]]
+name = "Daytona Beach"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1117"
+P_TBF = "4376"
+P_R = "773"
+P_ER = "546"
+P_H = "1114"
+P_SH = "109"
+P_BB = "743"
+P_HP = "47"
+P_SO = "613"
+P_ERA = "4.40"
+
+
+[[team]]
+name = "Leesburg"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1151.2"
+P_TBF = "4630"
+P_R = "856"
+P_ER = "656"
+P_H = "1281"
+P_SH = "84"
+P_BB = "708"
+P_HP = "43"
+P_SO = "428"
+P_ERA = "5.12"
+
+
+[[team]]
+name = "Gainesville"
+[[team.playing]]
+season = "1946"
+league.name = "Florida State League"
+phase = "regular"
+[team.playing.totals]
+P_IP = "1185"
+P_TBF = "4837"
+P_R = "1022"
+P_ER = "681"
+P_H = "1346"
+P_SH = "107"
+P_BB = "751"
+P_HP = "58"
+P_SO = "565"
+P_ERA = "5.18"

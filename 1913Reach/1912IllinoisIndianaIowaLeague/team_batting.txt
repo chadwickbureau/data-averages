@@ -1,0 +1,134 @@
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4331"
+B_R = "638"
+B_H = "1170"
+B_TB = "1666"
+B_SH = "192"
+B_SB = "227"
+B_AVG = ".270"
+
+
+[[team]]
+name = "Quincy"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4523"
+B_R = "533"
+B_H = "1183"
+B_TB = "1525"
+B_SH = "195"
+B_SB = "183"
+B_AVG = ".262"
+
+
+[[team]]
+name = "Danville"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4251"
+B_R = "476"
+B_H = "1061"
+B_TB = "1383"
+B_SH = "206"
+B_SB = "175"
+B_AVG = ".249"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "137"
+B_AB = "4423"
+B_R = "455"
+B_H = "1098"
+B_TB = "1409"
+B_SH = "178"
+B_SB = "174"
+B_AVG = ".248"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "139"
+B_AB = "4482"
+B_R = "507"
+B_H = "1103"
+B_TB = "1430"
+B_SH = "143"
+B_SB = "261"
+B_AVG = ".246"
+
+
+[[team]]
+name = "Davenport"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4346"
+B_R = "491"
+B_H = "1049"
+B_TB = "1327"
+B_SH = "215"
+B_SB = "232"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "138"
+B_AB = "4505"
+B_R = "544"
+B_H = "1101"
+B_TB = "1430"
+B_SH = "167"
+B_SB = "186"
+B_AVG = ".244"
+
+
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+B_G = "136"
+B_AB = "4349"
+B_R = "505"
+B_H = "1059"
+B_TB = "1339"
+B_SH = "178"
+B_SB = "206"
+B_AVG = ".244"

@@ -1,0 +1,198 @@
+[[team]]
+name = "Lynn"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "122"
+B_AB = "4209"
+B_R = "771"
+P_R = "472"
+B_H = "1297"
+B_TB = "1844"
+B_2B = "161"
+B_3B = "67"
+B_HR = "84"
+B_SH = "80"
+B_SB = "88"
+B_BB = "410"
+B_HP = "29"
+B_RBI = "658"
+B_SO = "475"
+B_AVG = ".308"
+
+
+[[team]]
+name = "Manchester"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "121"
+B_AB = "3978"
+B_R = "772"
+P_R = "538"
+B_H = "1147"
+B_TB = "1669"
+B_2B = "155"
+B_3B = "53"
+B_HR = "87"
+B_SH = "82"
+B_SB = "73"
+B_BB = "489"
+B_HP = "47"
+B_RBI = "661"
+B_SO = "482"
+B_AVG = ".288"
+
+
+[[team]]
+name = "Lawrence"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "118"
+B_AB = "4015"
+B_R = "700"
+P_R = "541"
+B_H = "1107"
+B_TB = "1736"
+B_2B = "194"
+B_3B = "39"
+B_HR = "119"
+B_SH = "71"
+B_SB = "63"
+B_BB = "443"
+B_HP = "32"
+B_RBI = "620"
+B_SO = "545"
+B_AVG = ".276"
+
+
+[[team]]
+name = "Providence"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "4002"
+B_R = "661"
+P_R = "664"
+B_H = "1068"
+B_TB = "1501"
+B_2B = "169"
+B_3B = "30"
+B_HR = "68"
+B_SH = "64"
+B_SB = "53"
+B_BB = "562"
+B_HP = "39"
+B_RBI = "578"
+B_SO = "542"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Nashua"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "123"
+B_AB = "3918"
+B_R = "614"
+P_R = "423"
+B_H = "1044"
+B_TB = "1483"
+B_2B = "152"
+B_3B = "64"
+B_HR = "53"
+B_SH = "88"
+B_SB = "82"
+B_BB = "501"
+B_HP = "27"
+B_RBI = "562"
+B_SO = "524"
+B_AVG = ".267"
+
+
+[[team]]
+name = "Pawtucket"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "124"
+B_AB = "3953"
+B_R = "562"
+P_R = "460"
+B_H = "1051"
+B_TB = "1425"
+B_2B = "158"
+B_3B = "51"
+B_HR = "38"
+B_SH = "69"
+B_SB = "80"
+B_BB = "430"
+B_HP = "33"
+B_RBI = "476"
+B_SO = "416"
+B_AVG = ".266"
+
+
+[[team]]
+name = "Portland"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "120"
+B_AB = "3686"
+B_R = "490"
+P_R = "1046"
+B_H = "954"
+B_TB = "1301"
+B_2B = "156"
+B_3B = "19"
+B_HR = "51"
+B_SH = "44"
+B_SB = "40"
+B_BB = "355"
+B_HP = "36"
+B_RBI = "399"
+B_SO = "532"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Fall River"
+[[team.playing]]
+season = "1946"
+league.name = "New England League"
+phase = "regular"
+[team.playing.totals]
+B_G = "126"
+B_AB = "3939"
+B_R = "392"
+P_R = "818"
+B_H = "867"
+B_TB = "1159"
+B_2B = "118"
+B_3B = "39"
+B_HR = "32"
+B_SH = "49"
+B_SB = "34"
+B_BB = "422"
+B_HP = "25"
+B_RBI = "339"
+B_SO = "593"
+B_AVG = ".220"

@@ -1,0 +1,118 @@
+[[team]]
+name = "Martinsburg"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2581"
+B_R = "348"
+B_H = "671"
+B_1B = "521"
+B_2B = "109"
+B_3B = "24"
+B_HR = "17"
+B_TB = "879"
+B_SH = "81"
+B_SB = "140"
+B_AVG = ".259"
+
+
+[[team]]
+name = "Hanover"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2607"
+B_R = "359"
+B_H = "674"
+B_1B = "535"
+B_2B = "100"
+B_3B = "35"
+B_HR = "4"
+B_TB = "856"
+B_SH = "85"
+B_SB = "115"
+B_AVG = ".258"
+
+
+[[team]]
+name = "Frederick"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2530"
+B_R = "295"
+B_H = "645"
+B_1B = "504"
+B_2B = "98"
+B_3B = "22"
+B_HR = "21"
+B_TB = "850"
+B_SH = "93"
+B_SB = "128"
+B_AVG = ".254"
+
+
+[[team]]
+name = "Hagerstown"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2382"
+B_R = "255"
+B_H = "541"
+B_1B = "439"
+B_2B = "85"
+B_3B = "13"
+B_HR = "4"
+B_TB = "664"
+B_SH = "99"
+B_SB = "96"
+B_AVG = ".227"
+
+
+[[team]]
+name = "Gettysburg"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2608"
+B_R = "268"
+B_H = "581"
+B_1B = "488"
+B_2B = "64"
+B_3B = "25"
+B_HR = "4"
+B_TB = "707"
+B_SH = "102"
+B_SB = "129"
+B_AVG = ".222"
+
+
+[[team]]
+name = "Chambersburg"
+[[team.playing]]
+season = "1915"
+league.name = "Blue Ridge League"
+phase = "regular"
+[team.playing.totals]
+B_AB = "2623"
+B_R = "268"
+B_H = "584"
+B_1B = "473"
+B_2B = "85"
+B_3B = "22"
+B_HR = "4"
+B_TB = "725"
+B_SH = "103"
+B_SB = "81"
+B_AVG = ".222"

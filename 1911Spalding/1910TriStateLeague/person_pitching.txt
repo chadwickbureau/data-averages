@@ -1,0 +1,562 @@
+[[person]]
+name.last = "Steele"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Altoona"
+[person.playing.totals]
+P_DEC = "32"
+P_W = "25"
+P_L = "7"
+P_T = "0"
+P_PCT = ".781"
+
+
+[[person]]
+name.last = "Garrity"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Altoona"
+[person.playing.totals]
+P_DEC = "19"
+P_W = "14"
+P_L = "5"
+P_T = "0"
+P_PCT = ".737"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "P."
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "York"
+[person.playing.totals]
+P_DEC = "11"
+P_W = "8"
+P_L = "3"
+P_T = "0"
+P_PCT = ".727"
+
+
+[[person]]
+name.last = "Teal"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Altoona"
+[person.playing.totals]
+P_DEC = "27"
+P_W = "18"
+P_L = "8"
+P_T = "1"
+P_PCT = ".692"
+
+
+[[person]]
+name.last = "Cather"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+P_DEC = "29"
+P_W = "20"
+P_L = "9"
+P_T = "0"
+P_PCT = ".690"
+
+
+[[person]]
+name.last = "Judd"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Williamsport"
+[person.playing.totals]
+P_DEC = "12"
+P_W = "8"
+P_L = "4"
+P_T = "0"
+P_PCT = ".667"
+
+
+[[person]]
+name.last = "Hafford"
+name.given = "L."
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Trenton"
+[person.playing.totals]
+P_DEC = "29"
+P_W = "19"
+P_L = "10"
+P_T = "0"
+P_PCT = ".655"
+
+
+[[person]]
+name.last = "Coveleskie"
+name.given = "S."
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+P_DEC = "23"
+P_W = "15"
+P_L = "8"
+P_T = "0"
+P_PCT = ".652"
+
+
+[[person]]
+name.last = "Topham"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Trenton"
+[[person.playing.split]]
+team.name = "Johnstown"
+[person.playing.totals]
+P_DEC = "26"
+P_W = "16"
+P_L = "10"
+P_T = "0"
+P_PCT = ".612"
+
+
+[[person]]
+name.last = "Miller"
+name.given = "H."
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[[person.playing.split]]
+team.name = "Altoona"
+[person.playing.totals]
+P_DEC = "25"
+P_W = "14"
+P_L = "10"
+P_T = "1"
+P_PCT = ".583"
+
+
+[[person]]
+name.last = "Craig"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Trenton"
+[person.playing.totals]
+P_DEC = "29"
+P_W = "16"
+P_L = "12"
+P_T = "1"
+P_PCT = ".571"
+
+
+[[person]]
+name.last = "Northrup"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Trenton"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+P_DEC = "16"
+P_W = "9"
+P_L = "7"
+P_T = "0"
+P_PCT = ".563"
+
+
+[[person]]
+name.last = "Harden"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Williamsport"
+[person.playing.totals]
+P_DEC = "26"
+P_W = "14"
+P_L = "12"
+P_T = "0"
+P_PCT = ".538"
+
+
+[[person]]
+name.last = "Britton"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Williamsport"
+[person.playing.totals]
+P_DEC = "30"
+P_W = "16"
+P_L = "14"
+P_T = "0"
+P_PCT = ".533"
+
+
+[[person]]
+name.last = "Upp"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Williamsport"
+[[person.playing.split]]
+team.name = "Altoona"
+[person.playing.totals]
+P_DEC = "21"
+P_W = "11"
+P_L = "10"
+P_T = "0"
+P_PCT = ".524"
+
+
+[[person]]
+name.last = "Gaskill"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Harrisburg"
+[person.playing.totals]
+P_DEC = "30"
+P_W = "15"
+P_L = "15"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Blanchard"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Trenton"
+[person.playing.totals]
+P_DEC = "26"
+P_W = "13"
+P_L = "13"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Wallace"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Trenton"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+P_DEC = "20"
+P_W = "10"
+P_L = "10"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Daily"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Williamsport"
+[person.playing.totals]
+P_DEC = "18"
+P_W = "9"
+P_L = "9"
+P_T = "0"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Barthold"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[[person.playing.split]]
+team.name = "Harrisburg"
+[person.playing.totals]
+P_DEC = "11"
+P_W = "5"
+P_L = "5"
+P_T = "1"
+P_PCT = ".500"
+
+
+[[person]]
+name.last = "Stanley"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnstown"
+[person.playing.totals]
+P_DEC = "33"
+P_W = "16"
+P_L = "17"
+P_T = "0"
+P_PCT = ".485"
+
+
+[[person]]
+name.last = "Brittsen"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+P_DEC = "23"
+P_W = "11"
+P_L = "12"
+P_T = "0"
+P_PCT = ".478"
+
+
+[[person]]
+name.last = "Goettel"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnstown"
+[person.playing.totals]
+P_DEC = "32"
+P_W = "15"
+P_L = "17"
+P_T = "0"
+P_PCT = ".469"
+
+
+[[person]]
+name.last = "Myers"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Harrisburg"
+[person.playing.totals]
+P_DEC = "31"
+P_W = "14"
+P_L = "16"
+P_T = "1"
+P_PCT = ".467"
+
+
+[[person]]
+name.last = "Girard"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "York"
+[person.playing.totals]
+P_DEC = "15"
+P_W = "7"
+P_L = "8"
+P_T = "0"
+P_PCT = ".467"
+
+
+[[person]]
+name.last = "Edmonston"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Trenton"
+[person.playing.totals]
+P_DEC = "11"
+P_W = "5"
+P_L = "6"
+P_T = "0"
+P_PCT = ".455"
+
+
+[[person]]
+name.last = "Kling"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Harrisburg"
+[person.playing.totals]
+P_DEC = "14"
+P_W = "6"
+P_L = "8"
+P_T = "0"
+P_PCT = ".429"
+
+
+[[person]]
+name.last = "Ramsey"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+P_DEC = "35"
+P_W = "14"
+P_L = "21"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "George"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "York"
+[person.playing.totals]
+P_DEC = "30"
+P_W = "12"
+P_L = "18"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Vance"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "York"
+[[person.playing.split]]
+team.name = "Johnstown"
+[person.playing.totals]
+P_DEC = "10"
+P_W = "4"
+P_L = "6"
+P_T = "0"
+P_PCT = ".400"
+
+
+[[person]]
+name.last = "Rogers"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "York"
+[person.playing.totals]
+P_DEC = "17"
+P_W = "6"
+P_L = "11"
+P_T = "0"
+P_PCT = ".353"
+
+
+[[person]]
+name.last = "Lower"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Altoona"
+[person.playing.totals]
+P_DEC = "12"
+P_W = "4"
+P_L = "8"
+P_T = "0"
+P_PCT = ".333"
+
+
+[[person]]
+name.last = "Horsey"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Reading"
+[person.playing.totals]
+P_DEC = "23"
+P_W = "7"
+P_L = "15"
+P_T = "1"
+P_PCT = ".318"
+
+
+[[person]]
+name.last = "Sheesley"
+[[person.playing]]
+season = "1910"
+league.name = "Tri-State League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Johnstown"
+[[person.playing.split]]
+team.name = "Lancaster"
+[person.playing.totals]
+P_DEC = "10"
+P_W = "3"
+P_L = "7"
+P_T = "0"
+P_PCT = ".300"

@@ -1,0 +1,82 @@
+[[team]]
+name = "Roanoke"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "139"
+F_PO = "3890"
+F_A = "1692"
+F_E = "253"
+F_PCT = ".957"
+
+
+[[team]]
+name = "Newport News"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "136"
+F_PO = "4010"
+F_A = "1865"
+F_E = "320"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Richmond"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3738"
+F_A = "1588"
+F_E = "289"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Norfolk"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3623"
+F_A = "1857"
+F_E = "298"
+F_PCT = ".948"
+
+
+[[team]]
+name = "Portsmouth"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "134"
+F_PO = "3993"
+F_A = "1615"
+F_E = "321"
+F_PCT = ".946"
+
+
+[[team]]
+name = "Petersburg"
+[[team.playing]]
+season = "1913"
+league.name = "Virginia League"
+phase = "regular"
+[team.playing.totals]
+F_G = "135"
+F_PO = "3784"
+F_A = "1860"
+F_E = "465"
+F_PCT = ".924"

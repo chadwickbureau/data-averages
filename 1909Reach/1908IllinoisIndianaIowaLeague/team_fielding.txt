@@ -1,0 +1,102 @@
+[[team]]
+name = "Peoria"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3621"
+F_A = "1679"
+F_E = "244"
+F_PCT = ".956"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3743"
+F_A = "1844"
+F_E = "277"
+F_PCT = ".953"
+
+
+[[team]]
+name = "Bloomington"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3676"
+F_A = "1536"
+F_E = "262"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Rock Island"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3296"
+F_A = "1652"
+F_E = "250"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Decatur"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3561"
+F_A = "1726"
+F_E = "269"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Clinton"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3558"
+F_A = "1818"
+F_E = "274"
+F_PCT = ".952"
+
+
+[[team]]
+name = "Dubuque"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3693"
+F_A = "1793"
+F_E = "322"
+F_PCT = ".945"
+
+
+[[team]]
+name = "Cedar Rapids"
+[[team.playing]]
+season = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3643"
+F_A = "1846"
+F_E = "323"
+F_PCT = ".944"

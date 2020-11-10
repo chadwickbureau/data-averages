@@ -1,0 +1,102 @@
+[[team]]
+name = "Holyoke"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3347"
+F_A = "1734"
+F_E = "267"
+F_PCT = ".950"
+
+
+[[team]]
+name = "Norwich"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3292"
+F_A = "1573"
+F_E = "288"
+F_PCT = ".944"
+
+
+[[team]]
+name = "Springfield"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3217"
+F_A = "1536"
+F_E = "286"
+F_PCT = ".943"
+
+
+[[team]]
+name = "New Haven"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3284"
+F_A = "1647"
+F_E = "299"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Hartford"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3259"
+F_A = "1507"
+F_E = "315"
+F_PCT = ".939"
+
+
+[[team]]
+name = "Waterbury"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3315"
+F_A = "1542"
+F_E = "329"
+F_PCT = ".937"
+
+
+[[team]]
+name = "Bridgeport"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3289"
+F_A = "1563"
+F_E = "364"
+F_PCT = ".930"
+
+
+[[team]]
+name = "New London"
+[[team.playing]]
+season = "1907"
+league.name = "Connecticut State League"
+phase = "regular"
+[team.playing.totals]
+F_PO = "3264"
+F_A = "1678"
+F_E = "445"
+F_PCT = ".918"

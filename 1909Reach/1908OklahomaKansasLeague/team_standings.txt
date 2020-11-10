@@ -1,0 +1,50 @@
+[[team]]
+name = "Tulsa"
+[[team.playing]]
+season = "1908"
+league.name = "Oklahoma-Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "36"
+R_L = "23"
+R_PCT = ".610"
+R_RANK = "1"
+
+
+[[team]]
+name = "Independence"
+[[team.playing]]
+season = "1908"
+league.name = "Oklahoma-Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "33"
+R_L = "25"
+R_PCT = ".569"
+R_RANK = "2"
+
+
+[[team]]
+name = "Bartlesville"
+[[team.playing]]
+season = "1908"
+league.name = "Oklahoma-Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "30"
+R_L = "30"
+R_PCT = ".500"
+R_RANK = "3"
+
+
+[[team]]
+name = "Muskogee"
+[[team.playing]]
+season = "1908"
+league.name = "Oklahoma-Kansas League"
+phase = "regular/second"
+[team.playing.totals]
+R_W = "18"
+R_L = "40"
+R_PCT = ".310"
+R_RANK = "4"

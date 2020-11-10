@@ -1,0 +1,66 @@
+[[team]]
+name = "Bristol"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "109"
+F_DP = "64"
+F_TP = "0"
+F_PB = "66"
+F_PO = "2765"
+F_A = "1199"
+F_E = "238"
+F_PCT = ".943"
+
+
+[[team]]
+name = "Kingsport"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "111"
+F_DP = "79"
+F_TP = "0"
+F_PB = "41"
+F_PO = "2787"
+F_A = "1131"
+F_E = "257"
+F_PCT = ".938"
+
+
+[[team]]
+name = "Elizabethton"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "106"
+F_DP = "51"
+F_TP = "0"
+F_PB = "39"
+F_PO = "2671"
+F_A = "950"
+F_E = "291"
+F_PCT = ".926"
+
+
+[[team]]
+name = "Johnson City"
+[[team.playing]]
+season = "1945"
+league.name = "Appalachian League"
+phase = "regular"
+[team.playing.totals]
+F_G = "108"
+F_DP = "53"
+F_TP = "1"
+F_PB = "55"
+F_PO = "2704"
+F_A = "1165"
+F_E = "322"
+F_PCT = ".923"

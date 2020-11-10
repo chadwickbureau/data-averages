@@ -1,0 +1,737 @@
+[[person]]
+name.last = "Brinker"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "26"
+P_W = "15"
+P_L = "6"
+P_PCT = ".714"
+P_AB = "695"
+P_H = "134"
+P_AVG = ".193"
+P_R = "58"
+P_HP = "18"
+P_BB = "62"
+P_SO = "120"
+P_WP = "1"
+
+
+[[person]]
+name.last = "Higginbotham"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "49"
+P_W = "29"
+P_L = "12"
+P_PCT = ".707"
+P_AB = "1325"
+P_H = "270"
+P_AVG = ".204"
+P_R = "125"
+P_HP = "17"
+P_BB = "100"
+P_SO = "295"
+P_WP = "14"
+
+
+[[person]]
+name.last = "Deller"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "44"
+P_W = "27"
+P_L = "15"
+P_PCT = ".643"
+P_AB = "1365"
+P_H = "265"
+P_AVG = ".194"
+P_R = "104"
+P_HP = "22"
+P_BB = "65"
+P_SO = "162"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Welch"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "16"
+P_W = "9"
+P_L = "5"
+P_PCT = ".643"
+P_AB = "455"
+P_H = "103"
+P_AVG = ".226"
+P_R = "46"
+P_HP = "6"
+P_BB = "37"
+P_SO = "58"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Butler"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "52"
+P_W = "32"
+P_L = "18"
+P_PCT = ".640"
+P_AB = "1680"
+P_H = "369"
+P_AVG = ".219"
+P_R = "123"
+P_HP = "15"
+P_BB = "73"
+P_SO = "211"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Rush"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "42"
+P_W = "22"
+P_L = "13"
+P_PCT = ".629"
+P_AB = "1197"
+P_H = "266"
+P_AVG = ".222"
+P_R = "125"
+P_HP = "18"
+P_BB = "68"
+P_SO = "165"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Jensen"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "49"
+P_W = "27"
+P_L = "16"
+P_PCT = ".628"
+P_AB = "1496"
+P_H = "346"
+P_AVG = ".231"
+P_R = "165"
+P_HP = "34"
+P_BB = "82"
+P_SO = "236"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Garvin"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+P_G = "36"
+P_W = "20"
+P_L = "14"
+P_PCT = ".588"
+P_AB = "1142"
+P_H = "234"
+P_AVG = ".205"
+P_R = "96"
+P_HP = "6"
+P_BB = "46"
+P_SO = "176"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Allen"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "43"
+P_W = "24"
+P_L = "18"
+P_PCT = ".571"
+P_AB = "1310"
+P_H = "319"
+P_AVG = ".243"
+P_R = "135"
+P_HP = "15"
+P_BB = "52"
+P_SO = "133"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Hoon"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+P_G = "33"
+P_W = "17"
+P_L = "13"
+P_PCT = ".567"
+P_AB = "1054"
+P_H = "242"
+P_AVG = ".229"
+P_R = "134"
+P_HP = "22"
+P_BB = "86"
+P_SO = "90"
+P_WP = "8"
+
+
+[[person]]
+name.last = "VanZandt"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+P_G = "10"
+P_W = "5"
+P_L = "4"
+P_PCT = ".555"
+P_AB = "272"
+P_H = "56"
+P_AVG = ".259"
+P_R = "37"
+P_HP = "4"
+P_BB = "36"
+P_SO = "30"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Tonneson"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "24"
+P_W = "11"
+P_L = "9"
+P_PCT = ".550"
+P_AB = "690"
+P_H = "161"
+P_AVG = ".233"
+P_R = "82"
+P_HP = "22"
+P_BB = "78"
+P_SO = "115"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Coy"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "24"
+P_W = "12"
+P_L = "10"
+P_PCT = ".545"
+P_AB = "802"
+P_H = "202"
+P_AVG = ".252"
+P_R = "100"
+P_HP = "12"
+P_BB = "37"
+P_SO = "87"
+P_WP = "6"
+
+
+[[person]]
+name.last = "Starkell"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "37"
+P_W = "20"
+P_L = "17"
+P_PCT = ".541"
+P_AB = "1131"
+P_H = "242"
+P_AVG = ".214"
+P_R = "125"
+P_HP = "27"
+P_BB = "84"
+P_SO = "152"
+P_WP = "6"
+
+
+[[person]]
+name.last = "Doyle"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "33"
+P_W = "15"
+P_L = "13"
+P_PCT = ".536"
+P_AB = "969"
+P_H = "258"
+P_AVG = ".266"
+P_R = "138"
+P_HP = "16"
+P_BB = "56"
+P_SO = "82"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Hickey"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Aberdeen"
+[person.playing.totals]
+P_G = "17"
+P_W = "8"
+P_L = "8"
+P_PCT = ".500"
+P_AB = "471"
+P_H = "111"
+P_AVG = ".236"
+P_R = "67"
+P_HP = "13"
+P_BB = "71"
+P_SO = "85"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Osburn"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "35"
+P_W = "14"
+P_L = "17"
+P_PCT = ".452"
+P_AB = "1041"
+P_H = "249"
+P_AVG = ".239"
+P_R = "122"
+P_HP = "20"
+P_BB = "87"
+P_SO = "102"
+P_WP = "6"
+
+
+[[person]]
+name.last = "Roosevelt"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+P_G = "41"
+P_W = "16"
+P_L = "20"
+P_PCT = ".444"
+P_AB = "1234"
+P_H = "272"
+P_AVG = ".220"
+P_R = "151"
+P_HP = "32"
+P_BB = "147"
+P_SO = "206"
+P_WP = "21"
+
+
+[[person]]
+name.last = "Erickson"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "22"
+P_W = "8"
+P_L = "11"
+P_PCT = ".421"
+P_AB = "636"
+P_H = "172"
+P_AVG = ".270"
+P_R = "100"
+P_HP = "13"
+P_BB = "39"
+P_SO = "79"
+P_WP = "7"
+
+
+[[person]]
+name.last = "Walsh"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[person.playing.totals]
+P_G = "18"
+P_W = "7"
+P_L = "10"
+P_PCT = ".412"
+P_AB = "591"
+P_H = "122"
+P_AVG = ".206"
+P_R = "65"
+P_HP = "8"
+P_BB = "43"
+P_SO = "80"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Dunn"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "28"
+P_W = "9"
+P_L = "13"
+P_PCT = ".409"
+P_AB = "909"
+P_H = "238"
+P_AVG = ".261"
+P_R = "139"
+P_HP = "14"
+P_BB = "51"
+P_SO = "87"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Killilay"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Butte"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "34"
+P_W = "13"
+P_L = "19"
+P_PCT = ".406"
+P_AB = "974"
+P_H = "222"
+P_AVG = ".228"
+P_R = "132"
+P_HP = "35"
+P_BB = "71"
+P_SO = "158"
+P_WP = "9"
+
+
+[[person]]
+name.last = "Samuels"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[[person.playing.split]]
+team.name = "Butte"
+[person.playing.totals]
+P_G = "23"
+P_W = "8"
+P_L = "12"
+P_PCT = ".400"
+P_AB = "687"
+P_H = "170"
+P_AVG = ".247"
+P_R = "96"
+P_HP = "12"
+P_BB = "61"
+P_SO = "82"
+P_WP = "2"
+
+
+[[person]]
+name.last = "Nelson"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "42"
+P_W = "13"
+P_L = "24"
+P_PCT = ".378"
+P_AB = "1158"
+P_H = "256"
+P_AVG = ".231"
+P_R = "155"
+P_HP = "18"
+P_BB = "87"
+P_SO = "151"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Wright"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "16"
+P_W = "5"
+P_L = "9"
+P_PCT = ".357"
+P_AB = "448"
+P_H = "100"
+P_AVG = ".223"
+P_R = "71"
+P_HP = "12"
+P_BB = "53"
+P_SO = "77"
+P_WP = "5"
+
+
+[[person]]
+name.last = "Claflin"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[[person.playing.split]]
+team.name = "Seattle"
+[[person.playing.split]]
+team.name = "Spokane"
+[person.playing.totals]
+P_G = "34"
+P_W = "9"
+P_L = "20"
+P_PCT = ".310"
+P_AB = "979"
+P_H = "196"
+P_AVG = ".200"
+P_R = "102"
+P_HP = "29"
+P_BB = "81"
+P_SO = "158"
+P_WP = "8"
+
+
+[[person]]
+name.last = "Franklin"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "30"
+P_W = "8"
+P_L = "20"
+P_PCT = ".286"
+P_AB = "923"
+P_H = "236"
+P_AVG = ".255"
+P_R = "143"
+P_HP = "6"
+P_BB = "50"
+P_SO = "78"
+P_WP = "7"
+
+
+[[person]]
+name.last = "Hall"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "29"
+P_W = "6"
+P_L = "17"
+P_PCT = ".261"
+P_AB = "908"
+P_H = "239"
+P_AVG = ".263"
+P_R = "135"
+P_HP = "7"
+P_BB = "40"
+P_SO = "60"
+P_WP = "1"
+
+
+[[person]]
+name.last = "LeGore"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Vancouver"
+[[person.playing.split]]
+team.name = "Tacoma"
+[person.playing.totals]
+P_G = "15"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_AB = "405"
+P_H = "109"
+P_AVG = ".269"
+P_R = "67"
+P_HP = "8"
+P_BB = "27"
+P_SO = "25"
+P_WP = "4"
+
+
+[[person]]
+name.last = "Goodwin"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Tacoma"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "11"
+P_W = "2"
+P_L = "8"
+P_PCT = ".200"
+P_AB = "334"
+P_H = "97"
+P_AVG = ".290"
+P_R = "74"
+P_HP = "4"
+P_BB = "50"
+P_SO = "17"
+P_WP = "3"
+
+
+[[person]]
+name.last = "Chevalier"
+[[person.playing]]
+season = "1907"
+league.name = "Northwestern League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Seattle"
+[[person.playing.split]]
+team.name = "Vancouver"
+[person.playing.totals]
+P_G = "10"
+P_W = "1"
+P_L = "5"
+P_PCT = ".166"
+P_AB = "238"
+P_H = "70"
+P_AVG = ".294"
+P_R = "52"
+P_HP = "6"
+P_BB = "31"
+P_SO = "23"
+P_WP = "1"

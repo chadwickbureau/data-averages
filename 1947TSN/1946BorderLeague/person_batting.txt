@@ -1,0 +1,2841 @@
+[[person]]
+name.last = "Dill"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "98"
+B_AB = "310"
+B_H = "123"
+B_TB = "227"
+B_2B = "31"
+B_3B = "7"
+B_HR = "20"
+B_SB = "14"
+B_RBI = "118"
+B_AVG = ".397"
+B_AVG_RANK = "1"
+
+
+[[person]]
+name.last = "Stenoff"
+name.given = "Stanley"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "10"
+B_AB = "37"
+B_H = "14"
+B_TB = "25"
+B_2B = "3"
+B_3B = "1"
+B_HR = "2"
+B_SB = "0"
+B_RBI = "4"
+B_AVG = ".378"
+
+
+[[person]]
+name.last = "Atkins"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "105"
+B_AB = "377"
+B_H = "141"
+B_TB = "229"
+B_2B = "33"
+B_3B = "5"
+B_HR = "15"
+B_SB = "12"
+B_RBI = "72"
+B_AVG = ".374"
+
+
+[[person]]
+name.last = "Scott"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "37"
+B_AB = "100"
+B_H = "37"
+B_TB = "50"
+B_2B = "11"
+B_3B = "1"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "19"
+B_AVG = ".370"
+
+
+[[person]]
+name.last = "Zanke"
+name.given = "Leonard"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "71"
+B_AB = "270"
+B_H = "100"
+B_TB = "134"
+B_2B = "19"
+B_3B = "0"
+B_HR = "5"
+B_SB = "28"
+B_RBI = "54"
+B_AVG = ".370"
+
+
+[[person]]
+name.last = "Norris"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "10"
+B_AB = "28"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "0"
+B_AVG = ".357"
+
+
+[[person]]
+name.last = "Grover"
+name.given = "Herman"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "23"
+B_AB = "76"
+B_H = "27"
+B_TB = "34"
+B_2B = "1"
+B_3B = "3"
+B_HR = "0"
+B_SB = "5"
+B_RBI = "11"
+B_AVG = ".355"
+
+
+[[person]]
+name.last = "Battalino"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "28"
+B_AB = "68"
+B_H = "24"
+B_TB = "32"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "10"
+B_AVG = ".353"
+
+
+[[person]]
+name.last = "Dube"
+name.given = "Gilles"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "19"
+B_AB = "51"
+B_H = "18"
+B_TB = "22"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SB = "3"
+B_RBI = "14"
+B_AVG = ".353"
+
+
+[[person]]
+name.last = "English"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "57"
+B_AB = "202"
+B_H = "71"
+B_TB = "120"
+B_2B = "10"
+B_3B = "3"
+B_HR = "11"
+B_SB = "6"
+B_RBI = "44"
+B_AVG = ".351"
+
+
+[[person]]
+name.last = "Vukmire"
+name.given = "Mylon"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "76"
+B_AB = "249"
+B_H = "87"
+B_TB = "127"
+B_2B = "14"
+B_3B = "4"
+B_HR = "6"
+B_SB = "9"
+B_RBI = "45"
+B_AVG = ".349"
+
+
+[[person]]
+name.last = "Minnis"
+name.given = "Virl"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "108"
+B_AB = "413"
+B_H = "143"
+B_TB = "211"
+B_2B = "27"
+B_3B = "10"
+B_HR = "7"
+B_SB = "17"
+B_RBI = "100"
+B_AVG = ".346"
+
+
+[[person]]
+name.last = "Imperial"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "14"
+B_AB = "18"
+B_H = "6"
+B_TB = "6"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "3"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Pegram"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "35"
+B_AB = "111"
+B_H = "37"
+B_TB = "59"
+B_2B = "9"
+B_3B = "2"
+B_HR = "3"
+B_SB = "2"
+B_RBI = "25"
+B_AVG = ".333"
+
+
+[[person]]
+name.last = "Karpuk"
+name.given = "Peter"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "67"
+B_AB = "207"
+B_H = "68"
+B_TB = "101"
+B_2B = "12"
+B_3B = "6"
+B_HR = "3"
+B_SB = "3"
+B_RBI = "23"
+B_AVG = ".329"
+
+
+[[person]]
+name.last = "Heximer"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "116"
+B_AB = "476"
+B_H = "156"
+B_TB = "214"
+B_2B = "40"
+B_3B = "3"
+B_HR = "4"
+B_SB = "28"
+B_RBI = "77"
+B_AVG = ".328"
+
+
+[[person]]
+name.last = "Uhle"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "23"
+B_AB = "67"
+B_H = "22"
+B_TB = "30"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "11"
+B_AVG = ".328"
+
+
+[[person]]
+name.last = "Hearn"
+name.given = "Bernard"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "94"
+B_AB = "336"
+B_H = "110"
+B_TB = "155"
+B_2B = "17"
+B_3B = "5"
+B_HR = "6"
+B_SB = "5"
+B_RBI = "72"
+B_AVG = ".327"
+
+
+[[person]]
+name.last = "Gerken"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "48"
+B_AB = "163"
+B_H = "53"
+B_TB = "99"
+B_2B = "15"
+B_3B = "5"
+B_HR = "7"
+B_SB = "8"
+B_RBI = "37"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "Dussault"
+name.given = "Norman"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "86"
+B_AB = "326"
+B_H = "106"
+B_TB = "128"
+B_2B = "12"
+B_3B = "5"
+B_HR = "0"
+B_SB = "43"
+B_RBI = "35"
+B_AVG = ".325"
+
+
+[[person]]
+name.last = "McCarthy"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "79"
+B_AB = "290"
+B_H = "94"
+B_TB = "157"
+B_2B = "25"
+B_3B = "4"
+B_HR = "10"
+B_SB = "1"
+B_RBI = "62"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "Bain"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "11"
+B_AB = "31"
+B_H = "10"
+B_TB = "10"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "0"
+B_AVG = ".324"
+
+
+[[person]]
+name.last = "Fine"
+name.given = "Benjamin"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "15"
+B_AB = "50"
+B_H = "16"
+B_TB = "20"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SB = "2"
+B_RBI = "7"
+B_AVG = ".320"
+
+
+[[person]]
+name.last = "Mooradian"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "64"
+B_AB = "244"
+B_H = "78"
+B_TB = "92"
+B_2B = "6"
+B_3B = "4"
+B_HR = "0"
+B_SB = "21"
+B_RBI = "22"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "McQuaide"
+name.given = "Vincent"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "53"
+B_AB = "207"
+B_H = "66"
+B_TB = "86"
+B_2B = "14"
+B_3B = "3"
+B_HR = "0"
+B_SB = "7"
+B_RBI = "32"
+B_AVG = ".319"
+
+
+[[person]]
+name.last = "Small"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "108"
+B_AB = "407"
+B_H = "128"
+B_TB = "157"
+B_2B = "20"
+B_3B = "3"
+B_HR = "1"
+B_SB = "9"
+B_RBI = "51"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Klestenic"
+name.given = "Albert"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "35"
+B_AB = "140"
+B_H = "44"
+B_TB = "55"
+B_2B = "4"
+B_3B = "2"
+B_HR = "1"
+B_SB = "3"
+B_RBI = "15"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "Phelps"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "89"
+B_AB = "357"
+B_H = "112"
+B_TB = "177"
+B_2B = "26"
+B_3B = "9"
+B_HR = "7"
+B_SB = "3"
+B_RBI = "79"
+B_AVG = ".314"
+
+
+[[person]]
+name.last = "White"
+name.given = "James"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "22"
+B_AB = "74"
+B_H = "23"
+B_TB = "27"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SB = "2"
+B_RBI = "6"
+B_AVG = ".311"
+
+
+[[person]]
+name.last = "Thackston"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "71"
+B_AB = "242"
+B_H = "75"
+B_TB = "102"
+B_2B = "9"
+B_3B = "3"
+B_HR = "4"
+B_SB = "2"
+B_RBI = "37"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "McIntyre"
+name.given = "Manny"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "30"
+B_AB = "129"
+B_H = "40"
+B_TB = "45"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SB = "5"
+B_RBI = "17"
+B_AVG = ".310"
+
+
+[[person]]
+name.last = "McLean"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "117"
+B_AB = "444"
+B_H = "137"
+B_TB = "206"
+B_2B = "25"
+B_3B = "1"
+B_HR = "14"
+B_SB = "15"
+B_RBI = "75"
+B_AVG = ".309"
+
+
+[[person]]
+name.last = "McQuillen"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "75"
+B_AB = "278"
+B_H = "85"
+B_TB = "106"
+B_2B = "12"
+B_3B = "3"
+B_HR = "1"
+B_SB = "9"
+B_RBI = "31"
+B_AVG = ".306"
+
+
+[[person]]
+name.last = "Sabatini"
+name.given = "Roland"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "75"
+B_AB = "240"
+B_H = "73"
+B_TB = "86"
+B_2B = "3"
+B_3B = "5"
+B_HR = "0"
+B_SB = "9"
+B_RBI = "44"
+B_AVG = ".304"
+
+
+[[person]]
+name.last = "Midura"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "111"
+B_AB = "400"
+B_H = "121"
+B_TB = "166"
+B_2B = "26"
+B_3B = "4"
+B_HR = "5"
+B_SB = "9"
+B_RBI = "48"
+B_AVG = ".303"
+
+
+[[person]]
+name.last = "Smythe"
+name.given = "Harold"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "118"
+B_AB = "471"
+B_H = "142"
+B_TB = "196"
+B_2B = "15"
+B_3B = "15"
+B_HR = "3"
+B_SB = "23"
+B_RBI = "60"
+B_AVG = ".301"
+
+
+[[person]]
+name.last = "Gee"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "61"
+B_AB = "238"
+B_H = "71"
+B_TB = "100"
+B_2B = "15"
+B_3B = "4"
+B_HR = "2"
+B_SB = "4"
+B_RBI = "37"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Dulancy"
+name.given = "Ralph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "18"
+B_AB = "47"
+B_H = "14"
+B_TB = "17"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SB = "2"
+B_RBI = "10"
+B_AVG = ".298"
+
+
+[[person]]
+name.last = "Murray"
+name.given = "Gerald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "110"
+B_AB = "395"
+B_H = "117"
+B_TB = "182"
+B_2B = "21"
+B_3B = "7"
+B_HR = "10"
+B_SB = "3"
+B_RBI = "72"
+B_AVG = ".296"
+
+
+[[person]]
+name.last = "Washburn"
+name.given = "Richard"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "97"
+B_AB = "334"
+B_H = "98"
+B_TB = "125"
+B_2B = "13"
+B_3B = "3"
+B_HR = "2"
+B_SB = "29"
+B_RBI = "52"
+B_AVG = ".293"
+
+
+[[person]]
+name.last = "Kane"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "81"
+B_AB = "298"
+B_H = "87"
+B_TB = "107"
+B_2B = "13"
+B_3B = "2"
+B_HR = "1"
+B_SB = "9"
+B_RBI = "41"
+B_AVG = ".292"
+
+
+[[person]]
+name.last = "Proechel"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "70"
+B_AB = "227"
+B_H = "66"
+B_TB = "90"
+B_2B = "6"
+B_3B = "3"
+B_HR = "4"
+B_SB = "5"
+B_RBI = "54"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Thompson"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "85"
+B_AB = "302"
+B_H = "88"
+B_TB = "128"
+B_2B = "21"
+B_3B = "5"
+B_HR = "3"
+B_SB = "12"
+B_RBI = "55"
+B_AVG = ".291"
+
+
+[[person]]
+name.last = "Lay"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "116"
+B_AB = "461"
+B_H = "133"
+B_TB = "176"
+B_2B = "14"
+B_3B = "1"
+B_HR = "9"
+B_SB = "15"
+B_RBI = "70"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Vetter"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "25"
+B_AB = "69"
+B_H = "20"
+B_TB = "22"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "5"
+B_AVG = ".290"
+
+
+[[person]]
+name.last = "Rockey"
+name.given = "Edward"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "22"
+B_AB = "76"
+B_H = "22"
+B_TB = "30"
+B_2B = "5"
+B_3B = "0"
+B_HR = "1"
+B_SB = "2"
+B_RBI = "14"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Cooper"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "14"
+B_AB = "45"
+B_H = "13"
+B_TB = "13"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "9"
+B_AVG = ".289"
+
+
+[[person]]
+name.last = "Franks"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "49"
+B_AB = "168"
+B_H = "48"
+B_TB = "62"
+B_2B = "5"
+B_3B = "2"
+B_HR = "1"
+B_SB = "10"
+B_RBI = "24"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Hansen"
+name.given = "Alfred"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "25"
+B_AB = "104"
+B_H = "30"
+B_TB = "33"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SB = "5"
+B_RBI = "6"
+B_AVG = ".288"
+
+
+[[person]]
+name.last = "Bedard"
+name.given = "Roger"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "96"
+B_AB = "356"
+B_H = "102"
+B_TB = "177"
+B_2B = "11"
+B_3B = "10"
+B_HR = "6"
+B_SB = "8"
+B_RBI = "32"
+B_AVG = ".287"
+
+
+[[person]]
+name.last = "Kitchen"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "82"
+B_AB = "273"
+B_H = "78"
+B_TB = "107"
+B_2B = "12"
+B_3B = "4"
+B_HR = "3"
+B_SB = "6"
+B_RBI = "37"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "L'Heureux"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "19"
+B_AB = "56"
+B_H = "16"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "5"
+B_AVG = ".286"
+
+
+[[person]]
+name.last = "Pollard"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "55"
+B_AB = "195"
+B_H = "55"
+B_TB = "71"
+B_2B = "11"
+B_3B = "1"
+B_HR = "1"
+B_SB = "3"
+B_RBI = "34"
+B_AVG = ".282"
+
+
+[[person]]
+name.last = "Willette"
+name.given = "Felix"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "111"
+B_AB = "405"
+B_H = "114"
+B_TB = "160"
+B_2B = "27"
+B_3B = "5"
+B_HR = "3"
+B_SB = "13"
+B_RBI = "80"
+B_AVG = ".281"
+
+
+[[person]]
+name.last = "Jarrell"
+name.given = "Arnold"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "41"
+B_AB = "117"
+B_H = "36"
+B_TB = "39"
+B_2B = "3"
+B_3B = "0"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "13"
+B_AVG = ".279"
+
+
+[[person]]
+name.last = "Fanovich"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "56"
+B_AB = "155"
+B_H = "43"
+B_TB = "54"
+B_2B = "3"
+B_3B = "1"
+B_HR = "2"
+B_SB = "0"
+B_RBI = "25"
+B_AVG = ".277"
+
+
+[[person]]
+name.last = "Pavlik"
+name.given = "Hank"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "113"
+B_AB = "385"
+B_H = "105"
+B_TB = "184"
+B_2B = "19"
+B_3B = "6"
+B_HR = "16"
+B_SB = "11"
+B_RBI = "66"
+B_AVG = ".273"
+
+
+[[person]]
+name.last = "Schurba"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "110"
+B_AB = "406"
+B_H = "110"
+B_TB = "165"
+B_2B = "17"
+B_3B = "3"
+B_HR = "9"
+B_SB = "12"
+B_RBI = "61"
+B_AVG = ".271"
+
+
+[[person]]
+name.last = "Cabana"
+name.given = "Gerald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "38"
+B_AB = "152"
+B_H = "41"
+B_TB = "52"
+B_2B = "6"
+B_3B = "1"
+B_HR = "1"
+B_SB = "6"
+B_RBI = "17"
+B_AVG = ".270"
+
+
+[[person]]
+name.last = "Morneweg"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "111"
+B_AB = "386"
+B_H = "104"
+B_TB = "129"
+B_2B = "9"
+B_3B = "5"
+B_HR = "2"
+B_SB = "12"
+B_RBI = "63"
+B_AVG = ".269"
+
+
+[[person]]
+name.last = "Craine"
+name.given = "Ernest"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "68"
+B_AB = "198"
+B_H = "53"
+B_TB = "69"
+B_2B = "10"
+B_3B = "0"
+B_HR = "2"
+B_SB = "4"
+B_RBI = "23"
+B_AVG = ".268"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "100"
+B_AB = "415"
+B_H = "111"
+B_TB = "138"
+B_2B = "15"
+B_3B = "3"
+B_HR = "2"
+B_SB = "18"
+B_RBI = "41"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Fluharty"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "21"
+B_AB = "79"
+B_H = "24"
+B_TB = "33"
+B_2B = "3"
+B_3B = "0"
+B_HR = "2"
+B_SB = "1"
+B_RBI = "16"
+B_AVG = ".267"
+
+
+[[person]]
+name.last = "Brown"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "93"
+B_AB = "345"
+B_H = "91"
+B_TB = "113"
+B_2B = "10"
+B_3B = "3"
+B_HR = "2"
+B_SB = "10"
+B_RBI = "43"
+B_AVG = ".264"
+
+
+[[person]]
+name.last = "Subb"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "32"
+B_AB = "114"
+B_H = "30"
+B_TB = "37"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "12"
+B_AVG = ".263"
+
+
+[[person]]
+name.last = "Fogarty"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "24"
+B_AB = "84"
+B_H = "22"
+B_TB = "26"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "14"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "Zanovitch"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "87"
+B_AB = "325"
+B_H = "86"
+B_TB = "117"
+B_2B = "15"
+B_3B = "8"
+B_HR = "0"
+B_SB = "10"
+B_RBI = "46"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "Drews"
+name.given = "Roy"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "57"
+B_AB = "210"
+B_H = "55"
+B_TB = "87"
+B_2B = "8"
+B_3B = "2"
+B_HR = "9"
+B_SB = "8"
+B_RBI = "32"
+B_AVG = ".262"
+
+
+[[person]]
+name.last = "DiLallo"
+name.given = "Fred"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "57"
+B_AB = "205"
+B_H = "53"
+B_TB = "62"
+B_2B = "7"
+B_3B = "1"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "29"
+B_AVG = ".259"
+
+
+[[person]]
+name.last = "Jurcsak"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "19"
+B_AB = "62"
+B_H = "16"
+B_TB = "17"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "8"
+B_AVG = ".258"
+
+
+[[person]]
+name.last = "Magnarelli"
+name.given = "Armand"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "28"
+B_AB = "106"
+B_H = "27"
+B_TB = "28"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "2"
+B_RBI = "16"
+B_AVG = ".255"
+
+
+[[person]]
+name.last = "Anthony"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "32"
+B_AB = "127"
+B_H = "32"
+B_TB = "40"
+B_2B = "4"
+B_3B = "2"
+B_HR = "0"
+B_SB = "10"
+B_RBI = "8"
+B_AVG = ".252"
+
+
+[[person]]
+name.last = "Cleves"
+name.given = "Elmer"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "99"
+B_AB = "332"
+B_H = "84"
+B_TB = "115"
+B_2B = "13"
+B_3B = "3"
+B_HR = "4"
+B_SB = "8"
+B_RBI = "63"
+B_AVG = ".253"
+
+
+[[person]]
+name.last = "Doyle"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "108"
+B_AB = "356"
+B_H = "88"
+B_TB = "108"
+B_2B = "14"
+B_3B = "4"
+B_HR = "0"
+B_SB = "16"
+B_RBI = "45"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Barney"
+name.given = "Carl"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "19"
+B_AB = "73"
+B_H = "18"
+B_TB = "22"
+B_2B = "2"
+B_3B = "1"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "8"
+B_AVG = ".247"
+
+
+[[person]]
+name.last = "Lady"
+name.given = "Benjamin"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "61"
+B_AB = "134"
+B_H = "33"
+B_TB = "42"
+B_2B = "9"
+B_3B = "0"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "24"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Alltop"
+name.given = "Charles"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "75"
+B_AB = "272"
+B_H = "67"
+B_TB = "123"
+B_2B = "15"
+B_3B = "1"
+B_HR = "13"
+B_SB = "2"
+B_RBI = "54"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Flanagan"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "26"
+B_AB = "57"
+B_H = "14"
+B_TB = "20"
+B_2B = "3"
+B_3B = "0"
+B_HR = "1"
+B_SB = "0"
+B_RBI = "3"
+B_AVG = ".246"
+
+
+[[person]]
+name.last = "Lurel"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "82"
+B_AB = "282"
+B_H = "69"
+B_TB = "97"
+B_2B = "13"
+B_3B = "3"
+B_HR = "3"
+B_SB = "42"
+B_RBI = "27"
+B_AVG = ".245"
+
+
+[[person]]
+name.last = "McCoskey"
+name.given = "Lawrence"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "22"
+B_AB = "66"
+B_H = "16"
+B_TB = "21"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SB = "1"
+B_RBI = "3"
+B_AVG = ".242"
+
+
+[[person]]
+name.last = "Morriseau"
+name.given = "Roland"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "71"
+B_AB = "282"
+B_H = "68"
+B_TB = "76"
+B_2B = "6"
+B_3B = "1"
+B_HR = "0"
+B_SB = "13"
+B_RBI = "12"
+B_AVG = ".241"
+
+
+[[person]]
+name.last = "Zimmerman"
+name.given = "Oren"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "48"
+B_AB = "177"
+B_H = "42"
+B_TB = "46"
+B_2B = "4"
+B_3B = "0"
+B_HR = "0"
+B_SB = "7"
+B_RBI = "14"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Seamon"
+name.given = "Leonard"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "34"
+B_AB = "76"
+B_H = "18"
+B_TB = "24"
+B_2B = "2"
+B_3B = "2"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "10"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Zimmerman"
+name.given = "Robert R."
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "106"
+B_AB = "316"
+B_H = "75"
+B_TB = "99"
+B_2B = "13"
+B_3B = "4"
+B_HR = "1"
+B_SB = "4"
+B_RBI = "32"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Lockwood"
+name.given = "Harry"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "110"
+B_AB = "384"
+B_H = "91"
+B_TB = "112"
+B_2B = "15"
+B_3B = "3"
+B_HR = "0"
+B_SB = "4"
+B_RBI = "35"
+B_AVG = ".237"
+
+
+[[person]]
+name.last = "Bellamy"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "51"
+B_AB = "149"
+B_H = "35"
+B_TB = "42"
+B_2B = "7"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "15"
+B_AVG = ".235"
+
+
+[[person]]
+name.last = "Sancombe"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "19"
+B_AB = "60"
+B_H = "14"
+B_TB = "15"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "3"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Lee"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "60"
+B_AB = "133"
+B_H = "31"
+B_TB = "46"
+B_2B = "3"
+B_3B = "0"
+B_HR = "4"
+B_SB = "2"
+B_RBI = "15"
+B_AVG = ".233"
+
+
+[[person]]
+name.last = "Zande"
+name.given = "Augie"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "42"
+B_AB = "102"
+B_H = "23"
+B_TB = "25"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "2"
+B_AVG = ".225"
+
+
+[[person]]
+name.last = "Kolback"
+name.given = "Lou"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "32"
+B_AB = "125"
+B_H = "28"
+B_TB = "35"
+B_2B = "5"
+B_3B = "1"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "7"
+B_AVG = ".224"
+
+
+[[person]]
+name.last = "Sibal"
+name.given = "Michael"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "18"
+B_AB = "54"
+B_H = "12"
+B_TB = "22"
+B_2B = "2"
+B_3B = "1"
+B_HR = "2"
+B_SB = "0"
+B_RBI = "17"
+B_AVG = ".222"
+
+
+[[person]]
+name.last = "Teborelli"
+name.given = "Nicholas"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "18"
+B_AB = "59"
+B_H = "13"
+B_TB = "24"
+B_2B = "2"
+B_3B = "0"
+B_HR = "3"
+B_SB = "0"
+B_RBI = "7"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Pawlak"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "50"
+B_AB = "159"
+B_H = "35"
+B_TB = "43"
+B_2B = "3"
+B_3B = "1"
+B_HR = "1"
+B_SB = "1"
+B_RBI = "18"
+B_AVG = ".220"
+
+
+[[person]]
+name.last = "Zimmermann"
+name.given = "Robert"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "32"
+B_AB = "119"
+B_H = "26"
+B_TB = "35"
+B_2B = "3"
+B_3B = "2"
+B_HR = "1"
+B_SB = "2"
+B_RBI = "16"
+B_AVG = ".218"
+
+
+[[person]]
+name.last = "Gabriel"
+name.given = "Nicholas"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "81"
+B_AB = "283"
+B_H = "61"
+B_TB = "99"
+B_2B = "10"
+B_3B = "2"
+B_HR = "8"
+B_SB = "5"
+B_RBI = "41"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Horney"
+name.given = "Eugene"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "22"
+B_AB = "74"
+B_H = "16"
+B_TB = "18"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "2"
+B_RBI = "15"
+B_AVG = ".216"
+
+
+[[person]]
+name.last = "Koller"
+name.given = "Gerald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "16"
+B_AB = "52"
+B_H = "11"
+B_TB = "13"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "4"
+B_RBI = "4"
+B_AVG = ".212"
+
+
+[[person]]
+name.last = "Folkes"
+name.given = "Frederick"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "34"
+B_AB = "105"
+B_H = "22"
+B_TB = "27"
+B_2B = "3"
+B_3B = "1"
+B_HR = "0"
+B_SB = "2"
+B_RBI = "12"
+B_AVG = ".210"
+
+
+[[person]]
+name.last = "Yura"
+name.given = "Joseph"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "19"
+B_AB = "48"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "8"
+B_AVG = ".208"
+
+
+[[person]]
+name.last = "Washburn"
+name.given = "Henry"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "11"
+B_AB = "34"
+B_H = "7"
+B_TB = "9"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "2"
+B_AVG = ".206"
+
+
+[[person]]
+name.last = "Gubernat"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "114"
+B_AB = "416"
+B_H = "85"
+B_TB = "115"
+B_2B = "15"
+B_3B = "4"
+B_HR = "2"
+B_SB = "15"
+B_RBI = "30"
+B_AVG = ".204"
+
+
+[[person]]
+name.last = "Windt"
+name.given = "Warren"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "21"
+B_AB = "50"
+B_H = "10"
+B_TB = "11"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "2"
+B_AVG = ".200"
+
+
+[[person]]
+name.last = "Carruth"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "20"
+B_AB = "71"
+B_H = "14"
+B_TB = "16"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "2"
+B_RBI = "10"
+B_AVG = ".197"
+
+
+[[person]]
+name.last = "Busco"
+name.given = "Anthony"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "22"
+B_AB = "51"
+B_H = "10"
+B_TB = "17"
+B_2B = "2"
+B_3B = "1"
+B_HR = "1"
+B_SB = "0"
+B_RBI = "4"
+B_AVG = ".196"
+
+
+[[person]]
+name.last = "DeLuca"
+name.given = "Frank"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "22"
+B_AB = "31"
+B_H = "6"
+B_TB = "7"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "5"
+B_AVG = ".194"
+
+
+[[person]]
+name.last = "Hritz"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "28"
+B_AB = "57"
+B_H = "11"
+B_TB = "12"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "11"
+B_AVG = ".193"
+
+
+[[person]]
+name.last = "Rowe"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "40"
+B_AB = "99"
+B_H = "19"
+B_TB = "24"
+B_2B = "2"
+B_3B = "0"
+B_HR = "1"
+B_SB = "1"
+B_RBI = "5"
+B_AVG = ".192"
+
+
+[[person]]
+name.last = "Devlin"
+name.given = "Patrick"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "19"
+B_AB = "64"
+B_H = "12"
+B_TB = "12"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "3"
+B_RBI = "7"
+B_AVG = ".188"
+
+
+[[person]]
+name.last = "Marsell"
+name.given = "Kolin"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "45"
+B_AB = "102"
+B_H = "19"
+B_TB = "22"
+B_2B = "1"
+B_3B = "1"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "4"
+B_AVG = ".186"
+
+
+[[person]]
+name.last = "Tobin"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "22"
+B_AB = "27"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "0"
+B_AVG = ".185"
+
+
+[[person]]
+name.last = "Chalifoux"
+name.given = "Roland"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "26"
+B_AB = "66"
+B_H = "12"
+B_TB = "14"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "1"
+B_AVG = ".182"
+
+
+[[person]]
+name.last = "St. Denis"
+name.given = "Leon"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "35"
+B_AB = "95"
+B_H = "17"
+B_TB = "23"
+B_2B = "6"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "6"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Wagenhurst"
+name.given = "Howard"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "18"
+B_AB = "56"
+B_H = "10"
+B_TB = "18"
+B_2B = "5"
+B_3B = "0"
+B_HR = "1"
+B_SB = "0"
+B_RBI = "9"
+B_AVG = ".179"
+
+
+[[person]]
+name.last = "Mottola"
+name.given = "John"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "27"
+B_AB = "57"
+B_H = "10"
+B_TB = "12"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "10"
+B_AVG = ".176"
+
+
+[[person]]
+name.last = "Smith"
+name.given = "George"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "10"
+B_AB = "11"
+B_H = "3"
+B_TB = "3"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "0"
+B_AVG = ".171"
+
+
+[[person]]
+name.last = "Zuraw"
+name.given = "William"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[person.playing.totals]
+B_G = "21"
+B_AB = "47"
+B_H = "8"
+B_TB = "9"
+B_2B = "1"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "6"
+B_AVG = ".170"
+
+
+[[person]]
+name.last = "Dickison"
+name.given = "Virgil"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "14"
+B_AB = "30"
+B_H = "5"
+B_TB = "7"
+B_2B = "0"
+B_3B = "1"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "2"
+B_AVG = ".167"
+
+
+[[person]]
+name.last = "Schott"
+name.given = "Paul"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "21"
+B_AB = "43"
+B_H = "7"
+B_TB = "17"
+B_2B = "0"
+B_3B = "2"
+B_HR = "2"
+B_SB = "0"
+B_RBI = "9"
+B_AVG = ".163"
+
+
+[[person]]
+name.last = "Hachey"
+name.given = "Francis"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "11"
+B_AB = "25"
+B_H = "4"
+B_TB = "4"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "1"
+B_AVG = ".160"
+
+
+[[person]]
+name.last = "Dyche"
+name.given = "Walter"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "17"
+B_AB = "33"
+B_H = "5"
+B_TB = "7"
+B_2B = "2"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "3"
+B_AVG = ".152"
+
+
+[[person]]
+name.last = "Long"
+name.given = "Gerald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "65"
+B_AB = "316"
+B_H = "44"
+B_TB = "56"
+B_2B = "3"
+B_3B = "0"
+B_HR = "3"
+B_SB = "5"
+B_RBI = "23"
+B_AVG = ".139"
+
+
+[[person]]
+name.last = "Terry"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Kingston"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "30"
+B_AB = "82"
+B_H = "10"
+B_TB = "14"
+B_2B = "1"
+B_3B = "0"
+B_HR = "1"
+B_SB = "0"
+B_RBI = "6"
+B_AVG = ".122"
+
+
+[[person]]
+name.last = "McCormack"
+name.given = "Leo"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Ogdensburg"
+[person.playing.totals]
+B_G = "23"
+B_AB = "85"
+B_H = "10"
+B_TB = "16"
+B_2B = "0"
+B_3B = "0"
+B_HR = "2"
+B_SB = "1"
+B_RBI = "6"
+B_AVG = ".118"
+
+
+[[person]]
+name.last = "Lewis"
+name.given = "Rupert"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "19"
+B_AB = "48"
+B_H = "5"
+B_TB = "5"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "3"
+B_AVG = ".104"
+
+
+[[person]]
+name.last = "Knights"
+name.given = "Ross"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Watertown"
+[[person.playing.split]]
+team.name = "Sherbrooke"
+[person.playing.totals]
+B_G = "17"
+B_AB = "34"
+B_H = "2"
+B_TB = "2"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "1"
+B_AVG = ".059"
+
+
+[[person]]
+name.last = "Liddle"
+name.given = "Donald"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[person.playing.totals]
+B_G = "10"
+B_AB = "23"
+B_H = "1"
+B_TB = "1"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "0"
+B_AVG = ".043"
+
+
+[[person]]
+name.last = "Baldwin"
+name.given = "Kenneth"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Auburn"
+[[person.playing.split]]
+team.name = "Kingston"
+[person.playing.totals]
+B_G = "19"
+B_AB = "26"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "1"
+B_RBI = "0"
+B_AVG = ".000"
+
+
+[[person]]
+name.last = "D'Allesandro"
+name.given = "Placido"
+[[person.playing]]
+season = "1946"
+league.name = "Border League"
+phase = "regular"
+[[person.playing.split]]
+team.name = "Granby"
+[person.playing.totals]
+B_G = "12"
+B_AB = "13"
+B_H = "0"
+B_TB = "0"
+B_2B = "0"
+B_3B = "0"
+B_HR = "0"
+B_SB = "0"
+B_RBI = "0"
+B_AVG = ".000"
